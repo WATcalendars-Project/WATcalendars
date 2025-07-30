@@ -80,5 +80,5 @@ def test_connection_with_monitoring(url: str, description: str = None):
             print(f"{OK} Connection successful to {display_name} in {duration:.2f}s")
         
         except Exception as e:
-            print(f"{E} Failed to connect to {display_name}: {e}")
             browser.close()
+            print(f"{E} Failed to connect to {display_name}: {e}")
