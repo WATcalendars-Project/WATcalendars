@@ -63,7 +63,7 @@ def test_connection_with_monitoring(url: str, description: str = None):
             nonlocal request_count
             request_count += 1
             headers = dict(request.headers)
-            print(f"→ {request.method} {request.url}  |  Headers: {len(headers)} items")
+            print(f"→ {request.method} {request.url} (Headers: {len(headers)} items)")
 
         def log_response(response: Response):
             nonlocal response_count, total_bytes
