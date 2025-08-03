@@ -37,9 +37,6 @@ else
 fi
 
 declare -A system_dependencies
-system_dependencies[python3_binary]="python3"
-system_dependencies[pip3_binary]="pip3"
-system_dependencies[venv_binary]="python3 -m venv --help"
 system_dependencies[python3_packages]="python3"
 system_dependencies[pip3_packages]="python3-pip"
 system_dependencies[venv_packages]="python3-venv"
@@ -47,7 +44,7 @@ system_dependencies[venv_packages]="python3-venv"
 missing_system_dependencies=()
 
 # Check python3
-if ! command -v "${system_dependencies[python3_binary]}" > /dev/null 2>&1; then
+if ! command -v "python3" > /dev/null 2>&1; then
     echo -e "[INFO]: missing python3"
     missing_system_dependencies+=("${system_dependencies[python3_packages]}")
 else
@@ -55,7 +52,7 @@ else
 fi
 
 # Check pip3
-if ! command -v "${system_dependencies[pip3_binary]}" > /dev/null 2>&1; then
+if ! command -v "pip3" > /dev/null 2>&1; then
     echo -e "[INFO]: missing pip3"
     missing_system_dependencies+=("${system_dependencies[pip3_packages]}")
 else
@@ -63,11 +60,11 @@ else
 fi
 
 # Check python3-venv
-if ! command -v "${system_dependencies[venv_binary]}" > /dev/null 2>&1; then
+if python3 -c "import venv" 2>/dev/null; then
+    echo -e "[INFO]: found python3-venv"
+else
     echo -e "[INFO]: missing python3-venv"
     missing_system_dependencies+=("${system_dependencies[venv_packages]}")
-else
-    echo -e "[INFO]: found python3-venv"
 fi
 
 # Install missing system dependencies
@@ -94,19 +91,9 @@ if [ ! -d "venv" ]; then
     fi
     echo -e "Activating virtual environment..."
     source venv/bin/activate
-    if [ ! -f "venv/bin/activate" ]; then
-        echo -e "\033[0;31mE\033[0m: Virtual environment is broken or not created"
-        echo -e "Trying to reinstall python3-venv..."
-        sudo apt-get install --reinstall python3-venv
-        rm -rf venv
-        echo -e "Recreating virtual environment..."
-        python3 -m venv venv
-        echo -e "Activating virtual environment..."
-        source venv/bin/activate
-        if [ ! -f "venv/bin/activate" ]; then
-            echo -e "\033[0;31mE\033[0m: Failed to create or activate virtual environment"
-            exit 1
-        fi
+    if [ -z "$VIRTUAL_ENV" ]; then
+        echo -e "\033[0;31mE\033[0m: Failed to activate virtual environment"
+        exit 1
     else
         echo -e "\033[0;32mOK\033[0m: Virtual environment activated successfully"
     fi
@@ -120,20 +107,31 @@ else
         echo -e "Recreating virtual environment..."
         python3 -m venv venv
         if [ ! -f "venv/bin/activate" ]; then
-            echo -e "\033[0;31mE\033[0m: Failed to create or activate virtual environment"
+            echo -e "\033[0;31mE\033[0m: Failed to create virtual environment"
             exit 1
         fi
         echo -e "Activating virtual environment..."
         source venv/bin/activate
-        if [ ! -f "venv/bin/activate" ]; then
+        if [ -z "$VIRTUAL_ENV" ]; then
             echo -e "\033[0;31mE\033[0m: Failed to activate virtual environment"
             exit 1
         fi
     else
-        echo -e "\033[0;32mOK\033[0m: Virtual environment is running"
+        echo -e "\033[0;32mOK\033[0m: Virtual environment is available"
     fi
 fi
 
+# Activate virtual environment for package installation
+if [ -z "$VIRTUAL_ENV" ]; then
+    echo -e "Activating virtual environment..."
+    source venv/bin/activate
+    if [ -z "$VIRTUAL_ENV" ]; then
+        echo -e "\033[0;31mE\033[0m: Failed to activate virtual environment"
+        exit 1
+    fi
+else
+    echo -e "\033[0;32mOK\033[0m: Virtual environment is already active"
+fi
 
 # Check if requirements.txt exists
 if [ ! -f "requirements.txt" ]; then
@@ -141,24 +139,63 @@ if [ ! -f "requirements.txt" ]; then
     exit 1
 fi
 
-# Install Python modules from requirements.txt
-echo -e "Installing Python modules from requirements.txt..."
-if ! pip3 install -r requirements.txt; then
-    echo -e "\033[0;31mE\033[0m: Failed to install Python modules from requirements.txt"
-    exit 1
-else
-    echo -e "\033[0;32mOK\033[0m: Successfully installed Python modules from requirements.txt"
-fi
+# Check if dependencies in requirements.txt are already installed
+echo -e "Checking python modules in venv..."
+missing_packages=()
+while IFS= read -r package; do
+    if ! pip show "$package" > /dev/null 2>&1; then
+        missing_packages+=("$package")
+    fi
+done < requirements.txt
 
-# Check if playwright was installed and install its dependencies
-if pip3 show playwright > /dev/null 2>&1; then
-    echo -e "[INFO]: Installing Playwright dependencies..."
-    if ! playwright install-deps; then
-        echo -e "\033[0;31mE\033[0m: Failed to install Playwright dependencies"
+if [ ${#missing_packages[@]} -eq 0 ]; then
+    echo -e "\033[0;32mOK\033[0m: All required Python modules are already installed"
+else
+    echo -e "\033[0;33mW\033[0m: Some required Python modules are missing: ${missing_packages[*]}"
+    # Install Python modules from requirements.txt
+    echo -e "Installing Python modules from requirements.txt..."
+    if ! pip install -r requirements.txt; then
+        echo -e "\033[0;31mE\033[0m: Failed to install Python modules from requirements.txt"
         exit 1
     else
-        echo -e "\033[0;32mOK\033[0m: Successfully installed Playwright dependencies"
+        echo -e "\033[0;32mOK\033[0m: Successfully installed Python modules from requirements.txt"
+    fi
+fi
+
+# Check if playwright was installed and install its dependencies (only if not already done)
+if pip show playwright > /dev/null 2>&1; then
+    # Check if playwright browsers are already installed
+    if [ ! -f "venv/.playwright_installed" ]; then
+        echo -e "[INFO]: Installing Playwright dependencies..."
+        if ! playwright install-deps; then
+            echo -e "\033[0;31mE\033[0m: Failed to install Playwright dependencies"
+            exit 1
+        else
+            echo -e "\033[0;32mOK\033[0m: Successfully installed Playwright dependencies"
+            # Create a marker file to avoid reinstalling
+            touch venv/.playwright_installed
+        fi
+    else
+        echo -e "\033[0;32mOK\033[0m: Playwright dependencies already installed"
     fi
 fi
 
 echo -e "\033[0;32mOK\033[0m: All required Python modules are installed."
+
+echo -e ""
+echo -e "\033[1;34m=== How to run connection.py ====================\033[0m"
+echo -e "To test connections, use the test script:"
+echo -e ""
+echo -e "  \033[0;36m# Activate virtual environment first:\033[0m"
+echo -e "  source venv/bin/activate"
+echo -e ""
+echo -e "  \033[0;36m# Test USOS connection:\033[0m"
+echo -e "  python tests/run_connection.py usos --test"
+echo -e ""
+echo -e "  \033[0;36m# Test faculty groups (example for IOE summer):\033[0m"
+echo -e "  python tests/run_connection.py groups ioe url_lato --test"
+echo -e ""
+echo -e "  \033[0;36m# Available faculties: ioe, wcy, wel, wig, wim, wlo, wml, wtc\033[0m"
+echo -e "  \033[0;36m# Available URL types: url, url_lato, url_zima\033[0m"
+echo -e ""
+echo -e "\033[1;32mEnvironment is ready! You can now run the tests.\033[0m"
