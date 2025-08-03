@@ -181,21 +181,3 @@ if pip show playwright > /dev/null 2>&1; then
 fi
 
 echo -e "\033[0;32mOK\033[0m: All required Python modules are installed."
-
-echo -e ""
-echo -e "\033[1;34m=== How to run connection.py ====================\033[0m"
-echo -e "To test connections, use the test script:"
-echo -e ""
-echo -e "  \033[0;36m# Activate virtual environment first:\033[0m"
-echo -e "  source venv/bin/activate"
-echo -e ""
-echo -e "  \033[0;36m# Test USOS connection:\033[0m"
-echo -e "  python tests/run_connection.py usos --test"
-echo -e ""
-echo -e "  \033[0;36m# Test faculty groups (example for IOE summer):\033[0m"
-echo -e "  python tests/run_connection.py groups ioe url_lato --test"
-echo -e ""
-echo -e "  \033[0;36m# Available faculties: ioe, wcy, wel, wig, wim, wlo, wml, wtc\033[0m"
-echo -e "  \033[0;36m# Available URL types: url, url_lato, url_zima\033[0m"
-echo -e ""
-echo -e "\033[1;32mEnvironment is ready! You can now run the tests.\033[0m"
