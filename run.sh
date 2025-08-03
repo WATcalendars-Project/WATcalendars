@@ -49,7 +49,7 @@ missing_system_dependencies=()
 # Check python3
 if ! command -v "${system_dependencies[python3_binary]}" > /dev/null 2>&1; then
     echo -e "[INFO]: missing python3"
-    missing_system_dependencies+=("${system_dependencies[python3_binary]}")
+    missing_system_dependencies+=("${system_dependencies[python3_packages]}")
 else
     echo -e "[INFO]: found python3"
 fi
@@ -57,7 +57,7 @@ fi
 # Check pip3
 if ! command -v "${system_dependencies[pip3_binary]}" > /dev/null 2>&1; then
     echo -e "[INFO]: missing pip3"
-    missing_system_dependencies+=("${system_dependencies[pip3_binary]}")
+    missing_system_dependencies+=("${system_dependencies[pip3_packages]}")
 else
     echo -e "[INFO]: found pip3"
 fi
@@ -65,7 +65,7 @@ fi
 # Check python3-venv
 if ! command -v "${system_dependencies[venv_binary]}" > /dev/null 2>&1; then
     echo -e "[INFO]: missing python3-venv"
-    missing_system_dependencies+=("${system_dependencies[venv_binary]}")
+    missing_system_dependencies+=("${system_dependencies[venv_packages]}")
 else
     echo -e "[INFO]: found python3-venv"
 fi
