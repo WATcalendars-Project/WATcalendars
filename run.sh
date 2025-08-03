@@ -74,7 +74,7 @@ fi
 if [ ${#missing_system_dependencies[@]} -gt 0 ]; then
     echo -e "Installing missing system dependencies..."
     for dep in "${missing_system_dependencies[@]}"; do
-        if ! sudo apt-get install -y "$dep"; then
+        if ! sudo apt-get install "$dep" -y ; then
             echo -e "\033[0;31mE\033[0m: Failed to install $dep"
             exit 1
         else
