@@ -1,107 +1,132 @@
-from logutils import OK, W, E, INFO, SpinnerContext
+from logutils import OK, ERROR as E, GET, RESPONSE, log
+from url_loader import load_url_from_config
+from datetime import datetime
 
-def load_url_from_config(category: str, faculty: str = None, url_type: str = 'url'):
-    """
-    Loads a URL from the configuration based on the category and optional faculty.
-    
-    Args:
-        category: 'usos', 'groups', 'schedules', 'wat'
-        faculty: (for groups/schedules): 'wcy', 'ioe', 'wel', etc.
-        url_type: ('url', 'url_lato', 'url_zima')
-    
-    Returns:
-        Tuple (URL string, description) or (None, None) if not found
-    """
-    try:
-        from config import URL_CATEGORIES
-        
-        if category == 'usos':
-            from config import USOS_URLS
-            return USOS_URLS[0]['url'], USOS_URLS[0]['description']
-            
-        if category in URL_CATEGORIES:
-            urls = URL_CATEGORIES[category]
-            
-            if isinstance(urls, dict) and faculty:
-                if faculty in urls:
-                    url_data = urls[faculty][0]
-                    url = url_data[url_type]
-                    description = url_data['description']
-                    return url, description
-                else:
-                    print(f"{E} Unknown faculty '{faculty}'")
-                    return None, None
-
-        print(f"{E} Wrong category '{category}'")
-        return None, None
-        
-    except ImportError:
-        print(f"{E} Can't load config.py")
-        return None, None
-    except Exception as e:
-        print(f"{E} {e}")
-        return None, None
-    
+# Tests the connection to a URL with monitoring and logging
 def test_connection_with_monitoring(url: str, description: str = None):
-    """Testing + logging all HTTP requests"""
-
+    # Use Playwright to monitor the connection
+    # sync_playwright is used for synchronous execution
+    # requests and responses are logged
     from playwright.sync_api import sync_playwright, Request, Response
     import time
 
+    # Display name for the URL, using description (description from config) if available
     display_name = description if description else url
 
-    with sync_playwright() as p:
-        browser = p.chromium.launch()
-        page = browser.new_page()
+    # Counters for summary
+    request_count = 0
+    response_count = 0 
+    total_bytes = 0
+    
+    # Storage for logs that will be displayed after spinner completes
+    logs = []
 
-        # Counters for summary
-        request_count = 0
-        response_count = 0
-        total_bytes = 0
-
-        def log_request(request: Request):
-            nonlocal request_count
-            request_count += 1
-            headers = dict(request.headers)
-            print(f"→ {request.method} {request.url} (Headers: {len(headers)} items)")
-
-        def log_response(response: Response):
-            nonlocal response_count, total_bytes
-            response_count += 1
-            try:
-                body = response.body()
-                size = len(body) if body else 0
-                total_bytes += size
-                print(f"← {response.status} {response.url} ({size} bytes)")
-            except Exception:
-                print(f"← {response.status} {response.url} (size unknown)")
-
-        page.on("request", log_request)
-        page.on("response", log_response)
-
-        try:
-            print(f"Checking connection to {display_name}...")
-            print(f"{INFO} URL: {url}")
-            start_time = time.time()
-            
-            # Spinner during page loading
-            with SpinnerContext("Loading"):
-                page.goto(url)
-            
-            duration = time.time() - start_time
-            browser.close()
-            
-            # Summary before OK log
-            if total_bytes > 1024 * 1024:
-                size_str = f"{total_bytes / (1024 * 1024):.1f} MB"
-            elif total_bytes > 1024:
-                size_str = f"{total_bytes / 1024:.1f} KB"
-            else:
-                size_str = f"{total_bytes} bytes"
-            
-            print(f"{INFO} Summary: {request_count} requests, {response_count} responses, {size_str} received")
-            print(f"{OK} Connection successful to {display_name} in {duration:.2f}s")
+    def perform_connection_test():
+        nonlocal request_count, response_count, total_bytes, logs
         
-        except Exception as e:
-            browser.close()
-            print(f"{E} Failed to connect to {display_name}: {e}")
+        # Print initial info
+        print(f"URL: {url}")
+        
+        with sync_playwright() as p:
+            # Launch a browser instance
+            # Using Chromium for better compatibility with most websites
+            browser = p.chromium.launch()
+            # Create a new page in the browser
+            # This page will be used to navigate to the URL and monitor requests/responses
+            page = browser.new_page()
+
+            def log_request(request: Request):
+                # Log the request details
+                nonlocal request_count
+                request_count += 1
+                current_request_count = request_count  # Capture current count
+                
+                # Format the request URL for display
+                log_entry = f"{GET} {request.method}:{current_request_count} {request.url}"
+                # add the log entry to the logs list
+                logs.append(log_entry)
+                
+                # Print log above the spinner line
+                print(f"\r{' ' * 80}\r{log_entry}")
+                
+            def log_response(response: Response):
+                # Log the response details
+                nonlocal response_count, total_bytes
+                response_count += 1
+                current_response_count = response_count  # Capture current count
+                
+                try:
+                    # Get the response body size
+                    body = response.body()
+                    # If body is None, size is 0
+                    # Use len(body) to get the size of the response body
+                    size = len(body) if body else 0
+                    total_bytes += size
+
+                    # Format the size for display
+                    if size > 1024 * 1024:
+                        size_str = f"{size / (1024 * 1024):.1f} MB"
+                    elif size > 1024:
+                        size_str = f"{size / 1024:.1f} kB"
+                    else:
+                        size_str = f"{size} B"
+                    
+                    # Log entry for response
+                    log_entry = f"{RESPONSE} {response.status}:{current_response_count} {response.url} [{size_str}]"
+                    # add the log entry to the logs list
+                    logs.append(log_entry)
+                    
+                    # Print log above the spinner line
+                    print(f"\r{' ' * 80}\r{log_entry}")
+
+                # If there's an error getting the body, print the status and URL
+                except Exception:
+                    log_entry = f"{RESPONSE} {response.status}:{current_response_count} {response.url} [size unknown]"
+                    logs.append(log_entry)
+                    
+                    # Print log above the spinner line
+                    print(f"\r{' ' * 80}\r{log_entry}")
+
+            # Attach request and response logging
+            page.on("request", log_request)
+            page.on("response", log_response)
+
+            # Start the connection test
+            try:
+                start_time = time.time()
+                
+                # Navigate to URL
+                page.goto(url)
+                
+                duration = time.time() - start_time
+                browser.close()
+                
+                return duration
+                
+            except Exception as e:
+                browser.close()
+                raise e
+    
+    try:
+        # Use the log function with spinner
+        duration = log(f"Checking connection to ({display_name})", perform_connection_test)
+        
+        # Summary
+        if total_bytes > 1024 * 1024:
+            total_size_str = f"{total_bytes / (1024 * 1024):.1f} MB"
+        elif total_bytes > 1024:
+            total_size_str = f"{total_bytes / 1024:.1f} kB"
+        else:
+            total_size_str = f"{total_bytes} B"
+
+        # Calculate speed
+        speed_size = total_bytes / duration
+        speed = f"{speed_size / 1024:.1f} kB/s" if speed_size > 1024 else f"{speed_size:.1f} B/s"
+
+        # Print the summary of requests, responses, and total size
+        print(f"{OK} Connection successful.")
+        print(f"Summary: {request_count} requests, {response_count} responses")
+        print(f"Received {total_size_str} in {duration:.2f}s ({speed})")
+    
+    except Exception as e:
+        print(f"{E} Failed to connect to {display_name}: {e}")
