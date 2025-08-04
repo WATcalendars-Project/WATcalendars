@@ -8,7 +8,7 @@ USOS_URLS = [
     }
 ]
 
-# URL-e dla grup studenckich
+# URL-e for groups
 GROUP_URLS = {
     'ioe': [
         {
@@ -118,7 +118,7 @@ SCHEDULE_URLS = {
     ]
 }
 
-# Wszystkie dostępne kategorie URL-i
+# URL Categories for easier access in connection.py and ...
 URL_CATEGORIES = {
     'schedules': SCHEDULE_URLS,
     'groups': GROUP_URLS,
