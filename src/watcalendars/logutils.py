@@ -79,6 +79,15 @@ INFO = f"[{BRIGHT_BLUE}INFO{RESET}]:"
 OK = f"{GREEN}OK{RESET}:"
 
 
+# Helper function to log message and print it with clearing line
+
+# Args:
+#     message (str): Message to log and print
+#     logs_list (list, optional): List to append log entry to
+def log_entry(message, logs_list=None):
+    if logs_list is not None:
+        logs_list.append(message)
+    print(f"\r{' ' * 80}\r{message}")
 
 # Function to run a task with a spinner
 # Use:
