@@ -1,15 +1,12 @@
-from logutils import OK, ERROR as E, GET, RESPONSE, log
-from url_loader import load_url_from_config
-from datetime import datetime
+from logutils import OK, ERROR as E, GET, RESPONSE, log_entry, log
+from playwright.sync_api import sync_playwright, Request, Response
+import time
 
 # Tests the connection to a URL with monitoring and logging
 def test_connection_with_monitoring(url: str, description: str = None):
     # Use Playwright to monitor the connection
     # sync_playwright is used for synchronous execution
     # requests and responses are logged
-    from playwright.sync_api import sync_playwright, Request, Response
-    import time
-
     # Display name for the URL, using description (description from config) if available
     display_name = description if description else url
 
@@ -40,15 +37,9 @@ def test_connection_with_monitoring(url: str, description: str = None):
                 nonlocal request_count
                 request_count += 1
                 current_request_count = request_count  # Capture current count
-                
-                # Format the request URL for display
-                log_entry = f"{GET} {request.method}:{current_request_count} {request.url}"
-                # add the log entry to the logs list
-                logs.append(log_entry)
-                
-                # Print log above the spinner line
-                print(f"\r{' ' * 80}\r{log_entry}")
-                
+
+                log_entry(f"{GET} {request.method}:{current_request_count} {request.url}", logs)
+
             def log_response(response: Response):
                 # Log the response details
                 nonlocal response_count, total_bytes
@@ -71,21 +62,11 @@ def test_connection_with_monitoring(url: str, description: str = None):
                     else:
                         size_str = f"{size} B"
                     
-                    # Log entry for response
-                    log_entry = f"{RESPONSE} {response.status}:{current_response_count} {response.url} [{size_str}]"
-                    # add the log entry to the logs list
-                    logs.append(log_entry)
-                    
-                    # Print log above the spinner line
-                    print(f"\r{' ' * 80}\r{log_entry}")
+                    log_entry(f"{RESPONSE} {response.status}:{current_response_count} {response.url} [{size_str}]", logs)
 
                 # If there's an error getting the body, print the status and URL
                 except Exception:
-                    log_entry = f"{RESPONSE} {response.status}:{current_response_count} {response.url} [size unknown]"
-                    logs.append(log_entry)
-                    
-                    # Print log above the spinner line
-                    print(f"\r{' ' * 80}\r{log_entry}")
+                    log_entry(f"{RESPONSE} {response.status}:{current_response_count} {response.url} [size unknown]", logs)
 
             # Attach request and response logging
             page.on("request", log_request)
