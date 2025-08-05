@@ -115,7 +115,7 @@ async def scrape_page(page, url, page_num):
             # Print the status of the scraping
             if retry_count > 0:
                 time.sleep(0.3)
-                log_entry(f"Finished scraping page ({page_num}/{total_pages}) at {retry_count} retries", logs)
+                log_entry(f"Finished scraping page ({page_num}/{total_pages}) at {retry_count} retries.  Found {len(page_employees)} employees.", logs)
             else:
                 time.sleep(0.3)
                 log_entry(f"Finished scraping page ({page_num}/{total_pages})  found {len(page_employees)} employees.", logs)
