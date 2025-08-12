@@ -28,14 +28,14 @@ GROUP_URLS = {
             'description': 'WEL groups'
         }
     ],
-    """
-    'wig': [
-        {
-            'url': '',
-            'description': 'WIG groups'
-        }
-    ],
-    """
+    
+    # 'wig': [
+    #     {
+    #         'url': '',
+    #         'description': 'WIG groups'
+    #     }
+    # ],
+    
     'wim': [
         {
             'url_lato': 'https://www.wim.wat.edu.pl/wp-content/uploads/rozklady/lato/index.xml',
@@ -82,14 +82,14 @@ SCHEDULE_URLS = {
             'description': 'WEL {group} schedule'
         }
     ],
-    """
-    'wig': [
-        {
-            'url': '',
-            'description': 'WIG {group} schedule'
-        }
-    ],
-    """
+    
+    # 'wig': [
+    #     {
+    #         'url': '',
+    #         'description': 'WIG {group} schedule'
+    #     }
+    # ],
+    
     'wim': [
         {
             'url_lato': 'https://www.wim.wat.edu.pl/wp-content/uploads/rozklady/lato/{group}.htm',
@@ -102,14 +102,14 @@ SCHEDULE_URLS = {
             'description': 'WLO {group} schedule'
         }
     ],
-    """
-    'wml': [
-        {
-            'url': 'https://wml.wat.edu.pl/rozklady-zajec/',
-            'description': 'WML {group} schedule'
-        }
-    ],
-    """
+    
+    # 'wml': [
+    #     {
+    #         'url': 'https://wml.wat.edu.pl/rozklady-zajec/',
+    #         'description': 'WML {group} schedule'
+    #     }
+    # ],
+    
     'wtc': [
         {
             'url': 'https://www.wtc.wat.edu.pl/Plany/{group}.htm',
