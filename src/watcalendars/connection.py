@@ -90,7 +90,7 @@ def test_connection_with_monitoring(url: str, description: str = None):
     
     try:
         # Use the log function with spinner
-        duration = log(f"Checking connection to ({display_name})", perform_connection_test)
+        duration = log(f"Checking connection to ({display_name})...", perform_connection_test)
         
         # Summary
         if total_bytes > 1024 * 1024:
