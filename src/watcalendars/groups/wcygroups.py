@@ -4,6 +4,7 @@
 import sys
 import os
 import time
+import re
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from logutils import OK, WARNING as W, ERROR as E, INFO, log_entry, log
 from url_loader import load_url_from_config 
@@ -13,7 +14,7 @@ from datetime import datetime
 
 
 def amount_of_groups_detection(url):
-    print(f"\n{INFO} Find max number of pages to scrape.")
+    print(f"\n{INFO} Find max number of groups to scrape.")
 
     logs =[]
 
@@ -27,6 +28,8 @@ def amount_of_groups_detection(url):
             html = page.content()
             soup = BeautifulSoup(html, "html.parser")
             browser.close()
+        # Extracting group options from the HTML
+        # The options are expected to be in a <select> element, typically with a class or id.
         groups = [option.text.strip() for option in soup.find_all("option") if option.text.strip()]
         groups = [group for group in groups if "- Wybierz grupę -" not in group]
         groups = [group.rstrip(".") for group in groups]
@@ -62,15 +65,20 @@ def scrape_groups_playwright(url):
             log_entry(f"Open page for scraping", logs)
             for option in options:
                 group = option.text.strip()
+                # This checks if the group is not empty and does not contain the placeholder text
+                # placeholder text is "- Wybierz grupę -"
                 if group and "- Wybierz grupę -" not in group:
+                    # Remove trailing period if present
+                    # This is to ensure that the group name is clean
+                    # and does not end with a period.
                     group = group.rstrip(".")
                     groups.append(group)
-            log_entry(f"{OK} Scraped {len(groups)} groups.", logs)
             browser.close()
 
         return groups
 
     groups = log("Scraping groups names... ", log_scrape_groups)
+    print(f"{OK} Scraped {len(groups)} groups.")
     return groups
 
 
@@ -91,6 +99,7 @@ def save_to_file(groups):
                     for line in f:
                         if line.strip() and not line.startswith("#"):
                             group_name = line.strip()
+                            group_name = re.sub(r"\s+\[NEW\]$", "", group_name)
                             existing_groups.add(group_name)
             except Exception:
                 pass
@@ -121,7 +130,7 @@ def save_to_file(groups):
 if __name__ == "__main__":
     start_time = time.time()
     print(f"{INFO} Start of WCY groups scraper {datetime.now().strftime('%Y-%m-%d %H:%M')}")
-    # Check connection to WCY website
+
     print(f"\n{INFO} Connection to WCY website with groups.")
 
     url, description = load_url_from_config(category="groups", faculty="wcy", url_type="url")
