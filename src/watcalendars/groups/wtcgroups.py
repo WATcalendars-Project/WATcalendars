@@ -14,11 +14,23 @@ from url_loader import load_url_from_config
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 
-GROUP_PATTERN = re.compile(r'^WTC\w+$')  # general pattern for WTC group names
+# More flexible: allow tokens like WTC22CO1S0, WTD23XX..., any 2-5 upper letters + 2 digits (year) + alphanum tail
+GENERIC_GROUP_RE = re.compile(r'^[A-Z]{2,5}\d{2}[A-Z0-9]{2,}$')
+LEGACY_PREFIX = 'WTC'
+
+
+def is_group_candidate(token: str) -> bool:
+    if not token or ' ' in token or len(token) > 40:
+        return False
+    if token.startswith(LEGACY_PREFIX):
+        return True
+    if GENERIC_GROUP_RE.match(token):
+        return True
+    return False
 
 
 def scrape_groups_wtc(url):
-    print(f"\n{INFO} Scrape WTC groups.")
+    print(f"\n{INFO} Scrape WTC groups (flexible mode).")
     logs = []
 
     def log_scrape():
@@ -37,23 +49,20 @@ def scrape_groups_wtc(url):
         for a in soup.find_all('a', href=True):
             href = a['href']
             text = a.get_text(strip=True)
-            if href.endswith('.htm') and 'Plany' in href and text.startswith('WTC'):
+            if href.endswith('.htm') and 'Plany' in href and is_group_candidate(text):
                 groups_found.add(text)
 
-        # Strategy 2: plain text tokens in the section under header containing 'Grupy'
-        # Collect all stripped strings and test regex
+        # Strategy 2: plain text tokens anywhere
         for token in soup.stripped_strings:
-            if token.startswith('WTC') and ' ' not in token and len(token) < 40:
-                if GROUP_PATTERN.match(token):
-                    groups_found.add(token)
+            if is_group_candidate(token):
+                groups_found.add(token)
 
-        # Clean possible trailing punctuation
         cleaned = {g.rstrip('.') for g in groups_found}
         log_entry(f"Extracted {len(cleaned)} raw group names", logs)
         return sorted(cleaned)
 
     groups = log("Scraping WTC groups list... ", log_scrape)
-    print(f"{OK} Scraped {len(groups)} WTC groups.")
+    print(f"{OK} Scraped {len(groups)} WTC groups (flexible).")
     return groups
 
 
@@ -82,7 +91,7 @@ def save_to_file(groups):
         new_groups = normalized - existing_groups
         all_groups = existing_groups | normalized
         with open(filename, 'w', encoding='utf-8') as f:
-            f.write('# WTC Groups list\n')
+            f.write('# WTC Groups list (flexible detection)\n')
             f.write(f"# Last updated: {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
             f.write(f"# Total number of groups: {len(all_groups)}\n")
             if new_groups:
@@ -108,9 +117,13 @@ if __name__ == '__main__':
     start_time = time.time()
     print(f"{INFO} Start of WTC groups scraper {datetime.now().strftime('%Y-%m-%d %H:%M')}")
 
-    url, description = load_url_from_config(category='groups', faculty='wtc', url_type='url')
+    print(f"\n{INFO} Connection to WTC website with groups.")
+
+    url, description = load_url_from_config(category="groups", faculty="wtc", url_type="url")
+    from connection import test_connection_with_monitoring 
+    test_connection_with_monitoring(url, description)
     if not url:
-        print(f"{E} No URL configured for WTC groups.")
+        print(f"{E} No URL for groups.")
         sys.exit(1)
 
     try:
