@@ -13,54 +13,48 @@ from url_loader import load_url_from_config
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 
-# Flexible pattern: allow existing IOE* plus generic 2-5 letters + 2 digits + trailing alphanum
-GENERIC_GROUP_RE = re.compile(r'^[A-Z]{2,5}\d{2}[A-Z0-9]{2,}$')
-LEGACY_PREFIX = 'IOE'
-
-def is_group_candidate(token: str) -> bool:
-    if not token or ' ' in token or len(token) > 40:
-        return False
-    if token.startswith(LEGACY_PREFIX):
-        return True
-    if GENERIC_GROUP_RE.match(token):
-        return True
-    return False
-
+# --- SIMPLE APPROACH: first <td valign="TOP">, collect all .htm/.html href basenames ---
 
 def scrape_groups_ioe(url):
-    print(f"\n{INFO} Scrape IOE groups (flexible mode).")
+    print(f"\n{INFO} Scrape IOE groups (simple column mode).")
     logs = []
 
     def log_scrape():
-        groups_found = set()
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True, args=[
                 '--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-gpu'
             ])
             page = browser.new_page(user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0 Safari/537.36")
-            page.goto(url, timeout=20000)
+            page.goto(url, timeout=25000)
             html = page.content()
             browser.close()
         soup = BeautifulSoup(html, 'html.parser')
 
-        # Strategy 1: links to individual schedules
-        for a in soup.find_all('a', href=True):
+        first_td = None
+        for td in soup.find_all('td'):
+            if td.get('valign', '').upper() == 'TOP':
+                first_td = td
+                break
+        if not first_td:
+            log_entry("No <td valign=TOP> found – abort.", logs)
+            return []
+
+        groups = set()
+        for a in first_td.find_all('a', href=True):
             href = a['href']
-            text = a.get_text(strip=True)
-            if href.endswith('.htm') and 'Plany' in href and is_group_candidate(text):
-                groups_found.add(text)
-
-        # Strategy 2: plain text tokens
-        for token in soup.stripped_strings:
-            if is_group_candidate(token):
-                groups_found.add(token)
-
-        cleaned = {g.rstrip('.') for g in groups_found}
-        log_entry(f"Extracted {len(cleaned)} raw group names", logs)
-        return sorted(cleaned)
+            if not href.lower().endswith(('.htm', '.html')):
+                continue
+            base = href.rsplit('/', 1)[-1].split('?')[0].split('#')[0]
+            base_no_ext = re.sub(r'\.(?:htm|html)$', '', base, flags=re.IGNORECASE).strip()
+            if not base_no_ext:
+                continue
+            token = '_'.join(base_no_ext.split())
+            groups.add(token)
+        log_entry(f"Collected {len(groups)} groups from the first column.", logs)
+        return sorted(groups)
 
     groups = log("Scraping IOE groups list... ", log_scrape)
-    print(f"{OK} Scraped {len(groups)} IOE groups (flexible).")
+    print(f"{OK} Scraped {len(groups)} IOE groups (simple).")
     return groups
 
 
@@ -69,43 +63,41 @@ def save_to_file(groups):
     db_dir = os.path.join(script_dir, "..", "..", "..", "db", "groups")
     os.makedirs(db_dir, exist_ok=True)
     filename = os.path.join(db_dir, "ioe.txt")
-    if not os.path.exists(filename):
-        print(f"Created a new db file for IOE groups: '{os.path.abspath(filename)}'")
-    else:
-        print(f"Using existing db file for IOE groups: '{os.path.abspath(filename)}'")
+
+    def parse_existing():
+        existing = set()
+        if not os.path.exists(filename):
+            return existing
+        try:
+            with open(filename, 'r', encoding='utf-8') as f:
+                for line in f:
+                    line = line.strip()
+                    if not line or line.startswith('#'):
+                        continue
+                    existing.add(re.sub(r"\s+\[NEW\]$", "", line))
+        except Exception:
+            pass
+        return existing
 
     def save_log():
-        existing_groups = set()
-        if os.path.exists(filename):
-            try:
-                with open(filename, 'r', encoding='utf-8') as f:
-                    for line in f:
-                        if line.strip() and not line.startswith('#'):
-                            name = re.sub(r"\s+\[NEW\]$", "", line.strip())
-                            existing_groups.add(name)
-            except Exception:
-                pass
-        normalized = set(g.strip() for g in groups)
-        new_groups = normalized - existing_groups
-        all_groups = existing_groups | normalized
+        existing = parse_existing()
+        current = set(groups)
+        new_groups = current - existing
         with open(filename, 'w', encoding='utf-8') as f:
-            f.write('# IOE Groups list (flexible detection)\n')
+            f.write('# IOE Groups list (simple column extraction)\n')
             f.write(f"# Last updated: {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
-            f.write(f"# Total number of groups: {len(all_groups)}\n")
-            if new_groups:
-                f.write(f"# New groups found in this run: {len(new_groups)}\n")
-            f.write('\n')
-            for g in sorted(all_groups):
+            f.write(f"# Total number of groups: {len(current)}\n")
+            f.write(f"# New groups in this run: {len(new_groups)}\n")
+            f.write('# Format: one token (href basename) per line; new ones marked with [NEW]\n\n')
+            for g in sorted(current):
                 marker = ' [NEW]' if g in new_groups else ''
                 f.write(f"{g}{marker}\n")
-        return len(new_groups), len(all_groups)
+        return len(new_groups), len(current)
 
     try:
-        new_count, total_count = log("Processing IOE groups data... ", save_log)
-        if new_count > 0:
-            print(f"{OK} Saved {new_count} new groups (marked with [NEW]) in '{filename}'.")
-        else:
-            print(f"[INFO]: No new IOE groups found since last run.")
+        new_count, total_count = log("Saving IOE groups file... ", save_log)
+        if new_count:
+            print(f"{OK} {new_count} new IOE groups (marked with [NEW]).")
         print(f"[INFO]: Total IOE groups: {total_count} in '{os.path.abspath(filename)}'.")
     except Exception as e:
         print(f"{E} {e}")
@@ -118,7 +110,7 @@ if __name__ == '__main__':
     print(f"\n{INFO} Connection to IOE website with groups.")
 
     url, description = load_url_from_config(category="groups", faculty="ioe", url_type="url_lato")
-    from connection import test_connection_with_monitoring 
+    from connection import test_connection_with_monitoring
     test_connection_with_monitoring(url, description)
     if not url:
         print(f"{E} No URL for groups.")
