@@ -737,7 +737,7 @@ if __name__ == '__main__':
 
     print(f"\n{INFO} Connection to WLO website with schedules.")
 
-    url_pattern, desc = load_url_from_config(category="schedules", faculty="wlo", url_type="url_lato")
+    url_pattern, desc = load_url_from_config(key="wlo_schedule", url_type="url_lato")
     from connection import test_connection_with_monitoring 
     test_connection_with_monitoring(url_pattern, desc)
     if not url_pattern:

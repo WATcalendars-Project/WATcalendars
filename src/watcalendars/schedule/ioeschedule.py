@@ -338,7 +338,7 @@ if __name__ == '__main__':
     start=time.time()
     print(f"{INFO} Start IOE schedules scraper {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     print(f"\n{INFO} Connection to IOE website with schedules.")
-    url_pattern, desc = load_url_from_config(category="schedules", faculty="ioe", url_type="url_lato")
+    url_pattern, desc = load_url_from_config(key="ioe_schedule", url_type="url_lato")
     from connection import test_connection_with_monitoring
     test_connection_with_monitoring(url_pattern, desc)
     if not url_pattern:

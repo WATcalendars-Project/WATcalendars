@@ -394,7 +394,7 @@ if __name__=='__main__':
     start=time.time()
     print(f"{INFO} Start WEL schedules scraper {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     print(f"\n{INFO} Connection to WEL website with schedules.")
-    url_pattern, desc = load_url_from_config(category='schedules', faculty='wel', url_type='url_lato')
+    url_pattern, desc = load_url_from_config(key='wel_schedule', url_type='url_lato')
     from connection import test_connection_with_monitoring
     test_connection_with_monitoring(url_pattern, desc)
     if not url_pattern:

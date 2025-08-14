@@ -246,7 +246,7 @@ if __name__ == "__main__":
 
     print(f"\n{INFO} Connection to WCY website with groups.")
 
-    url, description = load_url_from_config(category="schedules", faculty="wcy", url_type="url")
+    url, description = load_url_from_config(key="wcy_schedule", url_type="url")
     from connection import test_connection_with_monitoring 
     test_connection_with_monitoring(url, description)
     if not url:

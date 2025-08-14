@@ -595,7 +595,7 @@ if __name__ == '__main__':
 
     print(f"\n{INFO} Connection to WTC website with groups.")
 
-    url_pattern, desc = load_url_from_config(category="schedules", faculty="wtc", url_type="url")
+    url_pattern, desc = load_url_from_config(key="wtc_schedule", url_type="url")
     from connection import test_connection_with_monitoring 
     test_connection_with_monitoring(url_pattern, desc)
     if not url_pattern:
