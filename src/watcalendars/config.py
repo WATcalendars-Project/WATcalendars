@@ -1,126 +1,127 @@
 # Servers URL's configuration for the WatCalendars application.
 
 # Main USOS URL's
-USOS_URLS = [
-    {
-        'url': 'https://usos.wat.edu.pl/kontroler.php?_action=katalog2/osoby/pracownicyJednostki&jed_org_kod=A000000',
-        'description': 'USOS server - employees'
-    }
-]
+URL = {
+    'usos': [
+        {
+            'url': 'https://usos.wat.edu.pl/kontroler.php?_action=katalog2/osoby/pracownicyJednostki&jed_org_kod=A000000',
+            'description': 'USOS server - employees'
+        },
+    ],
 
-# URL-e for groups
-GROUP_URLS = {
-    'ioe': [
+############################## GROUPS URL's ##############################
+
+    'ioe_groups': [
         {
             'url_lato': 'https://ioe.wat.edu.pl/plany/lato/index.xml',
             'description': 'IOE groups'
         }
     ],
-    'wcy': [
+
+    'wcy_groups': [
         {
             'url': 'https://planzajec.wcy.wat.edu.pl/rozklad',
             'description': 'WCY groups'
         }
     ],
-    'wel': [
+
+    'wel_groups': [
         {
             'url_lato': 'https://plany.wel.wat.edu.pl/lato/index.xml',
             'description': 'WEL groups'
         }
     ],
     
-    # 'wig': [
+    # 'wig_groups': [
     #     {
     #         'url': '',
     #         'description': 'WIG groups'
     #     }
     # ],
     
-    'wim': [
+    'wim_groups': [
         {
             'url_lato': 'https://www.wim.wat.edu.pl/wp-content/uploads/rozklady/lato/index.xml',
             'description': 'WIM groups'
         }
     ],
-    'wlo': [
+
+    'wlo_groups': [
         {
             'url_lato': 'https://wlo.wat.edu.pl/planzajec/letni/index.xml',
             'description': 'WLO groups'
         }
     ],
-    'wml': [
+
+    'wml_groups': [
         {
             'url': 'https://wml.wat.edu.pl/rozklady-zajec/',
             'description': 'WML groups'
         }
     ],
-    'wtc': [
+
+    'wtc_groups': [
         {
             'url': 'https://www.wtc.wat.edu.pl/Plany/index.xml',
             'description': 'WTC groups'
         }
     ],
-}
 
-# URL's for faculties - harmonograms
-SCHEDULE_URLS = {
-    'ioe': [
+############################## SCHEDULES URL's ##############################
+
+    'ioe_schedule': [
         {
             'url_lato': 'https://ioe.wat.edu.pl/plany/lato/{group}.htm',
             'description': 'IOE {group} schedule'
         }
     ],
-    'wcy': [
+
+    'wcy_schedule': [
         {
             'url': 'https://planzajec.wcy.wat.edu.pl/pl/rozklad?grupa_id={group}',
             'description': 'WCY {group} schedule'
         }
     ],
-    'wel': [
+
+    'wel_schedule': [
         {
             'url_lato': 'https://plany.wel.wat.edu.pl/lato/{group}.htm',
             'description': 'WEL {group} schedule'
         }
     ],
     
-    # 'wig': [
+    # 'wig_schedule': [
     #     {
     #         'url': '',
     #         'description': 'WIG {group} schedule'
     #     }
     # ],
     
-    'wim': [
+    'wim_schedule': [
         {
             'url_lato': 'https://www.wim.wat.edu.pl/wp-content/uploads/rozklady/lato/{group}.htm',
             'description': 'WIM {group} schedule'
         }
     ],
-    'wlo': [
+
+    'wlo_schedule': [
         {
             'url_lato': 'https://wlo.wat.edu.pl/planzajec/letni/{group}.htm',
             'description': 'WLO {group} schedule'
         }
     ],
     
-    # 'wml': [
+    # 'wml_schedule': [
     #     {
     #         'url': 'https://wml.wat.edu.pl/rozklady-zajec/',
     #         'description': 'WML {group} schedule'
     #     }
     # ],
     
-    'wtc': [
+    'wtc_schedule': [
         {
             'url': 'https://www.wtc.wat.edu.pl/Plany/{group}.htm',
             'description': 'WTC {group} schedule'
         }
     ]
-}
-
-# URL Categories for easier access in connection.py and ...
-URL_CATEGORIES = {
-    'schedules': SCHEDULE_URLS,
-    'groups': GROUP_URLS,
-    'usos': [{'url': USOS_URLS[0]['url'], 'description': USOS_URLS[0]['description']}]
 }
