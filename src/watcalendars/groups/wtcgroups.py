@@ -8,7 +8,7 @@ import re
 from datetime import datetime
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from logutils import OK, WARNING as W, ERROR as E, INFO, log_entry, log
+from watcalendars.utils.logutils import OK, WARNING as W, ERROR as E, INFO, log_entry, log
 from url_loader import load_url_from_config
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
