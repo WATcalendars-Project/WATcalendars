@@ -13,7 +13,7 @@ import unicodedata
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from groups_loader import load_groups 
-from watcalendars.utils.logutils import OK, WARNING as W, ERROR as E, INFO, log, log_entry  
+from logutils import OK, WARNING as W, ERROR as E, INFO, log, log_entry  
 from url_loader import load_url_from_config  
 from employees_loader import load_employees  
 from playwright.async_api import async_playwright  
