@@ -261,7 +261,7 @@ if __name__ == "__main__":
     # Check connection to USOS WAT server with employee data
     print(f"\n{INFO} Connection to USOS WAT server with employee data.")
 
-    url, description = load_url_from_config(category="usos", faculty="", url_type="")
+    url, description = load_url_from_config(key="usos", url_type="")
 
     from connection import test_connection_with_monitoring 
     test_connection_with_monitoring(url, description)
