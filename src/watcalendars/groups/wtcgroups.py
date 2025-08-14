@@ -110,7 +110,7 @@ if __name__ == '__main__':
 
     print(f"\n{INFO} Connection to WTC website with groups.")
 
-    url, description = load_url_from_config(category="groups", faculty="wtc", url_type="url")
+    url, description = load_url_from_config(key="wtc_groups", url_type="url")
     from connection import test_connection_with_monitoring
     test_connection_with_monitoring(url, description)
     if not url:

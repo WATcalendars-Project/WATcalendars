@@ -110,7 +110,7 @@ if __name__ == '__main__':
 
     print(f"\n{INFO} Connection to WLO website with groups.")
 
-    url, description = load_url_from_config(category="groups", faculty="wlo", url_type="url_lato")
+    url, description = load_url_from_config(key="wlo_groups", url_type="url_lato")
     from connection import test_connection_with_monitoring
     test_connection_with_monitoring(url, description)
     if not url:
