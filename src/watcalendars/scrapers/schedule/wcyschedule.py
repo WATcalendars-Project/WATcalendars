@@ -6,7 +6,7 @@ import asyncio
 from watcalendars import DB_DIR
 from urllib.parse import urlparse, parse_qs, urlencode, urlunparse, quote
 from watcalendars.utils.connection import test_connection_with_monitoring 
-from watcalendars.utils.logutils import OK, WARNING as W, ERROR as E, INFO, log_entry, log, start_spinner
+from watcalendars.utils.logutils import OK, WARNING as W, ERROR as E, INFO, log_entry, log, start_spinner, log_parsing
 from watcalendars.utils.url_loader import load_url_from_config
 from watcalendars.utils.employees_loader import load_employees
 from watcalendars.utils.groups_loader import load_groups
@@ -241,11 +241,22 @@ def parse_schedule(html, employees):
 def parse_schedules(html_map):
     employees = load_employees()
     schedules = {}
+    total_groups = len(html_map)
+    groups_done = 0
+    events_done = 0
+
+    def progress():
+        return f"({groups_done}/{total_groups})"
+
     def log_parse_schedule():
+        nonlocal groups_done, events_done
         for group_id, html in html_map.items():
-            schedules[group_id] = parse_schedule(html, employees)
+            lessons = parse_schedule(html, employees)
+            schedules[group_id] = lessons
+            events_done += len(lessons)
+            groups_done += 1
         return schedules
-    schedules = log("Parsing WCY schedules...", log_parse_schedule)
+    schedules = log_parsing("Parsing events for WCY schedules", log_parse_schedule, progress_fn=progress)
     return schedules
 
 

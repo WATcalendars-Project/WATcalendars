@@ -193,3 +193,52 @@ def start_spinner(label: str, total: int, get_done, interval: float = 0.2, frame
     stop_event = asyncio.Event()
     task = asyncio.create_task(_spinner_loop(label, total, get_done, stop_event, interval, frames))
     return stop_event, task
+
+
+def log_parsing(task_name, task_fn, progress_fn, interval: float = 0.2, frames = None):
+    frames = frames or ["-", "\\", "|", "/"]
+    result = {"done": False, "return_value": None, "exception": None}
+
+    def wrapper():
+        try:
+            result["return_value"] = task_fn()
+        except Exception as e:
+            result["exception"] = e
+        finally:
+            result["done"] = True
+
+    t = threading.Thread(target=wrapper, daemon=True)
+    t.start()
+    i = 0
+
+    def _progress_text():
+        try:
+            return "" if progress_fn is None else (str(progress_fn()) or "")
+        except Exception:
+            return ""
+
+    try:
+        while not result["done"]:
+            spinner_char = frames[i % len(frames)]
+            prog = _progress_text()
+            if prog:
+                line = f"{task_name} {prog}... {spinner_char}"
+            else:
+                line = f"{task_name}... {spinner_char}"
+            sys.stdout.write("\r\033[2K" + line)
+            sys.stdout.flush()
+            time.sleep(interval)
+            i += 1
+    finally:
+        t.join()
+        prog = _progress_text()
+        if prog:
+            line = f"{task_name} {prog}... Done."
+        else:
+            line = f"{task_name}... Done."
+        sys.stdout.write("\r\033[2K" + line + "\n")
+        sys.stdout.flush()
+
+    if result["exception"]:
+        raise result["exception"]
+    return result["return_value"]
