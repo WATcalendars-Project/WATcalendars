@@ -1,6 +1,6 @@
-# Servers URL's configuration for the WatCalendars application.
+# Servers URL's configuration for the WATcalendars application.
 
-# Main USOS URL's
+############################## URL'S ##############################
 URL = {
     'usos': [
         {
