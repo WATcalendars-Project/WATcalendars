@@ -133,7 +133,7 @@ def save_to_file(groups):
             f.write(f"# Total number of groups: {len(current)}\n")
             
             if new_groups:
-                f.write(f"# New groups found in this run {len(new_groups)}\n")
+                f.write(f"# New groups found in this run: {len(new_groups)}\n")
 
             f.write("\n")
 

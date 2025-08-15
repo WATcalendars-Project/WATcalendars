@@ -53,12 +53,12 @@ URL = {
         }
     ],
 
-    'wml_groups': [
-        {
-            'url': 'https://wml.wat.edu.pl/rozklady-zajec/',
-            'description': 'WML groups'
-        }
-    ],
+    # 'wml_groups': [
+    #     {
+    #         'url': 'https://wml.wat.edu.pl/rozklady-zajec/',
+    #         'description': 'WML groups'
+    #     }
+    # ],
 
     'wtc_groups': [
         {
