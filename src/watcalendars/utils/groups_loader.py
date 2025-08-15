@@ -1,7 +1,7 @@
 # groups data loader for WATcalendars
 # This module handles loading groups names for scraping calendars
 import os
-from logutils import ERROR as E
+from watcalendars.utils.logutils import ERROR as E
 from watcalendars import GROUPS_DIR
 
 def load_groups(faculty: str):

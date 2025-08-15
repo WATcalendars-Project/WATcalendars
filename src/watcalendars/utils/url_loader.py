@@ -1,7 +1,8 @@
 # URL configuration loader for WATcalendars
 # This module handles loading URLs from configuration files
 
-from logutils import ERROR as E, INFO
+from watcalendars.utils.logutils import ERROR as E, INFO
+from watcalendars.utils.config import URL
 
 
 def _pick_url(url_data, requested):
@@ -12,7 +13,6 @@ def _pick_url(url_data, requested):
 
 def load_url_from_config(key: str, url_type: str = None):
     try:
-        from config import URL
 
         if not url_type:
             print(f"{E} url_type must be specified explicitly.")

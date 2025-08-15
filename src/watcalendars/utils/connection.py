@@ -3,7 +3,7 @@
 # sync_playwright is used for synchronous execution
 # requests and responses are logged
 
-from logutils import OK, ERROR as E, GET, RESPONSE, log_entry, log
+from watcalendars.utils.logutils import OK, ERROR as E, GET, RESPONSE, log_entry, log
 from playwright.sync_api import sync_playwright, Request, Response
 import time
 
@@ -69,6 +69,8 @@ def test_connection_with_monitoring(url: str, description: str = None):
                 raise e
     
     try:
+        print(f"Check connection:")
+
         duration = log(f"Checking connection to ({display_name})...", perform_connection_test)
         
         if total_bytes > 1024 * 1024:
@@ -81,9 +83,9 @@ def test_connection_with_monitoring(url: str, description: str = None):
         speed_size = total_bytes / duration
         speed = f"{speed_size / 1024:.1f} kB/s" if speed_size > 1024 else f"{speed_size:.1f} B/s"
 
-        print(f"{OK} Connection successful.")
         print(f"Summary: {request_count} requests, {response_count} responses")
-        print(f"Received {total_size_str} in {duration:.2f}s ({speed})\n")
+        print(f"Received {total_size_str} in {duration:.2f}s ({speed})")
+        print(f"{OK} Connection successful.")
     
     except Exception as e:
         print(f"{E} Failed to connect to {display_name}: {e}")

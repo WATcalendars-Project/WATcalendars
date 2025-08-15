@@ -1,7 +1,7 @@
 # employees data loader for WATcalendars
 # This module handles loading employee data for calendars from file employees.txt
 import os
-from logutils import ERROR as E
+from watcalendars.utils.logutils import ERROR as E
 from watcalendars import DB_DIR
 
 def load_employees():
