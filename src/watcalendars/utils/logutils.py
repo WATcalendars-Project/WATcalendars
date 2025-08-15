@@ -2,6 +2,8 @@ import sys
 import time
 import os
 import threading
+import asyncio
+from time import perf_counter
 
 # Define ANSI color codes for terminal output
 # These can be used to colorize log messages in the terminal.
@@ -146,3 +148,48 @@ def log(task_name, task_fn, progress_info=None):
         raise result["exception"]
     
     return result["return_value"]
+
+
+async def _spinner_loop(label: str, total: int, get_done, stop_event: asyncio.Event, interval: float = 0.2, frames=None):
+    frames = ["-", "\\", "|", "/"]
+    i = 0
+    next_tick = perf_counter()
+
+    try:
+        while not stop_event.is_set():
+
+            try:
+                done = int(get_done())
+
+            except Exception:
+                done = 0
+
+            done = max(0, min(done, total))
+            sys.stderr.write("\r\033[2K" + f"{label} ({done}/{total})... {frames[i % len(frames)]}")
+            sys.stderr.flush()
+            i += 1
+            next_tick += interval
+            await asyncio.sleep(interval)
+
+        try:
+            done = int(get_done())
+
+        except Exception:
+            done = total
+
+        done = max(0, min(done, total))
+        sys.stderr.write("\r\033[2K" + f"{label} ({done}/{total})... done\n")
+        sys.stderr.flush()
+
+    finally:
+        sys.stderr.write("\033[?25h")
+        sys.stderr.flush()
+
+
+def start_spinner(label: str, total: int, get_done, interval: float = 0.2, frames=None):
+    # Starting spinner as asyncio.Task.
+    # Returns (stop_event, task). Set stop_event.set() and await task to finish.
+    # get_done: callable without arguments returning current counter (int).
+    stop_event = asyncio.Event()
+    task = asyncio.create_task(_spinner_loop(label, total, get_done, stop_event, interval, frames))
+    return stop_event, task
