@@ -6,17 +6,15 @@ import os
 import time
 import re
 from datetime import datetime
-
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from logutils import OK, WARNING as W, ERROR as E, INFO, log_entry, log
-from url_loader import load_url_from_config
+from watcalendars import GROUPS_DIR
+from watcalendars.utils.logutils import OK, WARNING as W, ERROR as E, INFO, log_entry, log
+from watcalendars.utils.connection import test_connection_with_monitoring
+from watcalendars.utils.url_loader import load_url_from_config
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 
-# --- SIMPLE APPROACH: first <td valign="TOP">, collect all .htm/.html href basenames ---
 
 def scrape_groups_ioe(url):
-    print(f"\n{INFO} Scrape IOE groups (simple column mode).")
     logs = []
 
     def log_scrape():
@@ -24,106 +22,169 @@ def scrape_groups_ioe(url):
             browser = p.chromium.launch(headless=True, args=[
                 '--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-gpu'
             ])
-            page = browser.new_page(user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0 Safari/537.36")
-            page.goto(url, timeout=25000)
-            html = page.content()
-            browser.close()
+            try:
+                log_entry("Browser launched (chromium, headless=True).", logs)
+                page = browser.new_page(user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0 Safari/537.36")
+
+                log_entry(f"Navigating to URL: {url}", logs)
+                t0 = time.monotonic()
+                resp = page.goto(url, timeout=25_000)
+                elapsed_ms = int((time.monotonic() - t0) * 1000)
+
+                status = resp.status if resp else None
+                ok = getattr(resp, "ok", None) if resp else None
+                log_entry(f"Navigation done: status={status}, ok={ok}, elapsed_ms={elapsed_ms}", logs)
+
+                html = page.content()
+                log_entry("Getting page content... Done.", logs)
+
+            except PlaywrightTimeoutError as e:
+                log_entry(f"Timeout navigating to {url}: {e}", logs)
+                raise
+
+            except Exception as e:
+                log_entry(f"Unhandled error while scraping {url}: {e}", logs)
+                raise
+
+            finally:
+                browser.close()
+                log_entry("Closing browser... Done.", logs)
+
+        if not html:
+            log_entry(f"{E} No HTML retrieved.", logs)
+            return []
+
         soup = BeautifulSoup(html, 'html.parser')
+        log_entry("Parsing HTML content for IOE groups... Done.", logs)
 
         first_td = None
+
         for td in soup.find_all('td'):
+
             if td.get('valign', '').upper() == 'TOP':
                 first_td = td
+                log_entry(f"Found <td valign=TOP> element.", logs)
                 break
+
         if not first_td:
-            log_entry("No <td valign=TOP> found – abort.", logs)
+            log_entry(f"{E} No <td valign=TOP> found.", logs)
             return []
 
         groups = set()
+
         for a in first_td.find_all('a', href=True):
             href = a['href']
+
             if not href.lower().endswith(('.htm', '.html')):
                 continue
+            
             base = href.rsplit('/', 1)[-1].split('?')[0].split('#')[0]
             base_no_ext = re.sub(r'\.(?:htm|html)$', '', base, flags=re.IGNORECASE).strip()
+            
             if not base_no_ext:
                 continue
+            
             token = '_'.join(base_no_ext.split())
             groups.add(token)
-        log_entry(f"Collected {len(groups)} groups from the first column.", logs)
+
+        log_entry(f"Extracting group links from <td> element... Done.", logs)
+        log_entry(f"Collected {len(groups)} groups.", logs)
+        
         return sorted(groups)
 
-    groups = log("Scraping IOE groups list... ", log_scrape)
-    print(f"{OK} Scraped {len(groups)} IOE groups (simple).")
+    groups = log("Scraping IOE groups list...", log_scrape)
+    print(f"{OK} Scraped {len(groups)} IOE groups.")
+    
     return groups
 
 
 def save_to_file(groups):
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    db_dir = os.path.join(script_dir, "..", "..", "..", "db", "groups")
-    os.makedirs(db_dir, exist_ok=True)
-    filename = os.path.join(db_dir, "ioe.txt")
+    filename = os.path.join(GROUPS_DIR, "ioe.txt")
 
-    def parse_existing():
-        existing = set()
-        if not os.path.exists(filename):
-            return existing
-        try:
-            with open(filename, 'r', encoding='utf-8') as f:
-                for line in f:
-                    line = line.strip()
-                    if not line or line.startswith('#'):
-                        continue
-                    existing.add(re.sub(r"\s+\[NEW\]$", "", line))
-        except Exception:
-            pass
-        return existing
+    if not os.path.exists(filename):
+        print(f"Created a new db file for IOE groups: '{os.path.abspath(filename)}'")
+    else:
+        print(f"Using existing db file for IOE groups: '{os.path.abspath(filename)}'")
 
     def save_log():
-        existing = parse_existing()
+        logs = []
         current = set(groups)
+        existing = set()
+
+        if os.path.exists(filename):
+            
+            try:
+                with open(filename, 'r', encoding="utf-8") as f:
+                    for line in f:
+
+                        if line.strip() and not line.startswith('#'):
+                            existing.add(re.sub(r"\s+\[NEW\]$", "", line.strip()))
+
+            except Exception:
+                pass
+
+        log_entry(f"Current groups to save: {len(current)}", logs)
+        if existing:
+            log_entry(f"Existing groups loaded: {len(existing)}", logs)
         new_groups = current - existing
+        log_entry(f"New groups detected: {len(new_groups)}", logs)
+        
         with open(filename, 'w', encoding='utf-8') as f:
-            f.write('# IOE Groups list (simple column extraction)\n')
+            log_entry(f"Opening db file '{os.path.abspath(filename)}'... Done.", logs)
+            f.write("# IOE Groups list\n")
             f.write(f"# Last updated: {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
             f.write(f"# Total number of groups: {len(current)}\n")
-            f.write(f"# New groups in this run: {len(new_groups)}\n")
-            f.write('# Format: one token (href basename) per line; new ones marked with [NEW]\n\n')
+            
+            if new_groups:
+                f.write(f"# New groups found in this run {len(new_groups)}\n")
+
+            f.write("\n")
+
             for g in sorted(current):
-                marker = ' [NEW]' if g in new_groups else ''
+                marker = " [NEW]" if g in new_groups else ""
                 f.write(f"{g}{marker}\n")
+        
+        log_entry(f"Writing header and metadata... Done.", logs)
         return len(new_groups), len(current)
 
     try:
-        new_count, total_count = log("Saving IOE groups file... ", save_log)
-        if new_count:
-            print(f"{OK} {new_count} new IOE groups (marked with [NEW]).")
-        print(f"[INFO]: Total IOE groups: {total_count} in '{os.path.abspath(filename)}'.")
+        new_count, total_count = log("Saving IOE groups to file... ", save_log)
+        
+        if new_count > 0:
+            print(f"{OK} Summary: Saved {new_count} IOE groups (marked with [NEW]) in '{os.path.abspath(filename)}'.")
+
+        else:
+            print(f"{OK} Summary: No new IOE groups found since last run.")
+
+        print(f"[INFO]: Total IOE groups in '{os.path.abspath(filename)}' ({total_count})")
+
     except Exception as e:
         print(f"{E} {e}")
 
 
 if __name__ == '__main__':
-    start_time = time.time()
-    print(f"{INFO} Start of IOE groups scraper {datetime.now().strftime('%Y-%m-%d %H:%M')}")
 
-    print(f"\n{INFO} Connection to IOE website with groups.")
+    start_time = time.time()
+
+    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Start of IOE groups scraper:")
 
     url, description = load_url_from_config(key="ioe_groups", url_type="url_lato")
-    from connection import test_connection_with_monitoring
     test_connection_with_monitoring(url, description)
-    if not url:
-        print(f"{E} No URL for groups.")
-        sys.exit(1)
+
+    print(f"Scraping from URL: {url}")
 
     try:
         groups = scrape_groups_ioe(url)
+
         if groups:
             save_to_file(groups)
+
         else:
-            print(f"{W} No IOE groups extracted.")
+            print(f"{E} No data to save.")
+
     except Exception as e:
         print(f"{E} {e}")
 
     duration = time.time() - start_time
-    print(f"{INFO} IOE groups scraper finished {datetime.now().strftime('%Y-%m-%d %H:%M')}   duration: {duration:.2f}s")
+
+    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] IOE groups scraper finished  |  duration: {duration:.2f}s")

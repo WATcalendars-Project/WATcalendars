@@ -17,34 +17,46 @@ from datetime import datetime
 
 
 def detect_total_pages():
-    print(f"Find max number of pages to scrape.")
+    print(f"Finding max number of pages to scrape:")
+    logs = []
 
     def log_detect_pages():
-        logs = []
 
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
-            page = browser.new_page(user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
-            page.goto(url, timeout=30000)
-            log_entry(f"Launched browser to find max number of pages.", logs)
-            log_entry(f"URL: {url}", logs)
-
             try:
+                log_entry("Browser launched (chromium, headless=True)", logs)
+                page = browser.new_page(user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+
+                log_entry(f"Navigating to URL: {url}", logs)
+                t0 = time.monotonic()
+                resp = page.goto(url, timeout=30000)
+                elapsed_ms = int((time.monotonic() - t0) * 1000)
+
+                status = resp.status if resp else None
+                ok = getattr(resp, "ok", None) if resp else None
+                log_entry(f"Navigation done: status={status}, ok={ok}, elapsed_ms={elapsed_ms}", logs)
+
                 page.wait_for_selector("div.uwb-page-switcher-panel", timeout=5000)
                 page.wait_for_load_state("networkidle")
-                log_entry(f"{OK} Page loaded successfully.", logs)
+
+                html = page.content()
+                log_entry(f"Getting page content... Done.", logs)
+
+                soup = BeautifulSoup(html, 'html.parser')
+                log_entry(f"Parsing HTML content... Done.", logs)
+
+                pagination = soup.find("div", class_="uwb-page-switcher-panel")
+                log_entry(f"Pagination element found: \"{pagination}\".", logs)
 
             except Exception:
                 page.wait_for_load_state("networkidle")
                 log_entry(f"{E} Failed to load page or find pagination element.", logs)
                 print(f"\r{' ' * 80}\r{log_entry}")
 
-            html = page.content()
-            soup = BeautifulSoup(html, 'html.parser')
-            pagination = soup.find("div", class_="uwb-page-switcher-panel")
-            log_entry(f"{OK} Pagination element found: \"{pagination}\".", logs)
-            browser.close()
-            log_entry(f"Browser closed.", logs)
+            finally:
+                browser.close()
+                log_entry(f"Closing browser... Done.", logs)
 
         if pagination:
             td = pagination.find("td")
@@ -73,8 +85,7 @@ def detect_total_pages():
         print(f"Summary: Total pages detected: {total_pages}")
         print(f"{W} Number of pages is lower than expected")
     elif total_pages >= 54:
-        print(f"Summary: Total pages detected: {total_pages}")
-        print(f"{OK} Pages detection completed.")
+        print(f"{OK} Summary: Total pages detected: {total_pages}")
 
     return total_pages
 
@@ -198,9 +209,6 @@ def save_to_file(employees):
 
             try:
                 with open(filename, "r", encoding="utf-8") as f:
-                    log_entry(f"Reading existing employees... Done.", logs)
-                    log_entry(f"Skipping empty lines and comments... Done.", logs)
-                    log_entry(f"Extracting employee data... Done.", logs)
 
                     for line in f:
 
@@ -212,25 +220,31 @@ def save_to_file(employees):
                                 full_name = parts[1].replace(" [NEW]", "").strip()
                                 existing_employees.add((degree, full_name))
 
-            except Exception:
+                    log_entry(f"Reading existing employees... Done.", logs)
+                    log_entry(f"Skipping empty lines and comments... Done.", logs)
 
+            except Exception:
                 pass
         
-        log_entry(f"Normalizing employee data and finding new employees... Done.", logs)
         normalized_employees = set()
 
         for degree, full_name in employees:
             normalized_degree = degree.strip()
             normalized_name = full_name.strip()
             normalized_employees.add((normalized_degree, normalized_name))
+        log_entry(f"Normalizing employee data and finding new employees... Done.", logs)
 
         current_employees = normalized_employees
+        log_entry(f"Current employees to save: {len(current_employees)}", logs)
+        
         new_employees = current_employees - existing_employees
+        log_entry(f"Existing employees loaded: {len(existing_employees)}", logs)
+        
         all_employees = existing_employees | current_employees
+        log_entry(f"New employees detected: {len(new_employees)}", logs)
 
         with open(filename, "w", encoding="utf-8") as f:
             log_entry(f"Opening db file '{os.path.abspath(filename)}'... Done.", logs)
-            log_entry(f"Writing header and metadata... Done.", logs)
             f.write("# Employee list of WAT\n")
             f.write(f"# Last updated: {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
             f.write(f"# Total number of employees: {len(all_employees)}\n")
@@ -244,6 +258,8 @@ def save_to_file(employees):
             for degree, full_name in sorted(all_employees):
                 marker = " [NEW]" if (degree, full_name) in new_employees else ""
                 f.write(f"{degree}\t{full_name}{marker}\n")
+
+            log_entry(f"Writing header and metadata... Done.", logs)
 
         return len(new_employees), len(all_employees)
     
@@ -279,13 +295,13 @@ if __name__ == "__main__":
     print(f"Async scraping from URL: {url}&page=1...{total_pages}")
 
     try:
-        all_employees = log(f"Scraping pages...", scrape_all_pages)
+        all_employees = log(f"Async scraping pages...", scrape_all_pages)
 
         if all_employees:
             save_to_file(all_employees)
 
         else:
-            print(f"{W} No data to save.")
+            print(f"{E} No data to save.")
 
     except Exception as e:
         print(f"{E} {e}")
