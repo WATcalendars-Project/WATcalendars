@@ -1,6 +1,3 @@
-#! /usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 import sys
 import os
 import time
@@ -17,7 +14,7 @@ from bs4 import BeautifulSoup
 def scrape_groups_ioe(url):
     logs = []
 
-    def log_scrape():
+    def log_scrape_groups():
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True, args=[
                 '--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-gpu'
@@ -92,7 +89,7 @@ def scrape_groups_ioe(url):
         
         return sorted(groups)
 
-    groups = log("Scraping IOE groups list...", log_scrape)
+    groups = log("Scraping IOE groups names...", log_scrape_groups)
     print(f"{OK} Scraped {len(groups)} IOE groups.")
     
     return groups
