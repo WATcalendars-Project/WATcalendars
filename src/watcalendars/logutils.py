@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 import sys
 import time
 import os
@@ -70,7 +67,7 @@ RESET_BLINK = '\033[25m'
 RESET_REVERSE = '\033[27m'
 RESET_STRIKETHROUGH = '\033[29m'
 
-# Zdefiniowane logi
+# Defined logs
 GET = f"{BRIGHT_BLUE}→{RESET}"
 RESPONSE = f"{BRIGHT_BLUE}←{RESET}"
 ERROR = f"{RED}E{RESET}:"
@@ -96,10 +93,8 @@ def log_entry(message, logs_list=None):
 # log("Checking dependencies... ", my_task)
 def log(task_name, task_fn, progress_info=None):
     spin_chars = ['|', '/', '-', '\\']
-    # Initialize a result dictionary to store the task's return value and any exception raised
     result = {"done": False, "return_value": None, "exception": None}
 
-    # Define a wrapper function to run the task and handle exceptions
     def wrapper():
         try:
             result["return_value"] = task_fn()
@@ -108,57 +103,42 @@ def log(task_name, task_fn, progress_info=None):
         finally:
             result["done"] = True
 
-    # Start the wrapper function in a separate thread
     t = threading.Thread(target=wrapper)
     t.start()
-
     i = 0
     max_line_length = 0
 
-    # Try to get the terminal width for formatting the spinner output
     try:
         terminal_width = os.get_terminal_size().columns
     except:
         terminal_width = 80  
     
-    # Loop until the task is done
     while not result["done"]:
-        # Get the current spinner character based on the iteration index
         spinner_char = spin_chars[i % len(spin_chars)]
-        # Format the left part of the spinner output
         left_part = f"{task_name} {spinner_char}"
         
-        # If progress_info is provided, format it and calculate available space
         if progress_info:
-            # Calculate the available space for the spinner output
             available_space = terminal_width - len(left_part) - len(progress_info) - 1
-            # If available space is positive, fill it with spaces
             if available_space > 0:
                 current_line = f"{left_part}{' ' * available_space}{progress_info}"
-            # Otherwise, just append the progress_info directly
             else:
                 current_line = f"{left_part} {progress_info}"
         else:
             current_line = left_part
             
-        # Print the current line to the terminal
         max_line_length = max(max_line_length, len(current_line))
         sys.stdout.write(f"\r{' ' * max_line_length}\r{current_line}")
         sys.stdout.flush()
         time.sleep(0.2)
         i += 1
 
-    # Wait for the task thread to finish
     t.join()
-    # If progress_info is provided, format the final output
+
     if progress_info:
         final_line = f"{task_name} Done.{' ' * (terminal_width - len(task_name) - len('Done') - len(progress_info) - 1)}{progress_info}"
-    # If progress_info is not provided, just indicate the task is done
     else:
         final_line = f"{task_name} Done."
 
-    # Clear the current line and print the final output
-    # This ensures the final output is displayed correctly in the terminal
     sys.stdout.write(f"\r{' ' * max_line_length}\r{final_line}\n")
     sys.stdout.flush()
     
