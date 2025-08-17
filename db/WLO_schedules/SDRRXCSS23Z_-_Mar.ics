@@ -4,345 +4,388 @@ PRODID:-//scheduleWLO//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:SDRRXCSS23Z_-_Mar
 BEGIN:VEVENT
-DTSTART:20250929T080000
-DTEND:20250929T093500
-SUMMARY:w 30
-DESCRIPTION:dr Moch Natalia\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T095000
-DTEND:20250929T112500
-SUMMARY:Komu.strateg
-DESCRIPTION:Komu.strateg\nType: \nNo: 1/1\nLecturer: ONLINE; dr hab. inż. Norbert Grzesik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T114000
-DTEND:20250929T131500
-SUMMARY:w 20
-DESCRIPTION:dr hab. inż. Nowacki Gabriel\nType: \nNo: 1/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T133000
-DTEND:20250929T150500
-SUMMARY:Nowtechbezp
-DESCRIPTION:Nowoczesne technologie w bezpieczeństwie\nType: \nNo: 1/1\nLecturer: ONLINE; dr hab. inż. Sławomir Augustyn
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T160000
-DTEND:20250929T173500
-SUMMARY:w 20
-DESCRIPTION:dr hab. inż. Nowacki Gabriel\nType: \nNo: 2/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T175000
-DTEND:20250929T192500
-SUMMARY:opermzwprz
-DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T194000
-DTEND:20250929T211500
-SUMMARY:w 20
-DESCRIPTION:dr hab. inż. Nowacki Gabriel\nType: \nNo: 3/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T080000
-DTEND:20250930T093500
-SUMMARY:w 20
-DESCRIPTION:dr hab. inż. Nowacki Gabriel\nType: \nNo: 4/4
+DTSTART:20250304T080000
+DTEND:20250304T093500
+SUMMARY:Nowtechbezp (w)
+LOCATION:23ZSz; 22ZSw; 22ZOs; 23ZGu; 22ZJa
+DESCRIPTION:Nowoczesne technologie w bezpieczeństwie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T095000
 DTEND:20250304T112500
 SUMMARY:Nowtechbezp (w)
-DESCRIPTION:Nowoczesne technologie w bezpieczeństwie\nType: Lecture\nNo: 1/6\nLecturer: dr hab. inż. Sławomir Augustyn; ONLINE
+LOCATION:23ZSz; 22ZSw; 22ZOs; 23ZGu; 22ZJa
+DESCRIPTION:Nowoczesne technologie w bezpieczeństwie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T095000
 DTEND:20250311T112500
 SUMMARY:Nowtechbezp (w)
-DESCRIPTION:Nowoczesne technologie w bezpieczeństwie\nType: Lecture\nNo: 2/6\nLecturer: dr hab. inż. Sławomir Augustyn; ONLINE
+LOCATION:23ZGu; 22ZOs; 23ZSz; 22ZSw; 22ZJa
+DESCRIPTION:Nowoczesne technologie w bezpieczeństwie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr hab. inż. Augustyn Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250318T095000
+DTEND:20250318T112500
+SUMMARY:Nowtechbezp (w)
+LOCATION:23ZGu; 22ZOs; 23ZSz; 22ZSw; 22ZJa
+DESCRIPTION:Nowoczesne technologie w bezpieczeństwie\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T114000
 DTEND:20250304T131500
 SUMMARY:Nowtechbezp (w)
-DESCRIPTION:Nowoczesne technologie w bezpieczeństwie\nType: Lecture\nNo: 3/6\nLecturer: dr hab. inż. Sławomir Augustyn; ONLINE
+LOCATION:23ZSz; 22ZSw; 22ZOs; 23ZGu; 22ZJa
+DESCRIPTION:Nowoczesne technologie w bezpieczeństwie\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T114000
 DTEND:20250311T131500
 SUMMARY:Nowtechbezp (w)
-DESCRIPTION:Nowoczesne technologie w bezpieczeństwie\nType: Lecture\nNo: 4/6\nLecturer: dr hab. inż. Sławomir Augustyn; ONLINE
+LOCATION:23ZGu; 22ZOs; 23ZSz; 22ZSw; 22ZJa
+DESCRIPTION:Nowoczesne technologie w bezpieczeństwie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr hab. inż. Augustyn Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250318T114000
+DTEND:20250318T131500
+SUMMARY:Nowtechbezp (w)
+LOCATION:23ZSz; 22ZSw; 22ZOs; 23ZGu; 22ZJa
+DESCRIPTION:Nowoczesne technologie w bezpieczeństwie\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T133000
 DTEND:20250304T150500
 SUMMARY:Nowtechbezp (w)
-DESCRIPTION:Nowoczesne technologie w bezpieczeństwie\nType: Lecture\nNo: 5/6\nLecturer: dr hab. inż. Sławomir Augustyn; ONLINE
+LOCATION:23ZSz; 22ZSw; 22ZOs; 23ZGu; 22ZJa
+DESCRIPTION:Nowoczesne technologie w bezpieczeństwie\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T133000
 DTEND:20250311T150500
 SUMMARY:Nowtechbezp (w)
-DESCRIPTION:Nowoczesne technologie w bezpieczeństwie\nType: Lecture\nNo: 6/6\nLecturer: dr hab. inż. Sławomir Augustyn; ONLINE
+LOCATION:23ZGu; 22ZOs; 23ZSz; 22ZSw; 22ZJa
+DESCRIPTION:Nowoczesne technologie w bezpieczeństwie\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250312T095000
-DTEND:20250312T112500
-SUMMARY:BwSDR (w)
-DESCRIPTION:Bezpieczeństwo wewnętrzne\nType: Lecture\nNo: 1/15\nLecturer: Mon; ONLINE
+DTSTART:20250318T133000
+DTEND:20250318T150500
+SUMMARY:Nowtechbezp (w)
+LOCATION:23ZSz; 22ZSw; 22ZOs; 23ZGu; 22ZJa
+DESCRIPTION:Nowoczesne technologie w bezpieczeństwie\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T095000
 DTEND:20250319T112500
 SUMMARY:BwSDR (w)
-DESCRIPTION:Bezpieczeństwo wewnętrzne\nType: Lecture\nNo: 2/15\nLecturer: Mon; ONLINE
+LOCATION:23ZPa; 23ZBa
+DESCRIPTION:Bezpieczeństwo wewnętrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T095000
 DTEND:20250326T112500
 SUMMARY:BwSDR (w)
-DESCRIPTION:Bezpieczeństwo wewnętrzne\nType: Lecture\nNo: 3/15\nLecturer: Mon; ONLINE
+LOCATION:23ZPa; 23ZBa
+DESCRIPTION:Bezpieczeństwo wewnętrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T095000
 DTEND:20250402T112500
 SUMMARY:BwSDR (w)
-DESCRIPTION:Bezpieczeństwo wewnętrzne\nType: Lecture\nNo: 4/15\nLecturer: Mon; ONLINE
+LOCATION:23ZPa; 23ZBa
+DESCRIPTION:Bezpieczeństwo wewnętrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T095000
 DTEND:20250409T112500
 SUMMARY:BwSDR (w)
-DESCRIPTION:Bezpieczeństwo wewnętrzne\nType: Lecture\nNo: 5/15\nLecturer: Mon; ONLINE
+LOCATION:23ZPa; 23ZBa
+DESCRIPTION:Bezpieczeństwo wewnętrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T095000
 DTEND:20250416T112500
 SUMMARY:BwSDR (w)
-DESCRIPTION:Bezpieczeństwo wewnętrzne\nType: Lecture\nNo: 6/15\nLecturer: Mon; ONLINE
+LOCATION:23ZPa; 23ZBa
+DESCRIPTION:Bezpieczeństwo wewnętrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T095000
-DTEND:20250430T112500
+DTSTART:20250423T095000
+DTEND:20250423T112500
 SUMMARY:BwSDR (w)
-DESCRIPTION:Bezpieczeństwo wewnętrzne\nType: Lecture\nNo: 7/15\nLecturer: Mon; ONLINE
+LOCATION:23ZPa; 23ZBa
+DESCRIPTION:Bezpieczeństwo wewnętrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/15\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T095000
 DTEND:20250507T112500
 SUMMARY:BwSDR (w)
-DESCRIPTION:Bezpieczeństwo wewnętrzne\nType: Lecture\nNo: 8/15\nLecturer: Mon; ONLINE
+LOCATION:23ZPa; 23ZBa
+DESCRIPTION:Bezpieczeństwo wewnętrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/15\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250312T114000
-DTEND:20250312T131500
+DTSTART:20250514T095000
+DTEND:20250514T112500
 SUMMARY:BwSDR (w)
-DESCRIPTION:Bezpieczeństwo wewnętrzne\nType: Lecture\nNo: 9/15\nLecturer: Mon; ONLINE
+LOCATION:23ZPa; 23ZBa
+DESCRIPTION:Bezpieczeństwo wewnętrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T114000
 DTEND:20250319T131500
 SUMMARY:BwSDR (w)
-DESCRIPTION:Bezpieczeństwo wewnętrzne\nType: Lecture\nNo: 10/15\nLecturer: Mon; ONLINE
+LOCATION:23ZPa; 23ZBa
+DESCRIPTION:Bezpieczeństwo wewnętrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
 DTEND:20250326T131500
 SUMMARY:BwSDR (w)
-DESCRIPTION:Bezpieczeństwo wewnętrzne\nType: Lecture\nNo: 11/15\nLecturer: Mon; ONLINE
+LOCATION:23ZPa; 23ZBa
+DESCRIPTION:Bezpieczeństwo wewnętrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T114000
 DTEND:20250402T131500
 SUMMARY:BwSDR (w)
-DESCRIPTION:Bezpieczeństwo wewnętrzne\nType: Lecture\nNo: 12/15\nLecturer: Mon; ONLINE
+LOCATION:23ZPa; 23ZBa
+DESCRIPTION:Bezpieczeństwo wewnętrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T114000
 DTEND:20250409T131500
 SUMMARY:BwSDR (w)
-DESCRIPTION:Bezpieczeństwo wewnętrzne\nType: Lecture\nNo: 13/15\nLecturer: Mon; ONLINE
+LOCATION:23ZPa; 23ZBa
+DESCRIPTION:Bezpieczeństwo wewnętrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T114000
-DTEND:20250430T131500
+DTSTART:20250416T114000
+DTEND:20250416T131500
 SUMMARY:BwSDR (w)
-DESCRIPTION:Bezpieczeństwo wewnętrzne\nType: Lecture\nNo: 14/15\nLecturer: Mon; ONLINE
+LOCATION:23ZPa; 23ZBa
+DESCRIPTION:Bezpieczeństwo wewnętrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T114000
 DTEND:20250507T131500
 SUMMARY:BwSDR (w)
-DESCRIPTION:Bezpieczeństwo wewnętrzne\nType: Lecture\nNo: 15/15\nLecturer: Mon; ONLINE
+LOCATION:23ZPa; 23ZBa
+DESCRIPTION:Bezpieczeństwo wewnętrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250611T133000
-DTEND:20250611T150500
+DTSTART:20250514T114000
+DTEND:20250514T131500
+SUMMARY:BwSDR (w)
+LOCATION:23ZPa; 23ZBa
+DESCRIPTION:Bezpieczeństwo wewnętrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: dr Moch Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T133000
+DTEND:20250618T150500
 SUMMARY:ZiZK (w)
-DESCRIPTION:Zwalczanie i zapobieganie korupcji\nType: Lecture\nNo: 1/10\nLecturer: dr Andrzej Strychalski
+LOCATION:
+DESCRIPTION:Zwalczanie i zapobieganie korupcji\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T160000
 DTEND:20250305T173500
-SUMMARY:Komu.strateg (w)
-DESCRIPTION:Komu.strateg\nType: Lecture\nNo: 1/8\nLecturer: dr hab. inż. Norbert Grzesik; ONLINE
+SUMMARY:Komu.strateg. (w)
+LOCATION:23ZMa
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr hab. inż. Nowacki Gabriel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T160000
 DTEND:20250312T173500
-SUMMARY:Komu.strateg (w)
-DESCRIPTION:Komu.strateg\nType: Lecture\nNo: 2/8\nLecturer: dr hab. inż. Norbert Grzesik; ONLINE
+SUMMARY:Komu.strateg. (w)
+LOCATION:23ZMa
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr hab. inż. Nowacki Gabriel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T160000
 DTEND:20250319T173500
-SUMMARY:Komu.strateg (w)
-DESCRIPTION:Komu.strateg\nType: Lecture\nNo: 3/8\nLecturer: dr hab. inż. Norbert Grzesik; ONLINE
+SUMMARY:Komu.strateg. (w)
+LOCATION:23ZMa
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr hab. inż. Nowacki Gabriel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T160000
 DTEND:20250326T173500
-SUMMARY:Komu.strateg (w)
-DESCRIPTION:Komu.strateg\nType: Lecture\nNo: 4/8\nLecturer: dr hab. inż. Norbert Grzesik; ONLINE
+SUMMARY:Komu.strateg. (w)
+LOCATION:23ZMa
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr hab. inż. Nowacki Gabriel
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250409T160000
-DTEND:20250409T173500
-SUMMARY:ZiZK (w)
-DESCRIPTION:Zwalczanie i zapobieganie korupcji\nType: Lecture\nNo: 2/10\nLecturer: dr Andrzej Strychalski
+DTSTART:20250402T160000
+DTEND:20250402T173500
+SUMMARY:Komu.strateg. (w)
+LOCATION:23ZMa
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab. inż. Nowacki Gabriel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T160000
 DTEND:20250416T173500
 SUMMARY:ZiZK (w)
-DESCRIPTION:Zwalczanie i zapobieganie korupcji\nType: Lecture\nNo: 3/10\nLecturer: dr Andrzej Strychalski
+LOCATION:
+DESCRIPTION:Zwalczanie i zapobieganie korupcji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T160000
 DTEND:20250423T173500
 SUMMARY:ZiZK (w)
-DESCRIPTION:Zwalczanie i zapobieganie korupcji\nType: Lecture\nNo: 4/10\nLecturer: dr Andrzej Strychalski
+LOCATION:
+DESCRIPTION:Zwalczanie i zapobieganie korupcji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T160000
 DTEND:20250430T173500
 SUMMARY:ZiZK (w)
-DESCRIPTION:Zwalczanie i zapobieganie korupcji\nType: Lecture\nNo: 5/10\nLecturer: dr Andrzej Strychalski
+LOCATION:
+DESCRIPTION:Zwalczanie i zapobieganie korupcji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T160000
 DTEND:20250507T173500
 SUMMARY:ZiZK (w)
-DESCRIPTION:Zwalczanie i zapobieganie korupcji\nType: Lecture\nNo: 6/10\nLecturer: dr Andrzej Strychalski
+LOCATION:
+DESCRIPTION:Zwalczanie i zapobieganie korupcji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T160000
 DTEND:20250514T173500
 SUMMARY:ZiZK (w)
-DESCRIPTION:Zwalczanie i zapobieganie korupcji\nType: Lecture\nNo: 7/10\nLecturer: dr Andrzej Strychalski
+LOCATION:
+DESCRIPTION:Zwalczanie i zapobieganie korupcji\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T160000
 DTEND:20250521T173500
 SUMMARY:ZiZK (w)
-DESCRIPTION:Zwalczanie i zapobieganie korupcji\nType: Lecture\nNo: 8/10\nLecturer: dr Andrzej Strychalski
+LOCATION:
+DESCRIPTION:Zwalczanie i zapobieganie korupcji\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T160000
 DTEND:20250528T173500
 SUMMARY:ZiZK (w)
-DESCRIPTION:Zwalczanie i zapobieganie korupcji\nType: Lecture\nNo: 9/10\nLecturer: dr Andrzej Strychalski
+LOCATION:
+DESCRIPTION:Zwalczanie i zapobieganie korupcji\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250611T160000
-DTEND:20250611T173500
+DTSTART:20250604T160000
+DTEND:20250604T173500
 SUMMARY:ZiZK (w)
-DESCRIPTION:Zwalczanie i zapobieganie korupcji\nType: Lecture\nNo: 10/10\nLecturer: dr Andrzej Strychalski
+LOCATION:
+DESCRIPTION:Zwalczanie i zapobieganie korupcji\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Strychalski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T160000
+DTEND:20250618T173500
+SUMMARY:ZiZK (w)
+LOCATION:
+DESCRIPTION:Zwalczanie i zapobieganie korupcji\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T175000
 DTEND:20250305T192500
-SUMMARY:Komu.strateg (w)
-DESCRIPTION:Komu.strateg\nType: Lecture\nNo: 5/8\nLecturer: dr hab. inż. Norbert Grzesik; ONLINE
+SUMMARY:Komu.strateg. (w)
+LOCATION:23ZMa
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr hab. inż. Nowacki Gabriel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T175000
 DTEND:20250312T192500
-SUMMARY:Komu.strateg (w)
-DESCRIPTION:Komu.strateg\nType: Lecture\nNo: 6/8\nLecturer: dr hab. inż. Norbert Grzesik; ONLINE
+SUMMARY:Komu.strateg. (w)
+LOCATION:23ZMa
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab. inż. Nowacki Gabriel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T175000
 DTEND:20250319T192500
-SUMMARY:Komu.strateg (w)
-DESCRIPTION:Komu.strateg\nType: Lecture\nNo: 7/8\nLecturer: dr hab. inż. Norbert Grzesik; ONLINE
+SUMMARY:Komu.strateg. (w)
+LOCATION:23ZMa
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. inż. Nowacki Gabriel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T175000
 DTEND:20250326T192500
-SUMMARY:Komu.strateg (w)
-DESCRIPTION:Komu.strateg\nType: Lecture\nNo: 8/8\nLecturer: dr hab. inż. Norbert Grzesik; ONLINE
+SUMMARY:Komu.strateg. (w)
+LOCATION:23ZMa
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab. inż. Nowacki Gabriel
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250417T095000
-DTEND:20250417T112500
-SUMMARY:opermzwprz (w)
-DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nType: Lecture\nNo: 1/10
+DTSTART:20250402T175000
+DTEND:20250402T192500
+SUMMARY:Komu.strateg. (w)
+LOCATION:23ZMa
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr hab. inż. Nowacki Gabriel
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250501T095000
-DTEND:20250501T112500
+DTSTART:20250424T095000
+DTEND:20250424T112500
 SUMMARY:opermzwprz (w)
-DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nType: Lecture\nNo: 2/10
+LOCATION:22ZMu
+DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr hab. Bil Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T095000
 DTEND:20250508T112500
 SUMMARY:opermzwprz (w)
-DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nType: Lecture\nNo: 3/10
+LOCATION:22ZMu
+DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr hab. Bil Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
 DTEND:20250515T112500
 SUMMARY:opermzwprz (w)
-DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nType: Lecture\nNo: 4/10
+LOCATION:22ZMu
+DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr hab. Bil Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T095000
 DTEND:20250522T112500
 SUMMARY:opermzwprz (w)
-DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nType: Lecture\nNo: 5/10
+LOCATION:22ZMu
+DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr hab. Bil Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
 DTEND:20250529T112500
 SUMMARY:opermzwprz (w)
-DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nType: Lecture\nNo: 6/10
+LOCATION:22ZMu
+DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab. Bil Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250508T114000
-DTEND:20250508T131500
+DTSTART:20250605T095000
+DTEND:20250605T112500
 SUMMARY:opermzwprz (w)
-DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nType: Lecture\nNo: 7/10
+LOCATION:22ZMu
+DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr hab. Bil Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T114000
 DTEND:20250515T131500
 SUMMARY:opermzwprz (w)
-DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nType: Lecture\nNo: 8/10
+LOCATION:22ZMu
+DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab. Bil Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T114000
 DTEND:20250522T131500
 SUMMARY:opermzwprz (w)
-DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nType: Lecture\nNo: 9/10
+LOCATION:22ZMu
+DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. Bil Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T114000
 DTEND:20250529T131500
 SUMMARY:opermzwprz (w)
-DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nType: Lecture\nNo: 10/10
+LOCATION:22ZMu
+DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab. Bil Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250605T114000
+DTEND:20250605T131500
+SUMMARY:opermzwprz (w)
+LOCATION:22ZMu
+DESCRIPTION:Operacyjne metody zwalczania poważnej przestępczości\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr hab. Bil Jacek
 END:VEVENT
 END:VCALENDAR

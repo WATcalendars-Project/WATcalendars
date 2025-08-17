@@ -4,283 +4,234 @@ PRODID:-//scheduleWLO//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:SDRMXCSS23Z_-_Chu
 BEGIN:VEVENT
-DTSTART:20250929T080000
-DTEND:20250929T093500
-SUMMARY:w 4
-DESCRIPTION:dr hab. inż. Kachel Stanisław\nType: \nNo: 1/2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250310T095000
-DTEND:20250310T112500
-SUMMARY:SpMech (E)
-LOCATION:16
-DESCRIPTION:Space Mechanics\nType: Exam\nNo: 1/3\nLecturer: dr hab. Jerzy Zalewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T095000
-DTEND:20250929T112500
-SUMMARY:w 26
-DESCRIPTION:prof. dr hab. n. mat. inż. Gawinecki Jerzy\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250303T114000
-DTEND:20250303T131500
+DTSTART:20250303T095000
+DTEND:20250303T112500
 SUMMARY:ZDBiMS (w)
-LOCATION:41
-DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nType: Lecture\nNo: 1/4\nLecturer: dr hab. inż. Michał Czerwiński
+LOCATION:23ZCh; 22ZDo
+DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Leciejewski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250317T114000
-DTEND:20250317T131500
+DTSTART:20250317T095000
+DTEND:20250317T112500
 SUMMARY:SpMech (E)
-LOCATION:16
-DESCRIPTION:Space Mechanics\nType: Exam\nNo: 2/3\nLecturer: dr hab. Jerzy Zalewski
+LOCATION:
+DESCRIPTION:Space Mechanics\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/3\nProwadzący: dr inż. Zalewski Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250929T114000
-DTEND:20250929T131500
-SUMMARY:SpMech
-DESCRIPTION:Space Mechanics\nType: \nNo: 1/1\nLecturer: dr hab. Jerzy Zalewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250324T133000
-DTEND:20250324T150500
+DTSTART:20250310T114000
+DTEND:20250310T131500
 SUMMARY:ZDBiMS (w)
-LOCATION:26
-DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nType: Lecture\nNo: 2/4\nLecturer: Fis
+LOCATION:23ZCh; 22ZDo
+DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. inż. Leciejewski Zbigniew
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250324T114000
+DTEND:20250324T131500
+SUMMARY:SpMech (E)
+LOCATION:
+DESCRIPTION:Space Mechanics\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/3\nProwadzący: dr inż. Zalewski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T133000
 DTEND:20250331T150500
 SUMMARY:ZDBiMS (w)
-LOCATION:26
-DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nType: Lecture\nNo: 3/4\nLecturer: Fis
+LOCATION:23ZCh; 22ZDo
+DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. inż. Leciejewski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000
 DTEND:20250407T150500
+SUMMARY:ZDBiMS (w)
+LOCATION:23ZCh; 22ZDo
+DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. Leciejewski Zbigniew
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250414T133000
+DTEND:20250414T150500
 SUMMARY:ZDBiMS (ć)
-LOCATION:26
-DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nType: Exercises\nNo: 1/8\nLecturer: dr inż. Zbigniew Surma
+LOCATION:23ZCh; 22ZDo
+DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. Leciejewski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250929T133000
-DTEND:20250929T150500
-SUMMARY:E 6
-DESCRIPTION:dr inż. Zalewski Piotr\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250407T160000
-DTEND:20250407T173500
+DTSTART:20250414T160000
+DTEND:20250414T173500
 SUMMARY:ZDBiMS (ć)
-LOCATION:26
-DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nType: Exercises\nNo: 2/8\nLecturer: dr inż. Zbigniew Surma
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T160000
-DTEND:20250929T173500
-SUMMARY:ZDBiMS
-DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nType: \nNo: 1/3\nLecturer: Fis; dr Marta Michalska-Domańska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T175000
-DTEND:20250929T192500
-SUMMARY:w 2
-DESCRIPTION:dr hab. inż. Leciejewski Zbigniew\nType: \nNo: 1/2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T194000
-DTEND:20250929T211500
-SUMMARY:w 2
-DESCRIPTION:dr hab. inż. Leciejewski Zbigniew\nType: \nNo: 2/2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T080000
-DTEND:20250930T093500
-SUMMARY:w 4
-DESCRIPTION:dr hab. inż. Kachel Stanisław\nType: \nNo: 2/2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250311T095000
-DTEND:20250311T112500
-SUMMARY:ZDBiMS
-LOCATION:41
-DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nType: \nNo: 2/3\nLecturer: dr Marta Michalska-Domańska
+LOCATION:23ZCh; 22ZDo
+DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. Leciejewski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T095000
 DTEND:20250318T112500
+SUMMARY:ZDBiMS (ćw/Wyk)
+LOCATION:23ZCh; 22ZDo
+DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nRodzaj zajęć: (ćw/Wyk)\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Leciejewski Zbigniew
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250325T095000
+DTEND:20250325T112500
 SUMMARY:ZDBiMS (w)
-LOCATION:26
-DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nType: Lecture\nNo: 4/4\nLecturer: dr inż. Zbigniew Surma
+LOCATION:23ZCh; 22ZDo
+DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Leciejewski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250506T095000
-DTEND:20250506T112500
+DTSTART:20250513T095000
+DTEND:20250513T112500
 SUMMARY:ZDBiMS (ć)
-LOCATION:26
-DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nType: Exercises\nNo: 3/8\nLecturer: Fis
+LOCATION:23ZCh; 22ZDo
+DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. Leciejewski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250930T095000
-DTEND:20250930T112500
-SUMMARY:ć 2
-DESCRIPTION:dr inż. Michalski Jakub\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250422T114000
-DTEND:20250422T131500
+DTSTART:20250429T114000
+DTEND:20250429T131500
 SUMMARY:ZDBiMS (ć)
-LOCATION:41
-DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nType: Exercises\nNo: 4/8\nLecturer: Fis
+LOCATION:23ZCh; 22ZDo
+DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Leciejewski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250506T114000
-DTEND:20250506T131500
-SUMMARY:ZDBiMS
-LOCATION:26
-DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nType: \nNo: 3/3\nLecturer: Fis
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T114000
-DTEND:20250930T131500
-SUMMARY:ć 6
-DESCRIPTION:dr inż. Surma Zbigniew\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250422T133000
-DTEND:20250422T150500
-SUMMARY:ZDBiMS (ć)
-LOCATION:41
-DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nType: Exercises\nNo: 5/8\nLecturer: dr Marta Michalska-Domańska
+DTSTART:20250513T114000
+DTEND:20250513T131500
+SUMMARY:ZDBiMS (ćw/Wyk)
+LOCATION:23ZCh; 22ZDo
+DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nRodzaj zajęć: (ćw/Wyk)\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Leciejewski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T133000
 DTEND:20250429T150500
 SUMMARY:ZDBiMS (ć)
-LOCATION:41
-DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nType: Exercises\nNo: 6/8\nLecturer: dr inż. Zbigniew Surma
+LOCATION:23ZCh; 22ZDo
+DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Leciejewski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250930T133000
-DTEND:20250930T150500
-SUMMARY:ć 8
-DESCRIPTION:mjr dr inż. Fikus Bartosz\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T160000
-DTEND:20250930T173500
-SUMMARY:ćw/Wyk 2
-DESCRIPTION:dr inż. Michalski Jakub\nType: \nNo: 1/2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T175000
-DTEND:20250930T192500
-SUMMARY:ćw/Wyk 2
-DESCRIPTION:dr inż. Michalski Jakub\nType: \nNo: 2/2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250507T080000
-DTEND:20250507T093500
-SUMMARY:MPOPL (w)
-LOCATION:18
-DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nType: Lecture\nNo: 1/12\nLecturer: dr hab. inż. prof. WAT Stanisław Kachel
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250507T114000
-DTEND:20250507T131500
+DTSTART:20250506T133000
+DTEND:20250506T150500
 SUMMARY:ZDBiMS (ć)
-LOCATION:26
-DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nType: Exercises\nNo: 7/8\nLecturer: Fis
+LOCATION:23ZCh; 22ZDo
+DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Leciejewski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250507T133000
-DTEND:20250507T150500
+DTSTART:20250305T080000
+DTEND:20250305T093500
+SUMMARY:MPOPL (w)
+LOCATION:22ZMa
+DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: dr hab. inż. Kachel Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T080000
+DTEND:20250514T093500
+SUMMARY:MPOPL (w)
+LOCATION:22ZMa
+DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: dr hab. inż. Kachel Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T114000
+DTEND:20250514T131500
 SUMMARY:ZDBiMS (ć)
-DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nType: Exercises\nNo: 8/8\nLecturer: Fis
+LOCATION:23ZCh; 22ZDo
+DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Leciejewski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250313T080000
-DTEND:20250313T093500
-SUMMARY:MPOPL (w)
-LOCATION:24
-DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nType: Lecture\nNo: 2/12\nLecturer: mgr inż. Jaromir Gajewski
+DTSTART:20250514T133000
+DTEND:20250514T150500
+SUMMARY:ZDBiMS (ć)
+LOCATION:23ZCh; 22ZDo
+DESCRIPTION:Zaawansowane działy balistyki, modelowanie i symulacja\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Leciejewski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250403T080000
-DTEND:20250403T093500
+DTSTART:20250306T080000
+DTEND:20250306T093500
 SUMMARY:MPOPL (w)
-LOCATION:24
-DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nType: Lecture\nNo: 3/12\nLecturer: mgr inż. Jaromir Gajewski
+LOCATION:22ZMa
+DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250417T080000
-DTEND:20250417T093500
+DTSTART:20250320T080000
+DTEND:20250320T093500
 SUMMARY:MPOPL (w)
-LOCATION:24
-DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nType: Lecture\nNo: 4/12\nLecturer: mgr inż. Jaromir Gajewski
+LOCATION:22ZMa
+DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250501T080000
-DTEND:20250501T093500
+DTSTART:20250410T080000
+DTEND:20250410T093500
 SUMMARY:MPOPL (w)
-LOCATION:24
-DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nType: Lecture\nNo: 5/12\nLecturer: mgr inż. Jaromir Gajewski
+LOCATION:22ZMa
+DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250522T080000
-DTEND:20250522T093500
+DTSTART:20250424T080000
+DTEND:20250424T093500
 SUMMARY:MPOPL (w)
-LOCATION:24
-DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nType: Lecture\nNo: 6/12\nLecturer: mgr inż. Jaromir Gajewski
+LOCATION:22ZMa
+DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250313T095000
-DTEND:20250313T112500
+DTSTART:20250508T080000
+DTEND:20250508T093500
 SUMMARY:MPOPL (w)
-LOCATION:24
-DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nType: Lecture\nNo: 7/12\nLecturer: mgr inż. Jaromir Gajewski
+LOCATION:22ZMa
+DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T080000
+DTEND:20250529T093500
+SUMMARY:MPOPL (w)
+LOCATION:22ZMa
+DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250306T095000
+DTEND:20250306T112500
+SUMMARY:MPOPL (w)
+LOCATION:22ZMa
+DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T095000
 DTEND:20250320T112500
+SUMMARY:MPOPL (w)
+LOCATION:22ZMa
+DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250327T095000
+DTEND:20250327T112500
 SUMMARY:SpMech (E)
-LOCATION:16
-DESCRIPTION:Space Mechanics\nType: Exam\nNo: 3/3\nLecturer: dr hab. Jerzy Zalewski
+LOCATION:
+DESCRIPTION:Space Mechanics\nRodzaj zajęć: Egzamin\nNumer zajęć: 3/3\nProwadzący: dr inż. Zalewski Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250403T095000
-DTEND:20250403T112500
+DTSTART:20250410T095000
+DTEND:20250410T112500
 SUMMARY:MPOPL (w)
-LOCATION:24
-DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nType: Lecture\nNo: 8/12\nLecturer: mgr inż. Jaromir Gajewski
+LOCATION:22ZMa
+DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250417T095000
-DTEND:20250417T112500
+DTSTART:20250424T095000
+DTEND:20250424T112500
 SUMMARY:MPOPL (w)
-LOCATION:24
-DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nType: Lecture\nNo: 9/12\nLecturer: mgr inż. Jaromir Gajewski
+LOCATION:22ZMa
+DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250501T095000
-DTEND:20250501T112500
+DTSTART:20250508T095000
+DTEND:20250508T112500
 SUMMARY:MPOPL (w)
-LOCATION:24
-DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nType: Lecture\nNo: 10/12\nLecturer: mgr inż. Jaromir Gajewski
+LOCATION:22ZMa
+DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250522T095000
-DTEND:20250522T112500
+DTSTART:20250529T095000
+DTEND:20250529T112500
 SUMMARY:MPOPL (w)
-LOCATION:24
-DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nType: Lecture\nNo: 11/12\nLecturer: mgr inż. Jaromir Gajewski
+LOCATION:22ZMa
+DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250605T095000
-DTEND:20250605T112500
+DTSTART:20250612T095000
+DTEND:20250612T112500
 SUMMARY:MPOPL (w)
-LOCATION:24
-DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nType: Lecture\nNo: 12/12\nLecturer: mgr inż. Jaromir Gajewski
+LOCATION:22ZMa
+DESCRIPTION:Metody projektowania i optymalizcji struktur lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15
 END:VEVENT
 END:VCALENDAR

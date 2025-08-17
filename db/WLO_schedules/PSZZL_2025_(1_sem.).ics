@@ -4,332 +4,248 @@ PRODID:-//scheduleWLO//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:PSZZL_2025_(1_sem.)
 BEGIN:VEVENT
-DTSTART:20250929T080000
-DTEND:20250929T093500
-SUMMARY:w 4
-DESCRIPTION:dr inż. Wojciechowski Zdzislaw\nType: \nNo: 1/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T095000
-DTEND:20250929T112500
-SUMMARY:ć 4
-DESCRIPTION:dr inż. Wojciechowski Zdzislaw\nType: \nNo: 1/3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T114000
-DTEND:20250929T131500
-SUMMARY:Komu.strateg
-DESCRIPTION:Komu.strateg\nType: \nNo: 1/1\nLecturer: dr hab. Maciej Marczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T133000
-DTEND:20250929T150500
-SUMMARY:w 6
-DESCRIPTION:dr Miszczak Marta\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T160000
-DTEND:20250929T173500
-SUMMARY:ć 4
-DESCRIPTION:dr inż. Wojciechowski Zdzislaw\nType: \nNo: 2/3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T175000
-DTEND:20250929T192500
-SUMMARY:PrP
-DESCRIPTION:Prawo pracy\nType: \nNo: 1/1\nLecturer: dr Andrzej Strychalski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T194000
-DTEND:20250929T211500
-SUMMARY:w 4
-DESCRIPTION:dr inż. Wojciechowski Zdzislaw\nType: \nNo: 2/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T080000
-DTEND:20250930T093500
-SUMMARY:SPK
-DESCRIPTION:Seminarium pracy końcowej\nType: \nNo: 1/1\nLecturer: dr hab. Gabriel Nowacki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T095000
-DTEND:20250930T112500
-SUMMARY:S 8
-DESCRIPTION:dr (prof. WAT) Gonciarski Wiesław\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T114000
-DTEND:20250930T131500
-SUMMARY:sdk
-DESCRIPTION:System działań kadrowych\nType: \nNo: 1/1\nLecturer: dr Kazimierz Piotrkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T133000
-DTEND:20250930T150500
-SUMMARY:w 4
-DESCRIPTION:dr inż. Wojciechowski Zdzislaw\nType: \nNo: 3/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T160000
-DTEND:20250930T173500
-SUMMARY:ć 4
-DESCRIPTION:dr inż. Wojciechowski Zdzislaw\nType: \nNo: 3/3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T175000
-DTEND:20250930T192500
-SUMMARY:TTk
-DESCRIPTION:Technologie teleinformatyczne w zarządzaniu kadrami\nType: \nNo: 1/1\nLecturer: mgr inż. Anna Szymańczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T194000
-DTEND:20250930T211500
-SUMMARY:w 4
-DESCRIPTION:dr inż. Wojciechowski Zdzislaw\nType: \nNo: 4/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250301T080000
-DTEND:20250301T093500
+DTSTART:20250308T080000
+DTEND:20250308T093500
 SUMMARY:TTk (w)
-LOCATION:28
-DESCRIPTION:Technologie teleinformatyczne w zarządzaniu kadrami\nType: Lecture\nNo: 1/2\nLecturer: mgr inż. Anna Szymańczyk
+LOCATION:0.28/135
+DESCRIPTION:Technologie teleinformatyczne w zarządzaniu kadrami\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Szafrański Bolesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250322T080000
-DTEND:20250322T093500
+DTSTART:20250329T080000
+DTEND:20250329T093500
 SUMMARY:PrP (ć)
-LOCATION:16
-DESCRIPTION:Prawo pracy\nType: Exercises\nNo: 1/2\nLecturer: dr Andrzej Strychalski
+LOCATION:3.16/135
+DESCRIPTION:Prawo pracy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250405T080000
-DTEND:20250405T093500
+DTSTART:20250412T080000
+DTEND:20250412T093500
 SUMMARY:PrP (ć)
-LOCATION:16
-DESCRIPTION:Prawo pracy\nType: Exercises\nNo: 2/2\nLecturer: dr Andrzej Strychalski
+LOCATION:3.16/135
+DESCRIPTION:Prawo pracy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250503T080000
-DTEND:20250503T093500
+DTSTART:20250510T080000
+DTEND:20250510T093500
 SUMMARY:TTk (ć)
-LOCATION:16
-DESCRIPTION:Technologie teleinformatyczne w zarządzaniu kadrami\nType: Exercises\nNo: 1/2\nLecturer: mgr inż. Anna Szymańczyk
+LOCATION:3.16/135
+DESCRIPTION:Technologie teleinformatyczne w zarządzaniu kadrami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Szafrański Bolesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250301T095000
-DTEND:20250301T112500
+DTSTART:20250308T095000
+DTEND:20250308T112500
 SUMMARY:TTk (w)
-LOCATION:28
-DESCRIPTION:Technologie teleinformatyczne w zarządzaniu kadrami\nType: Lecture\nNo: 2/2\nLecturer: mgr inż. Anna Szymańczyk
+LOCATION:0.28/135
+DESCRIPTION:Technologie teleinformatyczne w zarządzaniu kadrami\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Szafrański Bolesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250322T095000
-DTEND:20250322T112500
+DTSTART:20250329T095000
+DTEND:20250329T112500
 SUMMARY:sdk (ć)
-LOCATION:16
-DESCRIPTION:System działań kadrowych\nType: Exercises\nNo: 1/2\nLecturer: dr Kazimierz Piotrkowski
+LOCATION:3.16/135
+DESCRIPTION:System działań kadrowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250405T095000
-DTEND:20250405T112500
-SUMMARY:Komu.strateg (ć)
-LOCATION:16
-DESCRIPTION:Komu.strateg\nType: Exercises\nNo: 1/2\nLecturer: dr hab. Maciej Marczyk
+DTSTART:20250412T095000
+DTEND:20250412T112500
+SUMMARY:Komu.strateg. (ć)
+LOCATION:3.16/135
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250503T095000
-DTEND:20250503T112500
-SUMMARY:Komu.strateg (ć)
-LOCATION:16
-DESCRIPTION:Komu.strateg\nType: Exercises\nNo: 2/2\nLecturer: dr hab. Maciej Marczyk
+DTSTART:20250510T095000
+DTEND:20250510T112500
+SUMMARY:Komu.strateg. (ć)
+LOCATION:3.16/135
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250301T114000
-DTEND:20250301T131500
+DTSTART:20250308T114000
+DTEND:20250308T131500
 SUMMARY:KLwSZJ (w)
-LOCATION:28
-DESCRIPTION:Kapitał ludzki w systemach zarządzania jakością\nType: Lecture\nNo: 1/2\nLecturer: Wjc
+LOCATION:0.28/135
+DESCRIPTION:Kapitał ludzki w systemach zarządzania jakością\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr inż. Wojciechowski Zdzislaw
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250322T114000
-DTEND:20250322T131500
-SUMMARY:Komu.strateg (w)
-LOCATION:16
-DESCRIPTION:Komu.strateg\nType: Lecture\nNo: 1/3\nLecturer: dr hab. Maciej Marczyk
+DTSTART:20250329T114000
+DTEND:20250329T131500
+SUMMARY:Komu.strateg. (w)
+LOCATION:3.16/135
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250405T114000
-DTEND:20250405T131500
+DTSTART:20250412T114000
+DTEND:20250412T131500
 SUMMARY:ZwGw (ć)
-LOCATION:16
-DESCRIPTION:Zarządzanie w gospodarce opartej na wiedzy\nType: Exercises\nNo: 1/4\nLecturer: dr hab. Gabriel Nowacki
+LOCATION:3.16/135
+DESCRIPTION:Zarządzanie w gospodarce opartej na wiedzy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250503T114000
-DTEND:20250503T131500
+DTSTART:20250510T114000
+DTEND:20250510T131500
 SUMMARY:KLwSZJ (ć)
-LOCATION:16
-DESCRIPTION:Kapitał ludzki w systemach zarządzania jakością\nType: Exercises\nNo: 1/2\nLecturer: Wjc
+LOCATION:3.16/135
+DESCRIPTION:Kapitał ludzki w systemach zarządzania jakością\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr inż. Wojciechowski Zdzislaw
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250301T133000
-DTEND:20250301T150500
-SUMMARY:Komu.strateg (w)
-LOCATION:28
-DESCRIPTION:Komu.strateg\nType: Lecture\nNo: 2/3\nLecturer: dr hab. Maciej Marczyk
+DTSTART:20250308T133000
+DTEND:20250308T150500
+SUMMARY:Komu.strateg. (w)
+LOCATION:0.28/135
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250322T133000
-DTEND:20250322T150500
+DTSTART:20250329T133000
+DTEND:20250329T150500
 SUMMARY:TTk (ć)
-LOCATION:16
-DESCRIPTION:Technologie teleinformatyczne w zarządzaniu kadrami\nType: Exercises\nNo: 2/2\nLecturer: mgr inż. Anna Szymańczyk
+LOCATION:3.16/135
+DESCRIPTION:Technologie teleinformatyczne w zarządzaniu kadrami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Szafrański Bolesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250405T133000
-DTEND:20250405T150500
+DTSTART:20250412T133000
+DTEND:20250412T150500
 SUMMARY:ZwGw (ć)
-LOCATION:16
-DESCRIPTION:Zarządzanie w gospodarce opartej na wiedzy\nType: Exercises\nNo: 2/4\nLecturer: dr hab. Gabriel Nowacki
+LOCATION:3.16/135
+DESCRIPTION:Zarządzanie w gospodarce opartej na wiedzy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250503T133000
-DTEND:20250503T150500
+DTSTART:20250510T133000
+DTEND:20250510T150500
 SUMMARY:ZwGw (ć)
-LOCATION:16
-DESCRIPTION:Zarządzanie w gospodarce opartej na wiedzy\nType: Exercises\nNo: 3/4\nLecturer: dr hab. Gabriel Nowacki
+LOCATION:3.16/135
+DESCRIPTION:Zarządzanie w gospodarce opartej na wiedzy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250301T160000
-DTEND:20250301T173500
-SUMMARY:Komu.strateg (w)
-LOCATION:28
-DESCRIPTION:Komu.strateg\nType: Lecture\nNo: 3/3\nLecturer: dr hab. Maciej Marczyk
+DTSTART:20250308T160000
+DTEND:20250308T173500
+SUMMARY:Komu.strateg. (w)
+LOCATION:0.28/135
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250322T160000
-DTEND:20250322T173500
+DTSTART:20250329T160000
+DTEND:20250329T173500
 SUMMARY:ZwGw (w)
-LOCATION:16
-DESCRIPTION:Zarządzanie w gospodarce opartej na wiedzy\nType: Lecture\nNo: 1/1\nLecturer: dr hab. Gabriel Nowacki
+LOCATION:3.16/135
+DESCRIPTION:Zarządzanie w gospodarce opartej na wiedzy\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250405T160000
-DTEND:20250405T173500
+DTSTART:20250412T160000
+DTEND:20250412T173500
 SUMMARY:SPK (S)
-LOCATION:16
-DESCRIPTION:Seminarium pracy końcowej\nType: Seminar\nNo: 1/4\nLecturer: dr hab. Gabriel Nowacki
+LOCATION:3.16/135
+DESCRIPTION:Seminarium pracy końcowej\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/4\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250503T160000
-DTEND:20250503T173500
+DTSTART:20250510T160000
+DTEND:20250510T173500
 SUMMARY:sdk (w)
-LOCATION:16
-DESCRIPTION:System działań kadrowych\nType: Lecture\nNo: 1/2\nLecturer: dr Kazimierz Piotrkowski
+LOCATION:3.16/135
+DESCRIPTION:System działań kadrowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250322T175000
-DTEND:20250322T192500
+DTSTART:20250329T175000
+DTEND:20250329T192500
 SUMMARY:SPK (S)
-LOCATION:16
-DESCRIPTION:Seminarium pracy końcowej\nType: Seminar\nNo: 2/4\nLecturer: dr hab. Gabriel Nowacki
+LOCATION:3.16/135
+DESCRIPTION:Seminarium pracy końcowej\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/4\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250405T175000
-DTEND:20250405T192500
+DTSTART:20250412T175000
+DTEND:20250412T192500
 SUMMARY:SPK (S)
-LOCATION:16
-DESCRIPTION:Seminarium pracy końcowej\nType: Seminar\nNo: 3/4\nLecturer: dr hab. Gabriel Nowacki
+LOCATION:3.16/135
+DESCRIPTION:Seminarium pracy końcowej\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250302T080000
-DTEND:20250302T093500
+DTSTART:20250309T080000
+DTEND:20250309T093500
 SUMMARY:WMo (w)
-LOCATION:28
-DESCRIPTION:Wykłady monograficzne\nType: Lecture\nNo: 1/5\nLecturer: mgr inż. Michał Sobolewski
+LOCATION:0.28/135
+DESCRIPTION:Wykłady monograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250323T080000
-DTEND:20250323T093500
+DTSTART:20250330T080000
+DTEND:20250330T093500
 SUMMARY:sdk (w)
-LOCATION:16
-DESCRIPTION:System działań kadrowych\nType: Lecture\nNo: 2/2\nLecturer: dr Kazimierz Piotrkowski
+LOCATION:3.16/135
+DESCRIPTION:System działań kadrowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250406T080000
-DTEND:20250406T093500
+DTSTART:20250413T080000
+DTEND:20250413T093500
 SUMMARY:WMo (w)
-LOCATION:16
-DESCRIPTION:Wykłady monograficzne\nType: Lecture\nNo: 2/5\nLecturer: prof. dr hab. inż. Wiesław Sasin
+LOCATION:3.16/135
+DESCRIPTION:Wykłady monograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. Świniarski Janusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250504T080000
-DTEND:20250504T093500
+DTSTART:20250511T080000
+DTEND:20250511T093500
 SUMMARY:WMo (w)
-LOCATION:16
-DESCRIPTION:Wykłady monograficzne\nType: Lecture\nNo: 3/5\nLecturer: mgr inż. Michał Sobolewski
+LOCATION:3.16/135
+DESCRIPTION:Wykłady monograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250302T095000
-DTEND:20250302T112500
+DTSTART:20250309T095000
+DTEND:20250309T112500
 SUMMARY:WMo (w)
-LOCATION:28
-DESCRIPTION:Wykłady monograficzne\nType: Lecture\nNo: 4/5\nLecturer: mgr inż. Michał Sobolewski
+LOCATION:0.28/135
+DESCRIPTION:Wykłady monograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250323T095000
-DTEND:20250323T112500
+DTSTART:20250330T095000
+DTEND:20250330T112500
 SUMMARY:sdk (ć)
-LOCATION:16
-DESCRIPTION:System działań kadrowych\nType: Exercises\nNo: 2/2\nLecturer: dr Kazimierz Piotrkowski
+LOCATION:3.16/135
+DESCRIPTION:System działań kadrowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250406T095000
-DTEND:20250406T112500
+DTSTART:20250413T095000
+DTEND:20250413T112500
 SUMMARY:KLwSZJ (ć)
-LOCATION:16
-DESCRIPTION:Kapitał ludzki w systemach zarządzania jakością\nType: Exercises\nNo: 2/2\nLecturer: Wjc
+LOCATION:3.16/135
+DESCRIPTION:Kapitał ludzki w systemach zarządzania jakością\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr inż. Wojciechowski Zdzislaw
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250504T095000
-DTEND:20250504T112500
+DTSTART:20250511T095000
+DTEND:20250511T112500
 SUMMARY:ZwGw (ć)
-LOCATION:16
-DESCRIPTION:Zarządzanie w gospodarce opartej na wiedzy\nType: Exercises\nNo: 4/4\nLecturer: dr hab. Gabriel Nowacki
+LOCATION:3.16/135
+DESCRIPTION:Zarządzanie w gospodarce opartej na wiedzy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250302T114000
-DTEND:20250302T131500
+DTSTART:20250309T114000
+DTEND:20250309T131500
 SUMMARY:PrP (w)
-LOCATION:28
-DESCRIPTION:Prawo pracy\nType: Lecture\nNo: 1/2\nLecturer: dr Andrzej Strychalski
+LOCATION:0.28/135
+DESCRIPTION:Prawo pracy\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250323T114000
-DTEND:20250323T131500
+DTSTART:20250330T114000
+DTEND:20250330T131500
 SUMMARY:KLwSZJ (w)
-LOCATION:16
-DESCRIPTION:Kapitał ludzki w systemach zarządzania jakością\nType: Lecture\nNo: 2/2\nLecturer: Wjc
+LOCATION:3.16/135
+DESCRIPTION:Kapitał ludzki w systemach zarządzania jakością\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Wojciechowski Zdzislaw
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250406T114000
-DTEND:20250406T131500
+DTSTART:20250413T114000
+DTEND:20250413T131500
 SUMMARY:PrP (w)
-LOCATION:28
-DESCRIPTION:Prawo pracy\nType: Lecture\nNo: 2/2\nLecturer: dr Andrzej Strychalski
+LOCATION:0.28/135
+DESCRIPTION:Prawo pracy\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250504T114000
-DTEND:20250504T131500
+DTSTART:20250511T114000
+DTEND:20250511T131500
 SUMMARY:SPK (S)
-LOCATION:16
-DESCRIPTION:Seminarium pracy końcowej\nType: Seminar\nNo: 4/4\nLecturer: dr hab. Gabriel Nowacki
+LOCATION:3.16/135
+DESCRIPTION:Seminarium pracy końcowej\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250323T133000
-DTEND:20250323T150500
+DTSTART:20250330T133000
+DTEND:20250330T150500
 SUMMARY:WMo (w)
-LOCATION:16
-DESCRIPTION:Wykłady monograficzne\nType: Lecture\nNo: 5/5\nLecturer: prof. dr hab. inż. Wiesław Sasin
+LOCATION:3.16/135
+DESCRIPTION:Wykłady monograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. Świniarski Janusz
 END:VEVENT
 END:VCALENDAR

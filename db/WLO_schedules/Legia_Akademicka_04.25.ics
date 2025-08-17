@@ -4,157 +4,73 @@ PRODID:-//scheduleWLO//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Legia_Akademicka_04.25
 BEGIN:VEVENT
-DTSTART:20250929T080000
-DTEND:20250929T093500
-SUMMARY:E 1
-DESCRIPTION:ppłk dr inż. Grzelak Małgorzata\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T095000
-DTEND:20250929T112500
-SUMMARY:PSW/POP
-DESCRIPTION:Metodyka Szkolenia Wojskowego /Powszechna obrona przeciwlotnicza\nType: \nNo: 1/1\nLecturer: mgr Tomasz Misiejuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T114000
-DTEND:20250929T131500
-SUMMARY:w 2
-DESCRIPTION:ppłk mgr Misiejuk Tomasz\nType: \nNo: 1/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T133000
-DTEND:20250929T150500
-SUMMARY:PiDW/Egzamin
-DESCRIPTION:Profilaktyka i dyscyplina wojskowa/Egzamin\nType: \nNo: 1/2\nLecturer: dr hab. inż. Norbert Grzesik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T160000
-DTEND:20250929T173500
-SUMMARY:w/e 2
-DESCRIPTION:ppłk dr inż. Grzelak Małgorzata\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T175000
-DTEND:20250929T192500
-SUMMARY:PW
-DESCRIPTION:Przywództwo wojskowe\nType: \nNo: 1/1\nLecturer: dr hab. inż. Agnieszka Zwirowicz-Rutkowska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T194000
-DTEND:20250929T211500
-SUMMARY:w 4
-DESCRIPTION:dr Załoga Wiesława\nType: \nNo: 1/2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T080000
-DTEND:20250930T093500
-SUMMARY:w 2
-DESCRIPTION:ppłk mgr Misiejuk Tomasz\nType: \nNo: 2/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T095000
-DTEND:20250930T112500
-SUMMARY:SzS/T
-DESCRIPTION:Szkolenie strzeleckie/Terenoznawstwo\nType: \nNo: 1/1\nLecturer: dr Katarzyna Pawlak; mgr inż. Kazimierz Gołoś
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T114000
-DTEND:20250930T131500
-SUMMARY:w 2
-DESCRIPTION:ppłk mgr Misiejuk Tomasz\nType: \nNo: 3/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T133000
-DTEND:20250930T150500
-SUMMARY:w 2
-DESCRIPTION:ppłk mgr Misiejuk Tomasz\nType: \nNo: 4/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T160000
-DTEND:20250930T173500
-SUMMARY:Ta
-DESCRIPTION:Ta\nType: \nNo: 1/1\nLecturer: mgr Stanisław Ślusakowicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T175000
-DTEND:20250930T192500
-SUMMARY:w 4
-DESCRIPTION:dr Załoga Wiesława\nType: \nNo: 2/2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T194000
-DTEND:20250930T211500
-SUMMARY:T/RWE
-DESCRIPTION:Taktyka/Rozpoznanie i walka elektroniczna\nType: \nNo: 1/1\nLecturer: mgr Stanisław Ślusakowicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250419T080000
-DTEND:20250419T093500
+DTSTART:20250426T080000
+DTEND:20250426T093500
 SUMMARY:PSW/POP (w)
-LOCATION:04
-DESCRIPTION:Metodyka Szkolenia Wojskowego /Powszechna obrona przeciwlotnicza\nType: Lecture\nNo: 1/1\nLecturer: mgr Tomasz Misiejuk
+LOCATION:1.9/16
+DESCRIPTION:Metodyka Szkolenia Wojskowego /Powszechna obrona przeciwlotnicza\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: ppłk mgr Misiejuk Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250419T095000
-DTEND:20250419T112500
+DTSTART:20250426T095000
+DTEND:20250426T112500
 SUMMARY:SzS/T (w)
-LOCATION:04
-DESCRIPTION:Szkolenie strzeleckie/Terenoznawstwo\nType: Lecture\nNo: 1/1\nLecturer: dr Katarzyna Pawlak; mgr inż. Kazimierz Gołoś
+LOCATION:1.9/16
+DESCRIPTION:Szkolenie strzeleckie/Terenoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: mgr inż. Gołoś Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250419T114000
-DTEND:20250419T131500
+DTSTART:20250426T114000
+DTEND:20250426T131500
 SUMMARY:PW (w)
-LOCATION:04
-DESCRIPTION:Przywództwo wojskowe\nType: Lecture\nNo: 1/2\nLecturer: dr hab. inż. Agnieszka Zwirowicz-Rutkowska
+LOCATION:1.9/16
+DESCRIPTION:Przywództwo wojskowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Załoga Wiesława
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250419T133000
-DTEND:20250419T150500
+DTSTART:20250426T133000
+DTEND:20250426T150500
 SUMMARY:PW (w)
-LOCATION:04
-DESCRIPTION:Przywództwo wojskowe\nType: Lecture\nNo: 2/2\nLecturer: dr hab. inż. Agnieszka Zwirowicz-Rutkowska
+LOCATION:1.9/16
+DESCRIPTION:Przywództwo wojskowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Załoga Wiesława
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250419T160000
-DTEND:20250419T173500
+DTSTART:20250426T160000
+DTEND:20250426T173500
 SUMMARY:SMed (w)
-LOCATION:04
-DESCRIPTION:Szkolenie medyczne\nType: Lecture\nNo: 1/1\nLecturer: mgr Katarzyna Szwed
+LOCATION:1.9/16
+DESCRIPTION:Szkolenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: ppor. mgr Szwed Katarzyna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250420T080000
-DTEND:20250420T093500
+DTSTART:20250427T080000
+DTEND:20250427T093500
 SUMMARY:Ta (w)
-LOCATION:04
-DESCRIPTION:Ta\nType: Lecture\nNo: 1/2\nLecturer: mgr Stanisław Ślusakowicz
+LOCATION:1.9/16
+DESCRIPTION:Taktyka\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250420T095000
-DTEND:20250420T112500
+DTSTART:20250427T095000
+DTEND:20250427T112500
 SUMMARY:Ta (w)
-LOCATION:04
-DESCRIPTION:Ta\nType: Lecture\nNo: 2/2\nLecturer: mgr Stanisław Ślusakowicz
+LOCATION:1.9/16
+DESCRIPTION:Taktyka\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250420T114000
-DTEND:20250420T131500
+DTSTART:20250427T114000
+DTEND:20250427T131500
 SUMMARY:T/RWE (w)
-LOCATION:04
-DESCRIPTION:Taktyka/Rozpoznanie i walka elektroniczna\nType: Lecture\nNo: 1/1\nLecturer: mgr Stanisław Ślusakowicz
+LOCATION:1.9/16
+DESCRIPTION:Taktyka/Rozpoznanie i walka elektroniczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250420T133000
-DTEND:20250420T150500
-SUMMARY:PiDW/Egzamin
-LOCATION:04
-DESCRIPTION:Profilaktyka i dyscyplina wojskowa/Egzamin\nType: \nNo: 2/2\nLecturer: dr hab. inż. Norbert Grzesik
+DTSTART:20250427T133000
+DTEND:20250427T150500
+SUMMARY:PiDW/Egzamin (w/e)
+LOCATION:1.9/16
+DESCRIPTION:Profilaktyka i dyscyplina wojskowa/Egzamin\nRodzaj zajęć: (w/e)\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250420T160000
-DTEND:20250420T173500
-SUMMARY:50%
-LOCATION:04
-DESCRIPTION:50%\nType: \nNo: 1/1\nLecturer: dr hab. inż. Norbert Grzesik
+DTSTART:20250427T160000
+DTEND:20250427T173500
+SUMMARY:50% Egz. (E)
+LOCATION:1.9/16
+DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 END:VCALENDAR

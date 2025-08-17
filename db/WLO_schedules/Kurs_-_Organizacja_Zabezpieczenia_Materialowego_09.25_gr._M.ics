@@ -4,107 +4,66 @@ PRODID:-//scheduleWLO//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Kurs_-_Organizacja_Zabezpieczenia_Materialowego_09.25_gr._M
 BEGIN:VEVENT
-DTSTART:20250922T080000
-DTEND:20250922T093500
-SUMMARY:Ing
-DESCRIPTION:Ing\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250929T080000
 DTEND:20250929T093500
-SUMMARY:w 4
-DESCRIPTION:dr Spychała Dariusz\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250922T095000
-DTEND:20250922T112500
-SUMMARY:RK (w)
-LOCATION:09
-DESCRIPTION:Rozpoczęcie kursu\nType: Lecture\nNo: 1/1\nLecturer: dr hab. Paweł Kler
+SUMMARY:Ing 
+LOCATION:
+DESCRIPTION:Ing\nRodzaj zajęć: -\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250929T095000
 DTEND:20250929T112500
-SUMMARY:RK
-DESCRIPTION:Rozpoczęcie kursu\nType: \nNo: 1/1\nLecturer: dr hab. Paweł Kler
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250922T114000
-DTEND:20250922T131500
-SUMMARY:JPZnPSZRP (w)
-LOCATION:09
-DESCRIPTION:Jakość produktów zakupywanych na potrzeby SZ RP\nType: Lecture\nNo: 1/2
+SUMMARY:RK (w)
+LOCATION:1.16/16; 1.17/16
+DESCRIPTION:Rozpoczęcie kursu\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250929T114000
 DTEND:20250929T131500
-SUMMARY:w 2
-DESCRIPTION:dr Spychała Dariusz\nType: \nNo: 1/2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250922T133000
-DTEND:20250922T150500
 SUMMARY:JPZnPSZRP (w)
-LOCATION:09
-DESCRIPTION:Jakość produktów zakupywanych na potrzeby SZ RP\nType: Lecture\nNo: 2/2
+LOCATION:1.16/16
+DESCRIPTION:Jakość produktów zakupywanych na potrzeby SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250929T133000
 DTEND:20250929T150500
-SUMMARY:w 2
-DESCRIPTION:dr Spychała Dariusz\nType: \nNo: 2/2
+SUMMARY:JPZnPSZRP (w)
+LOCATION:1.16/16
+DESCRIPTION:Jakość produktów zakupywanych na potrzeby SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250929T160000
-DTEND:20250929T173500
-SUMMARY:ZmW
-DESCRIPTION:Zabezpieczenie materiałowe wojsk\nType: \nNo: 1/1\nLecturer: dr hab. Paweł Kler
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T175000
-DTEND:20250929T192500
-SUMMARY:w 6
-DESCRIPTION:dr hab., prof. WAT Kler Paweł\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T194000
-DTEND:20250929T211500
-SUMMARY:ZM SZ RP
-DESCRIPTION:Zabezpieczenie mundurowe SZ RP\nType: \nNo: 1/1\nLecturer: mgr Adam Dembek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250923T080000
-DTEND:20250923T093500
+DTSTART:20250930T080000
+DTEND:20250930T093500
 SUMMARY:ZmW (w)
-LOCATION:09
-DESCRIPTION:Zabezpieczenie materiałowe wojsk\nType: Lecture\nNo: 1/3\nLecturer: dr hab. Paweł Kler
+LOCATION:1.16/16
+DESCRIPTION:Zabezpieczenie materiałowe wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250923T095000
-DTEND:20250923T112500
+DTSTART:20250930T095000
+DTEND:20250930T112500
 SUMMARY:ZmW (w)
-LOCATION:09
-DESCRIPTION:Zabezpieczenie materiałowe wojsk\nType: Lecture\nNo: 2/3\nLecturer: dr hab. Paweł Kler
+LOCATION:1.16/16
+DESCRIPTION:Zabezpieczenie materiałowe wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250923T114000
-DTEND:20250923T131500
+DTSTART:20250930T114000
+DTEND:20250930T131500
 SUMMARY:ZmW (w)
-LOCATION:09
-DESCRIPTION:Zabezpieczenie materiałowe wojsk\nType: Lecture\nNo: 3/3\nLecturer: dr hab. Paweł Kler
+LOCATION:1.16/16
+DESCRIPTION:Zabezpieczenie materiałowe wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250923T133000
-DTEND:20250923T150500
-SUMMARY:ZM SZ RP (w)
-LOCATION:09
-DESCRIPTION:Zabezpieczenie mundurowe SZ RP\nType: Lecture\nNo: 1/2\nLecturer: mgr Adam Dembek
+DTSTART:20250930T133000
+DTEND:20250930T150500
+SUMMARY:ZM 
+LOCATION:1.17/16
+DESCRIPTION:ZM\nRodzaj zajęć: -\nNumer zajęć: 1/2\nProwadzący: dr Spychała Dariusz; prof. WAT Kler Paweł; mgr Dembek Adam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250923T160000
-DTEND:20250923T173500
-SUMMARY:ZM SZ RP (w)
-LOCATION:09
-DESCRIPTION:Zabezpieczenie mundurowe SZ RP\nType: Lecture\nNo: 2/2\nLecturer: mgr Adam Dembek
+DTSTART:20250930T160000
+DTEND:20250930T173500
+SUMMARY:ZM 
+LOCATION:1.17/16
+DESCRIPTION:ZM\nRodzaj zajęć: -\nNumer zajęć: 2/2\nProwadzący: dr Spychała Dariusz; prof. WAT Kler Paweł; mgr Dembek Adam
 END:VEVENT
 END:VCALENDAR

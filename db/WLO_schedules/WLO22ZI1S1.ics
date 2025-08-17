@@ -4,668 +4,591 @@ PRODID:-//scheduleWLO//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO22ZI1S1
 BEGIN:VEVENT
-DTSTART:20250929T080000
-DTEND:20250929T093500
-SUMMARY:w 16
-DESCRIPTION:dr Miłek Marzenna\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T095000
-DTEND:20250929T112500
-SUMMARY:ć 14
-DESCRIPTION:dr Miłek Marzenna\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T114000
-DTEND:20250929T131500
-SUMMARY:E 2
-DESCRIPTION:dr Miłek Marzenna\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T133000
-DTEND:20250929T150500
-SUMMARY:Ep 2
-DESCRIPTION:dr Miłek Marzenna\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T160000
-DTEND:20250929T173500
-SUMMARY:Phd
-DESCRIPTION:Podstawy hurtowni danych\nType: \nNo: 1/1\nLecturer: dr Jerzy Różański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T175000
-DTEND:20250929T192500
-SUMMARY:w 12
-DESCRIPTION:dr inż. Rozmus Stefan\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T194000
-DTEND:20250929T211500
-SUMMARY:L 18
-DESCRIPTION:dr inż. Rozmus Stefan\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250304T080000
-DTEND:20250304T093500
+DTSTART:20250311T080000
+DTEND:20250311T093500
 SUMMARY:Zsiz (L)
-LOCATION:135
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Laboratory\nNo: 1/18
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250429T080000
-DTEND:20250429T093500
-SUMMARY:Zsiz (E)
-LOCATION:135
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Exam\nNo: 1/1
+LOCATION:4.17a/135
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/18\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
 DTEND:20250506T093500
+SUMMARY:Zsiz (E)
+LOCATION:aula/135
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Miłek Marzenna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T080000
+DTEND:20250513T093500
 SUMMARY:Zsiz (Ep)
-LOCATION:135
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Retake exam\nNo: 1/1
+LOCATION:aula/135
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250930T080000
-DTEND:20250930T093500
-SUMMARY:S 3
-DESCRIPTION:dr Woźniak Jacek\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250304T095000
-DTEND:20250304T112500
+DTSTART:20250311T095000
+DTEND:20250311T112500
 SUMMARY:Zsiz (L)
-LOCATION:135
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Laboratory\nNo: 2/18
+LOCATION:4.17a/135
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/18\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250401T095000
-DTEND:20250401T112500
-SUMMARY:Sd (S)
-LOCATION:16
-DESCRIPTION:Sd\nType: Seminar\nNo: 1/11\nLecturer: dr hab. inż. Andrzej Araszkiewicz
+DTSTART:20250408T095000
+DTEND:20250408T112500
+SUMMARY:Sd. (S)
+LOCATION:0.6/16
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/13\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250930T095000
-DTEND:20250930T112500
-SUMMARY:S 2
-DESCRIPTION:dr Piotrkowski Kazimierz\nType: \nNo: 1/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250304T114000
-DTEND:20250304T131500
+DTSTART:20250311T114000
+DTEND:20250311T131500
 SUMMARY:Zsiz (L)
-LOCATION:135
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Laboratory\nNo: 3/18
+LOCATION:4.17a/135
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/18\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250401T114000
-DTEND:20250401T131500
+DTSTART:20250408T114000
+DTEND:20250408T131500
 SUMMARY:Phd (L)
-LOCATION:227
-DESCRIPTION:Podstawy hurtowni danych\nType: Laboratory\nNo: 1/9\nLecturer: dr Jerzy Różański
+LOCATION:227 S
+DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250930T114000
-DTEND:20250930T131500
-SUMMARY:S 2
-DESCRIPTION:dr Piotrkowski Kazimierz\nType: \nNo: 2/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250304T133000
-DTEND:20250304T150500
+DTSTART:20250311T133000
+DTEND:20250311T150500
 SUMMARY:Zsiz (L)
-LOCATION:135
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Laboratory\nNo: 4/18
+LOCATION:4.17a/135
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/18\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250401T133000
-DTEND:20250401T150500
+DTSTART:20250408T133000
+DTEND:20250408T150500
 SUMMARY:Phd (L)
-LOCATION:227
-DESCRIPTION:Podstawy hurtowni danych\nType: Laboratory\nNo: 2/9\nLecturer: dr Jerzy Różański
+LOCATION:227 S
+DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250422T133000
-DTEND:20250422T150500
-SUMMARY:Sd (S)
-LOCATION:21
-DESCRIPTION:Sd\nType: Seminar\nNo: 2/11\nLecturer: dr hab. inż. prof. WAT Jacek Wojtanowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T133000
-DTEND:20250930T150500
-SUMMARY:S 6
-DESCRIPTION:dr hab. Sołoducha Krzysztof\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250311T160000
-DTEND:20250311T173500
-SUMMARY:Phd (L)
-LOCATION:227
-DESCRIPTION:Podstawy hurtowni danych\nType: Laboratory\nNo: 3/9\nLecturer: dr Jerzy Różański
+DTSTART:20250429T133000
+DTEND:20250429T150500
+SUMMARY:Sd. (S)
+LOCATION:0.21/16
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/13\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T160000
 DTEND:20250318T173500
-SUMMARY:Zsiz (L)
-LOCATION:23
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Laboratory\nNo: 5/18
+SUMMARY:Phd (L)
+LOCATION:227 S
+DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T160000
 DTEND:20250325T173500
-SUMMARY:Bin (ć)
-LOCATION:135
-DESCRIPTION:Bezpieczeństwo informacyjne\nType: Exercises\nNo: 1/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250422T160000
-DTEND:20250422T173500
 SUMMARY:Zsiz (L)
-LOCATION:135
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Laboratory\nNo: 6/18
+LOCATION:4.23/135
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/18\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250930T160000
-DTEND:20250930T173500
-SUMMARY:S 5
-DESCRIPTION:dr hab. Wereda Wioletta\nType: \nNo: 1/1
+DTSTART:20250401T160000
+DTEND:20250401T173500
+SUMMARY:Bin (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250311T175000
-DTEND:20250311T192500
-SUMMARY:Phd (L)
-LOCATION:227
-DESCRIPTION:Podstawy hurtowni danych\nType: Laboratory\nNo: 4/9\nLecturer: dr Jerzy Różański
+DTSTART:20250429T160000
+DTEND:20250429T173500
+SUMMARY:Zsiz (L)
+LOCATION:4.17a/135
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/18\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T175000
 DTEND:20250318T192500
-SUMMARY:Zsiz (L)
-LOCATION:23
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Laboratory\nNo: 7/18
+SUMMARY:Phd (L)
+LOCATION:227 S
+DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T175000
 DTEND:20250325T192500
+SUMMARY:Zsiz (L)
+LOCATION:4.23/135
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/18\nProwadzący: dr Miłek Marzenna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250401T175000
+DTEND:20250401T192500
 SUMMARY:Bin (ć)
-LOCATION:135
-DESCRIPTION:Bezpieczeństwo informacyjne\nType: Exercises\nNo: 2/7
+LOCATION:4.17a/135
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250422T175000
-DTEND:20250422T192500
+DTSTART:20250429T175000
+DTEND:20250429T192500
 SUMMARY:Zsiz (L)
-LOCATION:135
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Laboratory\nNo: 8/18
+LOCATION:4.17a/135
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/18\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250930T175000
-DTEND:20250930T192500
-SUMMARY:S 2
-DESCRIPTION:dr Piotrkowski Kazimierz\nType: \nNo: 3/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250422T194000
-DTEND:20250422T211500
+DTSTART:20250429T194000
+DTEND:20250429T211500
 SUMMARY:Zsiz (L)
-LOCATION:135
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Laboratory\nNo: 9/18
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T194000
-DTEND:20250930T211500
-SUMMARY:S 2
-DESCRIPTION:dr Piotrkowski Kazimierz\nType: \nNo: 4/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250409T080000
-DTEND:20250409T093500
-SUMMARY:Zsiz (L)
-LOCATION:17
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Laboratory\nNo: 10/18
+LOCATION:4.17a/135
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/18\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T080000
 DTEND:20250416T093500
-SUMMARY:Zsiz (w)
-LOCATION:255
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Lecture\nNo: 1/12
+SUMMARY:Zsiz (L)
+LOCATION:1.17/16
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/18\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250312T095000
-DTEND:20250312T112500
-SUMMARY:50%
-LOCATION:27
-DESCRIPTION:50%\nType: \nNo: 1/2\nLecturer: prof. dr hab. Wojciech Włodarkiewicz
+DTSTART:20250423T080000
+DTEND:20250423T093500
+SUMMARY:Zsiz (w)
+LOCATION:255 S
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Wykład\nNumer zajęć: 1/12\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T095000
 DTEND:20250319T112500
-SUMMARY:Sd (S)
-LOCATION:21
-DESCRIPTION:Sd\nType: Seminar\nNo: 3/11\nLecturer: prof. dr hab. Wojciech Włodarkiewicz
+SUMMARY:50% Sd. (S)
+LOCATION:1.27/135
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/13\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T095000
 DTEND:20250326T112500
-SUMMARY:Sd (S)
-LOCATION:16
-DESCRIPTION:Sd\nType: Seminar\nNo: 4/11\nLecturer: mgr inż. Sylwia Zawadzka
+SUMMARY:Sd. (S)
+LOCATION:0.21/16
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/13\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T095000
 DTEND:20250402T112500
-SUMMARY:Sd (S)
-LOCATION:17
-DESCRIPTION:Sd\nType: Seminar\nNo: 5/11\nLecturer: prof. dr hab. Wojciech Włodarkiewicz
+SUMMARY:Sd. (S)
+LOCATION:0.7/16
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T095000
 DTEND:20250409T112500
-SUMMARY:Zsiz (L)
-LOCATION:17
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Laboratory\nNo: 11/18
+SUMMARY:Sd. (S)
+LOCATION:1.17/16
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/13\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T095000
 DTEND:20250416T112500
+SUMMARY:Zsiz (L)
+LOCATION:1.17/16
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/18\nProwadzący: dr Miłek Marzenna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T095000
+DTEND:20250423T112500
 SUMMARY:Zsiz (w)
-LOCATION:255
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Lecture\nNo: 2/12
+LOCATION:255 S
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Wykład\nNumer zajęć: 2/12\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250507T095000
-DTEND:20250507T112500
+DTSTART:20250514T095000
+DTEND:20250514T112500
 SUMMARY:Bin (Ep)
-LOCATION:255
-DESCRIPTION:Bezpieczeństwo informacyjne\nType: Retake exam\nNo: 1/1
+LOCATION:255 S
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250416T114000
-DTEND:20250416T131500
-SUMMARY:Sd (S)
-LOCATION:19
-DESCRIPTION:Sd\nType: Seminar\nNo: 6/11\nLecturer: Msk
+DTSTART:20250423T114000
+DTEND:20250423T131500
+SUMMARY:Sd. (S)
+LOCATION:0.19/135
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/13
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250423T133000
-DTEND:20250423T150500
-SUMMARY:Sd (S)
-LOCATION:16
-DESCRIPTION:Sd\nType: Seminar\nNo: 7/11\nLecturer: dr Kazimierz Piotrkowski
+DTSTART:20250430T133000
+DTEND:20250430T150500
+SUMMARY:Sd. (S)
+LOCATION:0.8/16
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/13
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250423T160000
-DTEND:20250423T173500
+DTSTART:20250430T160000
+DTEND:20250430T173500
 SUMMARY:Bin (ć)
-LOCATION:135
-DESCRIPTION:Bezpieczeństwo informacyjne\nType: Exercises\nNo: 3/7
+LOCATION:4.17a/135
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250423T175000
-DTEND:20250423T192500
+DTSTART:20250430T175000
+DTEND:20250430T192500
 SUMMARY:Bin (ć)
-LOCATION:135
-DESCRIPTION:Bezpieczeństwo informacyjne\nType: Exercises\nNo: 4/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250320T080000
-DTEND:20250320T093500
-SUMMARY:50%
-LOCATION:29
-DESCRIPTION:50%\nType: \nNo: 2/2\nLecturer: dr hab. inż. prof. WAT Jacek Wojtanowski
+LOCATION:4.17a/135
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T080000
 DTEND:20250327T093500
-SUMMARY:Zsiz (w)
-LOCATION:22
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Lecture\nNo: 3/12
+SUMMARY:50% Sd. (S)
+LOCATION:29/158
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/13\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T080000
 DTEND:20250403T093500
 SUMMARY:Zsiz (w)
-LOCATION:22
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Lecture\nNo: 4/12
+LOCATION:0.22/16
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Wykład\nNumer zajęć: 3/12\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T080000
 DTEND:20250410T093500
 SUMMARY:Zsiz (w)
-LOCATION:22
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Lecture\nNo: 5/12
+LOCATION:0.22/16
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Wykład\nNumer zajęć: 4/12\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T080000
 DTEND:20250417T093500
-SUMMARY:Sd (S)
-LOCATION:29
-DESCRIPTION:Sd\nType: Seminar\nNo: 8/11\nLecturer: dr Celina Sołek-Borowska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250529T080000
-DTEND:20250529T093500
-SUMMARY:PiWy
-DESCRIPTION:PiWy\nType: \nNo: 1/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250320T095000
-DTEND:20250320T112500
 SUMMARY:Zsiz (w)
-LOCATION:22
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Lecture\nNo: 6/12
+LOCATION:0.22/16
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: dr Miłek Marzenna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250424T080000
+DTEND:20250424T093500
+SUMMARY:Sd. (S)
+LOCATION:29/158
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250605T080000
+DTEND:20250605T093500
+SUMMARY:PiWy 
+LOCATION:
+DESCRIPTION:PiWy\nRodzaj zajęć: -\nNumer zajęć: 1/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T095000
 DTEND:20250327T112500
 SUMMARY:Zsiz (w)
-LOCATION:22
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Lecture\nNo: 7/12
+LOCATION:0.22/16
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T095000
 DTEND:20250403T112500
 SUMMARY:Zsiz (w)
-LOCATION:22
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Lecture\nNo: 8/12
+LOCATION:0.22/16
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T095000
 DTEND:20250410T112500
 SUMMARY:Zsiz (w)
-LOCATION:22
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Lecture\nNo: 9/12
+LOCATION:0.22/16
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T095000
 DTEND:20250417T112500
-SUMMARY:Phd (L)
-LOCATION:226
-DESCRIPTION:Podstawy hurtowni danych\nType: Laboratory\nNo: 5/9\nLecturer: dr Jerzy Różański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250501T095000
-DTEND:20250501T112500
-SUMMARY:Bin (E)
-LOCATION:255
-DESCRIPTION:Bezpieczeństwo informacyjne\nType: Exam\nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250529T095000
-DTEND:20250529T112500
-SUMMARY:PiWy
-DESCRIPTION:PiWy\nType: \nNo: 2/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250320T114000
-DTEND:20250320T131500
 SUMMARY:Zsiz (w)
-LOCATION:22
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Lecture\nNo: 10/12
+LOCATION:0.22/16
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Wykład\nNumer zajęć: 9/12\nProwadzący: dr Miłek Marzenna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250424T095000
+DTEND:20250424T112500
+SUMMARY:Phd (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr inż. Rozmus Stefan
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250508T095000
+DTEND:20250508T112500
+SUMMARY:Bin (E)
+LOCATION:255 S
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Miłek Marzenna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250605T095000
+DTEND:20250605T112500
+SUMMARY:PiWy 
+LOCATION:
+DESCRIPTION:PiWy\nRodzaj zajęć: -\nNumer zajęć: 2/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T114000
 DTEND:20250327T131500
-SUMMARY:Phd (w)
-LOCATION:22
-DESCRIPTION:Podstawy hurtowni danych\nType: Lecture\nNo: 1/6\nLecturer: dr Jerzy Różański
+SUMMARY:Zsiz (w)
+LOCATION:0.22/16
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Wykład\nNumer zajęć: 10/12\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T114000
 DTEND:20250403T131500
 SUMMARY:Phd (w)
-LOCATION:22
-DESCRIPTION:Podstawy hurtowni danych\nType: Lecture\nNo: 2/6\nLecturer: dr Jerzy Różański
+LOCATION:0.22/16
+DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T114000
 DTEND:20250410T131500
 SUMMARY:Phd (w)
-LOCATION:22
-DESCRIPTION:Podstawy hurtowni danych\nType: Lecture\nNo: 3/6\nLecturer: dr Jerzy Różański
+LOCATION:0.22/16
+DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T114000
 DTEND:20250417T131500
+SUMMARY:Phd (w)
+LOCATION:0.22/16
+DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Rozmus Stefan
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250424T114000
+DTEND:20250424T131500
 SUMMARY:Zsiz (w)
-LOCATION:22
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Lecture\nNo: 11/12
+LOCATION:0.22/16
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250529T114000
-DTEND:20250529T131500
-SUMMARY:PiWy
-DESCRIPTION:PiWy\nType: \nNo: 3/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250320T133000
-DTEND:20250320T150500
-SUMMARY:Bin (w)
-LOCATION:22
-DESCRIPTION:Bezpieczeństwo informacyjne\nType: Lecture\nNo: 1/8
+DTSTART:20250605T114000
+DTEND:20250605T131500
+SUMMARY:PiWy 
+LOCATION:
+DESCRIPTION:PiWy\nRodzaj zajęć: -\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T133000
 DTEND:20250327T150500
-SUMMARY:Phd (L)
-LOCATION:227
-DESCRIPTION:Podstawy hurtowni danych\nType: Laboratory\nNo: 6/9\nLecturer: dr Jerzy Różański
+SUMMARY:Bin (w)
+LOCATION:0.22/16
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T133000
 DTEND:20250403T150500
-SUMMARY:Sd (S)
-LOCATION:29
-DESCRIPTION:Sd\nType: Seminar\nNo: 9/11\nLecturer: dr hab. Gabriel Nowacki
+SUMMARY:Phd (L)
+LOCATION:227 S
+DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T133000
 DTEND:20250410T150500
-SUMMARY:Sd (S)
-LOCATION:28
-DESCRIPTION:Sd\nType: Seminar\nNo: 10/11\nLecturer: dr Celina Sołek-Borowska
+SUMMARY:Sd. (S)
+LOCATION:29/158
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T133000
 DTEND:20250417T150500
+SUMMARY:Sd. (S)
+LOCATION:1b/28
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 12/13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250424T133000
+DTEND:20250424T150500
 SUMMARY:Zsiz (w)
-LOCATION:22
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Lecture\nNo: 12/12
+LOCATION:0.22/16
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Wykład\nNumer zajęć: 12/12\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250529T133000
-DTEND:20250529T150500
-SUMMARY:PiWy
-DESCRIPTION:PiWy\nType: \nNo: 4/7
+DTSTART:20250605T133000
+DTEND:20250605T150500
+SUMMARY:PiWy 
+LOCATION:
+DESCRIPTION:PiWy\nRodzaj zajęć: -\nNumer zajęć: 4/7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250320T160000
-DTEND:20250320T173500
+DTSTART:20250327T160000
+DTEND:20250327T173500
 SUMMARY:Bin (w)
-LOCATION:22
-DESCRIPTION:Bezpieczeństwo informacyjne\nType: Lecture\nNo: 2/8
+LOCATION:0.22/16
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250529T160000
-DTEND:20250529T173500
-SUMMARY:PiWy
-DESCRIPTION:PiWy\nType: \nNo: 5/7
+DTSTART:20250605T160000
+DTEND:20250605T173500
+SUMMARY:PiWy 
+LOCATION:
+DESCRIPTION:PiWy\nRodzaj zajęć: -\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250320T175000
-DTEND:20250320T192500
-SUMMARY:Sd (S)
-LOCATION:19
-DESCRIPTION:Sd\nType: Seminar\nNo: 11/11\nLecturer: dr Celina Sołek-Borowska
+DTSTART:20250327T175000
+DTEND:20250327T192500
+SUMMARY:Sd. (S)
+LOCATION:0.19/135
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 13/13
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250529T175000
-DTEND:20250529T192500
-SUMMARY:PiWy
-DESCRIPTION:PiWy\nType: \nNo: 6/7
+DTSTART:20250605T175000
+DTEND:20250605T192500
+SUMMARY:PiWy 
+LOCATION:
+DESCRIPTION:PiWy\nRodzaj zajęć: -\nNumer zajęć: 6/7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250529T194000
-DTEND:20250529T211500
-SUMMARY:PiWy
-DESCRIPTION:PiWy\nType: \nNo: 7/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250314T080000
-DTEND:20250314T093500
-SUMMARY:Bin (w)
-LOCATION:22
-DESCRIPTION:Bezpieczeństwo informacyjne\nType: Lecture\nNo: 3/8
+DTSTART:20250605T194000
+DTEND:20250605T211500
+SUMMARY:PiWy 
+LOCATION:
+DESCRIPTION:PiWy\nRodzaj zajęć: -\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T080000
 DTEND:20250321T093500
-SUMMARY:Phd (w)
-LOCATION:22
-DESCRIPTION:Podstawy hurtowni danych\nType: Lecture\nNo: 4/6\nLecturer: dr Jerzy Różański
+SUMMARY:Bin (w)
+LOCATION:0.22/16
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T080000
 DTEND:20250328T093500
-SUMMARY:Bin (w)
-LOCATION:22
-DESCRIPTION:Bezpieczeństwo informacyjne\nType: Lecture\nNo: 4/8
+SUMMARY:Phd (w)
+LOCATION:0.22/16
+DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
 DTEND:20250404T093500
 SUMMARY:Bin (w)
-LOCATION:22
-DESCRIPTION:Bezpieczeństwo informacyjne\nType: Lecture\nNo: 5/8
+LOCATION:0.22/16
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250307T095000
-DTEND:20250307T112500
-SUMMARY:Zsiz (L)
-LOCATION:135
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Laboratory\nNo: 12/18
+DTSTART:20250411T080000
+DTEND:20250411T093500
+SUMMARY:Bin (w)
+LOCATION:0.22/16
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T095000
 DTEND:20250314T112500
-SUMMARY:Bin (w)
-LOCATION:22
-DESCRIPTION:Bezpieczeństwo informacyjne\nType: Lecture\nNo: 6/8
+SUMMARY:Zsiz (L)
+LOCATION:4.17a/135
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/18\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T095000
 DTEND:20250321T112500
-SUMMARY:Phd (w)
-LOCATION:22
-DESCRIPTION:Podstawy hurtowni danych\nType: Lecture\nNo: 5/6\nLecturer: dr Jerzy Różański
+SUMMARY:Bin (w)
+LOCATION:0.22/16
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T095000
 DTEND:20250328T112500
-SUMMARY:Bin (w)
-LOCATION:22
-DESCRIPTION:Bezpieczeństwo informacyjne\nType: Lecture\nNo: 7/8
+SUMMARY:Phd (w)
+LOCATION:0.22/16
+DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T095000
 DTEND:20250404T112500
 SUMMARY:Bin (w)
-LOCATION:22
-DESCRIPTION:Bezpieczeństwo informacyjne\nType: Lecture\nNo: 8/8
+LOCATION:0.22/16
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250307T114000
-DTEND:20250307T131500
-SUMMARY:Zsiz (L)
-LOCATION:135
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Laboratory\nNo: 13/18
+DTSTART:20250411T095000
+DTEND:20250411T112500
+SUMMARY:Bin (w)
+LOCATION:0.22/16
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T114000
 DTEND:20250314T131500
-SUMMARY:Bin (ć)
-LOCATION:17
-DESCRIPTION:Bezpieczeństwo informacyjne\nType: Exercises\nNo: 5/7
+SUMMARY:Zsiz (L)
+LOCATION:4.17a/135
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/18\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T114000
 DTEND:20250321T131500
-SUMMARY:Phd (L)
-LOCATION:227
-DESCRIPTION:Podstawy hurtowni danych\nType: Laboratory\nNo: 7/9\nLecturer: dr Jerzy Różański
+SUMMARY:Bin (ć)
+LOCATION:1.17/16
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:Phd (L)
-LOCATION:227
-DESCRIPTION:Podstawy hurtowni danych\nType: Laboratory\nNo: 8/9\nLecturer: dr Jerzy Różański
+LOCATION:227 S
+DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T114000
 DTEND:20250404T131500
 SUMMARY:Phd (L)
-LOCATION:226
-DESCRIPTION:Podstawy hurtowni danych\nType: Laboratory\nNo: 9/9\nLecturer: dr Jerzy Różański
+LOCATION:227 S
+DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250307T133000
-DTEND:20250307T150500
+DTSTART:20250411T114000
+DTEND:20250411T131500
+SUMMARY:Phd (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: dr inż. Rozmus Stefan
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250314T133000
+DTEND:20250314T150500
 SUMMARY:Zsiz (L)
-LOCATION:135
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Laboratory\nNo: 14/18
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250321T133000
-DTEND:20250321T150500
-SUMMARY:Bin (ć)
-LOCATION:135
-DESCRIPTION:Bezpieczeństwo informacyjne\nType: Exercises\nNo: 6/7
+LOCATION:4.17a/135
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/18\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T133000
 DTEND:20250328T150500
-SUMMARY:Zsiz (L)
-LOCATION:21
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Laboratory\nNo: 15/18
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250307T160000
-DTEND:20250307T173500
-SUMMARY:Zsiz (L)
-LOCATION:135
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Laboratory\nNo: 16/18
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250321T160000
-DTEND:20250321T173500
 SUMMARY:Bin (ć)
-LOCATION:135
-DESCRIPTION:Bezpieczeństwo informacyjne\nType: Exercises\nNo: 7/7
+LOCATION:4.17a/135
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Miłek Marzenna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250404T133000
+DTEND:20250404T150500
+SUMMARY:Zsiz (L)
+LOCATION:0.21/16
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/18\nProwadzący: dr Miłek Marzenna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250314T160000
+DTEND:20250314T173500
+SUMMARY:Zsiz (L)
+LOCATION:4.17a/135
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/18\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T160000
 DTEND:20250328T173500
-SUMMARY:Zsiz (L)
-LOCATION:21
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Laboratory\nNo: 17/18
+SUMMARY:Bin (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250307T175000
-DTEND:20250307T192500
+DTSTART:20250404T160000
+DTEND:20250404T173500
+SUMMARY:Zsiz (L)
+LOCATION:0.21/16
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Laboratorium\nNumer zajęć: 17/18\nProwadzący: dr Miłek Marzenna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250314T175000
+DTEND:20250314T192500
 SUMMARY:Phd (w)
-LOCATION:22
-DESCRIPTION:Podstawy hurtowni danych\nType: Lecture\nNo: 6/6\nLecturer: dr Jerzy Różański
+LOCATION:0.22/16
+DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250328T175000
-DTEND:20250328T192500
+DTSTART:20250404T175000
+DTEND:20250404T192500
 SUMMARY:Zsiz (L)
-LOCATION:21
-DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nType: Laboratory\nNo: 18/18
+LOCATION:0.21/16
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Laboratorium\nNumer zajęć: 18/18\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 END:VCALENDAR

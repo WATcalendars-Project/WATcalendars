@@ -4,191 +4,178 @@ PRODID:-//scheduleWLO//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:SDREXCSS22Z_-_Nog
 BEGIN:VEVENT
-DTSTART:20250929T080000
-DTEND:20250929T093500
-SUMMARY:w 20
-DESCRIPTION:dr hab. inż. Susek Waldemar\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T095000
-DTEND:20250929T112500
-SUMMARY:Tui
-DESCRIPTION:Technika ukrywania informacji (stenografia)\nType: \nNo: 1/1\nLecturer: dr hab. inż. Zbigniew Piotrowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250310T114000
-DTEND:20250310T131500
+DTSTART:20250303T114000
+DTEND:20250303T131500
 SUMMARY:Tui (w)
-LOCATION:117
-DESCRIPTION:Technika ukrywania informacji (stenografia)\nType: Lecture\nNo: 1/3\nLecturer: dr hab. inż. Zbigniew Piotrowski
+LOCATION:23ZKa
+DESCRIPTION:Technika ukrywania informacji (stenografia)\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. Piotrowski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T114000
 DTEND:20250317T131500
 SUMMARY:Tui (w)
-LOCATION:117
-DESCRIPTION:Technika ukrywania informacji (stenografia)\nType: Lecture\nNo: 2/3\nLecturer: dr hab. inż. Zbigniew Piotrowski
+LOCATION:23ZKa
+DESCRIPTION:Technika ukrywania informacji (stenografia)\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Piotrowski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T114000
 DTEND:20250324T131500
 SUMMARY:Tui (w)
-LOCATION:117
-DESCRIPTION:Technika ukrywania informacji (stenografia)\nType: Lecture\nNo: 3/3\nLecturer: dr hab. inż. Zbigniew Piotrowski
+LOCATION:23ZKa
+DESCRIPTION:Technika ukrywania informacji (stenografia)\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. Piotrowski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250929T114000
-DTEND:20250929T131500
-SUMMARY:w 8
-DESCRIPTION:dr hab. inż. Piotrowski Zbigniew\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T133000
-DTEND:20250929T150500
-SUMMARY:P 16
-DESCRIPTION:dr hab. inż. Piotrowski Zbigniew\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T160000
-DTEND:20250929T173500
-SUMMARY:S 6
-DESCRIPTION:dr hab. inż. Piotrowski Zbigniew\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250513T080000
-DTEND:20250513T093500
-SUMMARY:Tui (S)
-LOCATION:117
-DESCRIPTION:Technika ukrywania informacji (stenografia)\nType: Seminar\nNo: 1/3\nLecturer: dr hab. inż. Zbigniew Piotrowski
+DTSTART:20250331T114000
+DTEND:20250331T131500
+SUMMARY:Tui (w)
+LOCATION:23ZKa
+DESCRIPTION:Technika ukrywania informacji (stenografia)\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Piotrowski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T080000
 DTEND:20250520T093500
 SUMMARY:Tui (S)
-LOCATION:117
-DESCRIPTION:Technika ukrywania informacji (stenografia)\nType: Seminar\nNo: 2/3\nLecturer: dr hab. inż. Zbigniew Piotrowski
+LOCATION:23ZKa
+DESCRIPTION:Technika ukrywania informacji (stenografia)\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: dr hab. inż. Piotrowski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T080000
 DTEND:20250527T093500
 SUMMARY:Tui (S)
-LOCATION:117
-DESCRIPTION:Technika ukrywania informacji (stenografia)\nType: Seminar\nNo: 3/3\nLecturer: dr hab. inż. Zbigniew Piotrowski
+LOCATION:23ZKa
+DESCRIPTION:Technika ukrywania informacji (stenografia)\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: dr hab. inż. Piotrowski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250325T095000
-DTEND:20250325T112500
-SUMMARY:SmrradSDR (w)
-DESCRIPTION:Sensory mikrofalowe w radiolokacji\nType: Lecture\nNo: 1/10\nLecturer: prof. dr hab. inż. Sławomir Sujecki
+DTSTART:20250603T080000
+DTEND:20250603T093500
+SUMMARY:Tui (S)
+LOCATION:23ZKa
+DESCRIPTION:Technika ukrywania informacji (stenografia)\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: dr hab. inż. Piotrowski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T095000
 DTEND:20250401T112500
 SUMMARY:SmrradSDR (w)
-DESCRIPTION:Sensory mikrofalowe w radiolokacji\nType: Lecture\nNo: 2/10\nLecturer: prof. dr hab. inż. Sławomir Sujecki
+LOCATION:22ZNo
+DESCRIPTION:Sensory mikrofalowe w radiolokacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr hab. inż. Susek Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
 DTEND:20250408T112500
 SUMMARY:SmrradSDR (w)
-DESCRIPTION:Sensory mikrofalowe w radiolokacji\nType: Lecture\nNo: 3/10\nLecturer: prof. dr hab. inż. Sławomir Sujecki
+LOCATION:22ZNo
+DESCRIPTION:Sensory mikrofalowe w radiolokacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr hab. inż. Susek Waldemar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250422T095000
-DTEND:20250422T112500
+DTSTART:20250415T095000
+DTEND:20250415T112500
 SUMMARY:SmrradSDR (w)
-DESCRIPTION:Sensory mikrofalowe w radiolokacji\nType: Lecture\nNo: 4/10\nLecturer: prof. dr hab. inż. Sławomir Sujecki
+LOCATION:22ZNo
+DESCRIPTION:Sensory mikrofalowe w radiolokacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr hab. inż. Susek Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T095000
 DTEND:20250429T112500
 SUMMARY:SmrradSDR (w)
-DESCRIPTION:Sensory mikrofalowe w radiolokacji\nType: Lecture\nNo: 5/10\nLecturer: prof. dr hab. inż. Sławomir Sujecki
+LOCATION:22ZNo
+DESCRIPTION:Sensory mikrofalowe w radiolokacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr hab. inż. Susek Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T095000
 DTEND:20250506T112500
 SUMMARY:SmrradSDR (w)
-DESCRIPTION:Sensory mikrofalowe w radiolokacji\nType: Lecture\nNo: 6/10\nLecturer: prof. dr hab. inż. Sławomir Sujecki
+LOCATION:22ZNo
+DESCRIPTION:Sensory mikrofalowe w radiolokacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab. inż. Susek Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T095000
 DTEND:20250513T112500
 SUMMARY:SmrradSDR (w)
-DESCRIPTION:Sensory mikrofalowe w radiolokacji\nType: Lecture\nNo: 7/10\nLecturer: prof. dr hab. inż. Sławomir Sujecki
+LOCATION:22ZNo
+DESCRIPTION:Sensory mikrofalowe w radiolokacji\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr hab. inż. Susek Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000
 DTEND:20250520T112500
 SUMMARY:SmrradSDR (w)
-DESCRIPTION:Sensory mikrofalowe w radiolokacji\nType: Lecture\nNo: 8/10\nLecturer: prof. dr hab. inż. Sławomir Sujecki
+LOCATION:22ZNo
+DESCRIPTION:Sensory mikrofalowe w radiolokacji\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab. inż. Susek Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T095000
 DTEND:20250527T112500
 SUMMARY:SmrradSDR (w)
-DESCRIPTION:Sensory mikrofalowe w radiolokacji\nType: Lecture\nNo: 9/10\nLecturer: prof. dr hab. inż. Sławomir Sujecki
+LOCATION:22ZNo
+DESCRIPTION:Sensory mikrofalowe w radiolokacji\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. inż. Susek Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T095000
 DTEND:20250603T112500
 SUMMARY:SmrradSDR (w)
-DESCRIPTION:Sensory mikrofalowe w radiolokacji\nType: Lecture\nNo: 10/10\nLecturer: prof. dr hab. inż. Sławomir Sujecki
+LOCATION:22ZNo
+DESCRIPTION:Sensory mikrofalowe w radiolokacji\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab. inż. Susek Waldemar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250318T114000
-DTEND:20250318T131500
-SUMMARY:Tui (P)
-LOCATION:115
-DESCRIPTION:Technika ukrywania informacji (stenografia)\nType: P\nNo: 1/8\nLecturer: dr hab. inż. Zbigniew Piotrowski
+DTSTART:20250610T095000
+DTEND:20250610T112500
+SUMMARY:SmrradSDR (w)
+LOCATION:22ZNo
+DESCRIPTION:Sensory mikrofalowe w radiolokacji\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr hab. inż. Susek Waldemar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250408T114000
-DTEND:20250408T131500
+DTSTART:20250325T114000
+DTEND:20250325T131500
 SUMMARY:Tui (P)
-LOCATION:115
-DESCRIPTION:Technika ukrywania informacji (stenografia)\nType: P\nNo: 2/8\nLecturer: dr hab. inż. Zbigniew Piotrowski
+LOCATION:23ZKa
+DESCRIPTION:Technika ukrywania informacji (stenografia)\nRodzaj zajęć: Projekt\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. Piotrowski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250318T133000
-DTEND:20250318T150500
+DTSTART:20250415T114000
+DTEND:20250415T131500
 SUMMARY:Tui (P)
-LOCATION:115
-DESCRIPTION:Technika ukrywania informacji (stenografia)\nType: P\nNo: 3/8\nLecturer: dr hab. inż. Zbigniew Piotrowski
+LOCATION:23ZKa
+DESCRIPTION:Technika ukrywania informacji (stenografia)\nRodzaj zajęć: Projekt\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. Piotrowski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250408T133000
-DTEND:20250408T150500
+DTSTART:20250325T133000
+DTEND:20250325T150500
 SUMMARY:Tui (P)
-LOCATION:115
-DESCRIPTION:Technika ukrywania informacji (stenografia)\nType: P\nNo: 4/8\nLecturer: dr hab. inż. Zbigniew Piotrowski
+LOCATION:23ZKa
+DESCRIPTION:Technika ukrywania informacji (stenografia)\nRodzaj zajęć: Projekt\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. Piotrowski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250402T080000
-DTEND:20250402T093500
+DTSTART:20250415T133000
+DTEND:20250415T150500
 SUMMARY:Tui (P)
-LOCATION:115
-DESCRIPTION:Technika ukrywania informacji (stenografia)\nType: P\nNo: 5/8\nLecturer: dr hab. inż. Zbigniew Piotrowski
+LOCATION:23ZKa
+DESCRIPTION:Technika ukrywania informacji (stenografia)\nRodzaj zajęć: Projekt\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Piotrowski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250423T080000
-DTEND:20250423T093500
+DTSTART:20250409T080000
+DTEND:20250409T093500
 SUMMARY:Tui (P)
-LOCATION:115
-DESCRIPTION:Technika ukrywania informacji (stenografia)\nType: P\nNo: 6/8\nLecturer: dr hab. inż. Zbigniew Piotrowski
+LOCATION:23ZKa
+DESCRIPTION:Technika ukrywania informacji (stenografia)\nRodzaj zajęć: Projekt\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Piotrowski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250402T095000
-DTEND:20250402T112500
+DTSTART:20250430T080000
+DTEND:20250430T093500
 SUMMARY:Tui (P)
-LOCATION:115
-DESCRIPTION:Technika ukrywania informacji (stenografia)\nType: P\nNo: 7/8\nLecturer: dr hab. inż. Zbigniew Piotrowski
+LOCATION:23ZKa
+DESCRIPTION:Technika ukrywania informacji (stenografia)\nRodzaj zajęć: Projekt\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Piotrowski Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250423T095000
-DTEND:20250423T112500
+DTSTART:20250409T095000
+DTEND:20250409T112500
 SUMMARY:Tui (P)
-LOCATION:115
-DESCRIPTION:Technika ukrywania informacji (stenografia)\nType: P\nNo: 8/8\nLecturer: dr hab. inż. Zbigniew Piotrowski
+LOCATION:23ZKa
+DESCRIPTION:Technika ukrywania informacji (stenografia)\nRodzaj zajęć: Projekt\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Piotrowski Zbigniew
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250430T095000
+DTEND:20250430T112500
+SUMMARY:Tui (P)
+LOCATION:23ZKa
+DESCRIPTION:Technika ukrywania informacji (stenografia)\nRodzaj zajęć: Projekt\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Piotrowski Zbigniew
 END:VEVENT
 END:VCALENDAR

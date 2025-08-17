@@ -4,856 +4,773 @@ PRODID:-//scheduleWLO//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Kurs_-_Organizacja_zabezpieczenia_logistycznego_06.25
 BEGIN:VEVENT
-DTSTART:20250526T080000
-DTEND:20250526T093500
-SUMMARY:RK (i)
-LOCATION:06
-DESCRIPTION:Rozpoczęcie kursu\nType: i\nNo: 1/1\nLecturer: dr hab. Paweł Kler
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250602T080000
 DTEND:20250602T093500
-SUMMARY:Fsm (w)
-LOCATION:06
-DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nType: Lecture\nNo: 1/5\nLecturer: dr hab. Paweł Kler; mgr inż. Joanna Woźniak
+SUMMARY:RK (i)
+LOCATION:2.21/135
+DESCRIPTION:Rozpoczęcie kursu\nRodzaj zajęć: (i)\nNumer zajęć: 1/1\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T080000
 DTEND:20250609T093500
-SUMMARY:OZT (w)
-LOCATION:06
-DESCRIPTION:Organizacja zabezpieczenia technicznego\nType: Lecture\nNo: 1/5\nLecturer: JunK
+SUMMARY:Fsm (w)
+LOCATION:2.21/135
+DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T080000
 DTEND:20250616T093500
-SUMMARY:OZT (PS)
-LOCATION:06
-DESCRIPTION:Organizacja zabezpieczenia technicznego\nType: PS\nNo: 1/3\nLecturer: JunK
+SUMMARY:OZT (w)
+LOCATION:2.21/135
+DESCRIPTION:Organizacja zabezpieczenia technicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: mgr inż. Juniec Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T080000
 DTEND:20250623T093500
-SUMMARY:ĆG-ZL (ć)
-LOCATION:06
-DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nType: Exercises\nNo: 1/10\nLecturer: inż. Zenon Myszczyszyn
+SUMMARY:OZT (PS)
+LOCATION:25 Jun
+DESCRIPTION:Organizacja zabezpieczenia technicznego\nRodzaj zajęć: (PS)\nNumer zajęć: 1/4\nProwadzący: mgr inż. Juniec Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T080000
 DTEND:20250630T093500
+SUMMARY:ĆG-ZL (ć)
+LOCATION:1/22
+DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr inż. Żuchowski Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250707T080000
+DTEND:20250707T093500
 SUMMARY:KZLW (ć)
-LOCATION:06
-DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nType: Exercises\nNo: 1/2\nLecturer: dr Mariusz Gułaj
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T080000
-DTEND:20250929T093500
-SUMMARY:ć 10
-DESCRIPTION:dr inż. Żuchowski Dariusz\nType: \nNo: 1/2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250526T095000
-DTEND:20250526T112500
-SUMMARY:UPEL (w)
-LOCATION:06
-DESCRIPTION:Uwarunkowania prawno-ekonomiczne logistyki wojskowej\nType: Lecture\nNo: 1/5
+LOCATION:2.21/135
+DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T095000
 DTEND:20250602T112500
-SUMMARY:Fsm (w)
-LOCATION:06
-DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nType: Lecture\nNo: 2/5\nLecturer: dr hab. Paweł Kler; mgr inż. Joanna Woźniak
+SUMMARY:UPEL (w)
+LOCATION:2.21/135
+DESCRIPTION:Uwarunkowania prawno-ekonomiczne logistyki wojskowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Milian-Pogonowska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T095000
 DTEND:20250609T112500
-SUMMARY:OZT (w)
-LOCATION:06
-DESCRIPTION:Organizacja zabezpieczenia technicznego\nType: Lecture\nNo: 2/5\nLecturer: JunK
+SUMMARY:Fsm (w)
+LOCATION:2.21/135
+DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T095000
 DTEND:20250616T112500
-SUMMARY:OZT (PS)
-LOCATION:06
-DESCRIPTION:Organizacja zabezpieczenia technicznego\nType: PS\nNo: 2/3\nLecturer: JunK
+SUMMARY:OZT (w)
+LOCATION:2.21/135
+DESCRIPTION:Organizacja zabezpieczenia technicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: mgr inż. Juniec Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T095000
 DTEND:20250623T112500
-SUMMARY:ĆG-ZL (ć)
-LOCATION:06
-DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nType: Exercises\nNo: 2/10\nLecturer: inż. Zenon Myszczyszyn
+SUMMARY:OZT (PS)
+LOCATION:25 Jun
+DESCRIPTION:Organizacja zabezpieczenia technicznego\nRodzaj zajęć: (PS)\nNumer zajęć: 2/4\nProwadzący: mgr inż. Juniec Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T095000
 DTEND:20250630T112500
+SUMMARY:ĆG-ZL (ć)
+LOCATION:1/22
+DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr inż. Żuchowski Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250707T095000
+DTEND:20250707T112500
 SUMMARY:KZLW (S)
-LOCATION:06
-DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nType: Seminar\nNo: 1/2\nLecturer: dr Mariusz Gułaj
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T095000
-DTEND:20250929T112500
-SUMMARY:ć 10
-DESCRIPTION:dr inż. Żuchowski Dariusz\nType: \nNo: 2/2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250526T114000
-DTEND:20250526T131500
-SUMMARY:Fsm (w)
-LOCATION:06
-DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nType: Lecture\nNo: 3/5\nLecturer: mgr inż. Joanna Woźniak
+LOCATION:2.21/135
+DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T114000
 DTEND:20250602T131500
-SUMMARY:UPEL (w)
-LOCATION:06
-DESCRIPTION:Uwarunkowania prawno-ekonomiczne logistyki wojskowej\nType: Lecture\nNo: 2/5
+SUMMARY:Fsm (w)
+LOCATION:2.21/135
+DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T114000
 DTEND:20250609T131500
-SUMMARY:Zmwio (w)
-LOCATION:06
-DESCRIPTION:Zabezpieczenie medyczne wojsk i odzyskiwanie izolowanego personelu\nType: Lecture\nNo: 1/3\nLecturer: dr hab. inż. prof. WAT Stanisław Kachel
+SUMMARY:UPEL (w)
+LOCATION:2.21/135
+DESCRIPTION:Uwarunkowania prawno-ekonomiczne logistyki wojskowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Milian-Pogonowska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T114000
 DTEND:20250616T131500
-SUMMARY:OZT (PS)
-LOCATION:06
-DESCRIPTION:Organizacja zabezpieczenia technicznego\nType: PS\nNo: 3/3\nLecturer: JunK
+SUMMARY:Zmwio (w)
+LOCATION:2.21/135
+DESCRIPTION:Zabezpieczenie medyczne wojsk i odzyskiwanie izolowanego personelu\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: mgr inż. Śliwiński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T114000
 DTEND:20250623T131500
-SUMMARY:WSL (w)
-LOCATION:06
-DESCRIPTION:Wojskowy system logistyczny\nType: Lecture\nNo: 1/8\nLecturer: RWoź
+SUMMARY:OZT (PS)
+LOCATION:25 Jun
+DESCRIPTION:Organizacja zabezpieczenia technicznego\nRodzaj zajęć: (PS)\nNumer zajęć: 3/4\nProwadzący: mgr inż. Juniec Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T114000
 DTEND:20250630T131500
+SUMMARY:WSL (w)
+LOCATION:2.21/135
+DESCRIPTION:Wojskowy system logistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Woźniak Robert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250707T114000
+DTEND:20250707T131500
 SUMMARY:SLHNS (S)
-LOCATION:06
-DESCRIPTION:System logistyczny w realizacji zadań HNS\nType: Seminar\nNo: 1/2\nLecturer: RWoź
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T114000
-DTEND:20250929T131500
-SUMMARY:ESL
-DESCRIPTION:Eksploatacja sprzętu logistycznego\nType: \nNo: 1/1\nLecturer: mgr inż. Jolanta Siewert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250526T133000
-DTEND:20250526T150500
-SUMMARY:OZT (w)
-LOCATION:06
-DESCRIPTION:Organizacja zabezpieczenia technicznego\nType: Lecture\nNo: 3/5\nLecturer: JunK
+LOCATION:2.21/135
+DESCRIPTION:System logistyczny w realizacji zadań HNS\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T133000
 DTEND:20250602T150500
-SUMMARY:UPEL (w)
-LOCATION:06
-DESCRIPTION:Uwarunkowania prawno-ekonomiczne logistyki wojskowej\nType: Lecture\nNo: 3/5
+SUMMARY:OZT (w)
+LOCATION:2.21/135
+DESCRIPTION:Organizacja zabezpieczenia technicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: mgr inż. Juniec Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T133000
 DTEND:20250609T150500
-SUMMARY:Zmwio (ć)
-LOCATION:06
-DESCRIPTION:Zabezpieczenie medyczne wojsk i odzyskiwanie izolowanego personelu\nType: Exercises\nNo: 1/1\nLecturer: dr hab. inż. prof. WAT Stanisław Kachel
+SUMMARY:UPEL (w)
+LOCATION:2.21/135
+DESCRIPTION:Uwarunkowania prawno-ekonomiczne logistyki wojskowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Milian-Pogonowska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T133000
 DTEND:20250616T150500
-SUMMARY:50%
-LOCATION:06
-DESCRIPTION:50%\nType: \nNo: 1/2\nLecturer: JunK
+SUMMARY:Zmwio (ć)
+LOCATION:2.21/135
+DESCRIPTION:Zabezpieczenie medyczne wojsk i odzyskiwanie izolowanego personelu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: mgr inż. Śliwiński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T133000
 DTEND:20250623T150500
-SUMMARY:WSL (w)
-LOCATION:06
-DESCRIPTION:Wojskowy system logistyczny\nType: Lecture\nNo: 2/8\nLecturer: RWoź
+SUMMARY:50% OZT (PS)
+LOCATION:25 Jun
+DESCRIPTION:Organizacja zabezpieczenia technicznego\nRodzaj zajęć: (PS)\nNumer zajęć: 4/4\nProwadzący: mgr inż. Juniec Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T133000
 DTEND:20250630T150500
+SUMMARY:WSL (w)
+LOCATION:2.21/135
+DESCRIPTION:Wojskowy system logistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Woźniak Robert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250707T133000
+DTEND:20250707T150500
 SUMMARY:ESL (S)
-LOCATION:06
-DESCRIPTION:Eksploatacja sprzętu logistycznego\nType: Seminar\nNo: 1/2\nLecturer: mgr inż. Jolanta Siewert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T133000
-DTEND:20250929T150500
-SUMMARY:w 8
-DESCRIPTION:dr inż. Sieczka Jarosław\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250526T160000
-DTEND:20250526T173500
-SUMMARY:PIoT (ć)
-LOCATION:06
-DESCRIPTION:Podsystem infrastruktury oraz transportu i ruchu wojsk\nType: Exercises\nNo: 1/2\nLecturer: dr Arkadiusz Szymaniec
+LOCATION:2.21/135
+DESCRIPTION:Eksploatacja sprzętu logistycznego\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T160000
 DTEND:20250602T173500
-SUMMARY:Fsm (ć)
-LOCATION:06
-DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nType: Exercises\nNo: 1/2\nLecturer: dr hab. Paweł Kler
+SUMMARY:PIoT (ć)
+LOCATION:2.21/135
+DESCRIPTION:Podsystem infrastruktury oraz transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250623T160000
-DTEND:20250623T173500
+DTSTART:20250609T160000
+DTEND:20250609T173500
 SUMMARY:Fsm (ć)
-LOCATION:06
-DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nType: Exercises\nNo: 2/2\nLecturer: mgr inż. Joanna Woźniak
+LOCATION:2.21/135
+DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T160000
 DTEND:20250630T173500
+SUMMARY:Fsm (ć)
+LOCATION:2.21/135
+DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250707T160000
+DTEND:20250707T173500
 SUMMARY:ESL (w)
-LOCATION:06
-DESCRIPTION:Eksploatacja sprzętu logistycznego\nType: Lecture\nNo: 1/4\nLecturer: mgr inż. Jolanta Siewert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T160000
-DTEND:20250929T173500
-SUMMARY:S 4
-DESCRIPTION:dr inż. Sieczka Jarosław\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T175000
-DTEND:20250929T192500
-SUMMARY:Fsm
-DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nType: \nNo: 1/1\nLecturer: dr hab. Paweł Kler; mgr inż. Joanna Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T194000
-DTEND:20250929T211500
-SUMMARY:w 4
-DESCRIPTION:dr Spychała Dariusz\nType: \nNo: 1/3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250527T080000
-DTEND:20250527T093500
-SUMMARY:WSL (w)
-LOCATION:06
-DESCRIPTION:Wojskowy system logistyczny\nType: Lecture\nNo: 3/8\nLecturer: RWoź
+LOCATION:2.21/135
+DESCRIPTION:Eksploatacja sprzętu logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T080000
 DTEND:20250603T093500
-SUMMARY:KZLW (w)
-LOCATION:06
-DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nType: Lecture\nNo: 1/6\nLecturer: dr Mariusz Gułaj
+SUMMARY:WSL (w)
+LOCATION:2.21/135
+DESCRIPTION:Wojskowy system logistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T080000
 DTEND:20250610T093500
-SUMMARY:ZLPMW (w)
-LOCATION:06
-DESCRIPTION:Zabezpieczenie logistyczne procesu mobilizacji wojsk\nType: Lecture\nNo: 1/3\nLecturer: dr Dariusz Żuchowski
+SUMMARY:KZLW (w)
+LOCATION:2.21/135
+DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T080000
 DTEND:20250617T093500
-SUMMARY:SIWDL (w)
-LOCATION:06
-DESCRIPTION:Systemy informatyczne wspierające działania logistyki\nType: Lecture\nNo: 1/3
+SUMMARY:ZLPMW (w)
+LOCATION:2.21/135
+DESCRIPTION:Zabezpieczenie logistyczne procesu mobilizacji wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T080000
 DTEND:20250624T093500
-SUMMARY:ĆG-ZL (ć)
-LOCATION:06
-DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nType: Exercises\nNo: 3/10\nLecturer: inż. Zenon Myszczyszyn
+SUMMARY:SIWDL (w)
+LOCATION:A.1.3/135
+DESCRIPTION:Systemy informatyczne wspierające działania logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr hab. Byłeń Slawomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T080000
 DTEND:20250701T093500
+SUMMARY:ĆG-ZL (ć)
+LOCATION:1/22
+DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr inż. Żuchowski Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250708T080000
+DTEND:20250708T093500
 SUMMARY:OZT (ć)
-LOCATION:06
-DESCRIPTION:Organizacja zabezpieczenia technicznego\nType: Exercises\nNo: 1/2\nLecturer: JunK
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T080000
-DTEND:20250930T093500
-SUMMARY:w 4
-DESCRIPTION:dr Spychała Dariusz\nType: \nNo: 2/3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250527T095000
-DTEND:20250527T112500
-SUMMARY:WSL (w)
-LOCATION:06
-DESCRIPTION:Wojskowy system logistyczny\nType: Lecture\nNo: 4/8\nLecturer: RWoź
+LOCATION:2.21/135
+DESCRIPTION:Organizacja zabezpieczenia technicznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: mgr inż. Juniec Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T095000
 DTEND:20250603T112500
-SUMMARY:PIoT (w)
-LOCATION:06
-DESCRIPTION:Podsystem infrastruktury oraz transportu i ruchu wojsk\nType: Lecture\nNo: 1/4\nLecturer: dr Arkadiusz Szymaniec
+SUMMARY:WSL (w)
+LOCATION:2.21/135
+DESCRIPTION:Wojskowy system logistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T095000
 DTEND:20250610T112500
-SUMMARY:ZLPMW (w)
-LOCATION:06
-DESCRIPTION:Zabezpieczenie logistyczne procesu mobilizacji wojsk\nType: Lecture\nNo: 2/3\nLecturer: dr Dariusz Żuchowski
+SUMMARY:PIoT (w)
+LOCATION:2.21/135
+DESCRIPTION:Podsystem infrastruktury oraz transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T095000
 DTEND:20250617T112500
-SUMMARY:SIWDL (w)
-LOCATION:06
-DESCRIPTION:Systemy informatyczne wspierające działania logistyki\nType: Lecture\nNo: 2/3
+SUMMARY:ZLPMW (w)
+LOCATION:2.21/135
+DESCRIPTION:Zabezpieczenie logistyczne procesu mobilizacji wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T095000
 DTEND:20250624T112500
-SUMMARY:ESL (w)
-LOCATION:06
-DESCRIPTION:Eksploatacja sprzętu logistycznego\nType: Lecture\nNo: 2/4\nLecturer: mgr inż. Jolanta Siewert
+SUMMARY:SIWDL (w)
+LOCATION:A.1.3/135
+DESCRIPTION:Systemy informatyczne wspierające działania logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr hab. Byłeń Slawomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T095000
 DTEND:20250701T112500
+SUMMARY:ESL (w)
+LOCATION:2.21/135
+DESCRIPTION:Eksploatacja sprzętu logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Sieczka Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250708T095000
+DTEND:20250708T112500
 SUMMARY:OZT (S)
-LOCATION:06
-DESCRIPTION:Organizacja zabezpieczenia technicznego\nType: Seminar\nNo: 1/1\nLecturer: JunK
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T095000
-DTEND:20250930T112500
-SUMMARY:ć 2
-DESCRIPTION:dr Woźniak Jacek, prof. WAT\nType: \nNo: 1/2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250527T114000
-DTEND:20250527T131500
-SUMMARY:Fsm (w)
-LOCATION:06
-DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nType: Lecture\nNo: 4/5\nLecturer: dr hab. Paweł Kler
+LOCATION:2.21/135
+DESCRIPTION:Organizacja zabezpieczenia technicznego\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: mgr inż. Juniec Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T114000
 DTEND:20250603T131500
-SUMMARY:SLHNS (w)
-LOCATION:06
-DESCRIPTION:System logistyczny w realizacji zadań HNS\nType: Lecture\nNo: 1/3\nLecturer: RWoź
+SUMMARY:Fsm (w)
+LOCATION:2.21/135
+DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T114000
 DTEND:20250610T131500
-SUMMARY:UPEL (w)
-LOCATION:06
-DESCRIPTION:Uwarunkowania prawno-ekonomiczne logistyki wojskowej\nType: Lecture\nNo: 4/5
+SUMMARY:SLHNS (w)
+LOCATION:2.21/135
+DESCRIPTION:System logistyczny w realizacji zadań HNS\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T114000
 DTEND:20250617T131500
-SUMMARY:ĆG-ZL (ć)
-LOCATION:06
-DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nType: Exercises\nNo: 4/10\nLecturer: dr Dariusz Żuchowski
+SUMMARY:UPEL (w)
+LOCATION:2.21/135
+DESCRIPTION:Uwarunkowania prawno-ekonomiczne logistyki wojskowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Milian-Pogonowska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T114000
 DTEND:20250624T131500
-SUMMARY:OZT (ć)
-LOCATION:06
-DESCRIPTION:Organizacja zabezpieczenia technicznego\nType: Exercises\nNo: 2/2\nLecturer: JunK
+SUMMARY:ĆG-ZL (ć)
+LOCATION:1/22
+DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T114000
 DTEND:20250701T131500
+SUMMARY:OZT (ć)
+LOCATION:2.21/135
+DESCRIPTION:Organizacja zabezpieczenia technicznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: mgr inż. Juniec Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250708T114000
+DTEND:20250708T131500
 SUMMARY:SIWDL (ć)
-LOCATION:06
-DESCRIPTION:Systemy informatyczne wspierające działania logistyki\nType: Exercises\nNo: 1/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T114000
-DTEND:20250930T131500
-SUMMARY:ć 2
-DESCRIPTION:dr Woźniak Jacek, prof. WAT\nType: \nNo: 2/2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250527T133000
-DTEND:20250527T150500
-SUMMARY:Fsm (w)
-LOCATION:06
-DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nType: Lecture\nNo: 5/5\nLecturer: dr hab. Paweł Kler
+LOCATION:1/22
+DESCRIPTION:Systemy informatyczne wspierające działania logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr hab. Byłeń Slawomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T133000
 DTEND:20250603T150500
-SUMMARY:SLHNS (w)
-LOCATION:06
-DESCRIPTION:System logistyczny w realizacji zadań HNS\nType: Lecture\nNo: 2/3\nLecturer: RWoź
+SUMMARY:Fsm (w)
+LOCATION:2.21/135
+DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T133000
 DTEND:20250610T150500
-SUMMARY:UPEL (w)
-LOCATION:06
-DESCRIPTION:Uwarunkowania prawno-ekonomiczne logistyki wojskowej\nType: Lecture\nNo: 5/5
+SUMMARY:SLHNS (w)
+LOCATION:2.21/135
+DESCRIPTION:System logistyczny w realizacji zadań HNS\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T133000
 DTEND:20250617T150500
-SUMMARY:ĆG-ZL (ć)
-LOCATION:06
-DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nType: Exercises\nNo: 5/10\nLecturer: dr Dariusz Żuchowski
+SUMMARY:UPEL (w)
+LOCATION:2.21/135
+DESCRIPTION:Uwarunkowania prawno-ekonomiczne logistyki wojskowej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Milian-Pogonowska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T133000
 DTEND:20250624T150500
-SUMMARY:SLHNS (ć)
-LOCATION:06
-DESCRIPTION:System logistyczny w realizacji zadań HNS\nType: Exercises\nNo: 1/1\nLecturer: RWoź
+SUMMARY:ĆG-ZL (ć)
+LOCATION:1/22
+DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T133000
 DTEND:20250701T150500
+SUMMARY:SLHNS (ć)
+LOCATION:2.21/135
+DESCRIPTION:System logistyczny w realizacji zadań HNS\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr inż. Woźniak Robert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250708T133000
+DTEND:20250708T150500
 SUMMARY:SIWDL (ć)
-LOCATION:06
-DESCRIPTION:Systemy informatyczne wspierające działania logistyki\nType: Exercises\nNo: 2/4
+LOCATION:1/22
+DESCRIPTION:Systemy informatyczne wspierające działania logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr hab. Byłeń Slawomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250930T133000
-DTEND:20250930T150500
-SUMMARY:S 2
-DESCRIPTION:dr hab., prof. WAT Kler Paweł\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250624T160000
-DTEND:20250624T173500
+DTSTART:20250701T160000
+DTEND:20250701T173500
 SUMMARY:WSL (S)
-LOCATION:06
-DESCRIPTION:Wojskowy system logistyczny\nType: Seminar\nNo: 1/2\nLecturer: RWoź
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T160000
-DTEND:20250930T173500
-SUMMARY:PS 7
-DESCRIPTION:dr hab., prof. WAT Kler Paweł\nType: \nNo: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T175000
-DTEND:20250930T192500
-SUMMARY:FWoj.OG
-DESCRIPTION:Funkcjonowanie wojskowego oddziału gospodarczego\nType: \nNo: 1/1\nLecturer: mgr inż. Maciej Kaczyński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250930T194000
-DTEND:20250930T211500
-SUMMARY:w 4
-DESCRIPTION:dr Spychała Dariusz\nType: \nNo: 3/3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250528T080000
-DTEND:20250528T093500
-SUMMARY:PIoT (w)
-LOCATION:06
-DESCRIPTION:Podsystem infrastruktury oraz transportu i ruchu wojsk\nType: Lecture\nNo: 2/4\nLecturer: dr Arkadiusz Szymaniec
+LOCATION:2.21/135
+DESCRIPTION:Wojskowy system logistyczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T080000
 DTEND:20250604T093500
-SUMMARY:WSL (w)
-LOCATION:06
-DESCRIPTION:Wojskowy system logistyczny\nType: Lecture\nNo: 5/8\nLecturer: RWoź
+SUMMARY:PIoT (w)
+LOCATION:2.21/135
+DESCRIPTION:Podsystem infrastruktury oraz transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T080000
 DTEND:20250611T093500
-SUMMARY:ZLPMW (w)
-LOCATION:06
-DESCRIPTION:Zabezpieczenie logistyczne procesu mobilizacji wojsk\nType: Lecture\nNo: 3/3\nLecturer: dr Dariusz Żuchowski
+SUMMARY:WSL (w)
+LOCATION:2.21/135
+DESCRIPTION:Wojskowy system logistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T080000
 DTEND:20250618T093500
-SUMMARY:ĆG-ZL (ć)
-LOCATION:06
-DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nType: Exercises\nNo: 6/10\nLecturer: dr Dariusz Żuchowski
+SUMMARY:ZLPMW (w)
+LOCATION:2.21/135
+DESCRIPTION:Zabezpieczenie logistyczne procesu mobilizacji wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T080000
 DTEND:20250625T093500
-SUMMARY:UPEL (S)
-LOCATION:06
-DESCRIPTION:Uwarunkowania prawno-ekonomiczne logistyki wojskowej\nType: Seminar\nNo: 1/2
+SUMMARY:ĆG-ZL (ć)
+LOCATION:1/22
+DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250702T080000
 DTEND:20250702T093500
-SUMMARY:PIoT (S)
-LOCATION:06
-DESCRIPTION:Podsystem infrastruktury oraz transportu i ruchu wojsk\nType: Seminar\nNo: 1/1\nLecturer: dr Arkadiusz Szymaniec
+SUMMARY:UPEL (S)
+LOCATION:2.21/135
+DESCRIPTION:Uwarunkowania prawno-ekonomiczne logistyki wojskowej\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr Milian-Pogonowska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250528T095000
-DTEND:20250528T112500
-SUMMARY:PIoT (w)
-LOCATION:06
-DESCRIPTION:Podsystem infrastruktury oraz transportu i ruchu wojsk\nType: Lecture\nNo: 3/4\nLecturer: dr Arkadiusz Szymaniec
+DTSTART:20250709T080000
+DTEND:20250709T093500
+SUMMARY:PIoT (S)
+LOCATION:2.21/135
+DESCRIPTION:Podsystem infrastruktury oraz transportu i ruchu wojsk\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T095000
 DTEND:20250604T112500
-SUMMARY:WSL (w)
-LOCATION:06
-DESCRIPTION:Wojskowy system logistyczny\nType: Lecture\nNo: 6/8\nLecturer: RWoź
+SUMMARY:PIoT (w)
+LOCATION:2.21/135
+DESCRIPTION:Podsystem infrastruktury oraz transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T095000
 DTEND:20250611T112500
-SUMMARY:ZLPMW (S)
-LOCATION:06
-DESCRIPTION:Zabezpieczenie logistyczne procesu mobilizacji wojsk\nType: Seminar\nNo: 1/2\nLecturer: dr Dariusz Żuchowski
+SUMMARY:WSL (w)
+LOCATION:2.21/135
+DESCRIPTION:Wojskowy system logistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T095000
 DTEND:20250618T112500
-SUMMARY:ĆG-ZL (ć)
-LOCATION:06
-DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nType: Exercises\nNo: 7/10\nLecturer: dr Dariusz Żuchowski
+SUMMARY:ZLPMW (S)
+LOCATION:2.21/135
+DESCRIPTION:Zabezpieczenie logistyczne procesu mobilizacji wojsk\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T095000
 DTEND:20250625T112500
-SUMMARY:SIWDL (ć)
-LOCATION:06
-DESCRIPTION:Systemy informatyczne wspierające działania logistyki\nType: Exercises\nNo: 3/4
+SUMMARY:ĆG-ZL (ć)
+LOCATION:1/22
+DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250702T095000
 DTEND:20250702T112500
-SUMMARY:WSL (S)
-LOCATION:06
-DESCRIPTION:Wojskowy system logistyczny\nType: Seminar\nNo: 2/2\nLecturer: RWoź
+SUMMARY:SIWDL (ć)
+LOCATION:1/22
+DESCRIPTION:Systemy informatyczne wspierające działania logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. Byłeń Slawomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250528T114000
-DTEND:20250528T131500
-SUMMARY:FWoj.OG (w)
-LOCATION:06
-DESCRIPTION:Funkcjonowanie wojskowego oddziału gospodarczego\nType: Lecture\nNo: 1/2\nLecturer: mgr inż. Maciej Kaczyński
+DTSTART:20250709T095000
+DTEND:20250709T112500
+SUMMARY:WSL (S)
+LOCATION:2.21/135
+DESCRIPTION:Wojskowy system logistyczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T114000
 DTEND:20250604T131500
-SUMMARY:KZLW (w)
-LOCATION:06
-DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nType: Lecture\nNo: 2/6\nLecturer: dr Mariusz Gułaj
+SUMMARY:FWoj.OG (w)
+LOCATION:2.21/135
+DESCRIPTION:Funkcjonowanie wojskowego oddziału gospodarczego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000
 DTEND:20250611T131500
-SUMMARY:ZLPMW (S)
-LOCATION:06
-DESCRIPTION:Zabezpieczenie logistyczne procesu mobilizacji wojsk\nType: Seminar\nNo: 2/2\nLecturer: dr Dariusz Żuchowski
+SUMMARY:KZLW (w)
+LOCATION:2.21/135
+DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T114000
 DTEND:20250618T131500
-SUMMARY:ĆG-ZL (ć)
-LOCATION:06
-DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nType: Exercises\nNo: 8/10\nLecturer: dr Dariusz Żuchowski
+SUMMARY:ZLPMW (S)
+LOCATION:2.21/135
+DESCRIPTION:Zabezpieczenie logistyczne procesu mobilizacji wojsk\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T114000
 DTEND:20250625T131500
-SUMMARY:SIWDL (ć)
-LOCATION:06
-DESCRIPTION:Systemy informatyczne wspierające działania logistyki\nType: Exercises\nNo: 4/4
+SUMMARY:ĆG-ZL (ć)
+LOCATION:1/22
+DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250702T114000
 DTEND:20250702T131500
-SUMMARY:UPEL (S)
-LOCATION:06
-DESCRIPTION:Uwarunkowania prawno-ekonomiczne logistyki wojskowej\nType: Seminar\nNo: 2/2
+SUMMARY:SIWDL (ć)
+LOCATION:1/22
+DESCRIPTION:Systemy informatyczne wspierające działania logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. Byłeń Slawomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250528T133000
-DTEND:20250528T150500
-SUMMARY:WF (ć)
-LOCATION:06
-DESCRIPTION:Wychowanie fizyczne\nType: Exercises\nNo: 1/6\nLecturer: mgr inż. Rafał Goławski
+DTSTART:20250709T114000
+DTEND:20250709T131500
+SUMMARY:UPEL (S)
+LOCATION:2.21/135
+DESCRIPTION:Uwarunkowania prawno-ekonomiczne logistyki wojskowej\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr Milian-Pogonowska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T133000
 DTEND:20250604T150500
 SUMMARY:WF (ć)
-LOCATION:06
-DESCRIPTION:Wychowanie fizyczne\nType: Exercises\nNo: 2/6\nLecturer: mgr inż. Rafał Goławski
+LOCATION:25 RGo
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: ppłk mgr inż. Goławski Rafał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250618T133000
-DTEND:20250618T150500
+DTSTART:20250611T133000
+DTEND:20250611T150500
 SUMMARY:WF (ć)
-LOCATION:06
-DESCRIPTION:Wychowanie fizyczne\nType: Exercises\nNo: 3/6\nLecturer: mgr inż. Rafał Goławski
+LOCATION:25 RGo
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: ppłk mgr inż. Goławski Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T133000
 DTEND:20250625T150500
 SUMMARY:WF (ć)
-LOCATION:06
-DESCRIPTION:Wychowanie fizyczne\nType: Exercises\nNo: 4/6\nLecturer: mgr inż. Rafał Goławski
+LOCATION:25 RGo
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: ppłk mgr inż. Goławski Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250702T133000
 DTEND:20250702T150500
 SUMMARY:WF (ć)
-LOCATION:06
-DESCRIPTION:Wychowanie fizyczne\nType: Exercises\nNo: 5/6\nLecturer: mgr inż. Rafał Goławski
+LOCATION:25 RGo
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: ppłk mgr inż. Goławski Rafał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250529T080000
-DTEND:20250529T093500
-SUMMARY:Zmwio (w)
-LOCATION:06
-DESCRIPTION:Zabezpieczenie medyczne wojsk i odzyskiwanie izolowanego personelu\nType: Lecture\nNo: 2/3\nLecturer: dr hab. inż. prof. WAT Stanisław Kachel
+DTSTART:20250709T133000
+DTEND:20250709T150500
+SUMMARY:WF (ć)
+LOCATION:25 RGo
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: ppłk mgr inż. Goławski Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T080000
 DTEND:20250605T093500
-SUMMARY:Zmwio (S)
-LOCATION:06
-DESCRIPTION:Zabezpieczenie medyczne wojsk i odzyskiwanie izolowanego personelu\nType: Seminar\nNo: 1/1\nLecturer: dr hab. inż. prof. WAT Stanisław Kachel
+SUMMARY:Zmwio (w)
+LOCATION:2.21/135
+DESCRIPTION:Zabezpieczenie medyczne wojsk i odzyskiwanie izolowanego personelu\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: mgr inż. Śliwiński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250619T080000
-DTEND:20250619T093500
-SUMMARY:KZLW (w)
-LOCATION:06
-DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nType: Lecture\nNo: 3/6\nLecturer: dr Mariusz Gułaj
+DTSTART:20250612T080000
+DTEND:20250612T093500
+SUMMARY:Zmwio (S)
+LOCATION:2.21/135
+DESCRIPTION:Zabezpieczenie medyczne wojsk i odzyskiwanie izolowanego personelu\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: mgr inż. Śliwiński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T080000
 DTEND:20250626T093500
-SUMMARY:ESL (w)
-LOCATION:06
-DESCRIPTION:Eksploatacja sprzętu logistycznego\nType: Lecture\nNo: 3/4\nLecturer: mgr inż. Jolanta Siewert
+SUMMARY:KZLW (w)
+LOCATION:5.21/135
+DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250703T080000
 DTEND:20250703T093500
-SUMMARY:ESL (S)
-LOCATION:06
-DESCRIPTION:Eksploatacja sprzętu logistycznego\nType: Seminar\nNo: 2/2\nLecturer: mgr inż. Jolanta Siewert
+SUMMARY:ESL (w)
+LOCATION:2.21/135
+DESCRIPTION:Eksploatacja sprzętu logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250529T095000
-DTEND:20250529T112500
-SUMMARY:Zmwio (w)
-LOCATION:06
-DESCRIPTION:Zabezpieczenie medyczne wojsk i odzyskiwanie izolowanego personelu\nType: Lecture\nNo: 3/3\nLecturer: dr hab. inż. prof. WAT Stanisław Kachel
+DTSTART:20250710T080000
+DTEND:20250710T093500
+SUMMARY:ESL (S)
+LOCATION:2.21/135
+DESCRIPTION:Eksploatacja sprzętu logistycznego\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000
 DTEND:20250605T112500
-SUMMARY:Fsm (PS)
-LOCATION:06
-DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nType: PS\nNo: 1/3\nLecturer: dr hab. Paweł Kler
+SUMMARY:Zmwio (w)
+LOCATION:2.21/135
+DESCRIPTION:Zabezpieczenie medyczne wojsk i odzyskiwanie izolowanego personelu\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: mgr inż. Śliwiński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250619T095000
-DTEND:20250619T112500
-SUMMARY:WSL (w)
-LOCATION:06
-DESCRIPTION:Wojskowy system logistyczny\nType: Lecture\nNo: 7/8\nLecturer: RWoź
+DTSTART:20250612T095000
+DTEND:20250612T112500
+SUMMARY:Fsm (PS)
+LOCATION:25 Kl
+DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nRodzaj zajęć: (PS)\nNumer zajęć: 1/4\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T095000
 DTEND:20250626T112500
-SUMMARY:PIoT (ć)
-LOCATION:06
-DESCRIPTION:Podsystem infrastruktury oraz transportu i ruchu wojsk\nType: Exercises\nNo: 2/2\nLecturer: dr Arkadiusz Szymaniec
+SUMMARY:WSL (w)
+LOCATION:5.21/135
+DESCRIPTION:Wojskowy system logistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250703T095000
 DTEND:20250703T112500
-SUMMARY:SIWDL (S)
-LOCATION:06
-DESCRIPTION:Systemy informatyczne wspierające działania logistyki\nType: Seminar\nNo: 1/1
+SUMMARY:PIoT (ć)
+LOCATION:2.21/135
+DESCRIPTION:Podsystem infrastruktury oraz transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250529T114000
-DTEND:20250529T131500
-SUMMARY:Fsm (S)
-LOCATION:06
-DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nType: Seminar\nNo: 1/1\nLecturer: dr hab. Paweł Kler
+DTSTART:20250710T095000
+DTEND:20250710T112500
+SUMMARY:SIWDL (S)
+LOCATION:2.21/135
+DESCRIPTION:Systemy informatyczne wspierające działania logistyki\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr hab. Byłeń Slawomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T114000
 DTEND:20250605T131500
-SUMMARY:Fsm (PS)
-LOCATION:06
-DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nType: PS\nNo: 2/3\nLecturer: dr hab. Paweł Kler
+SUMMARY:Fsm (S)
+LOCATION:2.21/135
+DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250619T114000
-DTEND:20250619T131500
-SUMMARY:WSL (w)
-LOCATION:06
-DESCRIPTION:Wojskowy system logistyczny\nType: Lecture\nNo: 8/8\nLecturer: RWoź
+DTSTART:20250612T114000
+DTEND:20250612T131500
+SUMMARY:Fsm (PS)
+LOCATION:25 Kl
+DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nRodzaj zajęć: (PS)\nNumer zajęć: 2/4\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T114000
 DTEND:20250626T131500
-SUMMARY:SLHNS (S)
-LOCATION:06
-DESCRIPTION:System logistyczny w realizacji zadań HNS\nType: Seminar\nNo: 2/2\nLecturer: RWoź
+SUMMARY:WSL (w)
+LOCATION:5.21/135
+DESCRIPTION:Wojskowy system logistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250703T114000
 DTEND:20250703T131500
-SUMMARY:SLHNS (w)
-LOCATION:06
-DESCRIPTION:System logistyczny w realizacji zadań HNS\nType: Lecture\nNo: 3/3\nLecturer: RWoź
+SUMMARY:SLHNS (S)
+LOCATION:2.21/135
+DESCRIPTION:System logistyczny w realizacji zadań HNS\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250529T133000
-DTEND:20250529T150500
-SUMMARY:SIWDL (w)
-LOCATION:06
-DESCRIPTION:Systemy informatyczne wspierające działania logistyki\nType: Lecture\nNo: 3/3
+DTSTART:20250710T114000
+DTEND:20250710T131500
+SUMMARY:SLHNS (w)
+LOCATION:2.21/135
+DESCRIPTION:System logistyczny w realizacji zadań HNS\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T133000
 DTEND:20250605T150500
+SUMMARY:SIWDL (w)
+LOCATION:2.21/135
+DESCRIPTION:Systemy informatyczne wspierające działania logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr hab. Byłeń Slawomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T133000
+DTEND:20250612T150500
 SUMMARY:Fsm (PS)
-LOCATION:06
-DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nType: PS\nNo: 3/3\nLecturer: dr hab. Paweł Kler
+LOCATION:25 Kl
+DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nRodzaj zajęć: (PS)\nNumer zajęć: 3/4\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250626T133000
-DTEND:20250626T150500
+DTSTART:20250703T133000
+DTEND:20250703T150500
 SUMMARY:FWoj.OG (S)
-LOCATION:06
-DESCRIPTION:Funkcjonowanie wojskowego oddziału gospodarczego\nType: Seminar\nNo: 1/2\nLecturer: mgr inż. Maciej Kaczyński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250529T160000
-DTEND:20250529T173500
-SUMMARY:PIoT (w)
-LOCATION:06
-DESCRIPTION:Podsystem infrastruktury oraz transportu i ruchu wojsk\nType: Lecture\nNo: 4/4\nLecturer: dr Arkadiusz Szymaniec
+LOCATION:2.21/135
+DESCRIPTION:Funkcjonowanie wojskowego oddziału gospodarczego\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T160000
 DTEND:20250605T173500
-SUMMARY:50%
-LOCATION:06
-DESCRIPTION:50%\nType: \nNo: 2/2\nLecturer: dr hab. Paweł Kler
+SUMMARY:PIoT (w)
+LOCATION:2.21/135
+DESCRIPTION:Podsystem infrastruktury oraz transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250626T160000
-DTEND:20250626T173500
+DTSTART:20250612T160000
+DTEND:20250612T173500
+SUMMARY:50% Fsm (PS)
+LOCATION:25 Kl
+DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nRodzaj zajęć: (PS)\nNumer zajęć: 4/4\nProwadzący: dr Spychała Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250703T160000
+DTEND:20250703T173500
 SUMMARY:WF (ć)
-LOCATION:06
-DESCRIPTION:Wychowanie fizyczne\nType: Exercises\nNo: 6/6\nLecturer: mgr inż. Rafał Goławski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250530T080000
-DTEND:20250530T093500
-SUMMARY:KZLW (w)
-LOCATION:06
-DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nType: Lecture\nNo: 4/6\nLecturer: dr Mariusz Gułaj
+LOCATION:25 RGo
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: ppłk mgr inż. Goławski Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T080000
 DTEND:20250606T093500
-SUMMARY:OZT (w)
-LOCATION:06
-DESCRIPTION:Organizacja zabezpieczenia technicznego\nType: Lecture\nNo: 4/5\nLecturer: JunK
+SUMMARY:KZLW (w)
+LOCATION:2.21/135
+DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250620T080000
-DTEND:20250620T093500
-SUMMARY:ĆG-ZL (ć)
-LOCATION:06
-DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nType: Exercises\nNo: 9/10\nLecturer: inż. Zenon Myszczyszyn
+DTSTART:20250613T080000
+DTEND:20250613T093500
+SUMMARY:OZT (w)
+LOCATION:2.21/135
+DESCRIPTION:Organizacja zabezpieczenia technicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: mgr inż. Juniec Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T080000
 DTEND:20250627T093500
-SUMMARY:KZLW (ć)
-LOCATION:06
-DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nType: Exercises\nNo: 2/2\nLecturer: dr Mariusz Gułaj
+SUMMARY:ĆG-ZL (ć)
+LOCATION:1/22
+DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T080000
 DTEND:20250704T093500
-SUMMARY:UrZ
-DESCRIPTION:UrZ\nType: \nNo: 1/1
+SUMMARY:KZLW (ć)
+LOCATION:2.21/135
+DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250530T095000
-DTEND:20250530T112500
-SUMMARY:KZLW (w)
-LOCATION:06
-DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nType: Lecture\nNo: 5/6\nLecturer: dr Mariusz Gułaj
+DTSTART:20250711T080000
+DTEND:20250711T093500
+SUMMARY:UrZ 
+LOCATION:
+DESCRIPTION:UrZ\nRodzaj zajęć: -\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T095000
 DTEND:20250606T112500
-SUMMARY:OZT (w)
-LOCATION:06
-DESCRIPTION:Organizacja zabezpieczenia technicznego\nType: Lecture\nNo: 5/5\nLecturer: JunK
+SUMMARY:KZLW (w)
+LOCATION:2.21/135
+DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250620T095000
-DTEND:20250620T112500
-SUMMARY:ĆG-ZL (ć)
-LOCATION:06
-DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nType: Exercises\nNo: 10/10\nLecturer: inż. Zenon Myszczyszyn
+DTSTART:20250613T095000
+DTEND:20250613T112500
+SUMMARY:OZT (w)
+LOCATION:2.21/135
+DESCRIPTION:Organizacja zabezpieczenia technicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: mgr inż. Juniec Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T095000
 DTEND:20250627T112500
-SUMMARY:KZLW (S)
-LOCATION:06
-DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nType: Seminar\nNo: 2/2\nLecturer: dr Mariusz Gułaj
+SUMMARY:ĆG-ZL (ć)
+LOCATION:1/22
+DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250530T114000
-DTEND:20250530T131500
-SUMMARY:FWoj.OG (w)
-LOCATION:06
-DESCRIPTION:Funkcjonowanie wojskowego oddziału gospodarczego\nType: Lecture\nNo: 2/2\nLecturer: mgr inż. Maciej Kaczyński
+DTSTART:20250704T095000
+DTEND:20250704T112500
+SUMMARY:KZLW (S)
+LOCATION:2.21/135
+DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T114000
 DTEND:20250606T131500
-SUMMARY:KZLW (w)
-LOCATION:06
-DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nType: Lecture\nNo: 6/6\nLecturer: dr Mariusz Gułaj
+SUMMARY:FWoj.OG (w)
+LOCATION:2.21/135
+DESCRIPTION:Funkcjonowanie wojskowego oddziału gospodarczego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250620T114000
-DTEND:20250620T131500
-SUMMARY:FWoj.OG (S)
-LOCATION:06
-DESCRIPTION:Funkcjonowanie wojskowego oddziału gospodarczego\nType: Seminar\nNo: 2/2\nLecturer: mgr inż. Maciej Kaczyński
+DTSTART:20250613T114000
+DTEND:20250613T131500
+SUMMARY:KZLW (w)
+LOCATION:2.21/135
+DESCRIPTION:Kierowanie zabezpieczeniem logistycznym wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T114000
 DTEND:20250627T131500
+SUMMARY:FWoj.OG (S)
+LOCATION:1/22
+DESCRIPTION:Funkcjonowanie wojskowego oddziału gospodarczego\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250704T114000
+DTEND:20250704T131500
 SUMMARY:ESL (w)
-LOCATION:06
-DESCRIPTION:Eksploatacja sprzętu logistycznego\nType: Lecture\nNo: 4/4\nLecturer: mgr inż. Jolanta Siewert
+LOCATION:2.21/135
+DESCRIPTION:Eksploatacja sprzętu logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 END:VCALENDAR

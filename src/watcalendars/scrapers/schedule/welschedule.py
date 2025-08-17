@@ -1,408 +1,480 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-import sys, os, re, asyncio, time, unicodedata
-from datetime import datetime
-from bs4 import BeautifulSoup
+import sys
+import os
+import time
+import re
+import asyncio
+import unicodedata
+from watcalendars import DB_DIR
+from urllib.parse import quote
+from watcalendars.utils.connection import test_connection_with_monitoring
+from watcalendars.utils.logutils import OK, WARNING as W, ERROR as E, INFO, log_entry, log, start_spinner, log_parsing
+from watcalendars.utils.url_loader import load_url_from_config
+from watcalendars.utils.groups_loader import load_groups
+from watcalendars.utils.config import BLOCK_TIMES, ROMAN_MONTH, DATE_TOKEN_RE, TYPE_FULL_MAP, DAY_ALIASES, TYPE_SYMBOLS, sanitize_filename
 from playwright.async_api import async_playwright
+from bs4 import BeautifulSoup
+from datetime import datetime
+from collections import defaultdict
 
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from groups_loader import load_groups
-from logutils import OK, WARNING as W, ERROR as E, INFO, log, log_entry
-from url_loader import load_url_from_config
-from employees_loader import load_employees
+def get_wel_group_urls():
+    groups = load_groups("wel")
+    result = []
 
-DAY_ALIASES={'pon.':'MON','wt.':'TUE','śr.':'WED','sr.':'WED','czw.':'THU','pt.':'FRI','sob.':'SAT','niedz.':'SUN'}
-BLOCK_TIME_MAP={'1-2':("08:00","09:35"),'3-4':("09:50","11:25"),'5-6':("11:40","13:15"),'7-8':("13:30","15:05"),'9-10':("16:00","17:35"),'11-12':("17:50","19:25"),'13-14':("19:40","21:15")}
-ROMAN_MONTH={'I':1,'II':2,'III':3,'IV':4,'V':5,'VI':6,'VII':7,'VIII':8,'IX':9,'X':10,'XI':11,'XII':12}
-DATE_TOKEN_RE=re.compile(r'^(\d{2})\s+([IVX]{1,4})$')
-TYPE_FULL_MAP={'w':'Lecture','W':'Lecture','ć':'Exercises','c':'Exercises','L':'Laboratory','lab':'Laboratory','S':'Seminar','E':'Exam','Ep':'Retake exam'}
-TYPE_SYMBOLS=set(TYPE_FULL_MAP.keys())
-LECTURER_NAME_MODE='always_full'
-ICS_HEADER=["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//scheduleWEL//EN","CALSCALE:GREGORIAN"]
-OUTPUT_DIR_NAME="WEL_schedules"
+    def log_get_wel_group_urls():
+        for g in groups:
+            url = base_url.format(group=quote(str(g), safe="*"))
+            result.append((g, url))
+        return result
 
-sanitize_filename=lambda s: re.sub(r'[<>:"\\|?*]','_',s)
-_strip_diacritic=lambda s: ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c)!='Mn')
+    result = log("Getting WEL group URLs...", log_get_wel_group_urls)
+    return result
 
-TITLE_PATTERN=re.compile(r"^(?:prof\.?\s*(?:dr\s*hab\.)?|dr\s*hab\.|dr\.|mgr\.?|inż\.?|mgr\s*inż\.|lic\.|hab\.|płk\.|ppłk\.|mjr\.|kpt\.|por\.|ppor\.|doc\.|st\.|mł\.)\s+", re.IGNORECASE)
-EXTRA_TITLE_SEQ=re.compile(r"^(?:prof\.?\s*WAT)\s+", re.IGNORECASE)
-NAME_TOKEN=re.compile(r'^[A-ZŻŹĆŁŚÓ][a-ząćęłńóśźżA-Z]{2,}$')
-LECTURER_LINE_RE=re.compile(r'^([A-ZŻŹĆŁŚÓ][A-Za-zŻŹĆŁŚÓąćęłńóśźż]{2,12})\s+(.+)$')
-TITLE_KEYWORDS=re.compile(r'(prof\.|dr|hab\.|mgr|inż\.|inż|lic\.|płk|ppłk|mjr|kpt|por|ppor)', re.IGNORECASE)
-LEGEND_LINE_RE=re.compile(r'^(?P<abbr>[A-Za-zĄąĆćĘęŁłŃńÓóŚśŹźŻż0-9]{1,15})\s*[–\-:\u2013]\s+(?P<full>.+)$')
 
-# Helpers
+async def fetch_group_html(page, idx, total, g, url):
+    max_retries = 3
+    retry_count = 0
+    html = None
+    logs = []
+    while retry_count < max_retries:
+        try:
+            await page.goto(url, timeout=30000)
+            await page.wait_for_load_state("networkidle", timeout=15000)
+            html = await page.content()
+            log_entry(f"{OK} Scraping group {g} completed.", logs)
+            break
+        except Exception as e:
+            retry_count += 1
+            log_entry(f"{W} Retry {retry_count}/{max_retries} for group {g} ({idx}/{total})...", logs)
+            if retry_count < max_retries:
+                await asyncio.sleep(2)
+            else:
+                log_entry(f"{E} Failed to scrape group {g} ({idx}/{total}) after {max_retries} attempts\n{e}", logs)
+    if html and retry_count > 0:
+        log_entry(f"{OK} Scraping group {g} completed after {retry_count} retries.", logs)
+    return html
 
-def _strip_titles(line:str)->str:
-    s=line.strip(); prev=None
-    while s and prev!=s:
-        prev=s; s=EXTRA_TITLE_SEQ.sub('',s).strip(); s=TITLE_PATTERN.sub('',s).strip()
-    return s
 
-def build_employee_code_index(employees_map:dict):
-    variant_index, records = {}, []
-    for full in employees_map.values():
-        clean_full=' '.join(full.split()); short=_strip_titles(clean_full); parts=short.split()
-        if len(parts)<2: continue
-        first,surname=parts[0],parts[-1]
-        base_surname=_strip_diacritic(re.sub(r'[^A-Za-zĄąĆćĘęŁłŃńÓóŚśŹźŻż]','',surname)); base_first=_strip_diacritic(first)
-        if not base_surname: continue
-        variants={base_surname.lower(), base_surname[:4].lower(), base_surname[:5].lower()}
-        if base_first:
-            variants.update({(base_surname[:3]+base_first[0]).lower(), (base_first[0]+base_surname).lower(), (base_first[0]+base_surname[:4]).lower(), (base_surname[:2]+base_first[0]).lower(), (base_surname[:2]+base_first[:2]).lower(), (base_surname[:3]+base_first[:2]).lower()})
-        rec={'full':clean_full,'short':short,'surname':base_surname.lower()}; records.append(rec)
-        for v in variants: variant_index.setdefault(v, {'full':clean_full,'short':short})
-    return variant_index, records
-
-def _normalize_titles_spacing(txt:str)->str:
-    txt=re.sub(r'\.(?=\S)','. ',txt); return re.sub(r'\s+',' ',txt).strip()
-
-def extract_lecturer_legend(soup:BeautifulSoup):
-    legend={}
-    for raw in soup.get_text('\n').split('\n'):
-        line=raw.strip();
-        if 3<=len(line)<=160:
-            m=LECTURER_LINE_RE.match(line)
-            if m:
-                code,rest=m.group(1),_normalize_titles_spacing(m.group(2).strip())
-                tokens=rest.split(); cap=[t for t in tokens if NAME_TOKEN.match(t)]
-                if len(cap)>=2 and (TITLE_KEYWORDS.search(rest) or len(cap)>=3): legend.setdefault(code,rest)
-    for td in soup.find_all('td'):
-        if td.has_attr('mergewith'):
-            code=td.get_text(strip=True)
-            if code and len(code)<=6:
-                full_plain=_normalize_titles_spacing(re.sub('<[^>]+>',' ',td['mergewith']))
-                if TITLE_KEYWORDS.search(full_plain):
-                    cap=[t for t in full_plain.split() if NAME_TOKEN.match(t)]
-                    if len(cap)>=2: legend.setdefault(code, full_plain)
-    return legend
-
-def extract_legend_maps(soup:BeautifulSoup, schedule_table=None):
-    subject_map={}; full_text=soup.get_text('\n')
-    for td in soup.find_all('td'):
-        if td.has_attr('mergewith'):
-            abbr=td.get_text(strip=True); raw_full=td['mergewith']
-            full=re.sub('<[^>]+>',' ',raw_full); full=re.sub(r'\s+',' ',full).strip()
-            if abbr and full and len(full)>len(abbr)+3 and ' ' in full:
-                subject_map.setdefault(abbr,full)
-                if len(abbr)>3 and abbr[-1] in {'c','w','L','S','E','l','C'}: subject_map.setdefault(abbr[:-1],full)
-    for raw_line in full_text.split('\n'):
-        line=raw_line.strip()
-        if not line or len(line)<4: continue
-        m=LEGEND_LINE_RE.match(line)
-        if m:
-            abbr=m.group('abbr').strip(); full=m.group('full').strip()
-            if len(full)>len(abbr)+3 and ' ' in full:
-                subject_map.setdefault(abbr,full); continue
-        if '  ' in line:
-            parts=re.split(r'\s{2,}', line, maxsplit=1)
-            if len(parts)==2:
-                abbr,full=parts[0].strip(),parts[1].strip()
-                if abbr and full and len(full)>len(abbr)+3 and ' ' in full and re.match(r'^[A-Za-zĄąĆćĘęŁłŃńÓóŚśŹźŻż0-9]{1,15}$', abbr):
-                    subject_map.setdefault(abbr,full); continue
-        tokens=line.split()
-        if 2<=len(tokens)<=12:
-            abbr,rest=tokens[0],' '.join(tokens[1:])
-            if 3<=len(rest)<=100 and len(rest)>len(abbr)+3 and ' ' in rest and re.match(r'^[A-Za-zĄąĆćĘęŁłŃńÓóŚśŹźŻż]{1,10}$', abbr) and rest[0].isupper() and not rest.endswith('.'):
-                subject_map.setdefault(abbr,rest)
-    for tbl in soup.find_all('table'):
-        if schedule_table is not None and tbl is schedule_table: continue
-        for tr in tbl.find_all('tr'):
-            cells=tr.find_all('td')
-            for idx,td in enumerate(cells):
-                abbr=td.get_text(strip=True)
-                if not abbr or len(abbr)>15: continue
-                if td.has_attr('mergewith'):
-                    full=_normalize_titles_spacing(re.sub('<[^>]+>',' ',td['mergewith']))
-                    if full and len(full)>len(abbr)+3 and ' ' in full and re.match(r'^[A-Za-zĄąĆćĘęŁłŃńÓóŚśŹźŻż0-9]+$', abbr):
-                        subject_map.setdefault(abbr,full)
-                        if len(abbr)>3 and abbr[-1] in {'c','w','L','S','E','l','C'}: subject_map.setdefault(abbr[:-1],full)
-                        continue
-                if idx+1 < len(cells):
-                    full_candidate=' '.join(cells[idx+1].stripped_strings).strip()
-                    if full_candidate and len(full_candidate)>len(abbr)+3 and ' ' in full_candidate and not full_candidate.endswith('.') and re.match(r'^[A-Za-zĄąĆćĘęŁłŃńÓóŚśŹźŻż0-9]+$', abbr):
-                        subject_map.setdefault(abbr,full_candidate)
-                        if len(abbr)>3 and abbr[-1] in {'c','w','L','S','E','l','C'}: subject_map.setdefault(abbr[:-1],full_candidate)
-    return subject_map
-
-# Parser (WTC style)
-
-def parse_wtc_table(html:str, employees_map:dict):
-    if not html: return []
-    soup=BeautifulSoup(html,'html.parser')
-    table=soup.find('table') or (soup.find_all('table')[0] if soup.find_all('table') else None)
-    if not table: return []
-    subject_legend=extract_legend_maps(soup, schedule_table=table)
-    lecturer_legend=extract_lecturer_legend(soup)
-    variant_index, employee_records = build_employee_code_index(employees_map)
-    lessons=[]; current_dates=[]
-    m_upd=re.search(r'Data aktualizacji:\s*(\d{2})[./](\d{2})[./](\d{4})', soup.get_text())
-    update_year=int(m_upd.group(3)) if m_upd else datetime.now().year
-    for tr in table.find_all('tr'):
-        cells=tr.find_all(['td','th'])
-        if not cells: continue
-        first=cells[0].get_text(strip=True)
-        if first in DAY_ALIASES and len(cells)>2 and not cells[1].get_text(strip=True):
-            current_dates=[]
-            for c in cells[2:]:
-                token=c.get_text(strip=True).replace('\xa0',' ').strip()
-                if not token: current_dates.append(None); continue
-                m=DATE_TOKEN_RE.match(token)
-                if m:
-                    day_num=int(m.group(1)); roman=m.group(2); month=ROMAN_MONTH.get(roman)
-                    if month:
-                        try: current_dates.append(datetime(update_year, month, day_num))
-                        except ValueError: current_dates.append(None)
-                    else: current_dates.append(None)
-                else: current_dates.append(None)
-            continue
-        if first in DAY_ALIASES and len(cells)>2:
-            block_label=cells[1].get_text(strip=True)
-            if block_label not in BLOCK_TIME_MAP: continue
-            start_time,end_time=BLOCK_TIME_MAP[block_label]
-            for i,c in enumerate(cells[2:]):
-                if i>=len(current_dates): break
-                dt=current_dates[i]
-                if not dt: continue
-                raw_lines=[t.strip() for t in c.stripped_strings if t.strip() and t.strip()!='-']
-                if not raw_lines: continue
-                subject_abbr=raw_lines[0]
-                symbol=''; room=''; lecturer_codes=[]
-                for line in raw_lines[1:]:
-                    if line in TYPE_SYMBOLS and not symbol: symbol=line; continue
-                    m_room=re.match(r'^(\d{2,3}[A-Z]?)', line)
-                    if m_room and not room: room=m_room.group(1); continue
-                    if re.match(r'^[A-ZŻŹĆŁŚÓ][a-ząćęłńóśźżA-Z]{1,7}$', line) or re.match(r'^[A-Z][A-Zaż]{2,}$', line): lecturer_codes.append(line); continue
-                    m_last=re.search(r'([A-ZŻŹĆŁŚÓ][a-zA-Ząćęłńóśźż]{2,})$', line)
-                    if m_last: lecturer_codes.append(m_last.group(1))
-                full_subject_name=subject_legend.get(subject_abbr, subject_abbr)
-                type_full=TYPE_FULL_MAP.get(symbol, symbol)
-                if not lecturer_codes and subject_abbr=='WF':
-                    cz=next((k for k in employees_map.values() if 'Czajko' in k), None)
-                    if cz: lecturer_codes.append('Czajko')
-                lecturers_full=resolve_lecturer_names(lecturer_codes, variant_index, employee_records, LECTURER_NAME_MODE, legend_map=lecturer_legend)
-                lessons.append({'date': dt.strftime('%Y_%m_%d'),'start': datetime.strptime(start_time,'%H:%M').replace(year=dt.year,month=dt.month,day=dt.day),'end': datetime.strptime(end_time,'%H:%M').replace(year=dt.year,month=dt.month,day=dt.day),'subject': subject_abbr,'type': symbol,'type_full': type_full,'room': room,'lesson_number': '','full_subject_name': full_subject_name,'lecturers': lecturers_full})
-    counter={}; totals={}
-    for les in lessons:
-        k=(les['subject'], les['type']); totals[k]=totals.get(k,0)+1
-    for les in lessons:
-        k=(les['subject'], les['type']); counter[k]=counter.get(k,0)+1; les['lesson_number']=f"{counter[k]}/{totals[k]}"
-    subj_type_lect={}; subj_any_lect={}
-    for les in lessons:
-        if les.get('lecturers'):
-            st=(les['subject'], les['type'])
-            subj_type_lect.setdefault(st,set()).update(les['lecturers'])
-            subj_any_lect.setdefault(les['subject'],set()).update(les['lecturers'])
-    for les in lessons:
-        if not les.get('lecturers'):
-            st=(les['subject'], les['type'])
-            cand=subj_type_lect.get(st) or subj_any_lect.get(les['subject'])
-            if cand and len(cand)<=3: les['lecturers']=sorted(cand)
-    return lessons
-
-# Specialized WEL parser (day row followed by multiple block rows without repeating day label)
-
-def parse_wel_table(html:str, employees_map:dict):
-    if not html: return []
-    soup=BeautifulSoup(html,'html.parser')
-    table=soup.find('table') or (soup.find_all('table')[0] if soup.find_all('table') else None)
-    if not table: return []
-    subject_legend=extract_legend_maps(soup, schedule_table=table)
-    lecturer_legend=extract_lecturer_legend(soup)
-    variant_index, employee_records = build_employee_code_index(employees_map)
-    lessons=[]; current_dates=[]; current_day=None
-    m_upd=re.search(r'Data aktualizacji:\s*(\d{2})[./](\d{2})[./](\d{4})', soup.get_text())
-    update_year=int(m_upd.group(3)) if m_upd else datetime.now().year
-    for tr in table.find_all('tr'):
-        cells=tr.find_all(['td','th'])
-        if not cells: continue
-        first=cells[0].get_text(strip=True)
-        # Day header row: day + empty cell + dates
-        if first in DAY_ALIASES and len(cells)>2 and (len(cells)==0 or not cells[1].get_text(strip=True) or cells[1].get_text(strip=True) not in BLOCK_TIME_MAP):
-            current_day=first
-            current_dates=[]
-            # Dates start after second cell
-            for c in cells[2:]:
-                token=c.get_text(strip=True).replace('\xa0',' ').strip()
-                if not token: current_dates.append(None); continue
-                m=DATE_TOKEN_RE.match(token)
-                if m:
-                    day_num=int(m.group(1)); roman=m.group(2); month=ROMAN_MONTH.get(roman)
-                    if month:
-                        try: current_dates.append(datetime(update_year, month, day_num))
-                        except ValueError: current_dates.append(None)
-                    else: current_dates.append(None)
-                else:
-                    current_dates.append(None)
-            continue
-        # Block row for current day: first cell is block number
-        if current_day and first in BLOCK_TIME_MAP:
-            block_label=first
-            start_time,end_time=BLOCK_TIME_MAP[block_label]
-            # Data cells start at index 2 if second cell empty, else 1
-            start_idx=2 if len(cells)>1 and not cells[1].get_text(strip=True) else 1
-            date_cells=cells[start_idx:start_idx+len(current_dates)] if current_dates else []
-            for i,c in enumerate(date_cells):
-                if i>=len(current_dates): break
-                dt=current_dates[i]
-                if not dt: continue
-                raw_lines=[t.strip() for t in c.stripped_strings if t.strip() and t.strip()!='-']
-                if not raw_lines: continue
-                subject_abbr=raw_lines[0]
-                symbol=''; room=''; lecturer_codes=[]
-                for line in raw_lines[1:]:
-                    if line in TYPE_SYMBOLS and not symbol: symbol=line; continue
-                    m_room=re.match(r'^(\d{2,3}[A-Z]?)', line)
-                    if m_room and not room: room=m_room.group(1); continue
-                    if re.match(r'^[A-ZŻŹĆŁŚÓ][a-ząćęłńóśźżA-Z]{1,7}$', line) or re.match(r'^[A-Z][A-Zaż]{2,}$', line): lecturer_codes.append(line); continue
-                    m_last=re.search(r'([A-ZŻŹĆŁŚÓ][a-zA-Ząćęłńóśźż]{2,})$', line)
-                    if m_last: lecturer_codes.append(m_last.group(1))
-                full_subject_name=subject_legend.get(subject_abbr, subject_abbr)
-                type_full=TYPE_FULL_MAP.get(symbol, symbol)
-                if not lecturer_codes and subject_abbr=='WF':
-                    cz=next((k for k in employees_map.values() if 'Czajko' in k), None)
-                    if cz: lecturer_codes.append('Czajko')
-                lecturers_full=resolve_lecturer_names(lecturer_codes, variant_index, employee_records, LECTURER_NAME_MODE, legend_map=lecturer_legend)
-                lessons.append({'date': dt.strftime('%Y_%m_%d'),'start': datetime.strptime(start_time,'%H:%M').replace(year=dt.year,month=dt.month,day=dt.day),'end': datetime.strptime(end_time,'%H:%M').replace(year=dt.year,month=dt.month,day=dt.day),'subject': subject_abbr,'type': symbol,'type_full': type_full,'room': room,'lesson_number': '','full_subject_name': full_subject_name,'lecturers': lecturers_full})
-        # If a new day label appears mid-way (fails earlier heuristic), reset day
-        elif first in DAY_ALIASES:
-            current_day=first
-            current_dates=[]
-    # Post-process numbering & lecturer propagation
-    counter={}; totals={}
-    for les in lessons:
-        k=(les['subject'], les['type']); totals[k]=totals.get(k,0)+1
-    for les in lessons:
-        k=(les['subject'], les['type']); counter[k]=counter.get(k,0)+1; les['lesson_number']=f"{counter[k]}/{totals[k]}"
-    subj_type_lect={}; subj_any_lect={}
-    for les in lessons:
-        if les.get('lecturers'):
-            st=(les['subject'], les['type'])
-            subj_type_lect.setdefault(st,set()).update(les['lecturers'])
-            subj_any_lect.setdefault(les['subject'],set()).update(les['lecturers'])
-    for les in lessons:
-        if not les.get('lecturers'):
-            st=(les['subject'], les['type'])
-            cand=subj_type_lect.get(st) or subj_any_lect.get(les['subject'])
-            if cand and len(cand)<=3: les['lecturers']=sorted(cand)
-    return lessons
-
-# Lecturer resolver (after alias)
-
-def resolve_lecturer_names(codes, variant_index, records, mode, legend_map=None):
-    resolved=[]; legend_map=legend_map or {}
-    for raw in codes:
-        original_raw=raw; key=_strip_diacritic(raw).lower(); found=None
-        legend_full=legend_map.get(raw)
-        if legend_full: resolved.append({'full':legend_full,'short':_strip_titles(legend_full)}); continue
-        found=variant_index.get(key)
-        if not found:
-            for k2 in (key[:5], key[:4], key[:3]):
-                if k2 in variant_index: found=variant_index[k2]; break
-        if not found and re.match(r'^[A-Za-zżźćńółęąśŻŹĆŁŚÓĘĄ]{2,3}[A-Z]$', raw):
-            surname_part=key[:-1]; fi=key[-1]
-            for rec in records:
-                if rec['surname'].startswith(surname_part) and _strip_diacritic(rec['short'].split()[0])[0].lower()==fi.lower():
-                    found={'full':rec['full'],'short':rec['short']}; break
-        if not found and len(key)==2:
-            cand=[rec for rec in records if rec['surname'].startswith(key)]
-            if len(cand)==1:
-                c=cand[0]; found={'full':c['full'],'short':c['short']}
-        if not found:
-            for rec in records:
-                if rec['surname'].startswith(key[:3]): found={'full':rec['full'],'short':rec['short']}; break
-        if not found:
-            for code2,full_line in (legend_map or {}).items():
-                if raw.lower() in full_line.lower().split():
-                    found={'full':full_line,'short':_strip_titles(full_line)}; break
-        if not found: found={'full':raw,'short':raw,'unresolved':original_raw}
-        resolved.append(found)
-    if mode=='always_full': return [r['full'] for r in resolved]
-    if mode=='always_short': return [r['short'] for r in resolved]
-    if any(r['full']==r['short'] for r in resolved): return [r['short'] for r in resolved]
-    return [r['full'] for r in resolved]
-
-# ICS writing
-
-def write_ics(group:str, lessons:list):
-    base_dir=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','..','..','db',OUTPUT_DIR_NAME)
-    os.makedirs(base_dir, exist_ok=True)
-    path=os.path.join(base_dir,f"{sanitize_filename(group)}.ics")
-    with open(path,'w',encoding='utf-8') as f:
-        for line in ICS_HEADER: f.write(line+'\n')
-        f.write(f"X-WR-CALNAME:{group}\n")
-        for les in lessons:
-            dtstart=les['start'].strftime('%Y%m%dT%H%M%S'); dtend=les['end'].strftime('%Y%m%dT%H%M%S')
-            summary=f"{les['subject']} ({les['type']})" if les['type'] else les['subject']
-            desc_lines=[(les.get('full_subject_name') or les['subject']), f"Type: {les['type_full']}", f"No: {les['lesson_number']}"]
-            if les.get('lecturers'): desc_lines.append("Lecturer: "+"; ".join(les['lecturers']))
-            f.write("BEGIN:VEVENT\n")
-            f.write(f"DTSTART:{dtstart}\nDTEND:{dtend}\nSUMMARY:{summary}\n")
-            if les.get('room'): f.write(f"LOCATION:{les['room']}\n")
-            f.write(f"DESCRIPTION:{'\\n'.join(desc_lines)}\nEND:VEVENT\n")
-        f.write("END:VCALENDAR\n")
-    return len(lessons)
-
-# Saving wrapper
-
-def save_all_wel_calendars(schedules:dict):
-    def do_all():
-        logs=[]; saved=0
-        for gid,lessons in schedules.items():
-            if lessons: write_ics(gid, lessons); saved+=1
-            else: log_entry(f"{W} {gid}: no lessons parsed", logs)
-        return saved
-    return log("Saving WEL schedules... ", do_all)
-
-# Orchestration
-async def scrape_all_wel(groups:list, base_pattern:str, employees:dict, concurrency:int=8):
-    results={}; semaphore=asyncio.Semaphore(concurrency)
+async def scrape_group_urls(pairs, concurrency: int = 10):
+    results = {}
+    semaphore = asyncio.Semaphore(concurrency)
+    done = 0
+    done_lock = asyncio.Lock()
     async with async_playwright() as p:
-        browser=await p.chromium.launch(headless=True, args=['--no-sandbox','--disable-setuid-sandbox','--disable-dev-shm-usage','--disable-gpu'])
-        context=await browser.new_context(user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0 Safari/537.36")
-        async def worker(gid, idx, total):
+        browser = await p.chromium.launch(
+            headless=True,
+            args=[
+                "--no-sandbox",
+                "--disable-setuid-sandbox",
+                "--disable-infobars",
+                "--disable-dev-shm-usage",
+                "--disable-web-security",
+                "--allow-insecure-localhost",
+                "--ignore-certificate-errors",
+                "--headless",
+            ],
+        )
+        context = await browser.new_context()
+        stop_event, spinner_task = start_spinner("Scraping groups", len(pairs), lambda: done, interval=0.2)
+
+        async def worker(idx_pair):
+            nonlocal done
+            idx, (g, url) = idx_pair
             async with semaphore:
-                url=base_pattern.format(group=gid)
-                html=await fetch_schedule_html(context, url, gid, idx, total)
-                results[gid]=parse_wel_table(html, employees)
-        await asyncio.gather(*[worker(g,i+1,len(groups)) for i,g in enumerate(groups)])
-        await browser.close()
+                page = await context.new_page()
+                try:
+                    html = await fetch_group_html(page, idx + 1, len(pairs), g, url)
+                    results[g] = html
+                finally:
+                    await page.close()
+                    async with done_lock:
+                        done += 1
+        try:
+            await asyncio.gather(*[worker(item) for item in enumerate(pairs)])
+        finally:
+            stop_event.set()
+            await spinner_task
+            await browser.close()
     return results
 
-# Fetch reused
-async def fetch_schedule_html(context, url, group, idx, total):
-    page=await context.new_page(); logs=[]
-    try:
-        await page.goto(url, timeout=15000)
-        await page.wait_for_load_state('domcontentloaded')
-        html=await page.content(); log_entry(f"Scraping group ({idx}/{total}) | {group} Done.", logs); return html
-    except Exception as e:
-        log_entry(f"{W} Fail ({idx}/{total}) {group}: {e}", logs); return None
-    finally:
-        await page.close()
 
-# Runner helper
+def extract_legend(soup: BeautifulSoup) -> list[tuple[str, str, list[str]]]:
+    entries: list[tuple[str, str, list[str]]] = []
+    seen: set[tuple[str, str]] = set()
+    norm = lambda s: re.sub(r"\s+", " ", (s or "")).strip()
+    is_lect = lambda t: re.search(r"(?i)\b(prof\.|dr|hab\.|mgr|inż\.|inz\.|ppłk|płk|mjr|kpt\.|por\.|ppor\.|chor\.|sierż\.|kpr\.)\b", t or "") is not None
+    
+    def split_lect(t: str) -> list[str]:
+        parts = re.split(r"(?i)\s*(?:;|/|,| i | oraz )\s*", t)
+        return [re.sub(r"^[•\-–]\s*", "", norm(p)) for p in parts if norm(p)]
 
-def run_async(title, coro, *args, **kwargs):
-    def runner(): return asyncio.run(coro(*args, **kwargs))
-    return log(title, runner)
+    last_idx: int | None = None
+    for td in soup.find_all("td"):
+        full = None
+        if td.has_attr("mergewith"):
+            try:
+                full = BeautifulSoup(td["mergewith"], "html.parser").get_text(" ", strip=True)
+            except Exception:
+                full = norm(re.sub(r"<[^>]+>", " ", td["mergewith"]))
+        abbr = td.get_text(strip=True)
+        lect_text = norm(full if full else " ".join(td.stripped_strings))
+        if lect_text and is_lect(lect_text) and last_idx is not None:
+            lects = entries[last_idx][2]
+            for n in split_lect(lect_text):
+                if n not in lects:
+                    lects.append(n)
+            if not (abbr and full):
+                continue
+        if full and abbr:
+            key = (abbr, full)
+            if key in seen:
+                for idx in range(len(entries) - 1, -1, -1):
+                    a, f, _ = entries[idx]
+                    if a == abbr and f == full:
+                        last_idx = idx
+                        break
+                continue
+            seen.add(key)
+            lects: list[str] = []
+            entries.append((abbr, full, lects))
+            last_idx = len(entries) - 1
+    return entries
 
-# Main
-if __name__=='__main__':
-    start=time.time()
-    print(f"{INFO} Start WEL schedules scraper {datetime.now().strftime('%Y-%m-%d %H:%M')}")
-    print(f"\n{INFO} Connection to WEL website with schedules.")
-    url_pattern, desc = load_url_from_config(key='wel_schedule', url_type='url_lato')
-    from connection import test_connection_with_monitoring
-    test_connection_with_monitoring(url_pattern, desc)
-    if not url_pattern:
-        print(f"{E} No URL for schedules."); sys.exit(1)
-    employees=load_employees(); groups=load_groups('wel')
-    if not groups:
-        print(f"{E} No WEL groups found."); sys.exit(1)
-    schedules=run_async("Scraping WEL schedules... ", scrape_all_wel, groups, url_pattern, employees, 8)
-    saved=save_all_wel_calendars(schedules)
-    print(f"{OK} Saved schedules for {saved}/{len(groups)} groups.")
-    print(f"{INFO} Finished in {time.time()-start:.2f}s")
+
+def parse_schedule(html: str) -> list[dict]:
+    if not html:
+        return []
+
+    soup = BeautifulSoup(html, 'html.parser')
+    tables = soup.find_all('table')
+    table = None
+    if tables:
+        for t in tables:
+            for tr in t.find_all('tr'):
+                tds = tr.find_all(['td', 'th'])
+                if not tds:
+                    continue
+                first_cell = (tds[0].get_text(strip=True) or '').lower()
+                if first_cell in DAY_ALIASES:
+                    table = t
+                    break
+            if table:
+                break
+        if not table:
+            table = tables[0]
+    if not table:
+        return []
+
+    txt = re.sub(r"\s+", " ", soup.get_text(" ").strip())
+    now = datetime.now()
+    year = now.year
+    m_year = re.search(r"(20\d{2})\s*/\s*(20\d{2})", txt)
+    if m_year:
+        y1, y2 = int(m_year.group(1)), int(m_year.group(2))
+        year = y1 if now.month >= 9 else y2
+    else:
+        m_any = re.search(r"(20\d{2})", txt)
+        if m_any:
+            year = int(m_any.group(1))
+    legend_entries = extract_legend(soup)
+    subject_legend_full: dict[str, str] = {}
+    subject_legend_lect: dict[str, list[str]] = {}
+    all_lecturers: list[str] = []
+    for abbr, full, lecturers in legend_entries:
+        if abbr and full:
+            subject_legend_full.setdefault(abbr, full)
+            if lecturers:
+                lst = subject_legend_lect.setdefault(abbr, [])
+                for l in lecturers:
+                    if l not in lst:
+                        lst.append(l)
+                        if l not in all_lecturers:
+                            all_lecturers.append(l)
+
+    def normalize_type(sym: str) -> str:
+        s = (sym or '').strip()
+        if not s:
+            return s
+        if s in TYPE_SYMBOLS:
+            return s
+        core = s.strip('()')
+        for cand in (f'({core})', f'({core.lower()})', f'({core.upper()})'):
+            if cand in TYPE_SYMBOLS:
+                return cand
+        return s
+
+    def pick_lecturers_for_code(subj: str, code: str) -> list[str]:
+        names = subject_legend_lect.get(subj) or []
+        if not names:
+            names = all_lecturers
+        if not code:
+            return names[:1] if len(names) == 1 else []
+
+        if not names:
+            return []
+
+        def undiac(s: str) -> str:
+            return ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn')
+
+        codes = [c for c in re.split(r"[\s/,;]+", code.strip()) if c]
+        result: list[str] = []
+        seen: set[str] = set()
+        norm_names = [(full, re.sub(r'[^a-z]', '', undiac(full).lower())) for full in names]
+        for code_token in codes:
+            k = re.sub(r'[^a-z]', '', undiac(code_token).lower())
+            if not k:
+                continue
+            for full, hay in norm_names:
+                if full in seen:
+                    continue
+                if all(ch in hay for ch in set(k)):
+                    result.append(full)
+                    seen.add(full)
+                    break
+        return result
+        
+    lessons: list[dict] = []
+    current_day = None
+    current_dates: list[datetime | None] = []
+    active_cells: list[tuple[list[str], int] | None] = []
+    for tr in table.find_all('tr'):
+        cells = tr.find_all(['td', 'th'])
+        if not cells:
+            continue
+        first = (cells[0].get_text(strip=True) or '').lower()
+        if first in DAY_ALIASES and len(cells) > 2:
+            tentative_dates: list[datetime | None] = []
+            matched_any_date = False
+            last_date_idx = -1
+            for idx, c in enumerate(cells[2:]):
+                token = (c.get_text(strip=True) or '').replace('\xa0', ' ').strip()
+                if not token:
+                    tentative_dates.append(None)
+                    continue
+                m = DATE_TOKEN_RE.match(token)
+                if m:
+                    d = int(m.group(1)); roman = m.group(2)
+                    month = ROMAN_MONTH.get(roman)
+                    if month:
+                        try:
+                            tentative_dates.append(datetime(year, month, d))
+                        except ValueError:
+                            tentative_dates.append(None)
+                        matched_any_date = True
+                        last_date_idx = idx
+                        continue
+                tentative_dates.append(None)
+            if matched_any_date:
+                current_day = first
+                if last_date_idx >= 0:
+                    current_dates = tentative_dates[: last_date_idx + 1]
+                else:
+                    current_dates = tentative_dates
+                active_cells = [None] * len(current_dates)
+                continue
+        if current_day and len(cells) > 2:
+            block_label = None
+            block_idx = None
+            if first in BLOCK_TIMES:
+                block_label = first
+                block_idx = 0
+            elif cells[1].get_text(strip=True) in BLOCK_TIMES:
+                block_label = cells[1].get_text(strip=True)
+                block_idx = 1
+            if not block_label:
+                continue
+            start_time, end_time = BLOCK_TIMES[block_label]
+
+            def append_lesson_if_valid(dt: datetime | None, raw_lines: list[str]):
+                if not (dt and raw_lines):
+                    return
+                lines = [t for t in raw_lines if t]
+                percent_token = None
+                if lines and '%' in lines[0]:
+                    percent_token = lines[0]
+                    lines = lines[1:]
+                subject_abbr = None
+                subject_idx = None
+                for i, tok in enumerate(lines):
+                    tt = tok.strip()
+                    if re.fullmatch(r"[A-ZĄĆĘŁŃÓŚŹŻ]{2,6}", tt):
+                        subject_abbr = tt
+                        subject_idx = i
+                        break
+                if not subject_abbr or subject_abbr.upper() == 'SK':
+                    return
+                subject_display = f"{percent_token} {subject_abbr}".strip() if percent_token else subject_abbr
+
+                symbol = ''
+                room = ''
+                lecturer_codes: list[str] = []
+                rest = lines[subject_idx + 1:] if subject_idx is not None else []
+                for line in rest:
+                    if not symbol and line in TYPE_SYMBOLS:
+                        symbol = line
+                        continue
+                    m_room = re.match(r'^(\d{2,3}(?:\s*\d{2})?[A-Z]?)$', line)
+                    if not room and m_room:
+                        room = m_room.group(1).replace(' ', '')
+                        continue
+                    if re.match(r'^[A-ZŻŹĆŁŚÓ]{2,}$', line) or re.match(r'^[A-ZŻŹĆŁŚÓ][a-ząćęłńóśźż]{2,}$', line):
+                        lecturer_codes.append(line)
+                        continue
+                lesson_type = normalize_type(symbol)
+                type_full = TYPE_FULL_MAP.get(lesson_type, lesson_type or '-')
+                lect_code = ' '.join(lecturer_codes)
+                lecturers = pick_lecturers_for_code(subject_abbr, lect_code)
+                full_subject_name = subject_legend_full.get(subject_abbr, subject_abbr)
+                try:
+                    start_dt = datetime.strptime(start_time, '%H:%M').replace(year=dt.year, month=dt.month, day=dt.day)
+                    end_dt = datetime.strptime(end_time, '%H:%M').replace(year=dt.year, month=dt.month, day=dt.day)
+                except Exception:
+                    return
+                lessons.append({
+                    'date': dt.strftime('%Y_%m_%d'),
+                    'start': start_dt,
+                    'end': end_dt,
+                    'subject': subject_abbr,
+                    'subject_display': subject_display,
+                    'type': lesson_type,
+                    'type_full': type_full,
+                    'room': room,
+                    'lesson_number': '',
+                    'full_subject_name': full_subject_name,
+                    'lecturers': lecturers,
+                })
+            col_idx = 0
+            ci = block_idx + 1
+            while col_idx < len(current_dates):
+                if active_cells and col_idx < len(active_cells) and active_cells[col_idx]:
+                    raw_lines, remaining = active_cells[col_idx]
+                    remaining -= 1
+                    active_cells[col_idx] = (raw_lines, remaining) if remaining > 0 else None
+                    dt = current_dates[col_idx]
+                    append_lesson_if_valid(dt, raw_lines)
+                    col_idx += 1
+                    continue
+                if ci >= len(cells):
+                    col_idx += 1
+                    continue
+                c = cells[ci]
+                ci += 1
+                try:
+                    colspan = int(c.get('colspan') or 1)
+                except Exception:
+                    colspan = 1
+                try:
+                    rowspan = int(c.get('rowspan') or 1)
+                except Exception:
+                    rowspan = 1
+                raw_lines = [t.strip() for t in c.stripped_strings if t.strip() and t.strip() != '-']
+                for k in range(colspan):
+                    if col_idx >= len(current_dates):
+                        break
+                    dt = current_dates[col_idx]
+                    if rowspan > 1 and raw_lines and active_cells and col_idx < len(active_cells):
+                        active_cells[col_idx] = (raw_lines, rowspan - 1)
+                    append_lesson_if_valid(dt, raw_lines)
+                    col_idx += 1
+    return lessons
+
+    
+def parse_schedules(html_map):
+    schedules = {}
+    total_groups = len(html_map)
+    groups_done = 0
+    events_done = 0
+
+    def progress():
+        return f"({groups_done}/{total_groups})"
+
+    def log_parse_schedule():
+        nonlocal groups_done, events_done
+        for group_id, html in html_map.items():
+            lessons = parse_schedule(html)
+            schedules[group_id] = lessons
+            events_done += len(lessons)
+            groups_done += 1
+        return schedules
+
+    schedules = log_parsing("Parsing events for WEL schedules", log_parse_schedule, progress_fn=progress)
+    return schedules
+
+
+def save_schedule_to_ICS(group_id, lessons):
+    schedules_dir = os.path.join(DB_DIR, "WEL_schedules")
+    filename = os.path.join(schedules_dir, f"{sanitize_filename(group_id)}.ics")
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write("BEGIN:VCALENDAR\n")
+        f.write("VERSION:2.0\n")
+        f.write("PRODID:-//scheduleWEL//EN\n")
+        f.write("CALSCALE:GREGORIAN\n")
+        f.write(f"X-WR-CALNAME:{group_id}\n")
+        for les in lessons:
+            dtstart = les["start"].strftime("%Y%m%dT%H%M%S")
+            dtend = les["end"].strftime("%Y%m%dT%H%M%S")
+            summary_subject = les.get('subject_display', les.get('subject', ''))
+            summary = f"{summary_subject} {les['type']}"
+            location = les.get("room", "")
+            description_lines = [
+                les.get("full_subject_name", les.get("subject", "")),
+                f"Rodzaj zajęć: {les['type_full']}",
+                f"Numer zajęć: {les['lesson_number']}",
+            ]
+            if les.get("lecturers"):
+                description_lines.append("Prowadzący: " + "; ".join(les["lecturers"]))
+            description = "\\n".join(description_lines)
+            f.write("BEGIN:VEVENT\n")
+            f.write(f"DTSTART:{dtstart}\n")
+            f.write(f"DTEND:{dtend}\n")
+            f.write(f"SUMMARY:{summary}\n")
+            f.write(f"LOCATION:{location}\n")
+            f.write(f"DESCRIPTION:{description}\n")
+            f.write("END:VEVENT\n")
+        f.write("END:VCALENDAR\n")
+    return True
+
+
+if __name__ == "__main__":
+    start_time = time.time()
+    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Start WEL schedule scraper:")
+    url, description = load_url_from_config(key="wel_groups", url_type="url_lato")
+    test_connection_with_monitoring(url, description)
+    base_url, description = load_url_from_config(key="wel_schedule", url_type="url_lato")
+    pairs = get_wel_group_urls()
+    if not pairs:
+        print(f"{E} No groups found.")
+        sys.exit(1)
+    print("Scraping group URLs:")
+    print(f"URL: {base_url}")
+    html_map = asyncio.run(scrape_group_urls(pairs))
+    schedules = parse_schedules(html_map)
+    parsed_total = sum(len(lessons or []) for lessons in schedules.values())
+    print(f"Parsed events: {parsed_total} across {len(schedules)} groups")
+
+    def save_all_schedules():
+        schedules_dir = os.path.join(DB_DIR, "WEL_schedules")
+        logs = []
+        if not os.path.exists(schedules_dir):
+            log_entry("Creating WEL schedules directory", logs)
+            os.makedirs(schedules_dir)
+        else:
+            log_entry("Using existing WEL schedules directory", logs)
+        saved = 0
+        for g, _ in pairs:
+            lessons = schedules.get(g) or []
+            save_schedule_to_ICS(g, lessons)
+            saved += 1
+    log(f"Saving all schedules to ICS files... ", save_all_schedules)
+
+    duration = time.time() - start_time
+    total_seconds = int(duration)
+    hours, rem = divmod(total_seconds, 3600)
+    minutes, seconds = divmod(rem, 60)
+    if hours > 0:
+        HH_MM_SS = f"{hours:02}h{minutes:02}m{seconds:02}s"
+    elif minutes > 0:
+        HH_MM_SS = f"{minutes:02}m{seconds:02}s"
+    else:
+        HH_MM_SS = f"{seconds:02}s"
+    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] WEL schedules scraper finished (duration: {HH_MM_SS})")
