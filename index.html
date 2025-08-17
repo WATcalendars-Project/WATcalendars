@@ -40,13 +40,22 @@
   function isIOS() {
     return /iPhone|iPad|iPod/i.test(navigator.userAgent);
   }
+  function toWebcal(url) {
+    try {
+      const u = new URL(url);
+      if (u.protocol === 'https:') return 'webcals:' + url.slice('https:'.length);
+      if (u.protocol === 'http:') return 'webcal:' + url.slice('http:'.length);
+      return url;
+    } catch { return url; }
+  }
   function fileLink(rawUrl, name) { 
     const a = document.createElement('a'); 
     a.textContent = name; 
     a.style.textDecoration = 'underline';
     if (isIOS()) {
       // Przekierowanie do subskrypcji kalendarza na iOS
-      const webcalUrl = rawUrl.replace(/^https?:/, 'webcal:');
+      // Użyj webcals dla HTTPS, aby uniknąć ostrzeżeń o niebezpiecznym połączeniu
+      const webcalUrl = toWebcal(rawUrl);
       a.href = webcalUrl;
     } else {
       // Pobieranie pliku na innych urządzeniach
@@ -97,7 +106,13 @@
         return; 
       }
       ics.forEach(f => { 
-        const raw = f.download_url || f.url; 
+        let raw = f.download_url; 
+        if (!raw) {
+          // Fallback do raw.githubusercontent.com jeśli GitHub API nie zwróciło download_url
+          const path = `${dir}/${f.name}`;
+          const encPath = path.split('/').map(encodeURIComponent).join('/');
+          raw = `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/db/${encPath}`;
+        }
         const line = document.createElement('div'); 
         line.appendChild(fileLink(raw, f.name)); 
         contentDiv.appendChild(line); 
