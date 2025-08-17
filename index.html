@@ -42,10 +42,8 @@
   }
   function toWebcal(url) {
     try {
-      const u = new URL(url);
-      if (u.protocol === 'https:') return 'webcals:' + url.slice('https:'.length);
-      if (u.protocol === 'http:') return 'webcal:' + url.slice('http:'.length);
-      return url;
+      // Apple Calendar expects 'webcal://' regardless of http/https
+      return url.replace(/^https?:/, 'webcal:');
     } catch { return url; }
   }
   function fileLink(rawUrl, name) { 
