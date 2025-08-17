@@ -186,6 +186,70 @@ def parse_schedule(html: str) -> list[dict]:
         if m_any:
             year = int(m_any.group(1))
 
+    # Build legend maps: subject -> full name, lecturers list
+    legend_entries = extract_legend(soup)
+    subject_legend_full: dict[str, str] = {}
+    subject_legend_lect: dict[str, list[str]] = {}
+    all_lecturers: list[str] = []
+    for abbr, full, lecturers in legend_entries:
+        if abbr and full:
+            subject_legend_full.setdefault(abbr, full)
+            if lecturers:
+                lst = subject_legend_lect.setdefault(abbr, [])
+                for l in lecturers:
+                    if l not in lst:
+                        lst.append(l)
+                        if l not in all_lecturers:
+                            all_lecturers.append(l)
+
+    def normalize_type(sym: str) -> str:
+        s = (sym or '').strip()
+        if not s:
+            return s
+        if s in TYPE_SYMBOLS:
+            return s
+        core = s.strip('()')
+        for cand in (f'({core})', f'({core.lower()})', f'({core.upper()})'):
+            if cand in TYPE_SYMBOLS:
+                return cand
+        return s
+
+    def pick_lecturers_for_code(subj: str, code: str) -> list[str]:
+        """Match lecturer code(s) to legend names for a given subject.
+        Rules:
+        - A single code matches a name if all letters from the code appear in the name (order-agnostic, diacritics/case-insensitive).
+        - Multiple codes separated by space/slash/semicolon/comma map to multiple lecturers, in the same order.
+        - Each code selects the first matching unique name from the subject's lecturer list (or all lecturers if none bound to subject).
+        - If no code is provided: return the single lecturer if there is exactly one; otherwise empty.
+        """
+        names = subject_legend_lect.get(subj) or []
+        if not names:
+            names = all_lecturers
+        if not code:
+            return names[:1] if len(names) == 1 else []
+        if not names:
+            return []
+        def undiac(s: str) -> str:
+            return ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn')
+        # Split into individual code tokens (supports space, slash, comma, semicolon)
+        codes = [c for c in re.split(r"[\s/,;]+", code.strip()) if c]
+        result: list[str] = []
+        seen: set[str] = set()
+        # Precompute normalized names for efficiency
+        norm_names = [(full, re.sub(r'[^a-z]', '', undiac(full).lower())) for full in names]
+        for code_token in codes:
+            k = re.sub(r'[^a-z]', '', undiac(code_token).lower())
+            if not k:
+                continue
+            for full, hay in norm_names:
+                if full in seen:
+                    continue
+                if all(ch in hay for ch in set(k)):
+                    result.append(full)
+                    seen.add(full)
+                    break
+        return result
+
     lessons: list[dict] = []
     current_day = None
     current_dates: list[datetime | None] = []
@@ -234,24 +298,27 @@ def parse_schedule(html: str) -> list[dict]:
                 if not raw_lines:
                     continue
                 subject_abbr = raw_lines[0]
-                lesson_type = ''
-                room = ''
-                # Parse type and room heuristically from remaining lines
-                for line in raw_lines[1:]:
-                    if not lesson_type and any(sym in line for sym in TYPE_SYMBOLS):
-                        # choose the first matching symbol present in line
-                        for sym in TYPE_SYMBOLS:
-                            if sym in line:
-                                lesson_type = sym
-                                break
-                        continue
-                    if not room:
-                        m_room = re.match(r'^(?:s\.|sala\s*)?(\d{2,3}[A-Z]?)', line, flags=re.IGNORECASE)
-                        if m_room:
-                            room = m_room.group(1)
-                            continue
+                # Treat 'SK' blocks as empty (no class)
+                if subject_abbr.strip().upper() == 'SK':
+                    continue
+                # Expected order after subject: type, location, lecturer code
+                # Special-case WF: no location; lecturer code appears where location normally is
+                subj_norm = subject_abbr.strip().upper()
+                if subj_norm.startswith('WF'):
+                    type_token = raw_lines[1] if len(raw_lines) > 1 else ''
+                    lect_code = raw_lines[2] if len(raw_lines) > 2 else ''
+                    room = ''
+                else:
+                    type_token = raw_lines[1] if len(raw_lines) > 1 else ''
+                    room = raw_lines[2] if len(raw_lines) > 2 else ''
+                    lect_code = raw_lines[3] if len(raw_lines) > 3 else ''
 
+                lesson_type = normalize_type(type_token)
                 type_full = TYPE_FULL_MAP.get(lesson_type, lesson_type or '-')
+
+                # Resolve lecturers via legend using subject abbr + lecturer code
+                lecturers = pick_lecturers_for_code(subject_abbr, lect_code)
+                full_subject_name = subject_legend_full.get(subject_abbr, subject_abbr)
                 try:
                     start_dt = datetime.strptime(start_time, '%H:%M').replace(year=dt.year, month=dt.month, day=dt.day)
                     end_dt = datetime.strptime(end_time, '%H:%M').replace(year=dt.year, month=dt.month, day=dt.day)
@@ -266,16 +333,20 @@ def parse_schedule(html: str) -> list[dict]:
                     'type_full': type_full,
                     'room': room,
                     'lesson_number': '',
-                    'full_subject_name': subject_abbr,
-                    'lecturers': [],
+                    'full_subject_name': full_subject_name,
+                    'lecturers': lecturers,
                 })
 
-    # Add simple numbering per (subject, type)
+    # Numbering per (subject, type): current/total
+    totals: dict[tuple[str, str], int] = {}
+    for les in lessons:
+        key = (les['subject'], les['type'])
+        totals[key] = totals.get(key, 0) + 1
     counters: dict[tuple[str, str], int] = {}
     for les in lessons:
         key = (les['subject'], les['type'])
         counters[key] = counters.get(key, 0) + 1
-        les['lesson_number'] = f"{counters[key]}/?"
+        les['lesson_number'] = f"{counters[key]}/{totals.get(key, 0)}"
 
     return lessons
 
