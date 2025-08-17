@@ -232,7 +232,7 @@ def parse_schedule(html: str) -> list[dict]:
                     seen.add(full)
                     break
         return result
-        
+
     lessons: list[dict] = []
     current_day = None
     current_dates: list[datetime | None] = []
@@ -304,7 +304,6 @@ def parse_schedule(html: str) -> list[dict]:
                 if not subject_abbr or subject_abbr.upper() == 'SK':
                     return
                 subject_display = f"{percent_token} {subject_abbr}".strip() if percent_token else subject_abbr
-
                 symbol = ''
                 room = ''
                 lecturer_codes: list[str] = []

@@ -226,7 +226,6 @@ def parse_schedule(html: str) -> list[dict]:
         if not cells:
             continue
         first = (cells[0].get_text(strip=True) or '').lower()
-
         if first in DAY_ALIASES and len(cells) > 2 and not cells[1].get_text(strip=True):
             current_day = first
             current_dates = []
@@ -247,7 +246,6 @@ def parse_schedule(html: str) -> list[dict]:
                         continue
                 current_dates.append(None)
             continue
-
         if first in DAY_ALIASES and len(cells) > 2 and current_day:
             block_label = cells[1].get_text(strip=True)
             if block_label not in BLOCK_TIMES:

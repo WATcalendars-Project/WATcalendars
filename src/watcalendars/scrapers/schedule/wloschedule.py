@@ -226,7 +226,6 @@ def parse_schedule(html: str) -> list[dict]:
         if not cells:
             continue
         first = (cells[0].get_text(strip=True) or '').lower()
-
         if first in DAY_ALIASES and len(cells) > 2 and not cells[1].get_text(strip=True):
             current_day = first
             current_dates = []
@@ -247,8 +246,6 @@ def parse_schedule(html: str) -> list[dict]:
                         continue
                 current_dates.append(None)
             continue
-
-        # Block rows: label can be in the 1st or 2nd cell (e.g., '1-2' or second column)
         if current_day and len(cells) > 2:
             block_label = None
             if cells[0].get_text(strip=True) in BLOCK_TIMES:
@@ -269,35 +266,26 @@ def parse_schedule(html: str) -> list[dict]:
                 text = ' '.join(list(c.stripped_strings)).strip()
                 if not text or text == '-':
                     continue
-                # Optional percent prefix
                 percent_prefix = None
                 m_pct = re.match(r"^(\d{1,3}%)[\s\u00a0]+(.+)$", text)
                 if m_pct:
                     percent_prefix, text = m_pct.group(1), m_pct.group(2)
-                # Subject and type e.g., XMrp.2(L) ... or Dpl(w) ... or REZ
                 subj = None
                 type_token = ''
                 m_st = re.match(r"^([^\s(]+)\s*\(([^)]+)\)\s*(.*)$", text)
                 if m_st:
                     subj = m_st.group(1).strip()
-                    # keep parentheses for type symbol normalization
                     type_token = f"({m_st.group(2).strip()})"
                     tail = m_st.group(3).strip()
                 else:
-                    # no explicit type, take first token as subject
                     parts = text.split()
                     subj = parts[0].strip()
                     tail = ' '.join(parts[1:]).strip()
-                # Skip empty, SK, REZ (reservations), and Pr entries
                 if not subj or subj.upper() in {'SK', 'REZ', 'PR'}:
                     continue
-                # Remove group codes immediately after subject(type) (e.g., WLO24FX1N1; WLO24FX2N1 ...)
                 group_tok = r"[A-Z]{2,}\d{2,}[A-Z0-9]+(?:[NS]\d+)?"
                 m_groups = re.match(rf"^(?:{group_tok})(?:\s*;\s*(?:{group_tok}))*\s*(.*)$", tail)
                 tail_after_groups = m_groups.group(1).strip() if m_groups else tail
-
-                # Split lecturers and location: locations are at the very end (one or more, ';' separated)
-                # Build a permissive room token regex to match common formats
                 room_token = r"(?:[A-Za-z0-9./-]+\s*/\s*[A-Za-z0-9.-]+(?:\s+[A-Za-z]{1,10})?|aula\s*/\s*\d+|\d{1,4}\s*[A-Za-z]{1,3})"
                 trailing_rooms_pat = re.compile(rf"({room_token}(?:\s*;\s*{room_token})*)\s*$", re.IGNORECASE)
                 m_trailing = trailing_rooms_pat.search(tail_after_groups)
@@ -305,25 +293,18 @@ def parse_schedule(html: str) -> list[dict]:
                 lecturers_part = tail_after_groups
                 if m_trailing:
                     room_raw = m_trailing.group(1)
-                    # Normalize whitespace inside room entries and join with '; '
                     room = '; '.join([re.sub(r"\s+", " ", r.strip()) for r in room_raw.split(';')])
                     lecturers_part = tail_after_groups[:m_trailing.start()].strip()
                 else:
-                    # Fallback: find any room-like tokens anywhere to avoid empty LOCATION
                     any_rooms = re.findall(room_token, tail_after_groups, flags=re.IGNORECASE)
                     if any_rooms:
                         room = '; '.join([re.sub(r"\s+", " ", r.strip()) for r in any_rooms])
-                        # Remove these room substrings from lecturers_part conservatively
                         tmp = tail_after_groups
                         for rtxt in any_rooms:
                             tmp = re.sub(re.escape(rtxt), '', tmp, count=1)
                         lecturers_part = re.sub(r"\s*(;|,)\s*", ' ', tmp).strip()
-
-                # Final normalization: remove spaces after '/'
                 if room:
                     room = re.sub(r"/\s+", "/", room)
-
-                # Lecturers: tokens possibly separated by ';'
                 lect_code = ''
                 if lecturers_part:
                     lect_parts = [p.strip() for p in re.split(r"\s*;\s*", lecturers_part) if p.strip()]

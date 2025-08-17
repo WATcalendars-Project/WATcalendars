@@ -247,8 +247,6 @@ def parse_schedule(html: str) -> list[dict]:
                         continue
                 current_dates.append(None)
             continue
-
-        # Block rows: label can be in the 1st or 2nd cell (e.g., '1-2' or second column)
         if current_day and len(cells) > 2:
             block_label = None
             if cells[0].get_text(strip=True) in BLOCK_TIMES:
@@ -269,35 +267,29 @@ def parse_schedule(html: str) -> list[dict]:
                 text = ' '.join(list(c.stripped_strings)).strip()
                 if not text or text == '-':
                     continue
-                # Optional percent prefix
                 percent_prefix = None
                 m_pct = re.match(r"^(\d{1,3}%)[\s\u00a0]+(.+)$", text)
                 if m_pct:
                     percent_prefix, text = m_pct.group(1), m_pct.group(2)
-                # Subject and type e.g., XMrp.2(L) ... or Dpl(w) ... or REZ
                 subj = None
                 type_token = ''
                 m_st = re.match(r"^([^\s(]+)\s*\(([^)]+)\)\s*(.*)$", text)
                 if m_st:
                     subj = m_st.group(1).strip()
-                    # keep parentheses for type symbol normalization
                     type_token = f"({m_st.group(2).strip()})"
                     tail = m_st.group(3).strip()
                 else:
-                    # no explicit type, take first token as subject
                     parts = text.split()
                     subj = parts[0].strip()
                     tail = ' '.join(parts[1:]).strip()
                 if not subj or subj.upper() == 'SK':
                     continue
-                # Lecturer code: last token-like with letters/dots segments
                 lect_code = ''
                 m_lect = re.search(r"([A-Za-zŻŹĆŁŚÓ][A-Za-zżźćńółęąśŻŹĆŁŚÓ.]+(?:\s+[A-Za-zŻŹĆŁŚÓ][A-Za-zżźćńółęąśŻŹĆŁŚÓ.]+)*)\s*$", tail)
                 tail_main = tail
                 if m_lect:
                     lect_code = m_lect.group(1).strip()
                     tail_main = tail[:m_lect.start()].strip()
-                # Extract room(s) like 12/ 23a;17/ 23 or PTW/ 28 HANGAR or aula/ 135
                 rooms: list[str] = []
                 room_pattern = r"([A-Za-z0-9ĄĆĘŁŃÓŚŹŻ]+\s*/\s*[A-Za-z0-9]+(?:\s+[A-ZĄĆĘŁŃÓŚŹŻ]{2,})?)"
                 for m in re.finditer(room_pattern, tail_main):

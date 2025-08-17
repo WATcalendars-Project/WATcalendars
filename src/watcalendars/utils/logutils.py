@@ -59,18 +59,9 @@ BLINK = '\033[5m'
 REVERSE = '\033[7m'
 STRIKETHROUGH = '\033[9m'
 
-# Reset codes
 RESET = '\033[0m'
-RESET_BOLD = '\033[21m'
-RESET_DIM = '\033[22m'
-RESET_ITALIC = '\033[23m'
-RESET_UNDERLINE = '\033[24m'
-RESET_BLINK = '\033[25m'
-RESET_REVERSE = '\033[27m'
-RESET_STRIKETHROUGH = '\033[29m'
 
-# Defined logs
-GET = f"{BRIGHT_BLUE}→{RESET}"
+GET = f"{MAGENTA}→{RESET}"
 RESPONSE = f"{BRIGHT_BLUE}←{RESET}"
 ERROR = f"{RED}E{RESET}:"
 WARNING = f"{BRIGHT_YELLOW}W{RESET}:"
@@ -78,20 +69,20 @@ INFO = f"[{BRIGHT_BLUE}INFO{RESET}]:"
 OK = f"{GREEN}OK{RESET}:"
 
 
-# Helper function to log message and print it with clearing line
-
-# Args:
-#     message (str): Message to log and print
-#     logs_list (list, optional): List to append log entry to
+# Function to entry log message at the top of "log" or just add message log nad blank line under
+# Use:
+# logs = []
+# log_entry(f"{OK} Task finished.", logs)
 def log_entry(message, logs_list=None):
     if logs_list is not None:
         logs_list.append(message)
     print(f"\r{' ' * 80}\r{message}")
 
+
 # Function to run a task with a spinner
 # Use:
 # def my_task():
-#     # ...your task...
+#   ...your task...
 # log("Checking dependencies... ", my_task)
 def log(task_name, task_fn, progress_info=None):
     spin_chars = ['|', '/', '-', '\\']
@@ -150,6 +141,11 @@ def log(task_name, task_fn, progress_info=None):
     return result["return_value"]
 
 
+# Function to run a task with a spinner with async mode
+# Use:
+# stop_event, spinner_task = start_spinner("Scraping groups", len(pairs), lambda: done, interval=0.2)
+# stop_event.set()
+# await spinner_task
 async def _spinner_loop(label: str, total: int, get_done, stop_event: asyncio.Event, interval: float = 0.2, frames=None):
     frames = ["-", "\\", "|", "/"]
     i = 0
@@ -185,16 +181,19 @@ async def _spinner_loop(label: str, total: int, get_done, stop_event: asyncio.Ev
         sys.stderr.write("\033[?25h")
         sys.stderr.flush()
 
-
 def start_spinner(label: str, total: int, get_done, interval: float = 0.2, frames=None):
-    # Starting spinner as asyncio.Task.
-    # Returns (stop_event, task). Set stop_event.set() and await task to finish.
-    # get_done: callable without arguments returning current counter (int).
     stop_event = asyncio.Event()
     task = asyncio.create_task(_spinner_loop(label, total, get_done, stop_event, interval, frames))
     return stop_event, task
 
 
+# Function to run a task with a spinner and progress
+# Usage:
+# def progress():
+#     return f"({groups_done}/{total_groups})"
+# def my_task():
+#   ...your_task...
+# log_parsing("Parsing events for WCY schedules", my_task, progress_fn=progress)
 def log_parsing(task_name, task_fn, progress_fn, interval: float = 0.2, frames = None):
     frames = frames or ["-", "\\", "|", "/"]
     result = {"done": False, "return_value": None, "exception": None}
@@ -238,7 +237,6 @@ def log_parsing(task_name, task_fn, progress_fn, interval: float = 0.2, frames =
             line = f"{task_name}... Done."
         sys.stdout.write("\r\033[2K" + line + "\n")
         sys.stdout.flush()
-
     if result["exception"]:
         raise result["exception"]
     return result["return_value"]
