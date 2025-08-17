@@ -106,10 +106,9 @@
       ics.forEach(f => { 
         let raw = f.download_url; 
         if (!raw) {
-          // Fallback do raw.githubusercontent.com jeśli GitHub API nie zwróciło download_url
           const path = `${dir}/${f.name}`;
           const encPath = path.split('/').map(encodeURIComponent).join('/');
-          raw = `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/db/${encPath}`;
+          raw = `https://dominikx2002.github.io/WATcalendars/db/${encPath}`;
         }
         const line = document.createElement('div'); 
         line.appendChild(fileLink(raw, f.name)); 

@@ -18,7 +18,6 @@ from collections import defaultdict
 
 
 def get_wcy_group_urls():
-    base_url, _ = load_url_from_config(key="wcy_schedule", url_type="url")
     groups = load_groups("wcy")
     result = []
     def log_get_wcy_group_urls():

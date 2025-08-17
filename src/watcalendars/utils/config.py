@@ -174,6 +174,10 @@ TYPE_FULL_MAP = {
     "(inne)": "inne",
 }
 
+DAY_ALIASES = {
+    'pon.': 'MON', 'wt.': 'TUE', 'śr.': 'WED', 'sr.': 'WED', 'czw.': 'THU', 'pt.': 'FRI', 'sob.': 'SAT', 'niedz.': 'SUN'
+}
+
 TYPE_SYMBOLS = set(TYPE_FULL_MAP.keys())
 
 def sanitize_filename(filename):

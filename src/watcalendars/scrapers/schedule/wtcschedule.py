@@ -10,7 +10,7 @@ from watcalendars.utils.connection import test_connection_with_monitoring
 from watcalendars.utils.logutils import OK, WARNING as W, ERROR as E, INFO, log_entry, log, start_spinner, log_parsing
 from watcalendars.utils.url_loader import load_url_from_config
 from watcalendars.utils.groups_loader import load_groups
-from watcalendars.utils.config import BLOCK_TIMES, ROMAN_MONTH, DATE_TOKEN_RE, TYPE_FULL_MAP, TYPE_SYMBOLS, sanitize_filename
+from watcalendars.utils.config import BLOCK_TIMES, ROMAN_MONTH, DATE_TOKEN_RE, TYPE_FULL_MAP, DAY_ALIASES, TYPE_SYMBOLS, sanitize_filename
 from playwright.async_api import async_playwright
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -18,7 +18,6 @@ from collections import defaultdict
 
 
 def get_wtc_group_urls():
-    base_url, _ = load_url_from_config(key="wtc_schedule", url_type="url")
     groups = load_groups("wtc")
     result = []
 
@@ -59,10 +58,8 @@ async def fetch_group_html(page, idx, total, g, url):
 async def scrape_group_urls(pairs, concurrency: int = 10):
     results = {}
     semaphore = asyncio.Semaphore(concurrency)
-
     done = 0
     done_lock = asyncio.Lock()
-
     async with async_playwright() as p:
         browser = await p.chromium.launch(
             headless=True,
@@ -78,37 +75,29 @@ async def scrape_group_urls(pairs, concurrency: int = 10):
             ],
         )
         context = await browser.new_context()
-
         stop_event, spinner_task = start_spinner("Scraping groups", len(pairs), lambda: done, interval=0.2)
 
         async def worker(idx_pair):
             nonlocal done
             idx, (g, url) = idx_pair
-
             async with semaphore:
                 page = await context.new_page()
-
                 try:
                     html = await fetch_group_html(page, idx + 1, len(pairs), g, url)
                     results[g] = html
-
                 finally:
                     await page.close()
                     async with done_lock:
                         done += 1
-
         try:
             await asyncio.gather(*[worker(item) for item in enumerate(pairs)])
-
         finally:
             stop_event.set()
             await spinner_task
             await browser.close()
-
     return results
 
 
-########### HTML GROUPS LEGEND ################
 def extract_legend(soup: BeautifulSoup) -> list[tuple[str, str, list[str]]]:
     entries: list[tuple[str, str, list[str]]] = []
     seen: set[tuple[str, str]] = set()
@@ -120,19 +109,15 @@ def extract_legend(soup: BeautifulSoup) -> list[tuple[str, str, list[str]]]:
         return [re.sub(r"^[•\-–]\s*", "", norm(p)) for p in parts if norm(p)]
 
     last_idx: int | None = None
-
     for td in soup.find_all("td"):
         full = None
-        
         if td.has_attr("mergewith"):
             try:
                 full = BeautifulSoup(td["mergewith"], "html.parser").get_text(" ", strip=True)
             except Exception:
                 full = norm(re.sub(r"<[^>]+>", " ", td["mergewith"]))
-
         abbr = td.get_text(strip=True)
         lect_text = norm(full if full else " ".join(td.stripped_strings))
-        
         if lect_text and is_lect(lect_text) and last_idx is not None:
             lects = entries[last_idx][2]
             for n in split_lect(lect_text):
@@ -140,7 +125,6 @@ def extract_legend(soup: BeautifulSoup) -> list[tuple[str, str, list[str]]]:
                     lects.append(n)
             if not (abbr and full):
                 continue
-
         if full and abbr:
             key = (abbr, full)
             if key in seen:
@@ -150,30 +134,22 @@ def extract_legend(soup: BeautifulSoup) -> list[tuple[str, str, list[str]]]:
                         last_idx = idx
                         break
                 continue
-
             seen.add(key)
             lects: list[str] = []
             entries.append((abbr, full, lects))
             last_idx = len(entries) - 1
-
     return entries
 
 
-########### PARSE WTC SCHEDULE ###############
 def parse_schedule(html: str) -> list[dict]:
     if not html:
         return []
-
-    DAY_ALIASES = {
-        'pon.': 'MON', 'wt.': 'TUE', 'śr.': 'WED', 'sr.': 'WED', 'czw.': 'THU', 'pt.': 'FRI', 'sob.': 'SAT', 'niedz.': 'SUN'
-    }
 
     soup = BeautifulSoup(html, 'html.parser')
     table = soup.find('table') or (soup.find_all('table')[0] if soup.find_all('table') else None)
     if not table:
         return []
 
-    # Infer year from page text if possible; fallback to current year
     txt = re.sub(r"\s+", " ", soup.get_text(" ").strip())
     now = datetime.now()
     year = now.year
@@ -185,8 +161,6 @@ def parse_schedule(html: str) -> list[dict]:
         m_any = re.search(r"(20\d{2})", txt)
         if m_any:
             year = int(m_any.group(1))
-
-    # Build legend maps: subject -> full name, lecturers list
     legend_entries = extract_legend(soup)
     subject_legend_full: dict[str, str] = {}
     subject_legend_lect: dict[str, list[str]] = {}
@@ -215,27 +189,21 @@ def parse_schedule(html: str) -> list[dict]:
         return s
 
     def pick_lecturers_for_code(subj: str, code: str) -> list[str]:
-        """Match lecturer code(s) to legend names for a given subject.
-        Rules:
-        - A single code matches a name if all letters from the code appear in the name (order-agnostic, diacritics/case-insensitive).
-        - Multiple codes separated by space/slash/semicolon/comma map to multiple lecturers, in the same order.
-        - Each code selects the first matching unique name from the subject's lecturer list (or all lecturers if none bound to subject).
-        - If no code is provided: return the single lecturer if there is exactly one; otherwise empty.
-        """
         names = subject_legend_lect.get(subj) or []
         if not names:
             names = all_lecturers
         if not code:
             return names[:1] if len(names) == 1 else []
+
         if not names:
             return []
+
         def undiac(s: str) -> str:
             return ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn')
-        # Split into individual code tokens (supports space, slash, comma, semicolon)
+
         codes = [c for c in re.split(r"[\s/,;]+", code.strip()) if c]
         result: list[str] = []
         seen: set[str] = set()
-        # Precompute normalized names for efficiency
         norm_names = [(full, re.sub(r'[^a-z]', '', undiac(full).lower())) for full in names]
         for code_token in codes:
             k = re.sub(r'[^a-z]', '', undiac(code_token).lower())
@@ -253,14 +221,12 @@ def parse_schedule(html: str) -> list[dict]:
     lessons: list[dict] = []
     current_day = None
     current_dates: list[datetime | None] = []
-
     for tr in table.find_all('tr'):
         cells = tr.find_all(['td', 'th'])
         if not cells:
             continue
         first = (cells[0].get_text(strip=True) or '').lower()
 
-        # Header row: day + dates (second cell usually empty)
         if first in DAY_ALIASES and len(cells) > 2 and not cells[1].get_text(strip=True):
             current_day = first
             current_dates = []
@@ -282,7 +248,6 @@ def parse_schedule(html: str) -> list[dict]:
                 current_dates.append(None)
             continue
 
-        # Lesson rows for the same day: first cell is the day, second is block label
         if first in DAY_ALIASES and len(cells) > 2 and current_day:
             block_label = cells[1].get_text(strip=True)
             if block_label not in BLOCK_TIMES:
@@ -298,11 +263,8 @@ def parse_schedule(html: str) -> list[dict]:
                 if not raw_lines:
                     continue
                 subject_abbr = raw_lines[0]
-                # Treat 'SK' blocks as empty (no class)
                 if subject_abbr.strip().upper() == 'SK':
                     continue
-                # Expected order after subject: type, location, lecturer code
-                # Special-case WF: no location; lecturer code appears where location normally is
                 subj_norm = subject_abbr.strip().upper()
                 if subj_norm.startswith('WF'):
                     type_token = raw_lines[1] if len(raw_lines) > 1 else ''
@@ -312,11 +274,8 @@ def parse_schedule(html: str) -> list[dict]:
                     type_token = raw_lines[1] if len(raw_lines) > 1 else ''
                     room = raw_lines[2] if len(raw_lines) > 2 else ''
                     lect_code = raw_lines[3] if len(raw_lines) > 3 else ''
-
                 lesson_type = normalize_type(type_token)
                 type_full = TYPE_FULL_MAP.get(lesson_type, lesson_type or '-')
-
-                # Resolve lecturers via legend using subject abbr + lecturer code
                 lecturers = pick_lecturers_for_code(subject_abbr, lect_code)
                 full_subject_name = subject_legend_full.get(subject_abbr, subject_abbr)
                 try:
@@ -336,8 +295,6 @@ def parse_schedule(html: str) -> list[dict]:
                     'full_subject_name': full_subject_name,
                     'lecturers': lecturers,
                 })
-
-    # Numbering per (subject, type): current/total
     totals: dict[tuple[str, str], int] = {}
     for les in lessons:
         key = (les['subject'], les['type'])
@@ -347,7 +304,6 @@ def parse_schedule(html: str) -> list[dict]:
         key = (les['subject'], les['type'])
         counters[key] = counters.get(key, 0) + 1
         les['lesson_number'] = f"{counters[key]}/{totals.get(key, 0)}"
-
     return lessons
 
 
@@ -375,16 +331,13 @@ def parse_schedules(html_map):
 
 def save_schedule_to_ICS(group_id, lessons):
     schedules_dir = os.path.join(DB_DIR, "WTC_schedules")
-
     filename = os.path.join(schedules_dir, f"{sanitize_filename(group_id)}.ics")
-
     with open(filename, "w", encoding="utf-8") as f:
         f.write("BEGIN:VCALENDAR\n")
         f.write("VERSION:0.2.0\n")
         f.write("PRODID:-//scheduleWTC//EN\n")
         f.write("CALSCALE:GREGORIAN\n")
         f.write(f"X-WR-CALNAME:{group_id}\n")
-
         for les in lessons:
             dtstart = les["start"].strftime("%Y%m%dT%H%M%S")
             dtend = les["end"].strftime("%Y%m%dT%H%M%S")
@@ -398,7 +351,6 @@ def save_schedule_to_ICS(group_id, lessons):
             if les.get("lecturers"):
                 description_lines.append("Prowadzący: " + "; ".join(les["lecturers"]))
             description = "\\n".join(description_lines)
-
             f.write("BEGIN:VEVENT\n")
             f.write(f"DTSTART:{dtstart}\n")
             f.write(f"DTEND:{dtend}\n")
@@ -406,26 +358,20 @@ def save_schedule_to_ICS(group_id, lessons):
             f.write(f"LOCATION:{location}\n")
             f.write(f"DESCRIPTION:{description}\n")
             f.write("END:VEVENT\n")
-
         f.write("END:VCALENDAR\n")
-
     return True
 
 
 if __name__ == "__main__":
     start_time = time.time()
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Start WTC schedule scraper:")
-
     url, description = load_url_from_config(key="wtc_groups", url_type="url")
     test_connection_with_monitoring(url, description)
-
     base_url, description = load_url_from_config(key="wtc_schedule", url_type="url")
-
     pairs = get_wtc_group_urls()
     if not pairs:
         print(f"{E} No groups found.")
         sys.exit(1)
-
     print("Scraping group URLs:")
     print(f"URL: {base_url}")
     html_map = asyncio.run(scrape_group_urls(pairs))
@@ -446,19 +392,16 @@ if __name__ == "__main__":
             lessons = schedules.get(g) or []
             save_schedule_to_ICS(g, lessons)
             saved += 1
-
     log(f"Saving all schedules to ICS files... ", save_all_schedules)
 
     duration = time.time() - start_time
     total_seconds = int(duration)
     hours, rem = divmod(total_seconds, 3600)
     minutes, seconds = divmod(rem, 60)
-
     if hours > 0:
         HH_MM_SS = f"{hours:02}h{minutes:02}m{seconds:02}s"
     elif minutes > 0:
         HH_MM_SS = f"{minutes:02}m{seconds:02}s"
     else:
         HH_MM_SS = f"{seconds:02}s"
-
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] WTC schedules scraper finished (duration: {HH_MM_SS})")
