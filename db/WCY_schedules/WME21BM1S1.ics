@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WME21BM1S1
@@ -2101,7 +2101,7 @@ DTSTART:20240701T114000
 DTEND:20240701T131500
 SUMMARY:Bio.1 (E)
 LOCATION:55/ 62
-DESCRIPTION:Biomechatronika 1 - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Biomechatronika 1 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240701T133000
@@ -2136,7 +2136,7 @@ DTSTART:20240703T095000
 DTEND:20240703T112500
 SUMMARY:SzNiI (E)
 LOCATION:55/ 62
-DESCRIPTION:Sztuczne narządy i implanty - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Sztuczne narządy i implanty - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240704T095000
@@ -3291,7 +3291,7 @@ DTSTART:20241220T114000
 DTEND:20241220T131500
 SUMMARY:XMass (E)
 LOCATION:54/ 62
-DESCRIPTION:XMetody analizy i syntezy sygnałów\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241220T133000

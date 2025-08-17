@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WME24BX4S1
@@ -2640,14 +2640,14 @@ DTSTART:20250203T095000
 DTEND:20250203T112500
 SUMMARY:M1 (E)
 LOCATION:51/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250203T114000
 DTEND:20250203T131500
 SUMMARY:M1 (E)
 LOCATION:51/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T095000
@@ -2668,14 +2668,14 @@ DTSTART:20250205T095000
 DTEND:20250205T112500
 SUMMARY:Mat2 (E)
 LOCATION:51/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T114000
 DTEND:20250205T131500
 SUMMARY:Mat2 (E)
 LOCATION:51/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T133000
@@ -5048,7 +5048,7 @@ DTSTART:20250623T114000
 DTEND:20250623T131500
 SUMMARY:F1 (E)
 LOCATION:29/ 54
-DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T133000
@@ -5083,7 +5083,7 @@ DTSTART:20250625T095000
 DTEND:20250625T112500
 SUMMARY:Mat3 (E)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T114000
@@ -5139,7 +5139,7 @@ DTSTART:20250702T095000
 DTEND:20250702T112500
 SUMMARY:Acz. (E)
 LOCATION:51/ 62
-DESCRIPTION:Anatomia człowieka - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Anatomia człowieka - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T095000

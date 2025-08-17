@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY24IE1S7
@@ -806,7 +806,7 @@ DTSTART:20241217T194000
 DTEND:20241217T211500
 SUMMARY:CAO (E)
 LOCATION:011 65
-DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241218T114000
@@ -841,7 +841,7 @@ DTSTART:20241218T194000
 DTEND:20241218T211500
 SUMMARY:BCE (E)
 LOCATION:011 65
-DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241219T080000
@@ -876,7 +876,7 @@ DTSTART:20241219T194000
 DTEND:20241219T211500
 SUMMARY:Icn (E)
 LOCATION:104 65
-DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T095000
@@ -1940,7 +1940,7 @@ DTSTART:20250528T160000
 DTEND:20250528T173500
 SUMMARY:Rcv (E)
 LOCATION:204 65
-DESCRIPTION:Robotics and Comp. Vision Systems\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Robotics and Comp. Vision Systems\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T080000
@@ -2136,6 +2136,6 @@ DTSTART:20250626T080000
 DTEND:20250626T093500
 SUMMARY:Stc (E)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 END:VCALENDAR

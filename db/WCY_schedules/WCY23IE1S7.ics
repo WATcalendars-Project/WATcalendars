@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY23IE1S7
@@ -708,7 +708,7 @@ DTSTART:20240426T160000
 DTEND:20240426T173500
 SUMMARY:Rcv (E)
 LOCATION:114 65
-DESCRIPTION:Robotics and Comp. Vision Systems\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Robotics and Comp. Vision Systems\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240429T080000
@@ -1079,6 +1079,6 @@ DTSTART:20240625T133000
 DTEND:20240625T150500
 SUMMARY:Stc (E)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 END:VCALENDAR

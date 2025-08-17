@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY24X*Fiz2a
@@ -155,13 +155,13 @@ DTSTART:20250125T114000
 DTEND:20250125T131500
 SUMMARY:XFiz2 (E)
 LOCATION:aF S
-DESCRIPTION:XFizyka 2 - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: -
+DESCRIPTION:XFizyka 2 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250208T133000
 DTEND:20250208T150500
 SUMMARY:XFiz2 (E)
 LOCATION:aF S
-DESCRIPTION:XFizyka 2 - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: -
+DESCRIPTION:XFizyka 2 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

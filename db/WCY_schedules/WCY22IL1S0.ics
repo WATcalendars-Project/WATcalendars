@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY22IL1S0
@@ -2206,7 +2206,7 @@ DTSTART:20250623T095000
 DTEND:20250623T112500
 SUMMARY:ASI (E)
 LOCATION:314 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T080000
@@ -2220,6 +2220,6 @@ DTSTART:20250627T095000
 DTEND:20250627T112500
 SUMMARY:Tal (E)
 LOCATION:313 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 END:VCALENDAR

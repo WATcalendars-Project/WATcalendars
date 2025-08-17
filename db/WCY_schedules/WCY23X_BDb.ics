@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY23X*BDb
@@ -190,7 +190,7 @@ DTSTART:20240704T114000
 DTEND:20240704T131500
 SUMMARY:Bd (E)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240704T160000

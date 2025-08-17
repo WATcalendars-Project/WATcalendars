@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY24IX3S0
@@ -2192,7 +2192,7 @@ DTSTART:20250203T114000
 DTEND:20250203T131500
 SUMMARY:HP (E)
 LOCATION:314 S
-DESCRIPTION:Historia Polski - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Historia Polski - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250203T133000
@@ -2213,14 +2213,14 @@ DTSTART:20250204T080000
 DTEND:20250204T093500
 SUMMARY:Mat I (E)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250207T080000
 DTEND:20250207T093500
 SUMMARY:M II (E)
 LOCATION:316 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250217T080000
@@ -4537,14 +4537,14 @@ DTSTART:20250624T080000
 DTEND:20250624T093500
 SUMMARY:Md2 (E)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T095000
 DTEND:20250624T112500
 SUMMARY:Md2 (E)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T114000
@@ -4558,14 +4558,14 @@ DTSTART:20250626T095000
 DTEND:20250626T112500
 SUMMARY:Amt (E)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T114000
 DTEND:20250626T131500
 SUMMARY:Amt (E)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T160000
@@ -4586,28 +4586,28 @@ DTSTART:20250627T114000
 DTEND:20250627T131500
 SUMMARY:F1 (E)
 LOCATION:316 S
-DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T133000
 DTEND:20250627T150500
 SUMMARY:F1 (E)
 LOCATION:316 S
-DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T080000
 DTEND:20250630T093500
 SUMMARY:WdP (E)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: Rafał Kasprzyk
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T095000
 DTEND:20250630T112500
 SUMMARY:WdP (E)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: Rafał Kasprzyk
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T114000

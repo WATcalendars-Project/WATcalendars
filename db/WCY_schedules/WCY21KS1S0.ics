@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY21KS1S0
@@ -2276,14 +2276,14 @@ DTSTART:20240625T080000
 DTEND:20240625T093500
 SUMMARY:Fbk (E)
 LOCATION:078 S
-DESCRIPTION:Funkcje boolowskie w kryptol.\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Funkcje boolowskie w kryptol.\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240625T095000
 DTEND:20240625T112500
 SUMMARY:Fbk (E)
 LOCATION:078 S
-DESCRIPTION:Funkcje boolowskie w kryptol.\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Funkcje boolowskie w kryptol.\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240625T114000
@@ -2297,21 +2297,21 @@ DTSTART:20240627T095000
 DTEND:20240627T112500
 SUMMARY:Pkuc (E)
 LOCATION:078 S
-DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240627T114000
 DTEND:20240627T131500
 SUMMARY:Pkuc (E)
 LOCATION:078 S
-DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240702T080000
 DTEND:20240702T093500
 SUMMARY:SA (E)
 LOCATION:313 S
-DESCRIPTION:Struktury algebraiczne\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: Piotr Kacprzyk
+DESCRIPTION:Struktury algebraiczne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240924T080000
@@ -4712,14 +4712,14 @@ DTSTART:20250203T114000
 DTEND:20250203T131500
 SUMMARY:Wkkp (E)
 LOCATION:078 S
-DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250203T133000
 DTEND:20250203T150500
 SUMMARY:Wkkp (E)
 LOCATION:078 S
-DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Wstęp do kryptoanalizy klucza publicznego\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T160000
@@ -4733,28 +4733,28 @@ DTSTART:20250205T080000
 DTEND:20250205T093500
 SUMMARY:Algor (E)
 LOCATION:078 S
-DESCRIPTION:Algorytmy strumieniowe\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Algorytmy strumieniowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T095000
 DTEND:20250205T112500
 SUMMARY:Algor (E)
 LOCATION:078 S
-DESCRIPTION:Algorytmy strumieniowe\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Algorytmy strumieniowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250207T114000
 DTEND:20250207T131500
 SUMMARY:Ab (E)
 LOCATION:085 S
-DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250207T133000
 DTEND:20250207T150500
 SUMMARY:Ab (E)
 LOCATION:085 S
-DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250212T095000
@@ -6889,7 +6889,7 @@ DTSTART:20250623T080000
 DTEND:20250623T093500
 SUMMARY:Akst (E)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T114000
@@ -6903,14 +6903,14 @@ DTSTART:20250630T095000
 DTEND:20250630T112500
 SUMMARY:MeSK (E)
 LOCATION:317 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T114000
 DTEND:20250630T131500
 SUMMARY:MeSK (E)
 LOCATION:317 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T080000

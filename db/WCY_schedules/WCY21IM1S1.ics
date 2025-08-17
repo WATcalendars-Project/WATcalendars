@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY21IM1S1
@@ -1338,14 +1338,14 @@ DTSTART:20240625T114000
 DTEND:20240625T131500
 SUMMARY:kdm (E)
 LOCATION:313 S
-DESCRIPTION:Kompresja danych multimedialnych\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Kompresja danych multimedialnych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240627T080000
 DTEND:20240627T093500
 SUMMARY:Psmo (E)
 LOCATION:314 S
-DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240627T095000
@@ -1366,28 +1366,28 @@ DTSTART:20240628T114000
 DTEND:20240628T131500
 SUMMARY:TpsT (E)
 LOCATION:120 65
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240628T133000
 DTEND:20240628T150500
 SUMMARY:TpsT (E)
 LOCATION:120 65
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240704T080000
 DTEND:20240704T093500
 SUMMARY:zsw (E)
 LOCATION:121 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240704T095000
 DTEND:20240704T112500
 SUMMARY:zsw (E)
 LOCATION:121 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240910T114000
@@ -1779,7 +1779,7 @@ DTSTART:20241202T114000
 DTEND:20241202T131500
 SUMMARY:Nm (E)
 LOCATION:203 65
-DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T095000

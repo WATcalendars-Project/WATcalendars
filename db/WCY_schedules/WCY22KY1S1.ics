@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY22KY1S1
@@ -1828,7 +1828,7 @@ DTSTART:20240627T080000
 DTEND:20240627T093500
 SUMMARY:Sck (E)
 LOCATION:120 65 121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240628T160000
@@ -1842,21 +1842,21 @@ DTSTART:20240701T080000
 DTEND:20240701T093500
 SUMMARY:Wek (E)
 LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240701T095000
 DTEND:20240701T112500
 SUMMARY:Wek (E)
 LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240703T133000
 DTEND:20240703T150500
 SUMMARY:IO (E)
 LOCATION:314 S 224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240710T080000

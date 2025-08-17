@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY20IL1S0
@@ -981,14 +981,14 @@ DTSTART:20240425T080000
 DTEND:20240425T093500
 SUMMARY:STANAG (E)
 LOCATION:-
-DESCRIPTION:Egzamin STANAG\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Egzamin STANAG\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240425T095000
 DTEND:20240425T112500
 SUMMARY:STANAG (E)
 LOCATION:-
-DESCRIPTION:Egzamin STANAG\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Egzamin STANAG\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240425T114000
@@ -1940,14 +1940,14 @@ DTSTART:20240701T080000
 DTEND:20240701T093500
 SUMMARY:dsk (E)
 LOCATION:314 S
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240703T114000
 DTEND:20240703T131500
 SUMMARY:MeSK (E)
 LOCATION:316 S 317 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241001T095000
@@ -3711,7 +3711,7 @@ DTSTART:20241218T175000
 DTEND:20241218T192500
 SUMMARY:WF (E)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241219T080000
@@ -4355,14 +4355,14 @@ DTSTART:20250130T080000
 DTEND:20250130T093500
 SUMMARY:JA-T (E)
 LOCATION:-
-DESCRIPTION:Język angielski - test - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Język angielski - test - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T095000
 DTEND:20250130T112500
 SUMMARY:JA-T (E)
 LOCATION:-
-DESCRIPTION:Język angielski - test - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Język angielski - test - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T133000
@@ -4439,14 +4439,14 @@ DTSTART:20250203T114000
 DTEND:20250203T131500
 SUMMARY:Mspw (E)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250211T095000
 DTEND:20250211T112500
 SUMMARY:Swp (E)
 LOCATION:316 S
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250217T114000
@@ -4838,49 +4838,49 @@ DTSTART:20250401T080000
 DTEND:20250401T093500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 1/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T095000
 DTEND:20250401T112500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 2/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T114000
 DTEND:20250401T131500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 3/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 3/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T133000
 DTEND:20250401T150500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 4/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 4/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T160000
 DTEND:20250401T173500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 5/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 5/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T175000
 DTEND:20250401T192500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 6/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 6/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T194000
 DTEND:20250401T211500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 7/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 7/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T114000
@@ -4894,55 +4894,55 @@ DTSTART:20250403T080000
 DTEND:20250403T093500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 8/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 8/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T095000
 DTEND:20250403T112500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 9/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 9/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T114000
 DTEND:20250403T131500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 10/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 10/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T133000
 DTEND:20250403T150500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 11/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 11/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T160000
 DTEND:20250403T173500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 12/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 12/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T175000
 DTEND:20250403T192500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 13/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 13/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T194000
 DTEND:20250403T211500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 14/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 14/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T095000
 DTEND:20250416T112500
 SUMMARY:JA-E (E)
 LOCATION:-
-DESCRIPTION:Język angielski - egzamin\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Język angielski - egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

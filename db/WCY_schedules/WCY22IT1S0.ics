@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY22IT1S0
@@ -2402,21 +2402,21 @@ DTSTART:20250623T114000
 DTEND:20250623T131500
 SUMMARY:Rou (E)
 LOCATION:317 S
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T095000
 DTEND:20250625T112500
 SUMMARY:PZS (E)
 LOCATION:125 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T114000
 DTEND:20250625T131500
 SUMMARY:PZS (E)
 LOCATION:125 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T095000
@@ -2430,13 +2430,13 @@ DTSTART:20250630T095000
 DTEND:20250630T112500
 SUMMARY:kdm (E)
 LOCATION:106 65
-DESCRIPTION:Kompresja danych multimedialnych\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Kompresja danych multimedialnych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250703T114000
 DTEND:20250703T131500
 SUMMARY:SoU (E)
 LOCATION:120 65 121 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 END:VCALENDAR

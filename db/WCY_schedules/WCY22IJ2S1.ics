@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY22IJ2S1
@@ -1275,14 +1275,14 @@ DTSTART:20250204T080000
 DTEND:20250204T093500
 SUMMARY:Gk (E)
 LOCATION:316 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T095000
 DTEND:20250204T112500
 SUMMARY:Gk (E)
 LOCATION:316 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T114000
@@ -1296,7 +1296,7 @@ DTSTART:20250206T133000
 DTEND:20250206T150500
 SUMMARY:Med (E)
 LOCATION:223 S 224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250214T095000
@@ -2437,14 +2437,14 @@ DTSTART:20250625T080000
 DTEND:20250625T093500
 SUMMARY:PWSI (E)
 LOCATION:316 S
-DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr Tomasz Gzik
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T095000
 DTEND:20250625T112500
 SUMMARY:PWSI (E)
 LOCATION:316 S
-DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr Tomasz Gzik
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T080000

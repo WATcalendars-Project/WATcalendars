@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY22KC1S1
@@ -1506,21 +1506,21 @@ DTSTART:20250206T095000
 DTEND:20250206T112500
 SUMMARY:SoU (E)
 LOCATION:120 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250210T095000
 DTEND:20250210T112500
 SUMMARY:Swb (E)
 LOCATION:314 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250210T114000
 DTEND:20250210T131500
 SUMMARY:Swb (E)
 LOCATION:314 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250212T114000
@@ -2808,28 +2808,28 @@ DTSTART:20250625T080000
 DTEND:20250625T093500
 SUMMARY:zsw (E)
 LOCATION:121 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T095000
 DTEND:20250625T112500
 SUMMARY:zsw (E)
 LOCATION:121 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T114000
 DTEND:20250626T131500
 SUMMARY:TpsT (E)
 LOCATION:120 65
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T133000
 DTEND:20250626T150500
 SUMMARY:TpsT (E)
 LOCATION:120 65
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T114000

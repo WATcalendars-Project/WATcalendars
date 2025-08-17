@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WME22BE1S1
@@ -2409,14 +2409,14 @@ DTSTART:20240701T095000
 DTEND:20240701T112500
 SUMMARY:Wm (E)
 LOCATION:52/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240703T095000
 DTEND:20240703T112500
 SUMMARY:Wzr. (E)
 LOCATION:52/ 62
-DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240704T095000
@@ -2430,7 +2430,7 @@ DTSTART:20240706T080000
 DTEND:20240706T093500
 SUMMARY:XFiz1 (E)
 LOCATION:315 S
-DESCRIPTION:XFizyka 1 - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:XFizyka 1 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240711T095000
@@ -4852,7 +4852,7 @@ DTSTART:20250205T160000
 DTEND:20250205T173500
 SUMMARY:Swb (E)
 LOCATION:52/ 62
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250206T114000
@@ -4866,7 +4866,7 @@ DTSTART:20250207T095000
 DTEND:20250207T112500
 SUMMARY:Mwein (E)
 LOCATION:73b S
-DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250207T114000
@@ -7463,7 +7463,7 @@ DTSTART:20250623T095000
 DTEND:20250623T112500
 SUMMARY:Eam (E)
 LOCATION:120 45
-DESCRIPTION:Elektroniczna aparatura medyczna - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Elektroniczna aparatura medyczna - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T133000
@@ -7477,35 +7477,35 @@ DTSTART:20250625T095000
 DTEND:20250625T112500
 SUMMARY:Piab (E)
 LOCATION:315b S
-DESCRIPTION:Pomiary i analiza biosygnałów - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Pomiary i analiza biosygnałów - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250628T095000
 DTEND:20250628T112500
 SUMMARY:XMat3 (E)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250628T114000
 DTEND:20250628T131500
 SUMMARY:XMat3 (E)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T095000
 DTEND:20250630T112500
 SUMMARY:Wm (E)
 LOCATION:52/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250702T095000
 DTEND:20250702T112500
 SUMMARY:SsO (E)
 LOCATION:116 45
-DESCRIPTION:Sensory i systemy optoelektroniczne - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T095000

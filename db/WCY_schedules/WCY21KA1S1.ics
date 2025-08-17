@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY21KA1S1
@@ -1366,14 +1366,14 @@ DTSTART:20240627T080000
 DTEND:20240627T093500
 SUMMARY:Mpwsi (E)
 LOCATION:316 S 223 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240628T080000
 DTEND:20240628T093500
 SUMMARY:Orr (E)
 LOCATION:317 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: Michał Zimoń
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: Michał Zimoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240703T080000
@@ -1387,7 +1387,7 @@ DTSTART:20240703T095000
 DTEND:20240703T112500
 SUMMARY:Msz (E)
 LOCATION:314 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240705T095000
@@ -1681,7 +1681,7 @@ DTSTART:20241210T133000
 DTEND:20241210T150500
 SUMMARY:Mspb (E)
 LOCATION:314 S
-DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T114000

@@ -1,1338 +1,1392 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWTC//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WTC22CN1S1
 BEGIN:VEVENT
 DTSTART:20250303T080000
 DTEND:20250303T093500
-SUMMARY:Bchm (w)
+SUMMARY:Bchm 
 LOCATION:108
-DESCRIPTION:Bchm\nType: Lecture\nNo: 1/17\nLecturer: dr Wioletta Wereda
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 1/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T080000
 DTEND:20250310T093500
-SUMMARY:Bchm (w)
+SUMMARY:Bchm 
 LOCATION:108
-DESCRIPTION:Bchm\nType: Lecture\nNo: 2/17\nLecturer: dr Wioletta Wereda
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 2/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T080000
 DTEND:20250317T093500
-SUMMARY:Hofc (w)
+SUMMARY:Hofc 
 LOCATION:027
-DESCRIPTION:History of Chemistry\nType: Lecture\nNo: 1/10\nLecturer: dr hab. inż. Marek Suproniuk
+DESCRIPTION:Hofc\nRodzaj zajęć: -\nNumer zajęć: 1/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T080000
 DTEND:20250324T093500
-SUMMARY:Hofc (w)
+SUMMARY:Hofc 
 LOCATION:027
-DESCRIPTION:History of Chemistry\nType: Lecture\nNo: 2/10\nLecturer: dr hab. inż. Marek Suproniuk
+DESCRIPTION:Hofc\nRodzaj zajęć: -\nNumer zajęć: 2/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T080000
 DTEND:20250331T093500
-SUMMARY:Bchm (w)
+SUMMARY:Bchm 
 LOCATION:108
-DESCRIPTION:Bchm\nType: Lecture\nNo: 3/17\nLecturer: dr Wioletta Wereda
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 3/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T080000
 DTEND:20250407T093500
-SUMMARY:Doz (L)
-DESCRIPTION:Doz\nType: Laboratory\nNo: 1/10\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+SUMMARY:Doz 
+LOCATION:
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 1/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T080000
 DTEND:20250414T093500
-SUMMARY:Bchm (w)
+SUMMARY:Bchm 
 LOCATION:109
-DESCRIPTION:Bchm\nType: Lecture\nNo: 4/17\nLecturer: dr Wioletta Wereda
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 4/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T080000
 DTEND:20250428T093500
-SUMMARY:Bchm (w)
+SUMMARY:Bchm 
 LOCATION:108
-DESCRIPTION:Bchm\nType: Lecture\nNo: 5/17\nLecturer: dr Wioletta Wereda
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 5/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T080000
 DTEND:20250512T093500
-SUMMARY:Doz (ć)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Exercises\nNo: 1/5\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 2/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T080000
 DTEND:20250519T093500
-SUMMARY:Rch (ć)
+SUMMARY:Rch 
 LOCATION:10
-DESCRIPTION:Ratownictwo chemiczne\nType: Exercises\nNo: 1/4\nLecturer: Nwł
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 1/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T080000
 DTEND:20250526T093500
-SUMMARY:Rch (w)
+SUMMARY:Rch 
 LOCATION:10
-DESCRIPTION:Ratownictwo chemiczne\nType: Lecture\nNo: 1/15\nLecturer: Nwł
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 2/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T095000
 DTEND:20250303T112500
-SUMMARY:MPt (w)
+SUMMARY:MPt 
 LOCATION:108
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Lecture\nNo: 1/10\nLecturer: mgr Luiza Trzcińska
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 1/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T095000
 DTEND:20250310T112500
-SUMMARY:MPt (w)
+SUMMARY:MPt 
 LOCATION:108
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Lecture\nNo: 2/10\nLecturer: mgr Luiza Trzcińska
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 2/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T095000
 DTEND:20250317T112500
-SUMMARY:Doz (w)
-DESCRIPTION:Doz\nType: Lecture\nNo: 1/15\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+SUMMARY:Doz 
+LOCATION:
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 3/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T095000
 DTEND:20250324T112500
-SUMMARY:Bchm (w)
+SUMMARY:Bchm 
 LOCATION:108
-DESCRIPTION:Bchm\nType: Lecture\nNo: 6/17\nLecturer: dr Wioletta Wereda
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 6/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T095000
 DTEND:20250331T112500
-SUMMARY:MPt (w)
+SUMMARY:MPt 
 LOCATION:108
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Lecture\nNo: 3/10\nLecturer: mgr Luiza Trzcińska
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 3/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T095000
 DTEND:20250407T112500
-SUMMARY:Doz (L)
-DESCRIPTION:Doz\nType: Laboratory\nNo: 2/10\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+SUMMARY:Doz 
+LOCATION:
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 4/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T095000
 DTEND:20250414T112500
-SUMMARY:MPt (w)
+SUMMARY:MPt 
 LOCATION:108
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Lecture\nNo: 4/10\nLecturer: mgr Luiza Trzcińska
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 4/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000
 DTEND:20250428T112500
-SUMMARY:MPt (w)
+SUMMARY:MPt 
 LOCATION:108
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Lecture\nNo: 5/10\nLecturer: mgr Luiza Trzcińska
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 5/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T095000
 DTEND:20250505T112500
-SUMMARY:MPt (w)
+SUMMARY:MPt 
 LOCATION:108
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Lecture\nNo: 6/10\nLecturer: mgr Luiza Trzcińska
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 6/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T095000
 DTEND:20250512T112500
-SUMMARY:MPt (w)
+SUMMARY:MPt 
 LOCATION:108
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Lecture\nNo: 7/10\nLecturer: mgr Luiza Trzcińska
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 7/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T095000
 DTEND:20250519T112500
-SUMMARY:MPt (w)
+SUMMARY:MPt 
 LOCATION:108
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Lecture\nNo: 8/10\nLecturer: mgr Luiza Trzcińska
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 8/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T095000
 DTEND:20250526T112500
-SUMMARY:MPt (w)
+SUMMARY:MPt 
 LOCATION:108
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Lecture\nNo: 9/10\nLecturer: mgr Luiza Trzcińska
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 9/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T095000
 DTEND:20250915T112500
-SUMMARY:Cśt (Ep)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Retake exam\nNo: 1/1\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 1/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T114000
 DTEND:20250303T131500
-SUMMARY:Rch (w)
+SUMMARY:Rch 
 LOCATION:10
-DESCRIPTION:Ratownictwo chemiczne\nType: Lecture\nNo: 2/15\nLecturer: Nwł
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 3/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T114000
 DTEND:20250310T131500
-SUMMARY:Rch (w)
+SUMMARY:Rch 
 LOCATION:10
-DESCRIPTION:Ratownictwo chemiczne\nType: Lecture\nNo: 3/15\nLecturer: Nwł
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 4/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T114000
 DTEND:20250317T131500
-SUMMARY:Rch (w)
+SUMMARY:Rch 
 LOCATION:10
-DESCRIPTION:Ratownictwo chemiczne\nType: Lecture\nNo: 4/15\nLecturer: Nwł
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 5/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T114000
 DTEND:20250324T131500
-SUMMARY:Rch (w)
+SUMMARY:Rch 
 LOCATION:10
-DESCRIPTION:Ratownictwo chemiczne\nType: Lecture\nNo: 5/15\nLecturer: Nwł
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 6/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T114000
 DTEND:20250331T131500
-SUMMARY:Rch (w)
+SUMMARY:Rch 
 LOCATION:10
-DESCRIPTION:Ratownictwo chemiczne\nType: Lecture\nNo: 6/15\nLecturer: Nwł
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 7/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T114000
 DTEND:20250407T131500
-SUMMARY:Rch (w)
+SUMMARY:Rch 
 LOCATION:10
-DESCRIPTION:Ratownictwo chemiczne\nType: Lecture\nNo: 7/15\nLecturer: Nwł
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 8/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T114000
 DTEND:20250414T131500
-SUMMARY:Rch (w)
+SUMMARY:Rch 
 LOCATION:10
-DESCRIPTION:Ratownictwo chemiczne\nType: Lecture\nNo: 8/15\nLecturer: Nwł
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 9/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T114000
 DTEND:20250428T131500
-SUMMARY:Rch (w)
+SUMMARY:Rch 
 LOCATION:10
-DESCRIPTION:Ratownictwo chemiczne\nType: Lecture\nNo: 9/15\nLecturer: Nwł
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 10/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T114000
 DTEND:20250512T131500
-SUMMARY:Rch (w)
+SUMMARY:Rch 
 LOCATION:10
-DESCRIPTION:Ratownictwo chemiczne\nType: Lecture\nNo: 10/15\nLecturer: Nwł
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 11/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T114000
 DTEND:20250519T131500
-SUMMARY:Rch (w)
+SUMMARY:Rch 
 LOCATION:10
-DESCRIPTION:Ratownictwo chemiczne\nType: Lecture\nNo: 11/15\nLecturer: Nwł
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 12/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T114000
 DTEND:20250526T131500
-SUMMARY:Tch (ć)
+SUMMARY:Tch 
 LOCATION:109
-DESCRIPTION:Technologia chemiczna\nType: Exercises\nNo: 1/15\nLecturer: mgr inż. Adam Kapusta
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 1/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T133000
 DTEND:20250303T150500
-SUMMARY:Doz (w)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Lecture\nNo: 2/15\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 5/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T133000
 DTEND:20250310T150500
-SUMMARY:Doz (w)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Lecture\nNo: 3/15\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 6/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000
 DTEND:20250407T150500
-SUMMARY:Doz (w)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Lecture\nNo: 4/15\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 7/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T133000
 DTEND:20250414T150500
-SUMMARY:Doz (w)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Lecture\nNo: 5/15\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 8/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T133000
 DTEND:20250428T150500
-SUMMARY:Doz (w)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Lecture\nNo: 6/15\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 9/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T133000
 DTEND:20250512T150500
-SUMMARY:Rch (w)
+SUMMARY:Rch 
 LOCATION:10
-DESCRIPTION:Ratownictwo chemiczne\nType: Lecture\nNo: 12/15\nLecturer: Nwł
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 13/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T133000
 DTEND:20250519T150500
-SUMMARY:Doz (w)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Lecture\nNo: 7/15\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 10/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T133000
 DTEND:20250526T150500
-SUMMARY:Doz (w)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Lecture\nNo: 8/15\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 11/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T160000
 DTEND:20250512T173500
-SUMMARY:MPt (w)
+SUMMARY:MPt 
 LOCATION:108
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Lecture\nNo: 10/10\nLecturer: mgr Luiza Trzcińska
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 10/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T080000
 DTEND:20250415T093500
-SUMMARY:Doz (L)
-DESCRIPTION:Doz\nType: Laboratory\nNo: 3/10\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+SUMMARY:Doz 
+LOCATION:
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 12/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T080000
 DTEND:20250429T093500
-SUMMARY:Tch (ć)
+SUMMARY:Tch 
 LOCATION:108
-DESCRIPTION:Technologia chemiczna\nType: Exercises\nNo: 2/15\nLecturer: mgr inż. Adam Kapusta
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 2/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
 DTEND:20250506T093500
-SUMMARY:Bchm (L)
+SUMMARY:Bchm 
 LOCATION:34
-DESCRIPTION:Bchm\nType: Laboratory\nNo: 1/12\nLecturer: mgr Marcin Bomba
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 7/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T080000
 DTEND:20250513T093500
-SUMMARY:Bchm (L)
+SUMMARY:Bchm 
 LOCATION:34
-DESCRIPTION:Bchm\nType: Laboratory\nNo: 2/12\nLecturer: mgr Marcin Bomba
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 8/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T080000
 DTEND:20250520T093500
-SUMMARY:Doz (w)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Lecture\nNo: 9/15\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 13/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T080000
 DTEND:20250527T093500
-SUMMARY:Doz (w)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Lecture\nNo: 10/15\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 14/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T080000
 DTEND:20250603T093500
-SUMMARY:Doz (w)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Lecture\nNo: 11/15\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 15/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T080000
 DTEND:20250610T093500
-SUMMARY:Rch (ć)
+SUMMARY:Rch 
 LOCATION:10
-DESCRIPTION:Ratownictwo chemiczne\nType: Exercises\nNo: 2/4\nLecturer: Nwł
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 14/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T095000
 DTEND:20250415T112500
-SUMMARY:Doz (ć)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Exercises\nNo: 2/5\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 16/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T095000
 DTEND:20250429T112500
-SUMMARY:Tch (ć)
+SUMMARY:Tch 
 LOCATION:108
-DESCRIPTION:Technologia chemiczna\nType: Exercises\nNo: 3/15\nLecturer: mgr inż. Adam Kapusta
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 3/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T095000
 DTEND:20250506T112500
-SUMMARY:Bchm (L)
+SUMMARY:Bchm 
 LOCATION:34
-DESCRIPTION:Bchm\nType: Laboratory\nNo: 3/12\nLecturer: mgr Marcin Bomba
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 9/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T095000
 DTEND:20250513T112500
-SUMMARY:Bchm (L)
+SUMMARY:Bchm 
 LOCATION:34
-DESCRIPTION:Bchm\nType: Laboratory\nNo: 4/12\nLecturer: mgr Marcin Bomba
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 10/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000
 DTEND:20250520T112500
-SUMMARY:Doz (L)
-DESCRIPTION:Doz\nType: Laboratory\nNo: 4/10\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+SUMMARY:Doz 
+LOCATION:
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 17/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T095000
 DTEND:20250527T112500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 1/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 4/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T095000
 DTEND:20250603T112500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 2/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 5/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T095000
 DTEND:20250610T112500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 3/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 6/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T095000
 DTEND:20250624T112500
-SUMMARY:Tch (E)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Exam\nNo: 1/1\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 7/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T114000
 DTEND:20250408T131500
-SUMMARY:Bchm (L)
+SUMMARY:Bchm 
 LOCATION:34
-DESCRIPTION:Bchm\nType: Laboratory\nNo: 5/12\nLecturer: mgr Marcin Bomba
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 11/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T114000
 DTEND:20250415T131500
-SUMMARY:Doz (L)
-DESCRIPTION:Doz\nType: Laboratory\nNo: 5/10\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+SUMMARY:Doz 
+LOCATION:
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 18/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T114000
 DTEND:20250429T131500
-SUMMARY:Doz (L)
-DESCRIPTION:Doz\nType: Laboratory\nNo: 6/10\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+SUMMARY:Doz 
+LOCATION:
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 19/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T114000
 DTEND:20250506T131500
-SUMMARY:Tch (ć)
-DESCRIPTION:Technologia chemiczna\nType: Exercises\nNo: 4/15\nLecturer: mgr inż. Adam Kapusta
+SUMMARY:Tch 
+LOCATION:
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 8/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T114000
 DTEND:20250513T131500
-SUMMARY:Tch (ć)
-DESCRIPTION:Technologia chemiczna\nType: Exercises\nNo: 5/15\nLecturer: mgr inż. Adam Kapusta
+SUMMARY:Tch 
+LOCATION:
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 9/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T114000
 DTEND:20250520T131500
-SUMMARY:Doz (L)
-DESCRIPTION:Doz\nType: Laboratory\nNo: 7/10\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+SUMMARY:Doz 
+LOCATION:
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 20/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T114000
 DTEND:20250527T131500
-SUMMARY:Rch (w)
+SUMMARY:Rch 
 LOCATION:10
-DESCRIPTION:Ratownictwo chemiczne\nType: Lecture\nNo: 13/15\nLecturer: Nwł
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 15/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T114000
 DTEND:20250603T131500
-SUMMARY:Rch (w)
+SUMMARY:Rch 
 LOCATION:10
-DESCRIPTION:Ratownictwo chemiczne\nType: Lecture\nNo: 14/15\nLecturer: Nwł
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 16/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T114000
 DTEND:20250610T131500
-SUMMARY:Rch (w)
+SUMMARY:Rch 
 LOCATION:10
-DESCRIPTION:Ratownictwo chemiczne\nType: Lecture\nNo: 15/15\nLecturer: Nwł
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 17/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250916T114000
 DTEND:20250916T131500
-SUMMARY:Tch (Ep)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Retake exam\nNo: 1/1\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 10/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T133000
 DTEND:20250408T150500
-SUMMARY:Bchm (L)
+SUMMARY:Bchm 
 LOCATION:34
-DESCRIPTION:Bchm\nType: Laboratory\nNo: 6/12\nLecturer: mgr Marcin Bomba
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 12/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T133000
 DTEND:20250415T150500
-SUMMARY:Doz (w)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Lecture\nNo: 12/15\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 21/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T133000
 DTEND:20250429T150500
-SUMMARY:Doz (L)
-DESCRIPTION:Doz\nType: Laboratory\nNo: 8/10\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+SUMMARY:Doz 
+LOCATION:
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 22/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T133000
 DTEND:20250506T150500
-SUMMARY:Bchm (L)
+SUMMARY:Bchm 
 LOCATION:34
-DESCRIPTION:Bchm\nType: Laboratory\nNo: 7/12\nLecturer: mgr Marcin Bomba
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 13/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T133000
 DTEND:20250513T150500
-SUMMARY:Bchm (L)
+SUMMARY:Bchm 
 LOCATION:34
-DESCRIPTION:Bchm\nType: Laboratory\nNo: 8/12\nLecturer: mgr Marcin Bomba
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 14/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T133000
 DTEND:20250527T150500
-SUMMARY:Tch (S)
+SUMMARY:Tch 
 LOCATION:109
-DESCRIPTION:Technologia chemiczna\nType: Seminar\nNo: 1/3\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 11/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T133000
 DTEND:20250603T150500
-SUMMARY:Tch (S)
+SUMMARY:Tch 
 LOCATION:109
-DESCRIPTION:Technologia chemiczna\nType: Seminar\nNo: 2/3\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 12/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T133000
 DTEND:20250610T150500
-SUMMARY:Hofc (ć)
+SUMMARY:Hofc 
 LOCATION:027
-DESCRIPTION:History of Chemistry\nType: Exercises\nNo: 1/5\nLecturer: dr hab. inż. Marek Suproniuk
+DESCRIPTION:Hofc\nRodzaj zajęć: -\nNumer zajęć: 3/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T160000
 DTEND:20250408T173500
-SUMMARY:Bchm (L)
+SUMMARY:Bchm 
 LOCATION:34
-DESCRIPTION:Bchm\nType: Laboratory\nNo: 9/12\nLecturer: mgr Marcin Bomba
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 15/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T160000
 DTEND:20250506T173500
-SUMMARY:Bchm (L)
+SUMMARY:Bchm 
 LOCATION:34
-DESCRIPTION:Bchm\nType: Laboratory\nNo: 10/12\nLecturer: mgr Marcin Bomba
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 16/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T160000
 DTEND:20250513T173500
-SUMMARY:Bchm (L)
+SUMMARY:Bchm 
 LOCATION:34
-DESCRIPTION:Bchm\nType: Laboratory\nNo: 11/12\nLecturer: mgr Marcin Bomba
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 17/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T175000
 DTEND:20250408T192500
-SUMMARY:Bchm (L)
+SUMMARY:Bchm 
 LOCATION:34
-DESCRIPTION:Bchm\nType: Laboratory\nNo: 12/12\nLecturer: mgr Marcin Bomba
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 18/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T080000
 DTEND:20250305T093500
-SUMMARY:Bchm (w)
+SUMMARY:Bchm 
 LOCATION:108
-DESCRIPTION:Bchm\nType: Lecture\nNo: 7/17\nLecturer: dr Wioletta Wereda
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 19/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T080000
 DTEND:20250326T093500
-SUMMARY:Bchm (w)
+SUMMARY:Bchm 
 LOCATION:108
-DESCRIPTION:Bchm\nType: Lecture\nNo: 8/17\nLecturer: dr Wioletta Wereda
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 20/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T080000
 DTEND:20250402T093500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 4/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 13/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T080000
 DTEND:20250409T093500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 5/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 14/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T080000
 DTEND:20250416T093500
-SUMMARY:Bchm (w)
+SUMMARY:Bchm 
 LOCATION:108
-DESCRIPTION:Bchm\nType: Lecture\nNo: 9/17\nLecturer: dr Wioletta Wereda
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 21/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T080000
 DTEND:20250423T093500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:108
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 6/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 15/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T080000
 DTEND:20250507T093500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 7/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 16/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000
 DTEND:20250521T093500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 8/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 17/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T080000
 DTEND:20250528T093500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 9/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 18/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T080000
 DTEND:20250604T093500
-SUMMARY:MPt (ć)
+SUMMARY:MPt 
 LOCATION:025
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Exercises\nNo: 1/13\nLecturer: SzL
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 11/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T080000
 DTEND:20250618T093500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 10/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 19/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T095000
 DTEND:20250326T112500
-SUMMARY:Hofc (w)
+SUMMARY:Hofc 
 LOCATION:027
-DESCRIPTION:History of Chemistry\nType: Lecture\nNo: 3/10\nLecturer: dr hab. inż. Marek Suproniuk
+DESCRIPTION:Hofc\nRodzaj zajęć: -\nNumer zajęć: 4/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T095000
 DTEND:20250402T112500
-SUMMARY:Hofc (w)
+SUMMARY:Hofc 
 LOCATION:108
-DESCRIPTION:History of Chemistry\nType: Lecture\nNo: 4/10\nLecturer: dr hab. inż. Marek Suproniuk
+DESCRIPTION:Hofc\nRodzaj zajęć: -\nNumer zajęć: 5/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T095000
 DTEND:20250409T112500
-SUMMARY:Bchm (w)
+SUMMARY:Bchm 
 LOCATION:108
-DESCRIPTION:Bchm\nType: Lecture\nNo: 10/17\nLecturer: dr Wioletta Wereda
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 22/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
 DTEND:20250423T112500
-SUMMARY:Rch (ć)
+SUMMARY:Rch 
 LOCATION:10
-DESCRIPTION:Ratownictwo chemiczne\nType: Exercises\nNo: 3/4\nLecturer: Nwł
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 18/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T095000
 DTEND:20250507T112500
-SUMMARY:Cśt (w)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Lecture\nNo: 1/16\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 2/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T095000
 DTEND:20250514T112500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 11/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 20/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T095000
 DTEND:20250528T112500
-SUMMARY:Hofc (ć)
+SUMMARY:Hofc 
 LOCATION:027
-DESCRIPTION:History of Chemistry\nType: Exercises\nNo: 2/5\nLecturer: dr hab. inż. Marek Suproniuk
+DESCRIPTION:Hofc\nRodzaj zajęć: -\nNumer zajęć: 6/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T095000
 DTEND:20250604T112500
-SUMMARY:MPt (ć)
+SUMMARY:MPt 
 LOCATION:025
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Exercises\nNo: 2/13\nLecturer: SzL
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 12/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T095000
 DTEND:20250618T112500
-SUMMARY:Tch (ć)
+SUMMARY:Tch 
 LOCATION:109
-DESCRIPTION:Technologia chemiczna\nType: Exercises\nNo: 6/15\nLecturer: mgr inż. Adam Kapusta
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 21/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T114000
 DTEND:20250305T131500
-SUMMARY:Cśt (w)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Lecture\nNo: 2/16\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 3/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
 DTEND:20250326T131500
-SUMMARY:Doz (ć)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Exercises\nNo: 3/5\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 23/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T114000
 DTEND:20250402T131500
-SUMMARY:Cśt (w)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Lecture\nNo: 3/16\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 4/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T114000
 DTEND:20250409T131500
-SUMMARY:Cśt (w)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Lecture\nNo: 4/16\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 5/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T114000
 DTEND:20250416T131500
-SUMMARY:Cśt (w)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Lecture\nNo: 5/16\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 6/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
 DTEND:20250423T131500
-SUMMARY:Cśt (w)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Lecture\nNo: 6/16\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 7/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T114000
 DTEND:20250507T131500
-SUMMARY:Cśt (w)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Lecture\nNo: 7/16\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 8/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T114000
 DTEND:20250514T131500
-SUMMARY:Cśt (w)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Lecture\nNo: 8/16\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 9/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T114000
 DTEND:20250521T131500
-SUMMARY:Cśt (w)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Lecture\nNo: 9/16\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 10/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T114000
 DTEND:20250528T131500
-SUMMARY:MPt (ć)
+SUMMARY:MPt 
 LOCATION:025
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Exercises\nNo: 3/13\nLecturer: SzL
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 13/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T114000
 DTEND:20250604T131500
-SUMMARY:Doz (w)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Lecture\nNo: 13/15\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 24/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T114000
 DTEND:20250917T131500
-SUMMARY:MPt (Ep)
+SUMMARY:MPt 
 LOCATION:108
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Retake exam\nNo: 1/1\nLecturer: mgr Luiza Trzcińska
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 14/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T133000
 DTEND:20250402T150500
-SUMMARY:Doz (ć)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Exercises\nNo: 4/5\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 25/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T133000
 DTEND:20250416T150500
-SUMMARY:Tch (ć)
+SUMMARY:Tch 
 LOCATION:109
-DESCRIPTION:Technologia chemiczna\nType: Exercises\nNo: 7/15\nLecturer: mgr inż. Adam Kapusta
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 22/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T133000
 DTEND:20250423T150500
-SUMMARY:Bchm (w)
+SUMMARY:Bchm 
 LOCATION:109
-DESCRIPTION:Bchm\nType: Lecture\nNo: 11/17\nLecturer: dr Wioletta Wereda
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 23/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T133000
 DTEND:20250507T150500
-SUMMARY:Bchm (w)
+SUMMARY:Bchm 
 LOCATION:110
-DESCRIPTION:Bchm\nType: Lecture\nNo: 12/17\nLecturer: dr Wioletta Wereda
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 24/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T133000
 DTEND:20250514T150500
-SUMMARY:Doz (ć)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Exercises\nNo: 5/5\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 26/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T133000
 DTEND:20250521T150500
-SUMMARY:Tch (ć)
+SUMMARY:Tch 
 LOCATION:108
-DESCRIPTION:Technologia chemiczna\nType: Exercises\nNo: 8/15\nLecturer: mgr inż. Adam Kapusta
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 23/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T133000
 DTEND:20250528T150500
-SUMMARY:MPt (ć)
+SUMMARY:MPt 
 LOCATION:025
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Exercises\nNo: 4/13\nLecturer: SzL
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 15/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T133000
 DTEND:20250604T150500
-SUMMARY:Rch (L)
-DESCRIPTION:Ratownictwo chemiczne\nType: Laboratory\nNo: 1/6\nLecturer: mgr inż. Monika Kuligowska
+SUMMARY:Rch 
+LOCATION:
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 19/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T133000
 DTEND:20250618T150500
-SUMMARY:MPt (ć)
+SUMMARY:MPt 
 LOCATION:025
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Exercises\nNo: 5/13\nLecturer: SzL
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 16/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250702T133000
 DTEND:20250702T150500
-SUMMARY:Cśt (E)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Exam\nNo: 1/1\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 11/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T160000
 DTEND:20250604T173500
-SUMMARY:Rch (L)
-DESCRIPTION:Ratownictwo chemiczne\nType: Laboratory\nNo: 2/6\nLecturer: mgr inż. Monika Kuligowska
+SUMMARY:Rch 
+LOCATION:
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 20/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T175000
 DTEND:20250604T192500
-SUMMARY:Rch (ć)
-DESCRIPTION:Ratownictwo chemiczne\nType: Exercises\nNo: 4/4\nLecturer: Nwł
+SUMMARY:Rch 
+LOCATION:
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 21/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T080000
 DTEND:20250306T093500
-SUMMARY:Cśt (w)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Lecture\nNo: 10/16\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 12/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T080000
 DTEND:20250313T093500
-SUMMARY:Cśt (w)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Lecture\nNo: 11/16\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 13/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T080000
 DTEND:20250403T093500
-SUMMARY:Cśt (w)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Lecture\nNo: 12/16\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 14/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T080000
 DTEND:20250410T093500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 12/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 24/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T080000
 DTEND:20250417T093500
-SUMMARY:Cśt (w)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Lecture\nNo: 13/16\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 15/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T080000
 DTEND:20250508T093500
-SUMMARY:Cśt (w)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Lecture\nNo: 14/16\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 16/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T080000
 DTEND:20250515T093500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:109
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 13/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 25/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T080000
 DTEND:20250522T093500
-SUMMARY:MPt (ć)
+SUMMARY:MPt 
 LOCATION:025
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Exercises\nNo: 6/13\nLecturer: SzL
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 17/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T080000
 DTEND:20250529T093500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 14/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 26/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T080000
 DTEND:20250605T093500
-SUMMARY:Cśt (w)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Lecture\nNo: 15/16\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 17/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T080000
 DTEND:20250612T093500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 15/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 27/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T095000
 DTEND:20250306T112500
-SUMMARY:Bchm (w)
+SUMMARY:Bchm 
 LOCATION:109
-DESCRIPTION:Bchm\nType: Lecture\nNo: 13/17\nLecturer: dr Wioletta Wereda
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 25/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T095000
 DTEND:20250313T112500
-SUMMARY:Bchm (w)
+SUMMARY:Bchm 
 LOCATION:109
-DESCRIPTION:Bchm\nType: Lecture\nNo: 14/17\nLecturer: dr Wioletta Wereda
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 26/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T095000
 DTEND:20250403T112500
-SUMMARY:Hofc (w)
+SUMMARY:Hofc 
 LOCATION:027
-DESCRIPTION:History of Chemistry\nType: Lecture\nNo: 5/10\nLecturer: dr hab. inż. Marek Suproniuk
+DESCRIPTION:Hofc\nRodzaj zajęć: -\nNumer zajęć: 7/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T095000
 DTEND:20250410T112500
-SUMMARY:Bchm (w)
+SUMMARY:Bchm 
 LOCATION:108
-DESCRIPTION:Bchm\nType: Lecture\nNo: 15/17\nLecturer: dr Wioletta Wereda
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 27/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T095000
 DTEND:20250417T112500
-SUMMARY:Hofc (w)
+SUMMARY:Hofc 
 LOCATION:027
-DESCRIPTION:History of Chemistry\nType: Lecture\nNo: 6/10\nLecturer: dr hab. inż. Marek Suproniuk
+DESCRIPTION:Hofc\nRodzaj zajęć: -\nNumer zajęć: 8/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T095000
 DTEND:20250508T112500
-SUMMARY:Rch (L)
-DESCRIPTION:Ratownictwo chemiczne\nType: Laboratory\nNo: 3/6\nLecturer: mgr inż. Monika Kuligowska
+SUMMARY:Rch 
+LOCATION:
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 22/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
 DTEND:20250515T112500
-SUMMARY:MPt (ć)
+SUMMARY:MPt 
 LOCATION:025
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Exercises\nNo: 7/13\nLecturer: SzL
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 18/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T095000
 DTEND:20250522T112500
-SUMMARY:MPt (ć)
+SUMMARY:MPt 
 LOCATION:025
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Exercises\nNo: 8/13\nLecturer: SzL
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 19/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
 DTEND:20250529T112500
-SUMMARY:Tch (ć)
+SUMMARY:Tch 
 LOCATION:108
-DESCRIPTION:Technologia chemiczna\nType: Exercises\nNo: 9/15\nLecturer: mgr inż. Adam Kapusta
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 28/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000
 DTEND:20250605T112500
-SUMMARY:Tch (ć)
+SUMMARY:Tch 
 LOCATION:108
-DESCRIPTION:Technologia chemiczna\nType: Exercises\nNo: 10/15\nLecturer: mgr inż. Adam Kapusta
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 29/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T095000
 DTEND:20250612T112500
-SUMMARY:Tch (ć)
+SUMMARY:Tch 
 LOCATION:108
-DESCRIPTION:Technologia chemiczna\nType: Exercises\nNo: 11/15\nLecturer: mgr inż. Adam Kapusta
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 30/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T095000
 DTEND:20250626T112500
-SUMMARY:Doz (E)
-DESCRIPTION:Doz\nType: Exam\nNo: 1/2\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+SUMMARY:Doz 
+LOCATION:
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 27/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250918T095000
 DTEND:20250918T112500
-SUMMARY:Doz (E)
-DESCRIPTION:Doz\nType: Exam\nNo: 2/2\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+SUMMARY:Doz 
+LOCATION:
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 28/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T114000
 DTEND:20250403T131500
-SUMMARY:Cśt (ć)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Exercises\nNo: 1/3\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 18/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T114000
 DTEND:20250410T131500
-SUMMARY:Hofc (w)
+SUMMARY:Hofc 
 LOCATION:027
-DESCRIPTION:History of Chemistry\nType: Lecture\nNo: 7/10\nLecturer: dr hab. inż. Marek Suproniuk
+DESCRIPTION:Hofc\nRodzaj zajęć: -\nNumer zajęć: 9/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T114000
 DTEND:20250417T131500
-SUMMARY:Bchm (w)
+SUMMARY:Bchm 
 LOCATION:109
-DESCRIPTION:Bchm\nType: Lecture\nNo: 16/17\nLecturer: dr Wioletta Wereda
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 28/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T114000
 DTEND:20250508T131500
-SUMMARY:Rch (L)
-DESCRIPTION:Ratownictwo chemiczne\nType: Laboratory\nNo: 4/6\nLecturer: mgr inż. Monika Kuligowska
+SUMMARY:Rch 
+LOCATION:
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 23/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T114000
 DTEND:20250515T131500
-SUMMARY:MPt (ć)
+SUMMARY:MPt 
 LOCATION:025
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Exercises\nNo: 9/13\nLecturer: SzL
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 20/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T114000
 DTEND:20250522T131500
-SUMMARY:Hofc (ć)
+SUMMARY:Hofc 
 LOCATION:027
-DESCRIPTION:History of Chemistry\nType: Exercises\nNo: 3/5\nLecturer: dr hab. inż. Marek Suproniuk
+DESCRIPTION:Hofc\nRodzaj zajęć: -\nNumer zajęć: 10/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T114000
 DTEND:20250529T131500
-SUMMARY:Tch (ć)
+SUMMARY:Tch 
 LOCATION:108
-DESCRIPTION:Technologia chemiczna\nType: Exercises\nNo: 12/15\nLecturer: mgr inż. Adam Kapusta
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 31/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T114000
 DTEND:20250605T131500
-SUMMARY:Tch (ć)
+SUMMARY:Tch 
 LOCATION:108
-DESCRIPTION:Technologia chemiczna\nType: Exercises\nNo: 13/15\nLecturer: mgr inż. Adam Kapusta
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 32/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T114000
 DTEND:20250612T131500
-SUMMARY:Tch (S)
+SUMMARY:Tch 
 LOCATION:109
-DESCRIPTION:Technologia chemiczna\nType: Seminar\nNo: 3/3\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 33/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T114000
 DTEND:20250626T131500
-SUMMARY:MPt (E)
+SUMMARY:MPt 
 LOCATION:108
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Exam\nNo: 1/1\nLecturer: mgr Luiza Trzcińska
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 21/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T133000
 DTEND:20250410T150500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 16/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 34/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T133000
 DTEND:20250417T150500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 17/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 35/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T133000
 DTEND:20250508T150500
-SUMMARY:Bchm (w)
+SUMMARY:Bchm 
 LOCATION:110
-DESCRIPTION:Bchm\nType: Lecture\nNo: 17/17\nLecturer: dr Wioletta Wereda
+DESCRIPTION:Bchm\nRodzaj zajęć: -\nNumer zajęć: 29/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T133000
 DTEND:20250515T150500
-SUMMARY:Tch (ć)
+SUMMARY:Tch 
 LOCATION:108
-DESCRIPTION:Technologia chemiczna\nType: Exercises\nNo: 14/15\nLecturer: mgr inż. Adam Kapusta
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 36/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T133000
 DTEND:20250522T150500
-SUMMARY:Doz (w)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Lecture\nNo: 14/15\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 29/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T133000
 DTEND:20250529T150500
-SUMMARY:Hofc (w)
+SUMMARY:Hofc 
 LOCATION:027
-DESCRIPTION:History of Chemistry\nType: Lecture\nNo: 8/10\nLecturer: dr hab. inż. Marek Suproniuk
+DESCRIPTION:Hofc\nRodzaj zajęć: -\nNumer zajęć: 11/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T133000
 DTEND:20250605T150500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 18/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 37/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T133000
 DTEND:20250612T150500
-SUMMARY:Hofc (ć)
+SUMMARY:Hofc 
 LOCATION:027
-DESCRIPTION:History of Chemistry\nType: Exercises\nNo: 4/5\nLecturer: dr hab. inż. Marek Suproniuk
+DESCRIPTION:Hofc\nRodzaj zajęć: -\nNumer zajęć: 12/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T160000
 DTEND:20250508T173500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 19/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 38/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T160000
 DTEND:20250522T173500
-SUMMARY:Tch (w)
+SUMMARY:Tch 
 LOCATION:110
-DESCRIPTION:Technologia chemiczna\nType: Lecture\nNo: 20/20\nLecturer: mgr inż. Jolanta Chmielińska
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 39/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T160000
 DTEND:20250529T173500
-SUMMARY:Hofc (w)
+SUMMARY:Hofc 
 LOCATION:027
-DESCRIPTION:History of Chemistry\nType: Lecture\nNo: 9/10\nLecturer: dr hab. inż. Marek Suproniuk
+DESCRIPTION:Hofc\nRodzaj zajęć: -\nNumer zajęć: 13/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T160000
 DTEND:20250605T173500
-SUMMARY:Hofc (ć)
+SUMMARY:Hofc 
 LOCATION:027
-DESCRIPTION:History of Chemistry\nType: Exercises\nNo: 5/5\nLecturer: dr hab. inż. Marek Suproniuk
+DESCRIPTION:Hofc\nRodzaj zajęć: -\nNumer zajęć: 14/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T160000
 DTEND:20250612T173500
-SUMMARY:Hofc (w)
+SUMMARY:Hofc 
 LOCATION:027
-DESCRIPTION:History of Chemistry\nType: Lecture\nNo: 10/10\nLecturer: dr hab. inż. Marek Suproniuk
+DESCRIPTION:Hofc\nRodzaj zajęć: -\nNumer zajęć: 15/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
 DTEND:20250404T093500
-SUMMARY:Rch (L)
-DESCRIPTION:Ratownictwo chemiczne\nType: Laboratory\nNo: 5/6\nLecturer: BuE
+SUMMARY:Rch 
+LOCATION:
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 24/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250425T080000
 DTEND:20250425T093500
-SUMMARY:Rch
-DESCRIPTION:Ratownictwo chemiczne\nType: \nNo: 1/5\nLecturer: mgr inż. Monika Kuligowska
+SUMMARY:Rch 
+LOCATION:
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 25/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T080000
 DTEND:20250509T093500
-SUMMARY:Tch (ć)
+SUMMARY:Tch 
 LOCATION:108
-DESCRIPTION:Technologia chemiczna\nType: Exercises\nNo: 15/15\nLecturer: mgr inż. Adam Kapusta
+DESCRIPTION:Tch\nRodzaj zajęć: -\nNumer zajęć: 40/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T080000
 DTEND:20250530T093500
-SUMMARY:MPt (ć)
+SUMMARY:MPt 
 LOCATION:025
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Exercises\nNo: 10/13\nLecturer: SzL
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 22/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T080000
 DTEND:20250606T093500
-SUMMARY:Doz (w)
+SUMMARY:Doz 
 LOCATION:10
-DESCRIPTION:Doz\nType: Lecture\nNo: 15/15\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 30/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T095000
 DTEND:20250404T112500
-SUMMARY:Rch (L)
-DESCRIPTION:Ratownictwo chemiczne\nType: Laboratory\nNo: 6/6\nLecturer: BuE
+SUMMARY:Rch 
+LOCATION:
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 26/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T095000
 DTEND:20250411T112500
-SUMMARY:TP
-DESCRIPTION:Targi pracy WAT\nType: \nNo: 1/2\nLecturer: mgr inż. Tomasz Walczyna
+SUMMARY:TP 
+LOCATION:
+DESCRIPTION:TP\nRodzaj zajęć: -\nNumer zajęć: 1/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250425T095000
 DTEND:20250425T112500
-SUMMARY:Rch
-DESCRIPTION:Ratownictwo chemiczne\nType: \nNo: 2/5\nLecturer: mgr inż. Monika Kuligowska
+SUMMARY:Rch 
+LOCATION:
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 27/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T095000
 DTEND:20250509T112500
-SUMMARY:MPt (ć)
+SUMMARY:MPt 
 LOCATION:025
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Exercises\nNo: 11/13\nLecturer: SzL
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 23/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T095000
 DTEND:20250516T112500
-SUMMARY:Doz (L)
-DESCRIPTION:Doz\nType: Laboratory\nNo: 9/10\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+SUMMARY:Doz 
+LOCATION:
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 31/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T095000
 DTEND:20250530T112500
-SUMMARY:MPt (ć)
+SUMMARY:MPt 
 LOCATION:025
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Exercises\nNo: 12/13\nLecturer: SzL
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 24/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T095000
 DTEND:20250606T112500
-SUMMARY:Cśt (ć)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Exercises\nNo: 2/3\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 19/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T114000
 DTEND:20250411T131500
-SUMMARY:TP
-DESCRIPTION:Targi pracy WAT\nType: \nNo: 2/2\nLecturer: mgr inż. Tomasz Walczyna
+SUMMARY:TP 
+LOCATION:
+DESCRIPTION:TP\nRodzaj zajęć: -\nNumer zajęć: 2/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250425T114000
 DTEND:20250425T131500
-SUMMARY:Rch
-DESCRIPTION:Ratownictwo chemiczne\nType: \nNo: 3/5\nLecturer: mgr inż. Monika Kuligowska
+SUMMARY:Rch 
+LOCATION:
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 28/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T114000
 DTEND:20250509T131500
-SUMMARY:MPt (ć)
+SUMMARY:MPt 
 LOCATION:025
-DESCRIPTION:Modelowanie i projektowanie procesów technologicznych\nType: Exercises\nNo: 13/13\nLecturer: SzL
+DESCRIPTION:MPt\nRodzaj zajęć: -\nNumer zajęć: 25/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T114000
 DTEND:20250516T131500
-SUMMARY:Doz (L)
-DESCRIPTION:Doz\nType: Laboratory\nNo: 10/10\nLecturer: mgr inż. Bartłomiej Fliszkiewicz
+SUMMARY:Doz 
+LOCATION:
+DESCRIPTION:Doz\nRodzaj zajęć: -\nNumer zajęć: 32/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T114000
 DTEND:20250530T131500
-SUMMARY:Cśt (L)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Laboratory\nNo: 1/4\nLecturer: dr inż. Aleksandra Dziura
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 20/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T114000
 DTEND:20250606T131500
-SUMMARY:Cśt (L)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Laboratory\nNo: 2/4\nLecturer: dr inż. Aleksandra Dziura
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 21/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250425T133000
 DTEND:20250425T150500
-SUMMARY:Rch
-DESCRIPTION:Ratownictwo chemiczne\nType: \nNo: 4/5\nLecturer: mgr inż. Monika Kuligowska
+SUMMARY:Rch 
+LOCATION:
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 29/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T133000
 DTEND:20250509T150500
-SUMMARY:Cśt (ć)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Exercises\nNo: 3/3\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 22/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T133000
 DTEND:20250530T150500
-SUMMARY:Cśt (L)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Laboratory\nNo: 3/4\nLecturer: dr inż. Aleksandra Dziura
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 23/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T133000
 DTEND:20250606T150500
-SUMMARY:Cśt (L)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Laboratory\nNo: 4/4\nLecturer: dr inż. Aleksandra Dziura
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 24/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250425T160000
 DTEND:20250425T173500
-SUMMARY:Rch
-DESCRIPTION:Ratownictwo chemiczne\nType: \nNo: 5/5\nLecturer: mgr inż. Monika Kuligowska
+SUMMARY:Rch 
+LOCATION:
+DESCRIPTION:Rch\nRodzaj zajęć: -\nNumer zajęć: 30/?
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T160000
 DTEND:20250523T173500
-SUMMARY:Cśt (w)
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nType: Lecture\nNo: 16/16\nLecturer: dr hab. inż. prof. WAT Stanisław Popiel
+SUMMARY:Cśt 
+LOCATION:
+DESCRIPTION:Cśt\nRodzaj zajęć: -\nNumer zajęć: 25/?
 END:VEVENT
 END:VCALENDAR

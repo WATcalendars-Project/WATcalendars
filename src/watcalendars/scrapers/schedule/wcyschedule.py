@@ -10,15 +10,11 @@ from watcalendars.utils.logutils import OK, WARNING as W, ERROR as E, INFO, log_
 from watcalendars.utils.url_loader import load_url_from_config
 from watcalendars.utils.employees_loader import load_employees
 from watcalendars.utils.groups_loader import load_groups
-from watcalendars.utils.config import BLOCK_TIMES
+from watcalendars.utils.config import BLOCK_TIMES, TYPE_FULL_MAP, sanitize_filename
 from playwright.async_api import async_playwright
 from bs4 import BeautifulSoup
 from datetime import datetime
 from collections import defaultdict
-
-
-def sanitize_filename(filename):
-    return re.sub(r'[<>:"\\|?*]', "_", filename)
 
 
 def get_wcy_group_urls():
@@ -198,13 +194,7 @@ def parse_schedule(html, employees):
                     key = name_match.group(1)
                     lecturer_with_title = employees.get(key, key)
 
-            lesson_type_full = {
-                "(w)": "Wykład",
-                "(L)": "Laboratorium",
-                "(ć)": "Ćwiczenia",
-                "(P)": "Projekt",
-                "(inne)": "inne",
-            }.get(lesson_type, lesson_type)
+            lesson_type_full = TYPE_FULL_MAP.get(lesson_type, lesson_type)
 
             try:
                 date_obj = datetime.strptime(date_str, "%Y_%m_%d")
@@ -256,6 +246,7 @@ def parse_schedules(html_map):
             events_done += len(lessons)
             groups_done += 1
         return schedules
+        
     schedules = log_parsing("Parsing events for WCY schedules", log_parse_schedule, progress_fn=progress)
     return schedules
 
@@ -267,7 +258,7 @@ def save_schedule_to_ICS(group_id, lessons):
 
     with open(filename, "w", encoding="utf-8") as f:
         f.write("BEGIN:VCALENDAR\n")
-        f.write("VERSION:2.0\n")
+        f.write("VERSION:0.2.0\n")
         f.write("PRODID:-//scheduleWCY//EN\n")
         f.write("CALSCALE:GREGORIAN\n")
         f.write(f"X-WR-CALNAME:{group_id}\n")
@@ -335,4 +326,15 @@ if __name__ == "__main__":
     log(f"Saving all schedules to ICS files... ", save_all_schedules)
 
     duration = time.time() - start_time
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] WCY schedules scraper finished  |  duration: {duration:.2f}s")
+    total_seconds = int(duration)
+    hours, rem = divmod(total_seconds, 3600)
+    minutes, seconds = divmod(rem, 60)
+
+    if hours > 0:
+        HH_MM_SS = f"{hours:02}h{minutes:02}m{seconds:02}s"
+    elif minutes > 0:
+        HH_MM_SS = f"{minutes:02}m{seconds:02}s"
+    else:
+        HH_MM_SS = f"{seconds:02}s"
+
+    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] WCY schedules scraper finished (duration: {HH_MM_SS})")

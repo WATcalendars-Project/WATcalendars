@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY21IL1S0
@@ -2360,14 +2360,14 @@ DTSTART:20240628T095000
 DTEND:20240628T112500
 SUMMARY:Tal (E)
 LOCATION:237 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240704T080000
 DTEND:20240704T093500
 SUMMARY:ASI (E)
 LOCATION:314 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240925T095000
@@ -4509,21 +4509,21 @@ DTSTART:20250203T114000
 DTEND:20250203T131500
 SUMMARY:Ao (E)
 LOCATION:309 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250206T114000
 DTEND:20250206T131500
 SUMMARY:Med (E)
 LOCATION:223 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250211T114000
 DTEND:20250211T131500
 SUMMARY:mo (E)
 LOCATION:308 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250212T095000
@@ -6609,21 +6609,21 @@ DTSTART:20250626T095000
 DTEND:20250626T112500
 SUMMARY:Ajf (E)
 LOCATION:313 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T095000
 DTEND:20250630T112500
 SUMMARY:MeSK (E)
 LOCATION:317 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T114000
 DTEND:20250630T131500
 SUMMARY:MeSK (E)
 LOCATION:317 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T095000
@@ -6637,6 +6637,6 @@ DTSTART:20250702T095000
 DTEND:20250702T112500
 SUMMARY:dsk (E)
 LOCATION:314 S
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 END:VCALENDAR

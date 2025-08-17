@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY20KC1S0
@@ -1114,14 +1114,14 @@ DTSTART:20240425T080000
 DTEND:20240425T093500
 SUMMARY:STANAG (E)
 LOCATION:-
-DESCRIPTION:Egzamin STANAG\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Egzamin STANAG\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240425T095000
 DTEND:20240425T112500
 SUMMARY:STANAG (E)
 LOCATION:-
-DESCRIPTION:Egzamin STANAG\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Egzamin STANAG\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240425T114000
@@ -2178,28 +2178,28 @@ DTSTART:20240627T114000
 DTEND:20240627T131500
 SUMMARY:Pwst (E)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240627T133000
 DTEND:20240627T150500
 SUMMARY:Pwst (E)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240702T095000
 DTEND:20240702T112500
 SUMMARY:Zt (E)
 LOCATION:314 S
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240703T114000
 DTEND:20240703T131500
 SUMMARY:MeSK (E)
 LOCATION:316 S 317 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240926T133000
@@ -3732,7 +3732,7 @@ DTSTART:20241218T175000
 DTEND:20241218T192500
 SUMMARY:WF (E)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241219T080000
@@ -4341,14 +4341,14 @@ DTSTART:20250130T080000
 DTEND:20250130T093500
 SUMMARY:JA-T (E)
 LOCATION:-
-DESCRIPTION:Język angielski - test - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Język angielski - test - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T095000
 DTEND:20250130T112500
 SUMMARY:JA-T (E)
 LOCATION:-
-DESCRIPTION:Język angielski - test - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Język angielski - test - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T114000
@@ -4425,28 +4425,28 @@ DTSTART:20250203T160000
 DTEND:20250203T173500
 SUMMARY:PsbI (E)
 LOCATION:313 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T095000
 DTEND:20250204T112500
 SUMMARY:Dtu (E)
 LOCATION:313 S
-DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T080000
 DTEND:20250205T093500
 SUMMARY:Sr (E)
 LOCATION:313 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T114000
 DTEND:20250205T131500
 SUMMARY:BsIP (E)
 LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo sieci  IPv6\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Bezpieczeństwo sieci  IPv6\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250210T080000
@@ -4880,98 +4880,98 @@ DTSTART:20250331T080000
 DTEND:20250331T093500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 1/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T095000
 DTEND:20250331T112500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 2/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T114000
 DTEND:20250331T131500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 3/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 3/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T133000
 DTEND:20250331T150500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 4/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 4/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T160000
 DTEND:20250331T173500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 5/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 5/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T175000
 DTEND:20250331T192500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 6/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 6/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T194000
 DTEND:20250331T211500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 7/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 7/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T080000
 DTEND:20250402T093500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 8/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 8/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T095000
 DTEND:20250402T112500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 9/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 9/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T114000
 DTEND:20250402T131500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 10/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 10/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T133000
 DTEND:20250402T150500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 11/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 11/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T160000
 DTEND:20250402T173500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 12/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 12/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T175000
 DTEND:20250402T192500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 13/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 13/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T194000
 DTEND:20250402T211500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 14/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 14/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T114000
@@ -4985,6 +4985,6 @@ DTSTART:20250411T133000
 DTEND:20250411T150500
 SUMMARY:Wcy (E)
 LOCATION:106 65
-DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 END:VCALENDAR

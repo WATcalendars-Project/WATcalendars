@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY23IX1N1
@@ -988,28 +988,28 @@ DTSTART:20240622T080000
 DTEND:20240622T093500
 SUMMARY:F1 (E)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240622T095000
 DTEND:20240622T112500
 SUMMARY:Amt (E)
 LOCATION:307 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr Michał Klepczarek
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Michał Klepczarek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240623T095000
 DTEND:20240623T112500
 SUMMARY:Md2 (E)
 LOCATION:203 65
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Krzysztof Pszczoła
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Krzysztof Pszczoła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240629T080000
 DTEND:20240629T093500
 SUMMARY:WdP (E)
 LOCATION:307 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240629T095000
@@ -2094,42 +2094,42 @@ DTSTART:20250201T080000
 DTEND:20250201T093500
 SUMMARY:Aok (E)
 LOCATION:203 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250201T095000
 DTEND:20250201T112500
 SUMMARY:Bd (E)
 LOCATION:309 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250202T095000
 DTEND:20250202T112500
 SUMMARY:Als (E)
 LOCATION:309 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250202T114000
 DTEND:20250202T131500
 SUMMARY:SO (E)
 LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250208T080000
 DTEND:20250208T093500
 SUMMARY:F2 (E)
 LOCATION:aF S
-DESCRIPTION:Fizyka 2 - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250208T095000
 DTEND:20250208T112500
 SUMMARY:Swb (E)
 LOCATION:309 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250215T080000
@@ -3459,7 +3459,7 @@ DTSTART:20250628T080000
 DTEND:20250628T093500
 SUMMARY:Sck (E)
 LOCATION:120 65 121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250629T114000
@@ -3473,7 +3473,7 @@ DTSTART:20250705T080000
 DTEND:20250705T093500
 SUMMARY:IO (E)
 LOCATION:307 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250705T114000

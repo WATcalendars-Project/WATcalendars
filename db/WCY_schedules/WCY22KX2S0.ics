@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY22KX2S0
@@ -2416,28 +2416,28 @@ DTSTART:20240624T095000
 DTEND:20240624T112500
 SUMMARY:Zkst (E)
 LOCATION:085 S 078 S
-DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240624T114000
 DTEND:20240624T131500
 SUMMARY:Zkst (E)
 LOCATION:085 S
-DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240626T080000
 DTEND:20240626T093500
 SUMMARY:SO (E)
 LOCATION:314 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240626T095000
 DTEND:20240626T112500
 SUMMARY:SO (E)
 LOCATION:314 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240626T114000
@@ -2458,7 +2458,7 @@ DTSTART:20240704T114000
 DTEND:20240704T131500
 SUMMARY:Bd (E)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240704T133000
@@ -4789,14 +4789,14 @@ DTSTART:20250204T114000
 DTEND:20250204T131500
 SUMMARY:Sck (E)
 LOCATION:120 65 121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T133000
 DTEND:20250204T150500
 SUMMARY:Sck (E)
 LOCATION:120 65 121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250206T080000
@@ -4810,21 +4810,21 @@ DTSTART:20250206T095000
 DTEND:20250206T112500
 SUMMARY:Wek (E)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250214T095000
 DTEND:20250214T112500
 SUMMARY:IO (E)
 LOCATION:237 S 239 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250214T114000
 DTEND:20250214T131500
 SUMMARY:IO (E)
 LOCATION:237 S 239 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250218T114000

@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY24X*KDM
@@ -162,13 +162,13 @@ DTSTART:20250628T080000
 DTEND:20250628T093500
 SUMMARY:XKdm (E)
 LOCATION:106 65
-DESCRIPTION:XKompresja danych multimedialnych\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:XKompresja danych multimedialnych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250628T095000
 DTEND:20250628T112500
 SUMMARY:XKdm (E)
 LOCATION:106 65
-DESCRIPTION:XKompresja danych multimedialnych\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:XKompresja danych multimedialnych\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 END:VCALENDAR

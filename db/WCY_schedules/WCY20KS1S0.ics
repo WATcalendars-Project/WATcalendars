@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY20KS1S0
@@ -1149,14 +1149,14 @@ DTSTART:20240425T080000
 DTEND:20240425T093500
 SUMMARY:STANAG (E)
 LOCATION:-
-DESCRIPTION:Egzamin STANAG\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Egzamin STANAG\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240425T095000
 DTEND:20240425T112500
 SUMMARY:STANAG (E)
 LOCATION:-
-DESCRIPTION:Egzamin STANAG\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Egzamin STANAG\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240425T114000
@@ -2066,7 +2066,7 @@ DTSTART:20240703T114000
 DTEND:20240703T131500
 SUMMARY:MeSK (E)
 LOCATION:316 S 317 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241001T080000
@@ -3711,7 +3711,7 @@ DTSTART:20241218T175000
 DTEND:20241218T192500
 SUMMARY:WF (E)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241219T080000
@@ -4327,14 +4327,14 @@ DTSTART:20250130T080000
 DTEND:20250130T093500
 SUMMARY:JA-T (E)
 LOCATION:-
-DESCRIPTION:Język angielski - test - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Język angielski - test - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T095000
 DTEND:20250130T112500
 SUMMARY:JA-T (E)
 LOCATION:-
-DESCRIPTION:Język angielski - test - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Język angielski - test - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T114000
@@ -4411,21 +4411,21 @@ DTSTART:20250204T095000
 DTEND:20250204T112500
 SUMMARY:Dtu (E)
 LOCATION:313 S
-DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T095000
 DTEND:20250205T112500
 SUMMARY:skp2 (E)
 LOCATION:309 S
-DESCRIPTION:Systemy klucza publicznego 2\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Systemy klucza publicznego 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250207T080000
 DTEND:20250207T093500
 SUMMARY:Mnk (E)
 LOCATION:203 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. Marek Kojdecki
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250218T095000
@@ -4824,98 +4824,98 @@ DTSTART:20250401T080000
 DTEND:20250401T093500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 1/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T095000
 DTEND:20250401T112500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 2/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T114000
 DTEND:20250401T131500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 3/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 3/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T133000
 DTEND:20250401T150500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 4/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 4/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T160000
 DTEND:20250401T173500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 5/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 5/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T175000
 DTEND:20250401T192500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 6/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 6/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T194000
 DTEND:20250401T211500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 7/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 7/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T080000
 DTEND:20250403T093500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 8/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 8/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T095000
 DTEND:20250403T112500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 9/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 9/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T114000
 DTEND:20250403T131500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 10/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 10/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T133000
 DTEND:20250403T150500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 11/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 11/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T160000
 DTEND:20250403T173500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 12/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 12/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T175000
 DTEND:20250403T192500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 13/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 13/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T194000
 DTEND:20250403T211500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: (E)\nNumer zajęć: 14/14\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć: Egzamin\nNumer zajęć: 14/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T114000
@@ -4929,13 +4929,13 @@ DTSTART:20250416T114000
 DTEND:20250416T131500
 SUMMARY:Epc (E)
 LOCATION:085 S
-DESCRIPTION:Elements of Public-Key Cryptology\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Elements of Public-Key Cryptology\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T133000
 DTEND:20250416T150500
 SUMMARY:Epc (E)
 LOCATION:085 S
-DESCRIPTION:Elements of Public-Key Cryptology\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Elements of Public-Key Cryptology\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 END:VCALENDAR

@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY21KC1S0
@@ -2570,21 +2570,21 @@ DTSTART:20240627T095000
 DTEND:20240627T112500
 SUMMARY:SoU (E)
 LOCATION:120 65 121 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240703T080000
 DTEND:20240703T093500
 SUMMARY:Est (E)
 LOCATION:120 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240703T095000
 DTEND:20240703T112500
 SUMMARY:Est (E)
 LOCATION:120 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240704T095000
@@ -4978,14 +4978,14 @@ DTSTART:20250205T080000
 DTEND:20250205T093500
 SUMMARY:AśW (E)
 LOCATION:120 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T095000
 DTEND:20250205T112500
 SUMMARY:AśW (E)
 LOCATION:120 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250206T095000
@@ -4999,7 +4999,7 @@ DTSTART:20250206T133000
 DTEND:20250206T150500
 SUMMARY:MAST (E)
 LOCATION:314 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250207T080000
@@ -7141,42 +7141,42 @@ DTSTART:20250625T114000
 DTEND:20250625T131500
 SUMMARY:Zt (E)
 LOCATION:316 S
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T133000
 DTEND:20250625T150500
 SUMMARY:Zt (E)
 LOCATION:316 S
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T080000
 DTEND:20250626T093500
 SUMMARY:Pwst (E)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T095000
 DTEND:20250626T112500
 SUMMARY:Pwst (E)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T095000
 DTEND:20250630T112500
 SUMMARY:MeSK (E)
 LOCATION:317 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T114000
 DTEND:20250630T131500
 SUMMARY:MeSK (E)
 LOCATION:317 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250702T114000

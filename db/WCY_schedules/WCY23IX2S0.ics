@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY23IX2S0
@@ -2248,7 +2248,7 @@ DTSTART:20240624T095000
 DTEND:20240624T112500
 SUMMARY:Amt (E)
 LOCATION:313 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240624T133000
@@ -2269,14 +2269,14 @@ DTSTART:20240628T095000
 DTEND:20240628T112500
 SUMMARY:Md2 (E)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240701T080000
 DTEND:20240701T093500
 SUMMARY:WdP (E)
 LOCATION:317 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: Rafał Kasprzyk
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240701T095000
@@ -2304,14 +2304,14 @@ DTSTART:20240704T095000
 DTEND:20240704T112500
 SUMMARY:FI (E)
 LOCATION:314 S
-DESCRIPTION:Fizyka I - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Fizyka I - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240704T114000
 DTEND:20240704T131500
 SUMMARY:FI (E)
 LOCATION:314 S
-DESCRIPTION:Fizyka I - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Fizyka I - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240705T114000
@@ -4747,7 +4747,7 @@ DTSTART:20250203T114000
 DTEND:20250203T131500
 SUMMARY:Pwd (E)
 LOCATION:317 S
-DESCRIPTION:Przywództwo w dowodzeniu - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T114000
@@ -4761,56 +4761,56 @@ DTSTART:20250205T080000
 DTEND:20250205T093500
 SUMMARY:Aok (E)
 LOCATION:314 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T095000
 DTEND:20250205T112500
 SUMMARY:Aok (E)
 LOCATION:314 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250206T080000
 DTEND:20250206T093500
 SUMMARY:F2 (E)
 LOCATION:313 S
-DESCRIPTION:Fizyka 2 - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 1/4\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250206T095000
 DTEND:20250206T112500
 SUMMARY:F2 (E)
 LOCATION:139 S
-DESCRIPTION:Fizyka 2 - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 2/4\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250206T114000
 DTEND:20250206T131500
 SUMMARY:F2 (E)
 LOCATION:139 S
-DESCRIPTION:Fizyka 2 - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 3/4\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250206T133000
 DTEND:20250206T150500
 SUMMARY:F2 (E)
 LOCATION:139 S
-DESCRIPTION:Fizyka 2 - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 4/4\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250207T114000
 DTEND:20250207T131500
 SUMMARY:Als (E)
 LOCATION:317 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250207T133000
 DTEND:20250207T150500
 SUMMARY:Als (E)
 LOCATION:317 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250213T114000
@@ -4880,7 +4880,7 @@ DTSTART:20250220T095000
 DTEND:20250220T112500
 SUMMARY:Pwd (E)
 LOCATION:317 S
-DESCRIPTION:Przywództwo w dowodzeniu - (Egzamin) -\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250220T114000
@@ -7085,7 +7085,7 @@ DTSTART:20250624T080000
 DTEND:20250624T093500
 SUMMARY:Gk (E)
 LOCATION:313 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T095000
@@ -7106,14 +7106,14 @@ DTSTART:20250630T095000
 DTEND:20250630T112500
 SUMMARY:SO (E)
 LOCATION:314 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T114000
 DTEND:20250630T131500
 SUMMARY:SO (E)
 LOCATION:314 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T080000
@@ -7141,6 +7141,6 @@ DTSTART:20250703T114000
 DTEND:20250703T131500
 SUMMARY:Bd (E)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 END:VCALENDAR

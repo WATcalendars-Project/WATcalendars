@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY22IM1S1
@@ -1583,14 +1583,14 @@ DTSTART:20250204T080000
 DTEND:20250204T093500
 SUMMARY:Gk (E)
 LOCATION:316 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T095000
 DTEND:20250204T112500
 SUMMARY:Gk (E)
 LOCATION:316 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr inż. Marek Salamon
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T114000
@@ -1611,28 +1611,28 @@ DTSTART:20250206T095000
 DTEND:20250206T112500
 SUMMARY:SoU (E)
 LOCATION:120 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250210T095000
 DTEND:20250210T112500
 SUMMARY:Rou (E)
 LOCATION:203 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250210T114000
 DTEND:20250210T131500
 SUMMARY:Rou (E)
 LOCATION:203 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250212T095000
 DTEND:20250212T112500
 SUMMARY:PZS (E)
 LOCATION:120 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250212T114000
@@ -3018,42 +3018,42 @@ DTSTART:20250624T080000
 DTEND:20250624T093500
 SUMMARY:Psmo (E)
 LOCATION:316 S
-DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T080000
 DTEND:20250625T093500
 SUMMARY:zsw (E)
 LOCATION:121 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T095000
 DTEND:20250625T112500
 SUMMARY:zsw (E)
 LOCATION:121 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T114000
 DTEND:20250626T131500
 SUMMARY:TpsT (E)
 LOCATION:120 65
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 1/2\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T133000
 DTEND:20250626T150500
 SUMMARY:TpsT (E)
 LOCATION:120 65
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: (E)\nNumer zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T114000
 DTEND:20250630T131500
 SUMMARY:kdm (E)
 LOCATION:106 65
-DESCRIPTION:Kompresja danych multimedialnych\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Kompresja danych multimedialnych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250702T114000

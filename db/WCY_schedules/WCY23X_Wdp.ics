@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY23X*Wdp
@@ -113,7 +113,7 @@ DTSTART:20240622T095000
 DTEND:20240622T112500
 SUMMARY:WdP (E)
 LOCATION:227 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Tadeusz Kowiorski
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240706T133000

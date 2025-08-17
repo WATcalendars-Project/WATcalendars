@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:2.0
+VERSION:0.2.0
 PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY24X*MD2
@@ -113,7 +113,7 @@ DTSTART:20250701T114000
 DTEND:20250701T131500
 SUMMARY:XMd2 (E)
 LOCATION:204 65
-DESCRIPTION:XMatematyka dyskretna2\nRodzaj zajęć: (E)\nNumer zajęć: 1/1\nProwadzący: dr inż. Krzysztof Pszczoła
+DESCRIPTION:XMatematyka dyskretna2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Krzysztof Pszczoła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250920T114000
