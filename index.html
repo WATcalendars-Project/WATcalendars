@@ -46,14 +46,15 @@
       return url.replace(/^https?:/, 'webcal:');
     } catch { return url; }
   }
-  function fileLink(rawUrl, name) { 
+  function fileLink(rawUrl, pageUrl, name) { 
     const a = document.createElement('a'); 
     a.textContent = name; 
     a.style.textDecoration = 'underline';
     if (isIOS()) {
       // Przekierowanie do subskrypcji kalendarza na iOS
       // Użyj webcals dla HTTPS, aby uniknąć ostrzeżeń o niebezpiecznym połączeniu
-      const webcalUrl = toWebcal(rawUrl);
+      // Wymuś użycie adresu GitHub Pages dla subskrypcji
+      const webcalUrl = toWebcal(pageUrl);
       a.href = webcalUrl;
     } else {
       // Pobieranie pliku na innych urządzeniach
@@ -104,14 +105,14 @@
         return; 
       }
       ics.forEach(f => { 
-        let raw = f.download_url; 
-        if (!raw) {
-          const path = `${dir}/${f.name}`;
-          const encPath = path.split('/').map(encodeURIComponent).join('/');
-          raw = `https://dominikx2002.github.io/WATcalendars/db/${encPath}`;
-        }
+        // Zawsze budujemy adres GitHub Pages do subskrypcji
+        const path = `${dir}/${f.name}`;
+        const encPath = path.split('/').map(encodeURIComponent).join('/');
+        const pageUrl = `https://dominikx2002.github.io/WATcalendars/db/${encPath}`;
+        // Do pobierania preferuj bezpośredni download_url, w przeciwnym razie użyj Pages
+        const raw = f.download_url || pageUrl;
         const line = document.createElement('div'); 
-        line.appendChild(fileLink(raw, f.name)); 
+        line.appendChild(fileLink(raw, pageUrl, f.name)); 
         contentDiv.appendChild(line); 
       });
       const note = document.createElement('p'); 
