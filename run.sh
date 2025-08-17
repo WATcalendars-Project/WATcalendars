@@ -1,8 +1,8 @@
 #!/bin/bash
 
 echo -e ""
-echo -e "\033[1;32m         █     █░ ▄▄▄     ▄▄▄█████▓      \033[0;0mHello \033[1;31m$USER\033[1;0m@\033[1;31m$HOSTNAME\033[0m,"
-echo -e "\033[1;32m        ▓█░ █ ░█░▒████▄   ▓  ██▒ ▓▒      \033[0;0mwelcome to the \033[0;32mWATcalendars\033[0m project!"
+echo -e "\033[1;32m         █     █░ ▄▄▄     ▄▄▄█████▓      \033[0;0mWelcome to the \033[0;32mWATcalendars\033[0m project!"
+echo -e "\033[1;32m        ▓█░ █ ░█░▒████▄   ▓  ██▒ ▓▒      \033[0mversion: 0.2.0"
 echo -e "\033[1;32m        ▒█░ █ ░█ ▒██  ▀█▄ ▒ ▓██░ ▒░      \033[0;0m------------------------"
 echo -e "\033[1;32m        ░█░ █ ░█ ░██▄▄▄▄██░ ▓██▓ ░       \033[1;32mThis \033[0;32mopen-source\033[0m project,"
 echo -e "\033[1;32m       ░░██▒██▓  ▓█   ▓██▒ ▒██▒ ░        \033[0mallows you to \033[1mlearn\033[0m and \033[1mmanage\033[0m"
