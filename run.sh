@@ -78,13 +78,13 @@ fi
 if [ ! -d "venv" ]; then
     echo -e "[INFO]: Virtual environment not found." 
     echo -e "Creating python virtual environment in WATcalendars/venv..."
-    python3 -m venv venv
-    if [ ! -d "venv" ]; then
+    python3 -m venv .venv
+    if [ ! -d ".venv" ]; then
         echo -e "\033[0;31mE\033[0m: Failed to create virtual environment"
         exit 1
     fi
     echo -e "Activating virtual environment..."
-    source venv/bin/activate
+    source .venv/bin/activate
     if [ -z "$VIRTUAL_ENV" ]; then
         echo -e "\033[0;31mE\033[0m: Failed to activate virtual environment"
         exit 1
@@ -93,19 +93,19 @@ if [ ! -d "venv" ]; then
     fi
 else
     echo -e "[INFO]: Virtual environment found."
-    if [ ! -f "venv/bin/activate" ]; then
+    if [ ! -f ".venv/bin/activate" ]; then
         echo -e "[INFO]: Virtual environment is broken or not created."
         echo -e "Trying to reinstall python3-venv..."
         sudo apt-get install --reinstall python3-venv
-        rm -rf venv
+        rm -rf .venv
         echo -e "Recreating virtual environment..."
-        python3 -m venv venv
-        if [ ! -f "venv/bin/activate" ]; then
+        python3 -m venv .venv
+        if [ ! -f ".venv/bin/activate" ]; then
             echo -e "\033[0;31mE\033[0m: Failed to create virtual environment"
             exit 1
         fi
         echo -e "Activating virtual environment..."
-        source venv/bin/activate
+        source .venv/bin/activate
         if [ -z "$VIRTUAL_ENV" ]; then
             echo -e "\033[0;31mE\033[0m: Failed to activate virtual environment"
             exit 1
@@ -118,7 +118,7 @@ fi
 # Activate virtual environment for package installation
 if [ -z "$VIRTUAL_ENV" ]; then
     echo -e "Activating virtual environment..."
-    source venv/bin/activate
+    source .venv/bin/activate
     if [ -z "$VIRTUAL_ENV" ]; then
         echo -e "\033[0;31mE\033[0m: Failed to activate virtual environment"
         exit 1
@@ -127,39 +127,22 @@ else
     echo -e "\033[0;32mOK\033[0m: Virtual environment is already active"
 fi
 
-# Check if requirements.txt exists
-if [ ! -f "requirements.txt" ]; then
-    echo -e "\033[0;31mE\033[0m: requirements.txt file not found"
+echo -e "Installing project (and dependencies) from pyproject.toml..."
+# Upgrade pip tooling (optional but helps with PEP 517/518 builds)
+python -m pip install --upgrade pip setuptools wheel >/dev/null 2>&1 || true
+
+# Editable install so changes in src/ are picked up without reinstall
+if ! pip install -e .; then
+    echo -e "\033[0;31mE\033[0m: Failed to install project from pyproject.toml"
     exit 1
-fi
-
-# Check if dependencies in requirements.txt are already installed
-echo -e "Checking python modules in venv..."
-missing_packages=()
-while IFS= read -r package; do
-    if ! pip show "$package" > /dev/null 2>&1; then
-        missing_packages+=("$package")
-    fi
-done < requirements.txt
-
-if [ ${#missing_packages[@]} -eq 0 ]; then
-    echo -e "\033[0;32mOK\033[0m: All required Python modules are already installed"
 else
-    echo -e "\033[0;33mW\033[0m: Some required Python modules are missing: ${missing_packages[*]}"
-    # Install Python modules from requirements.txt
-    echo -e "Installing Python modules from requirements.txt..."
-    if ! pip install -r requirements.txt; then
-        echo -e "\033[0;31mE\033[0m: Failed to install Python modules from requirements.txt"
-        exit 1
-    else
-        echo -e "\033[0;32mOK\033[0m: Successfully installed Python modules from requirements.txt"
-    fi
+    echo -e "\033[0;32mOK\033[0m: Project installed from pyproject.toml"
 fi
 
 # Check if playwright was installed and install its dependencies (only if not already done)
 if pip show playwright > /dev/null 2>&1; then
     # Check if playwright browsers are already installed
-    if [ ! -f "venv/.playwright_installed" ]; then
+    if [ ! -f ".venv/.playwright_installed" ]; then
         echo -e "[INFO]: Installing Playwright dependencies..."
         if ! playwright install-deps; then
             echo -e "\033[0;31mE\033[0m: Failed to install Playwright dependencies"
@@ -167,7 +150,7 @@ if pip show playwright > /dev/null 2>&1; then
         else
             echo -e "\033[0;32mOK\033[0m: Successfully installed Playwright dependencies"
             # Create a marker file to avoid reinstalling
-            touch venv/.playwright_installed
+            touch .venv/.playwright_installed
         fi
     else
         echo -e "\033[0;32mOK\033[0m: Playwright dependencies already installed"

@@ -1,0 +1,73 @@
+## PEP 621 project metadata
+
+[project]
+name = "watcalendars"
+version = "0.2.0"
+description = "Scrapers and utilities to generate WAT calendars (ICS) from faculty schedules"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+authors = [
+	{ name = "Dominik Serafin" }
+]
+keywords = ["WAT", "calendar", "ICS", "scraper", "schedules"]
+classifiers = [
+	"License :: OSI Approved :: MIT License",
+	"Programming Language :: Python :: 3",
+	"Programming Language :: Python :: 3 :: Only",
+	"Programming Language :: Python :: 3.9",
+	"Programming Language :: Python :: 3.10",
+	"Programming Language :: Python :: 3.11",
+	"Programming Language :: Python :: 3.12",
+	"Operating System :: POSIX :: Linux",
+	"Intended Audience :: Developers",
+	"Topic :: Internet :: WWW/HTTP",
+	"Topic :: Office/Business :: Scheduling",
+]
+dependencies = [
+	"beautifulsoup4",
+	"playwright",
+]
+
+[project.urls]
+Homepage = "https://github.com/dominikx2002/WATcalendars"
+Repository = "https://github.com/dominikx2002/WATcalendars"
+Issues = "https://github.com/dominikx2002/WATcalendars/issues"
+
+# If you later add a CLI entrypoint, define it here, e.g.:
+# [project.scripts]
+# watcal-wcy = "watcalendars.scripts.wcy:main"
+
+[build-system]
+requires = ["hatchling>=1.18"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/watcalendars"]
+
+# --- Developer tooling (optional but handy) ---
+[tool.black]
+line-length = 100
+target-version = ["py39", "py310", "py311", "py312"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+select = [
+	"E",   # pycodestyle errors
+	"F",   # pyflakes
+	"I",   # isort
+	"B",   # flake8-bugbear
+	"UP",  # pyupgrade
+]
+ignore = []
+
+[tool.ruff.lint.isort]
+known-first-party = ["watcalendars"]
+combine-as-imports = true
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]
+asyncio_mode = "auto"
+
