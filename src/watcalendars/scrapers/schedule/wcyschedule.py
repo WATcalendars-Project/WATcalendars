@@ -257,7 +257,7 @@ def save_schedule_to_ICS(group_id, lessons):
 
     with open(filename, "w", encoding="utf-8") as f:
         f.write("BEGIN:VCALENDAR\n")
-        f.write("VERSION:0.2.0\n")
+        f.write("VERSION:2.0\n")
         f.write("PRODID:-//scheduleWCY//EN\n")
         f.write("CALSCALE:GREGORIAN\n")
         f.write(f"X-WR-CALNAME:{group_id}\n")

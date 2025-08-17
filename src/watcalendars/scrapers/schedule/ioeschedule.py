@@ -456,7 +456,7 @@ def save_schedule_to_ICS(group_id, lessons):
     filename = os.path.join(schedules_dir, f"{sanitize_filename(group_id)}.ics")
     with open(filename, "w", encoding="utf-8") as f:
         f.write("BEGIN:VCALENDAR\n")
-        f.write("VERSION:0.2.0\n")
+        f.write("VERSION:2.0\n")
         f.write("PRODID:-//scheduleIOE//EN\n")
         f.write("CALSCALE:GREGORIAN\n")
         f.write(f"X-WR-CALNAME:{group_id}\n")
