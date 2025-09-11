@@ -21,6 +21,10 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install -e .
+      
+      - name: Install Playwright browsers
+        run: |
+          playwright install
 
       - name: Run employees scraper
         run: |
