@@ -19,22 +19,22 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt || true
+          pip install --upgrade pip
+          pip install -e .
 
       - name: Run employees scraper
         run: |
-          python db/employees.txt || bash db/employees.txt
+          python src/watcalendars/scrapers/watemployees.py
 
       - name: Run group scrapers
         run: |
-          for f in db/groups/*; do
-            python "$f" || bash "$f"
+          for f in src/watcalendars/scrapers/groups/*; do
+            python "$f"
           done
 
       - name: Run schedules scrapers
         run: |
-          for d in db/*_schedules; do
-            for f in "$d"/*; do
-              python "$f" || bash "$f"
-            done
+          for d in src/watcalendars/scrapers/schedule/*; do
+            python "$d"
           done
+
