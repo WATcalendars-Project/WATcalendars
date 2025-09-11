@@ -1,0 +1,39 @@
+name: Daily Scrapers
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  run-scrapers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt || true
+
+      - name: Run employees scraper
+        run: |
+          python db/employees.txt || bash db/employees.txt
+
+      - name: Run group scrapers
+        run: |
+          for f in db/groups/*; do
+            python "$f" || bash "$f"
+          done
+
+      - name: Run schedules scrapers
+        run: |
+          for d in db/*_schedules; do
+            for f in "$d"/*; do
+              python "$f" || bash "$f"
+            done
+          done
