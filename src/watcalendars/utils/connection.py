@@ -6,7 +6,7 @@
 # url, description = load_url_from_config(key="wcy_groups", url_type="url")
 # test_connection_with_monitoring(url, description)
 
-from watcalendars.utils.logutils import OK, ERROR as E, GET, RESPONSE, log_entry, log
+from watcalendars.utils.logutils import OK, ERROR as E, GET, RESPONSE, log_entry, log, SUCCESS
 from playwright.sync_api import sync_playwright, Request, Response
 import time
 
@@ -52,7 +52,7 @@ def test_connection_with_monitoring(url: str, description: str = None):
             page.on("response", log_response)
             try:
                 start_time = time.time()
-                page.goto(url)     
+                page.goto(url, timeout=45000)
                 duration = time.time() - start_time
                 browser.close()
                 return duration
@@ -71,8 +71,8 @@ def test_connection_with_monitoring(url: str, description: str = None):
             total_size_str = f"{total_bytes} B"
         speed_size = total_bytes / duration
         speed = f"{speed_size / 1024:.1f} kB/s" if speed_size > 1024 else f"{speed_size:.1f} B/s"
+        print(f"{SUCCESS} Connection successful.")
         print(f"Summary: {request_count} requests, {response_count} responses")
         print(f"Received {total_size_str} in {duration:.2f}s ({speed})")
-        print(f"{OK} Connection successful.")
     except Exception as e:
         print(f"{E} Failed to connect to {display_name}: {e}")

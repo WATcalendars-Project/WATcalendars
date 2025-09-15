@@ -1,0 +1,44 @@
+name: Daily Full Scrape
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-scrapers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -e .
+      
+      - name: Install Playwright browsers
+        run: |
+          playwright install
+
+      - name: Run employees scraper
+        run: |
+          python src/watcalendars/watemployees.py
+
+      - name: Run group scrapers
+        run: |
+          for f in src/watcalendars/groups/*; do
+            python "$f"
+          done
+
+      - name: Run schedules scrapers
+        run: |
+          for f in src/watcalendars/calendar_*.py; do
+            python "$f"
+          done
+

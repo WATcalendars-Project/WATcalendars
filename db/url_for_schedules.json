@@ -1,0 +1,38 @@
+{
+    "ioe_schedule": [
+        {
+            "url_lato": "https://ioe.wat.edu.pl/plany/lato/{group}.htm",
+            "description": "IOE {group} schedule"
+        }
+    ],
+    "wcy_schedule": [
+        {
+            "url": "https://planzajec.wcy.wat.edu.pl/pl/rozklad?grupa_id={group}",
+            "description": "WCY {group} schedule"
+        }
+    ],
+    "wel_schedule": [
+        {
+            "url_lato": "https://plany.wel.wat.edu.pl/lato/{group}.htm",
+            "description": "WEL {group} schedule"
+        }
+    ],
+    "wim_schedule": [
+        {
+            "url_lato": "https://www.wim.wat.edu.pl/wp-content/uploads/rozklady/lato/{group}.htm",
+            "description": "WIM {group} schedule"
+        }
+    ],
+    "wlo_schedule": [
+        {
+            "url_lato": "https://wlo.wat.edu.pl/planzajec/letni/{group}.htm",
+            "description": "WLO {group} schedule"
+        }
+    ],
+    "wtc_schedule": [
+        {
+            "url": "https://www.wtc.wat.edu.pl/Plany/{group}.htm",
+            "description": "WTC {group} schedule"
+        }
+    ]
+}

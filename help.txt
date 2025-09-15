@@ -1,0 +1,190 @@
+================================================================================
+                           WATcalendars - Command Reference
+================================================================================
+
+This help file contains all possible bash commands you can execute after running
+setup.sh to use the WATcalendars project.
+
+================================================================================
+1. INITIAL SETUP
+================================================================================
+
+1.1 Run the setup script (only once):
+----------------------------------------
+./setup.sh
+
+This will:
+- Install system dependencies (python3, pip3, python3-venv)
+- Create a virtual environment in .venv/
+- Install Python dependencies (beautifulsoup4, playwright)
+- Install Playwright browser binaries
+
+================================================================================
+2. ACTIVATING THE ENVIRONMENT
+================================================================================
+
+2.1 Before running any commands, activate the virtual environment:
+-----------------------------------------------------------------
+source .venv/bin/activate
+
+2.2 To check if environment is active:
+-------------------------------------
+echo $VIRTUAL_ENV
+# Should show: /home/dominik/WATcalendars/.venv
+
+2.3 To deactivate when done:
+----------------------------
+deactivate
+
+================================================================================
+3. MAIN CLI INTERFACE (Recommended)
+================================================================================
+
+3.1 Show help and available options:
+-----------------------------------
+PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.main --help
+# or
+PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.main
+
+3.2 Scrape employees data:
+-------------------------
+PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.main -e
+
+3.3 Scrape groups for one faculty:
+---------------------------------
+PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.main -g wcy
+PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.main -g ioe
+PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.main -g wel
+
+3.4 Scrape groups for multiple faculties:
+-----------------------------------------
+PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.main -g wcy ioe wel
+
+3.5 Scrape calendars for one faculty:
+------------------------------------
+PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.main -c wcy
+PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.main -c ioe
+PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.main -c wel
+
+3.6 Scrape calendars for multiple faculties:
+--------------------------------------------
+PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.main -c wcy ioe wel
+
+3.7 Combine operations:
+----------------------
+PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.main -g wcy -c wcy
+PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.main -g wcy -c wcy -e
+PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.main -g ioe wcy wel -c ioe wcy wel -e
+
+Available faculties: ioe, wcy, wel, wig, wim, wlo, wml, wtc
+
+================================================================================
+4. INDIVIDUAL MODULE COMMANDS
+================================================================================
+
+4.1 Employee scraper:
+--------------------
+cd src && PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.watemployees
+
+4.2 Groups scrapers (individual faculties):
+-------------------------------------------
+cd src && PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.groups.groups_ioe
+cd src && PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.groups.groups_wcy
+cd src && PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.groups.groups_wel
+cd src && PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.groups.groups_wig
+cd src && PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.groups.groups_wim
+cd src && PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.groups.groups_wlo
+cd src && PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.groups.groups_wml
+cd src && PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.groups.groups_wtc
+
+4.3 Calendar scrapers (individual faculties):
+---------------------------------------------
+cd src && PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.calendar_ioe
+cd src && PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.calendar_wcy
+cd src && PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.calendar_wel
+cd src && PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.calendar_wig
+cd src && PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.calendar_wim
+cd src && PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.calendar_wlo
+cd src && PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.calendar_wml
+cd src && PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.calendar_wtc
+
+================================================================================
+5. TYPICAL WORKFLOW
+================================================================================
+
+5.1 Complete setup and first run:
+---------------------------------
+./setup.sh
+source .venv/bin/activate
+PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.main -g wcy -c wcy -e
+
+5.2 Regular daily usage:
+-----------------------
+source .venv/bin/activate
+PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.main -g wcy
+PYTHONPATH=/home/dominik/WATcalendars/src python3 -m watcalendars.main -c wcy
+
+5.3 Using pip install approach:
+------------------------------
+./setup.sh
+source .venv/bin/activate
+pip install -e .
+watcalendars -g wcy -c wcy -e
+deactivate
+
+================================================================================
+6. TROUBLESHOOTING
+================================================================================
+
+6.1 If command not found:
+-------------------------
+# Make sure virtual environment is active
+source .venv/bin/activate
+
+# Make sure PYTHONPATH is set
+export PYTHONPATH=/home/dominik/WATcalendars/src
+
+6.2 If import errors occur:
+---------------------------
+cd /home/dominik/WATcalendars
+source .venv/bin/activate
+cd src
+
+6.3 If Playwright errors occur:
+------------------------------
+source .venv/bin/activate
+playwright install
+
+6.4 Check installation:
+----------------------
+source .venv/bin/activate
+python3 -c "import watcalendars; print('Success')"
+python3 -c "import playwright; print('Playwright OK')"
+python3 -c "import bs4; print('BeautifulSoup OK')"
+
+================================================================================
+7. FILE LOCATIONS
+================================================================================
+
+7.1 Generated data files:
+-------------------------
+db/employees.json                    # Employee data
+db/groups_url/                       # Groups data per faculty
+db/calendars/                        # Generated .ics calendar files
+db/schedules/                        # Raw schedule data
+
+7.2 Configuration files:
+------------------------
+db/url_for_employees.json            # Employee scraper URLs
+db/url_for_group.json                # Group scraper URLs
+db/url_for_schedules.json            # Schedule scraper URLs
+
+7.3 Source code:
+---------------
+src/watcalendars/                    # Main package
+src/watcalendars/main.py             # CLI interface
+src/watcalendars/groups/             # Group scrapers
+src/watcalendars/utils/              # Utility modules
+
+
+REMEMBER: Always activate the virtual environment first!

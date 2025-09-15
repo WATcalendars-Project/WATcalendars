@@ -5,12 +5,6 @@ import threading
 import asyncio
 from time import perf_counter
 
-# Define ANSI color codes for terminal output
-# These can be used to colorize log messages in the terminal.
-# usage:
-# print(f"{RED}red color{RESET}")
-
-# Basic colors (30-37)
 BLACK = '\033[30m'
 RED = '\033[31m'
 GREEN = '\033[32m'
@@ -20,7 +14,6 @@ MAGENTA = '\033[35m'
 CYAN = '\033[36m'
 WHITE = '\033[37m'
 
-# Bright colors (90-97)
 BRIGHT_BLACK = '\033[90m'
 BRIGHT_RED = '\033[91m'
 BRIGHT_GREEN = '\033[92m'
@@ -30,7 +23,6 @@ BRIGHT_MAGENTA = '\033[95m'
 BRIGHT_CYAN = '\033[96m'
 BRIGHT_WHITE = '\033[97m'
 
-# Background colors (40-47)
 BG_BLACK = '\033[40m'
 BG_RED = '\033[41m'
 BG_GREEN = '\033[42m'
@@ -40,7 +32,6 @@ BG_MAGENTA = '\033[45m'
 BG_CYAN = '\033[46m'
 BG_WHITE = '\033[47m'
 
-# Bright background colors (100-107)
 BG_BRIGHT_BLACK = '\033[100m'
 BG_BRIGHT_RED = '\033[101m'
 BG_BRIGHT_GREEN = '\033[102m'
@@ -50,7 +41,6 @@ BG_BRIGHT_MAGENTA = '\033[105m'
 BG_BRIGHT_CYAN = '\033[106m'
 BG_BRIGHT_WHITE = '\033[107m'
 
-# Text styles
 BOLD = '\033[1m'
 DIM = '\033[2m'
 ITALIC = '\033[3m'
@@ -61,31 +51,21 @@ STRIKETHROUGH = '\033[9m'
 
 RESET = '\033[0m'
 
-GET = f"{MAGENTA}→{RESET}"
+GET = f"{BRIGHT_BLUE}→{RESET}"
 RESPONSE = f"{BRIGHT_BLUE}←{RESET}"
-ERROR = f"{RED}E{RESET}:"
-WARNING = f"{BRIGHT_YELLOW}W{RESET}:"
-INFO = f"[{BRIGHT_BLUE}INFO{RESET}]:"
-OK = f"{GREEN}OK{RESET}:"
+ERROR = f"{RED}==> ERROR{RESET}:"
+WARNING = f"{BRIGHT_YELLOW}==> WARNING{RESET}:"
+INFO = f"[{BRIGHT_BLUE}==> INFO{RESET}]:"
+OK = f"{GREEN}==> OK{RESET}:"
+SUCCESS = f"{GREEN}==> SUCCESFULL{RESET}:"
 
-
-# Function to entry log message at the top of "log" or just add message log nad blank line under
-# Use:
-# logs = []
-# log_entry(f"{OK} Task finished.", logs)
 def log_entry(message, logs_list=None):
     if logs_list is not None:
         logs_list.append(message)
     print(f"\r{' ' * 80}\r{message}")
 
-
-# Function to run a task with a spinner
-# Use:
-# def my_task():
-#   ...your task...
-# log("Checking dependencies... ", my_task)
 def log(task_name, task_fn, progress_info=None):
-    spin_chars = ['|', '/', '-', '\\']
+    spin_chars = ['|', '|', '|', '|', '/', '/', '/', '/', '-', '-', '-', '-', '\\', '\\', '\\', '\\']
     result = {"done": False, "return_value": None, "exception": None}
 
     def wrapper():
@@ -122,7 +102,7 @@ def log(task_name, task_fn, progress_info=None):
         max_line_length = max(max_line_length, len(current_line))
         sys.stdout.write(f"\r{' ' * max_line_length}\r{current_line}")
         sys.stdout.flush()
-        time.sleep(0.2)
+        time.sleep(0.05)
         i += 1
 
     t.join()
@@ -140,12 +120,6 @@ def log(task_name, task_fn, progress_info=None):
     
     return result["return_value"]
 
-
-# Function to run a task with a spinner with async mode
-# Use:
-# stop_event, spinner_task = start_spinner("Scraping groups", len(pairs), lambda: done, interval=0.2)
-# stop_event.set()
-# await spinner_task
 async def _spinner_loop(label: str, total: int, get_done, stop_event: asyncio.Event, interval: float = 0.2, frames=None):
     frames = ["-", "\\", "|", "/"]
     i = 0
@@ -186,14 +160,6 @@ def start_spinner(label: str, total: int, get_done, interval: float = 0.2, frame
     task = asyncio.create_task(_spinner_loop(label, total, get_done, stop_event, interval, frames))
     return stop_event, task
 
-
-# Function to run a task with a spinner and progress
-# Usage:
-# def progress():
-#     return f"({groups_done}/{total_groups})"
-# def my_task():
-#   ...your_task...
-# log_parsing("Parsing events for WCY schedules", my_task, progress_fn=progress)
 def log_parsing(task_name, task_fn, progress_fn, interval: float = 0.2, frames = None):
     frames = frames or ["-", "\\", "|", "/"]
     result = {"done": False, "return_value": None, "exception": None}
@@ -240,3 +206,45 @@ def log_parsing(task_name, task_fn, progress_fn, interval: float = 0.2, frames =
     if result["exception"]:
         raise result["exception"]
     return result["return_value"]
+
+
+class spinner_progress:
+    """Simple progress spinner for synchronous operations with real-time animation"""
+    
+    def __init__(self, label: str, total: int, frames=None, interval: float = 0.2):
+        self.label = label
+        self.total = total
+        self.current = 0
+        self.frames = frames or ["-", "\\", "|", "/"]
+        self.frame_index = 0
+        self.interval = interval
+        self.timer = None
+        self.running = False
+        self._start_spinner()
+    
+    def _start_spinner(self):
+        """Start the background spinner animation"""
+        self.running = True
+        self._animate()
+    
+    def _animate(self):
+        """Animate the spinner"""
+        if self.running:
+            frame = self.frames[self.frame_index % len(self.frames)]
+            sys.stdout.write(f"\r{self.label} ({self.current}/{self.total})... {frame}")
+            sys.stdout.flush()
+            self.frame_index += 1
+            self.timer = threading.Timer(self.interval, self._animate)
+            self.timer.start()
+    
+    def update(self, current: int):
+        """Update current progress"""
+        self.current = current
+    
+    def finish(self):
+        """Finish progress display"""
+        self.running = False
+        if self.timer:
+            self.timer.cancel()
+        sys.stdout.write(f"\r{self.label} ({self.total}/{self.total})... done\n")
+        sys.stdout.flush()
