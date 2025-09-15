@@ -14,7 +14,7 @@ from watcalendars.utils.logutils import (
 )
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 from playwright.async_api import async_playwright, TimeoutError as AsyncPlaywrightTimeoutError
-from watcalendars.utils.writers.screenshot_writer import save_screenshot, save_screenshot_async, get_target_dir
+from watcalendars.utils.writers.screenshot_writer import save_screenshot_async, get_target_dir
 
 
 def scrape_html(url, user_agent=None, timeout=25000, logs=None):
