@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   run-scrapers:
     runs-on: ubuntu-latest
@@ -42,3 +45,11 @@ jobs:
             python "$f"
           done
 
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'Github Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add -A db
+          git commit -m "Automated daily scrape" || echo "No changes to commit"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+          git push origin HEAD:"${GITHUB_REF_NAME}"
