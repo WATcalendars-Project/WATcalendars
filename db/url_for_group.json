@@ -2,6 +2,7 @@
     "ioe_groups": [
         {
             "url_lato": "https://ioe.wat.edu.pl/plany/lato/index.xml",
+            "url_zima": "https://ioe.wat.edu.pl/plany/zima/index.xml",
             "description": "IOE groups"
         }
     ],
@@ -14,18 +15,21 @@
     "wel_groups": [
         {
             "url_lato": "https://plany.wel.wat.edu.pl/lato/index.xml",
+            "url_zima": "https://plany.wel.wat.edu.pl/zima/index.xml",
             "description": "WEL groups"
         }
     ],
     "wim_groups": [
         {
             "url_lato": "https://www.wim.wat.edu.pl/wp-content/uploads/rozklady/lato/index.xml",
+            "url_zima": "https://www.wim.wat.edu.pl/wp-content/uploads/rozklady/zima/index.xml",
             "description": "WIM groups"
         }
     ],
     "wlo_groups": [
         {
             "url_lato": "https://wlo.wat.edu.pl/planzajec/letni/index.xml",
+            "url_zima": "https://wlo.wat.edu.pl/planzajec/zimowy24-25/index.xml",
             "description": "WLO groups"
         }
     ],
