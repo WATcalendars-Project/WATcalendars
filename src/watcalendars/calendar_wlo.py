@@ -24,7 +24,7 @@ def get_wlo_group_urls():
     """Generate WLO group URLs."""
     groups = load_groups("wlo")
     base_url, _ = load_url_from_config(
-        config_file=SCHEDULES_CONFIG, key="wlo_schedule", url_type="url_lato"
+        config_file=SCHEDULES_CONFIG, key="wlo_schedule", url_type="url_zima"
     )
     result = []
     
@@ -47,7 +47,7 @@ async def main():
     print("")
 
     url, description = load_url_from_config(
-        config_file=GROUPS_CONFIG, key="wlo_groups", url_type="url_lato"
+        config_file=GROUPS_CONFIG, key="wlo_groups", url_type="url_zima"
     )
     test_connection_with_monitoring(url, description)
     print("")
@@ -58,7 +58,7 @@ async def main():
         sys.exit(1)
     
     base_url, _ = load_url_from_config(
-        config_file=SCHEDULES_CONFIG, key="wlo_schedule", url_type="url_lato"
+        config_file=SCHEDULES_CONFIG, key="wlo_schedule", url_type="url_zima"
     )
     print(f"Groups to scrape: {len(pairs)} (using async scraper for better performance)")
     print(f"URL: {base_url}")

@@ -18,7 +18,7 @@ if __name__ == '__main__':
     url, description = load_url_from_config(
         config_file=GROUPS_CONFIG,
         key="wlo_groups",
-        url_type="url_lato"
+        url_type="url_zima"
     )
     test_connection_with_monitoring(url, description)
     print("")
@@ -40,7 +40,7 @@ if __name__ == '__main__':
                 filename_prefix="wlo",
                 url_config_path=SCHEDULES_CONFIG,
                 schedule_key="wlo_schedule",
-                schedule_type="url_lato"
+                schedule_type="url_zima"
             )
         else:
             print(f"{ERROR} No data to save.")

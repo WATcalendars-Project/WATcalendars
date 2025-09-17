@@ -35,13 +35,13 @@ async def main():
     print("")
 
     url, description = load_url_from_config(
-        config_file=GROUPS_CONFIG, key="ioe_groups", url_type="url_lato"
+        config_file=GROUPS_CONFIG, key="ioe_groups", url_type="url_zima"
     )
     test_connection_with_monitoring(url, description)
     print("")
 
     base_url, _ = load_url_from_config(
-        config_file=SCHEDULES_CONFIG, key="ioe_schedule", url_type="url_lato"
+        config_file=SCHEDULES_CONFIG, key="ioe_schedule", url_type="url_zima"
     )
     pairs = get_ioe_group_urls(base_url)
     if not pairs:
