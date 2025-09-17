@@ -2,6 +2,7 @@
     "ioe_schedule": [
         {
             "url_lato": "https://ioe.wat.edu.pl/plany/lato/{group}.htm",
+            "url_zima": "https://ioe.wat.edu.pl/plany/lato/{group}.htm",
             "description": "IOE {group} schedule"
         }
     ],
@@ -14,18 +15,21 @@
     "wel_schedule": [
         {
             "url_lato": "https://plany.wel.wat.edu.pl/lato/{group}.htm",
+            "url_zima": "https://plany.wel.wat.edu.pl/zima/{group}.htm",
             "description": "WEL {group} schedule"
         }
     ],
     "wim_schedule": [
         {
             "url_lato": "https://www.wim.wat.edu.pl/wp-content/uploads/rozklady/lato/{group}.htm",
+            "url_zima": "https://www.wim.wat.edu.pl/wp-content/uploads/rozklady/zima/{group}.htm",
             "description": "WIM {group} schedule"
         }
     ],
     "wlo_schedule": [
         {
             "url_lato": "https://wlo.wat.edu.pl/planzajec/letni/{group}.htm",
+            "url_zima": "https://wlo.wat.edu.pl/planzajec/zimowy24-25/{group}.htm",
             "description": "WLO {group} schedule"
         }
     ],
