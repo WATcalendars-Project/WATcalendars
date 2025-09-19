@@ -384,9 +384,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250119T114000
 DTEND:20250119T131500
-SUMMARY:Sp* (ć)
-LOCATION:3/ 54
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+SUMMARY:Otw (w)
+LOCATION:5/ 20
+DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250202T114000
@@ -414,7 +414,7 @@ DTSTART:20251006T133000
 DTEND:20251006T150500
 SUMMARY:Otw (w)
 LOCATION:3/ 23a
-DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: dr inż. Pankiewicz Bolesław
+DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T133000
@@ -442,14 +442,14 @@ DTSTART:20251117T133000
 DTEND:20251117T150500
 SUMMARY:Otw (w)
 LOCATION:3/ 54
-DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: dr inż. Pankiewicz Bolesław
+DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T133000
 DTEND:20251124T150500
 SUMMARY:Sp* (ć)
 LOCATION:1/ 21
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T133000
@@ -463,14 +463,14 @@ DTSTART:20251208T133000
 DTEND:20251208T150500
 SUMMARY:Sp* (ć)
 LOCATION:1/ 21
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T133000
 DTEND:20251215T150500
 SUMMARY:Otw (w)
 LOCATION:15/ 23a
-DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: dr inż. Pankiewicz Bolesław
+DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T133000
@@ -496,9 +496,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250119T133000
 DTEND:20250119T150500
-SUMMARY:Otw (w)
-LOCATION:6/ 23a
-DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: dr inż. Pankiewicz Bolesław
+SUMMARY:Sp* (ć)
+LOCATION:55/ 62
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250202T133000
@@ -774,6 +774,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 47/161
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250113T080000
+DTEND:20250113T093500
+SUMMARY:Sp* (ć)
+LOCATION:55/ 62
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250217T080000
 DTEND:20250217T093500
 SUMMARY:E-L (Zp.)
@@ -996,13 +1003,6 @@ DTEND:20250106T131500
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 57/161
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250113T114000
-DTEND:20250113T131500
-SUMMARY:Sp* (ć)
-LOCATION:52/ 62
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T114000
@@ -1537,6 +1537,13 @@ LOCATION:42/ 54A
 DESCRIPTION:Logistyka usług\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251126T095000
+DTEND:20251126T112500
+SUMMARY:Sp* (ć)
+LOCATION:51/ 62
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251203T095000
 DTEND:20251203T112500
 SUMMARY:E-L (ć)
@@ -1623,9 +1630,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T114000
 DTEND:20251112T131500
-SUMMARY:Sp* (ć)
-LOCATION:1/ 21
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+SUMMARY:App (L)
+LOCATION:6/ 23a
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T114000
@@ -1768,6 +1775,13 @@ LOCATION:5/ 23a
 DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251217T133000
+DTEND:20251217T150500
+SUMMARY:Sp* (ć)
+LOCATION:52/ 62
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251224T133000
 DTEND:20251224T150500
 SUMMARY:I 
@@ -1815,13 +1829,6 @@ DTEND:20251105T173500
 SUMMARY:Otw (ć)
 LOCATION:6/ 23a
 DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Pankiewicz Bolesław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251112T160000
-DTEND:20251112T173500
-SUMMARY:App (L)
-LOCATION:6/ 23a
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T160000
@@ -2120,16 +2127,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T114000
 DTEND:20251030T131500
-SUMMARY:Sp* (ć)
-LOCATION:1/ 21
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+SUMMARY:Lu (w)
+LOCATION:51/ 62
+DESCRIPTION:Logistyka usług\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T114000
 DTEND:20251106T131500
 SUMMARY:Lu (w)
 LOCATION:09/ 54A
-DESCRIPTION:Logistyka usług\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Sobczak Iwona
+DESCRIPTION:Logistyka usług\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T114000
@@ -2162,9 +2169,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T114000
 DTEND:20251218T131500
-SUMMARY:Sp* (ć)
-LOCATION:3/ 54
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+SUMMARY:Et. (ć)
+LOCATION:24/ 135
+DESCRIPTION:Ekonomika transportu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T114000
@@ -2225,9 +2232,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T133000
 DTEND:20251030T150500
-SUMMARY:Lu (w)
-LOCATION:09/ 54A
-DESCRIPTION:Logistyka usług\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr Sobczak Iwona
+SUMMARY:Sp* (ć)
+LOCATION:1/ 21
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T133000
@@ -2323,13 +2330,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T160000
 DTEND:20251211T173500
-SUMMARY:Et. (ć)
-LOCATION:55/ 62
-DESCRIPTION:Ekonomika transportu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: inż. Kochański Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251218T160000
-DTEND:20251218T173500
 SUMMARY:Et. (ć)
 LOCATION:55/ 62
 DESCRIPTION:Ekonomika transportu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: inż. Kochański Tomasz

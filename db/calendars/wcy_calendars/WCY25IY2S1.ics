@@ -396,6 +396,13 @@ LOCATION:252 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251104T114000
+DTEND:20251104T131500
+SUMMARY:PGI (ć)
+LOCATION:116/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251105T095000
 DTEND:20251105T112500
 SUMMARY:Mat I (ć)
@@ -442,7 +449,7 @@ DTSTART:20251106T114000
 DTEND:20251106T131500
 SUMMARY:PGI (ć)
 LOCATION:120/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T095000
@@ -457,6 +464,20 @@ DTEND:20251107T131500
 SUMMARY:MD1 (ć)
 LOCATION:201 65
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Krzysztof Pszczoła
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251107T160000
+DTEND:20251107T173500
+SUMMARY:PGI (ć)
+LOCATION:29/ 54 30/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251107T175000
+DTEND:20251107T192500
+SUMMARY:PGI (ć)
+LOCATION:29/ 54 30/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T080000
@@ -655,32 +676,11 @@ LOCATION:252 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T175000
-DTEND:20251120T192500
-SUMMARY:PGI (ć)
-LOCATION:29/ 54 30/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T194000
-DTEND:20251120T211500
-SUMMARY:PGI (ć)
-LOCATION:29/ 54 30/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251121T080000
 DTEND:20251121T093500
 SUMMARY:M II (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 7/17\nProwadzący: dr Joanna Piasecka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T095000
-DTEND:20251121T112500
-SUMMARY:PGI (ć)
-LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T114000

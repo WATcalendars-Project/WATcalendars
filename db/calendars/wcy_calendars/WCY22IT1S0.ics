@@ -2580,13 +2580,6 @@ LOCATION:011 65
 DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251010T095000
-DTEND:20251010T112500
-SUMMARY:MAST (P)
-LOCATION:106 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/8\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251010T114000
 DTEND:20251010T131500
 SUMMARY:WF (ć)
@@ -2816,13 +2809,6 @@ DTEND:20251023T173500
 SUMMARY:AśW (L)
 LOCATION:125 65
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/20\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251024T080000
-DTEND:20251024T093500
-SUMMARY:MAST (P)
-LOCATION:011 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/8\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T095000
@@ -3070,6 +3056,13 @@ LOCATION:203 65
 DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251105T160000
+DTEND:20251105T173500
+SUMMARY:MAST (P)
+LOCATION:120 65
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/8\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251105T175000
 DTEND:20251105T192500
 SUMMARY:WF (w)
@@ -3103,13 +3096,6 @@ DTEND:20251106T173500
 SUMMARY:Ppz (L)
 LOCATION:120 65
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: Paweł Głębocki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251107T080000
-DTEND:20251107T093500
-SUMMARY:MAST (P)
-LOCATION:120 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/8\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T095000
@@ -3308,6 +3294,13 @@ LOCATION:203 65
 DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251119T160000
+DTEND:20251119T173500
+SUMMARY:MAST (P)
+LOCATION:120 65
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/8\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251119T175000
 DTEND:20251119T192500
 SUMMARY:WF (w)
@@ -3417,7 +3410,7 @@ DTSTART:20251125T095000
 DTEND:20251125T112500
 SUMMARY:MAST (P)
 LOCATION:125 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/8\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/8\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T114000
@@ -3551,6 +3544,13 @@ DTEND:20251201T173500
 SUMMARY:TsT (L)
 LOCATION:121 65
 DESCRIPTION:Technologie sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251201T175000
+DTEND:20251201T192500
+SUMMARY:MAST (P)
+LOCATION:121 65
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/8\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T080000

@@ -2839,6 +2839,13 @@ LOCATION:18 63
 DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251119T133000
+DTEND:20251119T150500
+SUMMARY:SO (L)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/13\nProwadzący: Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251120T095000
 DTEND:20251120T112500
 SUMMARY:Aok (w)
@@ -2851,13 +2858,6 @@ DTEND:20251120T131500
 SUMMARY:SO (w)
 LOCATION:317 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T133000
-DTEND:20251120T150500
-SUMMARY:SO (L)
-LOCATION:125 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/13\nProwadzący: Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T080000

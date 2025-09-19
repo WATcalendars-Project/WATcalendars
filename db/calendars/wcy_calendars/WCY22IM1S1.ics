@@ -1418,6 +1418,20 @@ LOCATION:011 65
 DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/22\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251009T133000
+DTEND:20251009T150500
+SUMMARY:Nm (w)
+LOCATION:203 65
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251009T160000
+DTEND:20251009T173500
+SUMMARY:Nm (w)
+LOCATION:203 65
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251010T160000
 DTEND:20251010T173500
 SUMMARY:Pmsk (L)
@@ -1450,28 +1464,28 @@ DTSTART:20251014T114000
 DTEND:20251014T131500
 SUMMARY:Nm (w)
 LOCATION:205 65
-DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T133000
 DTEND:20251014T150500
 SUMMARY:Nm (w)
 LOCATION:205 65
-DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T133000
 DTEND:20251015T150500
 SUMMARY:Nm (L)
 LOCATION:011 65
-DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T160000
 DTEND:20251015T173500
 SUMMARY:Nm (L)
 LOCATION:011 65
-DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T160000
@@ -1516,6 +1530,20 @@ LOCATION:121 65
 DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/22\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251023T175000
+DTEND:20251023T192500
+SUMMARY:Nm (L)
+LOCATION:011 65
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251023T194000
+DTEND:20251023T211500
+SUMMARY:Nm (L)
+LOCATION:011 65
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251027T160000
 DTEND:20251027T173500
 SUMMARY:REZ (Inne)
@@ -1541,28 +1569,42 @@ DTSTART:20251028T095000
 DTEND:20251028T112500
 SUMMARY:Nm (w)
 LOCATION:205 65
-DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T114000
 DTEND:20251028T131500
 SUMMARY:Nm (w)
 LOCATION:205 65
-DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251030T175000
+DTEND:20251030T192500
+SUMMARY:Nm (L)
+LOCATION:011 65
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251030T194000
+DTEND:20251030T211500
+SUMMARY:Nm (L)
+LOCATION:011 65
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T095000
 DTEND:20251103T112500
 SUMMARY:Nm (w)
 LOCATION:101 65
-DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T114000
 DTEND:20251103T131500
 SUMMARY:Nm (w)
 LOCATION:101 65
-DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T080000
@@ -1583,14 +1625,14 @@ DTSTART:20251113T114000
 DTEND:20251113T131500
 SUMMARY:Nm (w)
 LOCATION:205 65
-DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T133000
 DTEND:20251113T150500
 SUMMARY:Nm (w)
 LOCATION:205 65
-DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T175000
@@ -1623,16 +1665,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T114000
 DTEND:20251120T131500
-SUMMARY:Nm (w)
-LOCATION:205 65
-DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Jan Chudzikiewicz
+SUMMARY:Nm (L)
+LOCATION:011 65
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T133000
 DTEND:20251120T150500
-SUMMARY:Nm (w)
-LOCATION:205 65
-DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Jan Chudzikiewicz
+SUMMARY:Nm (L)
+LOCATION:011 65
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T175000
@@ -1667,14 +1709,14 @@ DTSTART:20251125T160000
 DTEND:20251125T173500
 SUMMARY:Nm (L)
 LOCATION:011 65
-DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T175000
 DTEND:20251125T192500
 SUMMARY:Nm (L)
 LOCATION:011 65
-DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T080000
