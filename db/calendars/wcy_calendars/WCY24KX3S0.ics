@@ -2615,6 +2615,13 @@ LOCATION:317 S
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251013T160000
+DTEND:20251013T173500
+SUMMARY:F2 (L)
+LOCATION:139 S 142 S
+DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251014T080000
 DTEND:20251014T093500
 SUMMARY:WF (ć)
@@ -2857,7 +2864,7 @@ DTSTART:20251023T133000
 DTEND:20251023T150500
 SUMMARY:F2 (L)
 LOCATION:142 S 139 S
-DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T080000
@@ -3417,7 +3424,7 @@ DTSTART:20251119T114000
 DTEND:20251119T131500
 SUMMARY:F2 (L)
 LOCATION:142 S 139 S
-DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T133000
@@ -3599,7 +3606,7 @@ DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:F2 (L)
 LOCATION:142 S 139 S
-DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T133000
@@ -4139,13 +4146,6 @@ DTEND:20260108T112500
 SUMMARY:Als (L)
 LOCATION:233 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: mgr inż. Tadeusz Kowiorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260108T114000
-DTEND:20260108T131500
-SUMMARY:F2 (L)
-LOCATION:142 S 141 S
-DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T133000

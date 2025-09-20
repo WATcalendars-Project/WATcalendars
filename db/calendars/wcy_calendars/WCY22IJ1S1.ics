@@ -1215,13 +1215,6 @@ LOCATION:223 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251016T080000
-DTEND:20251016T093500
-SUMMARY:Bda (L)
-LOCATION:224 S
-DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr Jarosław Olejniczak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:Pjn (L)
@@ -1327,20 +1320,6 @@ LOCATION:233 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251031T080000
-DTEND:20251031T093500
-SUMMARY:Bda (L)
-LOCATION:228 S
-DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr Jarosław Olejniczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251031T095000
-DTEND:20251031T112500
-SUMMARY:Bda (L)
-LOCATION:228 S
-DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr Jarosław Olejniczak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251031T114000
 DTEND:20251031T131500
 SUMMARY:Orr (w)
@@ -1395,20 +1374,6 @@ DTEND:20251105T150500
 SUMMARY:Orr (ć)
 LOCATION:317 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: Patryk Serafin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251106T080000
-DTEND:20251106T093500
-SUMMARY:Bda (L)
-LOCATION:226 S
-DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr Jarosław Olejniczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251106T095000
-DTEND:20251106T112500
-SUMMARY:Bda (L)
-LOCATION:226 S
-DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T114000
@@ -1481,6 +1446,27 @@ LOCATION:223 S
 DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251119T080000
+DTEND:20251119T093500
+SUMMARY:Bda (L)
+LOCATION:252 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T114000
+DTEND:20251119T131500
+SUMMARY:Bda (L)
+LOCATION:239 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T133000
+DTEND:20251119T150500
+SUMMARY:Bda (L)
+LOCATION:239 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251120T080000
 DTEND:20251120T093500
 SUMMARY:Pjn (L)
@@ -1520,14 +1506,14 @@ DTSTART:20251121T080000
 DTEND:20251121T093500
 SUMMARY:Bda (L)
 LOCATION:226 S
-DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T095000
 DTEND:20251121T112500
 SUMMARY:Bda (L)
 LOCATION:226 S
-DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T114000
@@ -1577,6 +1563,20 @@ DTEND:20251125T112500
 SUMMARY:Orr (L)
 LOCATION:227 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T114000
+DTEND:20251126T131500
+SUMMARY:Bda (L)
+LOCATION:237 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T133000
+DTEND:20251126T150500
+SUMMARY:Bda (L)
+LOCATION:237 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T080000

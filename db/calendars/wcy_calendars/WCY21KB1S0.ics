@@ -2370,10 +2370,10 @@ LOCATION:316 S
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T160000
-DTEND:20251104T173500
+DTSTART:20251104T133000
+DTEND:20251104T150500
 SUMMARY:Stg (ć)
-LOCATION:308 S
+LOCATION:218 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
@@ -2632,7 +2632,7 @@ BEGIN:VEVENT
 DTSTART:20251125T160000
 DTEND:20251125T173500
 SUMMARY:Stg (ć)
-LOCATION:307 S
+LOCATION:219 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
@@ -2725,13 +2725,6 @@ DTEND:20251201T150500
 SUMMARY:Stg (w)
 LOCATION:316 S
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Kamil Kaczyński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251201T160000
-DTEND:20251201T173500
-SUMMARY:Stg (ć)
-LOCATION:307 S
-DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T080000
@@ -2860,11 +2853,11 @@ LOCATION:316 S
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251209T095000
-DTEND:20251209T112500
+DTSTART:20251208T160000
+DTEND:20251208T173500
 SUMMARY:Stg (ć)
-LOCATION:317 S
-DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Kamil Kaczyński
+LOCATION:219 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000
@@ -2947,8 +2940,8 @@ BEGIN:VEVENT
 DTSTART:20251215T160000
 DTEND:20251215T173500
 SUMMARY:Stg (ć)
-LOCATION:309 S
-DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Kamil Kaczyński
+LOCATION:219 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T080000
@@ -2970,6 +2963,13 @@ DTEND:20251216T131500
 SUMMARY:Stg (w)
 LOCATION:316 S
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251216T160000
+DTEND:20251216T173500
+SUMMARY:Stg (ć)
+LOCATION:219 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T095000
@@ -3147,13 +3147,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 54/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260112T133000
-DTEND:20260112T150500
-SUMMARY:Stg (ć)
-LOCATION:309 S
-DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Kamil Kaczyński
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260113T080000
 DTEND:20260113T093500
 SUMMARY:Zawi (P)
@@ -3259,6 +3252,13 @@ LOCATION:228 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Projekt\nNumer zajęć: 11/12\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260120T114000
+DTEND:20260120T131500
+SUMMARY:Stg (ć)
+LOCATION:218 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260122T080000
 DTEND:20260122T093500
 SUMMARY:Zmwm (L)
@@ -3304,7 +3304,7 @@ BEGIN:VEVENT
 DTSTART:20260126T133000
 DTEND:20260126T150500
 SUMMARY:Stg (ć)
-LOCATION:307 S
+LOCATION:218 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT

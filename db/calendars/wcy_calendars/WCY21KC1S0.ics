@@ -2832,13 +2832,6 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 39/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T175000
-DTEND:20251104T192500
-SUMMARY:Stg (ć)
-LOCATION:309 S
-DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. Kamil Kaczyński
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251105T095000
 DTEND:20251105T112500
 SUMMARY:REG (ć)
@@ -3220,8 +3213,8 @@ BEGIN:VEVENT
 DTSTART:20251124T160000
 DTEND:20251124T173500
 SUMMARY:Stg (ć)
-LOCATION:308 S
-DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Kamil Kaczyński
+LOCATION:219 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T080000
@@ -3236,6 +3229,13 @@ DTEND:20251125T112500
 SUMMARY:Dtu (w)
 LOCATION:316 S
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T114000
+DTEND:20251125T131500
+SUMMARY:Stg (ć)
+LOCATION:219 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T133000
@@ -3371,18 +3371,18 @@ LOCATION:316 S
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251201T160000
+DTEND:20251201T173500
+SUMMARY:Stg (ć)
+LOCATION:219 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251201T175000
 DTEND:20251201T192500
 SUMMARY:PsbI (P)
 LOCATION:106 65
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 1/7\nProwadzący: Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251202T080000
-DTEND:20251202T093500
-SUMMARY:Stg (ć)
-LOCATION:307 S
-DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T095000
@@ -3493,7 +3493,7 @@ BEGIN:VEVENT
 DTSTART:20251209T133000
 DTEND:20251209T150500
 SUMMARY:Stg (ć)
-LOCATION:314 S
+LOCATION:218 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
@@ -3593,13 +3593,6 @@ DTEND:20251215T192500
 SUMMARY:PsbI (P)
 LOCATION:011 65
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 3/7\nProwadzący: Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251216T080000
-DTEND:20251216T093500
-SUMMARY:Stg (ć)
-LOCATION:307 S
-DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T095000
@@ -3819,11 +3812,11 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 64/71\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260113T080000
-DTEND:20260113T093500
+DTSTART:20260112T160000
+DTEND:20260112T173500
 SUMMARY:Stg (ć)
-LOCATION:316 S
-DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Kamil Kaczyński
+LOCATION:219 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T114000
@@ -3980,6 +3973,13 @@ LOCATION:011 65
 DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 20/22\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260120T133000
+DTEND:20260120T150500
+SUMMARY:Stg (ć)
+LOCATION:218 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260120T160000
 DTEND:20260120T173500
 SUMMARY:Ja (ć)
@@ -4092,6 +4092,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 70/71\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260126T160000
+DTEND:20260126T173500
+SUMMARY:Stg (ć)
+LOCATION:219 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260127T080000
 DTEND:20260127T093500
 SUMMARY:PCB (P)
@@ -4104,13 +4111,6 @@ DTEND:20260127T112500
 SUMMARY:PCB (P)
 LOCATION:011 65
 DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 22/22\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260127T133000
-DTEND:20260127T150500
-SUMMARY:Stg (ć)
-LOCATION:316 S
-DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T160000

@@ -914,6 +914,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Czarkowska Karolina
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251211T080000
+DTEND:20251211T093500
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Czarkowska Karolina
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251009T095000
 DTEND:20251009T112500
 SUMMARY:WEL 
@@ -1145,13 +1152,6 @@ LOCATION:
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kuchta Marek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251114T080000
-DTEND:20251114T093500
-SUMMARY:WDM 
-LOCATION:11645
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kuchta Marek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251121T080000
 DTEND:20251121T093500
 SUMMARY:WDM 
@@ -1162,7 +1162,7 @@ BEGIN:VEVENT
 DTSTART:20251205T080000
 DTEND:20251205T093500
 SUMMARY:WDM 
-LOCATION:11845
+LOCATION:11945
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kuchta Marek
 END:VEVENT
 BEGIN:VEVENT
@@ -1234,6 +1234,13 @@ DTEND:20251212T173500
 SUMMARY:PGI 
 LOCATION:
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251219T160000
+DTEND:20251219T173500
+SUMMARY:WDM 
+LOCATION:
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kuchta Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T175000
