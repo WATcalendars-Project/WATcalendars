@@ -11,11 +11,25 @@ LOCATION:
 DESCRIPTION:Podstawy cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: mgr inż. Skibniewski Łukasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250929T080000
+DTEND:20250929T093500
+SUMMARY:PPC (w)
+LOCATION:0.8/16
+DESCRIPTION:Prawne podstawy cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: mgr Trzcińska Luiza
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250922T095000
 DTEND:20250922T112500
 SUMMARY:PoCy (w)
 LOCATION:
 DESCRIPTION:Podstawy cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: mgr inż. Skibniewski Łukasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250929T095000
+DTEND:20250929T112500
+SUMMARY:PPC (w)
+LOCATION:0.8/16
+DESCRIPTION:Prawne podstawy cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250922T114000
@@ -67,18 +81,18 @@ LOCATION:
 DESCRIPTION:Podstawy cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: mgr inż. Skibniewski Łukasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250930T114000
+DTEND:20250930T131500
+SUMMARY:Espr (E)
+LOCATION:307 S
+DESCRIPTION:Egzamin sprawdzający\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: mgr Trzcińska Luiza
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250923T133000
 DTEND:20250923T150500
 SUMMARY:PoCy (L)
 LOCATION:
 DESCRIPTION:Podstawy cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: mgr inż. Skibniewski Łukasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250923T160000
-DTEND:20250923T173500
-SUMMARY:PBwST (w)
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa w sieciach telekomunikacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T080000
@@ -92,7 +106,7 @@ DTSTART:20250924T080000
 DTEND:20250924T093500
 SUMMARY:PBwST (w)
 LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa w sieciach telekomunikacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10
+DESCRIPTION:Podstawy bezpieczeństwa w sieciach telekomunikacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T095000
@@ -106,7 +120,7 @@ DTSTART:20250924T095000
 DTEND:20250924T112500
 SUMMARY:PBwST (w)
 LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa w sieciach telekomunikacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10
+DESCRIPTION:Podstawy bezpieczeństwa w sieciach telekomunikacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T114000
@@ -116,13 +130,6 @@ LOCATION:
 DESCRIPTION:Podstawy cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: mgr inż. Skibniewski Łukasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250924T114000
-DTEND:20250924T131500
-SUMMARY:PPC (w)
-LOCATION:0.8/16
-DESCRIPTION:Prawne podstawy cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: mgr Trzcińska Luiza
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250917T133000
 DTEND:20250917T150500
 SUMMARY:PoCy (L)
@@ -130,18 +137,11 @@ LOCATION:
 DESCRIPTION:Podstawy cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Skibniewski Łukasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250924T133000
-DTEND:20250924T150500
-SUMMARY:PPC (w)
-LOCATION:0.8/16
-DESCRIPTION:Prawne podstawy cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: mgr Trzcińska Luiza
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250917T160000
 DTEND:20250917T173500
 SUMMARY:PBwST (w)
 LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa w sieciach telekomunikacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10
+DESCRIPTION:Podstawy bezpieczeństwa w sieciach telekomunikacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250918T080000
@@ -155,7 +155,7 @@ DTSTART:20250925T080000
 DTEND:20250925T093500
 SUMMARY:PBwST (w)
 LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa w sieciach telekomunikacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: mgr Jasińska Hanna
+DESCRIPTION:Podstawy bezpieczeństwa w sieciach telekomunikacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: mgr Jasińska Hanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250918T095000
@@ -169,7 +169,7 @@ DTSTART:20250925T095000
 DTEND:20250925T112500
 SUMMARY:PBwST (w)
 LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa w sieciach telekomunikacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: mgr Jasińska Hanna
+DESCRIPTION:Podstawy bezpieczeństwa w sieciach telekomunikacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: mgr Jasińska Hanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250918T114000
@@ -183,7 +183,7 @@ DTSTART:20250925T114000
 DTEND:20250925T131500
 SUMMARY:PBwST (w)
 LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa w sieciach telekomunikacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: mgr Jasińska Hanna
+DESCRIPTION:Podstawy bezpieczeństwa w sieciach telekomunikacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: mgr Jasińska Hanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250918T133000
@@ -191,6 +191,13 @@ DTEND:20250918T150500
 SUMMARY:PoCy (L)
 LOCATION:
 DESCRIPTION:Podstawy cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: mgr inż. Skibniewski Łukasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250925T133000
+DTEND:20250925T150500
+SUMMARY:PBwST (w)
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa w sieciach telekomunikacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250918T160000

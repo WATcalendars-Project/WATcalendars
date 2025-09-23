@@ -4,20 +4,6 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:PSZZL_2025_(2_sem.)
 BEGIN:VEVENT
-DTSTART:20250614T080000
-DTEND:20250614T093500
-SUMMARY:Drp (w)
-LOCATION:0.28/135
-DESCRIPTION:Doskonalenie i rozwój zawodowy pracowników\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Tarapata Jolanta
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250705T080000
-DTEND:20250705T093500
-SUMMARY:Neg (w)
-LOCATION:0.28/135
-DESCRIPTION:Negocjacje\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250927T080000
 DTEND:20250927T093500
 SUMMARY:Szkl (w)
@@ -25,25 +11,32 @@ LOCATION:0.28/135
 DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Załoga Wiesława
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250524T095000
-DTEND:20250524T112500
-SUMMARY:PzK (w)
+DTSTART:20251011T080000
+DTEND:20251011T093500
+SUMMARY:Kzl (w)
 LOCATION:0.28/135
-DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: mgr Gurmińska Katarzyna
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250614T095000
-DTEND:20250614T112500
-SUMMARY:Drp (w)
+DTSTART:20251025T080000
+DTEND:20251025T093500
+SUMMARY:Kzl (ć)
 LOCATION:0.28/135
-DESCRIPTION:Doskonalenie i rozwój zawodowy pracowników\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Tarapata Jolanta
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250705T095000
-DTEND:20250705T112500
-SUMMARY:PzK (w)
+DTSTART:20251115T080000
+DTEND:20251115T093500
+SUMMARY:Kzl (ć)
 LOCATION:0.28/135
-DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: mgr Gurmińska Katarzyna
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Piotrkowski Kazimierz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T080000
+DTEND:20251206T093500
+SUMMARY:Egz. (i)
+LOCATION:5.21/135
+DESCRIPTION:Egzamin\nRodzaj zajęć: (i)\nNumer zajęć: 1/7\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250927T095000
@@ -53,60 +46,102 @@ LOCATION:0.28/135
 DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr Załoga Wiesława
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250524T114000
-DTEND:20250524T131500
-SUMMARY:Szkl (w)
+DTSTART:20251011T095000
+DTEND:20251011T112500
+SUMMARY:Kzl (w)
 LOCATION:0.28/135
-DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Załoga Wiesława
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250614T114000
-DTEND:20250614T131500
-SUMMARY:Neg (w)
+DTSTART:20251025T095000
+DTEND:20251025T112500
+SUMMARY:Kzl (ć)
 LOCATION:0.28/135
-DESCRIPTION:Negocjacje\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250705T114000
-DTEND:20250705T131500
-SUMMARY:PzK (w)
+DTSTART:20251115T095000
+DTEND:20251115T112500
+SUMMARY:Szkl (ć)
 LOCATION:0.28/135
-DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: mgr Gurmińska Katarzyna
+DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr Załoga Wiesława
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T095000
+DTEND:20251206T112500
+SUMMARY:Egz. (i)
+LOCATION:5.21/135
+DESCRIPTION:Egzamin\nRodzaj zajęć: (i)\nNumer zajęć: 2/7\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250927T114000
 DTEND:20250927T131500
 SUMMARY:WMo (w)
 LOCATION:0.28/135
-DESCRIPTION:Wykłady monograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr hab. Wereda Wioletta
+DESCRIPTION:Wykłady monograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Sołek-Borowska Celina
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250524T133000
-DTEND:20250524T150500
-SUMMARY:Neg (w)
+DTSTART:20251011T114000
+DTEND:20251011T131500
+SUMMARY:Szkl (w)
 LOCATION:0.28/135
-DESCRIPTION:Negocjacje\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
+DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Załoga Wiesława
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250614T133000
-DTEND:20250614T150500
-SUMMARY:WMo (w)
+DTSTART:20251025T114000
+DTEND:20251025T131500
+SUMMARY:PKwSZ (ć)
 LOCATION:0.28/135
-DESCRIPTION:Wykłady monograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3
+DESCRIPTION:Pragmatyka działań kadrowych w Siłach Zbrojnych RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250705T133000
-DTEND:20250705T150500
-SUMMARY:Drp (ć)
+DTSTART:20251115T114000
+DTEND:20251115T131500
+SUMMARY:PzK (ć)
 LOCATION:0.28/135
-DESCRIPTION:Doskonalenie i rozwój zawodowy pracowników\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr Tarapata Jolanta
+DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: mgr Gurmińska Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T114000
+DTEND:20251206T131500
+SUMMARY:Egz. (i)
+LOCATION:5.21/135
+DESCRIPTION:Egzamin\nRodzaj zajęć: (i)\nNumer zajęć: 3/7\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250927T133000
 DTEND:20250927T150500
 SUMMARY:WMo (w)
 LOCATION:0.28/135
-DESCRIPTION:Wykłady monograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr hab. Wereda Wioletta
+DESCRIPTION:Wykłady monograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Sołek-Borowska Celina
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T133000
+DTEND:20251011T150500
+SUMMARY:Szkl (ć)
+LOCATION:0.28/135
+DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr Załoga Wiesława
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T133000
+DTEND:20251025T150500
+SUMMARY:PKwSZ (w)
+LOCATION:0.28/135
+DESCRIPTION:Pragmatyka działań kadrowych w Siłach Zbrojnych RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T133000
+DTEND:20251115T150500
+SUMMARY:PzK (ć)
+LOCATION:0.28/135
+DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: mgr Gurmińska Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T133000
+DTEND:20251206T150500
+SUMMARY:Egz. (i)
+LOCATION:5.21/135
+DESCRIPTION:Egzamin\nRodzaj zajęć: (i)\nNumer zajęć: 4/7\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250927T160000
@@ -116,73 +151,136 @@ LOCATION:0.28/135
 DESCRIPTION:Seminarium pracy końcowej\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250525T080000
-DTEND:20250525T093500
+DTSTART:20251011T160000
+DTEND:20251011T173500
+SUMMARY:WMo (w)
+LOCATION:0.28/135
+DESCRIPTION:Wykłady monograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T160000
+DTEND:20251025T173500
 SUMMARY:PKwSZ (w)
 LOCATION:0.28/135
-DESCRIPTION:Pragmatyka działań kadrowych w Siłach Zbrojnych RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: płk. dr Sowa Bogdan
+DESCRIPTION:Pragmatyka działań kadrowych w Siłach Zbrojnych RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250615T080000
-DTEND:20250615T093500
-SUMMARY:Neg (ć)
+DTSTART:20251115T160000
+DTEND:20251115T173500
+SUMMARY:WMo (w)
 LOCATION:0.28/135
-DESCRIPTION:Negocjacje\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
+DESCRIPTION:Wykłady monograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Sołek-Borowska Celina
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250706T080000
-DTEND:20250706T093500
+DTSTART:20251206T160000
+DTEND:20251206T173500
+SUMMARY:Egz. (i)
+LOCATION:5.21/135
+DESCRIPTION:Egzamin\nRodzaj zajęć: (i)\nNumer zajęć: 5/7\nProwadzący: dr Strychalski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T175000
+DTEND:20251011T192500
 SUMMARY:SPK (S)
 LOCATION:0.28/135
-DESCRIPTION:Seminarium pracy końcowej\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: dr Strychalski Andrzej
+DESCRIPTION:Seminarium pracy końcowej\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T175000
+DTEND:20251025T192500
+SUMMARY:SPK (S)
+LOCATION:0.28/135
+DESCRIPTION:Seminarium pracy końcowej\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T175000
+DTEND:20251206T192500
+SUMMARY:Egz. (i)
+LOCATION:5.21/135
+DESCRIPTION:Egzamin\nRodzaj zajęć: (i)\nNumer zajęć: 6/7\nProwadzący: dr Strychalski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T194000
+DTEND:20251206T211500
+SUMMARY:Egz. (i)
+LOCATION:5.21/135
+DESCRIPTION:Egzamin\nRodzaj zajęć: (i)\nNumer zajęć: 7/7\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250928T080000
 DTEND:20250928T093500
 SUMMARY:PKwSZ (w)
 LOCATION:0.28/135
-DESCRIPTION:Pragmatyka działań kadrowych w Siłach Zbrojnych RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: płk. dr Sowa Bogdan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250525T095000
-DTEND:20250525T112500
-SUMMARY:PKwSZ (w)
-LOCATION:0.28/135
 DESCRIPTION:Pragmatyka działań kadrowych w Siłach Zbrojnych RP\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: płk. dr Sowa Bogdan
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250615T095000
-DTEND:20250615T112500
-SUMMARY:PzK (w)
+DTSTART:20251012T080000
+DTEND:20251012T093500
+SUMMARY:Drp (w)
 LOCATION:0.28/135
-DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: mgr Gurmińska Katarzyna
+DESCRIPTION:Doskonalenie i rozwój zawodowy pracowników\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr Tarapata Jolanta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250706T095000
-DTEND:20250706T112500
-SUMMARY:ZMdPK (i)
+DTSTART:20251026T080000
+DTEND:20251026T093500
+SUMMARY:Kzl (ć)
 LOCATION:0.28/135
-DESCRIPTION:Zbieranie materiałów do pracy końcowej\nRodzaj zajęć: (i)\nNumer zajęć: 1/2
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Piotrkowski Kazimierz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T080000
+DTEND:20251116T093500
+SUMMARY:Drp (ć)
+LOCATION:0.28/135
+DESCRIPTION:Doskonalenie i rozwój zawodowy pracowników\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr Tarapata Jolanta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250928T095000
 DTEND:20250928T112500
 SUMMARY:PKwSZ (ć)
 LOCATION:0.28/135
-DESCRIPTION:Pragmatyka działań kadrowych w Siłach Zbrojnych RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: płk. dr Sowa Bogdan
+DESCRIPTION:Pragmatyka działań kadrowych w Siłach Zbrojnych RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: płk. dr Sowa Bogdan
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250615T114000
-DTEND:20250615T131500
-SUMMARY:SPK (S)
+DTSTART:20251012T095000
+DTEND:20251012T112500
+SUMMARY:Drp (ć)
 LOCATION:0.28/135
-DESCRIPTION:Seminarium pracy końcowej\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: dr Strychalski Andrzej
+DESCRIPTION:Doskonalenie i rozwój zawodowy pracowników\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr Tarapata Jolanta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250706T114000
-DTEND:20250706T131500
-SUMMARY:ZMdPK (i)
+DTSTART:20251026T095000
+DTEND:20251026T112500
+SUMMARY:PKwSZ (ć)
 LOCATION:0.28/135
-DESCRIPTION:Zbieranie materiałów do pracy końcowej\nRodzaj zajęć: (i)\nNumer zajęć: 2/2
+DESCRIPTION:Pragmatyka działań kadrowych w Siłach Zbrojnych RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T095000
+DTEND:20251116T112500
+SUMMARY:Neg (ć)
+LOCATION:0.28/135
+DESCRIPTION:Negocjacje\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251012T114000
+DTEND:20251012T131500
+SUMMARY:Kzl (w)
+LOCATION:0.28/135
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Piotrkowski Kazimierz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251026T114000
+DTEND:20251026T131500
+SUMMARY:Szkl (ć)
+LOCATION:0.28/135
+DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr Załoga Wiesława
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T114000
+DTEND:20251116T131500
+SUMMARY:Neg (ć)
+LOCATION:0.28/135
+DESCRIPTION:Negocjacje\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 END:VCALENDAR

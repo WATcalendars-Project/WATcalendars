@@ -4,76 +4,6 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO23AB1N1
 BEGIN:VEVENT
-DTSTART:20250301T080000
-DTEND:20250301T093500
-SUMMARY:MPD (w)
-LOCATION:
-DESCRIPTION:Metodyka Pracy Dyplomowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. Filipek Agnieszka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250308T080000
-DTEND:20250308T093500
-SUMMARY:NiMwA (w)
-LOCATION:
-DESCRIPTION:Negocjacje i mediacje w administracji\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Krysowaty Aneta
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250315T080000
-DTEND:20250315T093500
-SUMMARY:BNiM (w)
-LOCATION:
-DESCRIPTION:Bezpieczeństwo narodowe i międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250412T080000
-DTEND:20250412T093500
-SUMMARY:BNiM (w)
-LOCATION:
-DESCRIPTION:Bezpieczeństwo narodowe i międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250426T080000
-DTEND:20250426T093500
-SUMMARY:Szy (w)
-LOCATION:
-DESCRIPTION:System zarządzania kryzysowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250510T080000
-DTEND:20250510T093500
-SUMMARY:Szy (w)
-LOCATION:
-DESCRIPTION:System zarządzania kryzysowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250517T080000
-DTEND:20250517T093500
-SUMMARY:Szy (ć)
-LOCATION:
-DESCRIPTION:System zarządzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250524T080000
-DTEND:20250524T093500
-SUMMARY:Szy (ć)
-LOCATION:
-DESCRIPTION:System zarządzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250531T080000
-DTEND:20250531T093500
-SUMMARY:Szy (ć)
-LOCATION:
-DESCRIPTION:System zarządzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250705T080000
-DTEND:20250705T093500
-SUMMARY:BNiM (E)
-LOCATION:
-DESCRIPTION:Bezpieczeństwo narodowe i międzynarodowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250913T080000
 DTEND:20250913T093500
 SUMMARY:P.Admin. (Ep)
@@ -81,438 +11,403 @@ LOCATION:
 DESCRIPTION:Postępowanie Administracyjne\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Śledzik Waldemar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250301T095000
-DTEND:20250301T112500
-SUMMARY:MPD (w)
+DTSTART:20251206T080000
+DTEND:20251206T093500
+SUMMARY:OCHRONA 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 1/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T080000
+DTEND:20251213T093500
+SUMMARY:TECHNO. 
+LOCATION:1/22
+DESCRIPTION:TECHNO.\nRodzaj zajęć: -\nNumer zajęć: 1/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T080000
+DTEND:20251220T093500
+SUMMARY:ORGANY 
+LOCATION:23AB; 1N
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 1/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T080000
+DTEND:20250110T093500
+SUMMARY:BEZPIECZEŃSTWO 
+LOCATION:5.21/135
+DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 1/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T080000
+DTEND:20250117T093500
+SUMMARY:OCHRONA 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 2/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250124T080000
+DTEND:20250124T093500
+SUMMARY:ORGANY 
+LOCATION:23AB; 1N
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 2/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250131T080000
+DTEND:20250131T093500
+SUMMARY:PbI (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251004T095000
+DTEND:20251004T112500
+SUMMARY:BEZPIECZEŃSTWO 
+LOCATION:23AB; 1N; 1 Kpa
+DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 2/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T095000
+DTEND:20251011T112500
+SUMMARY:PbI (w)
 LOCATION:
-DESCRIPTION:Metodyka Pracy Dyplomowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr hab. Filipek Agnieszka
+DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250308T095000
-DTEND:20250308T112500
-SUMMARY:NiMwA (ć)
+DTSTART:20251025T095000
+DTEND:20251025T112500
+SUMMARY:PbI (w)
 LOCATION:
-DESCRIPTION:Negocjacje i mediacje w administracji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr Krysowaty Aneta
+DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250315T095000
-DTEND:20250315T112500
-SUMMARY:BNiM (w)
+DTSTART:20251108T095000
+DTEND:20251108T112500
+SUMMARY:ZARZĄDZANIE 
+LOCATION:23AB; 1N; 1 Krt
+DESCRIPTION:ZARZĄDZANIE\nRodzaj zajęć: -\nNumer zajęć: 1/10\nProwadzący: dr Śmiałek Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T095000
+DTEND:20251115T112500
+SUMMARY:POSTĘPOWANIE 
+LOCATION:23AB; 1N
+DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 1/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Kawalerski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T095000
+DTEND:20251206T112500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 1/29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T095000
+DTEND:20251213T112500
+SUMMARY:TECHNO. 
+LOCATION:1/22
+DESCRIPTION:TECHNO.\nRodzaj zajęć: -\nNumer zajęć: 2/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T095000
+DTEND:20251220T112500
+SUMMARY:ORGANY 
+LOCATION:23AB; 1N
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 3/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T095000
+DTEND:20250110T112500
+SUMMARY:BEZPIECZEŃSTWO 
+LOCATION:5.21/135
+DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 3/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T095000
+DTEND:20250117T112500
+SUMMARY:OCHRONA 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 3/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250124T095000
+DTEND:20250124T112500
+SUMMARY:ORGANY 
+LOCATION:23AB; 1N
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 4/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250131T095000
+DTEND:20250131T112500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Trz
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 2/29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251004T114000
+DTEND:20251004T131500
+SUMMARY:BEZPIECZEŃSTWO 
+LOCATION:23AB; 1N; 1 Kpa
+DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 4/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T114000
+DTEND:20251011T131500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 3/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T114000
+DTEND:20251025T131500
+SUMMARY:ZARZĄDZANIE 
+LOCATION:23AB; 1N; 1 Krt
+DESCRIPTION:ZARZĄDZANIE\nRodzaj zajęć: -\nNumer zajęć: 2/10\nProwadzący: dr Śmiałek Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251108T114000
+DTEND:20251108T131500
+SUMMARY:ORGANY 
+LOCATION:23AB; 1N
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 5/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T114000
+DTEND:20251115T131500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 4/29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251122T114000
+DTEND:20251122T131500
+SUMMARY:TECHNO. 
+LOCATION:23AB; 1N; 1 MoM
+DESCRIPTION:TECHNO.\nRodzaj zajęć: -\nNumer zajęć: 3/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T114000
+DTEND:20251206T131500
+SUMMARY:TECHNO. 
+LOCATION:23AB; 1N; 1 MoM
+DESCRIPTION:TECHNO.\nRodzaj zajęć: -\nNumer zajęć: 4/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T114000
+DTEND:20251213T131500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Trz
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 5/29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T114000
+DTEND:20251220T131500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Trz
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 6/29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T114000
+DTEND:20250110T131500
+SUMMARY:ORGANY 
+LOCATION:23AB; 1N
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 6/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250124T114000
+DTEND:20250124T131500
+SUMMARY:BEZPIECZEŃSTWO 
+LOCATION:5.21/135
+DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 5/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250131T114000
+DTEND:20250131T131500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Trz
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 7/29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251004T133000
+DTEND:20251004T150500
+SUMMARY:PbI (w)
 LOCATION:
-DESCRIPTION:Bezpieczeństwo narodowe i międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Piwowarczyk Ryszard
+DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250329T095000
-DTEND:20250329T112500
-SUMMARY:NiMwA (w)
+DTSTART:20251011T133000
+DTEND:20251011T150500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 8/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T133000
+DTEND:20251025T150500
+SUMMARY:ZARZĄDZANIE 
+LOCATION:23AB; 1N; 1 Krt
+DESCRIPTION:ZARZĄDZANIE\nRodzaj zajęć: -\nNumer zajęć: 3/10\nProwadzący: dr Śmiałek Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251108T133000
+DTEND:20251108T150500
+SUMMARY:ORGANY 
+LOCATION:23AB; 1N
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 7/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T133000
+DTEND:20251115T150500
+SUMMARY:ORGANY 
+LOCATION:23AB; 1N
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 8/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251122T133000
+DTEND:20251122T150500
+SUMMARY:TECHNO. 
+LOCATION:23AB; 1N; 1 MoM
+DESCRIPTION:TECHNO.\nRodzaj zajęć: -\nNumer zajęć: 5/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T133000
+DTEND:20251213T150500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Trz
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 9/29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T133000
+DTEND:20251220T150500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Trz
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 10/29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T133000
+DTEND:20250110T150500
+SUMMARY:ORGANY 
+LOCATION:23AB; 1N
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 9/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250124T133000
+DTEND:20250124T150500
+SUMMARY:BEZPIECZEŃSTWO 
+LOCATION:5.21/135
+DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 6/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250131T133000
+DTEND:20250131T150500
+SUMMARY:OCHRONA 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 4/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T160000
+DTEND:20251025T173500
+SUMMARY:PbI (ć)
 LOCATION:
-DESCRIPTION:Negocjacje i mediacje w administracji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Krysowaty Aneta
+DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250405T095000
-DTEND:20250405T112500
-SUMMARY:NiMwA (w)
+DTSTART:20251108T160000
+DTEND:20251108T173500
+SUMMARY:PbI (w)
 LOCATION:
-DESCRIPTION:Negocjacje i mediacje w administracji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Krysowaty Aneta
+DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250412T095000
-DTEND:20250412T112500
-SUMMARY:BNiM (w)
+DTSTART:20251115T160000
+DTEND:20251115T173500
+SUMMARY:ORGANY 
+LOCATION:23AB; 1N
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 10/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251122T160000
+DTEND:20251122T173500
+SUMMARY:ZARZĄDZANIE 
+LOCATION:23AB; 1N; 1 Krt
+DESCRIPTION:ZARZĄDZANIE\nRodzaj zajęć: -\nNumer zajęć: 4/10\nProwadzący: dr Śmiałek Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T160000
+DTEND:20251213T173500
+SUMMARY:ZARZĄDZANIE 
+LOCATION:23AB; 1N; 1 Krt
+DESCRIPTION:ZARZĄDZANIE\nRodzaj zajęć: -\nNumer zajęć: 5/10\nProwadzący: dr Śmiałek Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T160000
+DTEND:20251220T173500
+SUMMARY:BEZPIECZEŃSTWO 
+LOCATION:5.21/135
+DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 7/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T160000
+DTEND:20250110T173500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Trz
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 11/29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250124T160000
+DTEND:20250124T173500
+SUMMARY:ZARZĄDZANIE 
+LOCATION:23AB; 1N; 1 Krt
+DESCRIPTION:ZARZĄDZANIE\nRodzaj zajęć: -\nNumer zajęć: 6/10\nProwadzący: dr Śmiałek Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250131T160000
+DTEND:20250131T173500
+SUMMARY:ORGANY 
+LOCATION:23AB; 1N
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 11/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T175000
+DTEND:20251025T192500
+SUMMARY:PbI (ć)
 LOCATION:
-DESCRIPTION:Bezpieczeństwo narodowe i międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Piwowarczyk Ryszard
+DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250426T095000
-DTEND:20250426T112500
-SUMMARY:Szy (w)
+DTSTART:20251213T175000
+DTEND:20251213T192500
+SUMMARY:PbI (ć)
 LOCATION:
-DESCRIPTION:System zarządzania kryzysowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Piwowarczyk Ryszard
+DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250510T095000
-DTEND:20250510T112500
-SUMMARY:Szy (w)
+DTSTART:20251220T175000
+DTEND:20251220T192500
+SUMMARY:BEZPIECZEŃSTWO 
+LOCATION:5.21/135
+DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 8/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T175000
+DTEND:20250110T192500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Trz
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 12/29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250124T175000
+DTEND:20250124T192500
+SUMMARY:PbI (ć)
 LOCATION:
-DESCRIPTION:System zarządzania kryzysowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Piwowarczyk Ryszard
+DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250517T095000
-DTEND:20250517T112500
-SUMMARY:Szy (ć)
-LOCATION:
-DESCRIPTION:System zarządzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250524T095000
-DTEND:20250524T112500
-SUMMARY:Szy (ć)
-LOCATION:
-DESCRIPTION:System zarządzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250531T095000
-DTEND:20250531T112500
-SUMMARY:Szy (ć)
-LOCATION:
-DESCRIPTION:System zarządzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250301T114000
-DTEND:20250301T131500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: mgr Szczerbińska Aleksandra
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250308T114000
-DTEND:20250308T131500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: mgr Szczerbińska Aleksandra
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250315T114000
-DTEND:20250315T131500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: mgr Szczerbińska Aleksandra
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250329T114000
-DTEND:20250329T131500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: mgr Szczerbińska Aleksandra
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250405T114000
-DTEND:20250405T131500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: mgr Szczerbińska Aleksandra
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250412T114000
-DTEND:20250412T131500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: mgr Szczerbińska Aleksandra
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250426T114000
-DTEND:20250426T131500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: mgr Szczerbińska Aleksandra
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250510T114000
-DTEND:20250510T131500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: mgr Szczerbińska Aleksandra
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250517T114000
-DTEND:20250517T131500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: mgr Szczerbińska Aleksandra
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250524T114000
-DTEND:20250524T131500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: mgr Szczerbińska Aleksandra
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250531T114000
-DTEND:20250531T131500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: mgr Szczerbińska Aleksandra
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250614T114000
-DTEND:20250614T131500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: mgr Szczerbińska Aleksandra
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250621T114000
-DTEND:20250621T131500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: mgr Szczerbińska Aleksandra
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250301T133000
-DTEND:20250301T150500
-SUMMARY:PPiPU (w)
-LOCATION:
-DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Strychalski Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250308T133000
-DTEND:20250308T150500
-SUMMARY:PPiPU (w)
-LOCATION:
-DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Strychalski Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250315T133000
-DTEND:20250315T150500
-SUMMARY:PPiPU (w)
-LOCATION:
-DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Strychalski Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250329T133000
-DTEND:20250329T150500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: mgr Szczerbińska Aleksandra
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250405T133000
-DTEND:20250405T150500
-SUMMARY:PPiPU (w)
-LOCATION:
-DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Strychalski Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250412T133000
-DTEND:20250412T150500
-SUMMARY:MPD (w)
-LOCATION:
-DESCRIPTION:Metodyka Pracy Dyplomowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr hab. Filipek Agnieszka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250426T133000
-DTEND:20250426T150500
-SUMMARY:NiMwA (w)
-LOCATION:
-DESCRIPTION:Negocjacje i mediacje w administracji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Krysowaty Aneta
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250510T133000
-DTEND:20250510T150500
-SUMMARY:PPiPU (ć)
-LOCATION:
-DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr Strychalski Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250517T133000
-DTEND:20250517T150500
-SUMMARY:NiMwA (ć)
-LOCATION:
-DESCRIPTION:Negocjacje i mediacje w administracji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr Krysowaty Aneta
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250524T133000
-DTEND:20250524T150500
-SUMMARY:NiMwA (ć)
-LOCATION:
-DESCRIPTION:Negocjacje i mediacje w administracji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr Krysowaty Aneta
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250531T133000
-DTEND:20250531T150500
-SUMMARY:NiMwA (ć)
-LOCATION:
-DESCRIPTION:Negocjacje i mediacje w administracji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr Krysowaty Aneta
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250614T133000
-DTEND:20250614T150500
-SUMMARY:BNiM (ć)
-LOCATION:
-DESCRIPTION:Bezpieczeństwo narodowe i międzynarodowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250621T133000
-DTEND:20250621T150500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: mgr Szczerbińska Aleksandra
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250329T160000
-DTEND:20250329T173500
-SUMMARY:MPD (ć)
-LOCATION:
-DESCRIPTION:Metodyka Pracy Dyplomowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr hab. Filipek Agnieszka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250405T160000
-DTEND:20250405T173500
-SUMMARY:MPD (ć)
-LOCATION:
-DESCRIPTION:Metodyka Pracy Dyplomowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr hab. Filipek Agnieszka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250412T160000
-DTEND:20250412T173500
-SUMMARY:MPD (w)
-LOCATION:
-DESCRIPTION:Metodyka Pracy Dyplomowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr hab. Filipek Agnieszka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250426T160000
-DTEND:20250426T173500
-SUMMARY:PKiPW (ć)
-LOCATION:
-DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr Kochanowicz Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250510T160000
-DTEND:20250510T173500
-SUMMARY:BNiM (ć)
-LOCATION:
-DESCRIPTION:Bezpieczeństwo narodowe i międzynarodowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250517T160000
-DTEND:20250517T173500
-SUMMARY:NiMwA (ć)
-LOCATION:
-DESCRIPTION:Negocjacje i mediacje w administracji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr Krysowaty Aneta
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250524T160000
-DTEND:20250524T173500
-SUMMARY:BNiM (ć)
-LOCATION:
-DESCRIPTION:Bezpieczeństwo narodowe i międzynarodowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250531T160000
-DTEND:20250531T173500
-SUMMARY:NiMwA (ć)
-LOCATION:
-DESCRIPTION:Negocjacje i mediacje w administracji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr Krysowaty Aneta
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250614T160000
-DTEND:20250614T173500
-SUMMARY:BNiM (ć)
-LOCATION:
-DESCRIPTION:Bezpieczeństwo narodowe i międzynarodowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250329T175000
-DTEND:20250329T192500
-SUMMARY:MPD (ć)
-LOCATION:
-DESCRIPTION:Metodyka Pracy Dyplomowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr hab. Filipek Agnieszka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250405T175000
-DTEND:20250405T192500
-SUMMARY:MPD (ć)
-LOCATION:
-DESCRIPTION:Metodyka Pracy Dyplomowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr hab. Filipek Agnieszka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250412T175000
-DTEND:20250412T192500
-SUMMARY:MPD (ć)
-LOCATION:
-DESCRIPTION:Metodyka Pracy Dyplomowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr hab. Filipek Agnieszka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250426T175000
-DTEND:20250426T192500
-SUMMARY:PKiPW (ć)
-LOCATION:
-DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr Kochanowicz Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250510T175000
-DTEND:20250510T192500
-SUMMARY:BNiM (ć)
-LOCATION:
-DESCRIPTION:Bezpieczeństwo narodowe i międzynarodowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250426T194000
-DTEND:20250426T211500
-SUMMARY:PKiPW (ć)
-LOCATION:
-DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr Kochanowicz Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250309T080000
-DTEND:20250309T093500
-SUMMARY:PKiPW (w)
-LOCATION:
-DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Kochanowicz Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250316T080000
-DTEND:20250316T093500
-SUMMARY:PPG (w)
-LOCATION:
-DESCRIPTION:Publiczne prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr Śledzik Waldemar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250330T080000
-DTEND:20250330T093500
-SUMMARY:P.Admin. (w)
-LOCATION:
-DESCRIPTION:Postępowanie Administracyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Śledzik Waldemar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250406T080000
-DTEND:20250406T093500
-SUMMARY:PKiPW (w)
-LOCATION:
-DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Kochanowicz Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250413T080000
-DTEND:20250413T093500
-SUMMARY:PKiPW (w)
-LOCATION:4.17b/135
-DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Kochanowicz Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250427T080000
-DTEND:20250427T093500
-SUMMARY:BNiM (ć)
-LOCATION:
-DESCRIPTION:Bezpieczeństwo narodowe i międzynarodowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250511T080000
-DTEND:20250511T093500
-SUMMARY:PPiPU (ć)
-LOCATION:
-DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr Strychalski Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250518T080000
-DTEND:20250518T093500
-SUMMARY:PKiPW (ć)
-LOCATION:
-DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr Kochanowicz Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250601T080000
-DTEND:20250601T093500
-SUMMARY:BNiM (ć)
-LOCATION:
-DESCRIPTION:Bezpieczeństwo narodowe i międzynarodowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250629T080000
-DTEND:20250629T093500
-SUMMARY:P.Admin. (E)
-LOCATION:
-DESCRIPTION:Postępowanie Administracyjne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Śledzik Waldemar
+DTSTART:20250131T175000
+DTEND:20250131T192500
+SUMMARY:ORGANY 
+LOCATION:23AB; 1N
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 12/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250914T080000
@@ -522,227 +417,283 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo narodowe i międzynarodowe\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250309T095000
-DTEND:20250309T112500
-SUMMARY:PKiPW (w)
-LOCATION:
-DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Kochanowicz Małgorzata
+DTSTART:20251005T080000
+DTEND:20251005T093500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 13/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250316T095000
-DTEND:20250316T112500
-SUMMARY:PPG (w)
-LOCATION:
-DESCRIPTION:Publiczne prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr Śledzik Waldemar
+DTSTART:20251012T080000
+DTEND:20251012T093500
+SUMMARY:TECHNO. 
+LOCATION:23AB; 1N; 1 MoM
+DESCRIPTION:TECHNO.\nRodzaj zajęć: -\nNumer zajęć: 6/10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250330T095000
-DTEND:20250330T112500
-SUMMARY:P.Admin. (w)
-LOCATION:
-DESCRIPTION:Postępowanie Administracyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Śledzik Waldemar
+DTSTART:20251109T080000
+DTEND:20251109T093500
+SUMMARY:POSTĘPOWANIE 
+LOCATION:23AB; 1N
+DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 2/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Śledzik Waldemar; dr Kawalerski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250406T095000
-DTEND:20250406T112500
-SUMMARY:PKiPW (ć)
-LOCATION:
-DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr Kochanowicz Małgorzata
+DTSTART:20251116T080000
+DTEND:20251116T093500
+SUMMARY:POSTĘPOWANIE 
+LOCATION:23AB; 1N
+DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 3/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Śledzik Waldemar; dr Kawalerski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250413T095000
-DTEND:20250413T112500
-SUMMARY:PPiPU (ć)
-LOCATION:
-DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr Strychalski Andrzej
+DTSTART:20251123T080000
+DTEND:20251123T093500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 14/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250427T095000
-DTEND:20250427T112500
-SUMMARY:BNiM (ć)
-LOCATION:
-DESCRIPTION:Bezpieczeństwo narodowe i międzynarodowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr inż. Piwowarczyk Ryszard
+DTSTART:20251207T080000
+DTEND:20251207T093500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 15/29
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250511T095000
-DTEND:20250511T112500
-SUMMARY:PPiPU (ć)
-LOCATION:
-DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr Strychalski Andrzej
+DTSTART:20251214T080000
+DTEND:20251214T093500
+SUMMARY:BEZPIECZEŃSTWO 
+LOCATION:23AB; 1N; 1 Kpa
+DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 9/10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250518T095000
-DTEND:20250518T112500
-SUMMARY:PKiPW (ć)
-LOCATION:
-DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr Kochanowicz Małgorzata
+DTSTART:20250125T080000
+DTEND:20250125T093500
+SUMMARY:POSTĘPOWANIE 
+LOCATION:23AB; 1N
+DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 4/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Kawalerski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250525T095000
-DTEND:20250525T112500
-SUMMARY:PPiPU (ć)
-LOCATION:
-DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr Strychalski Andrzej
+DTSTART:20250201T080000
+DTEND:20250201T093500
+SUMMARY:POSTĘPOWANIE 
+LOCATION:23AB; 1N
+DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 5/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Kawalerski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250601T095000
-DTEND:20250601T112500
-SUMMARY:PPiPU (ć)
-LOCATION:
-DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr Strychalski Andrzej
+DTSTART:20251005T095000
+DTEND:20251005T112500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 16/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250302T114000
-DTEND:20250302T131500
-SUMMARY:PPG (w)
-LOCATION:
-DESCRIPTION:Publiczne prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr Śledzik Waldemar
+DTSTART:20251012T095000
+DTEND:20251012T112500
+SUMMARY:TECHNO. 
+LOCATION:23AB; 1N; 1 MoM
+DESCRIPTION:TECHNO.\nRodzaj zajęć: -\nNumer zajęć: 7/10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250309T114000
-DTEND:20250309T131500
-SUMMARY:PPG (w)
-LOCATION:
-DESCRIPTION:Publiczne prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr Śledzik Waldemar
+DTSTART:20251109T095000
+DTEND:20251109T112500
+SUMMARY:POSTĘPOWANIE 
+LOCATION:23AB; 1N
+DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 6/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Śledzik Waldemar; dr Kawalerski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250316T114000
-DTEND:20250316T131500
-SUMMARY:P.Admin. (w)
-LOCATION:
-DESCRIPTION:Postępowanie Administracyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Śledzik Waldemar
+DTSTART:20251116T095000
+DTEND:20251116T112500
+SUMMARY:POSTĘPOWANIE 
+LOCATION:23AB; 1N
+DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 7/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Śledzik Waldemar; dr Kawalerski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250330T114000
-DTEND:20250330T131500
-SUMMARY:BNiM (w)
-LOCATION:
-DESCRIPTION:Bezpieczeństwo narodowe i międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Piwowarczyk Ryszard
+DTSTART:20251123T095000
+DTEND:20251123T112500
+SUMMARY:ORGANY 
+LOCATION:23AB; 1N
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 13/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250406T114000
-DTEND:20250406T131500
-SUMMARY:P.Admin. (ć)
-LOCATION:
-DESCRIPTION:Postępowanie Administracyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr Śledzik Waldemar
+DTSTART:20251207T095000
+DTEND:20251207T112500
+SUMMARY:POSTĘPOWANIE 
+LOCATION:23AB; 1N
+DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 8/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Kawalerski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250413T114000
-DTEND:20250413T131500
-SUMMARY:P.Admin. (ć)
-LOCATION:
-DESCRIPTION:Postępowanie Administracyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr Śledzik Waldemar
+DTSTART:20251214T095000
+DTEND:20251214T112500
+SUMMARY:BEZPIECZEŃSTWO 
+LOCATION:23AB; 1N; 1 Kpa
+DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 10/10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250427T114000
-DTEND:20250427T131500
-SUMMARY:P.Admin. (ć)
-LOCATION:
-DESCRIPTION:Postępowanie Administracyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr Śledzik Waldemar
+DTSTART:20251221T095000
+DTEND:20251221T112500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 17/29
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250511T114000
-DTEND:20250511T131500
-SUMMARY:PPG (ć)
-LOCATION:
-DESCRIPTION:Publiczne prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Śledzik Waldemar
+DTSTART:20250111T095000
+DTEND:20250111T112500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 18/29
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250518T114000
-DTEND:20250518T131500
-SUMMARY:PPG (ć)
-LOCATION:
-DESCRIPTION:Publiczne prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Śledzik Waldemar
+DTSTART:20250125T095000
+DTEND:20250125T112500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 19/29
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250525T114000
-DTEND:20250525T131500
-SUMMARY:PPG (ć)
-LOCATION:
-DESCRIPTION:Publiczne prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Śledzik Waldemar
+DTSTART:20250201T095000
+DTEND:20250201T112500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 20/29
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250601T114000
-DTEND:20250601T131500
-SUMMARY:PPG (ć)
-LOCATION:
-DESCRIPTION:Publiczne prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Śledzik Waldemar
+DTSTART:20251005T114000
+DTEND:20251005T131500
+SUMMARY:TECHNO. 
+LOCATION:23AB; 1N; 1 MoM
+DESCRIPTION:TECHNO.\nRodzaj zajęć: -\nNumer zajęć: 8/10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250302T133000
-DTEND:20250302T150500
-SUMMARY:PPG (w)
-LOCATION:
-DESCRIPTION:Publiczne prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr Śledzik Waldemar
+DTSTART:20251012T114000
+DTEND:20251012T131500
+SUMMARY:TECHNO. 
+LOCATION:23AB; 1N; 1 MoM
+DESCRIPTION:TECHNO.\nRodzaj zajęć: -\nNumer zajęć: 9/10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250309T133000
-DTEND:20250309T150500
-SUMMARY:PPG (w)
-LOCATION:
-DESCRIPTION:Publiczne prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr Śledzik Waldemar
+DTSTART:20251109T114000
+DTEND:20251109T131500
+SUMMARY:ZARZĄDZANIE 
+LOCATION:23AB; 1N; 1 Krt
+DESCRIPTION:ZARZĄDZANIE\nRodzaj zajęć: -\nNumer zajęć: 7/10\nProwadzący: dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250316T133000
-DTEND:20250316T150500
-SUMMARY:P.Admin. (w)
-LOCATION:
-DESCRIPTION:Postępowanie Administracyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Śledzik Waldemar
+DTSTART:20251116T114000
+DTEND:20251116T131500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 21/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250330T133000
-DTEND:20250330T150500
-SUMMARY:BNiM (w)
-LOCATION:
-DESCRIPTION:Bezpieczeństwo narodowe i międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Piwowarczyk Ryszard
+DTSTART:20251123T114000
+DTEND:20251123T131500
+SUMMARY:ORGANY 
+LOCATION:23AB; 1N
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 14/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250406T133000
-DTEND:20250406T150500
-SUMMARY:P.Admin. (ć)
-LOCATION:
-DESCRIPTION:Postępowanie Administracyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr Śledzik Waldemar
+DTSTART:20251207T114000
+DTEND:20251207T131500
+SUMMARY:POSTĘPOWANIE 
+LOCATION:23AB; 1N
+DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 9/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Kawalerski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250413T133000
-DTEND:20250413T150500
-SUMMARY:P.Admin. (ć)
-LOCATION:
-DESCRIPTION:Postępowanie Administracyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr Śledzik Waldemar
+DTSTART:20251214T114000
+DTEND:20251214T131500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 22/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250427T133000
-DTEND:20250427T150500
-SUMMARY:P.Admin. (ć)
-LOCATION:
-DESCRIPTION:Postępowanie Administracyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr Śledzik Waldemar
+DTSTART:20251221T114000
+DTEND:20251221T131500
+SUMMARY:ZARZĄDZANIE 
+LOCATION:23AB; 1N; 1 Krt
+DESCRIPTION:ZARZĄDZANIE\nRodzaj zajęć: -\nNumer zajęć: 8/10\nProwadzący: dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250511T133000
-DTEND:20250511T150500
-SUMMARY:PPG (ć)
-LOCATION:
-DESCRIPTION:Publiczne prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Śledzik Waldemar
+DTSTART:20250111T114000
+DTEND:20250111T131500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 23/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250518T133000
-DTEND:20250518T150500
-SUMMARY:PPG (ć)
-LOCATION:
-DESCRIPTION:Publiczne prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Śledzik Waldemar
+DTSTART:20250125T114000
+DTEND:20250125T131500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 24/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250525T133000
-DTEND:20250525T150500
-SUMMARY:PPG (ć)
-LOCATION:
-DESCRIPTION:Publiczne prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Śledzik Waldemar
+DTSTART:20250201T114000
+DTEND:20250201T131500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 25/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250601T133000
-DTEND:20250601T150500
-SUMMARY:PPG (ć)
-LOCATION:
-DESCRIPTION:Publiczne prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Śledzik Waldemar
+DTSTART:20251005T133000
+DTEND:20251005T150500
+SUMMARY:TECHNO. 
+LOCATION:23AB; 1N; 1 MoM
+DESCRIPTION:TECHNO.\nRodzaj zajęć: -\nNumer zajęć: 10/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251109T133000
+DTEND:20251109T150500
+SUMMARY:ZARZĄDZANIE 
+LOCATION:23AB; 1N; 1 Krt
+DESCRIPTION:ZARZĄDZANIE\nRodzaj zajęć: -\nNumer zajęć: 9/10\nProwadzący: dr Śmiałek Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T133000
+DTEND:20251116T150500
+SUMMARY:ZARZĄDZANIE 
+LOCATION:0.21/16
+DESCRIPTION:ZARZĄDZANIE\nRodzaj zajęć: -\nNumer zajęć: 10/10\nProwadzący: dr Śmiałek Katarzyna; dr hab. (prof. WAT) Szyłkowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251123T133000
+DTEND:20251123T150500
+SUMMARY:PbI (ć)
+LOCATION:0.6/16
+DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251214T133000
+DTEND:20251214T150500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 26/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251221T133000
+DTEND:20251221T150500
+SUMMARY:POSTĘPOWANIE 
+LOCATION:23AB; 1N
+DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 10/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Kawalerski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250111T133000
+DTEND:20250111T150500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 27/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250125T133000
+DTEND:20250125T150500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 28/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250201T133000
+DTEND:20250201T150500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 29/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 END:VCALENDAR

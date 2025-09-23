@@ -4,34 +4,6 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO24PO1S2
 BEGIN:VEVENT
-DTSTART:20250324T080000
-DTEND:20250324T093500
-SUMMARY:Twin (w)
-LOCATION:0.8/16
-DESCRIPTION:Technologia wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Kubaczyk Tadeusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250331T080000
-DTEND:20250331T093500
-SUMMARY:Titw (w)
-LOCATION:0.8/16
-DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250407T080000
-DTEND:20250407T093500
-SUMMARY:Twin (w)
-LOCATION:0.8/16
-DESCRIPTION:Technologia wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Kubaczyk Tadeusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250428T080000
-DTEND:20250428T093500
-SUMMARY:Ekm (w)
-LOCATION:0.8/16
-DESCRIPTION:Ekonomia menedżerska\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250915T080000
 DTEND:20250915T093500
 SUMMARY:Pkid (Ep)
@@ -39,368 +11,424 @@ LOCATION:0.28/135
 DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250324T095000
-DTEND:20250324T112500
-SUMMARY:Twin (w)
-LOCATION:0.8/16
-DESCRIPTION:Technologia wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Kubaczyk Tadeusz
+DTSTART:20251201T080000
+DTEND:20251201T093500
+SUMMARY:P 
+LOCATION:1.16/16
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: dr inż. Kleszcz Sławomir; dr hab. Świerszcz Katarzyna; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250331T095000
-DTEND:20250331T112500
-SUMMARY:Titw (w)
-LOCATION:0.8/16
-DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250407T095000
-DTEND:20250407T112500
-SUMMARY:STiP (w)
-LOCATION:0.8/16
-DESCRIPTION:Strzelanie - teoria i praktyka\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: mgr Trzcińska Luiza
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250428T095000
-DTEND:20250428T112500
-SUMMARY:Ekm (w)
-LOCATION:0.8/16
-DESCRIPTION:Ekonomia menedżerska\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250623T095000
-DTEND:20250623T112500
-SUMMARY:Pkid (E)
-LOCATION:301/S
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Karczewski Edward
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250303T114000
-DTEND:20250303T131500
-SUMMARY:Pcww (w)
-LOCATION:0.8/16
-DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Kowalski Wawrzyniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250331T114000
-DTEND:20250331T131500
-SUMMARY:STiP (w)
-LOCATION:0.8/16
-DESCRIPTION:Strzelanie - teoria i praktyka\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: mgr Trzcińska Luiza
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250407T114000
-DTEND:20250407T131500
-SUMMARY:STiP (w)
-LOCATION:0.8/16
-DESCRIPTION:Strzelanie - teoria i praktyka\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: mgr Trzcińska Luiza
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250428T114000
-DTEND:20250428T131500
-SUMMARY:STiP (w)
-LOCATION:0.8/16
-DESCRIPTION:Strzelanie - teoria i praktyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: mgr Trzcińska Luiza
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250303T133000
-DTEND:20250303T150500
-SUMMARY:Pcww (w)
-LOCATION:0.8/16
-DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Kowalski Wawrzyniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250331T133000
-DTEND:20250331T150500
-SUMMARY:STiP (w)
-LOCATION:0.8/16
-DESCRIPTION:Strzelanie - teoria i praktyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: mgr Trzcińska Luiza
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250428T133000
-DTEND:20250428T150500
-SUMMARY:STiP (w)
-LOCATION:0.8/16
-DESCRIPTION:Strzelanie - teoria i praktyka\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: mgr Trzcińska Luiza
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250303T160000
-DTEND:20250303T173500
-SUMMARY:Pcww (w)
-LOCATION:0.8/16
-DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Kowalski Wawrzyniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250428T160000
-DTEND:20250428T173500
-SUMMARY:Bee (w)
-LOCATION:0.8/16
-DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Adamkiewicz Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250304T080000
-DTEND:20250304T093500
-SUMMARY:Titw (w)
-LOCATION:0.8/16
-DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250304T095000
-DTEND:20250304T112500
-SUMMARY:Titw (w)
-LOCATION:0.8/16
-DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250520T095000
-DTEND:20250520T112500
-SUMMARY:STiP (ć)
-LOCATION:5.27/135
-DESCRIPTION:Strzelanie - teoria i praktyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250304T114000
-DTEND:20250304T131500
-SUMMARY:Pkid (w)
-LOCATION:0.8/16
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Karczewski Edward
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250325T114000
-DTEND:20250325T131500
-SUMMARY:STiP (ć)
-LOCATION:5.27/135
-DESCRIPTION:Strzelanie - teoria i praktyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T114000
-DTEND:20250506T131500
-SUMMARY:Ekm (ć)
-LOCATION:255 S
-DESCRIPTION:Ekonomia menedżerska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250520T114000
-DTEND:20250520T131500
-SUMMARY:STiP (ć)
-LOCATION:5.27/135
-DESCRIPTION:Strzelanie - teoria i praktyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250527T114000
-DTEND:20250527T131500
-SUMMARY:Twin (w)
-LOCATION:0.8/16
-DESCRIPTION:Technologia wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Kubaczyk Tadeusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250304T133000
-DTEND:20250304T150500
-SUMMARY:Pkid (w)
-LOCATION:0.8/16
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Karczewski Edward
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250311T133000
-DTEND:20250311T150500
-SUMMARY:Pkid (w)
-LOCATION:0.8/16
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Karczewski Edward
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250325T133000
-DTEND:20250325T150500
-SUMMARY:Titw (w)
-LOCATION:309 S
-DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250401T133000
-DTEND:20250401T150500
-SUMMARY:Titw (ć)
+DTSTART:20250112T080000
+DTEND:20250112T093500
+SUMMARY:Gd (ć)
 LOCATION:31/158
-DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Ćwik Dariusz
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250506T133000
-DTEND:20250506T150500
-SUMMARY:Ekm (ć)
-LOCATION:255 S
-DESCRIPTION:Ekonomia menedżerska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: prof. dr hab. Kościelecki Lech
+DTSTART:20251201T095000
+DTEND:20251201T112500
+SUMMARY:P 
+LOCATION:1.16/16
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: dr inż. Kleszcz Sławomir; dr hab. Świerszcz Katarzyna; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250520T133000
-DTEND:20250520T150500
-SUMMARY:Pkid (ć)
-LOCATION:31/158
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Karczewski Edward
+DTSTART:20250112T095000
+DTEND:20250112T112500
+SUMMARY:BIwO (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Bezpieczeństwo informacji w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250527T133000
-DTEND:20250527T150500
-SUMMARY:Twin (w)
+DTSTART:20251006T114000
+DTEND:20251006T131500
+SUMMARY:Fb (w)
 LOCATION:0.8/16
-DESCRIPTION:Technologia wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Kubaczyk Tadeusz
+DESCRIPTION:Filozofia bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Warchał Arnold
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250603T133000
-DTEND:20250603T150500
-SUMMARY:Ekm (ć)
+DTSTART:20250112T114000
+DTEND:20250112T131500
+SUMMARY:BIwO (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Bezpieczeństwo informacji w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250112T133000
+DTEND:20250112T150500
+SUMMARY:UiTK (ć)
 LOCATION:5.21/135
-DESCRIPTION:Ekonomia menedżerska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: prof. dr hab. Kościelecki Lech
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. Skrabacz Aleksandra
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250311T160000
-DTEND:20250311T173500
-SUMMARY:Pkid (w)
-LOCATION:0.8/16
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Karczewski Edward
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250325T160000
-DTEND:20250325T173500
-SUMMARY:Twin (w)
-LOCATION:0.8/16
-DESCRIPTION:Technologia wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Kubaczyk Tadeusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250401T160000
-DTEND:20250401T173500
-SUMMARY:Titw (ć)
-LOCATION:31/158
-DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T160000
-DTEND:20250506T173500
-SUMMARY:Bee (ć)
-LOCATION:0.8/16
-DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Adamkiewicz Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250520T160000
-DTEND:20250520T173500
-SUMMARY:Pszw (w)
-LOCATION:0.8/16
-DESCRIPTION:Podstawy sztuki wojennej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Kleszcz Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250603T160000
-DTEND:20250603T173500
-SUMMARY:Ekm (ć)
+DTSTART:20251103T160000
+DTEND:20251103T173500
+SUMMARY:UiTK (ć)
 LOCATION:5.21/135
-DESCRIPTION:Ekonomia menedżerska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: prof. dr hab. Kościelecki Lech
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr hab. Skrabacz Aleksandra
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250506T175000
-DTEND:20250506T192500
-SUMMARY:Bee (w)
-LOCATION:aula/135
-DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Adamkiewicz Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250520T175000
-DTEND:20250520T192500
-SUMMARY:Pszw (w)
-LOCATION:0.8/16
-DESCRIPTION:Podstawy sztuki wojennej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Kleszcz Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250603T175000
-DTEND:20250603T192500
-SUMMARY:Pwff (ć)
-LOCATION:5.17/135
-DESCRIPTION:Prognozowanie wojenne, futurologia i foresighting\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Marciniak Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250514T080000
-DTEND:20250514T093500
-SUMMARY:Pszw (ć)
-LOCATION:1.17/16
-DESCRIPTION:Podstawy sztuki wojennej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. Kleszcz Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250528T080000
-DTEND:20250528T093500
-SUMMARY:Pszw (ć)
-LOCATION:0.6/16
-DESCRIPTION:Podstawy sztuki wojennej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr inż. Kleszcz Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250604T080000
-DTEND:20250604T093500
-SUMMARY:Pszw (ć)
-LOCATION:0.6/16
-DESCRIPTION:Podstawy sztuki wojennej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr inż. Kleszcz Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250611T080000
-DTEND:20250611T093500
-SUMMARY:STiP (ć)
-LOCATION:5.27/135
-DESCRIPTION:Strzelanie - teoria i praktyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250618T080000
-DTEND:20250618T093500
-SUMMARY:Pszw (ć)
-LOCATION:31/158
-DESCRIPTION:Podstawy sztuki wojennej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Kleszcz Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250416T095000
-DTEND:20250416T112500
-SUMMARY:Pwff (w)
-LOCATION:301/S
-DESCRIPTION:Prognozowanie wojenne, futurologia i foresighting\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Marciniak Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250430T095000
-DTEND:20250430T112500
-SUMMARY:Bee (w)
-LOCATION:0.8/16
-DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Adamkiewicz Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250507T095000
-DTEND:20250507T112500
-SUMMARY:Bee (w)
-LOCATION:0.8/16
-DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Adamkiewicz Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250514T095000
-DTEND:20250514T112500
-SUMMARY:Pcww (ć)
+DTSTART:20250119T160000
+DTEND:20250119T173500
+SUMMARY:IiDwO (ć)
 LOCATION:1a/28
-DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250528T095000
-DTEND:20250528T112500
-SUMMARY:Titw (ć)
-LOCATION:1.17/16
-DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Ćwik Dariusz
+DTSTART:20251103T175000
+DTEND:20251103T192500
+SUMMARY:UiTK (ć)
+LOCATION:5.21/135
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. Skrabacz Aleksandra
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250611T095000
-DTEND:20250611T112500
-SUMMARY:STiP (ć)
-LOCATION:5.27/135
-DESCRIPTION:Strzelanie - teoria i praktyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250618T095000
-DTEND:20250618T112500
-SUMMARY:Pszw (ć)
+DTSTART:20251117T175000
+DTEND:20251117T192500
+SUMMARY:GiRśb (ć)
 LOCATION:31/158
-DESCRIPTION:Podstawy sztuki wojennej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Kleszcz Sławomir
+DESCRIPTION:Globalne i regionalne środowisko bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Kościelecki Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250625T095000
-DTEND:20250625T112500
-SUMMARY:Titw (E)
-LOCATION:309 S
-DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Ćwik Dariusz
+DTSTART:20251124T175000
+DTEND:20251124T192500
+SUMMARY:GiRśb (ć)
+LOCATION:31/158
+DESCRIPTION:Globalne i regionalne środowisko bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Kościelecki Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T175000
+DTEND:20251208T192500
+SUMMARY:GiRśb (ć)
+LOCATION:31/158
+DESCRIPTION:Globalne i regionalne środowisko bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Kościelecki Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T175000
+DTEND:20251215T192500
+SUMMARY:GiRśb (ć)
+LOCATION:31/158
+DESCRIPTION:Globalne i regionalne środowisko bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Kościelecki Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250119T175000
+DTEND:20250119T192500
+SUMMARY:BIwO (ć)
+LOCATION:37/158
+DESCRIPTION:Bezpieczeństwo informacji w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251117T194000
+DTEND:20251117T211500
+SUMMARY:GiRśb (ć)
+LOCATION:31/158
+DESCRIPTION:Globalne i regionalne środowisko bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Kościelecki Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251124T194000
+DTEND:20251124T211500
+SUMMARY:GiRśb (ć)
+LOCATION:31/158
+DESCRIPTION:Globalne i regionalne środowisko bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Kościelecki Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T194000
+DTEND:20251208T211500
+SUMMARY:GiRśb (ć)
+LOCATION:31/158
+DESCRIPTION:Globalne i regionalne środowisko bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Kościelecki Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T194000
+DTEND:20251215T211500
+SUMMARY:GiRśb (ć)
+LOCATION:31/158
+DESCRIPTION:Globalne i regionalne środowisko bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Kościelecki Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250119T194000
+DTEND:20250119T211500
+SUMMARY:BIwO (ć)
+LOCATION:37/158
+DESCRIPTION:Bezpieczeństwo informacji w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251007T095000
+DTEND:20251007T112500
+SUMMARY:IiDwO (w)
+LOCATION:26/158
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T095000
+DTEND:20251125T112500
+SUMMARY:MiNPI (ć)
+LOCATION:1a/28
+DESCRIPTION:Metodyka i narzędzia pozyskiwania informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T095000
+DTEND:20251209T112500
+SUMMARY:BIwO (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Bezpieczeństwo informacji w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251007T114000
+DTEND:20251007T131500
+SUMMARY:IiDwO (w)
+LOCATION:26/158
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251118T114000
+DTEND:20251118T131500
+SUMMARY:Gd (ć)
+LOCATION:31/158
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr hab. Świerszcz Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T114000
+DTEND:20251125T131500
+SUMMARY:UiTK (w)
+LOCATION:31/158
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. Skrabacz Aleksandra
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T114000
+DTEND:20251209T131500
+SUMMARY:BIwO (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Bezpieczeństwo informacji w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251007T133000
+DTEND:20251007T150500
+SUMMARY:P 
+LOCATION:31/158
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 3/15\nProwadzący: dr inż. Kleszcz Sławomir; dr hab. Świerszcz Katarzyna; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251014T133000
+DTEND:20251014T150500
+SUMMARY:P 
+LOCATION:31/158
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 4/15\nProwadzący: dr inż. Kleszcz Sławomir; dr hab. Świerszcz Katarzyna; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251021T133000
+DTEND:20251021T150500
+SUMMARY:Rozpozanie 
+LOCATION:2.21/135
+DESCRIPTION:Rozpozanie\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: dr inż. Kleszcz Sławomir; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251118T133000
+DTEND:20251118T150500
+SUMMARY:PZIwO (w)
+LOCATION:31/158
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Karczewski Edward
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T133000
+DTEND:20251125T150500
+SUMMARY:IiDwO (w)
+LOCATION:26/158
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251202T133000
+DTEND:20251202T150500
+SUMMARY:UiTK (w)
+LOCATION:37/158
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr hab. Skrabacz Aleksandra
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T133000
+DTEND:20251209T150500
+SUMMARY:MiNPI (ć)
+LOCATION:1a/28
+DESCRIPTION:Metodyka i narzędzia pozyskiwania informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250113T133000
+DTEND:20250113T150500
+SUMMARY:IiDwO (ć)
+LOCATION:1a/28
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251007T160000
+DTEND:20251007T173500
+SUMMARY:MiNPI (w)
+LOCATION:31/158
+DESCRIPTION:Metodyka i narzędzia pozyskiwania informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Karczewski Edward
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251014T160000
+DTEND:20251014T173500
+SUMMARY:MiNPI (w)
+LOCATION:31/158
+DESCRIPTION:Metodyka i narzędzia pozyskiwania informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Karczewski Edward
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251021T160000
+DTEND:20251021T173500
+SUMMARY:MiNPI (w)
+LOCATION:31/158
+DESCRIPTION:Metodyka i narzędzia pozyskiwania informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Karczewski Edward
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251118T160000
+DTEND:20251118T173500
+SUMMARY:MiNPI (w)
+LOCATION:31/158
+DESCRIPTION:Metodyka i narzędzia pozyskiwania informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Karczewski Edward
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T160000
+DTEND:20251125T173500
+SUMMARY:IiDwO (w)
+LOCATION:26/158
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251202T160000
+DTEND:20251202T173500
+SUMMARY:MiNPI (w)
+LOCATION:31/158
+DESCRIPTION:Metodyka i narzędzia pozyskiwania informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Karczewski Edward
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T160000
+DTEND:20251209T173500
+SUMMARY:P 
+LOCATION:5.17/135
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 5/15\nProwadzący: dr inż. Kleszcz Sławomir; dr hab. Świerszcz Katarzyna; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250113T160000
+DTEND:20250113T173500
+SUMMARY:IiDwO (ć)
+LOCATION:1a/28
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251007T175000
+DTEND:20251007T192500
+SUMMARY:Fb (w)
+LOCATION:0.8/16
+DESCRIPTION:Filozofia bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Warchał Arnold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251014T175000
+DTEND:20251014T192500
+SUMMARY:GiRśb (w)
+LOCATION:0.8/16
+DESCRIPTION:Globalne i regionalne środowisko bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Kościelecki Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251021T175000
+DTEND:20251021T192500
+SUMMARY:Fb (w)
+LOCATION:0.8/16
+DESCRIPTION:Filozofia bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Warchał Arnold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251118T175000
+DTEND:20251118T192500
+SUMMARY:Fb (w)
+LOCATION:0.8/16
+DESCRIPTION:Filozofia bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Warchał Arnold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T175000
+DTEND:20251125T192500
+SUMMARY:GiRśb (w)
+LOCATION:0.8/16
+DESCRIPTION:Globalne i regionalne środowisko bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Kościelecki Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251202T175000
+DTEND:20251202T192500
+SUMMARY:Fb (w)
+LOCATION:0.8/16
+DESCRIPTION:Filozofia bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Warchał Arnold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T175000
+DTEND:20251209T192500
+SUMMARY:P 
+LOCATION:5.17/135
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: dr inż. Kleszcz Sławomir; dr hab. Świerszcz Katarzyna; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251216T175000
+DTEND:20251216T192500
+SUMMARY:UiTK (ć)
+LOCATION:5.21/135
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. Skrabacz Aleksandra
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251007T194000
+DTEND:20251007T211500
+SUMMARY:GiRśb (w)
+LOCATION:0.8/16
+DESCRIPTION:Globalne i regionalne środowisko bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Kościelecki Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251021T194000
+DTEND:20251021T211500
+SUMMARY:GiRśb (w)
+LOCATION:0.8/16
+DESCRIPTION:Globalne i regionalne środowisko bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Kościelecki Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251118T194000
+DTEND:20251118T211500
+SUMMARY:GiRśb (w)
+LOCATION:0.8/16
+DESCRIPTION:Globalne i regionalne środowisko bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Kościelecki Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T194000
+DTEND:20251125T211500
+SUMMARY:GiRśb (w)
+LOCATION:0.8/16
+DESCRIPTION:Globalne i regionalne środowisko bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Kościelecki Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251202T194000
+DTEND:20251202T211500
+SUMMARY:GiRśb (w)
+LOCATION:0.8/16
+DESCRIPTION:Globalne i regionalne środowisko bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Kościelecki Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251216T194000
+DTEND:20251216T211500
+SUMMARY:UiTK (ć)
+LOCATION:5.21/135
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr hab. Skrabacz Aleksandra
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251001T080000
+DTEND:20251001T093500
+SUMMARY:WiK (w)
+LOCATION:31/158
+DESCRIPTION:Wywiad i kontrwywiad\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: prof. dr hab. Misiuk Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251022T080000
+DTEND:20251022T093500
+SUMMARY:Lg (ć)
+LOCATION:26/158
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250128T080000
+DTEND:20250128T093500
+SUMMARY:MiNPI (ć)
+LOCATION:1a/28
+DESCRIPTION:Metodyka i narzędzia pozyskiwania informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T095000
@@ -410,508 +438,578 @@ LOCATION:309 S
 DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250409T114000
-DTEND:20250409T131500
-SUMMARY:Pwff (w)
-LOCATION:301/S
-DESCRIPTION:Prognozowanie wojenne, futurologia i foresighting\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Marciniak Mirosław
+DTSTART:20251001T095000
+DTEND:20251001T112500
+SUMMARY:WiK (w)
+LOCATION:31/158
+DESCRIPTION:Wywiad i kontrwywiad\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250416T114000
-DTEND:20250416T131500
-SUMMARY:Pwff (w)
-LOCATION:301/S
-DESCRIPTION:Prognozowanie wojenne, futurologia i foresighting\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Marciniak Mirosław
+DTSTART:20251015T095000
+DTEND:20251015T112500
+SUMMARY:UiTK (w)
+LOCATION:31/158
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. Skrabacz Aleksandra
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T114000
-DTEND:20250430T131500
-SUMMARY:STiP (ć)
-LOCATION:5.27/135
-DESCRIPTION:Strzelanie - teoria i praktyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
+DTSTART:20251022T095000
+DTEND:20251022T112500
+SUMMARY:Rozpozanie 
+LOCATION:31/158
+DESCRIPTION:Rozpozanie\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: dr inż. Kleszcz Sławomir; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250507T114000
-DTEND:20250507T131500
-SUMMARY:STiP (w)
+DTSTART:20251203T095000
+DTEND:20251203T112500
+SUMMARY:Bezzałogowe 
 LOCATION:0.8/16
-DESCRIPTION:Strzelanie - teoria i praktyka\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: mgr Trzcińska Luiza
+DESCRIPTION:Bezzałogowe\nRodzaj zajęć: -\nNumer zajęć: 1/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250514T114000
-DTEND:20250514T131500
-SUMMARY:Pwff (w)
-LOCATION:301/S
-DESCRIPTION:Prognozowanie wojenne, futurologia i foresighting\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Marciniak Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250528T114000
-DTEND:20250528T131500
-SUMMARY:Titw (ć)
-LOCATION:1.17/16
-DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250604T114000
-DTEND:20250604T131500
-SUMMARY:Pcww (ć)
+DTSTART:20251210T095000
+DTEND:20251210T112500
+SUMMARY:PZIwO (ć)
 LOCATION:1a/28
-DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 4.23
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250611T114000
-DTEND:20250611T131500
-SUMMARY:Pwff (ć)
-LOCATION:1.17/16
-DESCRIPTION:Prognozowanie wojenne, futurologia i foresighting\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Marciniak Mirosław
+DTSTART:20251217T095000
+DTEND:20251217T112500
+SUMMARY:IiDwO (ć)
+LOCATION:0.24/135
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250618T114000
-DTEND:20250618T131500
-SUMMARY:STiP (ć)
-LOCATION:5.27/135
-DESCRIPTION:Strzelanie - teoria i praktyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
+DTSTART:20250128T095000
+DTEND:20250128T112500
+SUMMARY:Lg (ć)
+LOCATION:26/158
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.24
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250409T133000
-DTEND:20250409T150500
-SUMMARY:Titw (ć)
-LOCATION:1.17/16
-DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Ćwik Dariusz
+DTSTART:20251001T114000
+DTEND:20251001T131500
+SUMMARY:PZIwO (w)
+LOCATION:31/158
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T133000
-DTEND:20250430T150500
-SUMMARY:STiP (ć)
-LOCATION:5.27/135
-DESCRIPTION:Strzelanie - teoria i praktyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
+DTSTART:20251008T114000
+DTEND:20251008T131500
+SUMMARY:WiK (w)
+LOCATION:31/158
+DESCRIPTION:Wywiad i kontrwywiad\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250507T133000
-DTEND:20250507T150500
-SUMMARY:Pszw (w)
+DTSTART:20251015T114000
+DTEND:20251015T131500
+SUMMARY:UiTK (w)
+LOCATION:31/158
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. Skrabacz Aleksandra
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T114000
+DTEND:20251203T131500
+SUMMARY:Lg (w)
 LOCATION:0.8/16
-DESCRIPTION:Podstawy sztuki wojennej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Kleszcz Sławomir
+DESCRIPTION:Logika\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.24
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250514T133000
-DTEND:20250514T150500
-SUMMARY:Pwff (w)
-LOCATION:301/S
-DESCRIPTION:Prognozowanie wojenne, futurologia i foresighting\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Marciniak Mirosław
+DTSTART:20251210T114000
+DTEND:20251210T131500
+SUMMARY:UiTK (w)
+LOCATION:31/158
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. Skrabacz Aleksandra
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250604T133000
-DTEND:20250604T150500
-SUMMARY:Pwff (w)
-LOCATION:1.10/16
-DESCRIPTION:Prognozowanie wojenne, futurologia i foresighting\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Marciniak Mirosław
+DTSTART:20251217T114000
+DTEND:20251217T131500
+SUMMARY:Rozpozanie 
+LOCATION:26/158
+DESCRIPTION:Rozpozanie\nRodzaj zajęć: -\nNumer zajęć: 3/15\nProwadzący: dr inż. Kleszcz Sławomir; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250611T133000
-DTEND:20250611T150500
-SUMMARY:Pszw (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Podstawy sztuki wojennej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Kleszcz Sławomir
+DTSTART:20250128T114000
+DTEND:20250128T131500
+SUMMARY:Lg (ć)
+LOCATION:26/158
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.24
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250409T160000
-DTEND:20250409T173500
-SUMMARY:Titw (ć)
-LOCATION:1.17/16
-DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Ćwik Dariusz
+DTSTART:20251001T133000
+DTEND:20251001T150500
+SUMMARY:MiNPI (w)
+LOCATION:31/158
+DESCRIPTION:Metodyka i narzędzia pozyskiwania informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T160000
-DTEND:20250430T173500
-SUMMARY:Bee (ć)
-LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Adamkiewicz Jakub
+DTSTART:20251008T133000
+DTEND:20251008T150500
+SUMMARY:PZIwO (w)
+LOCATION:31/158
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250507T160000
-DTEND:20250507T173500
-SUMMARY:Pszw (w)
+DTSTART:20251015T133000
+DTEND:20251015T150500
+SUMMARY:WiK (w)
+LOCATION:31/158
+DESCRIPTION:Wywiad i kontrwywiad\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: prof. dr hab. Misiuk Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251112T133000
+DTEND:20251112T150500
+SUMMARY:MiNPI (w)
+LOCATION:37/158
+DESCRIPTION:Metodyka i narzędzia pozyskiwania informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Karczewski Edward
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T133000
+DTEND:20251119T150500
+SUMMARY:Rozpozanie 
+LOCATION:37/158
+DESCRIPTION:Rozpozanie\nRodzaj zajęć: -\nNumer zajęć: 4/15\nProwadzący: dr inż. Kleszcz Sławomir; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T133000
+DTEND:20251203T150500
+SUMMARY:PZIwO (w)
+LOCATION:37/158
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Karczewski Edward
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251210T133000
+DTEND:20251210T150500
+SUMMARY:PZIwO (w)
+LOCATION:31/158
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Karczewski Edward
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T133000
+DTEND:20251217T150500
+SUMMARY:PZIwO (w)
+LOCATION:26/158
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Karczewski Edward
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250128T133000
+DTEND:20250128T150500
+SUMMARY:IiDwO (ć)
+LOCATION:0.7/16
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251001T160000
+DTEND:20251001T173500
+SUMMARY:Lg (w)
 LOCATION:0.8/16
-DESCRIPTION:Podstawy sztuki wojennej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Kleszcz Sławomir
+DESCRIPTION:Logika\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.24
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T175000
-DTEND:20250430T192500
-SUMMARY:Bee (ć)
-LOCATION:1.15/16
-DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Adamkiewicz Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250327T080000
-DTEND:20250327T093500
-SUMMARY:Ekm (w)
+DTSTART:20251008T160000
+DTEND:20251008T173500
+SUMMARY:Lg (w)
 LOCATION:0.8/16
-DESCRIPTION:Ekonomia menedżerska\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: prof. dr hab. Kościelecki Lech
+DESCRIPTION:Logika\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.24
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250403T080000
-DTEND:20250403T093500
-SUMMARY:Titw (ć)
-LOCATION:1a/28
-DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Ćwik Dariusz
+DTSTART:20251015T160000
+DTEND:20251015T173500
+SUMMARY:WiK (w)
+LOCATION:31/158
+DESCRIPTION:Wywiad i kontrwywiad\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250410T080000
-DTEND:20250410T093500
-SUMMARY:Pszw (w)
+DTSTART:20251022T160000
+DTEND:20251022T173500
+SUMMARY:Lg (w)
 LOCATION:0.8/16
-DESCRIPTION:Podstawy sztuki wojennej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Kleszcz Sławomir
+DESCRIPTION:Logika\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.24
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250529T080000
-DTEND:20250529T093500
-SUMMARY:Pszw (w)
+DTSTART:20251029T160000
+DTEND:20251029T173500
+SUMMARY:Fb (ć)
+LOCATION:31/158
+DESCRIPTION:Filozofia bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Warchał Arnold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251112T160000
+DTEND:20251112T173500
+SUMMARY:Bezzałogowe 
 LOCATION:0.8/16
-DESCRIPTION:Podstawy sztuki wojennej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Kleszcz Sławomir
+DESCRIPTION:Bezzałogowe\nRodzaj zajęć: -\nNumer zajęć: 2/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250605T080000
-DTEND:20250605T093500
-SUMMARY:Pkid (ć)
-LOCATION:9/158
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Karczewski Edward
+DTSTART:20251119T160000
+DTEND:20251119T173500
+SUMMARY:WiK (w)
+LOCATION:31/158
+DESCRIPTION:Wywiad i kontrwywiad\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250612T080000
-DTEND:20250612T093500
-SUMMARY:Pszw (ć)
-LOCATION:0.21/16; 255 S
-DESCRIPTION:Podstawy sztuki wojennej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr inż. Kleszcz Sławomir
+DTSTART:20251203T160000
+DTEND:20251203T173500
+SUMMARY:PZIwO (w)
+LOCATION:37/158
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250313T095000
-DTEND:20250313T112500
-SUMMARY:Titw (w)
+DTSTART:20251210T160000
+DTEND:20251210T173500
+SUMMARY:Lg (w)
 LOCATION:0.8/16
-DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Ćwik Dariusz
+DESCRIPTION:Logika\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.24
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250327T095000
-DTEND:20250327T112500
-SUMMARY:Ekm (w)
+DTSTART:20251217T160000
+DTEND:20251217T173500
+SUMMARY:Lg (w)
 LOCATION:0.8/16
-DESCRIPTION:Ekonomia menedżerska\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: prof. dr hab. Kościelecki Lech
+DESCRIPTION:Logika\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.24
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250403T095000
-DTEND:20250403T112500
-SUMMARY:Titw (ć)
-LOCATION:1a/28
-DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250410T095000
-DTEND:20250410T112500
-SUMMARY:Ekm (w)
-LOCATION:0.8/16
-DESCRIPTION:Ekonomia menedżerska\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250424T095000
-DTEND:20250424T112500
-SUMMARY:Ekm (ć)
-LOCATION:4.23/135
-DESCRIPTION:Ekonomia menedżerska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250508T095000
-DTEND:20250508T112500
-SUMMARY:Pwff (w)
-LOCATION:0.28/135
-DESCRIPTION:Prognozowanie wojenne, futurologia i foresighting\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Marciniak Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250529T095000
-DTEND:20250529T112500
-SUMMARY:Twin (w)
-LOCATION:0.8/16
-DESCRIPTION:Technologia wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Kubaczyk Tadeusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250605T095000
-DTEND:20250605T112500
-SUMMARY:Pkid (ć)
-LOCATION:9/158
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Karczewski Edward
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250612T095000
-DTEND:20250612T112500
-SUMMARY:Pszw (ć)
+DTSTART:20250121T160000
+DTEND:20250121T173500
+SUMMARY:Rozpozanie 
 LOCATION:255 S
-DESCRIPTION:Podstawy sztuki wojennej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr inż. Kleszcz Sławomir
+DESCRIPTION:Rozpozanie\nRodzaj zajęć: -\nNumer zajęć: 5/15\nProwadzący: dr inż. Kleszcz Sławomir; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250306T114000
-DTEND:20250306T131500
-SUMMARY:Ja (ć)
-LOCATION:241 K; 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15
+DTSTART:20250128T160000
+DTEND:20250128T173500
+SUMMARY:IiDwO (ć)
+LOCATION:0.7/16
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250313T114000
-DTEND:20250313T131500
-SUMMARY:Ja (ć)
-LOCATION:241 K; 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250320T114000
-DTEND:20250320T131500
-SUMMARY:Ja (ć)
-LOCATION:241 K; 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250327T114000
-DTEND:20250327T131500
-SUMMARY:Ja (ć)
-LOCATION:241 K; 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250403T114000
-DTEND:20250403T131500
-SUMMARY:Ja (ć)
-LOCATION:241 K; 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250410T114000
-DTEND:20250410T131500
-SUMMARY:Ja (ć)
-LOCATION:241 K; 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250417T114000
-DTEND:20250417T131500
-SUMMARY:Ja (ć)
-LOCATION:241 K; 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250424T114000
-DTEND:20250424T131500
-SUMMARY:Ja (ć)
-LOCATION:241 K; 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250508T114000
-DTEND:20250508T131500
-SUMMARY:Ja (ć)
-LOCATION:241 K; 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250515T114000
-DTEND:20250515T131500
-SUMMARY:Ja (ć)
-LOCATION:241 K; 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250522T114000
-DTEND:20250522T131500
-SUMMARY:Ja (ć)
-LOCATION:241 K; 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250529T114000
-DTEND:20250529T131500
-SUMMARY:Ja (ć)
-LOCATION:241 K; 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250605T114000
-DTEND:20250605T131500
-SUMMARY:Ja (ć)
-LOCATION:241 K; 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250612T114000
-DTEND:20250612T131500
-SUMMARY:Ja (ć)
-LOCATION:241 K; 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250306T133000
-DTEND:20250306T150500
-SUMMARY:Titw (w)
+DTSTART:20251008T175000
+DTEND:20251008T192500
+SUMMARY:Bezzałogowe 
 LOCATION:0.8/16
-DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Ćwik Dariusz
+DESCRIPTION:Bezzałogowe\nRodzaj zajęć: -\nNumer zajęć: 3/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250320T133000
-DTEND:20250320T150500
-SUMMARY:Bee (w)
-LOCATION:255 S
-DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Adamkiewicz Jakub
+DTSTART:20251015T175000
+DTEND:20251015T192500
+SUMMARY:Lg (ć)
+LOCATION:26/158
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.24
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250327T133000
-DTEND:20250327T150500
-SUMMARY:Bee (ć)
-LOCATION:0.21/16
-DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Adamkiewicz Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250403T133000
-DTEND:20250403T150500
-SUMMARY:Ekm (w)
+DTSTART:20251022T175000
+DTEND:20251022T192500
+SUMMARY:Bezzałogowe 
 LOCATION:0.8/16
-DESCRIPTION:Ekonomia menedżerska\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: prof. dr hab. Kościelecki Lech
+DESCRIPTION:Bezzałogowe\nRodzaj zajęć: -\nNumer zajęć: 4/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250410T133000
-DTEND:20250410T150500
-SUMMARY:Bee (ć)
+DTSTART:20251029T175000
+DTEND:20251029T192500
+SUMMARY:Fb (ć)
+LOCATION:31/158
+DESCRIPTION:Filozofia bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Warchał Arnold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251112T175000
+DTEND:20251112T192500
+SUMMARY:Lg (w)
+LOCATION:0.8/16
+DESCRIPTION:Logika\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T175000
+DTEND:20251119T192500
+SUMMARY:WiK (w)
+LOCATION:31/158
+DESCRIPTION:Wywiad i kontrwywiad\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: prof. dr hab. Misiuk Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T175000
+DTEND:20251203T192500
+SUMMARY:PDwK (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251210T175000
+DTEND:20251210T192500
+SUMMARY:Bezzałogowe 
+LOCATION:0.8/16
+DESCRIPTION:Bezzałogowe\nRodzaj zajęć: -\nNumer zajęć: 5/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T175000
+DTEND:20251217T192500
+SUMMARY:Bezzałogowe 
+LOCATION:0.8/16
+DESCRIPTION:Bezzałogowe\nRodzaj zajęć: -\nNumer zajęć: 6/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T175000
+DTEND:20250107T192500
+SUMMARY:WiK (ć)
 LOCATION:5.21/135
-DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Adamkiewicz Jakub
+DESCRIPTION:Wywiad i kontrwywiad\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250417T133000
-DTEND:20250417T150500
-SUMMARY:Bee (w)
+DTSTART:20250114T175000
+DTEND:20250114T192500
+SUMMARY:PDwK (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250121T175000
+DTEND:20250121T192500
+SUMMARY:Rozpozanie 
+LOCATION:255 S
+DESCRIPTION:Rozpozanie\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: dr inż. Kleszcz Sławomir; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251008T194000
+DTEND:20251008T211500
+SUMMARY:Bezzałogowe 
 LOCATION:0.8/16
-DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Adamkiewicz Jakub
+DESCRIPTION:Bezzałogowe\nRodzaj zajęć: -\nNumer zajęć: 7/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250424T133000
-DTEND:20250424T150500
-SUMMARY:Bee (ć)
-LOCATION:1.15/16
-DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Adamkiewicz Jakub
+DTSTART:20251203T194000
+DTEND:20251203T211500
+SUMMARY:PDwK (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250508T133000
-DTEND:20250508T150500
-SUMMARY:Pwff (ć)
-LOCATION:0.21/16
-DESCRIPTION:Prognozowanie wojenne, futurologia i foresighting\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Marciniak Mirosław
+DTSTART:20250107T194000
+DTEND:20250107T211500
+SUMMARY:WiK (ć)
+LOCATION:5.21/135
+DESCRIPTION:Wywiad i kontrwywiad\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250522T133000
-DTEND:20250522T150500
-SUMMARY:Ekm (ć)
-LOCATION:0.21/16
-DESCRIPTION:Ekonomia menedżerska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: prof. dr hab. Kościelecki Lech
+DTSTART:20250114T194000
+DTEND:20250114T211500
+SUMMARY:PDwK (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250529T133000
-DTEND:20250529T150500
-SUMMARY:Bee (ć)
+DTSTART:20250121T194000
+DTEND:20250121T211500
+SUMMARY:Lg (ć)
+LOCATION:26/158
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T080000
+DTEND:20251120T093500
+SUMMARY:Gd (ć)
+LOCATION:9/158
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. Świerszcz Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T080000
+DTEND:20251211T093500
+SUMMARY:Fb (ć)
 LOCATION:31/158
-DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Adamkiewicz Jakub
+DESCRIPTION:Filozofia bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Warchał Arnold
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250605T133000
-DTEND:20250605T150500
-SUMMARY:PiWy 
-LOCATION:
-DESCRIPTION:PiWy\nRodzaj zajęć: -\nNumer zajęć: 1/4
+DTSTART:20251218T080000
+DTEND:20251218T093500
+SUMMARY:Fb (ć)
+LOCATION:31/158
+DESCRIPTION:Filozofia bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Warchał Arnold
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250306T160000
-DTEND:20250306T173500
-SUMMARY:Ekm (w)
-LOCATION:0.8/16
-DESCRIPTION:Ekonomia menedżerska\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: prof. dr hab. Kościelecki Lech
+DTSTART:20250108T080000
+DTEND:20250108T093500
+SUMMARY:Fb (ć)
+LOCATION:31/158
+DESCRIPTION:Filozofia bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Warchał Arnold
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250424T160000
-DTEND:20250424T173500
-SUMMARY:Bee (ć)
-LOCATION:1.15/16
-DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Adamkiewicz Jakub
+DTSTART:20251009T095000
+DTEND:20251009T112500
+SUMMARY:IiDwO (w)
+LOCATION:37/158
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250508T160000
-DTEND:20250508T173500
-SUMMARY:Pwff (ć)
+DTSTART:20251113T095000
+DTEND:20251113T112500
+SUMMARY:PDwK (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T095000
+DTEND:20251120T112500
+SUMMARY:Gd (ć)
+LOCATION:9/158
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. Świerszcz Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T095000
+DTEND:20251211T112500
+SUMMARY:Fb (ć)
+LOCATION:31/158
+DESCRIPTION:Filozofia bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Warchał Arnold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251218T095000
+DTEND:20251218T112500
+SUMMARY:Fb (ć)
+LOCATION:31/158
+DESCRIPTION:Filozofia bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Warchał Arnold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T095000
+DTEND:20250108T112500
+SUMMARY:Fb (ć)
+LOCATION:31/158
+DESCRIPTION:Filozofia bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Warchał Arnold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251009T114000
+DTEND:20251009T131500
+SUMMARY:IiDwO (w)
+LOCATION:37/158
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251113T114000
+DTEND:20251113T131500
+SUMMARY:PDwK (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T114000
+DTEND:20250108T131500
+SUMMARY:Lg (ć)
 LOCATION:0.21/16
-DESCRIPTION:Prognozowanie wojenne, futurologia i foresighting\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Marciniak Mirosław
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.24
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250522T160000
-DTEND:20250522T173500
-SUMMARY:Pcww (w)
+DTSTART:20250129T114000
+DTEND:20250129T131500
+SUMMARY:PZIwO (ć)
+LOCATION:1a/28
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 4.23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251016T133000
+DTEND:20251016T150500
+SUMMARY:Rozpozanie 
+LOCATION:37/158
+DESCRIPTION:Rozpozanie\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr inż. Kleszcz Sławomir; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T133000
+DTEND:20250129T150500
+SUMMARY:PZIwO (ć)
+LOCATION:1a/28
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 4.23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251016T160000
+DTEND:20251016T173500
+SUMMARY:Rozpozanie 
+LOCATION:37/158
+DESCRIPTION:Rozpozanie\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr inż. Kleszcz Sławomir; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251023T160000
+DTEND:20251023T173500
+SUMMARY:Rozpozanie 
+LOCATION:37/158
+DESCRIPTION:Rozpozanie\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: dr inż. Kleszcz Sławomir; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T160000
+DTEND:20251127T173500
+SUMMARY:PZIwO (ć)
+LOCATION:2/22
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 4.23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250115T160000
+DTEND:20250115T173500
+SUMMARY:WiK (ć)
+LOCATION:5.21/135
+DESCRIPTION:Wywiad i kontrwywiad\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: prof. dr hab. Misiuk Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T160000
+DTEND:20250129T173500
+SUMMARY:WiK (ć)
 LOCATION:0.8/16
-DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Wywiad i kontrwywiad\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250529T160000
-DTEND:20250529T173500
-SUMMARY:Pkid (ć)
-LOCATION:31/158
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Karczewski Edward
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250605T160000
-DTEND:20250605T173500
-SUMMARY:PiWy 
-LOCATION:
-DESCRIPTION:PiWy\nRodzaj zajęć: -\nNumer zajęć: 2/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250306T175000
-DTEND:20250306T192500
-SUMMARY:Bee (w)
+DTSTART:20251016T175000
+DTEND:20251016T192500
+SUMMARY:BIwO (w)
 LOCATION:0.8/16
-DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Adamkiewicz Jakub
+DESCRIPTION:Bezpieczeństwo informacji w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250508T175000
-DTEND:20250508T192500
-SUMMARY:Pkid (ć)
-LOCATION:31/158
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Karczewski Edward
+DTSTART:20251023T175000
+DTEND:20251023T192500
+SUMMARY:Rozpozanie 
+LOCATION:37/158
+DESCRIPTION:Rozpozanie\nRodzaj zajęć: -\nNumer zajęć: 10/15\nProwadzący: dr inż. Kleszcz Sławomir; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250522T175000
-DTEND:20250522T192500
-SUMMARY:Pcww (w)
+DTSTART:20251106T175000
+DTEND:20251106T192500
+SUMMARY:Lg (ć)
+LOCATION:26/158
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T175000
+DTEND:20251127T192500
+SUMMARY:PZIwO (ć)
+LOCATION:2/22
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 4.23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250115T175000
+DTEND:20250115T192500
+SUMMARY:WiK (ć)
+LOCATION:5.21/135
+DESCRIPTION:Wywiad i kontrwywiad\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: prof. dr hab. Misiuk Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T175000
+DTEND:20250129T192500
+SUMMARY:WiK (ć)
 LOCATION:0.8/16
-DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Wywiad i kontrwywiad\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: prof. dr hab. Misiuk Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250605T175000
-DTEND:20250605T192500
-SUMMARY:PiWy 
-LOCATION:
-DESCRIPTION:PiWy\nRodzaj zajęć: -\nNumer zajęć: 3/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250605T194000
-DTEND:20250605T211500
-SUMMARY:PiWy 
-LOCATION:
-DESCRIPTION:PiWy\nRodzaj zajęć: -\nNumer zajęć: 4/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250509T080000
-DTEND:20250509T093500
-SUMMARY:Pkid (w)
+DTSTART:20251016T194000
+DTEND:20251016T211500
+SUMMARY:PDwK (w)
 LOCATION:0.8/16
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Karczewski Edward
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250627T080000
-DTEND:20250627T093500
-SUMMARY:Pszw (E)
-LOCATION:301/S
-DESCRIPTION:Podstawy sztuki wojennej\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Kleszcz Sławomir
+DTSTART:20251106T194000
+DTEND:20251106T211500
+SUMMARY:Lg (ć)
+LOCATION:26/158
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T194000
+DTEND:20251127T211500
+SUMMARY:UiTK (ć)
+LOCATION:4.23/135
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. Skrabacz Aleksandra
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T080000
@@ -921,206 +1019,409 @@ LOCATION:301/S
 DESCRIPTION:Podstawy sztuki wojennej\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250314T095000
-DTEND:20250314T112500
-SUMMARY:Pcww (w)
+DTSTART:20251010T080000
+DTEND:20251010T093500
+SUMMARY:BIwO (w)
 LOCATION:0.8/16
-DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Bezpieczeństwo informacji w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250404T095000
-DTEND:20250404T112500
-SUMMARY:Pcww (ć)
+DTSTART:20251212T080000
+DTEND:20251212T093500
+SUMMARY:BIwO (w)
+LOCATION:0.8/16
+DESCRIPTION:Bezpieczeństwo informacji w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251219T080000
+DTEND:20251219T093500
+SUMMARY:IiDwO (w)
+LOCATION:2.21/135
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T080000
+DTEND:20250116T093500
+SUMMARY:MiNPI (ć)
 LOCATION:1a/28
-DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
+DESCRIPTION:Metodyka i narzędzia pozyskiwania informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250411T095000
-DTEND:20250411T112500
-SUMMARY:Ekm (ć)
-LOCATION:26/158
-DESCRIPTION:Ekonomia menedżerska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250509T095000
-DTEND:20250509T112500
-SUMMARY:Pkid (w)
-LOCATION:0.8/16
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Karczewski Edward
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250516T095000
-DTEND:20250516T112500
-SUMMARY:Pkid (ć)
+DTSTART:20251003T095000
+DTEND:20251003T112500
+SUMMARY:UiTK (w)
 LOCATION:31/158
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Karczewski Edward
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. Skrabacz Aleksandra
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250314T114000
-DTEND:20250314T131500
-SUMMARY:Pcww (w)
+DTSTART:20251010T095000
+DTEND:20251010T112500
+SUMMARY:PDwK (w)
 LOCATION:0.8/16
-DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250404T114000
-DTEND:20250404T131500
-SUMMARY:Pcww (ć)
-LOCATION:1a/28
-DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250411T114000
-DTEND:20250411T131500
-SUMMARY:Ekm (ć)
-LOCATION:26/158
-DESCRIPTION:Ekonomia menedżerska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250509T114000
-DTEND:20250509T131500
-SUMMARY:Pwff (ć)
+DTSTART:20251017T095000
+DTEND:20251017T112500
+SUMMARY:Rozpozanie 
 LOCATION:2.21/135
-DESCRIPTION:Prognozowanie wojenne, futurologia i foresighting\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Marciniak Mirosław
+DESCRIPTION:Rozpozanie\nRodzaj zajęć: -\nNumer zajęć: 11/15\nProwadzący: dr inż. Kleszcz Sławomir; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250516T114000
-DTEND:20250516T131500
-SUMMARY:Pcww (ć)
-LOCATION:1a/28
-DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
+DTSTART:20251107T095000
+DTEND:20251107T112500
+SUMMARY:IiDwO (ć)
+LOCATION:4.23/135
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250404T133000
-DTEND:20250404T150500
-SUMMARY:Twin (ć)
-LOCATION:1.15/16
-DESCRIPTION:Technologia wojny informacyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250411T133000
-DTEND:20250411T150500
-SUMMARY:Pkid (w)
-LOCATION:0.8/16
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Karczewski Edward
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250509T133000
-DTEND:20250509T150500
-SUMMARY:Pwff (ć)
-LOCATION:2.21/135
-DESCRIPTION:Prognozowanie wojenne, futurologia i foresighting\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Marciniak Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250516T133000
-DTEND:20250516T150500
-SUMMARY:Pcww (ć)
-LOCATION:1a/28
-DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250523T133000
-DTEND:20250523T150500
-SUMMARY:Twin (ć)
-LOCATION:1.16/16
-DESCRIPTION:Technologia wojny informacyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250606T133000
-DTEND:20250606T150500
-SUMMARY:Pcww (ć)
-LOCATION:1.27/135
-DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250613T133000
-DTEND:20250613T150500
-SUMMARY:Pkid (ć)
+DTSTART:20251121T095000
+DTEND:20251121T112500
+SUMMARY:IiDwO (ć)
 LOCATION:1.17/16
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Karczewski Edward
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250404T160000
-DTEND:20250404T173500
-SUMMARY:Pszw (w)
+DTSTART:20251212T095000
+DTEND:20251212T112500
+SUMMARY:BIwO (w)
 LOCATION:0.8/16
-DESCRIPTION:Podstawy sztuki wojennej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Kleszcz Sławomir
+DESCRIPTION:Bezpieczeństwo informacji w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250509T160000
-DTEND:20250509T173500
-SUMMARY:Twin (ć)
-LOCATION:2.25/135
-DESCRIPTION:Technologia wojny informacyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
+DTSTART:20251219T095000
+DTEND:20251219T112500
+SUMMARY:PDwK (w)
+LOCATION:0.8/16
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250516T160000
-DTEND:20250516T173500
-SUMMARY:Pwff (ć)
-LOCATION:4.17b/135
-DESCRIPTION:Prognozowanie wojenne, futurologia i foresighting\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Marciniak Mirosław
+DTSTART:20250109T095000
+DTEND:20250109T112500
+SUMMARY:UiTK (w)
+LOCATION:31/158
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. Skrabacz Aleksandra
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250523T160000
-DTEND:20250523T173500
-SUMMARY:Twin (ć)
-LOCATION:1.16/16
-DESCRIPTION:Technologia wojny informacyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
+DTSTART:20250116T095000
+DTEND:20250116T112500
+SUMMARY:MiNPI (ć)
+LOCATION:1a/28
+DESCRIPTION:Metodyka i narzędzia pozyskiwania informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250530T160000
-DTEND:20250530T173500
-SUMMARY:Twin (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Technologia wojny informacyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
+DTSTART:20250123T095000
+DTEND:20250123T112500
+SUMMARY:MiNPI (ć)
+LOCATION:1a/28
+DESCRIPTION:Metodyka i narzędzia pozyskiwania informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250606T160000
-DTEND:20250606T173500
-SUMMARY:Pcww (ć)
-LOCATION:1.27/135
-DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
+DTSTART:20251003T114000
+DTEND:20251003T131500
+SUMMARY:Gd (w)
+LOCATION:31/158
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr hab. Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250613T160000
-DTEND:20250613T173500
-SUMMARY:Pkid (ć)
-LOCATION:1.17/16
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Karczewski Edward
+DTSTART:20251010T114000
+DTEND:20251010T131500
+SUMMARY:PDwK (w)
+LOCATION:0.8/16
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250509T175000
-DTEND:20250509T192500
-SUMMARY:Ja (ć)
-LOCATION:241 K; 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250516T175000
-DTEND:20250516T192500
-SUMMARY:Pwff (ć)
-LOCATION:4.17b/135
-DESCRIPTION:Prognozowanie wojenne, futurologia i foresighting\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Marciniak Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250530T175000
-DTEND:20250530T192500
-SUMMARY:Twin (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Technologia wojny informacyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250606T175000
-DTEND:20250606T192500
-SUMMARY:Twin (ć)
+DTSTART:20251017T114000
+DTEND:20251017T131500
+SUMMARY:Rozpozanie 
 LOCATION:2.21/135
-DESCRIPTION:Technologia wojny informacyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
+DESCRIPTION:Rozpozanie\nRodzaj zajęć: -\nNumer zajęć: 12/15\nProwadzący: dr inż. Kleszcz Sławomir; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250613T175000
-DTEND:20250613T192500
-SUMMARY:Twin (ć)
-LOCATION:1.16/16
-DESCRIPTION:Technologia wojny informacyjnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
+DTSTART:20251031T114000
+DTEND:20251031T131500
+SUMMARY:P 
+LOCATION:2/22
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr inż. Kleszcz Sławomir; dr hab. Świerszcz Katarzyna; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251107T114000
+DTEND:20251107T131500
+SUMMARY:Rozpozanie 
+LOCATION:31/158
+DESCRIPTION:Rozpozanie\nRodzaj zajęć: -\nNumer zajęć: 13/15\nProwadzący: dr inż. Kleszcz Sławomir; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251114T114000
+DTEND:20251114T131500
+SUMMARY:Gd (w)
+LOCATION:31/158
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. Świerszcz Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T114000
+DTEND:20251121T131500
+SUMMARY:Gd (ć)
+LOCATION:31/158
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr hab. Świerszcz Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T114000
+DTEND:20251212T131500
+SUMMARY:Fb (w)
+LOCATION:0.8/16
+DESCRIPTION:Filozofia bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Warchał Arnold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251219T114000
+DTEND:20251219T131500
+SUMMARY:PDwK (w)
+LOCATION:0.8/16
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T114000
+DTEND:20250109T131500
+SUMMARY:MiNPI (ć)
+LOCATION:1a/28
+DESCRIPTION:Metodyka i narzędzia pozyskiwania informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T114000
+DTEND:20250116T131500
+SUMMARY:PZIwO (ć)
+LOCATION:1a/28
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 4.23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250123T114000
+DTEND:20250123T131500
+SUMMARY:MiNPI (ć)
+LOCATION:1a/28
+DESCRIPTION:Metodyka i narzędzia pozyskiwania informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251003T133000
+DTEND:20251003T150500
+SUMMARY:BIwO (w)
+LOCATION:0.8/16
+DESCRIPTION:Bezpieczeństwo informacji w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251010T133000
+DTEND:20251010T150500
+SUMMARY:Gd (w)
+LOCATION:31/158
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. Świerszcz Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251017T133000
+DTEND:20251017T150500
+SUMMARY:PZIwO (ć)
+LOCATION:2.21/135
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 4.23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251024T133000
+DTEND:20251024T150500
+SUMMARY:Gd (ć)
+LOCATION:31/158
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. Świerszcz Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251031T133000
+DTEND:20251031T150500
+SUMMARY:P 
+LOCATION:2/22
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr inż. Kleszcz Sławomir; dr hab. Świerszcz Katarzyna; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251107T133000
+DTEND:20251107T150500
+SUMMARY:Rozpozanie 
+LOCATION:31/158
+DESCRIPTION:Rozpozanie\nRodzaj zajęć: -\nNumer zajęć: 14/15\nProwadzący: dr inż. Kleszcz Sławomir; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251114T133000
+DTEND:20251114T150500
+SUMMARY:P 
+LOCATION:31/158
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: dr inż. Kleszcz Sławomir; dr hab. Świerszcz Katarzyna; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T133000
+DTEND:20251121T150500
+SUMMARY:Gd (ć)
+LOCATION:31/158
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr hab. Świerszcz Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251205T133000
+DTEND:20251205T150500
+SUMMARY:PDwK (ć)
+LOCATION:31/158
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T133000
+DTEND:20251212T150500
+SUMMARY:Fb (w)
+LOCATION:0.8/16
+DESCRIPTION:Filozofia bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Warchał Arnold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251219T133000
+DTEND:20251219T150500
+SUMMARY:Rozpozanie 
+LOCATION:2.21/135
+DESCRIPTION:Rozpozanie\nRodzaj zajęć: -\nNumer zajęć: 15/15\nProwadzący: dr inż. Kleszcz Sławomir; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T133000
+DTEND:20250109T150500
+SUMMARY:UiTK (ć)
+LOCATION:0.28/135
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr hab. Skrabacz Aleksandra
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T133000
+DTEND:20250116T150500
+SUMMARY:PZIwO (ć)
+LOCATION:1a/28
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 4.23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250123T133000
+DTEND:20250123T150500
+SUMMARY:P 
+LOCATION:5.17/135
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 10/15\nProwadzący: dr inż. Kleszcz Sławomir; dr hab. Świerszcz Katarzyna; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251003T160000
+DTEND:20251003T173500
+SUMMARY:BIwO (w)
+LOCATION:0.8/16
+DESCRIPTION:Bezpieczeństwo informacji w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251024T160000
+DTEND:20251024T173500
+SUMMARY:Gd (ć)
+LOCATION:31/158
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr hab. Świerszcz Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251031T160000
+DTEND:20251031T173500
+SUMMARY:WiK (ć)
+LOCATION:5.21/135
+DESCRIPTION:Wywiad i kontrwywiad\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: prof. dr hab. Misiuk Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251107T160000
+DTEND:20251107T173500
+SUMMARY:Gd (w)
+LOCATION:31/158
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. Świerszcz Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251114T160000
+DTEND:20251114T173500
+SUMMARY:P 
+LOCATION:31/158
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 11/15\nProwadzący: dr inż. Kleszcz Sławomir; dr hab. Świerszcz Katarzyna; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T160000
+DTEND:20251121T173500
+SUMMARY:PDwK (w)
+LOCATION:0.8/16
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251205T160000
+DTEND:20251205T173500
+SUMMARY:PDwK (ć)
+LOCATION:31/158
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T160000
+DTEND:20251212T173500
+SUMMARY:P 
+LOCATION:31/158
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 12/15\nProwadzący: dr inż. Kleszcz Sławomir; dr hab. Świerszcz Katarzyna; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T160000
+DTEND:20250116T173500
+SUMMARY:P 
+LOCATION:2/22
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 13/15\nProwadzący: dr inż. Kleszcz Sławomir; dr hab. Świerszcz Katarzyna; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250123T160000
+DTEND:20250123T173500
+SUMMARY:UiTK (ć)
+LOCATION:5.21/135
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr hab. Skrabacz Aleksandra
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251031T175000
+DTEND:20251031T192500
+SUMMARY:WiK (ć)
+LOCATION:5.21/135
+DESCRIPTION:Wywiad i kontrwywiad\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: prof. dr hab. Misiuk Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251107T175000
+DTEND:20251107T192500
+SUMMARY:Gd (w)
+LOCATION:31/158
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. Świerszcz Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251114T175000
+DTEND:20251114T192500
+SUMMARY:PDwK (w)
+LOCATION:0.8/16
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T175000
+DTEND:20251121T192500
+SUMMARY:P 
+LOCATION:31/158
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 14/15\nProwadzący: dr inż. Kleszcz Sławomir; dr hab. Świerszcz Katarzyna; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251205T175000
+DTEND:20251205T192500
+SUMMARY:BIwO (ć)
+LOCATION:37/158
+DESCRIPTION:Bezpieczeństwo informacji w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251114T194000
+DTEND:20251114T211500
+SUMMARY:BIwO (w)
+LOCATION:0.8/16
+DESCRIPTION:Bezpieczeństwo informacji w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T194000
+DTEND:20251121T211500
+SUMMARY:P 
+LOCATION:31/158
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 15/15\nProwadzący: dr inż. Kleszcz Sławomir; dr hab. Świerszcz Katarzyna; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251205T194000
+DTEND:20251205T211500
+SUMMARY:BIwO (ć)
+LOCATION:37/158
+DESCRIPTION:Bezpieczeństwo informacji w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 END:VCALENDAR
