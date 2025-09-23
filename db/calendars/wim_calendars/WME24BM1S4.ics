@@ -508,6 +508,20 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 17/119
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251117T160000
+DTEND:20251117T173500
+SUMMARY:Kmp. (w)
+LOCATION:51/ 62
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Tomaszewski Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251124T160000
+DTEND:20251124T173500
+SUMMARY:Kmp. (w)
+LOCATION:51/ 62
+DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Tomaszewski Michał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251201T160000
 DTEND:20251201T173500
 SUMMARY:Sipp (L)
@@ -718,13 +732,6 @@ LOCATION:53/ 62
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251028T080000
-DTEND:20251028T093500
-SUMMARY:Pum. (w)
-LOCATION:53/ 62
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Świerczewski Marek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251111T080000
 DTEND:20251111T093500
 SUMMARY:I 
@@ -804,16 +811,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T095000
 DTEND:20251028T112500
-SUMMARY:Kmp. (w)
-LOCATION:54/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Tomaszewski Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251104T095000
-DTEND:20251104T112500
-SUMMARY:Kmp. (w)
-LOCATION:54/ 62
-DESCRIPTION:Komputerowa mechanika płynów w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Tomaszewski Michał
+SUMMARY:Pum. (w)
+LOCATION:53/ 62
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251111T095000
