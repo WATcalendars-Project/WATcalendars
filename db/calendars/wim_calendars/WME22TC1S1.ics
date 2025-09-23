@@ -466,39 +466,25 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 41/154
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251007T095000
-DTEND:20251007T112500
-SUMMARY:Ek (w)
-LOCATION:6/ 23a
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr Owczarczyk Anna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251014T095000
 DTEND:20251014T112500
 SUMMARY:Ek (w)
 LOCATION:6/ 23a
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Owczarczyk Anna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251021T095000
-DTEND:20251021T112500
-SUMMARY:Ek (w)
-LOCATION:6/ 23a
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Owczarczyk Anna
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr Owczarczyk Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T095000
 DTEND:20251028T112500
 SUMMARY:Ek (w)
 LOCATION:6/ 23a
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Owczarczyk Anna
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Owczarczyk Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T095000
 DTEND:20251104T112500
 SUMMARY:Ek (w)
 LOCATION:6/ 23a
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Owczarczyk Anna
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Owczarczyk Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251111T095000
@@ -512,21 +498,21 @@ DTSTART:20251118T095000
 DTEND:20251118T112500
 SUMMARY:Ek (w)
 LOCATION:6/ 23a
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr Owczarczyk Anna
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Owczarczyk Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T095000
 DTEND:20251125T112500
 SUMMARY:Ek (w)
 LOCATION:2/ 23a
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr Owczarczyk Anna
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Owczarczyk Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T095000
 DTEND:20251202T112500
 SUMMARY:Ek (w)
 LOCATION:2/ 23a
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr Owczarczyk Anna
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr Owczarczyk Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
@@ -582,14 +568,14 @@ DTSTART:20251007T114000
 DTEND:20251007T131500
 SUMMARY:Ek (w)
 LOCATION:6/ 23a
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Owczarczyk Anna
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr Owczarczyk Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T114000
 DTEND:20251014T131500
 SUMMARY:Ek (w)
 LOCATION:6/ 23a
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr Owczarczyk Anna
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr Owczarczyk Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T114000
@@ -676,6 +662,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 51/154
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251007T133000
+DTEND:20251007T150500
+SUMMARY:Ek (w)
+LOCATION:6/ 23a
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Owczarczyk Anna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251028T133000
 DTEND:20251028T150500
 SUMMARY:Ek (ć)
@@ -760,11 +753,18 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 57/154
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251125T160000
-DTEND:20251125T173500
+DTSTART:20251118T160000
+DTEND:20251118T173500
 SUMMARY:PPwL (ć)
 LOCATION:301/ S
 DESCRIPTION:Podstawy prawa w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T160000
+DTEND:20251125T173500
+SUMMARY:PPwL (S)
+LOCATION:301/ S
+DESCRIPTION:Podstawy prawa w logistyce\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T160000
@@ -823,11 +823,18 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 62/154
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251125T175000
-DTEND:20251125T192500
+DTSTART:20251118T175000
+DTEND:20251118T192500
 SUMMARY:PPwL (ć)
 LOCATION:301/ S
 DESCRIPTION:Podstawy prawa w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T175000
+DTEND:20251125T192500
+SUMMARY:PPwL (S)
+LOCATION:301/ S
+DESCRIPTION:Podstawy prawa w logistyce\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T175000
@@ -912,6 +919,13 @@ DTEND:20250113T211500
 SUMMARY:SEpop. 
 LOCATION:
 DESCRIPTION:SEpop.\nRodzaj zajęć: -\nNumer zajęć: 8/26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251029T080000
+DTEND:20251029T093500
+SUMMARY:Ek (w)
+LOCATION:52/ 62
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr Owczarczyk Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T080000
@@ -1142,28 +1156,21 @@ DTSTART:20251008T160000
 DTEND:20251008T173500
 SUMMARY:PPwL (w)
 LOCATION:301/ S
-DESCRIPTION:Podstawy prawa w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251015T160000
-DTEND:20251015T173500
-SUMMARY:PPwL (w)
-LOCATION:301/ S
-DESCRIPTION:Podstawy prawa w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7
+DESCRIPTION:Podstawy prawa w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T160000
 DTEND:20251022T173500
 SUMMARY:PPwL (w)
 LOCATION:301/ S
-DESCRIPTION:Podstawy prawa w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7
+DESCRIPTION:Podstawy prawa w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T160000
 DTEND:20251029T173500
 SUMMARY:PPwL (w)
 LOCATION:301/ S
-DESCRIPTION:Podstawy prawa w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7
+DESCRIPTION:Podstawy prawa w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T160000
@@ -1191,7 +1198,7 @@ DTSTART:20251217T160000
 DTEND:20251217T173500
 SUMMARY:PPwL (Zp.)
 LOCATION:301/ S
-DESCRIPTION:Podstawy prawa w logistyce\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1
+DESCRIPTION:Podstawy prawa w logistyce\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T160000
@@ -1219,14 +1226,21 @@ DTSTART:20251008T175000
 DTEND:20251008T192500
 SUMMARY:PPwL (w)
 LOCATION:301/ S
-DESCRIPTION:Podstawy prawa w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7
+DESCRIPTION:Podstawy prawa w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251022T175000
+DTEND:20251022T192500
+SUMMARY:PPwL (w)
+LOCATION:301/ S
+DESCRIPTION:Podstawy prawa w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T175000
 DTEND:20251029T192500
 SUMMARY:PPwL (w)
 LOCATION:301/ S
-DESCRIPTION:Podstawy prawa w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7
+DESCRIPTION:Podstawy prawa w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T175000

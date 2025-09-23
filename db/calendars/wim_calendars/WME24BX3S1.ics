@@ -529,6 +529,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 25/133
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250119T160000
+DTEND:20250119T173500
+SUMMARY:F2 (L)
+LOCATION:
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250929T175000
 DTEND:20250929T192500
 SUMMARY:I 
@@ -723,13 +730,6 @@ DTEND:20251111T093500
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 37/133
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251118T080000
-DTEND:20251118T093500
-SUMMARY:F2 (L)
-LOCATION:
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T080000
@@ -1278,6 +1278,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 61/133
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251021T175000
+DTEND:20251021T192500
+SUMMARY:F2 (L)
+LOCATION:
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251111T175000
 DTEND:20251111T192500
 SUMMARY:I 
@@ -1443,7 +1450,7 @@ DTSTART:20251210T080000
 DTEND:20251210T093500
 SUMMARY:F2 (L)
 LOCATION:
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T080000
@@ -1702,7 +1709,7 @@ DTSTART:20251217T114000
 DTEND:20251217T131500
 SUMMARY:F2 (L)
 LOCATION:
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T114000
@@ -2172,13 +2179,6 @@ DTEND:20251030T112500
 SUMMARY:F2 (ć)
 LOCATION:108/ 54
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251106T095000
-DTEND:20251106T112500
-SUMMARY:F2 (L)
-LOCATION:
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T095000

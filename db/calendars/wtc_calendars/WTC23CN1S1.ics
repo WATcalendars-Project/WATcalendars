@@ -21,7 +21,7 @@ BEGIN:VEVENT
 DTSTART:20250112T080000
 DTEND:20250112T093500
 SUMMARY:Moch (ć)
-LOCATION:025 24
+LOCATION:123 24
 DESCRIPTION:Metody obliczeniowe w chemii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. Szymańczyk Leszek
 END:VEVENT
 BEGIN:VEVENT
@@ -189,14 +189,14 @@ BEGIN:VEVENT
 DTSTART:20250120T080000
 DTEND:20250120T093500
 SUMMARY:Moch (ć)
-LOCATION:025 24
+LOCATION:123 24
 DESCRIPTION:Metody obliczeniowe w chemii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Szymańczyk Leszek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T080000
 DTEND:20250127T093500
 SUMMARY:Moch (ć)
-LOCATION:025 24
+LOCATION:123 24
 DESCRIPTION:Metody obliczeniowe w chemii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Szymańczyk Leszek
 END:VEVENT
 BEGIN:VEVENT
@@ -219,13 +219,6 @@ DTEND:20251104T112500
 SUMMARY:Mwy (w)
 LOCATION:108 24
 DESCRIPTION:Materiały wysokoenergetyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: prof. dr hab. inż. Cudziło Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251202T095000
-DTEND:20251202T112500
-SUMMARY:Mc (L)
-LOCATION:34/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr inż. Garbat Katarzyna; dr hab. inż. Urbańska Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
@@ -295,7 +288,7 @@ DTSTART:20251202T114000
 DTEND:20251202T131500
 SUMMARY:Mc (L)
 LOCATION:34/ 14
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr inż. Garbat Katarzyna; dr hab. inż. Urbańska Magdalena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr inż. Garbat Katarzyna; dr hab. inż. Urbańska Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000
@@ -363,9 +356,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T133000
 DTEND:20251202T150500
-SUMMARY:Mc (S)
-LOCATION:108 24
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/6\nProwadzący: dr hab. inż. Urbańska Magdalena
+SUMMARY:Mc (L)
+LOCATION:34/ 14
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr inż. Garbat Katarzyna; dr hab. inż. Urbańska Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T133000
@@ -448,28 +441,28 @@ BEGIN:VEVENT
 DTSTART:20251126T080000
 DTEND:20251126T093500
 SUMMARY:Moch (ć)
-LOCATION:025 24
+LOCATION:123 24
 DESCRIPTION:Metody obliczeniowe w chemii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Szymańczyk Leszek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T080000
 DTEND:20251203T093500
 SUMMARY:Moch (ć)
-LOCATION:025 24
+LOCATION:123 24
 DESCRIPTION:Metody obliczeniowe w chemii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Szymańczyk Leszek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T080000
 DTEND:20251210T093500
 SUMMARY:Moch (ć)
-LOCATION:025 24
+LOCATION:123 24
 DESCRIPTION:Metody obliczeniowe w chemii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Szymańczyk Leszek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T080000
 DTEND:20251217T093500
 SUMMARY:Moch (ć)
-LOCATION:025 24
+LOCATION:123 24
 DESCRIPTION:Metody obliczeniowe w chemii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. Szymańczyk Leszek
 END:VEVENT
 BEGIN:VEVENT
@@ -568,7 +561,7 @@ DTSTART:20251029T114000
 DTEND:20251029T131500
 SUMMARY:Mc (S)
 LOCATION:108 24
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/6\nProwadzący: dr hab. inż. Urbańska Magdalena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/6\nProwadzący: dr hab. inż. Urbańska Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T114000
@@ -610,7 +603,7 @@ DTSTART:20251217T114000
 DTEND:20251217T131500
 SUMMARY:Mc (S)
 LOCATION:109 24
-DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Urbańska Magdalena
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/6\nProwadzący: dr hab. inż. Urbańska Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T133000
@@ -632,6 +625,13 @@ DTEND:20251022T150500
 SUMMARY:Cho (L)
 LOCATION:34/ 14
 DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 23/38\nProwadzący: płk dr hab. inż. Kula Przemysław; mgr inż. Karcz Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251029T133000
+DTEND:20251029T150500
+SUMMARY:Mc (S)
+LOCATION:108 24
+DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Urbańska Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T133000

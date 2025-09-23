@@ -11,6 +11,13 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 1/193
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251006T080000
+DTEND:20251006T093500
+SUMMARY:Prmi (w)
+LOCATION:
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: mgr inż. Berczyński Robert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251013T080000
 DTEND:20251013T093500
 SUMMARY:PuEl (w)
@@ -104,9 +111,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T095000
 DTEND:20251013T112500
-SUMMARY:Prmi (w)
+SUMMARY:Prmi (L)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T095000
@@ -464,6 +471,13 @@ DTEND:20250929T173500
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 5/193
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251006T160000
+DTEND:20251006T173500
+SUMMARY:App (w)
+LOCATION:01/ 54A
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T160000
@@ -827,25 +841,18 @@ DTSTART:20251007T114000
 DTEND:20251007T131500
 SUMMARY:App (w)
 LOCATION:01/ 54A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T114000
 DTEND:20251014T131500
 SUMMARY:App (w)
 LOCATION:01/ 54A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T114000
 DTEND:20251021T131500
-SUMMARY:App (w)
-LOCATION:01/ 54A
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Ziubiński Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251028T114000
-DTEND:20251028T131500
 SUMMARY:App (w)
 LOCATION:01/ 54A
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Ziubiński Mateusz
@@ -968,6 +975,13 @@ DTEND:20251007T150500
 SUMMARY:PuEl (w)
 LOCATION:
 DESCRIPTION:Prototypowanie układów elektronicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Czopik Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251014T133000
+DTEND:20251014T150500
+SUMMARY:Prmi (L)
+LOCATION:
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T133000
@@ -1271,13 +1285,6 @@ LOCATION:11/ 54; 18/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250114T080000
-DTEND:20250114T093500
-SUMMARY:Prmi (L)
-LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Berczyński Robert
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250128T080000
 DTEND:20250128T093500
 SUMMARY:Popt (L)
@@ -1367,13 +1374,6 @@ DTEND:20250107T112500
 SUMMARY:GwIB (L)
 LOCATION:11/ 54; 18/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250114T095000
-DTEND:20250114T112500
-SUMMARY:Prmi (L)
-LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250128T095000
@@ -1514,6 +1514,20 @@ DTEND:20250204T131500
 SUMMARY:Swb (E)
 LOCATION:52/ 62
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Murawski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251001T133000
+DTEND:20251001T150500
+SUMMARY:Prmi (w)
+LOCATION:
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: mgr inż. Berczyński Robert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251008T133000
+DTEND:20251008T150500
+SUMMARY:Prmi (w)
+LOCATION:
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T133000
@@ -1768,13 +1782,6 @@ LOCATION:
 DESCRIPTION:Podstawy optoelektroniki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: prof. dr hab. inż. Zając Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T080000
-DTEND:20251120T093500
-SUMMARY:Prmi (L)
-LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Berczyński Robert
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251211T080000
 DTEND:20251211T093500
 SUMMARY:PuEl (L)
@@ -1821,14 +1828,14 @@ DTSTART:20251002T095000
 DTEND:20251002T112500
 SUMMARY:Prmi (w)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T095000
 DTEND:20251009T112500
-SUMMARY:Prmi (w)
+SUMMARY:Prmi (L)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T095000
@@ -1847,23 +1854,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T095000
 DTEND:20251030T112500
-SUMMARY:Prmi (w)
+SUMMARY:Prmi (L)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: mgr inż. Berczyński Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251106T095000
-DTEND:20251106T112500
-SUMMARY:Prmi (w)
-LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T095000
 DTEND:20251120T112500
 SUMMARY:Prmi (L)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T095000
@@ -1913,6 +1913,20 @@ DTEND:20250219T112500
 SUMMARY:Swb (Ep)
 LOCATION:8/ 62
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Murawski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251002T114000
+DTEND:20251002T131500
+SUMMARY:Prmi (w)
+LOCATION:
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: mgr inż. Berczyński Robert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251009T114000
+DTEND:20251009T131500
+SUMMARY:Prmi (L)
+LOCATION:
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T114000
@@ -1992,13 +2006,6 @@ LOCATION:
 DESCRIPTION:Cyfrowe przetwarzanie sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Jakubowski Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250129T114000
-DTEND:20250129T131500
-SUMMARY:Prmi (L)
-LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Berczyński Robert
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250219T114000
 DTEND:20250219T131500
 SUMMARY:Tmf (Zp.)
@@ -2074,13 +2081,6 @@ DTEND:20250122T150500
 SUMMARY:Cps (L)
 LOCATION:
 DESCRIPTION:Cyfrowe przetwarzanie sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Jakubowski Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250129T133000
-DTEND:20250129T150500
-SUMMARY:Prmi (L)
-LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250219T133000

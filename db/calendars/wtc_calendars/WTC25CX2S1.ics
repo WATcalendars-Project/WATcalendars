@@ -354,13 +354,6 @@ LOCATION:aF S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: mgr Łukasik Sebastian
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T160000
-DTEND:20251104T173500
-SUMMARY:PZiP (ć)
-LOCATION:166 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: mgr Łukasik Sebastian
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251209T160000
 DTEND:20251209T173500
 SUMMARY:Wzp (w)
@@ -771,28 +764,21 @@ DTSTART:20251009T080000
 DTEND:20251009T093500
 SUMMARY:PZiP (ć)
 LOCATION:166 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: mgr Łukasik Sebastian
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: mgr Łukasik Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T080000
 DTEND:20251016T093500
 SUMMARY:PZiP (ć)
 LOCATION:166 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: mgr Łukasik Sebastian
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: mgr Łukasik Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T080000
 DTEND:20251023T093500
 SUMMARY:PZiP (ć)
 LOCATION:166 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: mgr Łukasik Sebastian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251106T080000
-DTEND:20251106T093500
-SUMMARY:PZiP (ć)
-LOCATION:166 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: mgr Łukasik Sebastian
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: mgr Łukasik Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T080000
@@ -806,7 +792,7 @@ DTSTART:20250129T080000
 DTEND:20250129T093500
 SUMMARY:PZiP (ć)
 LOCATION:166 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr Łukasik Sebastian
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: mgr Łukasik Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T095000
@@ -1047,6 +1033,20 @@ LOCATION:19 36
 DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Łakoma Ewa
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251106T133000
+DTEND:20251106T150500
+SUMMARY:PZiP (ć)
+LOCATION:108 24
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: mgr Łukasik Sebastian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251113T133000
+DTEND:20251113T150500
+SUMMARY:PZiP (ć)
+LOCATION:108 24
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr Łukasik Sebastian
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251120T133000
 DTEND:20251120T150500
 SUMMARY:PGI (ć)
@@ -1094,6 +1094,13 @@ DTEND:20250115T150500
 SUMMARY:WDM (ć)
 LOCATION:166 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Zarański Zbigniew
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250122T133000
+DTEND:20250122T150500
+SUMMARY:PZiP (ć)
+LOCATION:108 24
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: mgr Łukasik Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250129T133000
@@ -1164,13 +1171,6 @@ DTEND:20251211T173500
 SUMMARY:Ez (w)
 LOCATION:aF S
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Ptaszek Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T175000
-DTEND:20251204T192500
-SUMMARY:PZiP (ć)
-LOCATION:166 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: mgr Łukasik Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250116T080000
@@ -1327,101 +1327,108 @@ LOCATION:aF S
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 17/17\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251003T133000
+DTEND:20251003T150500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: dr Ptaszek Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251010T133000
 DTEND:20251010T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/14\nProwadzący: dr Ptaszek Stanisław
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T133000
 DTEND:20251017T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/14\nProwadzący: dr Ptaszek Stanisław
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T133000
 DTEND:20251024T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/14\nProwadzący: dr Ptaszek Stanisław
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T133000
 DTEND:20251031T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/14\nProwadzący: dr Ptaszek Stanisław
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T133000
 DTEND:20251107T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/14\nProwadzący: dr Ptaszek Stanisław
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T133000
 DTEND:20251114T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/14\nProwadzący: dr Ptaszek Stanisław
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T133000
 DTEND:20251121T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/14\nProwadzący: dr Ptaszek Stanisław
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T133000
 DTEND:20251205T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/14\nProwadzący: dr Ptaszek Stanisław
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T133000
 DTEND:20251212T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/14\nProwadzący: dr Ptaszek Stanisław
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T133000
 DTEND:20251219T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/14\nProwadzący: dr Ptaszek Stanisław
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T133000
 DTEND:20250109T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/14\nProwadzący: dr Ptaszek Stanisław
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250116T133000
 DTEND:20250116T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/14\nProwadzący: dr Ptaszek Stanisław
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250123T133000
 DTEND:20250123T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/14\nProwadzący: dr Ptaszek Stanisław
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T133000
 DTEND:20250130T150500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/14\nProwadzący: dr Ptaszek Stanisław
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 END:VCALENDAR

@@ -18,20 +18,6 @@ LOCATION:2 5
 DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: dr hab. inż. Oton Martinez Eva
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251020T080000
-DTEND:20251020T093500
-SUMMARY:PSt (ć)
-LOCATION:2 5
-DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: dr hab. inż. Oton Martinez Eva
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251027T080000
-DTEND:20251027T093500
-SUMMARY:Cht (L)
-LOCATION:025 24
-DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Jasek Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251103T080000
 DTEND:20251103T093500
 SUMMARY:Śpd (L)
@@ -58,6 +44,13 @@ DTEND:20251201T093500
 SUMMARY:Śpd (L)
 LOCATION:bud. 87;117 24
 DESCRIPTION:Środki inicjowania palenia i detonacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Hara Marcin; dr inż. Szymańczyk Leszek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T080000
+DTEND:20251208T093500
+SUMMARY:Cht (L)
+LOCATION:123 24
+DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Jasek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T080000
@@ -104,9 +97,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T095000
 DTEND:20251020T112500
-SUMMARY:Kry (L)
-LOCATION:025 24
-DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Chrunik Maciej
+SUMMARY:PSt (ć)
+LOCATION:2 5
+DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: dr hab. inż. Oton Martinez Eva
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T095000
@@ -140,8 +133,8 @@ BEGIN:VEVENT
 DTSTART:20251201T095000
 DTEND:20251201T112500
 SUMMARY:Kry (L)
-LOCATION:025 24
-DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Chrunik Maciej
+LOCATION:123 24
+DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Chrunik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T095000
@@ -413,8 +406,8 @@ BEGIN:VEVENT
 DTSTART:20251201T160000
 DTEND:20251201T173500
 SUMMARY:Kry (L)
-LOCATION:025 24
-DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Chrunik Maciej
+LOCATION:123 24
+DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Chrunik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T160000
@@ -532,8 +525,8 @@ BEGIN:VEVENT
 DTSTART:20251104T095000
 DTEND:20251104T112500
 SUMMARY:Kry (L)
-LOCATION:025 24
-DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Chrunik Maciej
+LOCATION:123 24
+DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Chrunik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T095000
@@ -637,15 +630,8 @@ BEGIN:VEVENT
 DTSTART:20250113T114000
 DTEND:20250113T131500
 SUMMARY:Cht (L)
-LOCATION:025 24
+LOCATION:123 24
 DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Jasek Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251021T133000
-DTEND:20251021T150500
-SUMMARY:Kry (L)
-LOCATION:025 24
-DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Chrunik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T133000
@@ -707,28 +693,42 @@ BEGIN:VEVENT
 DTSTART:20251104T160000
 DTEND:20251104T173500
 SUMMARY:Kry (L)
-LOCATION:025 24
-DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Chrunik Maciej
+LOCATION:123 24
+DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Chrunik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T160000
 DTEND:20251118T173500
 SUMMARY:Cht (L)
-LOCATION:025 24
+LOCATION:123 24
 DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Jasek Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T160000
+DTEND:20251125T173500
+SUMMARY:Kry (L)
+LOCATION:123 24
+DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Chrunik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T160000
 DTEND:20251202T173500
 SUMMARY:Cht (L)
-LOCATION:025 24
+LOCATION:123 24
 DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Jasek Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T160000
+DTEND:20251209T173500
+SUMMARY:Kry (L)
+LOCATION:123 24
+DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Chrunik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T160000
 DTEND:20251216T173500
 SUMMARY:Cht (L)
-LOCATION:025 24
+LOCATION:123 24
 DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Jasek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -798,7 +798,7 @@ BEGIN:VEVENT
 DTSTART:20250107T080000
 DTEND:20250107T093500
 SUMMARY:Cht (L)
-LOCATION:025 24
+LOCATION:123 24
 DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Jasek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -882,7 +882,7 @@ BEGIN:VEVENT
 DTSTART:20250121T095000
 DTEND:20250121T112500
 SUMMARY:Cht (L)
-LOCATION:025 24
+LOCATION:123 24
 DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Jasek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -1071,7 +1071,7 @@ BEGIN:VEVENT
 DTSTART:20250128T133000
 DTEND:20250128T150500
 SUMMARY:Cht (L)
-LOCATION:025 24
+LOCATION:123 24
 DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Jasek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -1141,7 +1141,7 @@ BEGIN:VEVENT
 DTSTART:20250107T160000
 DTEND:20250107T173500
 SUMMARY:Kry (L)
-LOCATION:025 24
+LOCATION:123 24
 DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Chrunik Maciej
 END:VEVENT
 BEGIN:VEVENT
@@ -1491,7 +1491,7 @@ BEGIN:VEVENT
 DTSTART:20250115T160000
 DTEND:20250115T173500
 SUMMARY:Kry (L)
-LOCATION:025 24
+LOCATION:123 24
 DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Chrunik Maciej
 END:VEVENT
 BEGIN:VEVENT
