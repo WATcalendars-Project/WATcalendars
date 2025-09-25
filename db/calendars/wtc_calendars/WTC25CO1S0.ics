@@ -1120,7 +1120,7 @@ BEGIN:VEVENT
 DTSTART:20251119T133000
 DTEND:20251119T150500
 SUMMARY:PD (ć)
-LOCATION:BIBL /22
+LOCATION:PĆT4
 DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: ppłk rez. mgr Pytlos Dariusz
 END:VEVENT
 BEGIN:VEVENT
@@ -1775,25 +1775,11 @@ LOCATION:166 S
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/17\nProwadzący: dr hab. Smarzewski Ryszard
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250115T114000
-DTEND:20250115T131500
-SUMMARY:Mat2 (ć)
-LOCATION:166 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/17\nProwadzący: dr hab. Smarzewski Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250122T114000
-DTEND:20250122T131500
-SUMMARY:Mat2 (ć)
-LOCATION:166 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: dr hab. Smarzewski Ryszard
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250129T114000
 DTEND:20250129T131500
 SUMMARY:Mat2 (ć)
 LOCATION:166 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: dr hab. Smarzewski Ryszard
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/17\nProwadzący: dr hab. Smarzewski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T133000
@@ -2001,9 +1987,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T160000
 DTEND:20250115T173500
-SUMMARY:PZiP (ć)
+SUMMARY:Mat2 (ć)
 LOCATION:166 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: mgr Łukasik Sebastian
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: dr hab. Smarzewski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T160000
@@ -2024,32 +2010,53 @@ DTSTART:20251106T175000
 DTEND:20251106T192500
 SUMMARY:PZiP (ć)
 LOCATION:166 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: mgr Łukasik Sebastian
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: mgr Łukasik Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T175000
 DTEND:20251120T192500
 SUMMARY:PZiP (ć)
 LOCATION:166 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: mgr Łukasik Sebastian
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: mgr Łukasik Sebastian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T175000
+DTEND:20251211T192500
+SUMMARY:Mat2 (ć)
+LOCATION:309 S
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: dr hab. Smarzewski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T175000
 DTEND:20251218T192500
 SUMMARY:PZiP (ć)
 LOCATION:166 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: mgr Łukasik Sebastian
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: mgr Łukasik Sebastian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T175000
 DTEND:20250108T192500
 SUMMARY:PZiP (ć)
 LOCATION:166 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: mgr Łukasik Sebastian
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: mgr Łukasik Sebastian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250115T175000
+DTEND:20250115T192500
+SUMMARY:Mat2 (ć)
+LOCATION:166 S
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: dr hab. Smarzewski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T175000
 DTEND:20250122T192500
+SUMMARY:PZiP (ć)
+LOCATION:166 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: mgr Łukasik Sebastian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T175000
+DTEND:20250129T192500
 SUMMARY:PZiP (ć)
 LOCATION:166 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: mgr Łukasik Sebastian
@@ -2339,28 +2346,28 @@ DTSTART:20251219T114000
 DTEND:20251219T131500
 SUMMARY:Mat2 (ć)
 LOCATION:166 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: dr hab. Smarzewski Ryszard
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: dr hab. Smarzewski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T114000
 DTEND:20250109T131500
 SUMMARY:Mat2 (ć)
 LOCATION:166 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: dr hab. Smarzewski Ryszard
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: dr hab. Smarzewski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250116T114000
 DTEND:20250116T131500
 SUMMARY:Mat2 (ć)
 LOCATION:166 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: dr hab. Smarzewski Ryszard
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: dr hab. Smarzewski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250123T114000
 DTEND:20250123T131500
 SUMMARY:Mat2 (ć)
 LOCATION:166 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: dr hab. Smarzewski Ryszard
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: dr hab. Smarzewski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T114000
@@ -2423,18 +2430,11 @@ DTSTART:20251205T133000
 DTEND:20251205T150500
 SUMMARY:Mat2 (ć)
 LOCATION:166 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: dr hab. Smarzewski Ryszard
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: dr hab. Smarzewski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T133000
 DTEND:20251212T150500
-SUMMARY:Mat2 (ć)
-LOCATION:166 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: dr hab. Smarzewski Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251219T133000
-DTEND:20251219T150500
 SUMMARY:Mat2 (ć)
 LOCATION:166 S
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/17\nProwadzący: dr hab. Smarzewski Ryszard

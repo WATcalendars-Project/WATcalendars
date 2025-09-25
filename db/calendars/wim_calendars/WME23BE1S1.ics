@@ -606,6 +606,13 @@ LOCATION:116/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Grzelak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251021T080000
+DTEND:20251021T093500
+SUMMARY:Prmi (L)
+LOCATION:
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Berczyński Robert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251028T080000
 DTEND:20251028T093500
 SUMMARY:GwIB (ć)
@@ -981,7 +988,7 @@ DTSTART:20251014T133000
 DTEND:20251014T150500
 SUMMARY:Prmi (L)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T133000
@@ -1464,7 +1471,7 @@ DTSTART:20251210T114000
 DTEND:20251210T131500
 SUMMARY:Prmi (L)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T114000
@@ -1569,7 +1576,7 @@ DTSTART:20251210T133000
 DTEND:20251210T150500
 SUMMARY:Prmi (L)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T133000
@@ -1835,7 +1842,7 @@ DTSTART:20251009T095000
 DTEND:20251009T112500
 SUMMARY:Prmi (L)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T095000
@@ -1854,16 +1861,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T095000
 DTEND:20251030T112500
-SUMMARY:Prmi (L)
+SUMMARY:Cps (L)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Berczyński Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T095000
-DTEND:20251120T112500
-SUMMARY:Prmi (L)
-LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Cyfrowe przetwarzanie sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T095000
@@ -1926,7 +1926,7 @@ DTSTART:20251009T114000
 DTEND:20251009T131500
 SUMMARY:Prmi (L)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T114000
@@ -1947,7 +1947,7 @@ DTSTART:20251030T114000
 DTEND:20251030T131500
 SUMMARY:Cps (L)
 LOCATION:
-DESCRIPTION:Cyfrowe przetwarzanie sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7
+DESCRIPTION:Cyfrowe przetwarzanie sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T114000
@@ -1968,7 +1968,7 @@ DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:Cps (L)
 LOCATION:
-DESCRIPTION:Cyfrowe przetwarzanie sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. Jakubowski Jacek
+DESCRIPTION:Cyfrowe przetwarzanie sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Jakubowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T114000
@@ -2003,7 +2003,7 @@ DTSTART:20250122T114000
 DTEND:20250122T131500
 SUMMARY:Cps (L)
 LOCATION:
-DESCRIPTION:Cyfrowe przetwarzanie sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Jakubowski Jacek
+DESCRIPTION:Cyfrowe przetwarzanie sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Jakubowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250219T114000
@@ -2013,11 +2013,11 @@ LOCATION:54/ 62
 DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr hab.inż. Szczepaniak Zenon
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251030T133000
-DTEND:20251030T150500
-SUMMARY:Cps (L)
+DTSTART:20251023T133000
+DTEND:20251023T150500
+SUMMARY:Prmi (L)
 LOCATION:
-DESCRIPTION:Cyfrowe przetwarzanie sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T133000

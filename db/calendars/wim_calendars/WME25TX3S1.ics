@@ -1285,25 +1285,11 @@ LOCATION:3/ 54
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251126T095000
-DTEND:20251126T112500
-SUMMARY:Mat2 (ć)
-LOCATION:120/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: dr Multarzyński Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251203T095000
 DTEND:20251203T112500
 SUMMARY:Mat2 (ć)
 LOCATION:120/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: dr Multarzyński Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251210T095000
-DTEND:20251210T112500
-SUMMARY:Mat2 (ć)
-LOCATION:120/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: dr Multarzyński Piotr
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: dr Multarzyński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T095000
@@ -1367,13 +1353,6 @@ DTEND:20251105T131500
 SUMMARY:Wzp (w)
 LOCATION:01/ 54A
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Kobielski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251112T114000
-DTEND:20251112T131500
-SUMMARY:M1 (ć)
-LOCATION:8/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/19\nProwadzący: dr Multarzyński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T114000
@@ -1593,6 +1572,13 @@ LOCATION:51/ 62
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251113T095000
+DTEND:20251113T112500
+SUMMARY:M1 (ć)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/19\nProwadzący: dr Multarzyński Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251120T095000
 DTEND:20251120T112500
 SUMMARY:PGI (w)
@@ -1618,7 +1604,7 @@ DTSTART:20251218T095000
 DTEND:20251218T112500
 SUMMARY:Mat2 (ć)
 LOCATION:120/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: dr Multarzyński Piotr
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: dr Multarzyński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T095000
@@ -1639,7 +1625,7 @@ DTSTART:20250108T095000
 DTEND:20250108T112500
 SUMMARY:Mat2 (ć)
 LOCATION:120/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: dr Multarzyński Piotr
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: dr Multarzyński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T095000
@@ -1653,7 +1639,7 @@ DTSTART:20250129T095000
 DTEND:20250129T112500
 SUMMARY:Mat2 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: dr Multarzyński Piotr
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: dr Multarzyński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250219T095000
@@ -1758,7 +1744,7 @@ DTSTART:20250115T114000
 DTEND:20250115T131500
 SUMMARY:Mat2 (ć)
 LOCATION:55/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: dr Multarzyński Piotr
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: dr Multarzyński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T114000
@@ -1808,6 +1794,20 @@ DTEND:20251127T150500
 SUMMARY:M1 (ć)
 LOCATION:9/ 62
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/19\nProwadzący: dr Multarzyński Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251204T133000
+DTEND:20251204T150500
+SUMMARY:Mat2 (ć)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: dr Multarzyński Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T133000
+DTEND:20251211T150500
+SUMMARY:Mat2 (ć)
+LOCATION:55/ 62
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: dr Multarzyński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T133000
