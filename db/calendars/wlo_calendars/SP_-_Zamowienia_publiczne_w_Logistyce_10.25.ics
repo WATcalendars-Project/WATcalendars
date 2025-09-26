@@ -22,7 +22,7 @@ DTSTART:20251212T160000
 DTEND:20251212T173500
 SUMMARY:ZPW (w)
 LOCATION:1.27/135
-DESCRIPTION:Zamówienia publiczne wyłączone z obowiązku stosowania ustawy Prawo Zamówień Publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia publiczne wyłączone z obowiązku stosowania ustawy Prawo Zamówień Publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250123T160000
@@ -30,6 +30,20 @@ DTEND:20250123T173500
 SUMMARY:CPZP (w)
 LOCATION:1.27/135
 DESCRIPTION:Cywilnoprawne podstawy zamówień publicznych w Rzeczypospolitej Polskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250213T160000
+DTEND:20250213T173500
+SUMMARY:ZPOB (w)
+LOCATION:1.27/135
+DESCRIPTION:Zamówienia publiczne w dziedzinie obronności i bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250227T160000
+DTEND:20250227T173500
+SUMMARY:ZPOB (w)
+LOCATION:1.27/135
+DESCRIPTION:Zamówienia publiczne w dziedzinie obronności i bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T175000
@@ -60,6 +74,20 @@ LOCATION:1.27/135
 DESCRIPTION:Organizacja systemu zamówień publicznych w jednostkach sektora finansów publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250213T175000
+DTEND:20250213T192500
+SUMMARY:ZPOB (w)
+LOCATION:1.27/135
+DESCRIPTION:Zamówienia publiczne w dziedzinie obronności i bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250227T175000
+DTEND:20250227T192500
+SUMMARY:ZPW (ć)
+LOCATION:1.27/135
+DESCRIPTION:Zamówienia publiczne wyłączone z obowiązku stosowania ustawy Prawo Zamówień Publicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251024T194000
 DTEND:20251024T211500
 SUMMARY:SZPwUE (w/s)
@@ -88,18 +116,32 @@ LOCATION:1.27/135
 DESCRIPTION:Organizacja systemu zamówień publicznych w jednostkach sektora finansów publicznych\nRodzaj zajęć: (w/s)\nNumer zajęć: 1/1\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250213T194000
+DTEND:20250213T211500
+SUMMARY:CPZP (S)
+LOCATION:1.27/135
+DESCRIPTION:Cywilnoprawne podstawy zamówień publicznych w Rzeczypospolitej Polskiej\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250227T194000
+DTEND:20250227T211500
+SUMMARY:ZPW (ć)
+LOCATION:1.27/135
+DESCRIPTION:Zamówienia publiczne wyłączone z obowiązku stosowania ustawy Prawo Zamówień Publicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251025T080000
 DTEND:20251025T093500
 SUMMARY:PPPZP (w)
 LOCATION:1.27/135
-DESCRIPTION:Proces przygotowania postępowania o udzielenie zamówienia publicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Gawrońska - Baran Andrzela
+DESCRIPTION:Proces przygotowania postępowania o udzielenie zamówienia publicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Gawrońska - Baran Andrzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T080000
 DTEND:20251122T093500
 SUMMARY:ZPSo (w)
 LOCATION:1.27/135
-DESCRIPTION:Zamówienia publiczne sektorowe oraz na usługi społeczne i inne szczególne usługi\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Gawrońska - Baran Andrzela
+DESCRIPTION:Zamówienia publiczne sektorowe oraz na usługi społeczne i inne szczególne usługi\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Gawrońska - Baran Andrzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T080000
@@ -116,18 +158,32 @@ LOCATION:1.27/135
 DESCRIPTION:Proces procedowania postępowania o udzielenie zamówienia publiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Gawrońska - Baran Andrzela
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250214T080000
+DTEND:20250214T093500
+SUMMARY:EZP (w)
+LOCATION:1.27/135
+DESCRIPTION:Elektronizacja zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Gawrońska - Baran Andrzela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250228T080000
+DTEND:20250228T093500
+SUMMARY:DPo (w)
+LOCATION:1.27/135
+DESCRIPTION:Dokumentacja postępowań o zamówienia publiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251025T095000
 DTEND:20251025T112500
 SUMMARY:PPPZP (w)
 LOCATION:1.27/135
-DESCRIPTION:Proces przygotowania postępowania o udzielenie zamówienia publicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr Gawrońska - Baran Andrzela
+DESCRIPTION:Proces przygotowania postępowania o udzielenie zamówienia publicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Gawrońska - Baran Andrzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T095000
 DTEND:20251122T112500
 SUMMARY:ZPSo (w)
 LOCATION:1.27/135
-DESCRIPTION:Zamówienia publiczne sektorowe oraz na usługi społeczne i inne szczególne usługi\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Gawrońska - Baran Andrzela
+DESCRIPTION:Zamówienia publiczne sektorowe oraz na usługi społeczne i inne szczególne usługi\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Gawrońska - Baran Andrzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T095000
@@ -144,18 +200,32 @@ LOCATION:1.27/135
 DESCRIPTION:Proces przygotowania postępowania o udzielenie zamówienia publicznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr Gawrońska - Baran Andrzela
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250214T095000
+DTEND:20250214T112500
+SUMMARY:ZPSo (w)
+LOCATION:1.27/135
+DESCRIPTION:Zamówienia publiczne sektorowe oraz na usługi społeczne i inne szczególne usługi\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Gawrońska - Baran Andrzela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250228T095000
+DTEND:20250228T112500
+SUMMARY:DPo (w)
+LOCATION:1.27/135
+DESCRIPTION:Dokumentacja postępowań o zamówienia publiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251025T114000
 DTEND:20251025T131500
 SUMMARY:PPPZP (w)
 LOCATION:1.27/135
-DESCRIPTION:Proces przygotowania postępowania o udzielenie zamówienia publicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3
+DESCRIPTION:Proces przygotowania postępowania o udzielenie zamówienia publicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T114000
 DTEND:20251122T131500
 SUMMARY:EZP (w)
 LOCATION:1.27/135
-DESCRIPTION:Elektronizacja zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Gawrońska - Baran Andrzela
+DESCRIPTION:Elektronizacja zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Gawrońska - Baran Andrzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T114000
@@ -169,7 +239,21 @@ DTSTART:20250124T114000
 DTEND:20250124T131500
 SUMMARY:ŚOP (w)
 LOCATION:1.27/135
-DESCRIPTION:Środki ochrony prawnej w systemie zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Gawrońska - Baran Andrzela
+DESCRIPTION:Środki ochrony prawnej w systemie zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Gawrońska - Baran Andrzela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250214T114000
+DTEND:20250214T131500
+SUMMARY:PPPoZ (ć)
+LOCATION:1.27/135
+DESCRIPTION:Proces procedowania postępowania o udzielenie zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Gawrońska - Baran Andrzela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250228T114000
+DTEND:20250228T131500
+SUMMARY:OSZP (S)
+LOCATION:1.27/135
+DESCRIPTION:Organizacja systemu zamówień publicznych w jednostkach sektora finansów publicznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T133000
@@ -183,21 +267,35 @@ DTSTART:20251122T133000
 DTEND:20251122T150500
 SUMMARY:EZP (w)
 LOCATION:1.27/135
-DESCRIPTION:Elektronizacja zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Gawrońska - Baran Andrzela
+DESCRIPTION:Elektronizacja zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Gawrońska - Baran Andrzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T133000
 DTEND:20251213T150500
 SUMMARY:PPPoZ (ć)
 LOCATION:1.27/135
-DESCRIPTION:Proces procedowania postępowania o udzielenie zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3
+DESCRIPTION:Proces procedowania postępowania o udzielenie zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T133000
 DTEND:20250124T150500
 SUMMARY:ŚOP (w)
 LOCATION:1.27/135
-DESCRIPTION:Środki ochrony prawnej w systemie zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Gawrońska - Baran Andrzela
+DESCRIPTION:Środki ochrony prawnej w systemie zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Gawrońska - Baran Andrzela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250214T133000
+DTEND:20250214T150500
+SUMMARY:PPPoZ (ć)
+LOCATION:1.27/135
+DESCRIPTION:Proces procedowania postępowania o udzielenie zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Gawrońska - Baran Andrzela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250228T133000
+DTEND:20250228T150500
+SUMMARY:OSZP (S)
+LOCATION:1.27/135
+DESCRIPTION:Organizacja systemu zamówień publicznych w jednostkach sektora finansów publicznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T160000
@@ -218,14 +316,28 @@ DTSTART:20251213T160000
 DTEND:20251213T173500
 SUMMARY:PPPoZ (ć)
 LOCATION:1.27/135
-DESCRIPTION:Proces procedowania postępowania o udzielenie zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
+DESCRIPTION:Proces procedowania postępowania o udzielenie zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T160000
 DTEND:20250124T173500
 SUMMARY:DPo (w)
 LOCATION:1.27/135
-DESCRIPTION:Dokumentacja postępowań o zamówienia publiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Dokumentacja postępowań o zamówienia publiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250214T160000
+DTEND:20250214T173500
+SUMMARY:ZPW (w)
+LOCATION:1.27/135
+DESCRIPTION:Zamówienia publiczne wyłączone z obowiązku stosowania ustawy Prawo Zamówień Publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250228T160000
+DTEND:20250228T173500
+SUMMARY:ZPW (ć)
+LOCATION:1.27/135
+DESCRIPTION:Zamówienia publiczne wyłączone z obowiązku stosowania ustawy Prawo Zamówień Publicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T175000
@@ -253,7 +365,14 @@ DTSTART:20250124T175000
 DTEND:20250124T192500
 SUMMARY:DPo (w)
 LOCATION:1.27/135
-DESCRIPTION:Dokumentacja postępowań o zamówienia publiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Dokumentacja postępowań o zamówienia publiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250214T175000
+DTEND:20250214T192500
+SUMMARY:ZPW (w)
+LOCATION:1.27/135
+DESCRIPTION:Zamówienia publiczne wyłączone z obowiązku stosowania ustawy Prawo Zamówień Publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T194000
@@ -270,6 +389,13 @@ LOCATION:1.27/135
 DESCRIPTION:Procedury antykorupcyjne w zamówieniach publicznych\nRodzaj zajęć: (w/s)\nNumer zajęć: 1/1\nProwadzący: dr Śledzik Waldemar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250214T194000
+DTEND:20250214T211500
+SUMMARY:DPo (w)
+LOCATION:1.27/135
+DESCRIPTION:Dokumentacja postępowań o zamówienia publiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251026T080000
 DTEND:20251026T093500
 SUMMARY:PPPoZ (w)
@@ -281,7 +407,7 @@ DTSTART:20251123T080000
 DTEND:20251123T093500
 SUMMARY:EZP (w)
 LOCATION:1.27/135
-DESCRIPTION:Elektronizacja zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Gawrońska - Baran Andrzela
+DESCRIPTION:Elektronizacja zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Gawrońska - Baran Andrzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251214T080000
@@ -295,7 +421,21 @@ DTSTART:20250125T080000
 DTEND:20250125T093500
 SUMMARY:EZP (w)
 LOCATION:1.27/135
-DESCRIPTION:Elektronizacja zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Gawrońska - Baran Andrzela
+DESCRIPTION:Elektronizacja zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Gawrońska - Baran Andrzela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250215T080000
+DTEND:20250215T093500
+SUMMARY:EZP (w)
+LOCATION:1.27/135
+DESCRIPTION:Elektronizacja zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Gawrońska - Baran Andrzela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250301T080000
+DTEND:20250301T093500
+SUMMARY:ŚOP (w)
+LOCATION:1.27/135
+DESCRIPTION:Środki ochrony prawnej w systemie zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Gawrońska - Baran Andrzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251026T095000
@@ -309,7 +449,7 @@ DTSTART:20251123T095000
 DTEND:20251123T112500
 SUMMARY:EZP (w)
 LOCATION:1.27/135
-DESCRIPTION:Elektronizacja zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Gawrońska - Baran Andrzela
+DESCRIPTION:Elektronizacja zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Gawrońska - Baran Andrzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251214T095000
@@ -323,14 +463,28 @@ DTSTART:20250125T095000
 DTEND:20250125T112500
 SUMMARY:ZPSo (w)
 LOCATION:1.27/135
-DESCRIPTION:Zamówienia publiczne sektorowe oraz na usługi społeczne i inne szczególne usługi\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4
+DESCRIPTION:Zamówienia publiczne sektorowe oraz na usługi społeczne i inne szczególne usługi\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250215T095000
+DTEND:20250215T112500
+SUMMARY:ŚOP (w)
+LOCATION:1.27/135
+DESCRIPTION:Środki ochrony prawnej w systemie zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Gawrońska - Baran Andrzela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250301T095000
+DTEND:20250301T112500
+SUMMARY:ŚOP (S)
+LOCATION:1.27/135
+DESCRIPTION:Środki ochrony prawnej w systemie zamówień publicznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr Gawrońska - Baran Andrzela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251026T114000
 DTEND:20251026T131500
 SUMMARY:PPPoZ (ć)
 LOCATION:1.27/135
-DESCRIPTION:Proces procedowania postępowania o udzielenie zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
+DESCRIPTION:Proces procedowania postępowania o udzielenie zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T114000
@@ -351,6 +505,27 @@ DTSTART:20250125T114000
 DTEND:20250125T131500
 SUMMARY:ZPSo (w)
 LOCATION:1.27/135
-DESCRIPTION:Zamówienia publiczne sektorowe oraz na usługi społeczne i inne szczególne usługi\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4
+DESCRIPTION:Zamówienia publiczne sektorowe oraz na usługi społeczne i inne szczególne usługi\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250215T114000
+DTEND:20250215T131500
+SUMMARY:ŚOP (w)
+LOCATION:1.27/135
+DESCRIPTION:Środki ochrony prawnej w systemie zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Gawrońska - Baran Andrzela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250301T114000
+DTEND:20250301T131500
+SUMMARY:ZPW (S)
+LOCATION:1.27/135
+DESCRIPTION:Zamówienia publiczne wyłączone z obowiązku stosowania ustawy Prawo Zamówień Publicznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250301T133000
+DTEND:20250301T150500
+SUMMARY:PPPZP (w)
+LOCATION:1.27/135
+DESCRIPTION:Proces przygotowania postępowania o udzielenie zamówienia publicznego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Gawrońska - Baran Andrzela
 END:VEVENT
 END:VCALENDAR

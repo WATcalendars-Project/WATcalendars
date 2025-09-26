@@ -151,13 +151,6 @@ LOCATION:37/158
 DESCRIPTION:Bezpieczeństwo informacji w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251007T095000
-DTEND:20251007T112500
-SUMMARY:IiDwO (w)
-LOCATION:26/158
-DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251125T095000
 DTEND:20251125T112500
 SUMMARY:MiNPI (ć)
@@ -165,18 +158,18 @@ LOCATION:1a/28
 DESCRIPTION:Metodyka i narzędzia pozyskiwania informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.7
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251202T095000
+DTEND:20251202T112500
+SUMMARY:IiDwO (ć)
+LOCATION:2/22
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251209T095000
 DTEND:20251209T112500
 SUMMARY:BIwO (ć)
 LOCATION:4.17b/135
 DESCRIPTION:Bezpieczeństwo informacji w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Kleszcz Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251007T114000
-DTEND:20251007T131500
-SUMMARY:IiDwO (w)
-LOCATION:26/158
-DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T114000
@@ -191,6 +184,13 @@ DTEND:20251125T131500
 SUMMARY:UiTK (w)
 LOCATION:31/158
 DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. Skrabacz Aleksandra
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251202T114000
+DTEND:20251202T131500
+SUMMARY:IiDwO (ć)
+LOCATION:2/22
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000
@@ -232,7 +232,7 @@ DTSTART:20251125T133000
 DTEND:20251125T150500
 SUMMARY:IiDwO (w)
 LOCATION:26/158
-DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T133000
@@ -253,7 +253,7 @@ DTSTART:20250113T133000
 DTEND:20250113T150500
 SUMMARY:IiDwO (ć)
 LOCATION:1a/28
-DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T160000
@@ -288,7 +288,7 @@ DTSTART:20251125T160000
 DTEND:20251125T173500
 SUMMARY:IiDwO (w)
 LOCATION:26/158
-DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T160000
@@ -309,7 +309,7 @@ DTSTART:20250113T160000
 DTEND:20250113T173500
 SUMMARY:IiDwO (ć)
 LOCATION:1a/28
-DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T175000
@@ -470,14 +470,14 @@ DTSTART:20251210T095000
 DTEND:20251210T112500
 SUMMARY:PZIwO (ć)
 LOCATION:1a/28
-DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 4.23
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T095000
 DTEND:20251217T112500
 SUMMARY:IiDwO (ć)
 LOCATION:0.24/135
-DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250128T095000
@@ -596,7 +596,7 @@ DTSTART:20250128T133000
 DTEND:20250128T150500
 SUMMARY:IiDwO (ć)
 LOCATION:0.7/16
-DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T160000
@@ -680,7 +680,7 @@ DTSTART:20250128T160000
 DTEND:20250128T173500
 SUMMARY:IiDwO (ć)
 LOCATION:0.7/16
-DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T175000
@@ -729,7 +729,7 @@ DTSTART:20251203T175000
 DTEND:20251203T192500
 SUMMARY:PDwK (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 26; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T175000
@@ -757,7 +757,7 @@ DTSTART:20250114T175000
 DTEND:20250114T192500
 SUMMARY:PDwK (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 26; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250121T175000
@@ -778,7 +778,7 @@ DTSTART:20251203T194000
 DTEND:20251203T211500
 SUMMARY:PDwK (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 26; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T194000
@@ -792,7 +792,7 @@ DTSTART:20250114T194000
 DTEND:20250114T211500
 SUMMARY:PDwK (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 26; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250121T194000
@@ -800,6 +800,13 @@ DTEND:20250121T211500
 SUMMARY:Lg (ć)
 LOCATION:26/158
 DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 0.24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251002T080000
+DTEND:20251002T093500
+SUMMARY:IiDwO (w)
+LOCATION:26/158
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T080000
@@ -830,6 +837,13 @@ LOCATION:31/158
 DESCRIPTION:Filozofia bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Warchał Arnold
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251002T095000
+DTEND:20251002T112500
+SUMMARY:IiDwO (w)
+LOCATION:26/158
+DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251009T095000
 DTEND:20251009T112500
 SUMMARY:IiDwO (w)
@@ -841,7 +855,7 @@ DTSTART:20251113T095000
 DTEND:20251113T112500
 SUMMARY:PDwK (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 26; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T095000
@@ -883,7 +897,7 @@ DTSTART:20251113T114000
 DTEND:20251113T131500
 SUMMARY:PDwK (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 26; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T114000
@@ -897,7 +911,7 @@ DTSTART:20250129T114000
 DTEND:20250129T131500
 SUMMARY:PZIwO (ć)
 LOCATION:1a/28
-DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 4.23
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T133000
@@ -911,7 +925,7 @@ DTSTART:20250129T133000
 DTEND:20250129T150500
 SUMMARY:PZIwO (ć)
 LOCATION:1a/28
-DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 4.23
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T160000
@@ -932,7 +946,7 @@ DTSTART:20251127T160000
 DTEND:20251127T173500
 SUMMARY:PZIwO (ć)
 LOCATION:2/22
-DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 4.23
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T160000
@@ -974,7 +988,7 @@ DTSTART:20251127T175000
 DTEND:20251127T192500
 SUMMARY:PZIwO (ć)
 LOCATION:2/22
-DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 4.23
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T175000
@@ -995,7 +1009,7 @@ DTSTART:20251016T194000
 DTEND:20251016T211500
 SUMMARY:PDwK (w)
 LOCATION:0.8/16
-DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 26; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T194000
@@ -1058,7 +1072,7 @@ DTSTART:20251010T095000
 DTEND:20251010T112500
 SUMMARY:PDwK (w)
 LOCATION:0.8/16
-DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 26; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T095000
@@ -1066,20 +1080,6 @@ DTEND:20251017T112500
 SUMMARY:Rozpozanie 
 LOCATION:2.21/135
 DESCRIPTION:Rozpozanie\nRodzaj zajęć: -\nNumer zajęć: 11/15\nProwadzący: dr inż. Kleszcz Sławomir; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr Marciniak Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251107T095000
-DTEND:20251107T112500
-SUMMARY:IiDwO (ć)
-LOCATION:4.23/135
-DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T095000
-DTEND:20251121T112500
-SUMMARY:IiDwO (ć)
-LOCATION:1.17/16
-DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: płk. dr hab. Kaczmarczyk Barbara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T095000
@@ -1093,7 +1093,7 @@ DTSTART:20251219T095000
 DTEND:20251219T112500
 SUMMARY:PDwK (w)
 LOCATION:0.8/16
-DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 26; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T095000
@@ -1128,7 +1128,7 @@ DTSTART:20251010T114000
 DTEND:20251010T131500
 SUMMARY:PDwK (w)
 LOCATION:0.8/16
-DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 26; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T114000
@@ -1177,7 +1177,7 @@ DTSTART:20251219T114000
 DTEND:20251219T131500
 SUMMARY:PDwK (w)
 LOCATION:0.8/16
-DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 26; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T114000
@@ -1191,7 +1191,7 @@ DTSTART:20250116T114000
 DTEND:20250116T131500
 SUMMARY:PZIwO (ć)
 LOCATION:1a/28
-DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 4.23
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250123T114000
@@ -1219,7 +1219,7 @@ DTSTART:20251017T133000
 DTEND:20251017T150500
 SUMMARY:PZIwO (ć)
 LOCATION:2.21/135
-DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 4.23
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T133000
@@ -1261,7 +1261,7 @@ DTSTART:20251205T133000
 DTEND:20251205T150500
 SUMMARY:PDwK (ć)
 LOCATION:31/158
-DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 26; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T133000
@@ -1289,7 +1289,7 @@ DTSTART:20250116T133000
 DTEND:20250116T150500
 SUMMARY:PZIwO (ć)
 LOCATION:1a/28
-DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 4.23
+DESCRIPTION:Psychologia zachowań informacyjnych w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250123T133000
@@ -1338,14 +1338,14 @@ DTSTART:20251121T160000
 DTEND:20251121T173500
 SUMMARY:PDwK (w)
 LOCATION:0.8/16
-DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 26; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T160000
 DTEND:20251205T173500
 SUMMARY:PDwK (ć)
 LOCATION:31/158
-DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 26; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T160000
@@ -1387,7 +1387,7 @@ DTSTART:20251114T175000
 DTEND:20251114T192500
 SUMMARY:PDwK (w)
 LOCATION:0.8/16
-DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37; dr inż. Kleszcz Sławomir
+DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 26; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T175000

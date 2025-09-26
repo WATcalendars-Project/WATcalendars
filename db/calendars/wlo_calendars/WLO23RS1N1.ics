@@ -14,7 +14,7 @@ BEGIN:VEVENT
 DTSTART:20251108T080000
 DTEND:20251108T093500
 SUMMARY:RF. (ć)
-LOCATION:255 S
+LOCATION:0.8/16
 DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
@@ -70,14 +70,14 @@ BEGIN:VEVENT
 DTSTART:20251025T095000
 DTEND:20251025T112500
 SUMMARY:OIN (w)
-LOCATION:4.23/135
+LOCATION:0.23/16
 DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251108T095000
 DTEND:20251108T112500
 SUMMARY:RF. (ć)
-LOCATION:255 S
+LOCATION:0.8/16
 DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 DTSTART:20250110T095000
 DTEND:20250110T112500
 SUMMARY:Bezp. 
-LOCATION:2.21/135
+LOCATION:0.23/16
 DESCRIPTION:Bezp.\nRodzaj zajęć: -\nNumer zajęć: 8/13\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 DTSTART:20251025T114000
 DTEND:20251025T131500
 SUMMARY:RF. (w)
-LOCATION:4.23/135
+LOCATION:4.17a/135
 DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
@@ -175,8 +175,8 @@ BEGIN:VEVENT
 DTSTART:20251206T114000
 DTEND:20251206T131500
 SUMMARY:Teoria 
-LOCATION:2.21/135
-DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 3/9\nProwadzący: dr Kawalerski Paweł; dr hab. inż. Nowacki Gabriel; mgr Moszczyński Maciej
+LOCATION:1 Ng
+DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 3/9\nProwadzący: dr Kawalerski Paweł; dr hab. inż. Nowacki Gabriel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T114000
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 DTSTART:20250110T114000
 DTEND:20250110T131500
 SUMMARY:OIN (w)
-LOCATION:2.21/135
+LOCATION:0.7/16
 DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
@@ -259,8 +259,8 @@ BEGIN:VEVENT
 DTSTART:20251206T133000
 DTEND:20251206T150500
 SUMMARY:Teoria 
-LOCATION:2.21/135
-DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 6/9\nProwadzący: dr Kawalerski Paweł; dr hab. inż. Nowacki Gabriel; mgr Moszczyński Maciej
+LOCATION:1 Ng
+DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 6/9\nProwadzący: dr Kawalerski Paweł; dr hab. inż. Nowacki Gabriel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T133000
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 DTSTART:20250110T133000
 DTEND:20250110T150500
 SUMMARY:RF. (w)
-LOCATION:2.21/135
+LOCATION:0.22/16
 DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT

@@ -273,7 +273,7 @@ BEGIN:VEVENT
 DTSTART:20251213T133000
 DTEND:20251213T150500
 SUMMARY:Mstp (w)
-LOCATION:0.8/16
+LOCATION:0.24/135
 DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
@@ -350,7 +350,7 @@ BEGIN:VEVENT
 DTSTART:20251213T160000
 DTEND:20251213T173500
 SUMMARY:Mstp (w)
-LOCATION:0.8/16
+LOCATION:0.24/135
 DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
@@ -387,6 +387,13 @@ DTEND:20251025T192500
 SUMMARY:Bezp.Eko (w)
 LOCATION:166 S
 DESCRIPTION:Bezpieczeństwo ekologiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. Zalewski Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251108T175000
+DTEND:20251108T192500
+SUMMARY:Mstp (w)
+LOCATION:317 S
+DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T175000
@@ -449,13 +456,13 @@ DTSTART:20251123T080000
 DTEND:20251123T093500
 SUMMARY:Mstp (w)
 LOCATION:166 S
-DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T080000
 DTEND:20251207T093500
 SUMMARY:Pmb (ć)
-LOCATION:
+LOCATION:4.17a/135
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
@@ -532,7 +539,7 @@ BEGIN:VEVENT
 DTSTART:20251207T095000
 DTEND:20251207T112500
 SUMMARY:Pmb (ć)
-LOCATION:
+LOCATION:4.17a/135
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
@@ -729,7 +736,7 @@ DTSTART:20250118T133000
 DTEND:20250118T150500
 SUMMARY:Mstp (w)
 LOCATION:317 S
-DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250201T133000
@@ -765,12 +772,5 @@ DTEND:20250111T173500
 SUMMARY:Wsp (ć)
 LOCATION:aula/135
 DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: prof. dr hab. Jagusiak Bogusław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250118T160000
-DTEND:20250118T173500
-SUMMARY:Mstp (w)
-LOCATION:317 S
-DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 END:VCALENDAR

@@ -165,6 +165,13 @@ LOCATION:1.9/16
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/19
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250202T095000
+DTEND:20250202T112500
+SUMMARY:M1 (E)
+LOCATION:aula/135
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Łydka Adrian
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251013T114000
 DTEND:20251013T131500
 SUMMARY:Soc (w)
@@ -233,6 +240,13 @@ DTEND:20250112T131500
 SUMMARY:M1 (ć)
 LOCATION:1.9/16
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250202T114000
+DTEND:20250202T131500
+SUMMARY:M1 (E)
+LOCATION:aula/135
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Łydka Adrian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T133000
@@ -550,6 +564,13 @@ LOCATION:241 K; 240 K; 239 K; 238 K; 237 K; 235 K; 234 K; 233 K; 232 K; 231 K; 2
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/30
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250217T095000
+DTEND:20250217T112500
+SUMMARY:M1 (Ep)
+LOCATION:aula/135
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/2\nProwadzący: dr Łydka Adrian
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251007T114000
 DTEND:20251007T131500
 SUMMARY:WdI (w)
@@ -618,6 +639,13 @@ DTEND:20250127T131500
 SUMMARY:PZiP (ć)
 LOCATION:1a/28
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Nyszk Łukasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250217T114000
+DTEND:20250217T131500
+SUMMARY:M1 (Ep)
+LOCATION:aula/135
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2/2\nProwadzący: dr Łydka Adrian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T133000
@@ -949,6 +977,13 @@ LOCATION:0.21/16
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250204T095000
+DTEND:20250204T112500
+SUMMARY:Mat2 (E)
+LOCATION:aula/135
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Łydka Adrian
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251008T114000
 DTEND:20251008T131500
 SUMMARY:DGB (ć)
@@ -1017,6 +1052,13 @@ DTEND:20250128T131500
 SUMMARY:WdI (L)
 LOCATION:0.21/16
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Konarzewski Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250204T114000
+DTEND:20250204T131500
+SUMMARY:Mat2 (E)
+LOCATION:aula/135
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Łydka Adrian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T133000
@@ -1446,6 +1488,13 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 4/46
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250219T095000
+DTEND:20250219T112500
+SUMMARY:Mat2 (Ep)
+LOCATION:aula/135
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/2\nProwadzący: dr Łydka Adrian
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251002T114000
 DTEND:20251002T131500
 SUMMARY:REG (w)
@@ -1556,6 +1605,13 @@ DTEND:20250129T131500
 SUMMARY:OPBMR (ć)
 LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S; 0 Naj; 2 T
 DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250219T114000
+DTEND:20250219T131500
+SUMMARY:Mat2 (Ep)
+LOCATION:aula/135
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2/2\nProwadzący: dr Łydka Adrian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T133000
@@ -1722,7 +1778,7 @@ BEGIN:VEVENT
 DTSTART:20251120T160000
 DTEND:20251120T173500
 SUMMARY:PD (ć)
-LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S; 0 DKo; 3/043 T
+LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S; 0 DKo; 1 T
 DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT

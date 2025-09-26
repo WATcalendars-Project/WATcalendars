@@ -1579,13 +1579,6 @@ LOCATION:5/ 23a
 DESCRIPTION:Urządzenia przeładunkowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251203T080000
-DTEND:20251203T093500
-SUMMARY:Ptr (L)
-LOCATION:4c/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251210T080000
 DTEND:20251210T093500
 SUMMARY:DGB (ć)
@@ -1934,6 +1927,13 @@ DTEND:20251029T150500
 SUMMARY:Pkm2 (P)
 LOCATION:116/ 54
 DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Projekt\nNumer zajęć: 7/12\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T133000
+DTEND:20251105T150500
+SUMMARY:Ptr (L)
+LOCATION:4c/ 19; 3d/ 19
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T133000

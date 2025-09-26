@@ -809,18 +809,11 @@ LOCATION:108/ 54; 109/ 54 ŚL
 DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Projekt\nNumer zajęć: 1/12\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251202T080000
-DTEND:20251202T093500
-SUMMARY:Płe (L)
-LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251209T080000
 DTEND:20251209T093500
 SUMMARY:Płe (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T080000
@@ -939,14 +932,14 @@ DTSTART:20251202T095000
 DTEND:20251202T112500
 SUMMARY:Płe (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
 DTEND:20251209T112500
 SUMMARY:Płe (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T095000
@@ -1586,13 +1579,6 @@ LOCATION:3/ 23a
 DESCRIPTION:Urządzenia przeładunkowe\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251105T080000
-DTEND:20251105T093500
-SUMMARY:Ptr (L)
-LOCATION:4c/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251112T080000
 DTEND:20251112T093500
 SUMMARY:UP. (w)
@@ -2010,7 +1996,7 @@ DTSTART:20251217T133000
 DTEND:20251217T150500
 SUMMARY:Ptr (L)
 LOCATION:4d/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T133000
@@ -2060,6 +2046,20 @@ DTEND:20250211T150500
 SUMMARY:Sz.-CSz 
 LOCATION:
 DESCRIPTION:Sz.-CSz\nRodzaj zajęć: -\nNumer zajęć: 54/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T160000
+DTEND:20251105T173500
+SUMMARY:Ptr (L)
+LOCATION:4c/ 19; 3d/ 19
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251112T160000
+DTEND:20251112T173500
+SUMMARY:Płe (L)
+LOCATION:16/ 19; 17/ 19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T160000

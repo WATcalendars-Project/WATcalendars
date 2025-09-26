@@ -11,11 +11,25 @@ LOCATION:
 DESCRIPTION:Postępowanie Administracyjne\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Śledzik Waldemar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251206T080000
-DTEND:20251206T093500
+DTSTART:20251025T080000
+DTEND:20251025T093500
 SUMMARY:OCHRONA 
 LOCATION:23AB; 1N; 1 Szy
 DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 1/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T080000
+DTEND:20251115T093500
+SUMMARY:OCHRONA 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 2/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T080000
+DTEND:20251206T093500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 1/29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T080000
@@ -25,39 +39,32 @@ LOCATION:1/22
 DESCRIPTION:TECHNO.\nRodzaj zajęć: -\nNumer zajęć: 1/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251220T080000
-DTEND:20251220T093500
+DTSTART:20250110T080000
+DTEND:20250110T093500
+SUMMARY:OCHRONA 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 3/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T080000
+DTEND:20250117T093500
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
 DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 1/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250110T080000
-DTEND:20250110T093500
-SUMMARY:BEZPIECZEŃSTWO 
-LOCATION:5.21/135
-DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 1/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250117T080000
-DTEND:20250117T093500
-SUMMARY:OCHRONA 
-LOCATION:23AB; 1N; 1 Szy
-DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 2/4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250124T080000
 DTEND:20250124T093500
-SUMMARY:ORGANY 
-LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 2/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 2/29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T080000
 DTEND:20250131T093500
-SUMMARY:PbI (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6
+SUMMARY:BEZPIECZEŃSTWO 
+LOCATION:5.21/135
+DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 1/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T095000
@@ -76,9 +83,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T095000
 DTEND:20251025T112500
-SUMMARY:PbI (w)
-LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Szwarc Krzysztof
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 3/29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251108T095000
@@ -90,16 +97,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T095000
 DTEND:20251115T112500
-SUMMARY:POSTĘPOWANIE 
-LOCATION:23AB; 1N
-DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 1/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Kawalerski Paweł
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 4/29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T095000
 DTEND:20251206T112500
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Szy
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 1/29
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 5/29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T095000
@@ -111,51 +118,51 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T095000
 DTEND:20251220T112500
-SUMMARY:ORGANY 
-LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 3/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+SUMMARY:PbI (w)
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T095000
 DTEND:20250110T112500
-SUMMARY:BEZPIECZEŃSTWO 
-LOCATION:5.21/135
-DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 3/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 6/29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250117T095000
 DTEND:20250117T112500
 SUMMARY:OCHRONA 
 LOCATION:23AB; 1N; 1 Szy
-DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 3/4
+DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T095000
 DTEND:20250124T112500
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 4/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 2/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T095000
 DTEND:20250131T112500
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Trz
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 2/29
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 7/29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T114000
 DTEND:20251004T131500
 SUMMARY:BEZPIECZEŃSTWO 
 LOCATION:23AB; 1N; 1 Kpa
-DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 4/10
+DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 3/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T114000
 DTEND:20251011T131500
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 3/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 8/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T114000
@@ -169,14 +176,14 @@ DTSTART:20251108T114000
 DTEND:20251108T131500
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 5/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 3/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T114000
 DTEND:20251115T131500
-SUMMARY:BEZP. 
-LOCATION:23AB; 1N; 1 Szy
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 4/29
+SUMMARY:POSTĘPOWANIE 
+LOCATION:23AB; 1N
+DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 1/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Kawalerski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T114000
@@ -197,35 +204,42 @@ DTSTART:20251213T114000
 DTEND:20251213T131500
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Trz
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 5/29
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 9/29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T114000
 DTEND:20251220T131500
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Trz
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 6/29
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 10/29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T114000
 DTEND:20250110T131500
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 6/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 4/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T114000
+DTEND:20250117T131500
+SUMMARY:BEZP. 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 11/29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T114000
 DTEND:20250124T131500
 SUMMARY:BEZPIECZEŃSTWO 
 LOCATION:5.21/135
-DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 5/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
+DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 4/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T114000
 DTEND:20250131T131500
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Trz
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 7/29
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 12/29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T133000
@@ -239,7 +253,7 @@ DTSTART:20251011T133000
 DTEND:20251011T150500
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 8/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 13/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T133000
@@ -253,14 +267,14 @@ DTSTART:20251108T133000
 DTEND:20251108T150500
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 7/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 5/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T133000
 DTEND:20251115T150500
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 8/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 6/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T133000
@@ -270,46 +284,60 @@ LOCATION:23AB; 1N; 1 MoM
 DESCRIPTION:TECHNO.\nRodzaj zajęć: -\nNumer zajęć: 5/10
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251206T133000
+DTEND:20251206T150500
+SUMMARY:PbI (ć)
+LOCATION:
+DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251213T133000
 DTEND:20251213T150500
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Trz
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 9/29
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 14/29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T133000
 DTEND:20251220T150500
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Trz
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 10/29
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 15/29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T133000
 DTEND:20250110T150500
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 9/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 7/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T133000
+DTEND:20250117T150500
+SUMMARY:PbI (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T133000
 DTEND:20250124T150500
 SUMMARY:BEZPIECZEŃSTWO 
 LOCATION:5.21/135
-DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 6/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
+DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 5/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T133000
 DTEND:20250131T150500
-SUMMARY:OCHRONA 
-LOCATION:23AB; 1N; 1 Szy
-DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 4/4
+SUMMARY:ORGANY 
+LOCATION:23AB; 1N
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 8/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T160000
 DTEND:20251025T173500
 SUMMARY:PbI (ć)
 LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6
+DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251108T160000
@@ -323,7 +351,7 @@ DTSTART:20251115T160000
 DTEND:20251115T173500
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 10/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 9/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T160000
@@ -344,14 +372,21 @@ DTSTART:20251220T160000
 DTEND:20251220T173500
 SUMMARY:BEZPIECZEŃSTWO 
 LOCATION:5.21/135
-DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 7/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
+DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 6/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T160000
 DTEND:20250110T173500
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Trz
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 11/29
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 16/29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T160000
+DTEND:20250117T173500
+SUMMARY:ORGANY 
+LOCATION:23AB; 1N
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 10/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T160000
@@ -372,13 +407,6 @@ DTSTART:20251025T175000
 DTEND:20251025T192500
 SUMMARY:PbI (ć)
 LOCATION:
-DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251213T175000
-DTEND:20251213T192500
-SUMMARY:PbI (ć)
-LOCATION:
 DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
@@ -386,14 +414,21 @@ DTSTART:20251220T175000
 DTEND:20251220T192500
 SUMMARY:BEZPIECZEŃSTWO 
 LOCATION:5.21/135
-DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 8/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
+DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 7/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T175000
 DTEND:20250110T192500
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Trz
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 12/29
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 17/29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T175000
+DTEND:20250117T192500
+SUMMARY:ORGANY 
+LOCATION:23AB; 1N
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 12/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T175000
@@ -403,11 +438,11 @@ LOCATION:
 DESCRIPTION:Podstawy bezpieczeństwa informacyjnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250131T175000
-DTEND:20250131T192500
-SUMMARY:ORGANY 
-LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 12/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr inż. Piwowarczyk Ryszard; dr Ćwik Dariusz
+DTSTART:20251220T194000
+DTEND:20251220T211500
+SUMMARY:BEZPIECZEŃSTWO 
+LOCATION:5.21/135
+DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 8/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250914T080000
@@ -421,7 +456,7 @@ DTSTART:20251005T080000
 DTEND:20251005T093500
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 13/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 18/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251012T080000
@@ -449,14 +484,7 @@ DTSTART:20251123T080000
 DTEND:20251123T093500
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 14/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251207T080000
-DTEND:20251207T093500
-SUMMARY:BEZP. 
-LOCATION:23AB; 1N; 1 Szy
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 15/29
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 19/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251214T080000
@@ -466,25 +494,11 @@ LOCATION:23AB; 1N; 1 Kpa
 DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 9/10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250125T080000
-DTEND:20250125T093500
-SUMMARY:POSTĘPOWANIE 
-LOCATION:23AB; 1N
-DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 4/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Kawalerski Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250201T080000
-DTEND:20250201T093500
-SUMMARY:POSTĘPOWANIE 
-LOCATION:23AB; 1N
-DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 5/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Kawalerski Paweł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251005T095000
 DTEND:20251005T112500
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 16/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 20/29\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251012T095000
@@ -498,14 +512,14 @@ DTSTART:20251109T095000
 DTEND:20251109T112500
 SUMMARY:POSTĘPOWANIE 
 LOCATION:23AB; 1N
-DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 6/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Śledzik Waldemar; dr Kawalerski Paweł
+DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 4/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Śledzik Waldemar; dr Kawalerski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T095000
 DTEND:20251116T112500
 SUMMARY:POSTĘPOWANIE 
 LOCATION:23AB; 1N
-DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 7/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Śledzik Waldemar; dr Kawalerski Paweł
+DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 5/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Śledzik Waldemar; dr Kawalerski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T095000
@@ -519,7 +533,7 @@ DTSTART:20251207T095000
 DTEND:20251207T112500
 SUMMARY:POSTĘPOWANIE 
 LOCATION:23AB; 1N
-DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 8/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Kawalerski Paweł
+DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 6/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Kawalerski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251214T095000
@@ -529,32 +543,18 @@ LOCATION:23AB; 1N; 1 Kpa
 DESCRIPTION:BEZPIECZEŃSTWO\nRodzaj zajęć: -\nNumer zajęć: 10/10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251221T095000
-DTEND:20251221T112500
-SUMMARY:BEZP. 
-LOCATION:23AB; 1N; 1 Szy
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 17/29
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250111T095000
-DTEND:20250111T112500
-SUMMARY:BEZP. 
-LOCATION:23AB; 1N; 1 Szy
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 18/29
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250125T095000
 DTEND:20250125T112500
-SUMMARY:BEZP. 
-LOCATION:23AB; 1N; 1 Szy
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 19/29
+SUMMARY:POSTĘPOWANIE 
+LOCATION:23AB; 1N
+DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 7/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Kawalerski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250201T095000
 DTEND:20250201T112500
-SUMMARY:BEZP. 
-LOCATION:23AB; 1N; 1 Szy
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 20/29
+SUMMARY:POSTĘPOWANIE 
+LOCATION:23AB; 1N
+DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 8/10\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Kawalerski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251005T114000

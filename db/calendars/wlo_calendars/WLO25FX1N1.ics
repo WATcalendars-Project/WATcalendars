@@ -202,9 +202,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251108T114000
 DTEND:20251108T131500
-SUMMARY:Owi (w)
+SUMMARY:Ez (w)
 LOCATION:0.24/135
-DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Mielnik Marcin
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. Świniarski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T114000
@@ -216,9 +216,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T114000
 DTEND:20251122T131500
-SUMMARY:Owi (w)
+SUMMARY:Ez (w)
 LOCATION:0.24/135
-DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Mielnik Marcin
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr hab. Świniarski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T114000
@@ -377,9 +377,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251108T160000
 DTEND:20251108T173500
-SUMMARY:Ez (w)
-LOCATION:0.24/135
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. Świniarski Janusz
+SUMMARY:Owi (w)
+LOCATION:308 S
+DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Mielnik Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T160000
@@ -387,13 +387,6 @@ DTEND:20251115T173500
 SUMMARY:Wzp (ć)
 LOCATION:0.23/16
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr Kobielski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251122T160000
-DTEND:20251122T173500
-SUMMARY:Ez (w)
-LOCATION:0.24/135
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr hab. Świniarski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T160000
@@ -450,6 +443,13 @@ DTEND:20251025T192500
 SUMMARY:M1 (ć)
 LOCATION:313 S
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: dr Gdula Agnieszka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251108T175000
+DTEND:20251108T192500
+SUMMARY:Owi (w)
+LOCATION:308 S
+DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Mielnik Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T175000

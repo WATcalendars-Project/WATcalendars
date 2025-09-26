@@ -32,13 +32,6 @@ LOCATION:1a/28
 DESCRIPTION:Wynagrodzenia i uposażenia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr Milian-Pogonowska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251020T080000
-DTEND:20251020T093500
-SUMMARY:Fip (w)
-LOCATION:0.21/16
-DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/11\nProwadzący: dr hab. Kożuch Artur Jacek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251117T080000
 DTEND:20251117T093500
 SUMMARY:WiU (w)
@@ -51,13 +44,6 @@ DTEND:20251124T093500
 SUMMARY:PoTe (ć)
 LOCATION:0.21/16
 DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Nagrabski Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251201T080000
-DTEND:20251201T093500
-SUMMARY:Fip (ć)
-LOCATION:1.15/16
-DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T080000
@@ -204,7 +190,7 @@ DTSTART:20251006T114000
 DTEND:20251006T131500
 SUMMARY:Fip (w)
 LOCATION:0.22/16
-DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: dr hab. Kożuch Artur Jacek
+DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/11\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T114000
@@ -219,20 +205,6 @@ DTEND:20251020T131500
 SUMMARY:PIW (w)
 LOCATION:1.9/16; 1.10/16
 DESCRIPTION:Podsystem infrastruktury wojskowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: mgr inż. Juniec Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251027T114000
-DTEND:20251027T131500
-SUMMARY:Fip (w)
-LOCATION:2/22
-DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr hab. Kożuch Artur Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251103T114000
-DTEND:20251103T131500
-SUMMARY:Fip (ć)
-LOCATION:34/158
-DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T114000
@@ -1282,7 +1254,7 @@ DTSTART:20251126T080000
 DTEND:20251126T093500
 SUMMARY:Fip (w)
 LOCATION:1a/28
-DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr hab. Kożuch Artur Jacek
+DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T080000
@@ -1317,7 +1289,7 @@ DTSTART:20250121T080000
 DTEND:20250121T093500
 SUMMARY:Fip (w)
 LOCATION:0.6/16
-DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr hab. Kożuch Artur Jacek
+DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T095000
@@ -1352,7 +1324,14 @@ DTSTART:20251015T095000
 DTEND:20251015T112500
 SUMMARY:Fip (w)
 LOCATION:0.22/16
-DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr hab. Kożuch Artur Jacek
+DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr hab. Kożuch Artur Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251029T095000
+DTEND:20251029T112500
+SUMMARY:Fip (w)
+LOCATION:34/158
+DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T095000
@@ -1366,14 +1345,14 @@ DTSTART:20251119T095000
 DTEND:20251119T112500
 SUMMARY:Fip (w)
 LOCATION:0.6/16
-DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr hab. Kożuch Artur Jacek
+DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T095000
 DTEND:20251126T112500
 SUMMARY:Fip (ć)
 LOCATION:1a/28
-DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: dr hab. Kożuch Artur Jacek
+DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T095000
@@ -1408,7 +1387,7 @@ DTSTART:20250121T095000
 DTEND:20250121T112500
 SUMMARY:Fip (ć)
 LOCATION:0.6/16
-DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: dr hab. Kożuch Artur Jacek
+DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250128T095000
@@ -1453,6 +1432,13 @@ LOCATION:1.9/16; 1.10/16
 DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251029T114000
+DTEND:20251029T131500
+SUMMARY:Fip (ć)
+LOCATION:34/158
+DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: dr hab. Kożuch Artur Jacek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251112T114000
 DTEND:20251112T131500
 SUMMARY:SLwLSZ (L)
@@ -1464,14 +1450,14 @@ DTSTART:20251119T114000
 DTEND:20251119T131500
 SUMMARY:Fip (ć)
 LOCATION:0.6/16
-DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr hab. Kożuch Artur Jacek
+DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T114000
 DTEND:20251126T131500
 SUMMARY:Fip (ć)
 LOCATION:4.23/135
-DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11\nProwadzący: dr hab. Kożuch Artur Jacek
+DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T114000
@@ -1492,7 +1478,7 @@ DTSTART:20251217T114000
 DTEND:20251217T131500
 SUMMARY:Fip (w)
 LOCATION:0.22/16
-DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr hab. Kożuch Artur Jacek
+DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T114000
@@ -1513,7 +1499,7 @@ DTSTART:20250121T114000
 DTEND:20250121T131500
 SUMMARY:Fip (ć)
 LOCATION:0.6/16
-DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11\nProwadzący: dr hab. Kożuch Artur Jacek
+DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250128T114000
@@ -1597,7 +1583,7 @@ DTSTART:20251217T133000
 DTEND:20251217T150500
 SUMMARY:Fip (ć)
 LOCATION:0.22/16
-DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: dr hab. Kożuch Artur Jacek
+DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T133000
@@ -1626,6 +1612,13 @@ DTEND:20250924T173500
 SUMMARY:Sz.-CSz 
 LOCATION:
 DESCRIPTION:Sz.-CSz\nRodzaj zajęć: -\nNumer zajęć: 38/98
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251015T160000
+DTEND:20251015T173500
+SUMMARY:Fip (w)
+LOCATION:0.22/16
+DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T160000
@@ -1702,42 +1695,35 @@ DTSTART:20251203T175000
 DTEND:20251203T192500
 SUMMARY:WF (w)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: ppłk mgr Ryś Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251210T175000
-DTEND:20251210T192500
-SUMMARY:WF (w)
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: ppłk mgr Ryś Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T175000
 DTEND:20251217T192500
 SUMMARY:WF (w)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: ppłk mgr Ryś Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T175000
 DTEND:20250107T192500
 SUMMARY:WF (w)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: ppłk mgr Ryś Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250114T175000
 DTEND:20250114T192500
 SUMMARY:WF (w)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: ppłk mgr Ryś Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250121T175000
 DTEND:20250121T192500
 SUMMARY:WF (w)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: ppłk mgr Ryś Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T194000
@@ -1801,6 +1787,13 @@ DTEND:20251127T093500
 SUMMARY:PoM (S)
 LOCATION:1a/28
 DESCRIPTION:Podsystem medyczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Nagrabski Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251204T080000
+DTEND:20251204T093500
+SUMMARY:Fip (ć)
+LOCATION:1.15/16
+DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T080000
@@ -2804,111 +2797,6 @@ LOCATION:
 DESCRIPTION:Sz.-CSz\nRodzaj zajęć: -\nNumer zajęć: 72/98
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251004T080000
-DTEND:20251004T093500
-SUMMARY:XWF (ć)
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251011T080000
-DTEND:20251011T093500
-SUMMARY:XWF (ć)
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251018T080000
-DTEND:20251018T093500
-SUMMARY:XWF (ć)
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251025T080000
-DTEND:20251025T093500
-SUMMARY:XWF (ć)
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251108T080000
-DTEND:20251108T093500
-SUMMARY:XWF (ć)
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251115T080000
-DTEND:20251115T093500
-SUMMARY:XWF (ć)
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251122T080000
-DTEND:20251122T093500
-SUMMARY:XWF (ć)
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251129T080000
-DTEND:20251129T093500
-SUMMARY:XWF (ć)
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251206T080000
-DTEND:20251206T093500
-SUMMARY:XWF (ć)
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251213T080000
-DTEND:20251213T093500
-SUMMARY:XWF (ć)
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251220T080000
-DTEND:20251220T093500
-SUMMARY:XWF (ć)
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250110T080000
-DTEND:20250110T093500
-SUMMARY:XWF (ć)
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250117T080000
-DTEND:20250117T093500
-SUMMARY:XWF (ć)
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250124T080000
-DTEND:20250124T093500
-SUMMARY:XWF (ć)
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250131T080000
-DTEND:20250131T093500
-SUMMARY:XWF (ć)
-LOCATION:
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250913T095000
 DTEND:20250913T112500
 SUMMARY:Sz.-CSz 
@@ -2921,6 +2809,111 @@ DTEND:20250920T112500
 SUMMARY:Sz.-CSz 
 LOCATION:
 DESCRIPTION:Sz.-CSz\nRodzaj zajęć: -\nNumer zajęć: 74/98
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251004T095000
+DTEND:20251004T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T095000
+DTEND:20251011T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251018T095000
+DTEND:20251018T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T095000
+DTEND:20251025T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251108T095000
+DTEND:20251108T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T095000
+DTEND:20251115T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251122T095000
+DTEND:20251122T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251129T095000
+DTEND:20251129T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T095000
+DTEND:20251206T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T095000
+DTEND:20251213T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T095000
+DTEND:20251220T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T095000
+DTEND:20250110T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T095000
+DTEND:20250117T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250124T095000
+DTEND:20250124T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250131T095000
+DTEND:20250131T112500
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250913T114000

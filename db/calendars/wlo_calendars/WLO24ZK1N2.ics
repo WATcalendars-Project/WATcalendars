@@ -445,18 +445,11 @@ LOCATION:31/158
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/18
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251108T175000
-DTEND:20251108T192500
-SUMMARY:Neg (w)
-LOCATION:0.22/16
-DESCRIPTION:Negocjacje\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Kasperski Marian
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251115T175000
 DTEND:20251115T192500
 SUMMARY:Neg (w)
 LOCATION:0.22/16
-DESCRIPTION:Negocjacje\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Kasperski Marian
+DESCRIPTION:Negocjacje\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Kasperski Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T175000
@@ -617,7 +610,7 @@ DTSTART:20251012T095000
 DTEND:20251012T112500
 SUMMARY:Neg (w)
 LOCATION:0.6/16
-DESCRIPTION:Negocjacje\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Kasperski Marian
+DESCRIPTION:Negocjacje\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Kasperski Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251026T095000
@@ -779,6 +772,13 @@ DTEND:20251012T150500
 SUMMARY:Prc (w)
 LOCATION:2/22
 DESCRIPTION:Przedsiębiorczość\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr Kaczmarska Krawczak Jadwiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251026T133000
+DTEND:20251026T150500
+SUMMARY:Neg (w)
+LOCATION:0.23/16
+DESCRIPTION:Negocjacje\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Kasperski Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T133000

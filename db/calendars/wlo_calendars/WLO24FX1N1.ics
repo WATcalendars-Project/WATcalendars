@@ -57,7 +57,7 @@ DTSTART:20251213T080000
 DTEND:20251213T093500
 SUMMARY:LP (L)
 LOCATION:0.8/16
-DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: płk dr hab. inż. Borucka Anna
+DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T080000
@@ -477,7 +477,7 @@ DTSTART:20250110T175000
 DTEND:20250110T192500
 SUMMARY:LP (L)
 LOCATION:1.16/16
-DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: płk dr hab. inż. Borucka Anna
+DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T194000
@@ -559,43 +559,43 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T080000
 DTEND:20251116T093500
-SUMMARY:Ek (w)
-LOCATION:0.8/16
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: ppłk dr Waszkiewicz Grzegorz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251123T080000
-DTEND:20251123T093500
-SUMMARY:FII (L)
-LOCATION:141 S; 139 S
-DESCRIPTION:Fizyka II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251221T080000
-DTEND:20251221T093500
 SUMMARY:LD (w)
 LOCATION:1.10/16
 DESCRIPTION:Logistyka dystrybucji\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Nyszk Łukasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251123T080000
+DTEND:20251123T093500
+SUMMARY:FII (L)
+LOCATION:142 S; 139 S
+DESCRIPTION:Fizyka II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251221T080000
+DTEND:20251221T093500
+SUMMARY:BiESTS (w)
+LOCATION:1.9/16
+DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: mgr inż. Radzimierski Mariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250111T080000
 DTEND:20250111T093500
 SUMMARY:FII (L)
-LOCATION:141 S; 139 S
+LOCATION:142 S; 139 S
 DESCRIPTION:Fizyka II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250118T080000
 DTEND:20250118T093500
 SUMMARY:LD (w)
-LOCATION:1.10/16
+LOCATION:1.9/16
 DESCRIPTION:Logistyka dystrybucji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Nyszk Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250125T080000
 DTEND:20250125T093500
 SUMMARY:FII (L)
-LOCATION:141 S; 139 S
+LOCATION:142 S; 139 S
 DESCRIPTION:Fizyka II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
@@ -617,7 +617,7 @@ DTSTART:20251012T095000
 DTEND:20251012T112500
 SUMMARY:Ek (w)
 LOCATION:0.8/16
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: ppłk dr Waszkiewicz Grzegorz
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: ppłk dr Waszkiewicz Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251026T095000
@@ -644,7 +644,7 @@ BEGIN:VEVENT
 DTSTART:20251123T095000
 DTEND:20251123T112500
 SUMMARY:FII (L)
-LOCATION:141 S; 139 S
+LOCATION:142 S; 139 S
 DESCRIPTION:Fizyka II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
@@ -669,13 +669,6 @@ LOCATION:1.10/16
 DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250111T095000
-DTEND:20250111T112500
-SUMMARY:LD (ć)
-LOCATION:0.8/16
-DESCRIPTION:Logistyka dystrybucji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250118T095000
 DTEND:20250118T112500
 SUMMARY:LD (S)
@@ -686,7 +679,7 @@ BEGIN:VEVENT
 DTSTART:20250125T095000
 DTEND:20250125T112500
 SUMMARY:FII (L)
-LOCATION:141 S; 139 S
+LOCATION:142 S; 139 S
 DESCRIPTION:Fizyka II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
@@ -743,14 +736,14 @@ DTSTART:20251123T114000
 DTEND:20251123T131500
 SUMMARY:BiESTS (w)
 LOCATION:1.9/16
-DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: mgr inż. Radzimierski Mariusz
+DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: mgr inż. Radzimierski Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T114000
 DTEND:20251207T131500
-SUMMARY:BiESTS (w)
-LOCATION:1.9/16
-DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: mgr inż. Radzimierski Mariusz
+SUMMARY:Ek (w)
+LOCATION:1.10/16
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: ppłk dr Waszkiewicz Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251214T114000
@@ -778,7 +771,7 @@ DTSTART:20250118T114000
 DTEND:20250118T131500
 SUMMARY:LD (ć)
 LOCATION:0.8/16
-DESCRIPTION:Logistyka dystrybucji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
+DESCRIPTION:Logistyka dystrybucji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250125T114000
@@ -863,6 +856,13 @@ DTEND:20250111T150500
 SUMMARY:Jo (ć)
 LOCATION:133 K; 134 K
 DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: mgr Zeneli Andi
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250118T133000
+DTEND:20250118T150500
+SUMMARY:LD (ć)
+LOCATION:0.8/16
+DESCRIPTION:Logistyka dystrybucji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250125T133000
