@@ -4,6 +4,13 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WTC25CX1S1
 BEGIN:VEVENT
+DTSTART:20251013T080000
+DTEND:20251013T093500
+SUMMARY:WdI (w)
+LOCATION:aF S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Bareła Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251201T080000
 DTEND:20251201T093500
 SUMMARY:PGI (ć)
@@ -190,14 +197,14 @@ DTSTART:20251006T160000
 DTEND:20251006T173500
 SUMMARY:WdI (w)
 LOCATION:aF S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Bareła Jarosław
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Bareła Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T160000
 DTEND:20251013T173500
 SUMMARY:WdI (w)
 LOCATION:aF S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Bareła Jarosław
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Bareła Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T160000
@@ -256,6 +263,13 @@ LOCATION:9/ 62
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/17\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250112T160000
+DTEND:20250112T173500
+SUMMARY:Mat2 (ć)
+LOCATION:166 S
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/17\nProwadzący: dr hab. Czuchry Ewa
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250119T160000
 DTEND:20250119T173500
 SUMMARY:WdI (ć)
@@ -281,21 +295,21 @@ DTSTART:20251021T095000
 DTEND:20251021T112500
 SUMMARY:WdI (w)
 LOCATION:aF S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Bareła Jarosław
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Bareła Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T095000
 DTEND:20251028T112500
 SUMMARY:WdI (w)
 LOCATION:aF S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Bareła Jarosław
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Bareła Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T095000
 DTEND:20251104T112500
 SUMMARY:WdI (w)
 LOCATION:aF S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Bareła Jarosław
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Bareła Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T095000
@@ -361,25 +375,11 @@ LOCATION:aF S
 DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr hab. inż. Rybiński Janusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250113T114000
-DTEND:20250113T131500
-SUMMARY:Mat2 (ć)
-LOCATION:166 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/17\nProwadzący: dr hab. Czuchry Ewa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250120T114000
-DTEND:20250120T131500
-SUMMARY:Mat2 (ć)
-LOCATION:166 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: dr hab. Czuchry Ewa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250127T114000
-DTEND:20250127T131500
-SUMMARY:Mat2 (ć)
-LOCATION:166 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: dr hab. Czuchry Ewa
+DTSTART:20251014T133000
+DTEND:20251014T150500
+SUMMARY:M1 (w)
+LOCATION:aF S
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: dr Jastrzębska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T133000
@@ -457,6 +457,13 @@ DTEND:20250127T150500
 SUMMARY:PZiP (w)
 LOCATION:aF S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: mgr Łukasik Sebastian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251104T160000
+DTEND:20251104T173500
+SUMMARY:M1 (ć)
+LOCATION:166 S
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/19\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T160000
@@ -777,57 +784,57 @@ BEGIN:VEVENT
 DTSTART:20251002T114000
 DTEND:20251002T131500
 SUMMARY:M1 (w)
-LOCATION:aF S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: dr Jastrzębska Małgorzata
+LOCATION:301/ S
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: dr Jastrzębska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T114000
 DTEND:20251009T131500
 SUMMARY:M1 (w)
 LOCATION:aF S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: dr Jastrzębska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T114000
 DTEND:20251016T131500
 SUMMARY:M1 (w)
 LOCATION:aF S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: dr Jastrzębska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T114000
 DTEND:20251023T131500
 SUMMARY:M1 (w)
 LOCATION:aF S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: dr Jastrzębska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T114000
 DTEND:20251030T131500
 SUMMARY:M1 (w)
 LOCATION:aF S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 6/15\nProwadzący: dr Jastrzębska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T114000
 DTEND:20251106T131500
 SUMMARY:M1 (w)
 LOCATION:aF S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 6/15\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7/15\nProwadzący: dr Jastrzębska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T114000
 DTEND:20251113T131500
 SUMMARY:M1 (w)
 LOCATION:aF S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7/15\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: dr Jastrzębska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T114000
 DTEND:20251120T131500
 SUMMARY:M1 (w)
 LOCATION:aF S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: dr Jastrzębska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T114000
@@ -911,91 +918,84 @@ DTSTART:20251030T133000
 DTEND:20251030T150500
 SUMMARY:M1 (ć)
 LOCATION:166 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/19\nProwadzący: dr hab. Czuchry Ewa
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/19\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T133000
 DTEND:20251106T150500
 SUMMARY:M1 (ć)
 LOCATION:166 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/19\nProwadzący: dr hab. Czuchry Ewa
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/19\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T133000
 DTEND:20251113T150500
 SUMMARY:M1 (ć)
 LOCATION:166 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/19\nProwadzący: dr hab. Czuchry Ewa
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/19\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T133000
 DTEND:20251120T150500
 SUMMARY:M1 (ć)
 LOCATION:166 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/19\nProwadzący: dr hab. Czuchry Ewa
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/19\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T133000
 DTEND:20251127T150500
 SUMMARY:M1 (ć)
 LOCATION:109 24
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/19\nProwadzący: dr hab. Czuchry Ewa
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/19\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T133000
 DTEND:20251204T150500
 SUMMARY:M1 (ć)
 LOCATION:109 24
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/19\nProwadzący: dr hab. Czuchry Ewa
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/19\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
 DTEND:20251211T150500
-SUMMARY:M1 (ć)
+SUMMARY:Mat2 (ć)
 LOCATION:109 24
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/19\nProwadzący: dr hab. Czuchry Ewa
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T133000
 DTEND:20251218T150500
 SUMMARY:Mat2 (ć)
 LOCATION:109 24
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: dr hab. Czuchry Ewa
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T133000
 DTEND:20250108T150500
 SUMMARY:Mat2 (ć)
 LOCATION:109 24
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: dr hab. Czuchry Ewa
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T133000
 DTEND:20250115T150500
 SUMMARY:Mat2 (ć)
 LOCATION:109 24
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: dr hab. Czuchry Ewa
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T133000
 DTEND:20250122T150500
 SUMMARY:Mat2 (ć)
 LOCATION:166 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: dr hab. Czuchry Ewa
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250129T133000
 DTEND:20250129T150500
 SUMMARY:Mat2 (ć)
 LOCATION:166 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: dr hab. Czuchry Ewa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251002T160000
-DTEND:20251002T173500
-SUMMARY:WdI (w)
-LOCATION:aF S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Bareła Jarosław
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T160000
@@ -1129,13 +1129,6 @@ DTEND:20250123T112500
 SUMMARY:Wzp (ć)
 LOCATION:166 S
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr Kobielski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251003T114000
-DTEND:20251003T131500
-SUMMARY:M1 (w)
-LOCATION:aF S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: dr Jastrzębska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T114000
@@ -1394,27 +1387,34 @@ DTSTART:20251205T160000
 DTEND:20251205T173500
 SUMMARY:Mat2 (ć)
 LOCATION:204 65
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: dr hab. Czuchry Ewa
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T160000
 DTEND:20251212T173500
 SUMMARY:Mat2 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/17\nProwadzący: dr hab. Czuchry Ewa
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T160000
 DTEND:20251219T173500
 SUMMARY:Mat2 (ć)
 LOCATION:55/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/17\nProwadzący: dr hab. Czuchry Ewa
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/17\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T160000
 DTEND:20250109T173500
 SUMMARY:Mat2 (ć)
 LOCATION:55/ 62
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/17\nProwadzący: dr hab. Czuchry Ewa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T160000
+DTEND:20250116T173500
+SUMMARY:Mat2 (ć)
+LOCATION:201 65
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/17\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT

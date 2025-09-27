@@ -60,6 +60,13 @@ LOCATION:37/158
 DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 2/9\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250131T080000
+DTEND:20250131T093500
+SUMMARY:oiz (ć)
+LOCATION:1.15/16
+DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251004T095000
 DTEND:20251004T112500
 SUMMARY:Jo (ć)
@@ -217,7 +224,7 @@ BEGIN:VEVENT
 DTSTART:20250110T114000
 DTEND:20250110T131500
 SUMMARY:WdI (ć)
-LOCATION:4.23/135
+LOCATION:1/22
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Staruch Marcin
 END:VEVENT
 BEGIN:VEVENT
@@ -344,7 +351,7 @@ DTSTART:20251108T160000
 DTEND:20251108T173500
 SUMMARY:oiz (ć)
 LOCATION:1.27/135
-DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Marciniak Mirosław
+DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T160000
@@ -394,6 +401,13 @@ DTEND:20250124T173500
 SUMMARY:Psy (ć)
 LOCATION:4.17b/135
 DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Karczewski Edward
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250131T160000
+DTEND:20250131T173500
+SUMMARY:oiz (ć)
+LOCATION:1.17/16
+DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T175000
@@ -466,13 +480,6 @@ LOCATION:31/158
 DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Warchał Arnold
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251207T080000
-DTEND:20251207T093500
-SUMMARY:NoPiP (ć)
-LOCATION:9/158
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Warchał Arnold
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251214T080000
 DTEND:20251214T093500
 SUMMARY:Podst.teorii 
@@ -484,14 +491,7 @@ DTSTART:20251221T080000
 DTEND:20251221T093500
 SUMMARY:oiz (ć)
 LOCATION:9/158
-DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Marciniak Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250111T080000
-DTEND:20250111T093500
-SUMMARY:oiz (ć)
-LOCATION:A.1.3/135
-DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Marciniak Mirosław
+DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251012T095000
@@ -524,9 +524,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T095000
 DTEND:20251207T112500
-SUMMARY:oiz (ć)
+SUMMARY:NoPiP (ć)
 LOCATION:9/158
-DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Marciniak Mirosław
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Warchał Arnold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251214T095000
@@ -546,7 +546,7 @@ BEGIN:VEVENT
 DTSTART:20250111T095000
 DTEND:20250111T112500
 SUMMARY:Wsp (ć)
-LOCATION:4.23/135
+LOCATION:1.15/16
 DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5
 END:VEVENT
 BEGIN:VEVENT
@@ -609,7 +609,7 @@ BEGIN:VEVENT
 DTSTART:20250111T114000
 DTEND:20250111T131500
 SUMMARY:Wsp (ć)
-LOCATION:4.23/135
+LOCATION:37/158
 DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT

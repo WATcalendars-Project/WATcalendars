@@ -130,18 +130,25 @@ LOCATION:2.21/135
 DESCRIPTION:Użycie\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: dr inż. Kleszcz Sławomir; dr hab. Świerszcz Katarzyna; dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251104T095000
+DTEND:20251104T112500
+SUMMARY:Wybrane 
+LOCATION:4.23/135
+DESCRIPTION:Wybrane\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: dr hab. Stochaj Justyna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251118T095000
 DTEND:20251118T112500
 SUMMARY:Wybrane 
 LOCATION:0.7/16
-DESCRIPTION:Wybrane\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: dr hab. Stochaj Justyna
+DESCRIPTION:Wybrane\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: dr hab. Stochaj Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T095000
 DTEND:20251125T112500
 SUMMARY:Wybrane 
 LOCATION:5.21/135
-DESCRIPTION:Wybrane\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: dr hab. Stochaj Justyna
+DESCRIPTION:Wybrane\nRodzaj zajęć: -\nNumer zajęć: 3/15\nProwadzący: dr hab. Stochaj Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T095000
@@ -172,25 +179,32 @@ LOCATION:4.23/135
 DESCRIPTION:Loty\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251104T114000
+DTEND:20251104T131500
+SUMMARY:Wybrane 
+LOCATION:4.23/135
+DESCRIPTION:Wybrane\nRodzaj zajęć: -\nNumer zajęć: 4/15\nProwadzący: dr hab. Stochaj Justyna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251118T114000
 DTEND:20251118T131500
 SUMMARY:Wybrane 
 LOCATION:0.7/16
-DESCRIPTION:Wybrane\nRodzaj zajęć: -\nNumer zajęć: 3/15\nProwadzący: dr hab. Stochaj Justyna
+DESCRIPTION:Wybrane\nRodzaj zajęć: -\nNumer zajęć: 5/15\nProwadzący: dr hab. Stochaj Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T114000
 DTEND:20251125T131500
 SUMMARY:Wybrane 
 LOCATION:5.21/135
-DESCRIPTION:Wybrane\nRodzaj zajęć: -\nNumer zajęć: 4/15\nProwadzący: dr hab. Stochaj Justyna
+DESCRIPTION:Wybrane\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: dr hab. Stochaj Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T133000
 DTEND:20251014T150500
 SUMMARY:Wybrane 
 LOCATION:9/158
-DESCRIPTION:Wybrane\nRodzaj zajęć: -\nNumer zajęć: 5/15\nProwadzący: dr hab. Stochaj Justyna
+DESCRIPTION:Wybrane\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr hab. Stochaj Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T133000
@@ -205,6 +219,13 @@ DTEND:20251028T150500
 SUMMARY:Loty 
 LOCATION:4.23/135
 DESCRIPTION:Loty\nRodzaj zajęć: -\nNumer zajęć: 3/15\nProwadzący: dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251104T133000
+DTEND:20251104T150500
+SUMMARY:Gd (ć)
+LOCATION:233 S
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T133000
@@ -249,13 +270,6 @@ LOCATION:5.21/135
 DESCRIPTION:Bezzałogowe\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T160000
-DTEND:20251104T173500
-SUMMARY:Wybrane 
-LOCATION:255 S
-DESCRIPTION:Wybrane\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: dr hab. Stochaj Justyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251118T160000
 DTEND:20251118T173500
 SUMMARY:Loty 
@@ -274,7 +288,7 @@ DTSTART:20251202T160000
 DTEND:20251202T173500
 SUMMARY:Gd (ć)
 LOCATION:26/158
-DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. Świerszcz Katarzyna
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr hab. Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T175000
@@ -303,13 +317,6 @@ DTEND:20251028T192500
 SUMMARY:Lg (ć)
 LOCATION:26/158
 DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Marciniak Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251104T175000
-DTEND:20251104T192500
-SUMMARY:Wybrane 
-LOCATION:255 S
-DESCRIPTION:Wybrane\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr hab. Stochaj Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T175000
@@ -366,13 +373,6 @@ DTEND:20251028T211500
 SUMMARY:Lg (ć)
 LOCATION:26/158
 DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Marciniak Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251104T194000
-DTEND:20251104T211500
-SUMMARY:Gd (ć)
-LOCATION:31/158
-DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr hab. Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T194000

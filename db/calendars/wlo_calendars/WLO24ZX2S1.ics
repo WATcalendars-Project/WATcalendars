@@ -221,6 +221,13 @@ LOCATION:1.17/16
 DESCRIPTION:Zarządzanie sprzedażą i obsługa klienta\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr hab. Wereda Wioletta
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251021T095000
+DTEND:20251021T112500
+SUMMARY:Bm (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Badania marketingowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr Pawlak Katarzyna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251028T095000
 DTEND:20251028T112500
 SUMMARY:Bm (w)
@@ -323,7 +330,7 @@ DTSTART:20251125T114000
 DTEND:20251125T131500
 SUMMARY:Bm (ć)
 LOCATION:255 S
-DESCRIPTION:Badania marketingowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr Pawlak Katarzyna
+DESCRIPTION:Badania marketingowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr Pawlak Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T114000
@@ -638,7 +645,7 @@ DTSTART:20251210T080000
 DTEND:20251210T093500
 SUMMARY:Bm (ć)
 LOCATION:4.23/135
-DESCRIPTION:Badania marketingowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr Pawlak Katarzyna
+DESCRIPTION:Badania marketingowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr Pawlak Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T080000
@@ -658,8 +665,8 @@ BEGIN:VEVENT
 DTSTART:20250114T080000
 DTEND:20250114T093500
 SUMMARY:Bm (ć)
-LOCATION:A.1.3/135
-DESCRIPTION:Badania marketingowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr Pawlak Katarzyna
+LOCATION:4.23/135
+DESCRIPTION:Badania marketingowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr Pawlak Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250121T080000
@@ -667,6 +674,13 @@ DTEND:20250121T093500
 SUMMARY:Fip (ć)
 LOCATION:255 S
 DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: dr hab. Kostecki Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250128T080000
+DTEND:20250128T093500
+SUMMARY:Bm (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Badania marketingowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr Pawlak Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T095000
@@ -695,13 +709,6 @@ DTEND:20251022T112500
 SUMMARY:ZPr (w)
 LOCATION:0.8/16
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: prof. dr hab. inż. Zaskórski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251112T095000
-DTEND:20251112T112500
-SUMMARY:Bm (ć)
-LOCATION:0.22/16
-DESCRIPTION:Badania marketingowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr Pawlak Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T095000
@@ -879,13 +886,6 @@ LOCATION:0.19/135
 DESCRIPTION:Rachunkowość finansowa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: dr Szczerbak Monika
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251217T133000
-DTEND:20251217T150500
-SUMMARY:Bm (ć)
-LOCATION:aula/135
-DESCRIPTION:Badania marketingowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr Pawlak Katarzyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250107T133000
 DTEND:20250107T150500
 SUMMARY:Fip (ć)
@@ -1044,14 +1044,14 @@ DTSTART:20251002T095000
 DTEND:20251002T112500
 SUMMARY:Rkg (w)
 LOCATION:0.28/135
-DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/14\nProwadzący: dr hab. Przychocka Iwona
+DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T095000
 DTEND:20251009T112500
 SUMMARY:Rkg (w)
 LOCATION:317 S
-DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/14\nProwadzący: dr hab. Przychocka Iwona
+DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250129T095000
@@ -1065,14 +1065,14 @@ DTSTART:20251002T114000
 DTEND:20251002T131500
 SUMMARY:Rkg (w)
 LOCATION:0.28/135
-DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/14\nProwadzący: dr hab. Przychocka Iwona
+DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T114000
 DTEND:20251009T131500
 SUMMARY:Rkg (w)
 LOCATION:317 S
-DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/14\nProwadzący: dr hab. Przychocka Iwona
+DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T114000
@@ -1080,13 +1080,6 @@ DTEND:20251016T131500
 SUMMARY:Rkg (ć)
 LOCATION:0.22/16
 DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr hab. Przychocka Iwona
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T114000
-DTEND:20251204T131500
-SUMMARY:Ewz (ć)
-LOCATION:26/158
-DESCRIPTION:Etyka w zarządzaniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Kasperski Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T114000
@@ -1121,14 +1114,14 @@ DTSTART:20251016T133000
 DTEND:20251016T150500
 SUMMARY:Rkg (w)
 LOCATION:0.19/135
-DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/14\nProwadzący: dr hab. Przychocka Iwona
+DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
 DTEND:20251023T150500
 SUMMARY:Ewz (ć)
 LOCATION:1.17/16
-DESCRIPTION:Etyka w zarządzaniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Kasperski Marian
+DESCRIPTION:Etyka w zarządzaniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Kasperski Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T133000
@@ -1140,9 +1133,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T133000
 DTEND:20251204T150500
-SUMMARY:Rkg (w)
+SUMMARY:Ewz (ć)
 LOCATION:0.8/16
-DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/14\nProwadzący: dr hab. Przychocka Iwona
+DESCRIPTION:Etyka w zarządzaniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Kasperski Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
@@ -1180,18 +1173,11 @@ LOCATION:2.21/135
 DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251023T160000
-DTEND:20251023T173500
-SUMMARY:Rkg (w)
-LOCATION:0.8/16
-DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/14\nProwadzący: dr hab. Przychocka Iwona
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251030T160000
 DTEND:20251030T173500
 SUMMARY:Rkg (w)
 LOCATION:301/S
-DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 8/14\nProwadzący: dr hab. Przychocka Iwona
+DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T160000
@@ -1205,7 +1191,7 @@ DTSTART:20251113T160000
 DTEND:20251113T173500
 SUMMARY:Rkg (w)
 LOCATION:0.28/135
-DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 9/14\nProwadzący: dr hab. Przychocka Iwona
+DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T160000
@@ -1236,13 +1222,6 @@ LOCATION:0.28/135
 DESCRIPTION:Etyka w zarządzaniu\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr Kasperski Marian
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251218T160000
-DTEND:20251218T173500
-SUMMARY:Rkg (w)
-LOCATION:0.28/135
-DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 10/14\nProwadzący: dr hab. Przychocka Iwona
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250108T160000
 DTEND:20250108T173500
 SUMMARY:ZPr (L)
@@ -1271,18 +1250,11 @@ LOCATION:2.21/135
 DESCRIPTION:Techniki zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr inż. Wojciechowski Zdzislaw
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251023T175000
-DTEND:20251023T192500
-SUMMARY:Rkg (w)
-LOCATION:0.8/16
-DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 11/14\nProwadzący: dr hab. Przychocka Iwona
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251030T175000
 DTEND:20251030T192500
 SUMMARY:Rkg (w)
 LOCATION:301/S
-DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 12/14\nProwadzący: dr hab. Przychocka Iwona
+DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T175000
@@ -1296,7 +1268,7 @@ DTSTART:20251113T175000
 DTEND:20251113T192500
 SUMMARY:Rkg (w)
 LOCATION:0.28/135
-DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 13/14\nProwadzący: dr hab. Przychocka Iwona
+DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T175000
@@ -1325,13 +1297,6 @@ DTEND:20251211T192500
 SUMMARY:TZ (ć)
 LOCATION:0.7/16
 DESCRIPTION:Techniki zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. Wojciechowski Zdzislaw
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251218T175000
-DTEND:20251218T192500
-SUMMARY:Rkg (w)
-LOCATION:0.28/135
-DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Wykład\nNumer zajęć: 14/14\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T175000

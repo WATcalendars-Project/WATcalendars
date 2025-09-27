@@ -263,6 +263,13 @@ LOCATION:aula/135
 DESCRIPTION:Nauka o administracji\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251014T095000
+DTEND:20251014T112500
+SUMMARY:FPiPF (w)
+LOCATION:
+DESCRIPTION:Finanse publiczne i prawo finsnowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr Chyrzyński Ryszard
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251216T095000
 DTEND:20251216T112500
 SUMMARY:Pc (ć)
@@ -275,6 +282,13 @@ DTEND:20251007T131500
 SUMMARY:Nad. 
 LOCATION:24AX; 4S; 24AX; 2S; 24AX; 1S; 24AX; 3S; 1 MiM
 DESCRIPTION:Nad.\nRodzaj zajęć: -\nNumer zajęć: 1/17\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec; dr hab. Filipek Agnieszka; dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251014T114000
+DTEND:20251014T131500
+SUMMARY:FPiPF (w)
+LOCATION:
+DESCRIPTION:Finanse publiczne i prawo finsnowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T114000
@@ -459,13 +473,6 @@ LOCATION:9/158
 DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251001T114000
-DTEND:20251001T131500
-SUMMARY:FPiPF (w)
-LOCATION:
-DESCRIPTION:Finanse publiczne i prawo finsnowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr Chyrzyński Ryszard
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251008T114000
 DTEND:20251008T131500
 SUMMARY:P.Międzyn. (w)
@@ -492,13 +499,6 @@ DTEND:20250128T131500
 SUMMARY:P.Międzyn. (ć)
 LOCATION:9/158
 DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: dr Kowalski Wawrzyniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251001T133000
-DTEND:20251001T150500
-SUMMARY:FPiPF (w)
-LOCATION:
-DESCRIPTION:Finanse publiczne i prawo finsnowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T133000
@@ -550,8 +550,8 @@ LOCATION:31/158
 DESCRIPTION:Polityka klimatyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251001T160000
-DTEND:20251001T173500
+DTSTART:20251008T160000
+DTEND:20251008T173500
 SUMMARY:Adm.Obr. (w)
 LOCATION:
 DESCRIPTION:Administracja obronna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr Stawarz Paweł
@@ -592,18 +592,11 @@ LOCATION:31/158
 DESCRIPTION:Polityka klimatyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251001T175000
-DTEND:20251001T192500
-SUMMARY:Leg. 
-LOCATION:24AX; 4S; 24AX; 2S; 24AX; 1S; 24AX; 3S
-DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 16/19\nProwadzący: dr inż. Magierski Mieczysław; dr Kowalski Wawrzyniec; dr Ćwik Dariusz; dr hab. Filipek Agnieszka; dr Stawarz Paweł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251112T175000
 DTEND:20251112T192500
 SUMMARY:Leg. 
 LOCATION:24AX; 4S; 24AX; 2S; 24AX; 1S; 24AX; 3S
-DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 17/19\nProwadzący: dr inż. Magierski Mieczysław; dr Kowalski Wawrzyniec; dr Ćwik Dariusz; dr hab. Filipek Agnieszka; dr Stawarz Paweł
+DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 16/19\nProwadzący: dr inż. Magierski Mieczysław; dr Kowalski Wawrzyniec; dr Ćwik Dariusz; dr hab. Filipek Agnieszka; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T175000
@@ -634,18 +627,11 @@ LOCATION:9/158
 DESCRIPTION:Nad.\nRodzaj zajęć: -\nNumer zajęć: 6/17\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251001T194000
-DTEND:20251001T211500
-SUMMARY:Leg. 
-LOCATION:24AX; 4S; 24AX; 2S; 24AX; 1S; 24AX; 3S
-DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 18/19\nProwadzący: dr inż. Magierski Mieczysław; dr Kowalski Wawrzyniec; dr Ćwik Dariusz; dr hab. Filipek Agnieszka; dr Stawarz Paweł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251029T194000
 DTEND:20251029T211500
 SUMMARY:Leg. 
 LOCATION:315 S
-DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 19/19\nProwadzący: dr inż. Magierski Mieczysław; dr Ćwik Dariusz
+DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 17/19\nProwadzący: dr inż. Magierski Mieczysław; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T194000
@@ -1019,6 +1005,13 @@ LOCATION:255 S
 DESCRIPTION:Finanse publiczne i prawo finsnowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251024T133000
+DTEND:20251024T150500
+SUMMARY:Leg. 
+LOCATION:301/S
+DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 18/19\nProwadzący: dr inż. Magierski Mieczysław; dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251031T133000
 DTEND:20251031T150500
 SUMMARY:Pc (w)
@@ -1066,6 +1059,13 @@ DTEND:20250116T150500
 SUMMARY:Adm.Obr. (ć)
 LOCATION:0.6/16
 DESCRIPTION:Administracja obronna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr Stawarz Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251024T160000
+DTEND:20251024T173500
+SUMMARY:Leg. 
+LOCATION:301/S
+DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 19/19\nProwadzący: dr inż. Magierski Mieczysław; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T160000

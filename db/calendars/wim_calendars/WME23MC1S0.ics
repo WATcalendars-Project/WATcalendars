@@ -1894,13 +1894,6 @@ LOCATION:5/ 20
 DESCRIPTION:Bpg\nRodzaj zajęć: -\nNumer zajęć: 12/23\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251112T114000
-DTEND:20251112T131500
-SUMMARY:Płe (L)
-LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251119T114000
 DTEND:20251119T131500
 SUMMARY:Brd (ć)
@@ -1992,18 +1985,18 @@ LOCATION:15/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251112T133000
-DTEND:20251112T150500
-SUMMARY:Płe (L)
-LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251210T133000
 DTEND:20251210T150500
 SUMMARY:DGB (ć)
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T133000
+DTEND:20251217T150500
+SUMMARY:Płe (L)
+LOCATION:16/ 19; 17/ 19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T133000
@@ -2018,6 +2011,13 @@ DTEND:20251231T150500
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 64/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T133000
+DTEND:20250107T150500
+SUMMARY:Płe (L)
+LOCATION:16/ 19; 17/ 19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250121T133000
@@ -2587,6 +2587,13 @@ LOCATION:3/ 23a
 DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251218T114000
+DTEND:20251218T131500
+SUMMARY:Bss 
+LOCATION:9/ 68
+DESCRIPTION:Bss\nRodzaj zajęć: -\nNumer zajęć: 19/25\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251225T114000
 DTEND:20251225T131500
 SUMMARY:I 
@@ -2605,7 +2612,7 @@ DTSTART:20250108T114000
 DTEND:20250108T131500
 SUMMARY:Bss 
 LOCATION:9/ 68
-DESCRIPTION:Bss\nRodzaj zajęć: -\nNumer zajęć: 19/25\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
+DESCRIPTION:Bss\nRodzaj zajęć: -\nNumer zajęć: 20/25\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250129T114000
@@ -2675,21 +2682,14 @@ DTSTART:20251204T133000
 DTEND:20251204T150500
 SUMMARY:Bss 
 LOCATION:2/ 68
-DESCRIPTION:Bss\nRodzaj zajęć: -\nNumer zajęć: 20/25\nProwadzący: mgr inż. Gajda Olga
+DESCRIPTION:Bss\nRodzaj zajęć: -\nNumer zajęć: 21/25\nProwadzący: mgr inż. Gajda Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
 DTEND:20251211T150500
 SUMMARY:Bss 
 LOCATION:2/ 68
-DESCRIPTION:Bss\nRodzaj zajęć: -\nNumer zajęć: 21/25\nProwadzący: mgr inż. Gajda Olga
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251218T133000
-DTEND:20251218T150500
-SUMMARY:Bss 
-LOCATION:9/ 68
-DESCRIPTION:Bss\nRodzaj zajęć: -\nNumer zajęć: 22/25\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
+DESCRIPTION:Bss\nRodzaj zajęć: -\nNumer zajęć: 22/25\nProwadzący: mgr inż. Gajda Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T133000

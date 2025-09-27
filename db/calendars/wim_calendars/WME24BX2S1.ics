@@ -1651,9 +1651,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250128T095000
 DTEND:20250128T112500
-SUMMARY:Pele (ć)
-LOCATION:52/ 62
-DESCRIPTION:Podstawy elektromagnetyzmu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. Dukata Andrzej
+SUMMARY:WdTB (L)
+LOCATION:
+DESCRIPTION:Wprowadzenie do technik biomedycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/24\nProwadzący: dr Trębińska-Stryjewska Alicja
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T095000
@@ -1716,7 +1716,7 @@ DTSTART:20251119T114000
 DTEND:20251119T131500
 SUMMARY:WdTB (L)
 LOCATION:
-DESCRIPTION:Wprowadzenie do technik biomedycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/24\nProwadzący: dr Trębińska-Stryjewska Alicja
+DESCRIPTION:Wprowadzenie do technik biomedycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/24\nProwadzący: dr Trębińska-Stryjewska Alicja
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T114000
@@ -1786,7 +1786,7 @@ DTSTART:20250128T114000
 DTEND:20250128T131500
 SUMMARY:WdTB (L)
 LOCATION:
-DESCRIPTION:Wprowadzenie do technik biomedycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/24\nProwadzący: dr Trębińska-Stryjewska Alicja
+DESCRIPTION:Wprowadzenie do technik biomedycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/24\nProwadzący: dr Trębińska-Stryjewska Alicja
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T114000
@@ -1849,7 +1849,7 @@ DTSTART:20251119T133000
 DTEND:20251119T150500
 SUMMARY:WdTB (L)
 LOCATION:
-DESCRIPTION:Wprowadzenie do technik biomedycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/24\nProwadzący: dr Trębińska-Stryjewska Alicja
+DESCRIPTION:Wprowadzenie do technik biomedycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/24\nProwadzący: dr Trębińska-Stryjewska Alicja
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T133000
@@ -1899,13 +1899,6 @@ DTEND:20250121T150500
 SUMMARY:PEt (L)
 LOCATION:
 DESCRIPTION:Podstawy elektrotechniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250128T133000
-DTEND:20250128T150500
-SUMMARY:WdTB (L)
-LOCATION:
-DESCRIPTION:Wprowadzenie do technik biomedycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/24\nProwadzący: dr Trębińska-Stryjewska Alicja
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T133000
@@ -2111,6 +2104,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 86/133
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250129T080000
+DTEND:20250129T093500
+SUMMARY:Als (w)
+LOCATION:301/ S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Pierzchała Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250205T080000
 DTEND:20250205T093500
 SUMMARY:Pele (Zp/lab.)
@@ -2216,8 +2216,8 @@ LOCATION:
 DESCRIPTION:Fizjologia człowieka\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250115T095000
-DTEND:20250115T112500
+DTSTART:20250129T095000
+DTEND:20250129T112500
 SUMMARY:Fiz.C (S)
 LOCATION:
 DESCRIPTION:Fizjologia człowieka\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/10
@@ -2228,13 +2228,6 @@ DTEND:20250205T112500
 SUMMARY:Fiz.C (E)
 LOCATION:51/ 62
 DESCRIPTION:Fizjologia człowieka\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Nowak-Stępniowska Agata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251002T114000
-DTEND:20251002T131500
-SUMMARY:Als (w)
-LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Pierzchała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T114000
@@ -2283,7 +2276,7 @@ DTSTART:20251120T114000
 DTEND:20251120T131500
 SUMMARY:Pele (ć)
 LOCATION:54/ 62
-DESCRIPTION:Podstawy elektromagnetyzmu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Dukata Andrzej
+DESCRIPTION:Podstawy elektromagnetyzmu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. Dukata Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T114000
@@ -2333,6 +2326,13 @@ DTEND:20250115T131500
 SUMMARY:Pele (L)
 LOCATION:
 DESCRIPTION:Podstawy elektromagnetyzmu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr inż. Dukata Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T114000
+DTEND:20250129T131500
+SUMMARY:Pele (ć)
+LOCATION:52/ 62
+DESCRIPTION:Podstawy elektromagnetyzmu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Dukata Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T114000
