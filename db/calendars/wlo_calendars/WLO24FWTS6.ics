@@ -98,15 +98,15 @@ BEGIN:VEVENT
 DTSTART:20251209T133000
 DTEND:20251209T150500
 SUMMARY:WF (ć)
-LOCATION:1PL/TSW; 2PL/TSW; 3PL/TSW; 24ELT; 24FWT; 24BIT
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: por. mgr inż. Filipow Mateusz; mgr inż. Śliwiński Krzysztof; ppłk mgr inż. Świętochowski Mieczysław
+LOCATION:1PL/TSW; 2PL/TSW; 3PL/TSW; 24ELT; 24FWT; 6 MW
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T133000
 DTEND:20251216T150500
 SUMMARY:WF (ć)
-LOCATION:1PL/TSW; 2PL/TSW; 3PL/TSW; 24ELT; 24FWT; 24BIT
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: por. mgr inż. Filipow Mateusz; mgr inż. Śliwiński Krzysztof; ppłk mgr inż. Świętochowski Mieczysław
+LOCATION:1PL/TSW; 2PL/TSW; 3PL/TSW; 24ELT; 24FWT; 6 MW
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T160000
@@ -140,8 +140,8 @@ BEGIN:VEVENT
 DTSTART:20251217T080000
 DTEND:20251217T093500
 SUMMARY:Wf_E (E)
-LOCATION:1PL/TSW; 2PL/TSW; 3PL/TSW; 24ELT; 24FWT; 24BIT
-DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/4\nProwadzący: por. mgr inż. Filipow Mateusz; mgr inż. Śliwiński Krzysztof; ppłk mgr inż. Świętochowski Mieczysław
+LOCATION:1PL/TSW; 2PL/TSW; 3PL/TSW; 24ELT; 24FWT; 24BIT; 6 KK
+DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/4\nProwadzący: kpt. mgr Włoch Mariola
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T095000
@@ -154,8 +154,8 @@ BEGIN:VEVENT
 DTSTART:20251217T095000
 DTEND:20251217T112500
 SUMMARY:Wf_E (E)
-LOCATION:1PL/TSW; 2PL/TSW; 3PL/TSW; 24ELT; 24FWT; 24BIT
-DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/4\nProwadzący: por. mgr inż. Filipow Mateusz; mgr inż. Śliwiński Krzysztof; ppłk mgr inż. Świętochowski Mieczysław
+LOCATION:1PL/TSW; 2PL/TSW; 3PL/TSW; 24ELT; 24FWT; 24BIT; 6 KK
+DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/4\nProwadzący: kpt. mgr Włoch Mariola
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T114000
@@ -168,8 +168,8 @@ BEGIN:VEVENT
 DTSTART:20251217T114000
 DTEND:20251217T131500
 SUMMARY:Wf_E (E)
-LOCATION:1PL/TSW; 2PL/TSW; 3PL/TSW; 24ELT; 24FWT; 24BIT
-DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 3/4\nProwadzący: por. mgr inż. Filipow Mateusz; mgr inż. Śliwiński Krzysztof; ppłk mgr inż. Świętochowski Mieczysław
+LOCATION:1PL/TSW; 2PL/TSW; 3PL/TSW; 24ELT; 24FWT; 24BIT; 6 KK
+DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 3/4\nProwadzący: kpt. mgr Włoch Mariola
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T133000
@@ -182,8 +182,8 @@ BEGIN:VEVENT
 DTSTART:20251217T133000
 DTEND:20251217T150500
 SUMMARY:Wf_E (E)
-LOCATION:1PL/TSW; 2PL/TSW; 3PL/TSW; 24ELT; 24FWT; 24BIT
-DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 4/4\nProwadzący: por. mgr inż. Filipow Mateusz; mgr inż. Śliwiński Krzysztof; ppłk mgr inż. Świętochowski Mieczysław
+LOCATION:1PL/TSW; 2PL/TSW; 3PL/TSW; 24ELT; 24FWT; 24BIT; 6 KK
+DESCRIPTION:Wf_E\nRodzaj zajęć: Egzamin\nNumer zajęć: 4/4\nProwadzący: kpt. mgr Włoch Mariola
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T160000

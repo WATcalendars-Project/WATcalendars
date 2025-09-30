@@ -770,7 +770,7 @@ BEGIN:VEVENT
 DTSTART:20250217T080000
 DTEND:20250217T093500
 SUMMARY:StreM1 (Zp.)
-LOCATION:15/ 23a
+LOCATION:6/ 23a
 DESCRIPTION:Strenght of Materials 1\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Gieleta Roman
 END:VEVENT
 BEGIN:VEVENT
@@ -1166,6 +1166,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 57/133
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251118T160000
+DTEND:20251118T173500
+SUMMARY:Mt 
+LOCATION:52/ 62
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 9/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251125T160000
 DTEND:20251125T173500
 SUMMARY:Sinż (ć)
@@ -1520,7 +1527,7 @@ DTSTART:20250204T095000
 DTEND:20250204T112500
 SUMMARY:Mt 
 LOCATION:52/ 62
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 9/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 10/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250211T095000
@@ -1632,7 +1639,7 @@ DTSTART:20250107T114000
 DTEND:20250107T131500
 SUMMARY:Mt 
 LOCATION:9/ 62
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 10/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 11/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250114T114000
@@ -1789,8 +1796,8 @@ LOCATION:42/ 20
 DESCRIPTION:Rozwój układów napędowych pojazdów\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251008T160000
-DTEND:20251008T173500
+DTSTART:20251001T160000
+DTEND:20251001T173500
 SUMMARY:SCAE (w)
 LOCATION:52/ 62
 DESCRIPTION:Systemy CAE w praktyce inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Tomaszewski Michał
@@ -2024,21 +2031,21 @@ DTSTART:20251002T095000
 DTEND:20251002T112500
 SUMMARY:Mt 
 LOCATION:52/ 62
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 11/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 12/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T095000
 DTEND:20251009T112500
 SUMMARY:Mt 
 LOCATION:52/ 62
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 12/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 13/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T095000
 DTEND:20251016T112500
-SUMMARY:Mt 
+SUMMARY:Ru. (w)
 LOCATION:52/ 62
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 13/24\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Rozwój układów napędowych pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T095000
@@ -2167,18 +2174,11 @@ LOCATION:52/ 62
 DESCRIPTION:Systemy CAE w praktyce inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251016T114000
-DTEND:20251016T131500
-SUMMARY:SCAE (w)
-LOCATION:52/ 62
-DESCRIPTION:Systemy CAE w praktyce inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Tomaszewski Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251023T114000
 DTEND:20251023T131500
 SUMMARY:SCAE (w)
 LOCATION:52/ 62
-DESCRIPTION:Systemy CAE w praktyce inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Tomaszewski Michał
+DESCRIPTION:Systemy CAE w praktyce inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T114000
@@ -2192,7 +2192,7 @@ DTSTART:20251106T114000
 DTEND:20251106T131500
 SUMMARY:Ru. (w)
 LOCATION:52/ 62
-DESCRIPTION:Rozwój układów napędowych pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy
+DESCRIPTION:Rozwój układów napędowych pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T114000
@@ -2290,18 +2290,11 @@ DTSTART:20251002T133000
 DTEND:20251002T150500
 SUMMARY:Ru. (w)
 LOCATION:52/ 62
-DESCRIPTION:Rozwój układów napędowych pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy
+DESCRIPTION:Rozwój układów napędowych pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T133000
 DTEND:20251009T150500
-SUMMARY:Ru. (w)
-LOCATION:52/ 62
-DESCRIPTION:Rozwój układów napędowych pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251016T133000
-DTEND:20251016T150500
 SUMMARY:Ru. (w)
 LOCATION:52/ 62
 DESCRIPTION:Rozwój układów napędowych pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy
@@ -2396,6 +2389,13 @@ DTEND:20250122T150500
 SUMMARY:SCAE (L)
 LOCATION:57/ 62
 DESCRIPTION:Systemy CAE w praktyce inżynierskiej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: dr inż. Tomaszewski Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251009T160000
+DTEND:20251009T173500
+SUMMARY:SCAE (w)
+LOCATION:52/ 62
+DESCRIPTION:Systemy CAE w praktyce inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Tomaszewski Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T160000

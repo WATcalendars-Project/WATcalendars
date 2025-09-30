@@ -41,9 +41,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T080000
 DTEND:20250110T093500
-SUMMARY:An.Inf.w 
+SUMMARY:Pge (ć)
 LOCATION:4.17b/135
-DESCRIPTION:An.Inf.w\nRodzaj zajęć: -\nNumer zajęć: 3/9\nProwadzący: dr inż. Magierski Mieczysław
+DESCRIPTION:Podstawy geopolityki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T080000
@@ -57,7 +57,7 @@ DTSTART:20250131T080000
 DTEND:20250131T093500
 SUMMARY:An.Inf.w 
 LOCATION:9/158
-DESCRIPTION:An.Inf.w\nRodzaj zajęć: -\nNumer zajęć: 4/9\nProwadzący: dr inż. Magierski Mieczysław
+DESCRIPTION:An.Inf.w\nRodzaj zajęć: -\nNumer zajęć: 3/9\nProwadzący: dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T095000
@@ -111,9 +111,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T095000
 DTEND:20250110T112500
-SUMMARY:An.Inf.w 
+SUMMARY:Pge (ć)
 LOCATION:4.17b/135
-DESCRIPTION:An.Inf.w\nRodzaj zajęć: -\nNumer zajęć: 5/9\nProwadzący: dr inż. Magierski Mieczysław
+DESCRIPTION:Podstawy geopolityki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T095000
@@ -358,7 +358,7 @@ DTSTART:20251115T175000
 DTEND:20251115T192500
 SUMMARY:An.Inf.w 
 LOCATION:9/158
-DESCRIPTION:An.Inf.w\nRodzaj zajęć: -\nNumer zajęć: 6/9\nProwadzący: dr inż. Magierski Mieczysław
+DESCRIPTION:An.Inf.w\nRodzaj zajęć: -\nNumer zajęć: 4/9\nProwadzący: dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T175000
@@ -449,7 +449,7 @@ DTSTART:20251109T080000
 DTEND:20251109T093500
 SUMMARY:An.Inf.w 
 LOCATION:0.21/16
-DESCRIPTION:An.Inf.w\nRodzaj zajęć: -\nNumer zajęć: 7/9\nProwadzący: dr inż. Magierski Mieczysław
+DESCRIPTION:An.Inf.w\nRodzaj zajęć: -\nNumer zajęć: 5/9\nProwadzący: dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T080000
@@ -471,6 +471,13 @@ DTEND:20251214T093500
 SUMMARY:wzbnim (ć)
 LOCATION:2/22
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Gocalski Włodzimierz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251221T080000
+DTEND:20251221T093500
+SUMMARY:An.Inf.w 
+LOCATION:0.19/135
+DESCRIPTION:An.Inf.w\nRodzaj zajęć: -\nNumer zajęć: 6/9\nProwadzący: dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250111T080000
@@ -536,6 +543,13 @@ LOCATION:2/22
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Gocalski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251221T095000
+DTEND:20251221T112500
+SUMMARY:An.Inf.w 
+LOCATION:0.19/135
+DESCRIPTION:An.Inf.w\nRodzaj zajęć: -\nNumer zajęć: 7/9\nProwadzący: dr inż. Magierski Mieczysław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250111T095000
 DTEND:20250111T112500
 SUMMARY:Wsp.bezp.w 
@@ -571,20 +585,6 @@ LOCATION:255 S
 DESCRIPTION:Gry\nRodzaj zajęć: -\nNumer zajęć: 13/13\nProwadzący: dr inż. Magierski Mieczysław; dr Kawalerski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251207T114000
-DTEND:20251207T131500
-SUMMARY:Pge (ć)
-LOCATION:26/158
-DESCRIPTION:Podstawy geopolityki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251214T114000
-DTEND:20251214T131500
-SUMMARY:Pge (ć)
-LOCATION:26/158
-DESCRIPTION:Podstawy geopolityki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251221T114000
 DTEND:20251221T131500
 SUMMARY:ASwBezp (ć)
@@ -606,25 +606,18 @@ LOCATION:31/158
 DESCRIPTION:An.Inf.w\nRodzaj zajęć: -\nNumer zajęć: 8/9\nProwadzący: dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250201T114000
+DTEND:20250201T131500
+SUMMARY:Pge (ć)
+LOCATION:0.6/16
+DESCRIPTION:Podstawy geopolityki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251012T133000
 DTEND:20251012T150500
 SUMMARY:Pge (w)
 LOCATION:1.15/16
 DESCRIPTION:Podstawy geopolityki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251207T133000
-DTEND:20251207T150500
-SUMMARY:Pge (ć)
-LOCATION:26/158
-DESCRIPTION:Podstawy geopolityki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251214T133000
-DTEND:20251214T150500
-SUMMARY:Pge (ć)
-LOCATION:26/158
-DESCRIPTION:Podstawy geopolityki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251221T133000
@@ -646,5 +639,12 @@ DTEND:20250125T150500
 SUMMARY:An.Inf.w 
 LOCATION:31/158
 DESCRIPTION:An.Inf.w\nRodzaj zajęć: -\nNumer zajęć: 9/9\nProwadzący: dr inż. Magierski Mieczysław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250125T160000
+DTEND:20250125T173500
+SUMMARY:Pge (ć)
+LOCATION:26/158
+DESCRIPTION:Podstawy geopolityki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 END:VCALENDAR

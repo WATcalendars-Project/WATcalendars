@@ -36,7 +36,7 @@ DTSTART:20251208T114000
 DTEND:20251208T131500
 SUMMARY:NoPiP (ć)
 LOCATION:26/158
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250112T114000
@@ -50,7 +50,7 @@ DTSTART:20251208T133000
 DTEND:20251208T150500
 SUMMARY:NoPiP (ć)
 LOCATION:26/158
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250112T133000
@@ -58,6 +58,13 @@ DTEND:20250112T150500
 SUMMARY:Wsp (ć)
 LOCATION:26/158
 DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250119T133000
+DTEND:20250119T150500
+SUMMARY:NoPiP (ć)
+LOCATION:2/22
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T160000
@@ -85,7 +92,7 @@ DTSTART:20250112T160000
 DTEND:20250112T173500
 SUMMARY:NoPiP (ć)
 LOCATION:2.21/135
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250119T160000
@@ -93,13 +100,6 @@ DTEND:20250119T173500
 SUMMARY:Psy (ć)
 LOCATION:0.7/16
 DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Karczewski Edward
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250126T160000
-DTEND:20250126T173500
-SUMMARY:NoPiP (ć)
-LOCATION:A.1.3/135
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T175000
@@ -134,7 +134,7 @@ DTSTART:20250112T175000
 DTEND:20250112T192500
 SUMMARY:NoPiP (ć)
 LOCATION:2.21/135
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250119T175000
@@ -148,7 +148,7 @@ DTSTART:20250126T175000
 DTEND:20250126T192500
 SUMMARY:NoPiP (ć)
 LOCATION:A.1.3/135
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T194000
@@ -246,35 +246,35 @@ DTSTART:20251014T080000
 DTEND:20251014T093500
 SUMMARY:Podst.teorii 
 LOCATION:315 S
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. Świerszcz Katarzyna
+DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T080000
 DTEND:20251118T093500
 SUMMARY:Podst.teorii 
 LOCATION:315 S
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. Świerszcz Katarzyna
+DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T080000
 DTEND:20251125T093500
 SUMMARY:Podst.teorii 
 LOCATION:315 S
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 3/15\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. Świerszcz Katarzyna
+DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 3/15\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T080000
 DTEND:20251209T093500
 SUMMARY:Ez (w)
 LOCATION:315 S
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. Świerszcz Katarzyna
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T080000
 DTEND:20251216T093500
 SUMMARY:Ez (w)
 LOCATION:315 S
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. Świerszcz Katarzyna
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T095000
@@ -372,7 +372,7 @@ DTSTART:20251007T114000
 DTEND:20251007T131500
 SUMMARY:Ez (w)
 LOCATION:1.10/16; 1.9/16
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. Świerszcz Katarzyna
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T114000
@@ -463,7 +463,7 @@ DTSTART:20251216T133000
 DTEND:20251216T150500
 SUMMARY:NoPiP (ć)
 LOCATION:2.21/135
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T133000
@@ -471,13 +471,6 @@ DTEND:20250120T150500
 SUMMARY:Ek (ć)
 LOCATION:5.17/135
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251021T160000
-DTEND:20251021T173500
-SUMMARY:NoPiP (w)
-LOCATION:0.24/135
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T160000
@@ -512,14 +505,14 @@ DTSTART:20251216T160000
 DTEND:20251216T173500
 SUMMARY:NoPiP (ć)
 LOCATION:2.21/135
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T160000
 DTEND:20250120T173500
 SUMMARY:NoPiP (w)
 LOCATION:aula/135
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T175000
@@ -533,7 +526,7 @@ DTSTART:20250120T175000
 DTEND:20250120T192500
 SUMMARY:NoPiP (w)
 LOCATION:aula/135
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T194000
@@ -561,7 +554,7 @@ DTSTART:20251001T095000
 DTEND:20251001T112500
 SUMMARY:NoPiP (w)
 LOCATION:4S; 25Px; 3S; 25PX; 2S; 25PX; 1S; 1 Ko
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T095000
@@ -617,7 +610,7 @@ DTSTART:20250107T114000
 DTEND:20250107T131500
 SUMMARY:Podst.teorii 
 LOCATION:3.16/135
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 4/15\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. Świerszcz Katarzyna
+DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 4/15\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T133000
@@ -631,28 +624,28 @@ DTSTART:20251119T133000
 DTEND:20251119T150500
 SUMMARY:Podst.teorii 
 LOCATION:0.6/16
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 5/15\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. Świerszcz Katarzyna
+DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 5/15\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T133000
 DTEND:20251126T150500
 SUMMARY:Podst.teorii 
 LOCATION:9/158
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. Świerszcz Katarzyna
+DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T133000
 DTEND:20251203T150500
 SUMMARY:Podst.teorii 
 LOCATION:2/22
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. Świerszcz Katarzyna
+DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T133000
 DTEND:20251210T150500
 SUMMARY:Podst.teorii 
 LOCATION:0.6/16
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. Świerszcz Katarzyna
+DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T133000
@@ -676,11 +669,25 @@ LOCATION:4S; 25Px; 3S; 25PX; 2S; 25PX; 1S
 DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr hab. inż. Ćwik Bogdan
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251029T160000
+DTEND:20251029T173500
+SUMMARY:NoPiP (w)
+LOCATION:4S; 25Px; 3S; 25PX; 2S; 25PX; 1S; 1 Ko
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Kowalski Wawrzyniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T160000
+DTEND:20251105T173500
+SUMMARY:NoPiP (w)
+LOCATION:4S; 25Px; 3S; 25PX; 2S; 25PX; 1S; 1 Ko
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Kowalski Wawrzyniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251112T160000
 DTEND:20251112T173500
 SUMMARY:Podst.teorii 
 LOCATION:301/S
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. Świerszcz Katarzyna
+DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T160000
@@ -701,7 +708,7 @@ DTSTART:20251203T160000
 DTEND:20251203T173500
 SUMMARY:NoPiP (w)
 LOCATION:301/S
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T160000
@@ -729,7 +736,7 @@ DTSTART:20251112T175000
 DTEND:20251112T192500
 SUMMARY:Podst.teorii 
 LOCATION:301/S
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 10/15\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. Świerszcz Katarzyna
+DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 10/15\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T175000
@@ -750,7 +757,7 @@ DTSTART:20251203T175000
 DTEND:20251203T192500
 SUMMARY:NoPiP (w)
 LOCATION:301/S
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T175000
@@ -827,7 +834,7 @@ DTSTART:20251009T080000
 DTEND:20251009T093500
 SUMMARY:Ez (w)
 LOCATION:1.10/16; 1.9/16
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. Świerszcz Katarzyna
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T080000
@@ -835,6 +842,13 @@ DTEND:20251211T093500
 SUMMARY:Wsp (w)
 LOCATION:51/62
 DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Stawarz Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251218T080000
+DTEND:20251218T093500
+SUMMARY:M (ć)
+LOCATION:2/22
+DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. Ćwik Bogdan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T095000
@@ -928,13 +942,6 @@ LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251127T133000
-DTEND:20251127T150500
-SUMMARY:M (ć)
-LOCATION:0.24/135
-DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. Ćwik Bogdan
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251204T133000
 DTEND:20251204T150500
 SUMMARY:Psy (w)
@@ -960,14 +967,14 @@ DTSTART:20250115T133000
 DTEND:20250115T150500
 SUMMARY:Podst.teorii 
 LOCATION:4.17b/135
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 11/15\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. Świerszcz Katarzyna
+DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 11/15\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T133000
 DTEND:20250122T150500
 SUMMARY:Podst.teorii 
 LOCATION:31/158
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 12/15\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. Świerszcz Katarzyna
+DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 12/15\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T160000
@@ -1082,13 +1089,6 @@ LOCATION:0.24/135
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Staruch Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251023T175000
-DTEND:20251023T192500
-SUMMARY:NoPiP (w)
-LOCATION:4S; 25Px; 3S; 25PX; 2S; 25PX; 1S; 1 Ko
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr Kowalski Wawrzyniec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251106T175000
 DTEND:20251106T192500
 SUMMARY:Wzp (w)
@@ -1191,7 +1191,7 @@ DTSTART:20251031T080000
 DTEND:20251031T093500
 SUMMARY:Podst.teorii 
 LOCATION:51/62
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 13/15\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. Świerszcz Katarzyna
+DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 13/15\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T080000
@@ -1212,14 +1212,14 @@ DTSTART:20251010T095000
 DTEND:20251010T112500
 SUMMARY:Ez (w)
 LOCATION:51/62
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. Świerszcz Katarzyna
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T095000
 DTEND:20251031T112500
 SUMMARY:Podst.teorii 
 LOCATION:51/62
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 14/15\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. Świerszcz Katarzyna
+DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 14/15\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T095000
@@ -1261,7 +1261,7 @@ DTSTART:20250109T095000
 DTEND:20250109T112500
 SUMMARY:Ez (w)
 LOCATION:301/S
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. Świerszcz Katarzyna
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250116T095000
@@ -1310,14 +1310,14 @@ DTSTART:20251219T114000
 DTEND:20251219T131500
 SUMMARY:Podst.teorii 
 LOCATION:4.17b/135
-DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 15/15\nProwadzący: prof. dr hab. Kościelecki Lech; dr hab. Świerszcz Katarzyna
+DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 15/15\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T114000
 DTEND:20250109T131500
 SUMMARY:Ez (w)
 LOCATION:301/S
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. Świerszcz Katarzyna
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250116T114000
@@ -1331,7 +1331,7 @@ DTSTART:20251003T133000
 DTEND:20251003T150500
 SUMMARY:Ez (w)
 LOCATION:1.10/16; 1.9/16
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. Świerszcz Katarzyna
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T133000
@@ -1345,7 +1345,7 @@ DTSTART:20251107T133000
 DTEND:20251107T150500
 SUMMARY:Ez (ć)
 LOCATION:4.23/135
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr hab. Świerszcz Katarzyna
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T133000

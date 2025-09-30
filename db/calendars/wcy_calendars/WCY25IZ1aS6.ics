@@ -186,13 +186,6 @@ LOCATION:203 65
 DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251003T114000
-DTEND:20251003T131500
-SUMMARY:Rou (w)
-LOCATION:203 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251006T080000
 DTEND:20251006T093500
 SUMMARY:zsw (w)
@@ -212,6 +205,13 @@ DTEND:20251006T131500
 SUMMARY:Lan (w)
 LOCATION:203 65
 DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251006T133000
+DTEND:20251006T150500
+SUMMARY:Rou (w)
+LOCATION:308 S
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T095000

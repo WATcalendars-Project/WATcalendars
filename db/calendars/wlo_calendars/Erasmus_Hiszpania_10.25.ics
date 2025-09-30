@@ -4,25 +4,18 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Erasmus_Hiszpania_10.25
 BEGIN:VEVENT
-DTSTART:20251027T095000
-DTEND:20251027T112500
+DTSTART:20251013T095000
+DTEND:20251013T112500
 SUMMARY:QMiL (w)
-LOCATION:25/26 MR
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:A.1.3/135
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T095000
 DTEND:20251103T112500
 SUMMARY:QMiL (ć)
-LOCATION:25/26 MR
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: mgr inż. Rykała Magdalena
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251027T114000
-DTEND:20251027T131500
-SUMMARY:QMiL (ć)
-LOCATION:25/26 MR
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:26/158
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T080000
@@ -42,8 +35,8 @@ BEGIN:VEVENT
 DTSTART:20251118T080000
 DTEND:20251118T093500
 SUMMARY:QMiL (P)
-LOCATION:25/26 MR
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Projekt\nNumer zajęć: 1/3\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:1.15/16
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Projekt\nNumer zajęć: 1/3\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T080000
@@ -84,8 +77,8 @@ BEGIN:VEVENT
 DTSTART:20251118T095000
 DTEND:20251118T112500
 SUMMARY:QMiL (P)
-LOCATION:25/26 MR
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Projekt\nNumer zajęć: 2/3\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:1.15/16
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Projekt\nNumer zajęć: 2/3\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
@@ -107,6 +100,13 @@ DTEND:20251014T131500
 SUMMARY:Sch.M (w)
 LOCATION:29/158
 DESCRIPTION:Supply chain management\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr Zamelek Paulina
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251021T114000
+DTEND:20251021T131500
+SUMMARY:QMiL (ć)
+LOCATION:1.27/135
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T114000
@@ -154,8 +154,8 @@ BEGIN:VEVENT
 DTSTART:20250113T114000
 DTEND:20250113T131500
 SUMMARY:QMiL (S)
-LOCATION:25/26 MR
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:0.22/16
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T133000
@@ -217,15 +217,15 @@ BEGIN:VEVENT
 DTSTART:20251015T095000
 DTEND:20251015T112500
 SUMMARY:QMiL (w)
-LOCATION:25/26 MR
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:1.27/135
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T095000
 DTEND:20251022T112500
 SUMMARY:QMiL (w)
-LOCATION:25/26 MR
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:4.17a/135
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T095000
@@ -287,8 +287,8 @@ BEGIN:VEVENT
 DTSTART:20251022T114000
 DTEND:20251022T131500
 SUMMARY:QMiL (w)
-LOCATION:25/26 MR
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:4.17a/135
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T114000
@@ -340,6 +340,13 @@ LOCATION:25/26; 25/26 Mit
 DESCRIPTION:Basic of Logistics\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: płk prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251203T133000
+DTEND:20251203T150500
+SUMMARY:InMa (w)
+LOCATION:1.27/135
+DESCRIPTION:Inventory management\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Rykała Magdalena
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251210T133000
 DTEND:20251210T150500
 SUMMARY:LMinL (P)
@@ -350,57 +357,50 @@ BEGIN:VEVENT
 DTSTART:20251016T080000
 DTEND:20251016T093500
 SUMMARY:InMa (w)
-LOCATION:25/26 MR
-DESCRIPTION:Inventory management\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:0.23/16
+DESCRIPTION:Inventory management\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T080000
 DTEND:20251023T093500
 SUMMARY:InMa (w)
-LOCATION:25/26 MR
-DESCRIPTION:Inventory management\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: mgr inż. Rykała Magdalena
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251030T080000
-DTEND:20251030T093500
-SUMMARY:InMa (w)
-LOCATION:25/26 MR
-DESCRIPTION:Inventory management\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:1.15/16
+DESCRIPTION:Inventory management\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T080000
 DTEND:20251113T093500
 SUMMARY:InMa (ć)
-LOCATION:25/26 MR
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:255 S
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T080000
 DTEND:20251120T093500
 SUMMARY:InMa (ć)
-LOCATION:25/26 MR
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:4.23/135
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T080000
 DTEND:20251127T093500
 SUMMARY:InMa (ć)
-LOCATION:25/26 MR
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:31/158
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T080000
 DTEND:20251211T093500
 SUMMARY:InMa (ć)
-LOCATION:25/26 MR
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:4.23/135
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T080000
 DTEND:20251218T093500
 SUMMARY:QMiL (P)
-LOCATION:25/26 MR
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Projekt\nNumer zajęć: 3/3\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:1/22
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Projekt\nNumer zajęć: 3/3\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T080000
@@ -413,50 +413,43 @@ BEGIN:VEVENT
 DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:InMa (w)
-LOCATION:25/26 MR
-DESCRIPTION:Inventory management\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:0.23/16
+DESCRIPTION:Inventory management\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T095000
 DTEND:20251023T112500
 SUMMARY:InMa (w)
-LOCATION:25/26 MR
-DESCRIPTION:Inventory management\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: mgr inż. Rykała Magdalena
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251030T095000
-DTEND:20251030T112500
-SUMMARY:InMa (w)
-LOCATION:25/26 MR
-DESCRIPTION:Inventory management\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: mgr inż. Rykała Magdalena
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251106T095000
-DTEND:20251106T112500
-SUMMARY:InMa (ć)
-LOCATION:25/26 MR
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:1.15/16
+DESCRIPTION:Inventory management\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T095000
 DTEND:20251113T112500
 SUMMARY:InMa (ć)
-LOCATION:25/26 MR
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:255 S
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T095000
 DTEND:20251120T112500
 SUMMARY:InMa (ć)
-LOCATION:25/26 MR
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:4.23/135
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T095000
 DTEND:20251211T112500
 SUMMARY:InMa (ć)
-LOCATION:25/26 MR
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:4.23/135
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr inż. Rykała Magdalena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251218T095000
+DTEND:20251218T112500
+SUMMARY:InMa (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T095000
@@ -487,18 +480,11 @@ LOCATION:25/26; 25/26 Grz
 DESCRIPTION:Lean Management in Logistics\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251106T114000
-DTEND:20251106T131500
-SUMMARY:InMa (ć)
-LOCATION:25/26 MR
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: mgr inż. Rykała Magdalena
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251113T114000
 DTEND:20251113T131500
 SUMMARY:QMiL (ć)
-LOCATION:25/26 MR
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: mgr inż. Rykała Magdalena
+LOCATION:31/158
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T114000
@@ -553,7 +539,7 @@ BEGIN:VEVENT
 DTSTART:20251106T160000
 DTEND:20251106T173500
 SUMMARY:JP. (ć)
-LOCATION:25/26; 25/26; 25/26; 25/26; 25/26 Jag; 1a/28 Dla
+LOCATION:25/26; 25/26; 25/26; 25/26; 25/26 Jag
 DESCRIPTION:Język polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: mgr Jagiełło Agata
 END:VEVENT
 BEGIN:VEVENT
@@ -653,5 +639,19 @@ DTEND:20251121T112500
 SUMMARY:Sch.M (w)
 LOCATION:29/158
 DESCRIPTION:Supply chain management\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr Zamelek Paulina
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251031T114000
+DTEND:20251031T131500
+SUMMARY:InMa (w)
+LOCATION:9/158
+DESCRIPTION:Inventory management\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Rykała Magdalena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T114000
+DTEND:20251121T131500
+SUMMARY:InMa (ć)
+LOCATION:1.15/16
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 END:VCALENDAR

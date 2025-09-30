@@ -844,18 +844,11 @@ LOCATION:2PL/8KP; 22FO; 3S; 22FZ; 1S; 22FU; 1S; 0 Kar
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: kmdr ppor. mgr inż. Kordus Wojciech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251216T133000
-DTEND:20251216T150500
-SUMMARY:WF (ć)
-LOCATION:2PL/8KP; 22FO; 3S; 22FZ; 1S; 22FU; 1S; 0 KK
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/30
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250113T133000
 DTEND:20250113T150500
 SUMMARY:WF (ć)
 LOCATION:2PL/8KP; 22FO; 3S; 22FZ; 1S; 22FU; 1S; 0 KK
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/30
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T133000
@@ -869,7 +862,7 @@ DTSTART:20250127T133000
 DTEND:20250127T150500
 SUMMARY:WF (ć)
 LOCATION:2PL/8KP; 22FO; 3S; 22FZ; 1S; 22FU; 1S; 0 KK
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/30
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250916T160000
@@ -1908,6 +1901,13 @@ LOCATION:2.21/135
 DESCRIPTION:Koszty logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr Milian-Pogonowska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251030T095000
+DTEND:20251030T112500
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/30\nProwadzący: mgr Kępniak Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251106T095000
 DTEND:20251106T112500
 SUMMARY:SMa (S)
@@ -2395,7 +2395,7 @@ DTSTART:20251017T095000
 DTEND:20251017T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/30\nProwadzący: mgr Kępniak Krzysztof
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T095000
@@ -2479,7 +2479,7 @@ DTSTART:20250130T095000
 DTEND:20250130T112500
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30/30\nProwadzący: mgr Kępniak Krzysztof
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30/30
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T114000

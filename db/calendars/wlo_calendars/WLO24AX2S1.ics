@@ -4,6 +4,20 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO24AX2S1
 BEGIN:VEVENT
+DTSTART:20251208T095000
+DTEND:20251208T112500
+SUMMARY:P.Międzyn. (w)
+LOCATION:
+DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr Kowalski Wawrzyniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T114000
+DTEND:20251208T131500
+SUMMARY:P.Międzyn. (w)
+LOCATION:
+DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr Kowalski Wawrzyniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250112T133000
 DTEND:20250112T150500
 SUMMARY:P.Adm. (ć)
@@ -16,6 +30,13 @@ DTEND:20250126T150500
 SUMMARY:P.Adm. (ć)
 LOCATION:0.22/16
 DESCRIPTION:Prawo administracyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: dr Śledzik Waldemar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251006T160000
+DTEND:20251006T173500
+SUMMARY:Pc (w)
+LOCATION:aula/135
+DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250112T160000
@@ -200,39 +221,25 @@ LOCATION:
 DESCRIPTION:Finanse publiczne i prawo finsnowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251202T095000
-DTEND:20251202T112500
-SUMMARY:Pc (ć)
-LOCATION:4.23/135
-DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Śledzik Waldemar
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251209T095000
 DTEND:20251209T112500
 SUMMARY:Pc (ć)
 LOCATION:4.23/135
-DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Śledzik Waldemar
+DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T095000
 DTEND:20250113T112500
 SUMMARY:Pc (ć)
 LOCATION:4.23/135
-DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Śledzik Waldemar
+DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T095000
 DTEND:20250120T112500
 SUMMARY:Pc (ć)
 LOCATION:4.23/135
-DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Śledzik Waldemar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250127T095000
-DTEND:20250127T112500
-SUMMARY:Pc (ć)
-LOCATION:4.23/135
-DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Śledzik Waldemar
+DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T114000
@@ -253,35 +260,28 @@ DTSTART:20251202T114000
 DTEND:20251202T131500
 SUMMARY:Pc (ć)
 LOCATION:4.23/135
-DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Śledzik Waldemar
+DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000
 DTEND:20251209T131500
 SUMMARY:Pc (ć)
 LOCATION:4.23/135
-DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Śledzik Waldemar
+DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T114000
 DTEND:20250113T131500
 SUMMARY:Pc (ć)
 LOCATION:4.23/135
-DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Śledzik Waldemar
+DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T114000
 DTEND:20250120T131500
 SUMMARY:Pc (ć)
 LOCATION:4.23/135
-DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr Śledzik Waldemar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250127T114000
-DTEND:20250127T131500
-SUMMARY:Pc (ć)
-LOCATION:4.23/135
-DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr Śledzik Waldemar
+DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T133000
@@ -386,7 +386,7 @@ DTSTART:20251104T160000
 DTEND:20251104T173500
 SUMMARY:P.Międzyn. (w)
 LOCATION:aula/135
-DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T160000
@@ -428,14 +428,21 @@ DTSTART:20251028T175000
 DTEND:20251028T192500
 SUMMARY:P.Międzyn. (w)
 LOCATION:
-DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T175000
 DTEND:20251104T192500
 SUMMARY:P.Międzyn. (w)
 LOCATION:aula/135
-DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr Kowalski Wawrzyniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T175000
+DTEND:20251125T192500
+SUMMARY:Pc (ć)
+LOCATION:0.21/16
+DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T175000
@@ -470,7 +477,7 @@ DTSTART:20251028T194000
 DTEND:20251028T211500
 SUMMARY:P.Międzyn. (w)
 LOCATION:
-DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T194000
@@ -540,14 +547,7 @@ DTSTART:20251008T114000
 DTEND:20251008T131500
 SUMMARY:P.Międzyn. (w)
 LOCATION:aula/135
-DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr Kowalski Wawrzyniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251022T114000
-DTEND:20251022T131500
-SUMMARY:P.Międzyn. (w)
-LOCATION:
-DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T114000
@@ -575,13 +575,6 @@ DTSTART:20251008T133000
 DTEND:20251008T150500
 SUMMARY:P.Międzyn. (w)
 LOCATION:aula/135
-DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr Kowalski Wawrzyniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251022T133000
-DTEND:20251022T150500
-SUMMARY:P.Międzyn. (w)
-LOCATION:
 DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
@@ -627,6 +620,13 @@ LOCATION:1.17/16
 DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251203T160000
+DTEND:20251203T173500
+SUMMARY:Pc (ć)
+LOCATION:A.1.3/135
+DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr Strychalski Andrzej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250107T160000
 DTEND:20250107T173500
 SUMMARY:Polit.Klima. (ć)
@@ -653,6 +653,13 @@ DTEND:20251126T192500
 SUMMARY:P.Międzyn. (ć)
 LOCATION:2.21/135
 DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: dr Kowalski Wawrzyniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T175000
+DTEND:20251203T192500
+SUMMARY:Pc (ć)
+LOCATION:A.1.3/135
+DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T194000
@@ -771,14 +778,21 @@ DTSTART:20251127T160000
 DTEND:20251127T173500
 SUMMARY:Pc (w)
 LOCATION:aula/135
-DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Śledzik Waldemar
+DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T160000
 DTEND:20251204T173500
+SUMMARY:FPiPF (w)
+LOCATION:aula/135
+DESCRIPTION:Finanse publiczne i prawo finsnowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Chyrzyński Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T160000
+DTEND:20251211T173500
 SUMMARY:Pc (w)
 LOCATION:aula/135
-DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Śledzik Waldemar
+DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T160000
@@ -841,21 +855,21 @@ DTSTART:20251120T175000
 DTEND:20251120T192500
 SUMMARY:Pc (w)
 LOCATION:aula/135
-DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Śledzik Waldemar
+DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T175000
 DTEND:20251127T192500
 SUMMARY:Pc (w)
 LOCATION:aula/135
-DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Śledzik Waldemar
+DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251204T175000
-DTEND:20251204T192500
+DTSTART:20251211T175000
+DTEND:20251211T192500
 SUMMARY:Pc (w)
 LOCATION:aula/135
-DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Śledzik Waldemar
+DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T175000
@@ -902,13 +916,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T194000
 DTEND:20251127T211500
-SUMMARY:FPiPF (w)
-LOCATION:aula/135
-DESCRIPTION:Finanse publiczne i prawo finsnowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Chyrzyński Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T194000
-DTEND:20251204T211500
 SUMMARY:FPiPF (w)
 LOCATION:aula/135
 DESCRIPTION:Finanse publiczne i prawo finsnowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Chyrzyński Ryszard
@@ -1031,13 +1038,6 @@ DTEND:20251024T150500
 SUMMARY:Leg. 
 LOCATION:301/S
 DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 18/19\nProwadzący: dr inż. Magierski Mieczysław; dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251031T133000
-DTEND:20251031T150500
-SUMMARY:Pc (w)
-LOCATION:aula/135
-DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Śledzik Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T133000
@@ -1177,7 +1177,7 @@ DTSTART:20251114T175000
 DTEND:20251114T192500
 SUMMARY:Pc (w)
 LOCATION:aula/135
-DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Śledzik Waldemar
+DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T175000

@@ -22,14 +22,14 @@ DTSTART:20251208T095000
 DTEND:20251208T112500
 SUMMARY:Ez (ć)
 LOCATION:4.23/135
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr hab. Świerszcz Katarzyna
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250126T095000
 DTEND:20250126T112500
 SUMMARY:Ez (ć)
 LOCATION:255 S
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr hab. Świerszcz Katarzyna
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T114000
@@ -473,11 +473,18 @@ LOCATION:51/62
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250107T095000
+DTEND:20250107T112500
+SUMMARY:Mstp (ć)
+LOCATION:2/22
+DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250121T095000
 DTEND:20250121T112500
 SUMMARY:Mstp (ć)
 LOCATION:
-DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T114000
@@ -492,6 +499,13 @@ DTEND:20251022T131500
 SUMMARY:PPb (ć)
 LOCATION:4.23/135
 DESCRIPTION:Prawne podstawy bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T114000
+DTEND:20250107T131500
+SUMMARY:Mstp (ć)
+LOCATION:2/22
+DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250114T114000
@@ -1201,13 +1215,6 @@ LOCATION:4.23/135
 DESCRIPTION:Prawne podstawy bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251107T114000
-DTEND:20251107T131500
-SUMMARY:Mstp (ć)
-LOCATION:
-DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251114T114000
 DTEND:20251114T131500
 SUMMARY:Ap (ć)
@@ -1226,7 +1233,7 @@ DTSTART:20251212T114000
 DTEND:20251212T131500
 SUMMARY:Ez (w)
 LOCATION:aula/135
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr hab. Świerszcz Katarzyna
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T114000
@@ -1271,32 +1278,25 @@ LOCATION:301/S
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251107T133000
-DTEND:20251107T150500
-SUMMARY:Mstp (ć)
-LOCATION:
-DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251114T133000
 DTEND:20251114T150500
 SUMMARY:Ez (w)
 LOCATION:aula/135
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr hab. Świerszcz Katarzyna
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T133000
 DTEND:20251205T150500
 SUMMARY:Ez (w)
 LOCATION:aula/135
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr hab. Świerszcz Katarzyna
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T133000
 DTEND:20251212T150500
 SUMMARY:Ez (w)
 LOCATION:aula/135
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr hab. Świerszcz Katarzyna
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T133000
@@ -1387,7 +1387,7 @@ DTSTART:20251010T175000
 DTEND:20251010T192500
 SUMMARY:Ez (w)
 LOCATION:
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr hab. Świerszcz Katarzyna
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T175000
@@ -1443,7 +1443,7 @@ DTSTART:20251107T194000
 DTEND:20251107T211500
 SUMMARY:Ez (w)
 LOCATION:aula/135
-DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr hab. Świerszcz Katarzyna
+DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T194000

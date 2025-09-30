@@ -571,25 +571,11 @@ LOCATION:4.17b/135
 DESCRIPTION:ORGANIZACJA\nRodzaj zajęć: -\nNumer zajęć: 13/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Jacuch Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T095000
-DTEND:20251120T112500
-SUMMARY:SYSTEM 
-LOCATION:4.23/135
-DESCRIPTION:SYSTEM\nRodzaj zajęć: -\nNumer zajęć: 29/40\nProwadzący: dr Jacuch Andrzej; dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251127T095000
-DTEND:20251127T112500
-SUMMARY:SYSTEM 
-LOCATION:4.23/135
-DESCRIPTION:SYSTEM\nRodzaj zajęć: -\nNumer zajęć: 30/40\nProwadzący: dr Jacuch Andrzej; dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251204T095000
 DTEND:20251204T112500
 SUMMARY:SYSTEM 
 LOCATION:4.23/135
-DESCRIPTION:SYSTEM\nRodzaj zajęć: -\nNumer zajęć: 31/40\nProwadzący: dr Jacuch Andrzej; dr inż. Piwowarczyk Ryszard
+DESCRIPTION:SYSTEM\nRodzaj zajęć: -\nNumer zajęć: 29/40\nProwadzący: dr Jacuch Andrzej; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T095000
@@ -597,6 +583,13 @@ DTEND:20250115T112500
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:1.27/135
 DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 11/34\nProwadzący: dr Stawarz Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T095000
+DTEND:20250129T112500
+SUMMARY:SYSTEM 
+LOCATION:0.8/16
+DESCRIPTION:SYSTEM\nRodzaj zajęć: -\nNumer zajęć: 30/40\nProwadzący: dr Jacuch Andrzej; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T114000
@@ -634,25 +627,11 @@ LOCATION:26/158
 DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 12/34\nProwadzący: dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T114000
-DTEND:20251120T131500
-SUMMARY:SYSTEM 
-LOCATION:4.23/135
-DESCRIPTION:SYSTEM\nRodzaj zajęć: -\nNumer zajęć: 32/40\nProwadzący: dr Jacuch Andrzej; dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251127T114000
-DTEND:20251127T131500
-SUMMARY:SYSTEM 
-LOCATION:4.23/135
-DESCRIPTION:SYSTEM\nRodzaj zajęć: -\nNumer zajęć: 33/40\nProwadzący: dr Jacuch Andrzej; dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251204T114000
 DTEND:20251204T131500
 SUMMARY:SYSTEM 
 LOCATION:4.23/135
-DESCRIPTION:SYSTEM\nRodzaj zajęć: -\nNumer zajęć: 34/40\nProwadzący: dr Jacuch Andrzej; dr inż. Piwowarczyk Ryszard
+DESCRIPTION:SYSTEM\nRodzaj zajęć: -\nNumer zajęć: 31/40\nProwadzący: dr Jacuch Andrzej; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T114000
@@ -676,11 +655,25 @@ LOCATION:1/22
 DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 4/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250129T114000
+DTEND:20250129T131500
+SUMMARY:SYSTEM 
+LOCATION:0.8/16
+DESCRIPTION:SYSTEM\nRodzaj zajęć: -\nNumer zajęć: 32/40\nProwadzący: dr Jacuch Andrzej; dr inż. Piwowarczyk Ryszard
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250108T133000
 DTEND:20250108T150500
 SUMMARY:Admin. 
 LOCATION:26/158
 DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 5/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250115T133000
+DTEND:20250115T150500
+SUMMARY:SYSTEM 
+LOCATION:1.10/16
+DESCRIPTION:SYSTEM\nRodzaj zajęć: -\nNumer zajęć: 33/40\nProwadzący: dr Jacuch Andrzej; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T133000
@@ -702,6 +695,13 @@ DTEND:20250108T173500
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:2/22
 DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 15/34\nProwadzący: dr Stawarz Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250115T160000
+DTEND:20250115T173500
+SUMMARY:SYSTEM 
+LOCATION:1.10/16
+DESCRIPTION:SYSTEM\nRodzaj zajęć: -\nNumer zajęć: 34/40\nProwadzący: dr Jacuch Andrzej; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T175000
