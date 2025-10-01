@@ -1,4 +1,4 @@
-###### _<div align="right"><sub>// desing by Dominik Serafin</sub></div>_
+###### _<div align="right"><sub>// designed by Dominik Serafin</sub></div>_
 
 <div align="center">
   <a href="https://watcalendars.byst.re">
@@ -181,7 +181,7 @@ Keeping your **WATcalendars** installation up-to-date is important to ensure you
   
 <br><br>
 
-, also consider sponsoring me on GitHub:
+also consider sponsoring me on GitHub:
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/dominikx2002)
 
