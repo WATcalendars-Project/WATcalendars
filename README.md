@@ -31,6 +31,8 @@
   </div>
 </div>
 
+<br><br>
+
 Check this out for the full note:
 [Journey to WATcalendars site](https://watcalendars.byst.re)
 
@@ -176,6 +178,7 @@ If you like this project and want to support its development, consider sponsorin
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/dominikx2002)
 
 </div>
+
 
 
 
