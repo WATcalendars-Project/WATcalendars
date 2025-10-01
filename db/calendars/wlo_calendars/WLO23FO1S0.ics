@@ -319,13 +319,6 @@ LOCATION:5pl/24kp; 23FO; 1S; 0 ST; 1 T
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: por mgr inż. Ilczuk Łukasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251028T080000
-DTEND:20251028T093500
-SUMMARY:GMiB (w)
-LOCATION:5W
-DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr Lasak Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251104T080000
 DTEND:20251104T093500
 SUMMARY:SSW 
@@ -393,7 +386,7 @@ DTSTART:20251007T095000
 DTEND:20251007T112500
 SUMMARY:GMiB (w)
 LOCATION:4W
-DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr Lasak Michał
+DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr Lasak Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T095000
@@ -940,6 +933,13 @@ DTEND:20251008T093500
 SUMMARY:DGB (ć)
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy; dr inż. Chrzanowski Wojciech; 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251015T080000
+DTEND:20251015T093500
+SUMMARY:GMiB (w)
+LOCATION:5W
+DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr Lasak Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T080000
@@ -2342,6 +2342,27 @@ LOCATION:
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251004T114000
+DTEND:20251004T131500
+SUMMARY:Xmet (ć)
+LOCATION:1.27/135 Zaj
+DESCRIPTION:XMechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Szurgott Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T114000
+DTEND:20251025T131500
+SUMMARY:Xmet (ć)
+LOCATION:2.21/135 Zaj
+DESCRIPTION:XMechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. Szurgott Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251004T133000
+DTEND:20251004T150500
+SUMMARY:Xmet (ć)
+LOCATION:1.27/135 Zaj
+DESCRIPTION:XMechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Szurgott Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251011T133000
 DTEND:20251011T150500
 SUMMARY:xBiESTS (w)
@@ -2349,11 +2370,18 @@ LOCATION:1.10/16. mgr
 DESCRIPTION:XBudowa i eksploatacja środków transportu samochodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: ppłk mgr Lasak Michał; mgr inż. Radzimierski Mariusz; dr hab. inż.(prof. ucz.) Gidlewski Mirosław; 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.; dr hab. inż.(prof. ucz.) Jackowski Jerzy; ppłk mgr inż. Grądziel Grzegorz; mgr inż. Michałowski Bogusław; 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.; 16. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251025T133000
+DTEND:20251025T150500
+SUMMARY:Xmet (ć)
+LOCATION:2.21/135 Zaj
+DESCRIPTION:XMechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Szurgott Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251004T160000
 DTEND:20251004T173500
 SUMMARY:Xmet (w)
 LOCATION:0.19/135. dr
-DESCRIPTION:XMechanika techniczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: ppłk mgr Lasak Michał; mgr inż. Radzimierski Mariusz; kpt.mgr Nawalicki Piotr; dr hab. inż. Augustyn Sławomir; dr hab. inż.(prof. ucz.) Jackowski Jerzy; ppłk mgr inż. Grądziel Grzegorz; dr hab. inż.(prof. ucz.) Gidlewski Mirosław; 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.; 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:XMechanika techniczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Szurgott Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T160000
@@ -2367,21 +2395,21 @@ DTSTART:20251004T175000
 DTEND:20251004T192500
 SUMMARY:Xmet (w)
 LOCATION:0.19/135. dr
-DESCRIPTION:XMechanika techniczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: ppłk mgr Lasak Michał; mgr inż. Radzimierski Mariusz; kpt.mgr Nawalicki Piotr; dr hab. inż. Augustyn Sławomir; dr hab. inż.(prof. ucz.) Jackowski Jerzy; ppłk mgr inż. Grądziel Grzegorz; dr hab. inż.(prof. ucz.) Gidlewski Mirosław; 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.; 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:XMechanika techniczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Szurgott Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T175000
 DTEND:20251011T192500
 SUMMARY:Xmet (w)
 LOCATION:1.10/16. dr
-DESCRIPTION:XMechanika techniczna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: ppłk mgr Lasak Michał; mgr inż. Radzimierski Mariusz; kpt.mgr Nawalicki Piotr; dr hab. inż. Augustyn Sławomir; dr hab. inż.(prof. ucz.) Jackowski Jerzy; ppłk mgr inż. Grądziel Grzegorz; dr hab. inż.(prof. ucz.) Gidlewski Mirosław; 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.; 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:XMechanika techniczna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Szurgott Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T194000
 DTEND:20251011T211500
 SUMMARY:Xmet (w)
 LOCATION:1.10/16. dr
-DESCRIPTION:XMechanika techniczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: ppłk mgr Lasak Michał; mgr inż. Radzimierski Mariusz; kpt.mgr Nawalicki Piotr; dr hab. inż. Augustyn Sławomir; dr hab. inż.(prof. ucz.) Jackowski Jerzy; ppłk mgr inż. Grądziel Grzegorz; dr hab. inż.(prof. ucz.) Gidlewski Mirosław; 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.; 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:XMechanika techniczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Szurgott Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251221T080000

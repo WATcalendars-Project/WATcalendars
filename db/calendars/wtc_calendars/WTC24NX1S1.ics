@@ -53,13 +53,6 @@ LOCATION:058 S
 DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: mgr inż. Paziewski Piotr; mgr. inż. Piwowarski Karol
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250915T095000
-DTEND:20250915T112500
-SUMMARY:F1 (Ep)
-LOCATION:Jr
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251006T095000
 DTEND:20251006T112500
 SUMMARY:TE (S)
@@ -408,13 +401,6 @@ DTEND:20250113T093500
 SUMMARY:EiE (L)
 LOCATION:058 S
 DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: mgr inż. Paziewski Piotr; mgr. inż. Piwowarski Karol
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250916T095000
-DTEND:20250916T112500
-SUMMARY:MBIM (Ep)
-LOCATION:11/ 34
-DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T095000
@@ -893,13 +879,6 @@ LOCATION:aF S
 DESCRIPTION:Mechanika techniczna z wytrzymałością materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: dr hab. inż.(prof. ucz.) Miedzińska Danuta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250917T114000
-DTEND:20250917T131500
-SUMMARY:Che (Ep)
-LOCATION:110/ 14
-DESCRIPTION:Chemia\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Urbańska Magdalena
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251112T114000
 DTEND:20251112T131500
 SUMMARY:TE (S)
@@ -1220,13 +1199,6 @@ DTEND:20250129T112500
 SUMMARY:BWFM (L)
 LOCATION:213 5
 DESCRIPTION:Badanie właściwości fizykochemicznych materiałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 24/28\nProwadzący: dr inż. Węgłowski Rafał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250918T114000
-DTEND:20250918T131500
-SUMMARY:Mat3 (Ep)
-LOCATION:166 S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. Smarzewski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T114000
@@ -1570,5 +1542,26 @@ DTEND:20251017T211500
 SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T095000
+DTEND:20251011T112500
+SUMMARY:XMat1 (w)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr inż. Falkiewicz Ewa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T114000
+DTEND:20251011T131500
+SUMMARY:XMat1 (w)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Falkiewicz Ewa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T133000
+DTEND:20251011T150500
+SUMMARY:XMat1 (ć)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr Żynda Tomasz
 END:VEVENT
 END:VCALENDAR

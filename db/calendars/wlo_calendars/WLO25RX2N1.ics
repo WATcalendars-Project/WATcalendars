@@ -53,6 +53,13 @@ LOCATION:166 S
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250110T080000
+DTEND:20250110T093500
+SUMMARY:Pmb (ć)
+LOCATION:4.23/135
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250117T080000
 DTEND:20250117T093500
 SUMMARY:PTb (ć)
@@ -120,7 +127,7 @@ DTSTART:20251213T095000
 DTEND:20251213T112500
 SUMMARY:Pmb (ć)
 LOCATION:0.7/16
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T095000
@@ -204,7 +211,7 @@ DTSTART:20251213T114000
 DTEND:20251213T131500
 SUMMARY:Pmb (ć)
 LOCATION:0.7/16
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T114000
@@ -221,6 +228,13 @@ LOCATION:166 S
 DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250117T114000
+DTEND:20250117T131500
+SUMMARY:Mstp (ć)
+LOCATION:A.1.3/135
+DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250124T114000
 DTEND:20250124T131500
 SUMMARY:PPb (ć)
@@ -230,9 +244,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T114000
 DTEND:20250131T131500
-SUMMARY:Mstp (ć)
-LOCATION:223 S
-DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+SUMMARY:Oin (ć)
+LOCATION:0.8/16
+DESCRIPTION:Ochrona własności intelektualnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T133000
@@ -301,8 +315,15 @@ BEGIN:VEVENT
 DTSTART:20250110T133000
 DTEND:20250110T150500
 SUMMARY:Bezp.Eko (ć)
-LOCATION:
+LOCATION:1.15/16
 DESCRIPTION:Bezpieczeństwo ekologiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. Zalewski Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T133000
+DTEND:20250117T150500
+SUMMARY:Mstp (ć)
+LOCATION:A.1.3/135
+DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T133000
@@ -310,13 +331,6 @@ DTEND:20250124T150500
 SUMMARY:Pmy (ć)
 LOCATION:
 DESCRIPTION:Podstawy matematyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. Ćwik Bogdan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250131T133000
-DTEND:20250131T150500
-SUMMARY:Mstp (ć)
-LOCATION:223 S
-DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T160000
@@ -385,7 +399,7 @@ BEGIN:VEVENT
 DTSTART:20250110T160000
 DTEND:20250110T173500
 SUMMARY:Bezp.Eko (ć)
-LOCATION:
+LOCATION:1.15/16
 DESCRIPTION:Bezpieczeństwo ekologiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. Zalewski Jerzy
 END:VEVENT
 BEGIN:VEVENT
@@ -394,13 +408,6 @@ DTEND:20250124T173500
 SUMMARY:Pmy (ć)
 LOCATION:
 DESCRIPTION:Podstawy matematyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Ćwik Bogdan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250131T160000
-DTEND:20250131T173500
-SUMMARY:Oin (ć)
-LOCATION:4.17b/135
-DESCRIPTION:Ochrona własności intelektualnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T175000
@@ -443,13 +450,6 @@ DTEND:20250124T192500
 SUMMARY:Wsp (ć)
 LOCATION:4.17a/135
 DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: prof. dr hab. Jagusiak Bogusław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250131T175000
-DTEND:20250131T192500
-SUMMARY:Pmb (ć)
-LOCATION:2/22
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T194000

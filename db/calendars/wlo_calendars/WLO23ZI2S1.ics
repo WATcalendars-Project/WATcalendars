@@ -214,11 +214,39 @@ LOCATION:aula/135
 DESCRIPTION:Funkcje i umiejętności menedżerskie\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251125T095000
+DTEND:20251125T112500
+SUMMARY:PG (w)
+LOCATION:301/S
+DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. Kamiński Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251202T095000
 DTEND:20251202T112500
 SUMMARY:PGS (L)
 LOCATION:4.17a/135
 DESCRIPTION:Podstawy systemów GIS\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: dr inż. Pokorski Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251216T095000
+DTEND:20251216T112500
+SUMMARY:PG (ć)
+LOCATION:0.22/16
+DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr hab. Kamiński Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250127T095000
+DTEND:20250127T112500
+SUMMARY:PG (ć)
+LOCATION:4.23/135
+DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr hab. Kamiński Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251014T114000
+DTEND:20251014T131500
+SUMMARY:PG (ć)
+LOCATION:26/158
+DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T114000
@@ -254,6 +282,34 @@ DTEND:20250113T131500
 SUMMARY:Sd. (S)
 LOCATION:
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250120T114000
+DTEND:20250120T131500
+SUMMARY:PG (ć)
+LOCATION:A.1.3/135
+DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr hab. Kamiński Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250127T114000
+DTEND:20250127T131500
+SUMMARY:PG (ć)
+LOCATION:4.23/135
+DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr hab. Kamiński Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251014T133000
+DTEND:20251014T150500
+SUMMARY:PG (w)
+LOCATION:301/S
+DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. Kamiński Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251021T133000
+DTEND:20251021T150500
+SUMMARY:PG (ć)
+LOCATION:0.6/16
+DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T133000
@@ -296,6 +352,13 @@ DTEND:20250127T150500
 SUMMARY:Sd. (S)
 LOCATION:
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251021T160000
+DTEND:20251021T173500
+SUMMARY:PG (ć)
+LOCATION:0.6/16
+DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T160000
@@ -351,7 +414,7 @@ DTSTART:20251118T175000
 DTEND:20251118T192500
 SUMMARY:PG (w)
 LOCATION:0.24/135
-DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. Kamiński Tomasz
+DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T175000
@@ -379,7 +442,7 @@ DTSTART:20251028T194000
 DTEND:20251028T211500
 SUMMARY:PG (w)
 LOCATION:0.24/135
-DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. Kamiński Tomasz
+DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T194000
@@ -494,13 +557,6 @@ LOCATION:4.17a/135
 DESCRIPTION:Narzędzia projektowania procesów biznesowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251029T133000
-DTEND:20251029T150500
-SUMMARY:PG (ć)
-LOCATION:2/22
-DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr hab. Kamiński Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251112T133000
 DTEND:20251112T150500
 SUMMARY:Sd. (S)
@@ -527,13 +583,6 @@ DTEND:20251210T150500
 SUMMARY:Iae (w)
 LOCATION:1.9/16
 DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Woźniak Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T133000
-DTEND:20251217T150500
-SUMMARY:PG (ć)
-LOCATION:0.7/16
-DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T133000
@@ -576,13 +625,6 @@ DTEND:20251015T173500
 SUMMARY:Sd. (S)
 LOCATION:
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/16
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251029T160000
-DTEND:20251029T173500
-SUMMARY:PG (ć)
-LOCATION:2/22
-DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T160000
@@ -693,7 +735,7 @@ BEGIN:VEVENT
 DTSTART:20251210T175000
 DTEND:20251210T192500
 SUMMARY:Sd. (S)
-LOCATION:
+LOCATION:2.21/135
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 12/16
 END:VEVENT
 BEGIN:VEVENT
@@ -795,32 +837,11 @@ LOCATION:301/S
 DESCRIPTION:Komunikacja w zarządzaniu\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251218T080000
-DTEND:20251218T093500
-SUMMARY:PG (w)
-LOCATION:0.24/135
-DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. Kamiński Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251127T095000
 DTEND:20251127T112500
 SUMMARY:KwZ (w)
 LOCATION:301/S
 DESCRIPTION:Komunikacja w zarządzaniu\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Miszczak Marta
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251218T095000
-DTEND:20251218T112500
-SUMMARY:PG (w)
-LOCATION:0.24/135
-DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. Kamiński Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251113T114000
-DTEND:20251113T131500
-SUMMARY:PG (ć)
-LOCATION:1/22
-DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T114000
@@ -837,13 +858,6 @@ LOCATION:0.24/135
 DESCRIPTION:Komunikacja w zarządzaniu\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251113T133000
-DTEND:20251113T150500
-SUMMARY:PG (ć)
-LOCATION:1/22
-DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr hab. Kamiński Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251127T133000
 DTEND:20251127T150500
 SUMMARY:Sd. (S)
@@ -858,25 +872,11 @@ LOCATION:5.17/135
 DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Wojciechowski Zdzislaw
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250115T133000
-DTEND:20250115T150500
-SUMMARY:PG (ć)
-LOCATION:5.17/135
-DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr hab. Kamiński Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251009T160000
 DTEND:20251009T173500
 SUMMARY:Sd. (S)
 LOCATION:
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 14/16
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251016T160000
-DTEND:20251016T173500
-SUMMARY:PG (ć)
-LOCATION:0.7/16
-DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T160000

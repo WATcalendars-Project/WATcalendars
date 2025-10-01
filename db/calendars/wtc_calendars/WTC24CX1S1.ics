@@ -53,20 +53,6 @@ LOCATION:108 24
 DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/13\nProwadzący: płk dr hab. inż. Kula Przemysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250915T095000
-DTEND:20250915T112500
-SUMMARY:F1 (Ep)
-LOCATION:Jr
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250922T095000
-DTEND:20250922T112500
-SUMMARY:Coo (Ep)
-LOCATION:110/ 14
-DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251006T095000
 DTEND:20251006T112500
 SUMMARY:Pmc (w)
@@ -1362,13 +1348,6 @@ LOCATION:2 55A
 DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/11\nProwadzący: ppłk dr inż. Grabka Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250918T114000
-DTEND:20250918T131500
-SUMMARY:Mat3 (Ep)
-LOCATION:166 S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. Smarzewski Ryszard
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251002T114000
 DTEND:20251002T131500
 SUMMARY:Cha (w)
@@ -1878,5 +1857,26 @@ DTEND:20251017T211500
 SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T095000
+DTEND:20251011T112500
+SUMMARY:XMat1 (w)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr inż. Falkiewicz Ewa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T114000
+DTEND:20251011T131500
+SUMMARY:XMat1 (w)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Falkiewicz Ewa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T133000
+DTEND:20251011T150500
+SUMMARY:XMat1 (ć)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr Żynda Tomasz
 END:VEVENT
 END:VCALENDAR
