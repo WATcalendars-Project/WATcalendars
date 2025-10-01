@@ -60,8 +60,8 @@ More informations about dependencies:
 [Journey to dependencies](https://watcalendars.byst.re/web/Dependencies.html)
 
 > [!IMPORTANT]
-> The setup script will **detect your Linux distribution** and install the appropriate system dependencies automatically.  
-> This includes packages like `python3`, `pip3`, and `python3-venv`.  
+> The setup script will also install python dependencies like playwright and bs4.  
+> Playwright may **not work** on some distributions.  
 
 > [!CAUTION]
 > The script will **modify your system packages** to install missing dependencies.  
@@ -81,13 +81,13 @@ Add rights to the setup script.
 cd WATcalendars && chmod +x setup.sh
 ```
 
-Run following script to autoamticly install required dependencies.
+Run following script to autmaticaly install required dependencies.
 
 ```shell
 ./setup.sh
 ```
 
-#### After that something like this will pop up on your console:
+#### After that, welcome-text will pop up on your console:
 <div align="center">
     <img width="963" height="569" alt="screely-1759080562632" src="https://github.com/user-attachments/assets/19c261b4-9c9c-4061-934b-218116268ff7" />
 </div>
