@@ -8,14 +8,13 @@
 
 <div align="center">
 
-<br>
-<a href="#installation"><kbd> <br> Installation <br> </kbd></a>&ensp;&ensp;
-<a href="#updating"><kbd> <br> Updating <br> </kbd></a>&ensp;&ensp;
-<a href="CONTRIBUTING.md"><kbd> <br> Contributing <br> </kbd></a>&ensp;&ensp;
-<a href="https://watcalendars.byst.re"><kbd> <br> Website <br> </kbd></a>&ensp;&ensp;
-<a href="https://watcalendars.byst.re/index.html#Tutorial"><kbd> <br> Tutorial <br> </kbd></a>&ensp;&ensp;
-<a href="https://watcalendars.byst.re/web/Contact.html"><kbd> <br> Contact <br> </kbd></a>&ensp;&ensp;
-<a href="#support"><kbd> <br> Support <br> </kbd></a>
+<a href="#installation"><kbd style="margin:0 20px;">Installation</kbd></a>
+<a href="#updating"><kbd style="margin:0 20px;">Updating</kbd></a>
+<a href="CONTRIBUTING.md"><kbd style="margin:0 20px;">Contributing</kbd></a>
+<a href="https://watcalendars.byst.re"><kbd style="margin:0 20px;">Website</kbd></a>
+<a href="https://watcalendars.byst.re/index.html#Tutorial"><kbd style="margin:0 20px;">Tutorial</kbd></a>
+<a href="https://watcalendars.byst.re/web/Contact.html"><kbd style="margin:0 20px;">Contact</kbd></a>
+<a href="#support"><kbd style="margin:0 20px;">Support</kbd></a>
 
 </div><br><br>
 
@@ -177,5 +176,6 @@ If you like this project and want to support its development, consider sponsorin
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/dominikx2002)
 
 </div>
+
 
 
