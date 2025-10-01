@@ -181,7 +181,7 @@ Keeping your **WATcalendars** installation up-to-date is important to ensure you
   
 <br><br>
 
-also consider sponsoring me on GitHub:
+or GitHub:
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/dominikx2002)
 
