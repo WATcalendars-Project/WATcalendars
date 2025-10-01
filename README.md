@@ -170,14 +170,25 @@ Keeping your **WATcalendars** installation up-to-date is important to ensure you
 
 ---
 <div align="center">
-  
-### ❤️ Support WATcalendars
 
-If you like this project and want to support its development, consider sponsoring me on GitHub:
+  ### ☕ Support WATcalendars on Buy Me a Coffee
+
+  If you like this project and want to support its development, consider buying me a coffee:
+
+  <a href="https://www.buymeacoffee.com/dominikx2002" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
+  </a>
+  
+<br><br>
+
+If you like this project and want to support its development, also consider sponsoring me on GitHub:
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/dominikx2002)
 
 </div>
+
+
+
 
 
 
