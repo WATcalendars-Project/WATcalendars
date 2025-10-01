@@ -15,7 +15,7 @@
 <a href="https://watcalendars.byst.re"><kbd> <br> Website <br> </kbd></a>&ensp;&ensp;
 <a href="https://watcalendars.byst.re/index.html#Tutorial"><kbd> <br> Tutorial <br> </kbd></a>&ensp;&ensp;
 <a href="https://watcalendars.byst.re/web/Contact.html"><kbd> <br> Contact <br> </kbd></a>&ensp;&ensp;
-<a href="support"><kbd> <br> Support <br> </kbd></a>
+<a href="#support"><kbd> <br> Support <br> </kbd></a>
 
 </div><br><br>
 
@@ -177,4 +177,5 @@ If you like this project and want to support its development, consider sponsorin
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/dominikx2002)
 
 </div>
+
 
