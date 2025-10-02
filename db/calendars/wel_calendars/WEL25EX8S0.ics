@@ -307,9 +307,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T160000
 DTEND:20251006T173500
-SUMMARY:OPBMR 
+SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
+DESCRIPTION:SSW\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T160000
@@ -1073,6 +1073,13 @@ DTEND:20251023T173500
 SUMMARY:PGI 
 LOCATION:
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: -\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251030T160000
+DTEND:20251030T173500
+SUMMARY:OPBMR 
+LOCATION:
+DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T160000

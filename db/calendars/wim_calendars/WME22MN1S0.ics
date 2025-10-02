@@ -382,6 +382,20 @@ LOCATION:6/ 23a
 DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: ppłk dr inż. Hryciów Zdzisław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251013T133000
+DTEND:20251013T150500
+SUMMARY:SUiN (w)
+LOCATION:42/ 20
+DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Wykład\nNumer zajęć: 3/16\nProwadzący: dr inż. Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251020T133000
+DTEND:20251020T150500
+SUMMARY:SUiN (w)
+LOCATION:42/ 20
+DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Wykład\nNumer zajęć: 4/16\nProwadzący: dr inż. Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251027T133000
 DTEND:20251027T150500
 SUMMARY:Pdm (w)
@@ -471,27 +485,6 @@ DTEND:20250929T173500
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 21/154
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251006T160000
-DTEND:20251006T173500
-SUMMARY:SUiN (w)
-LOCATION:1/ 19
-DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Wykład\nNumer zajęć: 3/16\nProwadzący: dr inż. Szczawiński Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251013T160000
-DTEND:20251013T173500
-SUMMARY:SUiN (w)
-LOCATION:1/ 19
-DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Wykład\nNumer zajęć: 4/16\nProwadzący: dr inż. Szczawiński Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251020T160000
-DTEND:20251020T173500
-SUMMARY:SUiN (w)
-LOCATION:1/ 19
-DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Wykład\nNumer zajęć: 5/16\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251110T160000
@@ -599,11 +592,25 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 36/154
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251007T080000
+DTEND:20251007T093500
+SUMMARY:SUiN (w)
+LOCATION:5/ 19
+DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Wykład\nNumer zajęć: 5/16\nProwadzący: dr inż. Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251021T080000
 DTEND:20251021T093500
 SUMMARY:GwSMPS (w)
 LOCATION:1/ 19
 DESCRIPTION:Gospodarka w służbie MPS\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: mgr inż. Wójcik Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251028T080000
+DTEND:20251028T093500
+SUMMARY:GwSMPS (ć)
+LOCATION:1/ 21
+DESCRIPTION:Gospodarka w służbie MPS\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251111T080000
@@ -688,6 +695,13 @@ DTEND:20251021T112500
 SUMMARY:GwSMPS (w)
 LOCATION:1/ 19
 DESCRIPTION:Gospodarka w służbie MPS\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: mgr inż. Wójcik Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251028T095000
+DTEND:20251028T112500
+SUMMARY:GwSMPS (ć)
+LOCATION:1/ 21
+DESCRIPTION:Gospodarka w służbie MPS\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251111T095000
@@ -914,13 +928,6 @@ LOCATION:1/ 19
 DESCRIPTION:Spotkanie z opiekunem specjalności\nRodzaj zajęć: (i)\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Gocman Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251028T133000
-DTEND:20251028T150500
-SUMMARY:GwSMPS (ć)
-LOCATION:5/ 19
-DESCRIPTION:Gospodarka w służbie MPS\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: mgr inż. Wójcik Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251104T133000
 DTEND:20251104T150500
 SUMMARY:Blmps (ć)
@@ -1031,13 +1038,6 @@ DTEND:20251021T173500
 SUMMARY:SUiN (w)
 LOCATION:1/ 19
 DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Wykład\nNumer zajęć: 7/16\nProwadzący: dr inż. Szczawiński Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251028T160000
-DTEND:20251028T173500
-SUMMARY:GwSMPS (ć)
-LOCATION:5/ 19
-DESCRIPTION:Gospodarka w służbie MPS\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T160000

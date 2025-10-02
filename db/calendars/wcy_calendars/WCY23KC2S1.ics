@@ -494,20 +494,6 @@ LOCATION:307 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251030T114000
-DTEND:20251030T131500
-SUMMARY:SoU (L)
-LOCATION:237 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/20\nProwadzący: mgr inż. Michał Melaniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251030T133000
-DTEND:20251030T150500
-SUMMARY:SoU (L)
-LOCATION:237 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/20\nProwadzący: mgr inż. Michał Melaniuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251103T095000
 DTEND:20251103T112500
 SUMMARY:Nsk (w)
@@ -697,13 +683,6 @@ LOCATION:309 S
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251114T160000
-DTEND:20251114T173500
-SUMMARY:Nsk (ć)
-LOCATION:309 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: mgr inż. Joanna Woźniak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251117T080000
 DTEND:20251117T093500
 SUMMARY:Est (P)
@@ -753,6 +732,20 @@ LOCATION:205 65
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251118T160000
+DTEND:20251118T173500
+SUMMARY:SoU (L)
+LOCATION:237 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/20\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251118T175000
+DTEND:20251118T192500
+SUMMARY:SoU (L)
+LOCATION:237 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/20\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251119T114000
 DTEND:20251119T131500
 SUMMARY:Bpe (L)
@@ -792,7 +785,7 @@ DTSTART:20251120T160000
 DTEND:20251120T173500
 SUMMARY:Nsk (ć)
 LOCATION:309 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: mgr inż. Joanna Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: mgr inż. Joanna Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T160000
@@ -914,6 +907,13 @@ LOCATION:317 S
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251202T114000
+DTEND:20251202T131500
+SUMMARY:Nsk (ć)
+LOCATION:309 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: mgr inż. Joanna Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251202T133000
 DTEND:20251202T150500
 SUMMARY:ZKwI (L)
@@ -947,6 +947,20 @@ DTEND:20251203T192500
 SUMMARY:Bpe (L)
 LOCATION:120 65
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251204T080000
+DTEND:20251204T093500
+SUMMARY:PBI (L)
+LOCATION:233 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251204T095000
+DTEND:20251204T112500
+SUMMARY:PBI (L)
+LOCATION:233 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T114000
@@ -1243,6 +1257,20 @@ LOCATION:316 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260120T080000
+DTEND:20260120T093500
+SUMMARY:PBI (L)
+LOCATION:237 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T095000
+DTEND:20260120T112500
+SUMMARY:PBI (L)
+LOCATION:237 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260120T114000
 DTEND:20260120T131500
 SUMMARY:SoU (L)
@@ -1296,7 +1324,7 @@ DTSTART:20260127T175000
 DTEND:20260127T192500
 SUMMARY:PBI (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/1\nProwadzący: dr inż. Krzysztof Liderman
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/4\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T114000

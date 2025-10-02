@@ -67,6 +67,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 3/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251003T095000
+DTEND:20251003T112500
+SUMMARY:Mat I (ć)
+LOCATION:205 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/19\nProwadzący: mgr inż. Stanisław Zoń
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251003T114000
 DTEND:20251003T131500
 SUMMARY:In. WCY (Inne)
@@ -256,18 +263,18 @@ LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251006T133000
-DTEND:20251006T150500
-SUMMARY:Mat I (ć)
-LOCATION:205 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/19\nProwadzący: mgr inż. Stanisław Zoń
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251006T160000
 DTEND:20251006T173500
 SUMMARY:WDM (w)
 LOCATION:314 S
 DESCRIPTION:Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251007T080000
+DTEND:20251007T093500
+SUMMARY:Mat I (ć)
+LOCATION:205 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/19\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T095000
@@ -352,13 +359,6 @@ DTEND:20251010T093500
 SUMMARY:WdI (w)
 LOCATION:314 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: Rafał Kasprzyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251010T095000
-DTEND:20251010T112500
-SUMMARY:Mat I (ć)
-LOCATION:205 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/19\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T114000

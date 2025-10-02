@@ -669,13 +669,6 @@ LOCATION:01/ 54A
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251028T080000
-DTEND:20251028T093500
-SUMMARY:Płe (L)
-LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251111T080000
 DTEND:20251111T093500
 SUMMARY:I 
@@ -694,7 +687,7 @@ DTSTART:20251125T080000
 DTEND:20251125T093500
 SUMMARY:Płe (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T080000
@@ -757,14 +750,14 @@ DTSTART:20251028T095000
 DTEND:20251028T112500
 SUMMARY:Płe (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T095000
 DTEND:20251104T112500
 SUMMARY:Płe (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251111T095000
@@ -778,14 +771,14 @@ DTSTART:20251118T095000
 DTEND:20251118T112500
 SUMMARY:Płe (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T095000
 DTEND:20251125T112500
 SUMMARY:Płe (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T095000
@@ -884,6 +877,13 @@ DTEND:20251021T131500
 SUMMARY:App (w)
 LOCATION:01/ 54A
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Ziubiński Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251028T114000
+DTEND:20251028T131500
+SUMMARY:Płe (L)
+LOCATION:16/ 19; 17/ 19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T114000

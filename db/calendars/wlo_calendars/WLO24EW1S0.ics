@@ -1075,6 +1075,13 @@ LOCATION:4.17b/135
 DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251112T114000
+DTEND:20251112T131500
+SUMMARY:Ap (w)
+LOCATION:4.23/135
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Moch Natalia
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251119T114000
 DTEND:20251119T131500
 SUMMARY:Pr.A (w)
@@ -1268,28 +1275,35 @@ DTSTART:20251105T160000
 DTEND:20251105T173500
 SUMMARY:Ap (w)
 LOCATION:4.17a/135
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Moch Natalia
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T160000
 DTEND:20251119T173500
 SUMMARY:Ap (w)
 LOCATION:0.6/16
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Moch Natalia
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T160000
 DTEND:20251210T173500
-SUMMARY:Ap (w)
+SUMMARY:Ap (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Moch Natalia
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T160000
 DTEND:20251217T173500
-SUMMARY:Ap (w)
+SUMMARY:Ap (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Moch Natalia
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Moch Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T160000
+DTEND:20250107T173500
+SUMMARY:Ap (ć)
+LOCATION:A.1.3/135
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T175000
@@ -1299,31 +1313,10 @@ LOCATION:aula/135
 DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251105T175000
-DTEND:20251105T192500
-SUMMARY:Ap (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Moch Natalia
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251119T175000
 DTEND:20251119T192500
 SUMMARY:Ap (ć)
 LOCATION:0.6/16
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Moch Natalia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251210T175000
-DTEND:20251210T192500
-SUMMARY:Ap (ć)
-LOCATION:4.17b/135
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Moch Natalia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T175000
-DTEND:20251217T192500
-SUMMARY:Ap (ć)
-LOCATION:4.17b/135
 DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
@@ -1544,6 +1537,13 @@ LOCATION:aula/135
 DESCRIPTION:Profilaktyka antykorupcyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251113T114000
+DTEND:20251113T131500
+SUMMARY:Ap (w)
+LOCATION:0.19/135
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Moch Natalia
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:Pwd (ć)
@@ -1570,6 +1570,13 @@ DTEND:20250122T131500
 SUMMARY:Ap (ć)
 LOCATION:1a/28
 DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Moch Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T114000
+DTEND:20250129T131500
+SUMMARY:Ap (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T133000
@@ -1808,13 +1815,6 @@ DTEND:20251218T192500
 SUMMARY:Ge (ć)
 LOCATION:0.6/16
 DESCRIPTION:Geografia ekonomiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Woźniak Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250115T175000
-DTEND:20250115T192500
-SUMMARY:Ap (ć)
-LOCATION:4.17b/135
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T194000

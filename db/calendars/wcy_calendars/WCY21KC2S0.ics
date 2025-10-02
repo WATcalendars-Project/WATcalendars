@@ -2118,13 +2118,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 3/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251001T095000
-DTEND:20251001T112500
-SUMMARY:REG (w)
-LOCATION:AW 1
-DESCRIPTION:Regulaminy SZ RP - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251001T114000
 DTEND:20251001T131500
 SUMMARY:TA (w)
@@ -2186,20 +2179,6 @@ DTEND:20251003T112500
 SUMMARY:IRz (Inne)
 LOCATION:106 65
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251003T114000
-DTEND:20251003T131500
-SUMMARY:Sr (w)
-LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251003T133000
-DTEND:20251003T150500
-SUMMARY:Sr (w)
-LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T095000
@@ -2297,7 +2276,7 @@ DTSTART:20251010T095000
 DTEND:20251010T112500
 SUMMARY:Sr (w)
 LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T160000
@@ -2312,6 +2291,13 @@ DTEND:20251011T112500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/28\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251013T080000
+DTEND:20251013T093500
+SUMMARY:REG (w)
+LOCATION:AW 1
+DESCRIPTION:Regulaminy SZ RP - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T114000
@@ -2370,13 +2356,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 37/71\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251015T160000
-DTEND:20251015T173500
-SUMMARY:Sr (w)
-LOCATION:313 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251015T194000
 DTEND:20251015T211500
 SUMMARY:- (S.Sz.W.)
@@ -2396,6 +2375,13 @@ DTEND:20251016T112500
 SUMMARY:TCT (w)
 LOCATION:316 S
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251016T114000
+DTEND:20251016T131500
+SUMMARY:Sr (w)
+LOCATION:316 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T133000
@@ -2445,20 +2431,6 @@ DTEND:20251017T150500
 SUMMARY:PCB (P)
 LOCATION:09 65
 DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 2/22\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251017T160000
-DTEND:20251017T173500
-SUMMARY:Sr (w)
-LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251017T175000
-DTEND:20251017T192500
-SUMMARY:Sr (w)
-LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T095000
@@ -2568,9 +2540,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T114000
 DTEND:20251023T131500
-SUMMARY:wzbnim (w)
+SUMMARY:Sr (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: -
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
@@ -2605,7 +2577,7 @@ DTSTART:20251024T095000
 DTEND:20251024T112500
 SUMMARY:wzbnim (w)
 LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T114000
@@ -2620,20 +2592,6 @@ DTEND:20251024T150500
 SUMMARY:PCB (P)
 LOCATION:09 65
 DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 4/22\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251024T160000
-DTEND:20251024T173500
-SUMMARY:Sr (w)
-LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251024T175000
-DTEND:20251024T192500
-SUMMARY:Sr (w)
-LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T095000
@@ -2773,7 +2731,7 @@ DTSTART:20251031T160000
 DTEND:20251031T173500
 SUMMARY:wzbnim (w)
 LOCATION:301/ S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T080000
@@ -2916,6 +2874,13 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 40/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251107T095000
+DTEND:20251107T112500
+SUMMARY:Sr (w)
+LOCATION:313 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251107T114000
 DTEND:20251107T131500
 SUMMARY:BsIP (L)
@@ -3000,6 +2965,13 @@ LOCATION:316 S
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251113T114000
+DTEND:20251113T131500
+SUMMARY:Sr (w)
+LOCATION:316 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251113T133000
 DTEND:20251113T150500
 SUMMARY:WF (ć)
@@ -3026,20 +2998,6 @@ DTEND:20251114T150500
 SUMMARY:Temo (L)
 LOCATION:106 65
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251114T160000
-DTEND:20251114T173500
-SUMMARY:Sr (w)
-LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251114T175000
-DTEND:20251114T192500
-SUMMARY:Sr (w)
-LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T095000
@@ -3138,6 +3096,13 @@ DTEND:20251119T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 11/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T114000
+DTEND:20251120T131500
+SUMMARY:Sr (w)
+LOCATION:313 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T133000
@@ -3287,6 +3252,13 @@ LOCATION:316 S
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251127T114000
+DTEND:20251127T131500
+SUMMARY:Sr (w)
+LOCATION:316 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251127T133000
 DTEND:20251127T150500
 SUMMARY:WF (ć)
@@ -3413,6 +3385,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 15/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251204T114000
+DTEND:20251204T131500
+SUMMARY:Sr (w)
+LOCATION:317 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251204T133000
 DTEND:20251204T150500
 SUMMARY:WF (ć)
@@ -3516,6 +3495,13 @@ DTEND:20251210T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 16/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T114000
+DTEND:20251211T131500
+SUMMARY:Sr (w)
+LOCATION:316 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
@@ -3635,6 +3621,13 @@ DTEND:20251217T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 17/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251218T114000
+DTEND:20251218T131500
+SUMMARY:Sr (w)
+LOCATION:316 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T133000
@@ -4062,6 +4055,13 @@ DTEND:20260123T150500
 SUMMARY:PCB (P)
 LOCATION:237 S
 DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNumer zajęć: 20/22\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T160000
+DTEND:20260123T173500
+SUMMARY:wzbnim (w)
+LOCATION:313 S
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T095000

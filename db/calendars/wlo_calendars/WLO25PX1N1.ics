@@ -18,10 +18,17 @@ LOCATION:0.6/16
 DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 1/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; mgr Dąbrowska - Świder Małgorzata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251025T080000
+DTEND:20251025T093500
+SUMMARY:M (w)
+LOCATION:2.21/135
+DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr hab. inż. Ćwik Bogdan
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251108T080000
 DTEND:20251108T093500
 SUMMARY:Wzp (w)
-LOCATION:26/158
+LOCATION:0.22/16
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
@@ -263,13 +270,6 @@ LOCATION:4.17a/135
 DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Łakoma Ewa
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251108T133000
-DTEND:20251108T150500
-SUMMARY:M (w)
-LOCATION:1.16/16
-DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr hab. inż. Ćwik Bogdan
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251115T133000
 DTEND:20251115T150500
 SUMMARY:Oin (w)
@@ -350,7 +350,7 @@ BEGIN:VEVENT
 DTSTART:20251108T160000
 DTEND:20251108T173500
 SUMMARY:oiz (ć)
-LOCATION:1.27/135
+LOCATION:37/158
 DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT

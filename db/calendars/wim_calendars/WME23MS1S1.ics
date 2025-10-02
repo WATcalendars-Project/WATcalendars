@@ -1698,6 +1698,13 @@ LOCATION:01/ 54A
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251217T160000
+DTEND:20251217T173500
+SUMMARY:Płe (L)
+LOCATION:16/ 19; 17/ 19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251224T160000
 DTEND:20251224T173500
 SUMMARY:I 
@@ -1724,6 +1731,13 @@ DTEND:20250204T173500
 SUMMARY:Par (z. popr. lab.)
 LOCATION:4/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: (z. popr. lab.)\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T175000
+DTEND:20251217T192500
+SUMMARY:Płe (L)
+LOCATION:16/ 19; 17/ 19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T175000
@@ -1766,13 +1780,6 @@ DTEND:20251009T093500
 SUMMARY:Pkm2 (P)
 LOCATION:109/ 54; 120/ 54
 DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Projekt\nNumer zajęć: 7/12\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251030T080000
-DTEND:20251030T093500
-SUMMARY:Płe (L)
-LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
@@ -1873,13 +1880,6 @@ LOCATION:5/ 20
 DESCRIPTION:Urządzenia elektryczne pojazdów 1\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251030T095000
-DTEND:20251030T112500
-SUMMARY:Płe (L)
-LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251106T095000
 DTEND:20251106T112500
 SUMMARY:PiN (L)
@@ -1971,8 +1971,8 @@ LOCATION:5/ 20
 DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251002T114000
-DTEND:20251002T131500
+DTSTART:20251009T114000
+DTEND:20251009T131500
 SUMMARY:Dp (w)
 LOCATION:5/ 20
 DESCRIPTION:Diagnostyka pojazdów\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr inż. Trawiński Grzegorz

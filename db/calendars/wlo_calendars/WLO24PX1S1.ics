@@ -865,32 +865,25 @@ LOCATION:24PX; 2S; 24PX; 1S; 1 KT
 DESCRIPTION:T\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: dr Chyrzyński Ryszard; dr Kowalski Wawrzyniec; dr Wojnarowska Szpucha Sylwia
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251113T114000
-DTEND:20251113T131500
-SUMMARY:T 
-LOCATION:24PX; 2S; 24PX; 1S; 1 KT
-DESCRIPTION:T\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr Chyrzyński Ryszard; dr Kowalski Wawrzyniec; dr Wojnarowska Szpucha Sylwia
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251120T114000
 DTEND:20251120T131500
 SUMMARY:T 
 LOCATION:3.16/135
-DESCRIPTION:T\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr Chyrzyński Ryszard; dr Kościelecki Tomasz
+DESCRIPTION:T\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr Chyrzyński Ryszard; dr Kościelecki Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:T 
 LOCATION:24PX; 2S; 24PX; 1S; 1 KT
-DESCRIPTION:T\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: dr Chyrzyński Ryszard; dr Kowalski Wawrzyniec; dr Wojnarowska Szpucha Sylwia
+DESCRIPTION:T\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr Chyrzyński Ryszard; dr Kowalski Wawrzyniec; dr Wojnarowska Szpucha Sylwia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T114000
 DTEND:20251204T131500
 SUMMARY:T 
 LOCATION:0.24/135
-DESCRIPTION:T\nRodzaj zajęć: -\nNumer zajęć: 10/15\nProwadzący: dr Chyrzyński Ryszard; dr Kościelecki Tomasz
+DESCRIPTION:T\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: dr Chyrzyński Ryszard; dr Kościelecki Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T114000
@@ -963,11 +956,25 @@ LOCATION:5.17/135
 DESCRIPTION:Geografia polityczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251113T160000
+DTEND:20251113T173500
+SUMMARY:Syst.zarz. 
+LOCATION:3.16/135
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 11/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251204T160000
 DTEND:20251204T173500
 SUMMARY:PODST. 
 LOCATION:5.27/135
 DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 13/15\nProwadzący: dr Kościelecki Tomasz; dr Chyrzyński Ryszard; dr Wojnarowska Szpucha Sylwia; dr hab. (prof. WAT) Szyłkowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T160000
+DTEND:20251211T173500
+SUMMARY:Ap (ć)
+LOCATION:0.7/16
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T160000
@@ -995,7 +1002,7 @@ DTSTART:20250122T160000
 DTEND:20250122T173500
 SUMMARY:T 
 LOCATION:5.17/135
-DESCRIPTION:T\nRodzaj zajęć: -\nNumer zajęć: 11/15\nProwadzący: dr Chyrzyński Ryszard; dr Kościelecki Tomasz
+DESCRIPTION:T\nRodzaj zajęć: -\nNumer zajęć: 10/15\nProwadzący: dr Chyrzyński Ryszard; dr Kościelecki Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T175000
@@ -1016,7 +1023,7 @@ DTSTART:20251016T175000
 DTEND:20251016T192500
 SUMMARY:T 
 LOCATION:3.16/135
-DESCRIPTION:T\nRodzaj zajęć: -\nNumer zajęć: 12/15\nProwadzący: dr Chyrzyński Ryszard; dr Kościelecki Tomasz
+DESCRIPTION:T\nRodzaj zajęć: -\nNumer zajęć: 11/15\nProwadzący: dr Chyrzyński Ryszard; dr Kościelecki Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T175000
@@ -1028,9 +1035,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T175000
 DTEND:20251113T192500
-SUMMARY:Syst.zarz. 
-LOCATION:3.16/135
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 11/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
+SUMMARY:T 
+LOCATION:24PX; 2S; 24PX; 1S; 1 KT
+DESCRIPTION:T\nRodzaj zajęć: -\nNumer zajęć: 12/15\nProwadzący: dr Chyrzyński Ryszard; dr Kowalski Wawrzyniec; dr Wojnarowska Szpucha Sylwia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T175000
@@ -1166,13 +1173,6 @@ LOCATION:0.28/135
 DESCRIPTION:Podst.prawne\nRodzaj zajęć: -\nNumer zajęć: 15/15\nProwadzący: prof. dr hab. Trejnis Zenon; dr Chyrzyński Ryszard; dr hab. (prof. WAT) Szyłkowska Monika; dr Kościelecki Tomasz; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251114T114000
-DTEND:20251114T131500
-SUMMARY:Ap (ć)
-LOCATION:5.17/135
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Chyrzyński Ryszard
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251010T133000
 DTEND:20251010T150500
 SUMMARY:ZŚN (ć)
@@ -1241,6 +1241,13 @@ DTEND:20251219T173500
 SUMMARY:EkO (w)
 LOCATION:0.28/135
 DESCRIPTION:Ekonomika obronna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Kościelecki Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250130T160000
+DTEND:20250130T173500
+SUMMARY:P 
+LOCATION:0.28/135
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 15/15\nProwadzący: dr Wojnarowska Szpucha Sylwia; dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T175000
@@ -1374,13 +1381,6 @@ DTEND:20251219T211500
 SUMMARY:EkO (ć)
 LOCATION:0.8/16
 DESCRIPTION:Ekonomika obronna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Kościelecki Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250116T194000
-DTEND:20250116T211500
-SUMMARY:P 
-LOCATION:5.17/135
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 15/15\nProwadzący: dr Wojnarowska Szpucha Sylwia; dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250123T194000

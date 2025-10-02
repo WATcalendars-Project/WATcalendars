@@ -158,6 +158,13 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 2/45
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251027T095000
+DTEND:20251027T112500
+SUMMARY:BiErp (w)
+LOCATION:3/ 23a
+DESCRIPTION:Budowa i eksploatacja rurociągów polowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/11\nProwadzący: ppłk dr inż. Gocman Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251103T095000
 DTEND:20251103T112500
 SUMMARY:SSW 
@@ -282,6 +289,13 @@ DTEND:20251020T131500
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 4/45
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251027T114000
+DTEND:20251027T131500
+SUMMARY:BiErp (w)
+LOCATION:3/ 23a
+DESCRIPTION:Budowa i eksploatacja rurociągów polowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: ppłk dr inż. Gocman Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T114000
@@ -1611,7 +1625,7 @@ DTSTART:20251015T080000
 DTEND:20251015T093500
 SUMMARY:BiErp (w)
 LOCATION:5/ 19
-DESCRIPTION:Budowa i eksploatacja rurociągów polowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/11\nProwadzący: ppłk dr inż. Gocman Krzysztof
+DESCRIPTION:Budowa i eksploatacja rurociągów polowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: ppłk dr inż. Gocman Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T080000
@@ -1898,7 +1912,7 @@ DTSTART:20251105T114000
 DTEND:20251105T131500
 SUMMARY:BiErp (w)
 LOCATION:5/ 19
-DESCRIPTION:Budowa i eksploatacja rurociągów polowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: ppłk dr inż. Gocman Krzysztof
+DESCRIPTION:Budowa i eksploatacja rurociągów polowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: ppłk dr inż. Gocman Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T114000
@@ -2297,7 +2311,7 @@ DTSTART:20251016T080000
 DTEND:20251016T093500
 SUMMARY:BiErp (w)
 LOCATION:5/ 19
-DESCRIPTION:Budowa i eksploatacja rurociągów polowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: ppłk dr inż. Gocman Krzysztof
+DESCRIPTION:Budowa i eksploatacja rurociągów polowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: ppłk dr inż. Gocman Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T080000
@@ -2325,21 +2339,14 @@ DTSTART:20251113T080000
 DTEND:20251113T093500
 SUMMARY:BiErp (w)
 LOCATION:5/ 19
-DESCRIPTION:Budowa i eksploatacja rurociągów polowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: ppłk dr inż. Gocman Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T080000
-DTEND:20251120T093500
-SUMMARY:BiErp (w)
-LOCATION:5/ 19
-DESCRIPTION:Budowa i eksploatacja rurociągów polowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: ppłk dr inż. Gocman Krzysztof
+DESCRIPTION:Budowa i eksploatacja rurociągów polowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: ppłk dr inż. Gocman Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T080000
 DTEND:20251127T093500
 SUMMARY:BiErp (w)
 LOCATION:5/ 19
-DESCRIPTION:Budowa i eksploatacja rurociągów polowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: ppłk dr inż. Gocman Krzysztof
+DESCRIPTION:Budowa i eksploatacja rurociągów polowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: ppłk dr inż. Gocman Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T080000
@@ -2416,7 +2423,7 @@ DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:BiErp (w)
 LOCATION:5/ 19
-DESCRIPTION:Budowa i eksploatacja rurociągów polowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: ppłk dr inż. Gocman Krzysztof
+DESCRIPTION:Budowa i eksploatacja rurociągów polowych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: ppłk dr inż. Gocman Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T095000
@@ -2442,13 +2449,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T095000
 DTEND:20251113T112500
-SUMMARY:BiErp (w)
-LOCATION:5/ 19
-DESCRIPTION:Budowa i eksploatacja rurociągów polowych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: ppłk dr inż. Gocman Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T095000
-DTEND:20251120T112500
 SUMMARY:BiErp (w)
 LOCATION:5/ 19
 DESCRIPTION:Budowa i eksploatacja rurociągów polowych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: ppłk dr inż. Gocman Krzysztof
