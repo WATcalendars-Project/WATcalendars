@@ -1103,13 +1103,6 @@ LOCATION:aula/135
 DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251106T095000
-DTEND:20251106T112500
-SUMMARY:IJL (w)
-LOCATION:aula/135
-DESCRIPTION:Inżynieria jakości w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr n.społ. inż. Rogowski Bogusław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251113T095000
 DTEND:20251113T112500
 SUMMARY:LP (w)
@@ -1423,6 +1416,13 @@ DTEND:20251113T192500
 SUMMARY:LZ (ć)
 LOCATION:1.27/135
 DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: płk dr inż. Zelkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T175000
+DTEND:20251127T192500
+SUMMARY:IJL (w)
+LOCATION:aula/135
+DESCRIPTION:Inżynieria jakości w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr n.społ. inż. Rogowski Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T095000
