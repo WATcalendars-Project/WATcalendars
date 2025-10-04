@@ -63,7 +63,7 @@ BEGIN:VEVENT
 DTSTART:20251013T095000
 DTEND:20251013T112500
 SUMMARY:POT (w)
-LOCATION:21 46
+LOCATION:3.3 75
 DESCRIPTION:Podstawy optyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr hab. inż. Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -620,6 +620,13 @@ LOCATION:4 41
 DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Wykład\nNumer zajęć: 10/16\nProwadzący: dr hab. inż. Kopczyński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251126T114000
+DTEND:20251126T131500
+SUMMARY:Ekw (ć)
+LOCATION:20 46
+DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. Kwiatkowski Jacek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251203T114000
 DTEND:20251203T131500
 SUMMARY:Ucy (w)
@@ -645,7 +652,7 @@ DTSTART:20250107T114000
 DTEND:20250107T131500
 SUMMARY:Ekw (ć)
 LOCATION:20 46
-DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. Kwiatkowski Jacek
+DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250114T114000
@@ -820,7 +827,7 @@ DTSTART:20251211T080000
 DTEND:20251211T093500
 SUMMARY:Ekw (ć)
 LOCATION:20 46
-DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Kwiatkowski Jacek
+DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T080000
@@ -981,7 +988,7 @@ DTSTART:20251023T114000
 DTEND:20251023T131500
 SUMMARY:Ekw (ć)
 LOCATION:20 46
-DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Kwiatkowski Jacek
+DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T114000
@@ -1149,7 +1156,7 @@ DTSTART:20250115T133000
 DTEND:20250115T150500
 SUMMARY:Ekw (ć)
 LOCATION:20 46
-DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Kwiatkowski Jacek
+DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T133000
@@ -1178,13 +1185,6 @@ DTEND:20250108T173500
 SUMMARY:Ed (L)
 LOCATION:224 S
 DESCRIPTION:Eksploracja danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Hoffmann Romuald
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T080000
-DTEND:20251121T093500
-SUMMARY:Ekw (ć)
-LOCATION:20 46
-DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T080000

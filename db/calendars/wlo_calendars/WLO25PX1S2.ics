@@ -4,6 +4,13 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO25PX1S2
 BEGIN:VEVENT
+DTSTART:20251013T095000
+DTEND:20251013T112500
+SUMMARY:Gpio (w)
+LOCATION:2.21/135
+DESCRIPTION:Geopolityka i obronność\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: prof. dr hab. Trejnis Zenon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251013T114000
 DTEND:20251013T131500
 SUMMARY:EAWiP (w)
@@ -30,6 +37,13 @@ DTEND:20251013T150500
 SUMMARY:EAWiP (w)
 LOCATION:5.17/135
 DESCRIPTION:Etyczne Aspekty Wojny i Pokoju\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251027T133000
+DTEND:20251027T150500
+SUMMARY:Europejski 
+LOCATION:aula/135
+DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz; dr Kostrzewa-Zorbas Grzegorz; dr Biruś Ireneusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T133000
@@ -88,20 +102,6 @@ LOCATION:2/22
 DESCRIPTION:Geopolityka i obronność\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: prof. dr hab. Trejnis Zenon
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251006T160000
-DTEND:20251006T173500
-SUMMARY:Europejski 
-LOCATION:0.24/135
-DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz; dr Kostrzewa-Zorbas Grzegorz; dr Biruś Ireneusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251013T160000
-DTEND:20251013T173500
-SUMMARY:Europejski 
-LOCATION:0.24/135
-DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz; dr Kostrzewa-Zorbas Grzegorz; dr Biruś Ireneusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251027T160000
 DTEND:20251027T173500
 SUMMARY:PiZS (w)
@@ -127,7 +127,7 @@ DTSTART:20251201T160000
 DTEND:20251201T173500
 SUMMARY:Europejski 
 LOCATION:1.15/16
-DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 3/15\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz; prof. dr hab. Kościelecki Lech; dr Biruś Ireneusz
+DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz; prof. dr hab. Kościelecki Lech; dr Biruś Ireneusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T160000
@@ -165,20 +165,6 @@ LOCATION:2/22
 DESCRIPTION:Geopolityka i obronność\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: prof. dr hab. Trejnis Zenon
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251006T175000
-DTEND:20251006T192500
-SUMMARY:Europejski 
-LOCATION:0.24/135
-DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 4/15\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz; dr Kostrzewa-Zorbas Grzegorz; dr Biruś Ireneusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251013T175000
-DTEND:20251013T192500
-SUMMARY:Gpio (w)
-LOCATION:2.21/135
-DESCRIPTION:Geopolityka i obronność\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: prof. dr hab. Trejnis Zenon
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251027T175000
 DTEND:20251027T192500
 SUMMARY:Spin (w)
@@ -211,7 +197,7 @@ DTSTART:20251201T175000
 DTEND:20251201T192500
 SUMMARY:Europejski 
 LOCATION:1.15/16
-DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 5/15\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz; prof. dr hab. Kościelecki Lech; dr Biruś Ireneusz
+DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 3/15\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz; prof. dr hab. Kościelecki Lech; dr Biruś Ireneusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T175000
@@ -239,14 +225,14 @@ DTSTART:20250119T175000
 DTEND:20250119T192500
 SUMMARY:Europejski 
 LOCATION:0.8/16
-DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz; prof. dr hab. Kościelecki Lech; dr Biruś Ireneusz
+DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 4/15\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz; prof. dr hab. Kościelecki Lech; dr Biruś Ireneusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250126T175000
 DTEND:20250126T192500
 SUMMARY:Europejski 
 LOCATION:0.8/16
-DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz; prof. dr hab. Kościelecki Lech; dr Biruś Ireneusz
+DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 5/15\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz; prof. dr hab. Kościelecki Lech; dr Biruś Ireneusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T194000
@@ -288,14 +274,14 @@ DTSTART:20250119T194000
 DTEND:20250119T211500
 SUMMARY:Europejski 
 LOCATION:0.8/16
-DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz; prof. dr hab. Kościelecki Lech; dr Biruś Ireneusz
+DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz; prof. dr hab. Kościelecki Lech; dr Biruś Ireneusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250126T194000
 DTEND:20250126T211500
 SUMMARY:Europejski 
 LOCATION:0.8/16
-DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz; prof. dr hab. Kościelecki Lech; dr Biruś Ireneusz
+DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz; prof. dr hab. Kościelecki Lech; dr Biruś Ireneusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T095000
@@ -303,6 +289,13 @@ DTEND:20251007T112500
 SUMMARY:Wpg (w)
 LOCATION:5.17/135
 DESCRIPTION:Współczesne procesy globalizacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Adamkiewicz Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251021T095000
+DTEND:20251021T112500
+SUMMARY:Europejski 
+LOCATION:0.23/16
+DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz; dr Kostrzewa-Zorbas Grzegorz; dr Biruś Ireneusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T095000
@@ -345,6 +338,13 @@ DTEND:20251007T131500
 SUMMARY:PiZS (w)
 LOCATION:5.17/135
 DESCRIPTION:Przywództwo i zarządzanie strategiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Kubaczyk Tadeusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251021T114000
+DTEND:20251021T131500
+SUMMARY:Europejski 
+LOCATION:0.23/16
+DESCRIPTION:Europejski\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz; dr Kostrzewa-Zorbas Grzegorz; dr Biruś Ireneusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T114000
@@ -1169,7 +1169,7 @@ BEGIN:VEVENT
 DTSTART:20250123T114000
 DTEND:20250123T131500
 SUMMARY:PiZS (ć)
-LOCATION:1.9/16
+LOCATION:37/158
 DESCRIPTION:Przywództwo i zarządzanie strategiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: dr inż. Kubaczyk Tadeusz
 END:VEVENT
 BEGIN:VEVENT
@@ -1218,7 +1218,7 @@ BEGIN:VEVENT
 DTSTART:20251205T133000
 DTEND:20251205T150500
 SUMMARY:Pzbo (w)
-LOCATION:1.9/16
+LOCATION:0.24/135
 DESCRIPTION:Polityka zagraniczna bezpieczeństwa i obronnosci UE\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
@@ -1253,7 +1253,7 @@ BEGIN:VEVENT
 DTSTART:20250123T133000
 DTEND:20250123T150500
 SUMMARY:PiZS (ć)
-LOCATION:1.9/16
+LOCATION:37/158
 DESCRIPTION:Przywództwo i zarządzanie strategiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: dr inż. Kubaczyk Tadeusz
 END:VEVENT
 BEGIN:VEVENT

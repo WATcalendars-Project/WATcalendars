@@ -27,6 +27,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T080000
 DTEND:20251011T093500
+SUMMARY:Bwp (w)
+LOCATION:37/158
+DESCRIPTION:Bezpieczeństwo wewnętrzne państwa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Kościelecki Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T080000
+DTEND:20251025T093500
 SUMMARY:Podst.prawne 
 LOCATION:37/158
 DESCRIPTION:Podst.prawne\nRodzaj zajęć: -\nNumer zajęć: 2/9\nProwadzący: prof. dr hab. Trejnis Zenon; dr Chyrzyński Ryszard; dr hab. (prof. WAT) Szyłkowska Monika; dr Kościelecki Tomasz; dr Stawarz Paweł
@@ -83,16 +90,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T095000
 DTEND:20251011T112500
-SUMMARY:Podst.prawne 
+SUMMARY:EkO (w)
 LOCATION:37/158
-DESCRIPTION:Podst.prawne\nRodzaj zajęć: -\nNumer zajęć: 4/9\nProwadzący: prof. dr hab. Trejnis Zenon; dr Chyrzyński Ryszard; dr hab. (prof. WAT) Szyłkowska Monika; dr Kościelecki Tomasz; dr Stawarz Paweł
+DESCRIPTION:Ekonomika obronna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Kościelecki Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T095000
 DTEND:20251025T112500
-SUMMARY:Syst.zarz. 
+SUMMARY:Podst.prawne 
 LOCATION:37/158
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 4/10\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; mgr Jaśkiewicz Paweł
+DESCRIPTION:Podst.prawne\nRodzaj zajęć: -\nNumer zajęć: 4/9\nProwadzący: prof. dr hab. Trejnis Zenon; dr Chyrzyński Ryszard; dr hab. (prof. WAT) Szyłkowska Monika; dr Kościelecki Tomasz; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251108T095000
@@ -127,7 +134,7 @@ DTSTART:20251213T095000
 DTEND:20251213T112500
 SUMMARY:Syst.zarz. 
 LOCATION:1 SWS
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 5/10\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 4/10\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T095000
@@ -253,14 +260,14 @@ DTSTART:20251004T133000
 DTEND:20251004T150500
 SUMMARY:EkO (w)
 LOCATION:37/158
-DESCRIPTION:Ekonomika obronna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Kościelecki Tomasz
+DESCRIPTION:Ekonomika obronna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Kościelecki Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T133000
 DTEND:20251011T150500
 SUMMARY:Syst.zarz. 
 LOCATION:37/158
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 6/10\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; mgr Jaśkiewicz Paweł
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 5/10\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; mgr Jaśkiewicz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T133000
@@ -295,7 +302,7 @@ DTSTART:20251206T133000
 DTEND:20251206T150500
 SUMMARY:Bwp (w)
 LOCATION:37/158
-DESCRIPTION:Bezpieczeństwo wewnętrzne państwa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Kościelecki Tomasz
+DESCRIPTION:Bezpieczeństwo wewnętrzne państwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Kościelecki Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T133000
@@ -309,7 +316,7 @@ DTSTART:20251220T133000
 DTEND:20251220T150500
 SUMMARY:EkO (w)
 LOCATION:37/158
-DESCRIPTION:Ekonomika obronna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Kościelecki Tomasz
+DESCRIPTION:Ekonomika obronna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Kościelecki Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T133000
@@ -344,14 +351,14 @@ DTSTART:20251004T160000
 DTEND:20251004T173500
 SUMMARY:Syst.zarz. 
 LOCATION:37/158
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 7/10\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; mgr Jaśkiewicz Paweł
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 6/10\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; mgr Jaśkiewicz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T160000
 DTEND:20251011T173500
-SUMMARY:Bwp (w)
+SUMMARY:Syst.zarz. 
 LOCATION:37/158
-DESCRIPTION:Bezpieczeństwo wewnętrzne państwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Kościelecki Tomasz
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 7/10\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; mgr Jaśkiewicz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T160000
@@ -429,13 +436,6 @@ DTEND:20250131T173500
 SUMMARY:EkO (ć)
 LOCATION:0.24/135
 DESCRIPTION:Ekonomika obronna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Kościelecki Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251011T175000
-DTEND:20251011T192500
-SUMMARY:EkO (w)
-LOCATION:37/158
-DESCRIPTION:Ekonomika obronna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Kościelecki Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T175000
@@ -714,7 +714,7 @@ BEGIN:VEVENT
 DTSTART:20250111T114000
 DTEND:20250111T131500
 SUMMARY:Sta (ć)
-LOCATION:1.9/16
+LOCATION:3.16/135
 DESCRIPTION:Statystyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Ćwik Bogdan
 END:VEVENT
 BEGIN:VEVENT
@@ -777,7 +777,7 @@ BEGIN:VEVENT
 DTSTART:20250111T133000
 DTEND:20250111T150500
 SUMMARY:Sta (ć)
-LOCATION:1.9/16
+LOCATION:3.16/135
 DESCRIPTION:Statystyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. Ćwik Bogdan
 END:VEVENT
 BEGIN:VEVENT

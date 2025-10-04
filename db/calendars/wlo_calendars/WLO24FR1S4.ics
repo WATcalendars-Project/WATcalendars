@@ -566,16 +566,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T160000
 DTEND:20251104T173500
-SUMMARY:Osl (w)
+SUMMARY:Osl (ć)
 LOCATION:A.1.3/135
-DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: płk dr inż. Zelkowski Jarosław
+DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T160000
 DTEND:20251118T173500
 SUMMARY:Osl (w)
 LOCATION:A.1.3/135
-DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: płk dr inż. Zelkowski Jarosław
+DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T160000
@@ -596,7 +596,7 @@ DTSTART:20251209T160000
 DTEND:20251209T173500
 SUMMARY:Osl (ć)
 LOCATION:0.7/16
-DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: płk dr inż. Zelkowski Jarosław
+DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T160000
@@ -611,13 +611,6 @@ DTEND:20250113T173500
 SUMMARY:LZr (S)
 LOCATION:0.22/16
 DESCRIPTION:Logistyka zrównoważona\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: dr n. społ. inż. Krupnik Dorota
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251104T175000
-DTEND:20251104T192500
-SUMMARY:Osl (ć)
-LOCATION:1.27/135
-DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T175000
@@ -1010,6 +1003,13 @@ DTEND:20250114T150500
 SUMMARY:UL. (ć)
 LOCATION:0.6/16
 DESCRIPTION:Usługi logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr Sobczak Iwona
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251015T160000
+DTEND:20251015T173500
+SUMMARY:Osl (w)
+LOCATION:A.1.3/135
+DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T160000

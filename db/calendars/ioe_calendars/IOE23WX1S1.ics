@@ -1282,7 +1282,7 @@ DTSTART:20251127T133000
 DTEND:20251127T150500
 SUMMARY:Mp (L)
 LOCATION:3 67
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Kopczyński Krzysztof; dr inż. Kamiński Kamil
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: dr inż. Kamiński Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T133000
@@ -1303,7 +1303,7 @@ DTSTART:20251218T133000
 DTEND:20251218T150500
 SUMMARY:Mp (L)
 LOCATION:3 67
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: dr hab. inż. Kopczyński Krzysztof; dr inż. Kamiński Kamil
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: dr inż. Kamiński Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T133000
@@ -1331,7 +1331,7 @@ DTSTART:20251113T160000
 DTEND:20251113T173500
 SUMMARY:Mp (L)
 LOCATION:3 67
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr hab. inż. Kopczyński Krzysztof; dr inż. Kamiński Kamil
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr inż. Kamiński Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T160000
@@ -1352,7 +1352,7 @@ DTSTART:20251211T160000
 DTEND:20251211T173500
 SUMMARY:Mp (L)
 LOCATION:3 67
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. Kopczyński Krzysztof; dr inż. Kamiński Kamil
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: dr inż. Kamiński Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T160000
@@ -1373,7 +1373,7 @@ DTSTART:20250115T160000
 DTEND:20250115T173500
 SUMMARY:Mp (L)
 LOCATION:3 67
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Kopczyński Krzysztof; dr inż. Kamiński Kamil
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Kamiński Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T095000
@@ -1521,5 +1521,75 @@ DTEND:20250116T150500
 SUMMARY:L4g. (L)
 LOCATION:09 41;13 41;9 49;301 136
 DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 24/24\nProwadzący: dr inż. Gontar Przemysław; dr Kurzyna Jacek; dr hab. inż. Wojtanowski Jacek; dr hab. inż. Kopczyński Krzysztof; dr inż. Jakubaszek Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T114000
+DTEND:20251206T131500
+SUMMARY:XFiz2 (w)
+LOCATION:19 36
+DESCRIPTION:XFiz2\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Kopczyński Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T114000
+DTEND:20251213T131500
+SUMMARY:XFiz2 (w)
+LOCATION:19 36
+DESCRIPTION:XFiz2\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. inż. Kopczyński Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T114000
+DTEND:20251220T131500
+SUMMARY:XFiz2 (w)
+LOCATION:19 36
+DESCRIPTION:XFiz2\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. inż. Kopczyński Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T133000
+DTEND:20251206T150500
+SUMMARY:XFiz2 (w)
+LOCATION:19 36
+DESCRIPTION:XFiz2\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. Kopczyński Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T133000
+DTEND:20251213T150500
+SUMMARY:XFiz2 (w)
+LOCATION:19 36
+DESCRIPTION:XFiz2\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Kopczyński Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251207T080000
+DTEND:20251207T093500
+SUMMARY:XFiz2 (ć)
+LOCATION:aF S;19 36
+DESCRIPTION:XFiz2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Szołucha Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251221T080000
+DTEND:20251221T093500
+SUMMARY:XFiz2 (ć)
+LOCATION:aF S;19 36
+DESCRIPTION:XFiz2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Szołucha Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251207T095000
+DTEND:20251207T112500
+SUMMARY:XFiz2 (ć)
+LOCATION:aF S;19 36
+DESCRIPTION:XFiz2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Szołucha Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251221T095000
+DTEND:20251221T112500
+SUMMARY:XFiz2 (ć)
+LOCATION:aF S;19 36
+DESCRIPTION:XFiz2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Szołucha Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250111T095000
+DTEND:20250111T112500
+SUMMARY:XFiz2 (ć)
+LOCATION:aF S;19 36
+DESCRIPTION:XFiz2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Szołucha Marcin
 END:VEVENT
 END:VCALENDAR

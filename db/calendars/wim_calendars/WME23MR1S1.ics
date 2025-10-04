@@ -102,6 +102,13 @@ LOCATION:6/ 23a
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251027T095000
+DTEND:20251027T112500
+SUMMARY:Ffem (w)
+LOCATION:54/ 62
+DESCRIPTION:Fundamentals of finite element method\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Sławiński Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251103T095000
 DTEND:20251103T112500
 SUMMARY:Kszm1 (w)
@@ -317,6 +324,13 @@ DTEND:20251006T150500
 SUMMARY:Brd (w)
 LOCATION:52/ 62
 DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251013T133000
+DTEND:20251013T150500
+SUMMARY:Ffem (w)
+LOCATION:52/ 62
+DESCRIPTION:Fundamentals of finite element method\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T133000
@@ -1796,13 +1810,6 @@ LOCATION:3/ 54
 DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251002T095000
-DTEND:20251002T112500
-SUMMARY:Ffem (w)
-LOCATION:55/ 62
-DESCRIPTION:Fundamentals of finite element method\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Sławiński Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251009T095000
 DTEND:20251009T112500
 SUMMARY:REZ 
@@ -1814,7 +1821,7 @@ DTSTART:20251023T095000
 DTEND:20251023T112500
 SUMMARY:Ffem (w)
 LOCATION:53/ 62
-DESCRIPTION:Fundamentals of finite element method\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Sławiński Grzegorz
+DESCRIPTION:Fundamentals of finite element method\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T095000
@@ -1906,13 +1913,6 @@ DTEND:20250129T112500
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 24/190
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251002T114000
-DTEND:20251002T131500
-SUMMARY:Ffem (w)
-LOCATION:55/ 62
-DESCRIPTION:Fundamentals of finite element method\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T114000

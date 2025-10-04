@@ -319,6 +319,13 @@ LOCATION:3.16/135
 DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251014T133000
+DTEND:20251014T150500
+SUMMARY:P 
+LOCATION:0.19/135
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Chyrzyński Ryszard
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251021T133000
 DTEND:20251021T150500
 SUMMARY:PODST. 
@@ -491,7 +498,7 @@ DTSTART:20251216T175000
 DTEND:20251216T192500
 SUMMARY:P 
 LOCATION:5.17/135
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr Wojnarowska Szpucha Sylwia; dr Chyrzyński Ryszard
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr Wojnarowska Szpucha Sylwia; dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T175000
@@ -513,13 +520,6 @@ DTEND:20251007T211500
 SUMMARY:PODST. 
 LOCATION:3.16/135
 DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr Kościelecki Tomasz; dr Chyrzyński Ryszard; dr Stawarz Paweł; mgr Trzcińska Luiza
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251014T194000
-DTEND:20251014T211500
-SUMMARY:P 
-LOCATION:0.19/135
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T194000
@@ -1173,18 +1173,11 @@ LOCATION:0.28/135
 DESCRIPTION:Podst.prawne\nRodzaj zajęć: -\nNumer zajęć: 15/15\nProwadzący: prof. dr hab. Trejnis Zenon; dr Chyrzyński Ryszard; dr hab. (prof. WAT) Szyłkowska Monika; dr Kościelecki Tomasz; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251010T133000
-DTEND:20251010T150500
-SUMMARY:ZŚN (ć)
-LOCATION:37/158
-DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Adamkiewicz Jakub
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251017T133000
 DTEND:20251017T150500
 SUMMARY:ZŚN (ć)
 LOCATION:0.7/16
-DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Adamkiewicz Jakub
+DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T133000
@@ -1198,35 +1191,35 @@ DTSTART:20251219T133000
 DTEND:20251219T150500
 SUMMARY:ZŚN (ć)
 LOCATION:255 S
-DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Adamkiewicz Jakub
+DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251010T160000
-DTEND:20251010T173500
+DTSTART:20250116T133000
+DTEND:20250116T150500
 SUMMARY:ZŚN (ć)
-LOCATION:37/158
-DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Adamkiewicz Jakub
+LOCATION:26/158
+DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T160000
 DTEND:20251017T173500
 SUMMARY:ZŚN (ć)
 LOCATION:0.7/16
-DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Adamkiewicz Jakub
+DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T160000
 DTEND:20251024T173500
 SUMMARY:ZŚN (ć)
 LOCATION:0.7/16
-DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Adamkiewicz Jakub
+DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T160000
 DTEND:20251114T173500
 SUMMARY:ZŚN (ć)
 LOCATION:0.23/16
-DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Adamkiewicz Jakub
+DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T160000
@@ -1241,6 +1234,13 @@ DTEND:20251219T173500
 SUMMARY:EkO (w)
 LOCATION:0.28/135
 DESCRIPTION:Ekonomika obronna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Kościelecki Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T160000
+DTEND:20250116T173500
+SUMMARY:ZŚN (ć)
+LOCATION:26/158
+DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T160000

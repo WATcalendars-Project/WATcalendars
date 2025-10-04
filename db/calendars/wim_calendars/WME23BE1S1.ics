@@ -32,6 +32,13 @@ LOCATION:
 DESCRIPTION:Podstawy optoelektroniki\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: prof. dr hab. inż. Zając Andrzej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251103T080000
+DTEND:20251103T093500
+SUMMARY:Prmi (L)
+LOCATION:
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Berczyński Robert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251110T080000
 DTEND:20251110T093500
 SUMMARY:I 
@@ -99,7 +106,7 @@ DTSTART:20251013T095000
 DTEND:20251013T112500
 SUMMARY:Prmi (L)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T095000
@@ -547,7 +554,7 @@ DTSTART:20251021T080000
 DTEND:20251021T093500
 SUMMARY:Prmi (L)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T080000
@@ -904,7 +911,7 @@ DTSTART:20251014T133000
 DTEND:20251014T150500
 SUMMARY:Prmi (L)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T133000
@@ -1373,7 +1380,7 @@ DTSTART:20251210T114000
 DTEND:20251210T131500
 SUMMARY:Prmi (L)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T114000
@@ -1425,18 +1432,11 @@ LOCATION:52/ 62
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Murawski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251001T133000
-DTEND:20251001T150500
-SUMMARY:Prmi (w)
-LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: mgr inż. Berczyński Robert
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251008T133000
 DTEND:20251008T150500
 SUMMARY:Prmi (w)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T133000
@@ -1478,7 +1478,7 @@ DTSTART:20251210T133000
 DTEND:20251210T150500
 SUMMARY:Prmi (L)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T133000
@@ -1737,14 +1737,14 @@ DTSTART:20251002T095000
 DTEND:20251002T112500
 SUMMARY:Prmi (w)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T095000
 DTEND:20251009T112500
-SUMMARY:Prmi (L)
+SUMMARY:Prmi (w)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T095000

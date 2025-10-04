@@ -186,13 +186,6 @@ LOCATION:37/ 54A
 DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Typiak Rafał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251215T095000
-DTEND:20251215T112500
-SUMMARY:Pm. (w)
-LOCATION:3/ 54
-DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251222T095000
 DTEND:20251222T112500
 SUMMARY:I 
@@ -326,13 +319,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 12/126
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250112T114000
-DTEND:20250112T131500
-SUMMARY:Pm. (w)
-LOCATION:42/ 54A
-DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250119T114000
 DTEND:20250119T131500
 SUMMARY:Pm. (ć)
@@ -352,6 +338,20 @@ DTEND:20250209T131500
 SUMMARY:Ssm. (Zp.(L./Ćw.)
 LOCATION:37/ 54A
 DESCRIPTION:Systemy sterowania maszynami\nRodzaj zajęć: (Zp.(L./Ćw.)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251006T133000
+DTEND:20251006T150500
+SUMMARY:Pm. (w)
+LOCATION:120/ 54
+DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251013T133000
+DTEND:20251013T150500
+SUMMARY:Pm. (w)
+LOCATION:116/ 54
+DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T133000
@@ -606,13 +606,6 @@ LOCATION:10/ 54A
 DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251202T080000
-DTEND:20251202T093500
-SUMMARY:Pm. (w)
-LOCATION:109/ 54
-DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251209T080000
 DTEND:20251209T093500
 SUMMARY:Mm. (L)
@@ -827,7 +820,7 @@ DTSTART:20251021T114000
 DTEND:20251021T131500
 SUMMARY:Pm. (w)
 LOCATION:109/ 54
-DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
+DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T114000
@@ -841,7 +834,7 @@ DTSTART:20251104T114000
 DTEND:20251104T131500
 SUMMARY:Pm. (w)
 LOCATION:109/ 54
-DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
+DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251111T114000
@@ -914,13 +907,6 @@ LOCATION:10/ 54A
 DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 4/16\nProwadzący: mgr inż. Spychała Maciej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250120T114000
-DTEND:20250120T131500
-SUMMARY:Pbm 
-LOCATION:10/ 54A
-DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 5/16\nProwadzący: mgr inż. Spychała Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250127T114000
 DTEND:20250127T131500
 SUMMARY:Pm. (L)
@@ -967,7 +953,7 @@ DTSTART:20251028T133000
 DTEND:20251028T150500
 SUMMARY:Pbm 
 LOCATION:116/ 54
-DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 6/16\nProwadzący: mgr inż. Spychała Maciej
+DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 5/16\nProwadzący: mgr inż. Spychała Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T133000
@@ -1051,7 +1037,7 @@ DTSTART:20250210T133000
 DTEND:20250210T150500
 SUMMARY:Pbm 
 LOCATION:10/ 54A
-DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 7/16\nProwadzący: mgr inż. Spychała Maciej
+DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 6/16\nProwadzący: mgr inż. Spychała Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250217T133000
@@ -1229,6 +1215,27 @@ LOCATION:55/ 62
 DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251015T080000
+DTEND:20251015T093500
+SUMMARY:Pbm 
+LOCATION:10/ 54A
+DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 7/16\nProwadzący: mgr inż. Spychała Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251022T080000
+DTEND:20251022T093500
+SUMMARY:MuW (L)
+LOCATION:14/ 54A
+DESCRIPTION:Modelowanie układów wieloczłonowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251029T080000
+DTEND:20251029T093500
+SUMMARY:Pbm 
+LOCATION:10/ 54A
+DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 8/16\nProwadzący: mgr inż. Spychała Maciej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251105T080000
 DTEND:20251105T093500
 SUMMARY:Es* (w)
@@ -1254,7 +1261,7 @@ DTSTART:20251126T080000
 DTEND:20251126T093500
 SUMMARY:MuW (L)
 LOCATION:14/ 54A
-DESCRIPTION:Modelowanie układów wieloczłonowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/17
+DESCRIPTION:Modelowanie układów wieloczłonowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T080000
@@ -1275,7 +1282,7 @@ DTSTART:20251217T080000
 DTEND:20251217T093500
 SUMMARY:MuW (L)
 LOCATION:14/ 54A
-DESCRIPTION:Modelowanie układów wieloczłonowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/17
+DESCRIPTION:Modelowanie układów wieloczłonowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T080000
@@ -1296,28 +1303,14 @@ DTSTART:20250107T080000
 DTEND:20250107T093500
 SUMMARY:Pbm 
 LOCATION:10/ 54A
-DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 8/16\nProwadzący: mgr inż. Spychała Maciej
+DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 9/16\nProwadzący: mgr inż. Spychała Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250114T080000
 DTEND:20250114T093500
 SUMMARY:MuW (L)
 LOCATION:14/ 54A
-DESCRIPTION:Modelowanie układów wieloczłonowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/17
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250121T080000
-DTEND:20250121T093500
-SUMMARY:MuW (L)
-LOCATION:14/ 54A
 DESCRIPTION:Modelowanie układów wieloczłonowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/17
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250128T080000
-DTEND:20250128T093500
-SUMMARY:Pbm 
-LOCATION:10/ 54A
-DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 9/16\nProwadzący: mgr inż. Spychała Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250218T080000
@@ -1332,6 +1325,27 @@ DTEND:20251001T112500
 SUMMARY:Pbm 
 LOCATION:42/ 54A
 DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 10/16\nProwadzący: mgr inż. Spychała Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251015T095000
+DTEND:20251015T112500
+SUMMARY:Pbm 
+LOCATION:10/ 54A
+DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 11/16\nProwadzący: mgr inż. Spychała Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251022T095000
+DTEND:20251022T112500
+SUMMARY:MuW (L)
+LOCATION:14/ 54A
+DESCRIPTION:Modelowanie układów wieloczłonowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251029T095000
+DTEND:20251029T112500
+SUMMARY:Pbm 
+LOCATION:10/ 54A
+DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 12/16\nProwadzący: mgr inż. Spychała Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T095000
@@ -1373,14 +1387,14 @@ DTSTART:20251210T095000
 DTEND:20251210T112500
 SUMMARY:MuW (L)
 LOCATION:14/ 54A
-DESCRIPTION:Modelowanie układów wieloczłonowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/17
+DESCRIPTION:Modelowanie układów wieloczłonowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T095000
 DTEND:20251217T112500
 SUMMARY:MuW (L)
 LOCATION:14/ 54A
-DESCRIPTION:Modelowanie układów wieloczłonowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/17
+DESCRIPTION:Modelowanie układów wieloczłonowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T095000
@@ -1408,13 +1422,6 @@ DTSTART:20250114T095000
 DTEND:20250114T112500
 SUMMARY:MuW (L)
 LOCATION:14/ 54A
-DESCRIPTION:Modelowanie układów wieloczłonowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/17
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250121T095000
-DTEND:20250121T112500
-SUMMARY:MuW (L)
-LOCATION:14/ 54A
 DESCRIPTION:Modelowanie układów wieloczłonowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/17
 END:VEVENT
 BEGIN:VEVENT
@@ -1439,11 +1446,39 @@ LOCATION:26/ 34
 DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251008T114000
+DTEND:20251008T131500
+SUMMARY:Pm. (w)
+LOCATION:55/ 62
+DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251105T114000
 DTEND:20251105T131500
 SUMMARY:Zsw. (w)
 LOCATION:26/ 34
 DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251112T114000
+DTEND:20251112T131500
+SUMMARY:WzPs (w)
+LOCATION:109/ 54
+DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr Fijałkowska Sylwia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T114000
+DTEND:20251119T131500
+SUMMARY:WzPs (ć)
+LOCATION:109/ 54
+DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Fijałkowska Sylwia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T114000
+DTEND:20251126T131500
+SUMMARY:WzPs (ć)
+LOCATION:3/ 54
+DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr Fijałkowska Sylwia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T114000
@@ -1472,20 +1507,6 @@ DTEND:20250107T131500
 SUMMARY:Zsw. (L)
 LOCATION:26/ 34
 DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr inż. Durejko Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251105T133000
-DTEND:20251105T150500
-SUMMARY:Pbm 
-LOCATION:10/ 54A
-DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 11/16\nProwadzący: mgr inż. Spychała Maciej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251112T133000
-DTEND:20251112T150500
-SUMMARY:Pbm 
-LOCATION:10/ 54A
-DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 12/16\nProwadzący: mgr inż. Spychała Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T133000
@@ -1674,18 +1695,11 @@ DTSTART:20251016T080000
 DTEND:20251016T093500
 SUMMARY:WzPs (w)
 LOCATION:2/ 23a
-DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr Fijałkowska Sylwia
+DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr Fijałkowska Sylwia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T080000
 DTEND:20251023T093500
-SUMMARY:WzPs (w)
-LOCATION:2/ 23a
-DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr Fijałkowska Sylwia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251030T080000
-DTEND:20251030T093500
 SUMMARY:WzPs (w)
 LOCATION:2/ 23a
 DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr Fijałkowska Sylwia
@@ -1723,7 +1737,7 @@ DTSTART:20251204T080000
 DTEND:20251204T093500
 SUMMARY:WzPs (ć)
 LOCATION:6/ 23a
-DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Fijałkowska Sylwia
+DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Fijałkowska Sylwia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T080000
@@ -1796,13 +1810,6 @@ LOCATION:09/ 54A
 DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 13/16\nProwadzący: mgr inż. Spychała Maciej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251009T095000
-DTEND:20251009T112500
-SUMMARY:Pbm 
-LOCATION:09/ 54A
-DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 14/16\nProwadzący: mgr inż. Spychała Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:WzPs (w)
@@ -1817,25 +1824,18 @@ LOCATION:116/ 54
 DESCRIPTION:Planowanie zakupów i użytkowania maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr hab. inż. Łopatka Marian
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251030T095000
-DTEND:20251030T112500
-SUMMARY:WzPs (ć)
-LOCATION:2/ 23a
-DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr Fijałkowska Sylwia
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251106T095000
 DTEND:20251106T112500
 SUMMARY:WzPs (ć)
 LOCATION:2/ 23a
-DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Fijałkowska Sylwia
+DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Fijałkowska Sylwia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T095000
 DTEND:20251113T112500
-SUMMARY:WzPs (ć)
-LOCATION:6/ 23a
-DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Fijałkowska Sylwia
+SUMMARY:Pbm 
+LOCATION:10/ 54A
+DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 14/16\nProwadzący: mgr inż. Spychała Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T095000
@@ -2058,7 +2058,7 @@ BEGIN:VEVENT
 DTSTART:20251023T133000
 DTEND:20251023T150500
 SUMMARY:Pbm 
-LOCATION:10/ 54A
+LOCATION:09/ 54A
 DESCRIPTION:Pbm\nRodzaj zajęć: -\nNumer zajęć: 16/16\nProwadzący: mgr inż. Spychała Maciej
 END:VEVENT
 BEGIN:VEVENT

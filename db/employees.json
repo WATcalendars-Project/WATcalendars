@@ -1652,6 +1652,11 @@
     },
     {
       "degree": "dr inż.",
+      "is_new": true,
+      "name": "Anna Czajka-Warowna [NEW]"
+    },
+    {
+      "degree": "dr inż.",
       "is_new": false,
       "name": "Anna Jancy"
     },
@@ -3782,6 +3787,11 @@
     },
     {
       "degree": "mgr",
+      "is_new": true,
+      "name": "Mateusz Lipka [NEW]"
+    },
+    {
+      "degree": "mgr",
       "is_new": false,
       "name": "Małgorzata Dragan"
     },
@@ -3972,8 +3982,8 @@
     },
     {
       "degree": "mgr",
-      "is_new": true,
-      "name": "Zofia Prokopek [NEW]"
+      "is_new": false,
+      "name": "Zofia Prokopek"
     },
     {
       "degree": "mgr",
@@ -4137,8 +4147,8 @@
     },
     {
       "degree": "mgr inż.",
-      "is_new": true,
-      "name": "Dariusz Ryczkowski [NEW]"
+      "is_new": false,
+      "name": "Dariusz Ryczkowski"
     },
     {
       "degree": "mgr inż.",
@@ -4549,6 +4559,11 @@
       "degree": "mgr inż.",
       "is_new": false,
       "name": "Mariusz Janczewski"
+    },
+    {
+      "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Mariusz Mścichowski [NEW]"
     },
     {
       "degree": "mgr inż.",
@@ -5477,10 +5492,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-10-03T01:25:18.456974",
-    "last_updated_readable": "2025-10-03 01:25:18",
-    "new_employees_count": 2,
+    "last_updated": "2025-10-04T01:23:08.029178",
+    "last_updated_readable": "2025-10-04 01:23:08",
+    "new_employees_count": 3,
     "scraper_version": "1.0",
-    "total_employees": 1095
+    "total_employees": 1098
   }
 }

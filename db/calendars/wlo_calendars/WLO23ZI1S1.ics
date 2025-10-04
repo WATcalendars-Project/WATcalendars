@@ -928,13 +928,6 @@ LOCATION:5.17/135
 DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Wojciechowski Zdzislaw
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250108T133000
-DTEND:20250108T150500
-SUMMARY:PG (ć)
-LOCATION:31/158
-DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr hab. Kamiński Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250115T133000
 DTEND:20250115T150500
 SUMMARY:Adz (L)
@@ -1219,7 +1212,7 @@ DTSTART:20251114T095000
 DTEND:20251114T112500
 SUMMARY:PG (ć)
 LOCATION:1.15/16
-DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr hab. Kamiński Tomasz
+DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T095000
@@ -1268,7 +1261,7 @@ DTSTART:20251114T114000
 DTEND:20251114T131500
 SUMMARY:PG (ć)
 LOCATION:1.15/16
-DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr hab. Kamiński Tomasz
+DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T114000
@@ -1297,6 +1290,13 @@ DTEND:20250109T131500
 SUMMARY:PGS (L)
 LOCATION:4.17a/135
 DESCRIPTION:Podstawy systemów GIS\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: dr inż. Pokorski Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T114000
+DTEND:20250116T131500
+SUMMARY:PG (ć)
+LOCATION:1.15/16
+DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T133000
