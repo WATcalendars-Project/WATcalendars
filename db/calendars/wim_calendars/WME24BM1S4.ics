@@ -466,13 +466,6 @@ LOCATION:9/ 62
 DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251027T160000
-DTEND:20251027T173500
-SUMMARY:Aud (w)
-LOCATION:9/ 62
-DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Sybilski Kamil
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251110T160000
 DTEND:20251110T173500
 SUMMARY:I 
@@ -564,11 +557,11 @@ LOCATION:57/ 62
 DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251027T175000
-DTEND:20251027T192500
+DTSTART:20251103T175000
+DTEND:20251103T192500
 SUMMARY:Aud (w)
-LOCATION:9/ 62
-DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Sybilski Kamil
+LOCATION:57/ 62
+DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251110T175000
@@ -620,8 +613,8 @@ LOCATION:57/ 62
 DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251027T194000
-DTEND:20251027T211500
+DTSTART:20251103T194000
+DTEND:20251103T211500
 SUMMARY:Aud (L)
 LOCATION:57/ 62
 DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Sybilski Kamil
@@ -1815,6 +1808,13 @@ DTEND:20251016T112500
 SUMMARY:URiPSR 
 LOCATION:53/ 62
 DESCRIPTION:URiPSR\nRodzaj zajęć: -\nNumer zajęć: 25/35\nProwadzący: dr inż. Sybilski Kamil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251023T095000
+DTEND:20251023T112500
+SUMMARY:Aud (w)
+LOCATION:8/ 62
+DESCRIPTION:Adaptacja urządzeń do użytkowników z dysfunkcjami\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T095000

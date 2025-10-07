@@ -685,9 +685,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T095000
 DTEND:20251007T112500
-SUMMARY:BKiF (w)
+SUMMARY:Mt 
 LOCATION:8/ 62
-DESCRIPTION:Biomateriały konstrukcyjne i funkcjonalne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. Bogusz Paweł
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 1/13\nProwadzący: dr inż. Stankiewicz Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T095000
@@ -933,13 +933,6 @@ DTEND:20250217T131500
 SUMMARY:Par (Zp.)
 LOCATION:2/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251007T133000
-DTEND:20251007T150500
-SUMMARY:Mt 
-LOCATION:54/ 62
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 1/13\nProwadzący: dr inż. Stankiewicz Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T133000
@@ -1829,6 +1822,13 @@ DTEND:20251009T093500
 SUMMARY:Wdmsr (w)
 LOCATION:
 DESCRIPTION:Wstęp do modelowania sprzętu rehabilitacyjnego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251023T080000
+DTEND:20251023T093500
+SUMMARY:BKiF (w)
+LOCATION:54/ 62
+DESCRIPTION:Biomateriały konstrukcyjne i funkcjonalne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. Bogusz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T080000

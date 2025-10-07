@@ -410,13 +410,6 @@ LOCATION:315 S
 DESCRIPTION:Psychologia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251202T114000
-DTEND:20251202T131500
-SUMMARY:WdI (w)
-LOCATION:4S; 25Px; 3S; 25PX; 2S; 25PX; 1S; 1 Stm
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Staruch Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251209T114000
 DTEND:20251209T131500
 SUMMARY:Oin (w)
@@ -583,13 +576,6 @@ DTEND:20251210T112500
 SUMMARY:Wsp (w)
 LOCATION:51/62
 DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Stawarz Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250107T095000
-DTEND:20250107T112500
-SUMMARY:WdI (w)
-LOCATION:315 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Staruch Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T114000
@@ -767,27 +753,6 @@ LOCATION:0.7/16
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250114T175000
-DTEND:20250114T192500
-SUMMARY:WdI (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. Staruch Marcin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250121T175000
-DTEND:20250121T192500
-SUMMARY:WdI (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr inż. Staruch Marcin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250128T175000
-DTEND:20250128T192500
-SUMMARY:WdI (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr inż. Staruch Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251119T194000
 DTEND:20251119T211500
 SUMMARY:Psy (w)
@@ -800,27 +765,6 @@ DTEND:20251203T211500
 SUMMARY:Psy (w)
 LOCATION:4S; 25Px; 3S; 25PX; 2S; 25PX; 1S; 1 Ka
 DESCRIPTION:Psychologia\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr Karczewski Edward
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250114T194000
-DTEND:20250114T211500
-SUMMARY:WdI (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Staruch Marcin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250121T194000
-DTEND:20250121T211500
-SUMMARY:WdI (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Staruch Marcin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250128T194000
-DTEND:20250128T211500
-SUMMARY:WdI (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Staruch Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T080000
@@ -858,13 +802,6 @@ LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251127T095000
-DTEND:20251127T112500
-SUMMARY:WdI (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr inż. Staruch Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251211T095000
 DTEND:20251211T112500
 SUMMARY:Wsp (w)
@@ -886,25 +823,11 @@ LOCATION:0.8/16
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251127T114000
-DTEND:20251127T131500
-SUMMARY:WdI (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr inż. Staruch Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251204T114000
 DTEND:20251204T131500
 SUMMARY:Ek (w)
 LOCATION:51/62
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T114000
-DTEND:20251211T131500
-SUMMARY:WdI (w)
-LOCATION:51/62
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Staruch Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T114000
@@ -1075,13 +998,6 @@ LOCATION:231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251016T175000
-DTEND:20251016T192500
-SUMMARY:WdI (w)
-LOCATION:0.24/135
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Staruch Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251023T175000
 DTEND:20251023T192500
 SUMMARY:M (w)
@@ -1129,13 +1045,6 @@ DTEND:20250115T192500
 SUMMARY:Ek (w)
 LOCATION:301/S
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251016T194000
-DTEND:20251016T211500
-SUMMARY:WdI (w)
-LOCATION:0.24/135
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Staruch Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T194000
@@ -1234,20 +1143,6 @@ DTEND:20251205T112500
 SUMMARY:Oin (w)
 LOCATION:1.9/16; 1.10/16
 DESCRIPTION:Ochrona własności intelektualnej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Karczewski Edward
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251212T095000
-DTEND:20251212T112500
-SUMMARY:WdI (w)
-LOCATION:315 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Staruch Marcin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251219T095000
-DTEND:20251219T112500
-SUMMARY:WdI (w)
-LOCATION:315 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Staruch Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T095000

@@ -1250,11 +1250,18 @@ LOCATION:0.23/16
 DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251008T175000
+DTEND:20251008T192500
+SUMMARY:LZ (w)
+LOCATION:aula/135
+DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: płk dr inż. Zelkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251015T175000
 DTEND:20251015T192500
 SUMMARY:LZ (w)
 LOCATION:aula/135
-DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: płk dr inż. Zelkowski Jarosław
+DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T080000
@@ -1703,13 +1710,6 @@ DTEND:20251023T173500
 SUMMARY:ZINŻ (w)
 LOCATION:6W
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr Jurzysta Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251030T160000
-DTEND:20251030T173500
-SUMMARY:LZ (w)
-LOCATION:aula/135
-DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T160000
