@@ -627,13 +627,6 @@ LOCATION:aula/135
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Nyszk Łukasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251202T114000
-DTEND:20251202T131500
-SUMMARY:M1 (ć)
-LOCATION:0.19/135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/19
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251209T114000
 DTEND:20251209T131500
 SUMMARY:PZiP (w)
@@ -996,6 +989,13 @@ DTEND:20251022T112500
 SUMMARY:WdI (L)
 LOCATION:0.7/16
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Konarzewski Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251029T095000
+DTEND:20251029T112500
+SUMMARY:M1 (ć)
+LOCATION:
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T095000

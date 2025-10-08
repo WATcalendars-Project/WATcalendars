@@ -326,6 +326,13 @@ LOCATION:1.27/135
 DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250120T114000
+DTEND:20250120T131500
+SUMMARY:PODST. 
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 9/21\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; prof. dr hab. Kościelecki Lech; mgr Dąbrowska - Świder Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250127T114000
 DTEND:20250127T131500
 SUMMARY:Lg (ć)
@@ -358,7 +365,7 @@ DTSTART:20251104T133000
 DTEND:20251104T150500
 SUMMARY:PODST. 
 LOCATION:25AX; 1S; 25AX; 4S; 25AX; 3S; 25AX; 2S; 1 Trz
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 9/21\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr Stawarz Paweł; dr hab. Wereda Wioletta; dr Kowalski Wawrzyniec; prof. dr hab. Kościelecki Lech; dr Skulska Joanna
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 10/21\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr Stawarz Paweł; dr hab. Wereda Wioletta; dr Kowalski Wawrzyniec; prof. dr hab. Kościelecki Lech; dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T133000
@@ -429,13 +436,6 @@ DTEND:20251202T173500
 SUMMARY:SYS. 
 LOCATION:1.10/16; 1.9/16
 DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 5/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; mgr Dąbrowska - Świder Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251209T160000
-DTEND:20251209T173500
-SUMMARY:PODST. 
-LOCATION:5.27/135
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 10/21\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; prof. dr hab. Kościelecki Lech; mgr Dąbrowska - Świder Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T160000
@@ -935,6 +935,13 @@ LOCATION:25AX; 1S; 25AX; 4S; 25AX; 3S; 25AX; 2S; 1 Trz
 DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 19/21\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr Stawarz Paweł; dr hab. Wereda Wioletta; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251016T114000
+DTEND:20251016T131500
+SUMMARY:Org. 
+LOCATION:1.15/16
+DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 13/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr hab. Wereda Wioletta; mgr Dąbrowska - Świder Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251113T114000
 DTEND:20251113T131500
 SUMMARY:W 
@@ -989,6 +996,13 @@ DTEND:20251009T150500
 SUMMARY:W 
 LOCATION:25AX; 1S; 25AX; 4S; 25AX; 3S; 25AX; 2S; 1 Ko
 DESCRIPTION:W\nRodzaj zajęć: -\nNumer zajęć: 17/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Skulska Joanna; dr hab. Wereda Wioletta; prof. dr hab. Kościelecki Lech; dr Karczewski Edward; dr Stawarz Paweł; dr Kowalski Wawrzyniec; mgr Dąbrowska - Świder Małgorzata; dr inż. Pokorski Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251016T133000
+DTEND:20251016T150500
+SUMMARY:Org. 
+LOCATION:1.15/16
+DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 14/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr hab. Wereda Wioletta; mgr Dąbrowska - Świder Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
@@ -1163,14 +1177,7 @@ DTSTART:20251023T175000
 DTEND:20251023T192500
 SUMMARY:Org. 
 LOCATION:9/158
-DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 13/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr hab. Wereda Wioletta; mgr Dąbrowska - Świder Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251030T175000
-DTEND:20251030T192500
-SUMMARY:Org. 
-LOCATION:9/158
-DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 14/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr hab. Wereda Wioletta; mgr Dąbrowska - Świder Małgorzata
+DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 15/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr hab. Wereda Wioletta; mgr Dąbrowska - Świder Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T175000
@@ -1212,7 +1219,7 @@ DTSTART:20250129T175000
 DTEND:20250129T192500
 SUMMARY:Org. 
 LOCATION:9/158
-DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 15/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr hab. Wereda Wioletta; mgr Dąbrowska - Świder Małgorzata
+DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 16/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr hab. Wereda Wioletta; mgr Dąbrowska - Świder Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T194000
@@ -1226,21 +1233,7 @@ DTSTART:20251023T194000
 DTEND:20251023T211500
 SUMMARY:Org. 
 LOCATION:9/158
-DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 16/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr hab. Wereda Wioletta; mgr Dąbrowska - Świder Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251030T194000
-DTEND:20251030T211500
-SUMMARY:Org. 
-LOCATION:9/158
 DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 17/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr hab. Wereda Wioletta; mgr Dąbrowska - Świder Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251106T194000
-DTEND:20251106T211500
-SUMMARY:Org. 
-LOCATION:9/158
-DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 18/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr hab. Wereda Wioletta; mgr Dąbrowska - Świder Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T194000
@@ -1268,7 +1261,7 @@ DTSTART:20250129T194000
 DTEND:20250129T211500
 SUMMARY:Org. 
 LOCATION:9/158
-DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 19/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr hab. Wereda Wioletta; mgr Dąbrowska - Świder Małgorzata
+DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 18/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr hab. Wereda Wioletta; mgr Dąbrowska - Świder Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T095000
@@ -1304,6 +1297,20 @@ DTEND:20251219T112500
 SUMMARY:Pe. (w)
 LOCATION:
 DESCRIPTION:Podstawy ekonomii\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: prof. dr hab. Kościelecki Lech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251017T114000
+DTEND:20251017T131500
+SUMMARY:Org. 
+LOCATION:0.22/16
+DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 19/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr hab. Wereda Wioletta; mgr Dąbrowska - Świder Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251024T114000
+DTEND:20251024T131500
+SUMMARY:Org. 
+LOCATION:0.23/16
+DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 20/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr hab. Wereda Wioletta; mgr Dąbrowska - Świder Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T114000
@@ -1493,13 +1500,6 @@ DTEND:20251024T192500
 SUMMARY:Pi (w)
 LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Podstawy informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr inż. Pokorski Grzegorz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251107T175000
-DTEND:20251107T192500
-SUMMARY:Org. 
-LOCATION:9/158
-DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 20/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr hab. Wereda Wioletta; mgr Dąbrowska - Świder Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T175000

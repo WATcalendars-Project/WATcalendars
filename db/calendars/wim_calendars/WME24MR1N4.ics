@@ -314,9 +314,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T114000
 DTEND:20251018T131500
-SUMMARY:NMoM (L)
+SUMMARY:Pum. (L)
 LOCATION:53/ 62
-DESCRIPTION:Numerical modelling of materials\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T114000
@@ -358,7 +358,7 @@ DTSTART:20251129T114000
 DTEND:20251129T131500
 SUMMARY:NMoM (L)
 LOCATION:53/ 62
-DESCRIPTION:Numerical modelling of materials\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
+DESCRIPTION:Numerical modelling of materials\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T114000
@@ -372,14 +372,14 @@ DTSTART:20251213T114000
 DTEND:20251213T131500
 SUMMARY:NMoM (L)
 LOCATION:53/ 62
-DESCRIPTION:Numerical modelling of materials\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
+DESCRIPTION:Numerical modelling of materials\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T114000
 DTEND:20251220T131500
 SUMMARY:NMoM (L)
 LOCATION:53/ 62
-DESCRIPTION:Numerical modelling of materials\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6
+DESCRIPTION:Numerical modelling of materials\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251227T114000
@@ -463,7 +463,7 @@ DTSTART:20251018T133000
 DTEND:20251018T150500
 SUMMARY:Pum. (L)
 LOCATION:53/ 62
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T133000
@@ -608,9 +608,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T160000
 DTEND:20251018T173500
-SUMMARY:Pum. (L)
-LOCATION:53/ 62
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9
+SUMMARY:Zsw. (w)
+LOCATION:11/ 34
+DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T160000
@@ -757,7 +757,7 @@ DTSTART:20251018T175000
 DTEND:20251018T192500
 SUMMARY:Zsw. (w)
 LOCATION:11/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T175000
@@ -844,6 +844,13 @@ LOCATION:14/ 54A
 DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/14
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250117T175000
+DTEND:20250117T192500
+SUMMARY:Pm. (ć)
+LOCATION:55/ 62
+DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250124T175000
 DTEND:20250124T192500
 SUMMARY:Mm. (L)
@@ -884,13 +891,6 @@ DTEND:20251011T211500
 SUMMARY:Pum. (L)
 LOCATION:53/ 62
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251018T194000
-DTEND:20251018T211500
-SUMMARY:Zsw. (w)
-LOCATION:11/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T194000
@@ -991,6 +991,13 @@ LOCATION:14/ 54A
 DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/14
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250131T194000
+DTEND:20250131T211500
+SUMMARY:NMoM (L)
+LOCATION:53/ 62
+DESCRIPTION:Numerical modelling of materials\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250207T194000
 DTEND:20250207T211500
 SUMMARY:I 
@@ -1070,9 +1077,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251130T080000
 DTEND:20251130T093500
-SUMMARY:Pm. (ć)
-LOCATION:55/ 62
-DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
+SUMMARY:Mm. (L)
+LOCATION:10/ 54A
+DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T080000
@@ -1219,7 +1226,7 @@ DTSTART:20251130T095000
 DTEND:20251130T112500
 SUMMARY:Mm. (L)
 LOCATION:10/ 54A
-DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14
+DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T095000
@@ -1282,7 +1289,7 @@ DTSTART:20250201T095000
 DTEND:20250201T112500
 SUMMARY:Mm. (L)
 LOCATION:14/ 54A
-DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/14
+DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250208T095000
@@ -1364,9 +1371,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251130T114000
 DTEND:20251130T131500
-SUMMARY:Mm. (L)
-LOCATION:10/ 54A
-DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14
+SUMMARY:Mm. (ć)
+LOCATION:09/ 54A
+DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T114000
@@ -1387,7 +1394,7 @@ DTSTART:20251221T114000
 DTEND:20251221T131500
 SUMMARY:Mm. (ć)
 LOCATION:09/ 54A
-DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
+DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251228T114000
@@ -1490,9 +1497,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251130T133000
 DTEND:20251130T150500
-SUMMARY:Mm. (ć)
-LOCATION:09/ 54A
-DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
+SUMMARY:Zsw. (ć)
+LOCATION:26/ 34
+DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T133000
@@ -1588,13 +1595,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T160000
 DTEND:20251123T173500
-SUMMARY:Zsw. (ć)
-LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Durejko Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251130T160000
-DTEND:20251130T173500
 SUMMARY:Zsw. (ć)
 LOCATION:26/ 34
 DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Durejko Tomasz

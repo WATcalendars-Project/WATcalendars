@@ -300,9 +300,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T114000
 DTEND:20251103T131500
-SUMMARY:Uh (w)
+SUMMARY:Mfd (ć)
 LOCATION:42/ 54A
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251110T114000
@@ -344,7 +344,7 @@ DTSTART:20251215T114000
 DTEND:20251215T131500
 SUMMARY:Mfd (ć)
 LOCATION:09/ 54A
-DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5
+DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T114000
@@ -438,13 +438,6 @@ LOCATION:15/ 23a
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251103T133000
-DTEND:20251103T150500
-SUMMARY:Mfd (w)
-LOCATION:09/ 54A
-DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr inż. Muszyński Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251110T133000
 DTEND:20251110T150500
 SUMMARY:I 
@@ -456,7 +449,14 @@ DTSTART:20251117T133000
 DTEND:20251117T150500
 SUMMARY:Mfd (w)
 LOCATION:09/ 54A
-DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr inż. Muszyński Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251124T133000
+DTEND:20251124T150500
+SUMMARY:Uh (w)
+LOCATION:09/ 54A
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T133000
@@ -767,13 +767,6 @@ LOCATION:09/ 54A
 DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T080000
-DTEND:20251104T093500
-SUMMARY:Uh (w)
-LOCATION:09/ 54A
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Muszyński Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251111T080000
 DTEND:20251111T093500
 SUMMARY:I 
@@ -792,14 +785,14 @@ DTSTART:20251125T080000
 DTEND:20251125T093500
 SUMMARY:Mfd (w)
 LOCATION:09/ 54A
-DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T080000
 DTEND:20251202T093500
 SUMMARY:Mfd (w)
 LOCATION:09/ 54A
-DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T080000
@@ -807,6 +800,13 @@ DTEND:20251209T093500
 SUMMARY:Pkm2 (L)
 LOCATION:120/ 54; 13/ 54
 DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251216T080000
+DTEND:20251216T093500
+SUMMARY:Uh (w)
+LOCATION:01/ 54A
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T080000
@@ -893,13 +893,6 @@ LOCATION:120/ 54; 9/ 54
 DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T095000
-DTEND:20251104T112500
-SUMMARY:Mfd (w)
-LOCATION:09/ 54A
-DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr inż. Muszyński Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251111T095000
 DTEND:20251111T112500
 SUMMARY:I 
@@ -923,16 +916,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T095000
 DTEND:20251202T112500
-SUMMARY:Mfd (ć)
+SUMMARY:Mfd (w)
 LOCATION:09/ 54A
-DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
+DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
 DTEND:20251209T112500
 SUMMARY:Mfd (w)
 LOCATION:09/ 54A
-DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T095000
@@ -1940,7 +1933,7 @@ DTSTART:20251029T133000
 DTEND:20251029T150500
 SUMMARY:Mfd (w)
 LOCATION:09/ 54A
-DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T133000
@@ -1959,9 +1952,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T133000
 DTEND:20251119T150500
-SUMMARY:Mfd (ć)
+SUMMARY:Mfd (w)
 LOCATION:09/ 54A
-DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
+DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T133000
@@ -2270,6 +2263,13 @@ DTEND:20251120T093500
 SUMMARY:Par (ć)
 LOCATION:2/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T080000
+DTEND:20251127T093500
+SUMMARY:Mfd (w)
+LOCATION:09/ 54A
+DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T080000
@@ -2633,14 +2633,14 @@ DTSTART:20251009T133000
 DTEND:20251009T150500
 SUMMARY:Mfd (w)
 LOCATION:09/ 54A
-DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T133000
 DTEND:20251016T150500
-SUMMARY:Mfd (w)
+SUMMARY:Mfd (ć)
 LOCATION:09/ 54A
-DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
@@ -4211,6 +4211,41 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 112/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251108T114000
+DTEND:20251108T131500
+SUMMARY:XFiz2 (w)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T114000
+DTEND:20251115T131500
+SUMMARY:XFiz2 (w)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T114000
+DTEND:20251206T131500
+SUMMARY:XFiz2 (w)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T114000
+DTEND:20251213T131500
+SUMMARY:XFiz2 (w)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T114000
+DTEND:20251220T131500
+SUMMARY:XFiz2 (w)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251227T114000
 DTEND:20251227T131500
 SUMMARY:I 
@@ -4265,6 +4300,34 @@ DTEND:20251101T150500
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 115/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251108T133000
+DTEND:20251108T150500
+SUMMARY:XFiz2 (w)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T133000
+DTEND:20251115T150500
+SUMMARY:XFiz2 (w)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T133000
+DTEND:20251206T150500
+SUMMARY:XFiz2 (w)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T133000
+DTEND:20251213T150500
+SUMMARY:XFiz2 (w)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251227T133000
@@ -4484,6 +4547,27 @@ LOCATION:
 DESCRIPTION:SEpop.\nRodzaj zajęć: -\nNumer zajęć: 31/31
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251123T080000
+DTEND:20251123T093500
+SUMMARY:XFiz2 (ć)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251207T080000
+DTEND:20251207T093500
+SUMMARY:XFiz2 (ć)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251221T080000
+DTEND:20251221T093500
+SUMMARY:XFiz2 (ć)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251228T080000
 DTEND:20251228T093500
 SUMMARY:I 
@@ -4512,6 +4596,27 @@ LOCATION:
 DESCRIPTION:Sz.-CSz\nRodzaj zajęć: -\nNumer zajęć: 128/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251123T095000
+DTEND:20251123T112500
+SUMMARY:XFiz2 (ć)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251207T095000
+DTEND:20251207T112500
+SUMMARY:XFiz2 (ć)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251221T095000
+DTEND:20251221T112500
+SUMMARY:XFiz2 (ć)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251228T095000
 DTEND:20251228T112500
 SUMMARY:I 
@@ -4526,6 +4631,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 130/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250111T095000
+DTEND:20250111T112500
+SUMMARY:XFiz2 (ć)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250201T095000
 DTEND:20250201T112500
 SUMMARY:Sz.-CSz 
@@ -4538,6 +4650,27 @@ DTEND:20250208T112500
 SUMMARY:Sz.-CSz 
 LOCATION:
 DESCRIPTION:Sz.-CSz\nRodzaj zajęć: -\nNumer zajęć: 130/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251123T114000
+DTEND:20251123T131500
+SUMMARY:XFiz2 (L)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251207T114000
+DTEND:20251207T131500
+SUMMARY:XFiz2 (L)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251221T114000
+DTEND:20251221T131500
+SUMMARY:XFiz2 (L)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251228T114000
@@ -4566,6 +4699,20 @@ DTEND:20250208T131500
 SUMMARY:Sz.-CSz 
 LOCATION:
 DESCRIPTION:Sz.-CSz\nRodzaj zajęć: -\nNumer zajęć: 132/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251123T133000
+DTEND:20251123T150500
+SUMMARY:XFiz2 (L)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251207T133000
+DTEND:20251207T150500
+SUMMARY:XFiz2 (L)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251228T133000
