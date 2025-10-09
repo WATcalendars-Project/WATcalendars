@@ -67,13 +67,6 @@ LOCATION:2/22
 DESCRIPTION:Etyka w zarządzaniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Kasperski Marian
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251220T080000
-DTEND:20251220T093500
-SUMMARY:ZPr (ć)
-LOCATION:2/22
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250110T080000
 DTEND:20250110T093500
 SUMMARY:TZ (ć)
@@ -85,7 +78,7 @@ DTSTART:20250913T095000
 DTEND:20250913T112500
 SUMMARY:M 
 LOCATION:5.21/135
-DESCRIPTION:M\nRodzaj zajęć: -\nNumer zajęć: 1/1\nProwadzący: dr Kasperski Marian; mgr Kurzela Anna
+DESCRIPTION:M\nRodzaj zajęć: -\nNumer zajęć: 1/2\nProwadzący: dr Kasperski Marian; mgr Kurzela Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250920T095000
@@ -385,8 +378,8 @@ BEGIN:VEVENT
 DTSTART:20251122T160000
 DTEND:20251122T173500
 SUMMARY:ZPr (ć)
-LOCATION:
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6
+LOCATION:2/22
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T160000
@@ -412,16 +405,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T160000
 DTEND:20250110T173500
-SUMMARY:Rkg (ć)
+SUMMARY:Rkg (L)
 LOCATION:1.9/16
-DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Gontarek Izabela
+DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr Gontarek Izabela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T160000
 DTEND:20250124T173500
 SUMMARY:ZPr (ć)
 LOCATION:2/22
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T160000
@@ -463,21 +456,21 @@ DTSTART:20251115T175000
 DTEND:20251115T192500
 SUMMARY:ZPr (ć)
 LOCATION:2/22
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T175000
 DTEND:20251122T192500
 SUMMARY:ZPr (ć)
-LOCATION:
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6
+LOCATION:2/22
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T175000
 DTEND:20251206T192500
-SUMMARY:Rkg (ć)
+SUMMARY:Rkg (L)
 LOCATION:0.23/16
-DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Gontarek Izabela
+DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr Gontarek Izabela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T175000
@@ -489,16 +482,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T175000
 DTEND:20250110T192500
-SUMMARY:Rkg (ć)
+SUMMARY:Rkg (L)
 LOCATION:1.9/16
-DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Gontarek Izabela
+DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr Gontarek Izabela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T175000
 DTEND:20250124T192500
 SUMMARY:ZPr (ć)
 LOCATION:2/22
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T194000
@@ -540,21 +533,14 @@ DTSTART:20251207T080000
 DTEND:20251207T093500
 SUMMARY:Nmb (ć)
 LOCATION:0.23/16
-DESCRIPTION:Nowe modele biznesowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Sołek-Borowska Celina
+DESCRIPTION:Nowe modele biznesowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Sołek-Borowska Celina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251214T080000
 DTEND:20251214T093500
 SUMMARY:Nmb (ć)
 LOCATION:1.10/16
-DESCRIPTION:Nowe modele biznesowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Sołek-Borowska Celina
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251221T080000
-DTEND:20251221T093500
-SUMMARY:Nmb (ć)
-LOCATION:
-DESCRIPTION:Nowe modele biznesowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Sołek-Borowska Celina
+DESCRIPTION:Nowe modele biznesowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Sołek-Borowska Celina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250111T080000
@@ -734,16 +720,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T133000
 DTEND:20251116T150500
-SUMMARY:Rkg (ć)
+SUMMARY:Rkg (L)
 LOCATION:0.23/16
-DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Gontarek Izabela
+DESCRIPTION:Rynki kapitałowe i operacje giełdowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr Gontarek Izabela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T133000
 DTEND:20251123T150500
 SUMMARY:Nmb (ć)
 LOCATION:0.22/16
-DESCRIPTION:Nowe modele biznesowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Sołek-Borowska Celina
+DESCRIPTION:Nowe modele biznesowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Sołek-Borowska Celina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T133000
@@ -771,7 +757,7 @@ DTSTART:20250111T133000
 DTEND:20250111T150500
 SUMMARY:Nmb (ć)
 LOCATION:1.27/135
-DESCRIPTION:Nowe modele biznesowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr Sołek-Borowska Celina
+DESCRIPTION:Nowe modele biznesowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Sołek-Borowska Celina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251005T160000
@@ -821,5 +807,12 @@ DTEND:20250111T173500
 SUMMARY:Jo (ć)
 LOCATION:134 K
 DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/16\nProwadzący: mgr Zeneli Andi
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251012T175000
+DTEND:20251012T192500
+SUMMARY:M 
+LOCATION:0.22/16
+DESCRIPTION:M\nRodzaj zajęć: -\nNumer zajęć: 2/2\nProwadzący: dr Kasperski Marian; mgr Kurzela Anna
 END:VEVENT
 END:VCALENDAR

@@ -298,6 +298,13 @@ LOCATION:315 S
 DESCRIPTION:Psychologia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251202T114000
+DTEND:20251202T131500
+SUMMARY:WdI (w)
+LOCATION:301/S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Konarzewski Marcin
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251209T114000
 DTEND:20251209T131500
 SUMMARY:Oin (w)
@@ -438,6 +445,13 @@ LOCATION:315 S
 DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250128T080000
+DTEND:20250128T093500
+SUMMARY:WdI (ć)
+LOCATION:53/62
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr inż. Konarzewski Marcin
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251001T095000
 DTEND:20251001T112500
 SUMMARY:NoPiP (w)
@@ -457,6 +471,13 @@ DTEND:20251210T112500
 SUMMARY:Wsp (w)
 LOCATION:51/62
 DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Stawarz Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250128T095000
+DTEND:20250128T112500
+SUMMARY:WdI (ć)
+LOCATION:53/62
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T114000
@@ -485,6 +506,13 @@ DTEND:20251210T131500
 SUMMARY:Wsp (w)
 LOCATION:51/62
 DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Stawarz Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250128T114000
+DTEND:20250128T131500
+SUMMARY:WdI (ć)
+LOCATION:53/62
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T133000
@@ -550,11 +578,32 @@ LOCATION:31/158
 DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250114T160000
+DTEND:20250114T173500
+SUMMARY:WdI (ć)
+LOCATION:53/62
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr inż. Konarzewski Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250121T160000
+DTEND:20250121T173500
+SUMMARY:WdI (ć)
+LOCATION:53/62
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr inż. Konarzewski Marcin
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251022T175000
 DTEND:20251022T192500
 SUMMARY:M (w)
 LOCATION:4S; 25Px; 3S; 25PX; 2S; 25PX; 1S
 DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr hab. inż. Ćwik Bogdan
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T175000
+DTEND:20251105T192500
+SUMMARY:WdI (ć)
+LOCATION:53/62
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T175000
@@ -590,6 +639,27 @@ DTEND:20251217T192500
 SUMMARY:Psy (ć)
 LOCATION:31/158
 DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Karczewski Edward
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250114T175000
+DTEND:20250114T192500
+SUMMARY:WdI (ć)
+LOCATION:53/62
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr inż. Konarzewski Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250121T175000
+DTEND:20250121T192500
+SUMMARY:WdI (ć)
+LOCATION:53/62
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr inż. Konarzewski Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T194000
+DTEND:20251105T211500
+SUMMARY:WdI (ć)
+LOCATION:53/62
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T194000
@@ -949,11 +1019,39 @@ LOCATION:51/62
 DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251107T080000
+DTEND:20251107T093500
+SUMMARY:WdI (w)
+LOCATION:301/S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Konarzewski Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251114T080000
+DTEND:20251114T093500
+SUMMARY:WdI (w)
+LOCATION:301/S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Konarzewski Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251205T080000
+DTEND:20251205T093500
+SUMMARY:WdI (w)
+LOCATION:301/S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Konarzewski Marcin
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251219T080000
 DTEND:20251219T093500
 SUMMARY:M (w)
 LOCATION:315 S
 DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr hab. inż. Ćwik Bogdan
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T080000
+DTEND:20250109T093500
+SUMMARY:WdI (w)
+LOCATION:301/S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250116T080000
@@ -1003,6 +1101,20 @@ DTEND:20251205T112500
 SUMMARY:Oin (w)
 LOCATION:1.9/16; 1.10/16
 DESCRIPTION:Ochrona własności intelektualnej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Karczewski Edward
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T095000
+DTEND:20251212T112500
+SUMMARY:WdI (w)
+LOCATION:301/S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Konarzewski Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251219T095000
+DTEND:20251219T112500
+SUMMARY:WdI (w)
+LOCATION:301/S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T095000

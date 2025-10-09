@@ -202,16 +202,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T114000
 DTEND:20250110T131500
-SUMMARY:Mi (ć)
+SUMMARY:Pz (ć)
 LOCATION:9/158
-DESCRIPTION:Mikroekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr hab. Przychocka Iwona
+DESCRIPTION:Podstawy zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T114000
 DTEND:20250124T131500
 SUMMARY:Mi (ć)
 LOCATION:9/158
-DESCRIPTION:Mikroekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr hab. Przychocka Iwona
+DESCRIPTION:Mikroekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T114000
@@ -330,7 +330,7 @@ DTSTART:20251115T160000
 DTEND:20251115T173500
 SUMMARY:Mi (ć)
 LOCATION:0.22/16
-DESCRIPTION:Mikroekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr hab. Przychocka Iwona
+DESCRIPTION:Mikroekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T160000
@@ -373,6 +373,13 @@ DTEND:20251108T192500
 SUMMARY:Pi (L)
 LOCATION:233 S
 DESCRIPTION:Podstawy informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T175000
+DTEND:20251115T192500
+SUMMARY:Mi (ć)
+LOCATION:0.23/16
+DESCRIPTION:Mikroekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T175000
@@ -421,14 +428,14 @@ DTSTART:20251207T080000
 DTEND:20251207T093500
 SUMMARY:Pz (ć)
 LOCATION:3.16/135
-DESCRIPTION:Podstawy zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
+DESCRIPTION:Podstawy zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251214T080000
 DTEND:20251214T093500
 SUMMARY:Pz (ć)
 LOCATION:31/158
-DESCRIPTION:Podstawy zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
+DESCRIPTION:Podstawy zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251221T080000
@@ -457,13 +464,6 @@ DTEND:20250125T093500
 SUMMARY:Pi (L)
 LOCATION:233 S
 DESCRIPTION:Podstawy informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250201T080000
-DTEND:20250201T093500
-SUMMARY:Pz (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Podstawy zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251005T095000

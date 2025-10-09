@@ -487,13 +487,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/30\nProwadzący: mgr Gulan Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250126T133000
-DTEND:20250126T150500
-SUMMARY:WDM (ć)
-LOCATION:2/ 68
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250202T133000
 DTEND:20250202T150500
 SUMMARY:PGI (Zp. Ćw)
@@ -519,7 +512,7 @@ DTSTART:20251117T160000
 DTEND:20251117T173500
 SUMMARY:WDM (ć)
 LOCATION:2/ 68
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T160000
@@ -1688,7 +1681,7 @@ DTSTART:20251126T133000
 DTEND:20251126T150500
 SUMMARY:WDM (ć)
 LOCATION:2/ 68
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T133000
@@ -1724,6 +1717,13 @@ DTEND:20251231T150500
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 64/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T133000
+DTEND:20250107T150500
+SUMMARY:WDM (ć)
+LOCATION:2/ 68
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250114T133000

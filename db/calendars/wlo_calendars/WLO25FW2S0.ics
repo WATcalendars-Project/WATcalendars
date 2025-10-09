@@ -358,7 +358,7 @@ DTSTART:20251124T160000
 DTEND:20251124T173500
 SUMMARY:WDM (ć)
 LOCATION:0.7/16
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T160000
@@ -407,7 +407,7 @@ DTSTART:20251014T080000
 DTEND:20251014T093500
 SUMMARY:WDM (ć)
 LOCATION:255 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T080000
@@ -603,7 +603,7 @@ DTSTART:20251021T114000
 DTEND:20251021T131500
 SUMMARY:WDM (ć)
 LOCATION:1/22
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T114000
@@ -660,6 +660,13 @@ DTEND:20250113T131500
 SUMMARY:PZiP (w)
 LOCATION:aula/135
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr Nyszk Łukasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250120T114000
+DTEND:20250120T131500
+SUMMARY:WDM (ć)
+LOCATION:1/22
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T114000
@@ -869,7 +876,7 @@ DTSTART:20251118T175000
 DTEND:20251118T192500
 SUMMARY:WDM (ć)
 LOCATION:1/22
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T175000
@@ -883,7 +890,7 @@ DTSTART:20251202T175000
 DTEND:20251202T192500
 SUMMARY:WDM (ć)
 LOCATION:1/22
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T175000
@@ -1038,13 +1045,6 @@ DTEND:20251022T112500
 SUMMARY:PGI (ć)
 LOCATION:9/158
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251029T095000
-DTEND:20251029T112500
-SUMMARY:WDM (ć)
-LOCATION:37/158
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T095000
@@ -2146,6 +2146,13 @@ LOCATION:aula/135
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: dr Łydka Adrian
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251010T080000
+DTEND:20251010T093500
+SUMMARY:M1 (ć)
+LOCATION:0.28/135
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/19\nProwadzący: dr Łydka Adrian
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251107T080000
 DTEND:20251107T093500
 SUMMARY:WDM (w)
@@ -2171,35 +2178,35 @@ DTSTART:20251031T095000
 DTEND:20251031T112500
 SUMMARY:M1 (ć)
 LOCATION:0.28/135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/19\nProwadzący: dr Łydka Adrian
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/19\nProwadzący: dr Łydka Adrian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T095000
 DTEND:20251107T112500
 SUMMARY:M1 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/19\nProwadzący: dr Łydka Adrian
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/19\nProwadzący: dr Łydka Adrian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T095000
 DTEND:20251114T112500
 SUMMARY:M1 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/19\nProwadzący: dr Łydka Adrian
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/19\nProwadzący: dr Łydka Adrian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T095000
 DTEND:20251121T112500
 SUMMARY:M1 (ć)
 LOCATION:3.16/135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/19\nProwadzący: dr Łydka Adrian
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/19\nProwadzący: dr Łydka Adrian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T095000
 DTEND:20251205T112500
 SUMMARY:M1 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/19\nProwadzący: dr Łydka Adrian
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/19\nProwadzący: dr Łydka Adrian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T095000
@@ -2283,21 +2290,21 @@ DTSTART:20251212T114000
 DTEND:20251212T131500
 SUMMARY:WDM (ć)
 LOCATION:0.23/16
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T114000
 DTEND:20251219T131500
 SUMMARY:WDM (ć)
 LOCATION:2.21/135
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T114000
 DTEND:20250109T131500
 SUMMARY:WDM (ć)
 LOCATION:2.21/135
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250116T114000
@@ -2311,7 +2318,7 @@ DTSTART:20250123T114000
 DTEND:20250123T131500
 SUMMARY:WDM (ć)
 LOCATION:2.21/135
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T114000
@@ -2431,13 +2438,6 @@ DTEND:20251003T173500
 SUMMARY:BwCP (w)
 LOCATION:aula/135
 DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Marczyk Maciej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251010T160000
-DTEND:20251010T173500
-SUMMARY:M1 (ć)
-LOCATION:0.19/135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/19\nProwadzący: dr Łydka Adrian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T160000

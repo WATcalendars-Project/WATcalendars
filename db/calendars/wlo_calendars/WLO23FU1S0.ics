@@ -1278,13 +1278,6 @@ LOCATION:1.7/16
 DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251022T160000
-DTEND:20251022T173500
-SUMMARY:MmsM (w)
-LOCATION:1.7/16
-DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: płk mgr inż. Górski Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251119T160000
 DTEND:20251119T173500
 SUMMARY:PoTe (w)
@@ -1313,18 +1306,18 @@ LOCATION:2pl/24kp; 23FU; 1S; 23BJO; 0 K; 4 T
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: kpt.mgr Nawalicki Piotr; dr hab. inż.(prof. ucz.) Jackowski Jerzy; ppłk mgr inż. Grądziel Grzegorz; dr n. społ. inż. Krupnik Dorota; mgr inż. Michałowski Bogusław; ppłk mgr Lasak Michał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250121T160000
+DTEND:20250121T173500
+SUMMARY:MmsM (w)
+LOCATION:1.7/16
+DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: płk mgr inż. Górski Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251001T175000
 DTEND:20251001T192500
 SUMMARY:PoMa (w)
 LOCATION:aula/135
 DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: prof. WAT Kler Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251022T175000
-DTEND:20251022T192500
-SUMMARY:MmsM (w)
-LOCATION:1.7/16
-DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T175000
@@ -1355,6 +1348,13 @@ LOCATION:2pl/24kp; 23FU; 1S; 23BJO; 0 K; 4 T
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: kpt.mgr Nawalicki Piotr; dr hab. inż.(prof. ucz.) Jackowski Jerzy; ppłk mgr inż. Grądziel Grzegorz; dr n. społ. inż. Krupnik Dorota; mgr inż. Michałowski Bogusław; ppłk mgr Lasak Michał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250121T175000
+DTEND:20250121T192500
+SUMMARY:MmsM (w)
+LOCATION:1.7/16
+DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: płk mgr inż. Górski Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250114T194000
 DTEND:20250114T211500
 SUMMARY:WF (w)
@@ -1381,13 +1381,6 @@ DTEND:20251016T093500
 SUMMARY:MmsM (w)
 LOCATION:1.7/16
 DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: płk mgr inż. Górski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251023T080000
-DTEND:20251023T093500
-SUMMARY:MmsM (L)
-LOCATION:1.7/16
-DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T080000
@@ -1444,13 +1437,6 @@ DTEND:20251016T112500
 SUMMARY:MmsM (w)
 LOCATION:1.7/16
 DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: płk mgr inż. Górski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251023T095000
-DTEND:20251023T112500
-SUMMARY:MmsM (L)
-LOCATION:1.7/16
-DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T095000
@@ -1723,7 +1709,7 @@ DTSTART:20250122T133000
 DTEND:20250122T150500
 SUMMARY:MmsM (L)
 LOCATION:1.7/16
-DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: płk mgr inż. Górski Piotr
+DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T160000
@@ -1786,7 +1772,7 @@ DTSTART:20250122T160000
 DTEND:20250122T173500
 SUMMARY:MmsM (L)
 LOCATION:1.7/16
-DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: płk mgr inż. Górski Piotr
+DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T175000
@@ -2083,6 +2069,13 @@ LOCATION:aula/135
 DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251017T133000
+DTEND:20251017T150500
+SUMMARY:MmsM (L)
+LOCATION:1.7/16
+DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: płk mgr inż. Górski Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251031T133000
 DTEND:20251031T150500
 SUMMARY:Pmiuwl (P)
@@ -2144,6 +2137,13 @@ DTEND:20251010T173500
 SUMMARY:Nsl* (w)
 LOCATION:aula/135
 DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr hab. inż. Augustyn Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251017T160000
+DTEND:20251017T173500
+SUMMARY:MmsM (L)
+LOCATION:1.7/16
+DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T160000

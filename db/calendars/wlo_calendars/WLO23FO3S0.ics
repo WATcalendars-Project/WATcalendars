@@ -1082,13 +1082,6 @@ LOCATION:0.24/135
 DESCRIPTION:Budowa środków transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: mgr inż. Radzimierski Mariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251022T114000
-DTEND:20251022T131500
-SUMMARY:SLwLSZ (w)
-LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: płk mgr inż. Górski Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251029T114000
 DTEND:20251029T131500
 SUMMARY:Bśt (ć)
@@ -1171,13 +1164,6 @@ DTEND:20251015T150500
 SUMMARY:Nsl* (ć)
 LOCATION:0.8/16
 DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Augustyn Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251022T133000
-DTEND:20251022T150500
-SUMMARY:SLwLSZ (w)
-LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T133000
@@ -1712,6 +1698,13 @@ LOCATION:255 S
 DESCRIPTION:Budowa środków transportowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: mgr inż. Radzimierski Mariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250129T133000
+DTEND:20250129T150500
+SUMMARY:PoTe (ć)
+LOCATION:0.8/16
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251002T160000
 DTEND:20251002T173500
 SUMMARY:Nsl* (w)
@@ -1751,7 +1744,7 @@ DTSTART:20251127T160000
 DTEND:20251127T173500
 SUMMARY:PoTe (ć)
 LOCATION:1.16/16
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T160000
@@ -1763,9 +1756,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T160000
 DTEND:20251211T173500
-SUMMARY:PoTe (ć)
+SUMMARY:PoMa (S)
 LOCATION:1.16/16
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T160000
@@ -1789,13 +1782,6 @@ LOCATION:1.7/16
 DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250129T160000
-DTEND:20250129T173500
-SUMMARY:PoMa (S)
-LOCATION:0.28/135
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: prof. WAT Kler Paweł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251002T175000
 DTEND:20251002T192500
 SUMMARY:Nsl* (w)
@@ -1815,6 +1801,20 @@ DTEND:20251218T192500
 SUMMARY:Bśt (ć)
 LOCATION:255 S
 DESCRIPTION:Budowa środków transportowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: mgr inż. Radzimierski Mariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250115T175000
+DTEND:20250115T192500
+SUMMARY:SLwLSZ (w)
+LOCATION:1.10/16; 1.9/16
+DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: płk mgr inż. Górski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250122T175000
+DTEND:20250122T192500
+SUMMARY:SLwLSZ (w)
+LOCATION:aula/135
+DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T194000
