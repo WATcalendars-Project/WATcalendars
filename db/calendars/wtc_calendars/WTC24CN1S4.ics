@@ -116,13 +116,6 @@ LOCATION:109 24
 DESCRIPTION:Prognozowanie skutków wybuchu\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: prof.dr hab.inż. Trzciński Waldemar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251201T095000
-DTEND:20251201T112500
-SUMMARY:Kry (L)
-LOCATION:123 24
-DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Chrunik Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251208T095000
 DTEND:20251208T112500
 SUMMARY:Śpd (L)
@@ -389,13 +382,6 @@ LOCATION:2 5
 DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: dr hab. inż. Oton Martinez Eva
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251201T160000
-DTEND:20251201T173500
-SUMMARY:Kry (L)
-LOCATION:123 24
-DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Chrunik Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251208T160000
 DTEND:20251208T173500
 SUMMARY:PSt (ć)
@@ -492,13 +478,6 @@ DTEND:20251028T112500
 SUMMARY:Cha2 (L)
 LOCATION:127/ 14
 DESCRIPTION:Chemia analityczna II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/18\nProwadzący: dr Czubaszek Marzena
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251104T095000
-DTEND:20251104T112500
-SUMMARY:Kry (L)
-LOCATION:123 24
-DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Chrunik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T095000
@@ -613,6 +592,13 @@ LOCATION:123 24
 DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Jasek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251021T133000
+DTEND:20251021T150500
+SUMMARY:Cht (w)
+LOCATION:108 24
+DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/18\nProwadzący: dr hab. inż. Piecek Wiktor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251028T133000
 DTEND:20251028T150500
 SUMMARY:Cha2 (L)
@@ -625,13 +611,6 @@ DTEND:20251104T150500
 SUMMARY:Sch (L)
 LOCATION:8 55
 DESCRIPTION:Sensory chemiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: ppłk dr inż. Grabka Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251118T133000
-DTEND:20251118T150500
-SUMMARY:Cht (w)
-LOCATION:108 24
-DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/18\nProwadzący: dr hab. inż. Piecek Wiktor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T133000
@@ -687,7 +666,7 @@ DTSTART:20251104T160000
 DTEND:20251104T173500
 SUMMARY:Kry (L)
 LOCATION:123 24
-DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Chrunik Maciej
+DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr inż. Chrunik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T160000
@@ -1110,13 +1089,6 @@ LOCATION:166 S
 DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Czuba Beata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250107T160000
-DTEND:20250107T173500
-SUMMARY:Kry (L)
-LOCATION:123 24
-DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Chrunik Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250121T160000
 DTEND:20250121T173500
 SUMMARY:WzPs (ć)
@@ -1471,14 +1443,14 @@ DTSTART:20251127T160000
 DTEND:20251127T173500
 SUMMARY:Kry (L)
 LOCATION:123 24
-DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Chrunik Maciej
+DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr inż. Chrunik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T160000
 DTEND:20251211T173500
 SUMMARY:Kry (L)
 LOCATION:123 24
-DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Chrunik Maciej
+DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr inż. Chrunik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T160000
@@ -1492,7 +1464,7 @@ DTSTART:20250115T160000
 DTEND:20250115T173500
 SUMMARY:Kry (L)
 LOCATION:123 24
-DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Chrunik Maciej
+DESCRIPTION:Krystalografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr inż. Chrunik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T095000

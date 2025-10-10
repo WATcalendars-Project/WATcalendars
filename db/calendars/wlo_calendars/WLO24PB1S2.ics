@@ -599,6 +599,13 @@ LOCATION:0.8/16
 DESCRIPTION:Bezzałogowe\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251203T160000
+DTEND:20251203T173500
+SUMMARY:Komu.strateg. (ć)
+LOCATION:255 S
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251210T160000
 DTEND:20251210T173500
 SUMMARY:Lg (w)
@@ -722,7 +729,7 @@ DTSTART:20250122T080000
 DTEND:20250122T093500
 SUMMARY:Komu.strateg. (ć)
 LOCATION:2.21/135
-DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T095000
@@ -771,7 +778,7 @@ DTSTART:20250122T095000
 DTEND:20250122T112500
 SUMMARY:Komu.strateg. (ć)
 LOCATION:2.21/135
-DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T114000
@@ -830,6 +837,13 @@ LOCATION:26/158
 DESCRIPTION:Komercyjne\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251218T133000
+DTEND:20251218T150500
+SUMMARY:Lg (ć)
+LOCATION:1.10/16
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251016T160000
 DTEND:20251016T173500
 SUMMARY:Wybrane 
@@ -848,7 +862,7 @@ DTSTART:20251030T160000
 DTEND:20251030T173500
 SUMMARY:Lg (ć)
 LOCATION:26/158
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Marciniak Mirosław
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T160000
@@ -889,8 +903,8 @@ BEGIN:VEVENT
 DTSTART:20251218T160000
 DTEND:20251218T173500
 SUMMARY:Lg (ć)
-LOCATION:26/158
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Marciniak Mirosław
+LOCATION:1.10/16
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T160000
@@ -904,7 +918,7 @@ DTSTART:20250129T160000
 DTEND:20250129T173500
 SUMMARY:Komu.strateg. (ć)
 LOCATION:2.21/135
-DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
+DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T175000
@@ -918,7 +932,7 @@ DTSTART:20251030T175000
 DTEND:20251030T192500
 SUMMARY:Lg (ć)
 LOCATION:26/158
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Marciniak Mirosław
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T175000
@@ -956,13 +970,6 @@ LOCATION:31/158
 DESCRIPTION:Filozofia bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Warchał Arnold
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251218T175000
-DTEND:20251218T192500
-SUMMARY:Lg (ć)
-LOCATION:26/158
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Marciniak Mirosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250108T175000
 DTEND:20250108T192500
 SUMMARY:Komercyjne 
@@ -989,13 +996,6 @@ DTEND:20251016T211500
 SUMMARY:PDwK (w)
 LOCATION:0.8/16
 DESCRIPTION:Procesy decyzyjne w kierowaniu i dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Kleszcz Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251106T194000
-DTEND:20251106T211500
-SUMMARY:Komu.strateg. (ć)
-LOCATION:2.21/135
-DESCRIPTION:Komunikacja strategiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T194000

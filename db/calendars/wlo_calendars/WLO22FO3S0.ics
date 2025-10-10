@@ -620,6 +620,13 @@ LOCATION:2PL/8KP; 22FO; 3S; 22FZ; 1S; 22FU; 1S; 0 Kar
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: kmdr ppor. mgr inż. Kordus Wojciech
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251216T114000
+DTEND:20251216T131500
+SUMMARY:SMa (L)
+LOCATION:0.8/16
+DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250120T114000
 DTEND:20250120T131500
 SUMMARY:SSW 
@@ -695,6 +702,13 @@ DTEND:20251209T150500
 SUMMARY:PODS.SUR. (ć)
 LOCATION:2PL/8KP; 22FO; 3S; 22FZ; 1S; 22FU; 1S; 0 Kar
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: kmdr ppor. mgr inż. Kordus Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251216T133000
+DTEND:20251216T150500
+SUMMARY:SMa (L)
+LOCATION:0.8/16
+DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T133000
@@ -953,7 +967,7 @@ DTSTART:20251022T095000
 DTEND:20251022T112500
 SUMMARY:SMa (L)
 LOCATION:0.21/16
-DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T095000
@@ -1327,20 +1341,6 @@ LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Gospodarka mieniem\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251210T160000
-DTEND:20251210T173500
-SUMMARY:SMa (L)
-LOCATION:0.6/16
-DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: ppłk dr inż. Grzelak Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T160000
-DTEND:20251217T173500
-SUMMARY:OiJŁ (S)
-LOCATION:0.21/16
-DESCRIPTION:Opakowania i jednostki ładunkowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr Oziębło Małgorzata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250114T160000
 DTEND:20250114T173500
 SUMMARY:ZLPGK (ć)
@@ -1411,13 +1411,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: mgr Kępniak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251210T175000
-DTEND:20251210T192500
-SUMMARY:SMa (L)
-LOCATION:0.6/16
-DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: ppłk dr inż. Grzelak Małgorzata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250121T175000
 DTEND:20250121T192500
 SUMMARY:BeSL (L)
@@ -1472,6 +1465,13 @@ DTEND:20251009T093500
 SUMMARY:SMa (L)
 LOCATION:0.6/16
 DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251016T080000
+DTEND:20251016T093500
+SUMMARY:OiJŁ (S)
+LOCATION:4.17a/135
+DESCRIPTION:Opakowania i jednostki ładunkowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
@@ -1544,6 +1544,13 @@ LOCATION:0.6/16
 DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251016T095000
+DTEND:20251016T112500
+SUMMARY:BeSL (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Sieczka Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251023T095000
 DTEND:20251023T112500
 SUMMARY:KL. (ć)
@@ -1604,7 +1611,7 @@ DTSTART:20251218T095000
 DTEND:20251218T112500
 SUMMARY:BeSL (ć)
 LOCATION:0.21/16
-DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Sieczka Jarosław
+DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T095000
@@ -1800,7 +1807,7 @@ DTSTART:20251127T133000
 DTEND:20251127T150500
 SUMMARY:BeSL (ć)
 LOCATION:0.7/16
-DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Sieczka Jarosław
+DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T133000
@@ -1871,13 +1878,6 @@ DTEND:20251030T173500
 SUMMARY:OiJŁ (w)
 LOCATION:0.24/135
 DESCRIPTION:Opakowania i jednostki ładunkowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Oziębło Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251113T160000
-DTEND:20251113T173500
-SUMMARY:BeSL (ć)
-LOCATION:0.21/16
-DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T160000

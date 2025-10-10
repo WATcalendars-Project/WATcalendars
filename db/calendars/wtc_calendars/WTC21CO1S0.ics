@@ -986,9 +986,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T133000
 DTEND:20251021T150500
-SUMMARY:PSt (ć)
-LOCATION:10 55
-DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: dr hab. inż. Oton Martinez Eva
+SUMMARY:Cht (w)
+LOCATION:108 24
+DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/18\nProwadzący: dr hab. inż. Piecek Wiktor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T133000
@@ -1003,13 +1003,6 @@ DTEND:20251104T150500
 SUMMARY:Bbi (w)
 LOCATION:1 55A
 DESCRIPTION:Broń biologiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: prof.dr hab.inż. Witkiewicz Zygfryd
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251118T133000
-DTEND:20251118T150500
-SUMMARY:Cht (w)
-LOCATION:108 24
-DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/18\nProwadzący: dr hab. inż. Piecek Wiktor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T133000
@@ -1044,7 +1037,7 @@ DTSTART:20250113T133000
 DTEND:20250113T150500
 SUMMARY:PSt (ć)
 LOCATION:10 55
-DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: dr hab. inż. Oton Martinez Eva
+DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: dr hab. inż. Oton Martinez Eva
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T133000
@@ -1178,6 +1171,13 @@ DTEND:20251014T192500
 SUMMARY:Ja (ć)
 LOCATION:231 K;230 K;134 K;133 K;131 K;128 K;127 K;125 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251021T175000
+DTEND:20251021T192500
+SUMMARY:PSt (ć)
+LOCATION:166 S
+DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: dr hab. inż. Oton Martinez Eva
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T175000
