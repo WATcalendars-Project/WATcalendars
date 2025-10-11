@@ -312,11 +312,18 @@ LOCATION:0.19/135
 DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250113T114000
+DTEND:20250113T131500
+SUMMARY:Syst.zarz. 
+LOCATION:1.10/16
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251007T133000
 DTEND:20251007T150500
 SUMMARY:Syst.zarz. 
 LOCATION:3.16/135
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T133000
@@ -338,6 +345,13 @@ DTEND:20251216T150500
 SUMMARY:Ap (w)
 LOCATION:3.16/135
 DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Chyrzyński Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250113T133000
+DTEND:20250113T150500
+SUMMARY:Syst.zarz. 
+LOCATION:1.10/16
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 10/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T160000
@@ -452,13 +466,6 @@ LOCATION:5.17/135
 DESCRIPTION:T\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: dr Chyrzyński Ryszard; dr Kościelecki Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250113T175000
-DTEND:20250113T192500
-SUMMARY:Syst.zarz. 
-LOCATION:1.16/16
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250120T175000
 DTEND:20250120T192500
 SUMMARY:P 
@@ -485,13 +492,6 @@ DTEND:20251202T211500
 SUMMARY:T 
 LOCATION:5.17/135
 DESCRIPTION:T\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr Chyrzyński Ryszard; dr Kościelecki Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250113T194000
-DTEND:20250113T211500
-SUMMARY:Syst.zarz. 
-LOCATION:1.16/16
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 10/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T194000

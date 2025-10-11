@@ -74,6 +74,13 @@ LOCATION:255 S
 DESCRIPTION:ZAGROŻENIA\nRodzaj zajęć: -\nNumer zajęć: 3/51\nProwadzący: dr hab. Stochaj Justyna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251027T095000
+DTEND:20251027T112500
+SUMMARY:POSTĘPOWANIE 
+LOCATION:aula/135
+DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 4/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Moch Natalia; dr Śledzik Waldemar
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251117T095000
 DTEND:20251117T112500
 SUMMARY:ZAGROŻENIA 
@@ -282,13 +289,6 @@ DTEND:20250120T150500
 SUMMARY:ZARZĄDZANIE 
 LOCATION:1.16/16
 DESCRIPTION:ZARZĄDZANIE\nRodzaj zajęć: -\nNumer zajęć: 2/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr hab. Stochaj Justyna; dr Szwarc Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251125T160000
-DTEND:20251125T173500
-SUMMARY:POSTĘPOWANIE 
-LOCATION:1.17/16
-DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 4/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Moch Natalia; dr Śledzik Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T160000
@@ -826,7 +826,7 @@ BEGIN:VEVENT
 DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:ZARZĄDZANIE 
-LOCATION:1 Pr
+LOCATION:0.8/16
 DESCRIPTION:ZARZĄDZANIE\nRodzaj zajęć: -\nNumer zajęć: 20/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr hab. Stochaj Justyna; dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT

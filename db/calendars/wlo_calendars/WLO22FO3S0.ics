@@ -613,6 +613,13 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251125T114000
+DTEND:20251125T131500
+SUMMARY:BeSL (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Sieczka Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251209T114000
 DTEND:20251209T131500
 SUMMARY:PODS.SUR. (ć)
@@ -1548,7 +1555,7 @@ DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:BeSL (ć)
 LOCATION:4.17a/135
-DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Sieczka Jarosław
+DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T095000
@@ -1611,7 +1618,7 @@ DTSTART:20251218T095000
 DTEND:20251218T112500
 SUMMARY:BeSL (ć)
 LOCATION:0.21/16
-DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Sieczka Jarosław
+DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T095000
@@ -1807,7 +1814,7 @@ DTSTART:20251127T133000
 DTEND:20251127T150500
 SUMMARY:BeSL (ć)
 LOCATION:0.7/16
-DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Sieczka Jarosław
+DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T133000
@@ -1878,13 +1885,6 @@ DTEND:20251030T173500
 SUMMARY:OiJŁ (w)
 LOCATION:0.24/135
 DESCRIPTION:Opakowania i jednostki ładunkowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Oziębło Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251127T160000
-DTEND:20251127T173500
-SUMMARY:BeSL (ć)
-LOCATION:0.7/16
-DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T160000

@@ -46,13 +46,6 @@ LOCATION:31/158
 DESCRIPTION:Podstawy zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250131T080000
-DTEND:20250131T093500
-SUMMARY:Mat 
-LOCATION:236 S
-DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251004T095000
 DTEND:20251004T112500
 SUMMARY:Pz (w)
@@ -106,7 +99,7 @@ DTSTART:20251213T095000
 DTEND:20251213T112500
 SUMMARY:Mat 
 LOCATION:3.16/135
-DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
+DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T095000
@@ -132,9 +125,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T095000
 DTEND:20250131T112500
-SUMMARY:Mat 
-LOCATION:236 S
-DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 3/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
+SUMMARY:Pi (L)
+LOCATION:233 S
+DESCRIPTION:Podstawy informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T114000
@@ -162,7 +155,7 @@ DTSTART:20251108T114000
 DTEND:20251108T131500
 SUMMARY:Mat 
 LOCATION:3.16/135
-DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 4/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
+DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T114000
@@ -183,14 +176,14 @@ DTSTART:20251206T114000
 DTEND:20251206T131500
 SUMMARY:Mat 
 LOCATION:A.1.3/135
-DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 5/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
+DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 3/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T114000
 DTEND:20251213T131500
 SUMMARY:Mat 
 LOCATION:3.16/135
-DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
+DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 4/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T114000
@@ -218,7 +211,7 @@ DTSTART:20250131T114000
 DTEND:20250131T131500
 SUMMARY:Pi (L)
 LOCATION:233 S
-DESCRIPTION:Podstawy informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6
+DESCRIPTION:Podstawy informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T133000
@@ -232,7 +225,7 @@ DTSTART:20251011T133000
 DTEND:20251011T150500
 SUMMARY:Mat 
 LOCATION:3.16/135
-DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
+DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 5/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T133000
@@ -246,7 +239,7 @@ DTSTART:20251108T133000
 DTEND:20251108T150500
 SUMMARY:Mat 
 LOCATION:3.16/135
-DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
+DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T133000
@@ -260,7 +253,7 @@ DTSTART:20251122T133000
 DTEND:20251122T150500
 SUMMARY:Mat 
 LOCATION:3.16/135
-DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
+DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T133000
@@ -274,42 +267,42 @@ DTSTART:20251213T133000
 DTEND:20251213T150500
 SUMMARY:Mat 
 LOCATION:0.8/16
-DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 10/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
+DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T133000
 DTEND:20251220T150500
 SUMMARY:Mat 
 LOCATION:236 S
-DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 11/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
+DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T133000
 DTEND:20250110T150500
 SUMMARY:Mat 
 LOCATION:236 S
-DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 12/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
+DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 10/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T133000
 DTEND:20250124T150500
 SUMMARY:Mat 
 LOCATION:236 S
-DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 13/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
+DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 11/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T133000
 DTEND:20250131T150500
-SUMMARY:Pi (L)
-LOCATION:233 S
-DESCRIPTION:Podstawy informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6
+SUMMARY:Mat 
+LOCATION:236 S
+DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 12/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T160000
 DTEND:20251011T173500
 SUMMARY:Mat 
 LOCATION:3.16/135
-DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 14/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
+DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 13/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T160000
@@ -356,6 +349,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T160000
 DTEND:20250124T173500
+SUMMARY:Mat 
+LOCATION:236 S
+DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 14/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250131T160000
+DTEND:20250131T173500
 SUMMARY:Mat 
 LOCATION:236 S
 DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 15/15\nProwadzący: dr inż. Falkiewicz Ewa; dr (prof. WAT) Gonciarski Wiesław

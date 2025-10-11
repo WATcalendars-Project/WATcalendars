@@ -644,7 +644,7 @@ BEGIN:VEVENT
 DTSTART:20250107T114000
 DTEND:20250107T131500
 SUMMARY:Pmb (L)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
@@ -886,6 +886,13 @@ LOCATION:1.17/16
 DESCRIPTION:Bezpieczeństwo ekologiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr hab. Zalewski Jerzy
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251211T114000
+DTEND:20251211T131500
+SUMMARY:PTb (ć)
+LOCATION:26/158
+DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250108T114000
 DTEND:20250108T131500
 SUMMARY:PPb (w)
@@ -954,6 +961,13 @@ DTEND:20250122T150500
 SUMMARY:Pmb (w)
 LOCATION:51/62
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: Prof. dr hab. Cieślarczyk Marian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T133000
+DTEND:20250129T150500
+SUMMARY:PTb (ć)
+LOCATION:26/158
+DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T160000
@@ -1089,13 +1103,6 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo ekologiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab. Zalewski Jerzy
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T175000
-DTEND:20251120T192500
-SUMMARY:PTb (ć)
-LOCATION:26/158
-DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251127T175000
 DTEND:20251127T192500
 SUMMARY:PTb (w)
@@ -1150,13 +1157,6 @@ DTEND:20251113T211500
 SUMMARY:Bezp.Eko (w)
 LOCATION:
 DESCRIPTION:Bezpieczeństwo ekologiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr hab. Zalewski Jerzy
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T194000
-DTEND:20251120T211500
-SUMMARY:PTb (ć)
-LOCATION:26/158
-DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T194000

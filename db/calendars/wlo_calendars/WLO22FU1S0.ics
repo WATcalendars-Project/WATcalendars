@@ -368,13 +368,6 @@ LOCATION:1.9/16; 1.10/16
 DESCRIPTION:Zarządzanie łańcuchem dostaw\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr Zamelek Paulina
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251013T160000
-DTEND:20251013T173500
-SUMMARY:NKC (w)
-LOCATION:1.15/16
-DESCRIPTION:Normalizacja, kodyfikacja, certyfikacja oraz odbiór jakościowy w służbie mundurowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: mgr Dembek Adam
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251020T160000
 DTEND:20251020T173500
 SUMMARY:KL. (w)
@@ -466,6 +459,13 @@ LOCATION:2PL/8KP; 22FO; 3S; 22FZ; 1S; 22FU; 1S; 0 ST; 1 T
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Milian-Pogonowska Małgorzata; kpt. dr Karolewski Albert; dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251125T080000
+DTEND:20251125T093500
+SUMMARY:BeSL (ć)
+LOCATION:255 S
+DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Sieczka Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251202T080000
 DTEND:20251202T093500
 SUMMARY:GSPSM (w)
@@ -515,11 +515,18 @@ LOCATION:2PL/8KP; 3PL/8KP; 22FO; 3S; 22FZ; 1S; 22FU; 1S; 22IT; 1S; 22IW; 1S; 0 S
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Milian-Pogonowska Małgorzata; kpt. dr Karolewski Albert; prof. dr hab. Pawlisiak Mieczysław; dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251125T095000
+DTEND:20251125T112500
+SUMMARY:BeSL (ć)
+LOCATION:255 S
+DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Sieczka Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251202T095000
 DTEND:20251202T112500
 SUMMARY:NKC (w)
 LOCATION:1.15/16
-DESCRIPTION:Normalizacja, kodyfikacja, certyfikacja oraz odbiór jakościowy w służbie mundurowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: mgr Dembek Adam
+DESCRIPTION:Normalizacja, kodyfikacja, certyfikacja oraz odbiór jakościowy w służbie mundurowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: mgr Dembek Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
@@ -555,6 +562,13 @@ DTEND:20251104T131500
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3/6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251202T114000
+DTEND:20251202T131500
+SUMMARY:NKC (w)
+LOCATION:1.16/16
+DESCRIPTION:Normalizacja, kodyfikacja, certyfikacja oraz odbiór jakościowy w służbie mundurowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: mgr Dembek Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000
@@ -1408,7 +1422,7 @@ DTSTART:20251120T080000
 DTEND:20251120T093500
 SUMMARY:BeSL (ć)
 LOCATION:1.27/135
-DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Sieczka Jarosław
+DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T080000
@@ -1422,7 +1436,7 @@ DTSTART:20251218T080000
 DTEND:20251218T093500
 SUMMARY:BeSL (ć)
 LOCATION:1.16/16
-DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Sieczka Jarosław
+DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T080000
@@ -1492,7 +1506,7 @@ DTSTART:20251120T095000
 DTEND:20251120T112500
 SUMMARY:BeSL (ć)
 LOCATION:1.27/135
-DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Sieczka Jarosław
+DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T095000
@@ -1709,7 +1723,7 @@ DTSTART:20251204T133000
 DTEND:20251204T150500
 SUMMARY:BeSL (ć)
 LOCATION:255 S
-DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Sieczka Jarosław
+DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
@@ -1780,20 +1794,6 @@ DTEND:20251030T173500
 SUMMARY:OiJŁ (w)
 LOCATION:0.24/135
 DESCRIPTION:Opakowania i jednostki ładunkowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Oziębło Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T160000
-DTEND:20251204T173500
-SUMMARY:BeSL (ć)
-LOCATION:255 S
-DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Sieczka Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T160000
-DTEND:20251211T173500
-SUMMARY:BeSL (ć)
-LOCATION:0.6/16
-DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T160000

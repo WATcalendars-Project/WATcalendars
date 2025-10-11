@@ -270,6 +270,13 @@ LOCATION:1.10/16; 1.9/16
 DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 10/21\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251104T095000
+DTEND:20251104T112500
+SUMMARY:Lg (ć)
+LOCATION:233 S
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Skulska Joanna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251118T095000
 DTEND:20251118T112500
 SUMMARY:W 
@@ -282,6 +289,13 @@ DTEND:20251125T112500
 SUMMARY:W 
 LOCATION:1.10/16; 1.9/16
 DESCRIPTION:W\nRodzaj zajęć: -\nNumer zajęć: 5/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Skulska Joanna; dr hab. Wereda Wioletta; prof. dr hab. Kościelecki Lech; dr Karczewski Edward; dr inż. Pokorski Grzegorz; mgr Dąbrowska - Świder Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251202T095000
+DTEND:20251202T112500
+SUMMARY:Lg (ć)
+LOCATION:1.16/16
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T095000
@@ -303,6 +317,13 @@ DTEND:20250127T112500
 SUMMARY:W 
 LOCATION:0.8/16
 DESCRIPTION:W\nRodzaj zajęć: -\nNumer zajęć: 6/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Skulska Joanna; dr hab. Wereda Wioletta; prof. dr hab. Kościelecki Lech; dr Karczewski Edward; mgr Trzcińska Luiza
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251104T114000
+DTEND:20251104T131500
+SUMMARY:Lg (ć)
+LOCATION:233 S
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T114000
@@ -620,6 +641,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251029T080000
+DTEND:20251029T093500
+SUMMARY:Lg (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Skulska Joanna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251217T080000
 DTEND:20251217T093500
 SUMMARY:Pe. (ć)
@@ -660,6 +688,13 @@ DTEND:20251029T112500
 SUMMARY:Pe. (ć)
 LOCATION:
 DESCRIPTION:Podstawy ekonomii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: prof. dr hab. Kościelecki Lech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T095000
+DTEND:20251119T112500
+SUMMARY:Lg (ć)
+LOCATION:1.16/16
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T095000
@@ -718,41 +753,6 @@ LOCATION:25AX; 1S; 1 Trz
 DESCRIPTION:W\nRodzaj zajęć: -\nNumer zajęć: 17/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Skulska Joanna; dr hab. Wereda Wioletta; prof. dr hab. Kościelecki Lech; dr Karczewski Edward; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251210T114000
-DTEND:20251210T131500
-SUMMARY:Lg (ć)
-LOCATION:3.16/135
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Skulska Joanna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T114000
-DTEND:20251217T131500
-SUMMARY:Lg (ć)
-LOCATION:
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Skulska Joanna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250107T114000
-DTEND:20250107T131500
-SUMMARY:Lg (ć)
-LOCATION:
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Skulska Joanna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250114T114000
-DTEND:20250114T131500
-SUMMARY:Lg (ć)
-LOCATION:
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Skulska Joanna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250121T114000
-DTEND:20250121T131500
-SUMMARY:Lg (ć)
-LOCATION:
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Skulska Joanna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251008T133000
 DTEND:20251008T150500
 SUMMARY:Pi (w)
@@ -788,46 +788,18 @@ LOCATION:25AX; 1S; 25AX; 4S; 25AX; 3S; 25AX; 2S; 1 Ko
 DESCRIPTION:W\nRodzaj zajęć: -\nNumer zajęć: 19/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Skulska Joanna; dr hab. Wereda Wioletta; prof. dr hab. Kościelecki Lech; dr Karczewski Edward; dr Kowalski Wawrzyniec; mgr Dąbrowska - Świder Małgorzata; dr inż. Pokorski Grzegorz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251112T133000
+DTEND:20251112T150500
+SUMMARY:Lg (ć)
+LOCATION:0.23/16
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Skulska Joanna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251119T133000
 DTEND:20251119T150500
 SUMMARY:W 
 LOCATION:25AX; 1S; 1 Trz
 DESCRIPTION:W\nRodzaj zajęć: -\nNumer zajęć: 20/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Skulska Joanna; dr hab. Wereda Wioletta; prof. dr hab. Kościelecki Lech; dr Karczewski Edward; dr Kowalski Wawrzyniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251210T133000
-DTEND:20251210T150500
-SUMMARY:Lg (ć)
-LOCATION:3.16/135
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Skulska Joanna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T133000
-DTEND:20251217T150500
-SUMMARY:Lg (ć)
-LOCATION:
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Skulska Joanna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250107T133000
-DTEND:20250107T150500
-SUMMARY:Lg (ć)
-LOCATION:
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Skulska Joanna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250114T133000
-DTEND:20250114T150500
-SUMMARY:Lg (ć)
-LOCATION:
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr Skulska Joanna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250121T133000
-DTEND:20250121T150500
-SUMMARY:Lg (ć)
-LOCATION:
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250128T133000
@@ -863,6 +835,13 @@ DTEND:20251022T173500
 SUMMARY:Pi (ć)
 LOCATION:4.17a/135
 DESCRIPTION:Podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: dr inż. Pokorski Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T160000
+DTEND:20251105T173500
+SUMMARY:Lg (ć)
+LOCATION:9/158
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T160000
@@ -940,6 +919,13 @@ DTEND:20251022T192500
 SUMMARY:Org. 
 LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 13/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr hab. Wereda Wioletta; mgr Dąbrowska - Świder Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T175000
+DTEND:20251105T192500
+SUMMARY:Lg (ć)
+LOCATION:9/158
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T175000
@@ -1033,6 +1019,13 @@ LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Org.\nRodzaj zajęć: -\nNumer zajęć: 20/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr hab. Wereda Wioletta; mgr Dąbrowska - Świder Małgorzata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251113T080000
+DTEND:20251113T093500
+SUMMARY:Lg (ć)
+LOCATION:1.16/16
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr Skulska Joanna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251204T080000
 DTEND:20251204T093500
 SUMMARY:Oin (w)
@@ -1045,6 +1038,13 @@ DTEND:20251009T112500
 SUMMARY:PODST. 
 LOCATION:25AX; 1S; 25AX; 4S; 25AX; 3S; 25AX; 2S; 1 Trz
 DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 15/21\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; dr hab. Wereda Wioletta; dr Kowalski Wawrzyniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251113T095000
+DTEND:20251113T112500
+SUMMARY:Lg (ć)
+LOCATION:1.16/16
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T095000
@@ -1372,7 +1372,7 @@ BEGIN:VEVENT
 DTSTART:20251010T133000
 DTEND:20251010T150500
 SUMMARY:Pe. (w)
-LOCATION:
+LOCATION:0.24/135
 DESCRIPTION:Podstawy ekonomii\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
@@ -1414,7 +1414,7 @@ BEGIN:VEVENT
 DTSTART:20251010T160000
 DTEND:20251010T173500
 SUMMARY:Pe. (w)
-LOCATION:
+LOCATION:0.24/135
 DESCRIPTION:Podstawy ekonomii\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
@@ -1456,8 +1456,8 @@ BEGIN:VEVENT
 DTSTART:20251010T175000
 DTEND:20251010T192500
 SUMMARY:SYS. 
-LOCATION:25AX; 1S; 25AX; 4S; 25AX; 3S; 25AX; 2S; 1 TK
-DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 19/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr hab. Wereda Wioletta; dr Kowalski Wawrzyniec; prof. dr hab. Kościelecki Lech; dr Skulska Joanna
+LOCATION:0.24/135
+DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 19/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T175000
@@ -1526,8 +1526,8 @@ BEGIN:VEVENT
 DTSTART:20251010T194000
 DTEND:20251010T211500
 SUMMARY:SYS. 
-LOCATION:25AX; 1S; 25AX; 4S; 25AX; 3S; 25AX; 2S; 1 TK
-DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 23/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr hab. Wereda Wioletta; dr Kowalski Wawrzyniec; prof. dr hab. Kościelecki Lech; dr Skulska Joanna
+LOCATION:0.24/135
+DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 23/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T194000

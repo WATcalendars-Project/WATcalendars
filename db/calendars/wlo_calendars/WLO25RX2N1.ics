@@ -216,9 +216,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T114000
 DTEND:20250110T131500
-SUMMARY:PTb (ć)
-LOCATION:166 S
-DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6
+SUMMARY:Bezp.Eko (ć)
+LOCATION:31/158
+DESCRIPTION:Bezpieczeństwo ekologiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr hab. Zalewski Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250117T114000
@@ -274,7 +274,7 @@ DTSTART:20251115T133000
 DTEND:20251115T150500
 SUMMARY:PTb (ć)
 LOCATION:166 S
-DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6
+DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T133000
@@ -302,14 +302,14 @@ DTSTART:20251220T133000
 DTEND:20251220T150500
 SUMMARY:Bezp.Eko (ć)
 LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo ekologiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr hab. Zalewski Jerzy
+DESCRIPTION:Bezpieczeństwo ekologiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. Zalewski Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T133000
 DTEND:20250110T150500
 SUMMARY:Bezp.Eko (ć)
-LOCATION:1.15/16
-DESCRIPTION:Bezpieczeństwo ekologiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. Zalewski Jerzy
+LOCATION:31/158
+DESCRIPTION:Bezpieczeństwo ekologiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. Zalewski Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250117T133000
@@ -317,6 +317,13 @@ DTEND:20250117T150500
 SUMMARY:Mstp (ć)
 LOCATION:A.1.3/135
 DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250124T133000
+DTEND:20250124T150500
+SUMMARY:PTb (ć)
+LOCATION:0.22/16
+DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T160000
@@ -380,13 +387,6 @@ DTEND:20251220T173500
 SUMMARY:PTb (ć)
 LOCATION:166 S
 DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250110T160000
-DTEND:20250110T173500
-SUMMARY:Bezp.Eko (ć)
-LOCATION:1.15/16
-DESCRIPTION:Bezpieczeństwo ekologiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. Zalewski Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T175000
