@@ -228,18 +228,11 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: mgr inż. Jankowski Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251013T133000
-DTEND:20251013T150500
-SUMMARY:Chf (w)
-LOCATION:108 24
-DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/30\nProwadzący: dr hab. inż. Czerwiński Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251020T133000
 DTEND:20251020T150500
 SUMMARY:Chf (w)
 LOCATION:108 24
-DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/30\nProwadzący: dr hab. inż. Czerwiński Michał
+DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/30\nProwadzący: dr hab. inż. Czerwiński Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T133000
@@ -310,6 +303,34 @@ DTEND:20250126T150500
 SUMMARY:Pmc (ć)
 LOCATION:2 55A
 DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: ppłk dr inż. Grabka Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251103T160000
+DTEND:20251103T173500
+SUMMARY:Chf (w)
+LOCATION:108 24
+DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/30\nProwadzący: dr hab. inż. Czerwiński Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251117T160000
+DTEND:20251117T173500
+SUMMARY:Chf (w)
+LOCATION:110/ 14
+DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/30\nProwadzący: dr hab. inż. Czerwiński Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251124T160000
+DTEND:20251124T173500
+SUMMARY:Chf (ć)
+LOCATION:110/ 14
+DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/17\nProwadzący: dr hab. inż. Czerwiński Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251201T160000
+DTEND:20251201T173500
+SUMMARY:Chf (w)
+LOCATION:110/ 14
+DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/30\nProwadzący: dr hab. inż. Czerwiński Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T080000
@@ -564,13 +585,6 @@ LOCATION:239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251014T133000
-DTEND:20251014T150500
-SUMMARY:Chf (w)
-LOCATION:110/ 14
-DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/30\nProwadzący: dr hab. inż. Czerwiński Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251021T133000
 DTEND:20251021T150500
 SUMMARY:F2 (ć)
@@ -582,14 +596,14 @@ DTSTART:20251028T133000
 DTEND:20251028T150500
 SUMMARY:Chf (w)
 LOCATION:110/ 14
-DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/30\nProwadzący: dr hab. inż. Czerwiński Michał
+DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/30\nProwadzący: dr hab. inż. Czerwiński Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T133000
 DTEND:20251104T150500
 SUMMARY:Chf (w)
 LOCATION:110/ 14
-DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/30\nProwadzący: dr hab. inż. Czerwiński Michał
+DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/30\nProwadzący: dr hab. inż. Czerwiński Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T133000
@@ -603,14 +617,14 @@ DTSTART:20251125T133000
 DTEND:20251125T150500
 SUMMARY:Chf (w)
 LOCATION:110/ 14
-DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/30\nProwadzący: dr hab. inż. Czerwiński Michał
+DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 7/30\nProwadzący: dr hab. inż. Czerwiński Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T133000
 DTEND:20251202T150500
 SUMMARY:Chf (w)
 LOCATION:110/ 14
-DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 7/30\nProwadzący: dr hab. inż. Czerwiński Michał
+DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 8/30\nProwadzący: dr hab. inż. Czerwiński Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T133000
@@ -624,7 +638,7 @@ DTSTART:20251216T133000
 DTEND:20251216T150500
 SUMMARY:Chf (w)
 LOCATION:110/ 14
-DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 8/30\nProwadzący: dr hab. inż. Czerwiński Michał
+DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 9/30\nProwadzący: dr hab. inż. Czerwiński Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T133000
@@ -638,14 +652,14 @@ DTSTART:20250120T133000
 DTEND:20250120T150500
 SUMMARY:Chf (w)
 LOCATION:110/ 14
-DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 9/30\nProwadzący: dr hab. inż. Czerwiński Michał
+DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 10/30\nProwadzący: dr hab. inż. Czerwiński Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T133000
 DTEND:20250127T150500
 SUMMARY:Chf (w)
 LOCATION:110/ 14
-DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 10/30\nProwadzący: dr hab. inż. Czerwiński Michał
+DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 11/30\nProwadzący: dr hab. inż. Czerwiński Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T160000
@@ -823,13 +837,6 @@ LOCATION:108 24
 DESCRIPTION:Chemia stosowana i gospodarowanie chemikaliami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Hara Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251015T095000
-DTEND:20251015T112500
-SUMMARY:Chf (ć)
-LOCATION:109 24
-DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/17\nProwadzący: dr hab. inż. Czerwiński Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251022T095000
 DTEND:20251022T112500
 SUMMARY:Chf (ć)
@@ -912,13 +919,6 @@ DTEND:20250128T112500
 SUMMARY:Chf (ć)
 LOCATION:110/ 14
 DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: dr hab. inż. Czerwiński Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251015T114000
-DTEND:20251015T131500
-SUMMARY:Chf (w)
-LOCATION:110/ 14
-DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 11/30\nProwadzący: dr hab. inż. Czerwiński Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T114000

@@ -1187,20 +1187,6 @@ LOCATION:227 S
 DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251004T114000
-DTEND:20251004T131500
-SUMMARY:Bda (w)
-LOCATION:314 S
-DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. Bolesław Szafrański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251004T133000
-DTEND:20251004T150500
-SUMMARY:Bda (w)
-LOCATION:314 S
-DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Bolesław Szafrański
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251004T160000
 DTEND:20251004T173500
 SUMMARY:Bsi (w)
@@ -1247,14 +1233,14 @@ DTSTART:20251011T114000
 DTEND:20251011T131500
 SUMMARY:Bda (w)
 LOCATION:224 S
-DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T133000
 DTEND:20251011T150500
 SUMMARY:Bda (w)
 LOCATION:224 S
-DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T160000
@@ -1283,6 +1269,20 @@ DTEND:20251012T112500
 SUMMARY:Orr (ć)
 LOCATION:308 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251018T080000
+DTEND:20251018T093500
+SUMMARY:Bda (w)
+LOCATION:316 S
+DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251018T095000
+DTEND:20251018T112500
+SUMMARY:Bda (w)
+LOCATION:316 S
+DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T114000
