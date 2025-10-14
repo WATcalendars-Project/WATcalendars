@@ -1054,6 +1054,13 @@ LOCATION:5/ 23a
 DESCRIPTION:Strenght of Materials 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr inż. Gieleta Roman
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250120T133000
+DTEND:20250120T150500
+SUMMARY:CAD (L)
+LOCATION:13/ 54; 18/ 54
+DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251028T160000
 DTEND:20251028T173500
 SUMMARY:Mt 
@@ -1241,13 +1248,6 @@ DTEND:20251210T093500
 SUMMARY:SCAE (L)
 LOCATION:53/ 62
 DESCRIPTION:Systemy CAE w praktyce inżynierskiej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T080000
-DTEND:20251217T093500
-SUMMARY:CAD (L)
-LOCATION:13/ 54; 18/ 54
-DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T080000
@@ -3637,6 +3637,34 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 113/119
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251019T160000
+DTEND:20251019T173500
+SUMMARY:XWDM (w)
+LOCATION:5/ 20
+DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Boruta Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251026T160000
+DTEND:20251026T173500
+SUMMARY:XWDM (w)
+LOCATION:5/ 20
+DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Boruta Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T160000
+DTEND:20251116T173500
+SUMMARY:XWDM (ć)
+LOCATION:5/ 20
+DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Boruta Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251214T160000
+DTEND:20251214T173500
+SUMMARY:XWDM (ć)
+LOCATION:5/ 20
+DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. Boruta Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251228T160000
 DTEND:20251228T173500
 SUMMARY:I 
@@ -3649,6 +3677,34 @@ DTEND:20250104T173500
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 115/119
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250118T160000
+DTEND:20250118T173500
+SUMMARY:XWDM (ć)
+LOCATION:5/ 20
+DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Boruta Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250201T160000
+DTEND:20250201T173500
+SUMMARY:XWDM (w)
+LOCATION:5/ 20
+DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Boruta Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251019T175000
+DTEND:20251019T192500
+SUMMARY:XWDM (w)
+LOCATION:5/ 20
+DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Boruta Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251026T175000
+DTEND:20251026T192500
+SUMMARY:XWDM (ć)
+LOCATION:5/ 20
+DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251228T175000

@@ -298,13 +298,6 @@ LOCATION:120 65
 DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251016T133000
-DTEND:20251016T150500
-SUMMARY:WED (w)
-LOCATION:309 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251023T080000
 DTEND:20251023T093500
 SUMMARY:UPCH (L)
@@ -324,13 +317,6 @@ DTEND:20251023T131500
 SUMMARY:PZCB (L)
 LOCATION:120 65
 DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: mgr inż. Leszek Kalman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251023T133000
-DTEND:20251023T150500
-SUMMARY:WED (w)
-LOCATION:309 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T080000
@@ -358,7 +344,14 @@ DTSTART:20251030T133000
 DTEND:20251030T150500
 SUMMARY:WED (w)
 LOCATION:309 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251030T160000
+DTEND:20251030T173500
+SUMMARY:WED (w)
+LOCATION:309 S
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
@@ -386,7 +379,7 @@ DTSTART:20251106T133000
 DTEND:20251106T150500
 SUMMARY:WED (w)
 LOCATION:309 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T080000
@@ -412,6 +405,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T133000
 DTEND:20251113T150500
+SUMMARY:WED (w)
+LOCATION:309 S
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251113T160000
+DTEND:20251113T173500
 SUMMARY:WED (w)
 LOCATION:309 S
 DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz

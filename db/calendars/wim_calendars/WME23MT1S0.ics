@@ -295,7 +295,7 @@ DTSTART:20251103T114000
 DTEND:20251103T131500
 SUMMARY:Ptr (L)
 LOCATION:4c/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251110T114000
@@ -330,7 +330,7 @@ DTSTART:20251208T114000
 DTEND:20251208T131500
 SUMMARY:Ptr (L)
 LOCATION:4d/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T114000
@@ -449,7 +449,7 @@ DTSTART:20251208T133000
 DTEND:20251208T150500
 SUMMARY:Ptr (L)
 LOCATION:4d/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T133000
@@ -1212,7 +1212,7 @@ DTSTART:20251104T160000
 DTEND:20251104T173500
 SUMMARY:Ptr (L)
 LOCATION:4c/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251111T160000
@@ -1234,6 +1234,13 @@ DTEND:20251202T173500
 SUMMARY:Par (L)
 LOCATION:14/ 23a; 4/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251216T160000
+DTEND:20251216T173500
+SUMMARY:Ptr (L)
+LOCATION:4d/ 19; 3d/ 19
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T160000
@@ -1297,6 +1304,13 @@ DTEND:20251111T192500
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 49/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251216T175000
+DTEND:20251216T192500
+SUMMARY:Ptr (L)
+LOCATION:4d/ 19; 3d/ 19
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T175000
@@ -1940,7 +1954,7 @@ DTSTART:20251105T160000
 DTEND:20251105T173500
 SUMMARY:Ptr (L)
 LOCATION:4c/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T160000
@@ -2479,7 +2493,7 @@ DTSTART:20251204T114000
 DTEND:20251204T131500
 SUMMARY:Ptr (L)
 LOCATION:4d/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T114000
@@ -2598,7 +2612,7 @@ DTSTART:20251204T133000
 DTEND:20251204T150500
 SUMMARY:Ptr (L)
 LOCATION:4d/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T133000
@@ -2676,13 +2690,6 @@ DTEND:20251023T173500
 SUMMARY:Pkm2 (P)
 LOCATION:108/ 54; 109/ 54 ŚL
 DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Projekt\nNumer zajęć: 11/12\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T160000
-DTEND:20251204T173500
-SUMMARY:Ptr (L)
-LOCATION:4d/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T160000
@@ -3066,7 +3073,7 @@ BEGIN:VEVENT
 DTSTART:20251121T095000
 DTEND:20251121T112500
 SUMMARY:DSiSM (ć)
-LOCATION:3/043
+LOCATION:
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT

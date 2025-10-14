@@ -102,20 +102,6 @@ LOCATION:316 S
 DESCRIPTION:Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251012T080000
-DTEND:20251012T093500
-SUMMARY:COD (w)
-LOCATION:316 S
-DESCRIPTION:Cyberodporność\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: Robert Kośla
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251012T095000
-DTEND:20251012T112500
-SUMMARY:COD (w)
-LOCATION:316 S
-DESCRIPTION:Cyberodporność\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: Robert Kośla
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251012T114000
 DTEND:20251012T131500
 SUMMARY:SIZB (w)
@@ -163,6 +149,20 @@ DTEND:20251025T150500
 SUMMARY:CP (w)
 LOCATION:316 S
 DESCRIPTION:Cyberprzestępczość\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: Agnieszka Gryszczyńska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T160000
+DTEND:20251025T173500
+SUMMARY:COD (w)
+LOCATION:316 S
+DESCRIPTION:Cyberodporność\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: Robert Kośla
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T175000
+DTEND:20251025T192500
+SUMMARY:COD (w)
+LOCATION:316 S
+DESCRIPTION:Cyberodporność\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: Robert Kośla
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251026T080000
@@ -632,5 +632,103 @@ DTEND:20260215T150500
 SUMMARY:CSS (L)
 LOCATION:on-line.
 DESCRIPTION:Cybersecurity systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: Alessandro Armando
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260307T080000
+DTEND:20260307T093500
+SUMMARY:Twinf (w)
+LOCATION:316 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260307T095000
+DTEND:20260307T112500
+SUMMARY:Twinf (w)
+LOCATION:316 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260307T114000
+DTEND:20260307T131500
+SUMMARY:Ots (w)
+LOCATION:316 S
+DESCRIPTION:Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260307T133000
+DTEND:20260307T150500
+SUMMARY:Ots (w)
+LOCATION:316 S
+DESCRIPTION:Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260308T080000
+DTEND:20260308T093500
+SUMMARY:Twinf (w)
+LOCATION:316 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260308T095000
+DTEND:20260308T112500
+SUMMARY:Twinf (w)
+LOCATION:316 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260321T114000
+DTEND:20260321T131500
+SUMMARY:Ots (w)
+LOCATION:316 S
+DESCRIPTION:Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260321T133000
+DTEND:20260321T150500
+SUMMARY:Ots (w)
+LOCATION:316 S
+DESCRIPTION:Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260322T080000
+DTEND:20260322T093500
+SUMMARY:Sd. (w)
+LOCATION:316 S
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260322T095000
+DTEND:20260322T112500
+SUMMARY:Sd. (w)
+LOCATION:316 S
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260411T080000
+DTEND:20260411T093500
+SUMMARY:Twinf (w)
+LOCATION:316 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260411T095000
+DTEND:20260411T112500
+SUMMARY:Twinf (w)
+LOCATION:316 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260411T114000
+DTEND:20260411T131500
+SUMMARY:Ots (w)
+LOCATION:316 S
+DESCRIPTION:Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260411T133000
+DTEND:20260411T150500
+SUMMARY:Ots (w)
+LOCATION:316 S
+DESCRIPTION:Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 END:VCALENDAR

@@ -172,6 +172,13 @@ LOCATION:aula/135
 DESCRIPTION:Prawo\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr Śledzik Waldemar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250127T080000
+DTEND:20250127T093500
+SUMMARY:Oin (ć)
+LOCATION:3.16/135
+DESCRIPTION:Ochrona własności intelektualnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Rybiński Janusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251125T095000
 DTEND:20251125T112500
 SUMMARY:Oin (w)
@@ -191,6 +198,13 @@ DTEND:20251209T112500
 SUMMARY:Pz (ć)
 LOCATION:37/158
 DESCRIPTION:Podstawy zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250127T095000
+DTEND:20250127T112500
+SUMMARY:Oin (ć)
+LOCATION:3.16/135
+DESCRIPTION:Ochrona własności intelektualnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Rybiński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T114000
@@ -893,13 +907,6 @@ LOCATION:301/S
 DESCRIPTION:Podstawy zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 13/18\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251113T080000
-DTEND:20251113T093500
-SUMMARY:Oin (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Ochrona własności intelektualnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Rybiński Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251120T080000
 DTEND:20251120T093500
 SUMMARY:Pi (L)
@@ -926,13 +933,6 @@ DTEND:20251030T112500
 SUMMARY:Pz (w)
 LOCATION:301/S
 DESCRIPTION:Podstawy zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 14/18\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251113T095000
-DTEND:20251113T112500
-SUMMARY:Oin (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Ochrona własności intelektualnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Rybiński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T095000

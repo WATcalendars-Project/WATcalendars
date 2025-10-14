@@ -230,9 +230,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T175000
 DTEND:20251017T192500
-SUMMARY:BiIS (w)
+SUMMARY:ZDs (w)
 LOCATION:15/ 23a
-DESCRIPTION:Budowa i identyfikacja samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/13\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
+DESCRIPTION:Zderzenia samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. Seńko Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T175000
@@ -471,6 +471,13 @@ DTEND:20250619T192500
 SUMMARY:C* (ć)
 LOCATION:6/ 23a
 DESCRIPTION:Człowiek a wypadki drogowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: mgr Ucińska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251017T194000
+DTEND:20251017T211500
+SUMMARY:ZDs (w)
+LOCATION:15/ 23a
+DESCRIPTION:Zderzenia samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. Seńko Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T194000
@@ -715,7 +722,7 @@ DTSTART:20251018T080000
 DTEND:20251018T093500
 SUMMARY:ZDs (w)
 LOCATION:
-DESCRIPTION:Zderzenia samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. Seńko Jarosław
+DESCRIPTION:Zderzenia samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. Seńko Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T080000
@@ -750,7 +757,7 @@ DTSTART:20251122T080000
 DTEND:20251122T093500
 SUMMARY:ZDs (w)
 LOCATION:
-DESCRIPTION:Zderzenia samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. Seńko Jarosław
+DESCRIPTION:Zderzenia samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Seńko Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251129T080000
@@ -771,7 +778,7 @@ DTSTART:20251213T080000
 DTEND:20251213T093500
 SUMMARY:ZDs (w)
 LOCATION:
-DESCRIPTION:Zderzenia samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. Seńko Jarosław
+DESCRIPTION:Zderzenia samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Seńko Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T080000
@@ -800,13 +807,6 @@ DTEND:20250110T093500
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 85/425
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250117T080000
-DTEND:20250117T093500
-SUMMARY:ZDs (w)
-LOCATION:
-DESCRIPTION:Zderzenia samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Seńko Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T080000
@@ -960,7 +960,7 @@ DTSTART:20251018T095000
 DTEND:20251018T112500
 SUMMARY:ZDs (w)
 LOCATION:
-DESCRIPTION:Zderzenia samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Seńko Jarosław
+DESCRIPTION:Zderzenia samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Seńko Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T095000
@@ -995,7 +995,7 @@ DTSTART:20251122T095000
 DTEND:20251122T112500
 SUMMARY:ZDs (w)
 LOCATION:
-DESCRIPTION:Zderzenia samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Seńko Jarosław
+DESCRIPTION:Zderzenia samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Seńko Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251129T095000
@@ -1016,7 +1016,7 @@ DTSTART:20251213T095000
 DTEND:20251213T112500
 SUMMARY:ZDs (w)
 LOCATION:
-DESCRIPTION:Zderzenia samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Seńko Jarosław
+DESCRIPTION:Zderzenia samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Seńko Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T095000
@@ -1045,13 +1045,6 @@ DTEND:20250110T112500
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 110/425
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250117T095000
-DTEND:20250117T112500
-SUMMARY:ZDs (w)
-LOCATION:
-DESCRIPTION:Zderzenia samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Seńko Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T095000
@@ -1521,6 +1514,13 @@ DTEND:20250110T150500
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 160/425
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T133000
+DTEND:20250117T150500
+SUMMARY:BiIS (w)
+LOCATION:15/ 23a
+DESCRIPTION:Budowa i identyfikacja samochodów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/13\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T133000
