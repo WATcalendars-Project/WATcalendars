@@ -11,6 +11,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 1/84
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251215T080000
+DTEND:20251215T093500
+SUMMARY:PLm (w)
+LOCATION:52/ 62
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr inż. Orłowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251222T080000
 DTEND:20251222T093500
 SUMMARY:I 
@@ -99,14 +106,14 @@ DTSTART:20251013T114000
 DTEND:20251013T131500
 SUMMARY:PLm (w)
 LOCATION:116/ 54
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr inż. Orłowski Krzysztof
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T114000
 DTEND:20251103T131500
 SUMMARY:PLm (w)
 LOCATION:52/ 62
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr inż. Orłowski Krzysztof
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251110T114000
@@ -613,27 +620,6 @@ LOCATION:52/ 62
 DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: prof. dr. hab. inż. Brzeziński Marian
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251021T080000
-DTEND:20251021T093500
-SUMMARY:PLm (w)
-LOCATION:52/ 62
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr inż. Orłowski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251028T080000
-DTEND:20251028T093500
-SUMMARY:PLm (w)
-LOCATION:52/ 62
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr inż. Orłowski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251104T080000
-DTEND:20251104T093500
-SUMMARY:PLm (w)
-LOCATION:52/ 62
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr inż. Orłowski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251111T080000
 DTEND:20251111T093500
 SUMMARY:I 
@@ -778,7 +764,7 @@ DTSTART:20250113T095000
 DTEND:20250113T112500
 SUMMARY:PLm (w)
 LOCATION:52/ 62
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr inż. Orłowski Krzysztof
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T095000
@@ -1187,6 +1173,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 58/84
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250107T080000
+DTEND:20250107T093500
+SUMMARY:PLm (w)
+LOCATION:52/ 62
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr inż. Orłowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250114T080000
 DTEND:20250114T093500
 SUMMARY:F2 (w)
@@ -1199,13 +1192,6 @@ DTEND:20250121T093500
 SUMMARY:Mwg. (w)
 LOCATION:15/ 23a
 DESCRIPTION:Metrologia wielkości geometrycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Cypko Edward
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250128T080000
-DTEND:20250128T093500
-SUMMARY:Ilog (ć)
-LOCATION:51/ 62
-DESCRIPTION:Infrastruktura logistyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250211T080000
@@ -1336,9 +1322,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250128T095000
 DTEND:20250128T112500
-SUMMARY:PLm (w)
+SUMMARY:Ilog (ć)
 LOCATION:15/ 23a
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr inż. Orłowski Krzysztof
+DESCRIPTION:Infrastruktura logistyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T095000
@@ -1478,7 +1464,7 @@ DTSTART:20251008T133000
 DTEND:20251008T150500
 SUMMARY:PLm (w)
 LOCATION:52/ 62
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. Orłowski Krzysztof
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T133000
@@ -1492,7 +1478,7 @@ DTSTART:20251022T133000
 DTEND:20251022T150500
 SUMMARY:PLm (w)
 LOCATION:52/ 62
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr inż. Orłowski Krzysztof
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T133000
@@ -1577,6 +1563,13 @@ DTEND:20250114T150500
 SUMMARY:LP (L)
 LOCATION:108/ 54
 DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250121T133000
+DTEND:20250121T150500
+SUMMARY:PLm (w)
+LOCATION:15/ 23a
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T133000
@@ -1948,6 +1941,13 @@ DTEND:20250101T131500
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 76/84
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T114000
+DTEND:20250108T131500
+SUMMARY:PLm (w)
+LOCATION:52/ 62
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T114000
@@ -3259,15 +3259,15 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 144/144
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251019T160000
-DTEND:20251019T173500
+DTSTART:20251026T160000
+DTEND:20251026T173500
 SUMMARY:XWDM (w)
 LOCATION:5/ 20
 DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251026T160000
-DTEND:20251026T173500
+DTSTART:20251116T160000
+DTEND:20251116T173500
 SUMMARY:XWDM (w)
 LOCATION:5/ 20
 DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Boruta Grzegorz
@@ -3280,15 +3280,15 @@ LOCATION:5/ 20
 DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251019T175000
-DTEND:20251019T192500
+DTSTART:20251026T175000
+DTEND:20251026T192500
 SUMMARY:XWDM (w)
 LOCATION:5/ 20
 DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251116T175000
-DTEND:20251116T192500
+DTSTART:20251130T175000
+DTEND:20251130T192500
 SUMMARY:XWDM (ć)
 LOCATION:5/ 20
 DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Boruta Grzegorz
@@ -3308,8 +3308,8 @@ LOCATION:5/ 20
 DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251026T194000
-DTEND:20251026T211500
+DTSTART:20251116T194000
+DTEND:20251116T211500
 SUMMARY:XWDM (ć)
 LOCATION:5/ 20
 DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Boruta Grzegorz
