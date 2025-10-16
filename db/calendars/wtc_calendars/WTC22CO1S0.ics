@@ -543,13 +543,6 @@ LOCATION:1 55A
 DESCRIPTION:Analiza instrumentalna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: dr inż. Nawała Jakub
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251014T095000
-DTEND:20251014T112500
-SUMMARY:Dud (w)
-LOCATION:10 55
-DESCRIPTION:Dozymetria i urządzenia dozymetryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/16\nProwadzący: mgr inż. Fliszkiewicz Bartłomiej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251028T095000
 DTEND:20251028T112500
 SUMMARY:Ain (ć)
@@ -961,6 +954,13 @@ DTEND:20251022T093500
 SUMMARY:ZŻWAT i
 LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: i\nNumer zajęć: 1/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T080000
+DTEND:20251105T093500
+SUMMARY:Dud (w)
+LOCATION:10 55
+DESCRIPTION:Dozymetria i urządzenia dozymetryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/16\nProwadzący: mgr inż. Fliszkiewicz Bartłomiej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T080000

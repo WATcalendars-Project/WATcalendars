@@ -312,13 +312,6 @@ LOCATION:0.23/16
 DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251124T133000
-DTEND:20251124T150500
-SUMMARY:Is (ć)
-LOCATION:0.23/16
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251201T133000
 DTEND:20251201T150500
 SUMMARY:Ek (ć)
@@ -337,14 +330,14 @@ DTSTART:20250112T133000
 DTEND:20250112T150500
 SUMMARY:Is (ć)
 LOCATION:0.28/135
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250119T133000
 DTEND:20250119T150500
 SUMMARY:Is (ć)
 LOCATION:0.28/135
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250126T133000
@@ -407,7 +400,7 @@ DTSTART:20251208T160000
 DTEND:20251208T173500
 SUMMARY:Is (ć)
 LOCATION:0.23/16
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T160000
@@ -939,7 +932,7 @@ DTSTART:20251203T095000
 DTEND:20251203T112500
 SUMMARY:Is (ć)
 LOCATION:1.17/16
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T095000
@@ -1051,7 +1044,7 @@ DTSTART:20251217T114000
 DTEND:20251217T131500
 SUMMARY:Is (ć)
 LOCATION:0.8/16
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T114000
@@ -1402,6 +1395,13 @@ DTEND:20251030T112500
 SUMMARY:LP (w)
 LOCATION:aula/135
 DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251106T095000
+DTEND:20251106T112500
+SUMMARY:Is (ć)
+LOCATION:226 S
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T095000

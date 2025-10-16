@@ -459,6 +459,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 17/84
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251201T160000
+DTEND:20251201T173500
+SUMMARY:PuEl (L)
+LOCATION:
+DESCRIPTION:Prototypowanie układów elektronicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: dr inż. Czopik Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251222T160000
 DTEND:20251222T173500
 SUMMARY:I 
@@ -485,6 +492,13 @@ DTEND:20251110T192500
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 21/84
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251201T175000
+DTEND:20251201T192500
+SUMMARY:PuEl (L)
+LOCATION:
+DESCRIPTION:Prototypowanie układów elektronicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: dr inż. Czopik Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T175000
@@ -638,7 +652,7 @@ DTSTART:20250120T080000
 DTEND:20250120T093500
 SUMMARY:PuEl (L)
 LOCATION:
-DESCRIPTION:Prototypowanie układów elektronicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12
+DESCRIPTION:Prototypowanie układów elektronicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250203T080000
@@ -757,7 +771,7 @@ DTSTART:20250120T095000
 DTEND:20250120T112500
 SUMMARY:PuEl (L)
 LOCATION:
-DESCRIPTION:Prototypowanie układów elektronicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12
+DESCRIPTION:Prototypowanie układów elektronicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T095000
@@ -1163,7 +1177,7 @@ DTSTART:20251105T080000
 DTEND:20251105T093500
 SUMMARY:PuEl (L)
 LOCATION:
-DESCRIPTION:Prototypowanie układów elektronicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Czopik Grzegorz
+DESCRIPTION:Prototypowanie układów elektronicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr inż. Czopik Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T080000
@@ -1247,7 +1261,7 @@ DTSTART:20251105T095000
 DTEND:20251105T112500
 SUMMARY:PuEl (L)
 LOCATION:
-DESCRIPTION:Prototypowanie układów elektronicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Czopik Grzegorz
+DESCRIPTION:Prototypowanie układów elektronicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr inż. Czopik Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T095000
@@ -1334,13 +1348,6 @@ LOCATION:54/ 62
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Murawski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251029T114000
-DTEND:20251029T131500
-SUMMARY:PuEl (L)
-LOCATION:
-DESCRIPTION:Prototypowanie układów elektronicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr inż. Czopik Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251105T114000
 DTEND:20251105T131500
 SUMMARY:Cps (w)
@@ -1422,7 +1429,7 @@ DTSTART:20250128T114000
 DTEND:20250128T131500
 SUMMARY:PuEl (L)
 LOCATION:
-DESCRIPTION:Prototypowanie układów elektronicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12
+DESCRIPTION:Prototypowanie układów elektronicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T114000
@@ -1437,13 +1444,6 @@ DTEND:20251008T150500
 SUMMARY:Prmi (w)
 LOCATION:
 DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: mgr inż. Berczyński Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251029T133000
-DTEND:20251029T150500
-SUMMARY:PuEl (L)
-LOCATION:
-DESCRIPTION:Prototypowanie układów elektronicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr inż. Czopik Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T133000

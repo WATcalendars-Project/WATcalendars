@@ -1558,18 +1558,11 @@ LOCATION:9/ 62
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251023T095000
-DTEND:20251023T112500
-SUMMARY:WDM (ć)
-LOCATION:2/ 68
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251030T095000
 DTEND:20251030T112500
 SUMMARY:WDM (ć)
 LOCATION:2/ 68
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T095000
@@ -1709,7 +1702,7 @@ DTSTART:20251120T114000
 DTEND:20251120T131500
 SUMMARY:WDM (ć)
 LOCATION:2/ 68
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T114000
@@ -1794,6 +1787,13 @@ DTEND:20250219T131500
 SUMMARY:Mat2 (Ep)
 LOCATION:51/ 62
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2/2\nProwadzący: dr Ploch Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251023T133000
+DTEND:20251023T150500
+SUMMARY:WDM (ć)
+LOCATION:2/ 68
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T133000

@@ -2596,9 +2596,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T133000
 DTEND:20251016T150500
-SUMMARY:OZWmps (w)
-LOCATION:5/ 19
-DESCRIPTION:Organizacja zaopatrywania wojsk w mps\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: mgr inż. Szpak Roman
+SUMMARY:SpzPW (i)
+LOCATION:
+DESCRIPTION:Spotkanie z Prorektorem ds. Wojskowych\nRodzaj zajęć: (i)\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
@@ -2620,6 +2620,13 @@ DTEND:20251106T150500
 SUMMARY:Pm. (L)
 LOCATION:29/ 54; 30/ 54
 DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251113T133000
+DTEND:20251113T150500
+SUMMARY:OZWmps (w)
+LOCATION:5/ 19
+DESCRIPTION:Organizacja zaopatrywania wojsk w mps\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T133000

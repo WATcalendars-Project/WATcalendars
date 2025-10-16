@@ -4,6 +4,13 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO25AX4S1
 BEGIN:VEVENT
+DTSTART:20250112T080000
+DTEND:20250112T093500
+SUMMARY:Lg (ć)
+LOCATION:1.17/16
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Skulska Joanna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251013T095000
 DTEND:20251013T112500
 SUMMARY:Pi (ć)
@@ -249,25 +256,11 @@ LOCATION:5.27/135
 DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 6/21\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; prof. dr hab. Kościelecki Lech; mgr Dąbrowska - Świder Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251118T080000
-DTEND:20251118T093500
-SUMMARY:Lg (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Skulska Joanna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251125T080000
-DTEND:20251125T093500
-SUMMARY:Lg (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Skulska Joanna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250120T080000
 DTEND:20250120T093500
 SUMMARY:Lg (ć)
 LOCATION:5.17/135
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Skulska Joanna
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T080000
@@ -309,7 +302,7 @@ DTSTART:20250120T095000
 DTEND:20250120T112500
 SUMMARY:Lg (ć)
 LOCATION:5.17/135
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Skulska Joanna
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T095000
@@ -337,7 +330,7 @@ DTSTART:20251209T114000
 DTEND:20251209T131500
 SUMMARY:Lg (ć)
 LOCATION:1.27/135
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Skulska Joanna
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T114000
@@ -351,7 +344,7 @@ DTSTART:20250127T114000
 DTEND:20250127T131500
 SUMMARY:Lg (ć)
 LOCATION:3.16/135
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Skulska Joanna
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T133000
@@ -400,14 +393,14 @@ DTSTART:20251209T133000
 DTEND:20251209T150500
 SUMMARY:Lg (ć)
 LOCATION:1.27/135
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Skulska Joanna
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T133000
 DTEND:20250127T150500
 SUMMARY:Lg (ć)
 LOCATION:3.16/135
-DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Skulska Joanna
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T160000
@@ -884,6 +877,13 @@ DTEND:20250107T211500
 SUMMARY:Pi (ć)
 LOCATION:4.17a/135
 DESCRIPTION:Podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T080000
+DTEND:20251120T093500
+SUMMARY:Lg (ć)
+LOCATION:1.16/16
+DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T080000

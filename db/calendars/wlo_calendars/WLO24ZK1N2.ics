@@ -53,6 +53,13 @@ LOCATION:0.22/16
 DESCRIPTION:Praktyka działań kadrowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251206T080000
+DTEND:20251206T093500
+SUMMARY:Prc (ć)
+LOCATION:0.22/16
+DESCRIPTION:Przedsiębiorczość\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Kaczmarska Krawczak Jadwiga
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251213T080000
 DTEND:20251213T093500
 SUMMARY:Zkre (w)
@@ -204,7 +211,7 @@ DTSTART:20251206T114000
 DTEND:20251206T131500
 SUMMARY:Prc (ć)
 LOCATION:0.8/16
-DESCRIPTION:Przedsiębiorczość\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Kaczmarska Krawczak Jadwiga
+DESCRIPTION:Przedsiębiorczość\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Kaczmarska Krawczak Jadwiga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T114000
@@ -212,13 +219,6 @@ DTEND:20251213T131500
 SUMMARY:Pdk (w)
 LOCATION:0.22/16
 DESCRIPTION:Praktyka działań kadrowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Piotrkowski Kazimierz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251220T114000
-DTEND:20251220T131500
-SUMMARY:Prc (ć)
-LOCATION:0.7/16
-DESCRIPTION:Przedsiębiorczość\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Kaczmarska Krawczak Jadwiga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T114000
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 DTSTART:20251220T133000
 DTEND:20251220T150500
 SUMMARY:Prc (ć)
-LOCATION:0.7/16
+LOCATION:1.27/135
 DESCRIPTION:Przedsiębiorczość\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Kaczmarska Krawczak Jadwiga
 END:VEVENT
 BEGIN:VEVENT
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 DTSTART:20251206T160000
 DTEND:20251206T173500
 SUMMARY:Sd. (S)
-LOCATION:1.15/16
+LOCATION:0.8/16
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/18
 END:VEVENT
 BEGIN:VEVENT

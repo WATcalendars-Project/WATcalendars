@@ -480,6 +480,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 19/147
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250112T133000
+DTEND:20250112T150500
+SUMMARY:Sp* (ć)
+LOCATION:15/ 23a
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250126T133000
 DTEND:20250126T150500
 SUMMARY:REZ 
@@ -1087,13 +1094,6 @@ DTEND:20250120T150500
 SUMMARY:App (L)
 LOCATION:3/ 23a
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250127T133000
-DTEND:20250127T150500
-SUMMARY:Sp* (ć)
-LOCATION:15/ 23a
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250217T133000
@@ -2079,7 +2079,7 @@ BEGIN:VEVENT
 DTSTART:20251113T133000
 DTEND:20251113T150500
 SUMMARY:GmP. (ć)
-LOCATION:5/ 19
+LOCATION:42/ 20
 DESCRIPTION:Gospodarka magazynowa płynami eksploatacyjnymi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10
 END:VEVENT
 BEGIN:VEVENT

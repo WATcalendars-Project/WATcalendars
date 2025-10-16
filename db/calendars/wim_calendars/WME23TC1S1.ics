@@ -396,6 +396,13 @@ LOCATION:22/ 16
 DESCRIPTION:Opakowania w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251027T133000
+DTEND:20251027T150500
+SUMMARY:But (w)
+LOCATION:5/ 23a
+DESCRIPTION:Budowa urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: dr inż. Wieczorek Marcin
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251103T133000
 DTEND:20251103T150500
 SUMMARY:Otw (L)
@@ -466,11 +473,18 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 19/147
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250112T133000
+DTEND:20250112T150500
+SUMMARY:Sp* (ć)
+LOCATION:15/ 23a
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250119T133000
 DTEND:20250119T150500
 SUMMARY:Sp* (ć)
 LOCATION:55/ 62
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250202T133000
@@ -729,7 +743,7 @@ DTSTART:20250113T080000
 DTEND:20250113T093500
 SUMMARY:Sp* (ć)
 LOCATION:55/ 62
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250217T080000
@@ -1082,13 +1096,6 @@ LOCATION:5/ 23a
 DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250127T133000
-DTEND:20250127T150500
-SUMMARY:Sp* (ć)
-LOCATION:15/ 23a
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250210T133000
 DTEND:20250210T150500
 SUMMARY:Tr.Ł.2 (Zp. Ćw)
@@ -1128,7 +1135,7 @@ DTSTART:20251104T160000
 DTEND:20251104T173500
 SUMMARY:But (w)
 LOCATION:6/ 23a
-DESCRIPTION:Budowa urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11
+DESCRIPTION:Budowa urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251111T160000
@@ -1149,7 +1156,7 @@ DTSTART:20251125T160000
 DTEND:20251125T173500
 SUMMARY:But (w)
 LOCATION:15/ 23a
-DESCRIPTION:Budowa urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11
+DESCRIPTION:Budowa urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T160000
@@ -1394,14 +1401,14 @@ DTSTART:20251001T095000
 DTEND:20251001T112500
 SUMMARY:But (w)
 LOCATION:8/ 62
-DESCRIPTION:Budowa urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Budowa urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T095000
 DTEND:20251008T112500
 SUMMARY:But (w)
 LOCATION:9/ 62
-DESCRIPTION:Budowa urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Budowa urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T095000
@@ -1639,7 +1646,7 @@ DTSTART:20251105T133000
 DTEND:20251105T150500
 SUMMARY:But (w)
 LOCATION:5/ 19
-DESCRIPTION:Budowa urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11
+DESCRIPTION:Budowa urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T133000
@@ -1863,7 +1870,7 @@ DTSTART:20251218T080000
 DTEND:20251218T093500
 SUMMARY:But (w)
 LOCATION:8/ 62
-DESCRIPTION:Budowa urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Budowa urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T080000
@@ -1917,9 +1924,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T095000
 DTEND:20251023T112500
-SUMMARY:But (w)
-LOCATION:6/ 23a
-DESCRIPTION:Budowa urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11
+SUMMARY:PeUT (ć)
+LOCATION:2/ 68
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T095000
@@ -1947,7 +1954,7 @@ DTSTART:20251120T095000
 DTEND:20251120T112500
 SUMMARY:PeUT (ć)
 LOCATION:2/ 68
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T095000
@@ -2059,7 +2066,7 @@ DTSTART:20251204T114000
 DTEND:20251204T131500
 SUMMARY:PeUT (ć)
 LOCATION:52/ 62
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T114000
@@ -2116,13 +2123,6 @@ DTEND:20251016T150500
 SUMMARY:Ośl (w)
 LOCATION:2/ 23a
 DESCRIPTION:Ochrona środowiska w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr n. społ. inż. Krupnik Dorota
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251023T133000
-DTEND:20251023T150500
-SUMMARY:PeUT (ć)
-LOCATION:2/ 68
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T133000

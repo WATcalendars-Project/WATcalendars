@@ -1337,7 +1337,7 @@ BEGIN:VEVENT
 DTSTART:20251112T114000
 DTEND:20251112T131500
 SUMMARY:Pwd (ć)
-LOCATION:3.16/135
+LOCATION:8/62
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
@@ -1395,6 +1395,13 @@ DTEND:20250121T131500
 SUMMARY:Ek (ć)
 LOCATION:0.28/135
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: płk dr hab. Stańczyk Konrad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250128T114000
+DTEND:20250128T131500
+SUMMARY:Is (ć)
+LOCATION:227 S
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T133000
@@ -1500,6 +1507,13 @@ DTEND:20250121T150500
 SUMMARY:Ek (ć)
 LOCATION:0.28/135
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: płk dr hab. Stańczyk Konrad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250128T133000
+DTEND:20250128T150500
+SUMMARY:Is (ć)
+LOCATION:227 S
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T160000
@@ -2136,7 +2150,7 @@ DTSTART:20251204T160000
 DTEND:20251204T173500
 SUMMARY:Is (ć)
 LOCATION:0.23/16
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T160000
@@ -2230,13 +2244,6 @@ LOCATION:0.23/16
 DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251121T080000
-DTEND:20251121T093500
-SUMMARY:Is (ć)
-LOCATION:1.16/16
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251205T080000
 DTEND:20251205T093500
 SUMMARY:BiESTS (ć)
@@ -2248,14 +2255,14 @@ DTSTART:20251212T080000
 DTEND:20251212T093500
 SUMMARY:Is (ć)
 LOCATION:1.16/16
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T080000
 DTEND:20251219T093500
 SUMMARY:Is (ć)
 LOCATION:1.17/16
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250116T080000
@@ -2291,13 +2298,6 @@ DTEND:20251114T112500
 SUMMARY:T* (ć)
 LOCATION:0.23/16
 DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Oziębło Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T095000
-DTEND:20251121T112500
-SUMMARY:Is (ć)
-LOCATION:1.16/16
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T095000

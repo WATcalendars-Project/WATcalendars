@@ -2251,11 +2251,18 @@ LOCATION:
 DESCRIPTION:Pdp\nRodzaj zajęć: -\nNumer zajęć: 32/77
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251016T095000
+DTEND:20251016T112500
+SUMMARY:Owp (w)
+LOCATION:120/ 54
+DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: dr inż. Kuchta Wiesław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251030T095000
 DTEND:20251030T112500
 SUMMARY:Owp (w)
 LOCATION:09/ 54A
-DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T095000
@@ -2374,14 +2381,14 @@ DTSTART:20251016T114000
 DTEND:20251016T131500
 SUMMARY:Owp (w)
 LOCATION:120/ 54
-DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T114000
 DTEND:20251023T131500
 SUMMARY:Owp (w)
 LOCATION:120/ 54
-DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T114000
@@ -2437,7 +2444,7 @@ DTSTART:20251218T114000
 DTEND:20251218T131500
 SUMMARY:Owp (w)
 LOCATION:120/ 54
-DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T114000
@@ -2505,9 +2512,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T133000
 DTEND:20251016T150500
-SUMMARY:Owp (w)
-LOCATION:120/ 54
-DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: dr inż. Kuchta Wiesław
+SUMMARY:SpzPW (i)
+LOCATION:
+DESCRIPTION:Spotkanie z Prorektorem ds. Wojskowych\nRodzaj zajęć: (i)\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
