@@ -102,13 +102,6 @@ LOCATION:2/22
 DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251208T114000
-DTEND:20251208T131500
-SUMMARY:LSiA (ć)
-LOCATION:2/22
-DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr hab. inż. Augustyn Sławomir
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251013T133000
 DTEND:20251013T150500
 SUMMARY:LSiA (w)
@@ -128,13 +121,6 @@ DTEND:20251103T150500
 SUMMARY:QMiL (w)
 LOCATION:2/22
 DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Rykała Magdalena
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251208T133000
-DTEND:20251208T150500
-SUMMARY:LSiA (ć)
-LOCATION:2/22
-DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T133000
@@ -204,14 +190,14 @@ DTSTART:20251118T114000
 DTEND:20251118T131500
 SUMMARY:LSiA (ć)
 LOCATION:0.22/16
-DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr hab. inż. Augustyn Sławomir
+DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T133000
 DTEND:20251118T150500
 SUMMARY:LSiA (ć)
 LOCATION:0.22/16
-DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr hab. inż. Augustyn Sławomir
+DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T080000
@@ -316,14 +302,14 @@ DTSTART:20251127T095000
 DTEND:20251127T112500
 SUMMARY:LSiA (ć)
 LOCATION:2/22
-DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr hab. inż. Augustyn Sławomir
+DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T095000
 DTEND:20251204T112500
 SUMMARY:LSiA (ć)
 LOCATION:2/22
-DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr hab. inż. Augustyn Sławomir
+DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T114000
@@ -337,7 +323,7 @@ DTSTART:20251204T114000
 DTEND:20251204T131500
 SUMMARY:LSiA (ć)
 LOCATION:2/22
-DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr hab. inż. Augustyn Sławomir
+DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T114000
@@ -452,6 +438,13 @@ LOCATION:25/26; 25/26; 25/26; 25/26; 25/26; 25CX; 1S; 7 Jag; 128 K
 DESCRIPTION:Język polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: mgr Jagiełło Agata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251114T080000
+DTEND:20251114T093500
+SUMMARY:LSiA (ć)
+LOCATION:2/22
+DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr hab. inż. Augustyn Sławomir
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251205T080000
 DTEND:20251205T093500
 SUMMARY:LPP (ć)
@@ -464,5 +457,12 @@ DTEND:20251219T093500
 SUMMARY:LPP (P)
 LOCATION:2/22
 DESCRIPTION:Logistic Processes Planning\nRodzaj zajęć: Projekt\nNumer zajęć: 4/4\nProwadzący: dr inż. Owczarek Paulina
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251114T095000
+DTEND:20251114T112500
+SUMMARY:LSiA (ć)
+LOCATION:2/22
+DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 END:VCALENDAR

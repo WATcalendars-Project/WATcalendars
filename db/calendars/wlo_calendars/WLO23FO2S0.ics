@@ -270,18 +270,11 @@ LOCATION:0.19/135
 DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251124T175000
-DTEND:20251124T192500
-SUMMARY:Nsl* (ć)
-LOCATION:0.8/16
-DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr hab. inż. Augustyn Sławomir
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251201T175000
 DTEND:20251201T192500
 SUMMARY:Nsl* (ć)
 LOCATION:0.8/16
-DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr hab. inż. Augustyn Sławomir
+DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T175000
@@ -1485,7 +1478,7 @@ DTSTART:20250108T095000
 DTEND:20250108T112500
 SUMMARY:Nsl* (ć)
 LOCATION:0.8/16
-DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Augustyn Sławomir
+DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T095000
@@ -1660,7 +1653,7 @@ DTSTART:20251113T133000
 DTEND:20251113T150500
 SUMMARY:Nsl* (ć)
 LOCATION:0.8/16
-DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr hab. inż. Augustyn Sławomir
+DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T133000
@@ -1744,7 +1737,7 @@ DTSTART:20251113T160000
 DTEND:20251113T173500
 SUMMARY:Nsl* (ć)
 LOCATION:0.8/16
-DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr hab. inż. Augustyn Sławomir
+DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T160000
@@ -1803,25 +1796,18 @@ LOCATION:aula/135
 DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251113T175000
+DTEND:20251113T192500
+SUMMARY:SLwLSZ (w)
+LOCATION:301/S
+DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: płk mgr inż. Górski Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251120T175000
 DTEND:20251120T192500
 SUMMARY:Bśt (ć)
 LOCATION:0.23/16
 DESCRIPTION:Budowa środków transportowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: mgr inż. Radzimierski Mariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250115T175000
-DTEND:20250115T192500
-SUMMARY:SLwLSZ (w)
-LOCATION:1.10/16; 1.9/16
-DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: płk mgr inż. Górski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250122T175000
-DTEND:20250122T192500
-SUMMARY:SLwLSZ (w)
-LOCATION:aula/135
-DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T194000
@@ -1835,7 +1821,7 @@ DTSTART:20251024T080000
 DTEND:20251024T093500
 SUMMARY:Nsl* (ć)
 LOCATION:0.8/16
-DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr hab. inż. Augustyn Sławomir
+DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T080000
@@ -1857,6 +1843,13 @@ DTEND:20251114T093500
 SUMMARY:PoMa (w)
 LOCATION:aula/135
 DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: prof. WAT Kler Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T080000
+DTEND:20251121T093500
+SUMMARY:Nsl* (ć)
+LOCATION:3.16/135
+DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T080000
@@ -2172,6 +2165,13 @@ DTEND:20251024T192500
 SUMMARY:Pmiuwl (w)
 LOCATION:
 DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Torzewski Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T175000
+DTEND:20251121T192500
+SUMMARY:SLwLSZ (w)
+LOCATION:
+DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T095000

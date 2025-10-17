@@ -74,18 +74,11 @@ LOCATION:0.28/135
 DESCRIPTION:Transformacja cyfrowa organizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251124T160000
-DTEND:20251124T173500
-SUMMARY:Kzl (P)
-LOCATION:1.17/16
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 1/10\nProwadzący: dr Piotrkowski Kazimierz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251215T160000
 DTEND:20251215T173500
 SUMMARY:Kzl (P)
 LOCATION:4.17a/135
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 2/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 1/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250112T160000
@@ -99,7 +92,7 @@ DTSTART:20250126T160000
 DTEND:20250126T173500
 SUMMARY:Kzl (P)
 LOCATION:1.17/16
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 3/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 2/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T175000
@@ -148,7 +141,7 @@ DTSTART:20250126T175000
 DTEND:20250126T192500
 SUMMARY:Kzl (P)
 LOCATION:1.17/16
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 4/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 3/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T194000
@@ -205,6 +198,13 @@ DTEND:20250113T093500
 SUMMARY:ZKo (ć)
 LOCATION:4.17b/135
 DESCRIPTION:Zarządzanie kompetencjami w organizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr inż. Wojciechowski Zdzislaw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250120T080000
+DTEND:20250120T093500
+SUMMARY:Kzl (P)
+LOCATION:4.17b/135
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 4/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250916T095000
@@ -410,13 +410,6 @@ LOCATION:0.24/135
 DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250120T160000
-DTEND:20250120T173500
-SUMMARY:Kzl (P)
-LOCATION:4.17b/135
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 5/10\nProwadzący: dr Piotrkowski Kazimierz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251104T175000
 DTEND:20251104T192500
 SUMMARY:Trans.Cyfr.Org. (w)
@@ -471,6 +464,13 @@ DTEND:20251104T211500
 SUMMARY:Trans.Cyfr.Org. (w)
 LOCATION:0.24/135
 DESCRIPTION:Transformacja cyfrowa organizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: dr Sołek-Borowska Celina
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251112T080000
+DTEND:20251112T093500
+SUMMARY:PzK (ć)
+LOCATION:0.22/16
+DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250114T080000
@@ -676,6 +676,13 @@ LOCATION:0.28/135
 DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Tarapata Jolanta
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251119T160000
+DTEND:20251119T173500
+SUMMARY:Kzl (P)
+LOCATION:5.17/135
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 5/10\nProwadzący: dr Piotrkowski Kazimierz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251126T160000
 DTEND:20251126T173500
 SUMMARY:Zkn (ć)
@@ -736,7 +743,7 @@ DTSTART:20251119T175000
 DTEND:20251119T192500
 SUMMARY:PzK (ć)
 LOCATION:0.7/16
-DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
+DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T175000
@@ -778,14 +785,14 @@ DTSTART:20251105T194000
 DTEND:20251105T211500
 SUMMARY:PzK (ć)
 LOCATION:9/158
-DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
+DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T194000
 DTEND:20251119T211500
 SUMMARY:PzK (ć)
 LOCATION:0.7/16
-DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9
+DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T080000
@@ -872,6 +879,13 @@ LOCATION:4.23/135
 DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250129T095000
+DTEND:20250129T112500
+SUMMARY:Kzl (P)
+LOCATION:37/158
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 6/10\nProwadzący: dr Piotrkowski Kazimierz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251009T114000
 DTEND:20251009T131500
 SUMMARY:Sd. (S)
@@ -897,7 +911,7 @@ DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:Kzl (P)
 LOCATION:4.23/135
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 6/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 7/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T114000
@@ -966,7 +980,7 @@ BEGIN:VEVENT
 DTSTART:20251106T133000
 DTEND:20251106T150500
 SUMMARY:KwZ (ć)
-LOCATION:
+LOCATION:252 S
 DESCRIPTION:Komunikacja w zarządzaniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
@@ -1031,13 +1045,6 @@ DTEND:20251106T173500
 SUMMARY:S.OiW.P. (w)
 LOCATION:0.28/135
 DESCRIPTION:Systemy oceniania i wynagradzania pracowników\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Piotrkowski Kazimierz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251113T160000
-DTEND:20251113T173500
-SUMMARY:Kzl (P)
-LOCATION:37/158
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 7/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T160000
@@ -1173,13 +1180,6 @@ LOCATION:0.19/135
 DESCRIPTION:Systemy oceniania i wynagradzania pracowników\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251024T114000
-DTEND:20251024T131500
-SUMMARY:Zkn (w)
-LOCATION:
-DESCRIPTION:Zarządzanie kapitałem niematerialnym\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr hab. Domańska-Szaruga Beata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251031T114000
 DTEND:20251031T131500
 SUMMARY:Kzl (w)
@@ -1247,14 +1247,14 @@ DTSTART:20251107T133000
 DTEND:20251107T150500
 SUMMARY:Zkn (w)
 LOCATION:0.28/135
-DESCRIPTION:Zarządzanie kapitałem niematerialnym\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab. Domańska-Szaruga Beata
+DESCRIPTION:Zarządzanie kapitałem niematerialnym\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr hab. Domańska-Szaruga Beata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T133000
 DTEND:20251114T150500
 SUMMARY:Zkn (w)
 LOCATION:0.28/135
-DESCRIPTION:Zarządzanie kapitałem niematerialnym\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr hab. Domańska-Szaruga Beata
+DESCRIPTION:Zarządzanie kapitałem niematerialnym\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab. Domańska-Szaruga Beata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T133000
@@ -1303,21 +1303,21 @@ DTSTART:20251031T160000
 DTEND:20251031T173500
 SUMMARY:Zkn (w)
 LOCATION:0.28/135
-DESCRIPTION:Zarządzanie kapitałem niematerialnym\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab. Domańska-Szaruga Beata
+DESCRIPTION:Zarządzanie kapitałem niematerialnym\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr hab. Domańska-Szaruga Beata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T160000
 DTEND:20251107T173500
 SUMMARY:Zkn (w)
 LOCATION:0.28/135
-DESCRIPTION:Zarządzanie kapitałem niematerialnym\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. Domańska-Szaruga Beata
+DESCRIPTION:Zarządzanie kapitałem niematerialnym\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab. Domańska-Szaruga Beata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T160000
 DTEND:20251114T173500
 SUMMARY:Zkn (w)
 LOCATION:0.28/135
-DESCRIPTION:Zarządzanie kapitałem niematerialnym\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab. Domańska-Szaruga Beata
+DESCRIPTION:Zarządzanie kapitałem niematerialnym\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. Domańska-Szaruga Beata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T160000
@@ -1359,6 +1359,13 @@ DTSTART:20251031T175000
 DTEND:20251031T192500
 SUMMARY:Zkn (w)
 LOCATION:0.28/135
+DESCRIPTION:Zarządzanie kapitałem niematerialnym\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab. Domańska-Szaruga Beata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251107T175000
+DTEND:20251107T192500
+SUMMARY:Zkn (w)
+LOCATION:0.28/135
 DESCRIPTION:Zarządzanie kapitałem niematerialnym\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr hab. Domańska-Szaruga Beata
 END:VEVENT
 BEGIN:VEVENT
@@ -1367,13 +1374,6 @@ DTEND:20251114T192500
 SUMMARY:PG (w)
 LOCATION:0.24/135
 DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. Kamiński Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251212T175000
-DTEND:20251212T192500
-SUMMARY:PzK (ć)
-LOCATION:0.21/16
-DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T194000

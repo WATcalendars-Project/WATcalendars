@@ -305,13 +305,6 @@ LOCATION:0.22/16
 DESCRIPTION:Praktyka działań kadrowych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251220T133000
-DTEND:20251220T150500
-SUMMARY:Prc (ć)
-LOCATION:1.27/135
-DESCRIPTION:Przedsiębiorczość\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Kaczmarska Krawczak Jadwiga
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250110T133000
 DTEND:20250110T150500
 SUMMARY:Pdk (ć)
@@ -384,9 +377,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T160000
 DTEND:20251206T173500
-SUMMARY:Sd. (S)
+SUMMARY:Prc (ć)
 LOCATION:0.8/16
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/18
+DESCRIPTION:Przedsiębiorczość\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Kaczmarska Krawczak Jadwiga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T160000
@@ -400,7 +393,7 @@ DTSTART:20251220T160000
 DTEND:20251220T173500
 SUMMARY:Sd. (S)
 LOCATION:4.17b/135
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/18
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T160000
@@ -414,7 +407,7 @@ DTSTART:20250117T160000
 DTEND:20250117T173500
 SUMMARY:Sd. (S)
 LOCATION:1.15/16
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/18
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T160000
@@ -442,7 +435,7 @@ DTSTART:20251025T175000
 DTEND:20251025T192500
 SUMMARY:Sd. (S)
 LOCATION:31/158
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/18
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T175000
@@ -471,6 +464,13 @@ DTEND:20251213T192500
 SUMMARY:Zkre (ć)
 LOCATION:
 DESCRIPTION:Zarządzanie kapitałem relacyjnym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr hab. Wereda Wioletta
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T175000
+DTEND:20251220T192500
+SUMMARY:Sd. (S)
+LOCATION:4.17b/135
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T175000
@@ -566,30 +566,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T080000
 DTEND:20251123T093500
-SUMMARY:MWiPM (w)
+SUMMARY:Sd. (S)
 LOCATION:0.22/16
-DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Skulska Joanna
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T080000
 DTEND:20251207T093500
 SUMMARY:MWiPM (w)
 LOCATION:0.22/16
-DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Skulska Joanna
+DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251214T080000
 DTEND:20251214T093500
 SUMMARY:MWiPM (w)
 LOCATION:0.8/16
-DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Skulska Joanna
+DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251221T080000
 DTEND:20251221T093500
 SUMMARY:Sd. (S)
 LOCATION:0.22/16
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/18
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 12/18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250111T080000
@@ -624,7 +624,7 @@ DTSTART:20251109T095000
 DTEND:20251109T112500
 SUMMARY:MWiPM (w)
 LOCATION:0.22/16
-DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Skulska Joanna
+DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T095000
@@ -638,7 +638,7 @@ DTSTART:20251123T095000
 DTEND:20251123T112500
 SUMMARY:Sd. (S)
 LOCATION:0.22/16
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 12/18
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 13/18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T095000
@@ -687,7 +687,7 @@ DTSTART:20250201T095000
 DTEND:20250201T112500
 SUMMARY:Sd. (S)
 LOCATION:4.17b/135
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 13/18
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 14/18
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251012T114000
@@ -699,9 +699,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251026T114000
 DTEND:20251026T131500
-SUMMARY:Sd. (S)
-LOCATION:2/22
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 14/18
+SUMMARY:MWiPM (w)
+LOCATION:0.7/16
+DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251109T114000

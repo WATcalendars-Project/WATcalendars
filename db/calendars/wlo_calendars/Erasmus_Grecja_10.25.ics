@@ -116,13 +116,6 @@ LOCATION:2/22
 DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251208T114000
-DTEND:20251208T131500
-SUMMARY:LSiA (ć)
-LOCATION:2/22
-DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr hab. inż. Augustyn Sławomir
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251013T133000
 DTEND:20251013T150500
 SUMMARY:LSiA (w)
@@ -149,13 +142,6 @@ DTEND:20251201T150500
 SUMMARY:WaS (L)
 LOCATION:2/22
 DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251208T133000
-DTEND:20251208T150500
-SUMMARY:LSiA (ć)
-LOCATION:2/22
-DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T133000
@@ -267,7 +253,7 @@ DTSTART:20251118T114000
 DTEND:20251118T131500
 SUMMARY:LSiA (ć)
 LOCATION:0.22/16
-DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr hab. inż. Augustyn Sławomir
+DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000
@@ -281,7 +267,7 @@ DTSTART:20251118T133000
 DTEND:20251118T150500
 SUMMARY:LSiA (ć)
 LOCATION:0.22/16
-DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr hab. inż. Augustyn Sławomir
+DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T133000
@@ -505,14 +491,14 @@ DTSTART:20251127T095000
 DTEND:20251127T112500
 SUMMARY:LSiA (ć)
 LOCATION:2/22
-DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr hab. inż. Augustyn Sławomir
+DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T095000
 DTEND:20251204T112500
 SUMMARY:LSiA (ć)
 LOCATION:2/22
-DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr hab. inż. Augustyn Sławomir
+DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T095000
@@ -540,7 +526,7 @@ DTSTART:20251204T114000
 DTEND:20251204T131500
 SUMMARY:LSiA (ć)
 LOCATION:2/22
-DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr hab. inż. Augustyn Sławomir
+DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T114000
@@ -690,6 +676,13 @@ LOCATION:25/26; 25/26; 25/26 Grz
 DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251114T080000
+DTEND:20251114T093500
+SUMMARY:LSiA (ć)
+LOCATION:2/22
+DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr hab. inż. Augustyn Sławomir
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251017T095000
 DTEND:20251017T112500
 SUMMARY:WaS (w)
@@ -702,6 +695,13 @@ DTEND:20251031T112500
 SUMMARY:WaS (w)
 LOCATION:25/26; 25/26; 25/26 Grz
 DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251114T095000
+DTEND:20251114T112500
+SUMMARY:LSiA (ć)
+LOCATION:2/22
+DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T095000
