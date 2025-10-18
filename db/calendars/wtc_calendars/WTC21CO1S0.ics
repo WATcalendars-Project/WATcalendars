@@ -127,7 +127,7 @@ DTSTART:20251020T095000
 DTEND:20251020T112500
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T095000
@@ -139,16 +139,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T095000
 DTEND:20251103T112500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 2/49
+SUMMARY:Bbi (w)
+LOCATION:1 55A
+DESCRIPTION:Broń biologiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: prof.dr hab.inż. Witkiewicz Zygfryd
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T095000
 DTEND:20251117T112500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3/49
+SUMMARY:Chj (L)
+LOCATION:19 55
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T095000
@@ -160,9 +160,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T095000
 DTEND:20251201T112500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 4/49
+SUMMARY:PSt (ć)
+LOCATION:1 55A
+DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: dr hab. inż. Oton Martinez Eva
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T095000
@@ -184,13 +184,6 @@ DTEND:20250112T112500
 SUMMARY:50% SzS
 LOCATION:ć
 DESCRIPTION:50%\nRodzaj zajęć: SzS\nNumer zajęć: 2/4\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250119T095000
-DTEND:20250119T112500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 5/49
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250126T095000
@@ -218,14 +211,7 @@ DTSTART:20251020T114000
 DTEND:20251020T131500
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 6/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251027T114000
-DTEND:20251027T131500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 7/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 2/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T114000
@@ -237,9 +223,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T114000
 DTEND:20251117T131500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 8/49
+SUMMARY:Chj (L)
+LOCATION:19 55
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T114000
@@ -267,7 +253,7 @@ DTSTART:20251215T114000
 DTEND:20251215T131500
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 9/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250112T114000
@@ -277,11 +263,18 @@ LOCATION:ŚNIEŻNIK
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: prof.dr hab.inż. Witkiewicz Zygfryd
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250119T114000
+DTEND:20250119T131500
+SUMMARY:Chj (w)
+LOCATION:10 55
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250126T114000
 DTEND:20250126T131500
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 10/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 4/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250929T133000
@@ -302,14 +295,7 @@ DTSTART:20251013T133000
 DTEND:20251013T150500
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 11/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251027T133000
-DTEND:20251027T150500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 12/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 5/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T133000
@@ -344,7 +330,7 @@ DTSTART:20251208T133000
 DTEND:20251208T150500
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 13/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 6/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T133000
@@ -358,7 +344,7 @@ DTSTART:20250112T133000
 DTEND:20250112T150500
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 14/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 7/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250119T133000
@@ -389,60 +375,11 @@ LOCATION:
 DESCRIPTION:Pdp\nRodzaj zajęć: -\nNumer zajęć: 10/70
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251013T160000
-DTEND:20251013T173500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 15/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251020T160000
-DTEND:20251020T173500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 16/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251027T160000
-DTEND:20251027T173500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 17/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251103T160000
-DTEND:20251103T173500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 18/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251117T160000
-DTEND:20251117T173500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 19/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251124T160000
-DTEND:20251124T173500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 20/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251201T160000
-DTEND:20251201T173500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 21/49
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251208T160000
 DTEND:20251208T173500
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 22/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 8/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T160000
@@ -450,27 +387,6 @@ DTEND:20251215T173500
 SUMMARY:50% SzS
 LOCATION:ć
 DESCRIPTION:50%\nRodzaj zajęć: SzS\nNumer zajęć: 4/4\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250112T160000
-DTEND:20250112T173500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 23/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250119T160000
-DTEND:20250119T173500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 24/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250126T160000
-DTEND:20250126T173500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 25/49
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250929T175000
@@ -487,88 +403,11 @@ LOCATION:
 DESCRIPTION:Pdp\nRodzaj zajęć: -\nNumer zajęć: 12/70
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251013T175000
-DTEND:20251013T192500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 26/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251020T175000
-DTEND:20251020T192500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 27/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251027T175000
-DTEND:20251027T192500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 28/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251103T175000
-DTEND:20251103T192500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 29/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251117T175000
-DTEND:20251117T192500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 30/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251124T175000
-DTEND:20251124T192500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 31/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251201T175000
-DTEND:20251201T192500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 32/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251208T175000
-DTEND:20251208T192500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 33/49
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251215T175000
 DTEND:20251215T192500
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 34/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250112T175000
-DTEND:20250112T192500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 35/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250119T175000
-DTEND:20250119T192500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 36/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250126T175000
-DTEND:20250126T192500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 37/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 9/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250929T194000
@@ -585,88 +424,11 @@ LOCATION:
 DESCRIPTION:Pdp\nRodzaj zajęć: -\nNumer zajęć: 14/70
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251013T194000
-DTEND:20251013T211500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 38/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251020T194000
-DTEND:20251020T211500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 39/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251027T194000
-DTEND:20251027T211500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 40/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251103T194000
-DTEND:20251103T211500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 41/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251117T194000
-DTEND:20251117T211500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 42/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251124T194000
-DTEND:20251124T211500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 43/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251201T194000
-DTEND:20251201T211500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 44/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251208T194000
-DTEND:20251208T211500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 45/49
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251215T194000
 DTEND:20251215T211500
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 46/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250112T194000
-DTEND:20250112T211500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 47/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250119T194000
-DTEND:20250119T211500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 48/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250126T194000
-DTEND:20250126T211500
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 49/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 10/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250930T080000
@@ -701,70 +463,70 @@ DTSTART:20251028T080000
 DTEND:20251028T093500
 SUMMARY:Chj (L)
 LOCATION:19 55
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T080000
 DTEND:20251104T093500
-SUMMARY:Chj (L)
-LOCATION:19 55
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+SUMMARY:PSt (ć)
+LOCATION:2 5
+DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: dr hab. inż. Oton Martinez Eva
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T080000
 DTEND:20251118T093500
 SUMMARY:Chj (L)
 LOCATION:19 55
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T080000
 DTEND:20251125T093500
 SUMMARY:Chj (L)
 LOCATION:19 55
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T080000
 DTEND:20251202T093500
 SUMMARY:Chj (L)
 LOCATION:19 55
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T080000
 DTEND:20251209T093500
 SUMMARY:Chj (L)
 LOCATION:19 55
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T080000
 DTEND:20251216T093500
 SUMMARY:Chj (L)
 LOCATION:19 55
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T080000
 DTEND:20250113T093500
 SUMMARY:Chj (L)
 LOCATION:19 55
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T080000
 DTEND:20250120T093500
 SUMMARY:Chj (L)
 LOCATION:19 55
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T080000
 DTEND:20250127T093500
 SUMMARY:Chj (L)
 LOCATION:19 55
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250930T095000
@@ -785,28 +547,28 @@ DTSTART:20251014T095000
 DTEND:20251014T112500
 SUMMARY:Bbi (w)
 LOCATION:1 55A
-DESCRIPTION:Broń biologiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: prof.dr hab.inż. Witkiewicz Zygfryd
+DESCRIPTION:Broń biologiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: prof.dr hab.inż. Witkiewicz Zygfryd
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T095000
 DTEND:20251021T112500
 SUMMARY:Bbi (w)
 LOCATION:1 55A
-DESCRIPTION:Broń biologiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: prof.dr hab.inż. Witkiewicz Zygfryd
+DESCRIPTION:Broń biologiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: prof.dr hab.inż. Witkiewicz Zygfryd
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T095000
 DTEND:20251028T112500
 SUMMARY:Chj (L)
 LOCATION:19 55
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T095000
 DTEND:20251104T112500
-SUMMARY:Chj (L)
-LOCATION:19 55
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/20\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+SUMMARY:PSt (ć)
+LOCATION:2 5
+DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: dr hab. inż. Oton Martinez Eva
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T095000
@@ -995,14 +757,14 @@ DTSTART:20251028T133000
 DTEND:20251028T150500
 SUMMARY:Bbi (w)
 LOCATION:1 55A
-DESCRIPTION:Broń biologiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: prof.dr hab.inż. Witkiewicz Zygfryd
+DESCRIPTION:Broń biologiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: prof.dr hab.inż. Witkiewicz Zygfryd
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T133000
 DTEND:20251104T150500
 SUMMARY:Bbi (w)
 LOCATION:1 55A
-DESCRIPTION:Broń biologiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: prof.dr hab.inż. Witkiewicz Zygfryd
+DESCRIPTION:Broń biologiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: prof.dr hab.inż. Witkiewicz Zygfryd
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T133000
@@ -1037,7 +799,7 @@ DTSTART:20250113T133000
 DTEND:20250113T150500
 SUMMARY:PSt (ć)
 LOCATION:2 55A
-DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: dr hab. inż. Oton Martinez Eva
+DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: dr hab. inż. Oton Martinez Eva
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T133000
@@ -1171,27 +933,6 @@ DTEND:20251014T192500
 SUMMARY:Ja (ć)
 LOCATION:231 K;230 K;134 K;133 K;131 K;128 K;127 K;125 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/30
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251104T175000
-DTEND:20251104T192500
-SUMMARY:PSt (ć)
-LOCATION:166 S
-DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: dr hab. inż. Oton Martinez Eva
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251202T175000
-DTEND:20251202T192500
-SUMMARY:PSt (ć)
-LOCATION:166 S
-DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: dr hab. inż. Oton Martinez Eva
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251209T175000
-DTEND:20251209T192500
-SUMMARY:PSt (ć)
-LOCATION:166 S
-DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: dr hab. inż. Oton Martinez Eva
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T175000
@@ -1338,18 +1079,11 @@ DTSTART:20251015T095000
 DTEND:20251015T112500
 SUMMARY:Bbi (w)
 LOCATION:1 55A
-DESCRIPTION:Broń biologiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: prof.dr hab.inż. Witkiewicz Zygfryd
+DESCRIPTION:Broń biologiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: prof.dr hab.inż. Witkiewicz Zygfryd
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T095000
 DTEND:20251029T112500
-SUMMARY:Bbi (w)
-LOCATION:1 55A
-DESCRIPTION:Broń biologiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: prof.dr hab.inż. Witkiewicz Zygfryd
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251105T095000
-DTEND:20251105T112500
 SUMMARY:Bbi (w)
 LOCATION:1 55A
 DESCRIPTION:Broń biologiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: prof.dr hab.inż. Witkiewicz Zygfryd
@@ -1478,7 +1212,7 @@ DTSTART:20251119T114000
 DTEND:20251119T131500
 SUMMARY:Chj (w)
 LOCATION:1 55A
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T114000
@@ -1947,7 +1681,7 @@ DTSTART:20251211T095000
 DTEND:20251211T112500
 SUMMARY:Chj (w)
 LOCATION:2 55A
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T095000
@@ -2662,13 +2396,6 @@ DTEND:20251010T150500
 SUMMARY:Pdp 
 LOCATION:
 DESCRIPTION:Pdp\nRodzaj zajęć: -\nNumer zajęć: 64/70
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251017T133000
-DTEND:20251017T150500
-SUMMARY:Chj (w)
-LOCATION:1 55A
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T133000
