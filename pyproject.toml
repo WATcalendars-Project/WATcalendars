@@ -42,6 +42,7 @@ dependencies = [
     "docx2pdf>=0.1.8",
     "PyMuPDF>=1.24.9",
     "Pillow>=10.3.0",
+    "backports.zoneinfo; python_version < '3.9'",
 ]
 
 [project.urls]

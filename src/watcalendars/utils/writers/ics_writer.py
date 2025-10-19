@@ -1,7 +1,43 @@
 import os
+from datetime import datetime, timezone, timedelta
 from watcalendars import CALENDARS_DIR
 from watcalendars.utils.config import sanitize_filename
 from watcalendars.utils.logutils import log, log_entry, SUCCESS, WARNING, OK, ERROR
+
+def _last_sunday(year: int, month: int) -> int:
+    """Return day-of-month for the last Sunday in given month/year."""
+    if month == 12:
+        next_month = datetime(year + 1, 1, 1)
+    else:
+        next_month = datetime(year, month + 1, 1)
+    last = next_month - timedelta(days=1)
+    return (last.day - ((last.weekday() + 1) % 7))
+
+def _warsaw_utc_offset(dt_local_naive: datetime) -> timedelta:
+    """Approximate Europe/Warsaw UTC offset without tzdata.
+    Rules (current EU):
+    - Standard time (CET, UTC+1): from last Sunday of October 03:00 local until last Sunday of March 02:00 UTC.
+    - Daylight time (CEST, UTC+2): from last Sunday of March 02:00 local until last Sunday of October 03:00 local.
+    """
+    y = dt_local_naive.year
+    mar_day = _last_sunday(y, 3)
+    dst_start = datetime(y, 3, mar_day, 2, 0, 0)
+    oct_day = _last_sunday(y, 10)
+    dst_end = datetime(y, 10, oct_day, 3, 0, 0)
+    if dst_start <= dt_local_naive < dst_end:
+        return timedelta(hours=2)
+    return timedelta(hours=1)
+
+def _format_dt_utc(dt):
+    """Return ICS datetime string in UTC with 'Z'. If dt is naive, assume Europe/Warsaw local time."""
+    if dt is None:
+        return ""
+    if dt.tzinfo is None:
+        offset = _warsaw_utc_offset(dt)
+        utc_dt = dt - offset
+    else:
+        utc_dt = dt.astimezone(timezone.utc)
+    return (utc_dt if isinstance(utc_dt, datetime) else dt).strftime("%Y%m%dT%H%M%SZ")
 
 def get_target_dir(faculty_prefix=""):
     if faculty_prefix:
@@ -46,8 +82,8 @@ def generate_ics_content(group_id, lessons):
         if not norm_lesson["start"] or not norm_lesson["end"]:
             continue  
             
-        dtstart = norm_lesson["start"].strftime("%Y%m%dT%H%M%S")
-        dtend = norm_lesson["end"].strftime("%Y%m%dT%H%M%S")
+        dtstart = _format_dt_utc(norm_lesson["start"]) 
+        dtend = _format_dt_utc(norm_lesson["end"]) 
         summary = f"{norm_lesson['subject']} {norm_lesson['type']}"
         location = norm_lesson["room"]
         
