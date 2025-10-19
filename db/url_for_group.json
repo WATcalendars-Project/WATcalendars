@@ -19,6 +19,13 @@
             "description": "WEL groups"
         }
     ],
+    "wig_groups": [
+        {
+            "url_podkategoria": "https://www.wig.wat.edu.pl/cpp/index.php/studenci/plany-rozklady-terminy/rozklady-zajec",
+            "url_kategoria": "https://www.wig.wat.edu.pl/cpp/index.php/studenci/plany-rozklady-terminy/rozklady-zajec/{kategoria}",
+            "description": "WIG groups"
+        }
+    ],
     "wim_groups": [
         {
             "url_lato": "https://www.wim.wat.edu.pl/wp-content/uploads/rozklady/lato/index.xml",
@@ -33,6 +40,12 @@
             "description": "WLO groups"
         }
     ],
+    "wml_groups": [
+        {
+            "url": "https://wml.wat.edu.pl/wp-content/uploads/rozklady_zajec/2025_sem_zima/index.xml",
+            "description": "WML groups"
+        }
+    ],
     "wtc_groups": [
         {
             "url": "https://www.wtc.wat.edu.pl/Plany/index.xml",
@@ -40,3 +53,4 @@
         }
     ]
 }
+

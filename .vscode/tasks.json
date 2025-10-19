@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Generate WIG ICS for all groups",
+			"type": "shell",
+			"command": "C:\\Users\\Dominik\\Documents\\GitHub\\new\\WATcalendars\\.venv\\Scripts\\python.exe -m watcalendars.calendar_wig",
+			"isBackground": false,
+			"problemMatcher": [
+				"$eslint-stylish"
+			],
+			"group": "build"
+		}
+	]
+}
