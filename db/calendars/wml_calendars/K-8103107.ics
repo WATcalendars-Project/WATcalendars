@@ -109,6 +109,13 @@ LOCATION:
 DESCRIPTION:Układy elektroniczne i wyposażenie awioniczne\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250126T085000Z
+DTEND:20250126T102500Z
+SUMMARY:Budko 
+LOCATION:
+DESCRIPTION:Budko\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251117T104000Z
 DTEND:20251117T121500Z
 SUMMARY:Pobbs 
@@ -260,7 +267,7 @@ DTSTART:20251118T085000Z
 DTEND:20251118T102500Z
 SUMMARY:Pobbs 
 LOCATION:
-DESCRIPTION:Podstawy budowy  BSP-FPV\nRodzaj zajęć: -
+DESCRIPTION:Podstawy budowy  BSP-FPV\nRodzaj zajęć: -\nProwadzący: mgr inż. Daniel Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T085000Z
@@ -272,16 +279,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T085000Z
 DTEND:20251202T102500Z
-SUMMARY:Senak 
+SUMMARY:Pobbs 
 LOCATION:
-DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251209T085000Z
-DTEND:20251209T102500Z
-SUMMARY:Senak 
-LOCATION:
-DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
+DESCRIPTION:Podstawy budowy  BSP-FPV\nRodzaj zajęć: -\nProwadzący: mgr inż. Daniel Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T085000Z
@@ -300,23 +300,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T104000Z
 DTEND:20251118T121500Z
-SUMMARY:Pobbs 
-LOCATION:
-DESCRIPTION:Podstawy budowy  BSP-FPV\nRodzaj zajęć: -
+SUMMARY:Senak 
+LOCATION:10636
+DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T104000Z
 DTEND:20251125T121500Z
-SUMMARY:Ukewa 
-LOCATION:
-DESCRIPTION:Układy elektroniczne i wyposażenie awioniczne\nRodzaj zajęć: -
+SUMMARY:Senak 
+LOCATION:10636
+DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T104000Z
 DTEND:20251202T121500Z
-SUMMARY:Senak 
+SUMMARY:Ukewa 
 LOCATION:
-DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
+DESCRIPTION:Układy elektroniczne i wyposażenie awioniczne\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T104000Z
@@ -578,6 +578,13 @@ LOCATION:
 DESCRIPTION:Podstawy budowy  BSP-FPV\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250121T123000Z
+DTEND:20250121T140500Z
+SUMMARY:Budko 
+LOCATION:
+DESCRIPTION:Budko\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251120T070000Z
 DTEND:20251120T083500Z
 SUMMARY:Pobbs 
@@ -701,7 +708,7 @@ DTSTART:20251211T104000Z
 DTEND:20251211T121500Z
 SUMMARY:Senak 
 LOCATION:
-DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
+DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T104000Z
@@ -788,13 +795,6 @@ LOCATION:
 DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251212T070000Z
-DTEND:20251212T083500Z
-SUMMARY:Senak 
-LOCATION:10463A
-DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251219T070000Z
 DTEND:20251219T083500Z
 SUMMARY:Werop 
@@ -837,10 +837,10 @@ LOCATION:1725
 DESCRIPTION:Układy elektroniczne i wyposażenie awioniczne\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251212T085000Z
-DTEND:20251212T102500Z
+DTSTART:20251205T085000Z
+DTEND:20251205T102500Z
 SUMMARY:Senak 
-LOCATION:10463A
+LOCATION:
 DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
 END:VEVENT
 BEGIN:VEVENT

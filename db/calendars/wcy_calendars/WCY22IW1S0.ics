@@ -2902,17 +2902,17 @@ LOCATION:101 65
 DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251030T123000Z
-DTEND:20251030T140500Z
-SUMMARY:MAST (L)
-LOCATION:011 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251030T150000Z
 DTEND:20251030T163500Z
 SUMMARY:MAST (L)
-LOCATION:011 65
+LOCATION:237 S
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251030T165000Z
+DTEND:20251030T182500Z
+SUMMARY:MAST (L)
+LOCATION:237 S
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
@@ -3259,20 +3259,6 @@ LOCATION:316 S
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251117T123000Z
-DTEND:20251117T140500Z
-SUMMARY:AśW (L)
-LOCATION:121 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/20\nProwadzący: Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251117T150000Z
-DTEND:20251117T163500Z
-SUMMARY:AśW (L)
-LOCATION:121 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/20\nProwadzący: Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251118T070000Z
 DTEND:20251118T083500Z
 SUMMARY:WF (ć)
@@ -3466,14 +3452,14 @@ DTSTART:20251125T123000Z
 DTEND:20251125T140500Z
 SUMMARY:AśW (L)
 LOCATION:121 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/20\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/20\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T150000Z
 DTEND:20251125T163500Z
 SUMMARY:AśW (L)
 LOCATION:121 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/20\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/20\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T085000Z
@@ -3599,14 +3585,14 @@ DTSTART:20251202T123000Z
 DTEND:20251202T140500Z
 SUMMARY:AśW (L)
 LOCATION:121 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/20\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/20\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T150000Z
 DTEND:20251202T163500Z
 SUMMARY:AśW (L)
 LOCATION:121 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/20\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/20\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T085000Z
@@ -3732,14 +3718,14 @@ DTSTART:20251209T123000Z
 DTEND:20251209T140500Z
 SUMMARY:AśW (L)
 LOCATION:121 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/20\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/20\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T150000Z
 DTEND:20251209T163500Z
 SUMMARY:AśW (L)
 LOCATION:121 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/20\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/20\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T070000Z
@@ -3872,14 +3858,14 @@ DTSTART:20251216T123000Z
 DTEND:20251216T140500Z
 SUMMARY:AśW (L)
 LOCATION:121 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/20\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/20\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T150000Z
 DTEND:20251216T163500Z
 SUMMARY:AśW (L)
 LOCATION:121 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/20\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/20\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T070000Z
@@ -3998,14 +3984,14 @@ DTSTART:20260109T070000Z
 DTEND:20260109T083500Z
 SUMMARY:AśW (L)
 LOCATION:121 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/20\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/20\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T085000Z
 DTEND:20260109T102500Z
 SUMMARY:AśW (L)
 LOCATION:121 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/20\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/20\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T104000Z
@@ -4096,14 +4082,14 @@ DTSTART:20260116T070000Z
 DTEND:20260116T083500Z
 SUMMARY:AśW (L)
 LOCATION:121 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 17/20\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/20\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T085000Z
 DTEND:20260116T102500Z
 SUMMARY:AśW (L)
 LOCATION:121 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 18/20\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/20\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T104000Z
@@ -4201,14 +4187,14 @@ DTSTART:20260123T070000Z
 DTEND:20260123T083500Z
 SUMMARY:AśW (L)
 LOCATION:121 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 19/20\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 17/20\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T085000Z
 DTEND:20260123T102500Z
 SUMMARY:AśW (L)
 LOCATION:121 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 20/20\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 18/20\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T104000Z
@@ -4286,6 +4272,20 @@ DTEND:20260130T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 60/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T150000Z
+DTEND:20260130T163500Z
+SUMMARY:AśW (L)
+LOCATION:121 65
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 19/20\nProwadzący: Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T165000Z
+DTEND:20260130T182500Z
+SUMMARY:AśW (L)
+LOCATION:121 65
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 20/20\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T070000Z

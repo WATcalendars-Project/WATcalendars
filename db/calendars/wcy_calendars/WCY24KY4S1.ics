@@ -1828,7 +1828,7 @@ DTSTART:20250915T060000Z
 DTEND:20250915T073500Z
 SUMMARY:WdP (Inne)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Rafał Kasprzyk
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T094000Z
@@ -2538,6 +2538,13 @@ LOCATION:317 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251112T184000Z
+DTEND:20251112T201500Z
+SUMMARY:WdP (Inne)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251113T070000Z
 DTEND:20251113T083500Z
 SUMMARY:Po (w)
@@ -2634,6 +2641,20 @@ DTEND:20251117T140500Z
 SUMMARY:Sm (w)
 LOCATION:313 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251117T150000Z
+DTEND:20251117T163500Z
+SUMMARY:BD(pp) (L)
+LOCATION:227 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251117T165000Z
+DTEND:20251117T182500Z
+SUMMARY:BD(pp) (L)
+LOCATION:227 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T085000Z
@@ -2788,20 +2809,6 @@ DTEND:20251124T201500Z
 SUMMARY:F1 (Inne)
 LOCATION:313 S
 DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 8/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251125T070000Z
-DTEND:20251125T083500Z
-SUMMARY:BD(pp) (L)
-LOCATION:233 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251125T085000Z
-DTEND:20251125T102500Z
-SUMMARY:BD(pp) (L)
-LOCATION:233 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T123000Z

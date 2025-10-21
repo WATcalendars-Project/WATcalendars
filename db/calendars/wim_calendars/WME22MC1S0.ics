@@ -606,6 +606,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 28/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251028T070000Z
+DTEND:20251028T083500Z
+SUMMARY:Uwb (ć)
+LOCATION:
+DESCRIPTION:Uzbrojenie wozów bojowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: ppłk dr inż. Kijewski Jacek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251104T070000Z
 DTEND:20251104T083500Z
 SUMMARY:Bpg 
@@ -869,14 +876,14 @@ DTSTART:20251125T104000Z
 DTEND:20251125T121500Z
 SUMMARY:Uwb (ć)
 LOCATION:
-DESCRIPTION:Uzbrojenie wozów bojowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
+DESCRIPTION:Uzbrojenie wozów bojowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T104000Z
 DTEND:20251202T121500Z
 SUMMARY:Uwb (ć)
 LOCATION:
-DESCRIPTION:Uzbrojenie wozów bojowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
+DESCRIPTION:Uzbrojenie wozów bojowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T104000Z
@@ -1009,14 +1016,14 @@ DTSTART:20251209T123000Z
 DTEND:20251209T140500Z
 SUMMARY:Uwb (ć)
 LOCATION:
-DESCRIPTION:Uzbrojenie wozów bojowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
+DESCRIPTION:Uzbrojenie wozów bojowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T123000Z
 DTEND:20251216T140500Z
 SUMMARY:Uwb (ć)
 LOCATION:
-DESCRIPTION:Uzbrojenie wozów bojowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
+DESCRIPTION:Uzbrojenie wozów bojowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T123000Z
@@ -1208,6 +1215,13 @@ LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: (i)\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251105T070000Z
+DTEND:20251105T083500Z
+SUMMARY:Mr 
+LOCATION:3/ 23a
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 14/30\nProwadzący: dr inż. Pankiewicz Bolesław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251112T070000Z
 DTEND:20251112T083500Z
 SUMMARY:TR. (w)
@@ -1366,14 +1380,14 @@ DTSTART:20250107T085000Z
 DTEND:20250107T102500Z
 SUMMARY:Uwb (ć)
 LOCATION:
-DESCRIPTION:Uzbrojenie wozów bojowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
+DESCRIPTION:Uzbrojenie wozów bojowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250114T085000Z
 DTEND:20250114T102500Z
 SUMMARY:Uwb (ć)
 LOCATION:
-DESCRIPTION:Uzbrojenie wozów bojowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
+DESCRIPTION:Uzbrojenie wozów bojowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T085000Z
@@ -1646,7 +1660,7 @@ DTSTART:20250204T123000Z
 DTEND:20250204T140500Z
 SUMMARY:Mr 
 LOCATION:2/ 23a
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 14/30\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 15/30\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T140000Z
@@ -1954,18 +1968,11 @@ DTSTART:20251009T075000Z
 DTEND:20251009T092500Z
 SUMMARY:Mr 
 LOCATION:5/ 23a
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 15/30\nProwadzący: dr inż. Pankiewicz Bolesław
+DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 16/30\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T075000Z
 DTEND:20251016T092500Z
-SUMMARY:Mr 
-LOCATION:5/ 23a
-DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 16/30\nProwadzący: dr inż. Pankiewicz Bolesław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251023T075000Z
-DTEND:20251023T092500Z
 SUMMARY:Mr 
 LOCATION:5/ 23a
 DESCRIPTION:Mr\nRodzaj zajęć: -\nNumer zajęć: 17/30\nProwadzący: dr inż. Pankiewicz Bolesław
@@ -2109,13 +2116,6 @@ DTEND:20251106T121500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 5/51
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251113T104000Z
-DTEND:20251113T121500Z
-SUMMARY:Uwb (ć)
-LOCATION:
-DESCRIPTION:Uzbrojenie wozów bojowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: ppłk dr inż. Kijewski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T104000Z

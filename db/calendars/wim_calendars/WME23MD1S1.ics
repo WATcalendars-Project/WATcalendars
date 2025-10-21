@@ -4,6 +4,13 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WME23MD1S1
 BEGIN:VEVENT
+DTSTART:20251027T070000Z
+DTEND:20251027T083500Z
+SUMMARY:Płe (w)
+LOCATION:3/ 54
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251110T070000Z
 DTEND:20251110T083500Z
 SUMMARY:I 
@@ -107,6 +114,13 @@ DTEND:20251110T102500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 5/119
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251117T085000Z
+DTEND:20251117T102500Z
+SUMMARY:DiSRM (w)
+LOCATION:108/ 54
+DESCRIPTION:Dynamika i symulacja ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T085000Z
@@ -284,13 +298,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 12/119
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250112T104000Z
-DTEND:20250112T121500Z
-SUMMARY:Par (L)
-LOCATION:4/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250119T104000Z
 DTEND:20250119T121500Z
 SUMMARY:App (L)
@@ -330,7 +337,7 @@ DTSTART:20251013T113000Z
 DTEND:20251013T130500Z
 SUMMARY:DiSRM (w)
 LOCATION:09/ 54A
-DESCRIPTION:Dynamika i symulacja ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Dynamika i symulacja ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T113000Z
@@ -435,7 +442,7 @@ DTSTART:20250126T123000Z
 DTEND:20250126T140500Z
 SUMMARY:DiSRM (w)
 LOCATION:09/ 54A
-DESCRIPTION:Dynamika i symulacja ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Dynamika i symulacja ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250202T123000Z
@@ -624,13 +631,6 @@ DTSTART:20251014T060000Z
 DTEND:20251014T073500Z
 SUMMARY:Płe (w)
 LOCATION:01/ 54A
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Szczawiński Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251021T060000Z
-DTEND:20251021T073500Z
-SUMMARY:Płe (w)
-LOCATION:01/ 54A
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
@@ -723,13 +723,6 @@ DTEND:20251014T092500Z
 SUMMARY:Płe (w)
 LOCATION:01/ 54A
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Szczawiński Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251021T075000Z
-DTEND:20251021T092500Z
-SUMMARY:Płe (w)
-LOCATION:01/ 54A
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T085000Z
@@ -1082,13 +1075,6 @@ LOCATION:09/ 54A
 DESCRIPTION:Dynamika i symulacja ruchu maszyn\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T150000Z
-DTEND:20251104T163500Z
-SUMMARY:DiSRM (w)
-LOCATION:09/ 54A
-DESCRIPTION:Dynamika i symulacja ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Rubiec Arkadiusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251111T150000Z
 DTEND:20251111T163500Z
 SUMMARY:I 
@@ -1288,15 +1274,8 @@ BEGIN:VEVENT
 DTSTART:20251210T070000Z
 DTEND:20251210T083500Z
 SUMMARY:Par (L)
-LOCATION:14/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T070000Z
-DTEND:20251217T083500Z
-SUMMARY:Par (L)
-LOCATION:14/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
+LOCATION:14/ 23a; 4/ 23a
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T070000Z
@@ -1509,6 +1488,13 @@ LOCATION:4c/ 19; 3d/ 19
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251119T104000Z
+DTEND:20251119T121500Z
+SUMMARY:Par (L)
+LOCATION:14/ 23a; 4/ 23a
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251126T104000Z
 DTEND:20251126T121500Z
 SUMMARY:Pkm2 (w)
@@ -1576,7 +1562,7 @@ DTSTART:20251015T113000Z
 DTEND:20251015T130500Z
 SUMMARY:Płe (w)
 LOCATION:01/ 54A
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Szczawiński Piotr
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T123000Z
@@ -1674,7 +1660,7 @@ DTSTART:20251015T140000Z
 DTEND:20251015T153500Z
 SUMMARY:Płe (w)
 LOCATION:01/ 54A
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Szczawiński Piotr
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T150000Z
@@ -1793,7 +1779,7 @@ DTSTART:20251002T060000Z
 DTEND:20251002T073500Z
 SUMMARY:Płe (w)
 LOCATION:01/ 54A
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Szczawiński Piotr
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T060000Z
@@ -2132,13 +2118,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 76/119
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250108T104000Z
-DTEND:20250108T121500Z
-SUMMARY:Par (L)
-LOCATION:4/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250115T104000Z
 DTEND:20250115T121500Z
 SUMMARY:DiSRM (L)
@@ -2249,6 +2228,13 @@ DTEND:20250219T140500Z
 SUMMARY:App (Zp.)
 LOCATION:01/ 54A
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego\nRodzaj zajęć: (Zp.)\nNumer zajęć: 2/2\nProwadzący: dr inż. Ziubiński Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251030T150000Z
+DTEND:20251030T163500Z
+SUMMARY:Płe (w)
+LOCATION:15/ 23a
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T150000Z

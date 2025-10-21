@@ -74,11 +74,18 @@ LOCATION:0.28/135
 DESCRIPTION:Transformacja cyfrowa organizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/12
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251208T150000Z
+DTEND:20251208T163500Z
+SUMMARY:Kzl (P)
+LOCATION:1.17/16
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 1/10\nProwadzący: dr Piotrkowski Kazimierz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251215T150000Z
 DTEND:20251215T163500Z
 SUMMARY:Kzl (P)
 LOCATION:4.17a/135
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 1/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 2/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250112T150000Z
@@ -92,7 +99,7 @@ DTSTART:20250126T150000Z
 DTEND:20250126T163500Z
 SUMMARY:Kzl (P)
 LOCATION:1.17/16
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 2/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 3/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T155000Z
@@ -141,7 +148,7 @@ DTSTART:20250126T165000Z
 DTEND:20250126T182500Z
 SUMMARY:Kzl (P)
 LOCATION:1.17/16
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 3/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 4/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T174000Z
@@ -204,7 +211,7 @@ DTSTART:20250120T070000Z
 DTEND:20250120T083500Z
 SUMMARY:Kzl (P)
 LOCATION:4.17b/135
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 4/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 5/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250916T075000Z
@@ -676,13 +683,6 @@ LOCATION:0.28/135
 DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Tarapata Jolanta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251119T150000Z
-DTEND:20251119T163500Z
-SUMMARY:Kzl (P)
-LOCATION:5.17/135
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 5/10\nProwadzący: dr Piotrkowski Kazimierz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251126T150000Z
 DTEND:20251126T163500Z
 SUMMARY:Zkn (ć)
@@ -893,13 +893,6 @@ LOCATION:
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/16
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251023T094000Z
-DTEND:20251023T111500Z
-SUMMARY:Sd. (S)
-LOCATION:
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/16
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251113T104000Z
 DTEND:20251113T121500Z
 SUMMARY:ZKo (w)
@@ -918,14 +911,14 @@ DTSTART:20251204T104000Z
 DTEND:20251204T121500Z
 SUMMARY:Sd. (S)
 LOCATION:
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 12/16
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T104000Z
 DTEND:20251211T121500Z
 SUMMARY:Sd. (S)
 LOCATION:
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 13/16
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 12/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T104000Z
@@ -967,7 +960,7 @@ DTSTART:20251016T113000Z
 DTEND:20251016T130500Z
 SUMMARY:Sd. (S)
 LOCATION:
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 14/16
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 13/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T123000Z
@@ -1058,7 +1051,7 @@ DTSTART:20251218T150000Z
 DTEND:20251218T163500Z
 SUMMARY:Sd. (S)
 LOCATION:
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 15/16
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 14/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T150000Z
@@ -1115,6 +1108,13 @@ DTEND:20250919T073500Z
 SUMMARY:PrP (Ep)
 LOCATION:0.28/135
 DESCRIPTION:Prawo pracy\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Strychalski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251107T070000Z
+DTEND:20251107T083500Z
+SUMMARY:Sd. (S)
+LOCATION:
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 15/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T070000Z

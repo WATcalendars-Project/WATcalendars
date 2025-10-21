@@ -3014,20 +3014,6 @@ LOCATION:227 S
 DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251117T104000Z
-DTEND:20251117T121500Z
-SUMMARY:Mipb (w)
-LOCATION:309 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251117T123000Z
-DTEND:20251117T140500Z
-SUMMARY:Mipb (w)
-LOCATION:309 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251118T070000Z
 DTEND:20251118T083500Z
 SUMMARY:WF (ć)
@@ -3123,14 +3109,14 @@ DTSTART:20251124T104000Z
 DTEND:20251124T121500Z
 SUMMARY:Mipb (w)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T123000Z
 DTEND:20251124T140500Z
 SUMMARY:Mipb (w)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T070000Z
@@ -3287,11 +3273,25 @@ LOCATION:233 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251203T085000Z
+DTEND:20251203T102500Z
+SUMMARY:Mipb (w)
+LOCATION:236 S
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251203T104000Z
 DTEND:20251203T121500Z
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 50/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T123000Z
+DTEND:20251203T140500Z
+SUMMARY:Mipb (w)
+LOCATION:236 S
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T165000Z

@@ -11,6 +11,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 1/119
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251208T070000Z
+DTEND:20251208T083500Z
+SUMMARY:Mp (w)
+LOCATION:01/ 54A
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Rubiec Arkadiusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251222T070000Z
 DTEND:20251222T083500Z
 SUMMARY:I 
@@ -99,28 +106,7 @@ DTSTART:20251006T094000Z
 DTEND:20251006T111500Z
 SUMMARY:Mp (w)
 LOCATION:01/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Rubiec Arkadiusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251020T094000Z
-DTEND:20251020T111500Z
-SUMMARY:Mp (w)
-LOCATION:01/ 54A
 DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Rubiec Arkadiusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251027T104000Z
-DTEND:20251027T121500Z
-SUMMARY:Mp (w)
-LOCATION:01/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Rubiec Arkadiusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251103T104000Z
-DTEND:20251103T121500Z
-SUMMARY:Mp (w)
-LOCATION:01/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251110T104000Z
@@ -141,21 +127,21 @@ DTSTART:20251124T104000Z
 DTEND:20251124T121500Z
 SUMMARY:Mp (w)
 LOCATION:01/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T104000Z
 DTEND:20251201T121500Z
 SUMMARY:Mp (w)
 LOCATION:01/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T104000Z
 DTEND:20251208T121500Z
 SUMMARY:Mp (w)
 LOCATION:01/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T104000Z
@@ -204,7 +190,7 @@ DTSTART:20250126T104000Z
 DTEND:20250126T121500Z
 SUMMARY:Mp (w)
 LOCATION:01/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250202T104000Z
@@ -347,18 +333,11 @@ LOCATION:9/ 54; 13/ 54; 120/ 54; 29/ 54; 30/ 54
 DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: (z. popr. lab.)\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251020T140000Z
-DTEND:20251020T153500Z
-SUMMARY:CAD (L)
-LOCATION:29/ 54; 30/ 54
-DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251027T150000Z
 DTEND:20251027T163500Z
 SUMMARY:CAD (L)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10
+DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T150000Z
@@ -386,7 +365,7 @@ DTSTART:20251124T150000Z
 DTEND:20251124T163500Z
 SUMMARY:CAD (L)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10
+DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T150000Z
@@ -1065,7 +1044,14 @@ DTSTART:20250120T123000Z
 DTEND:20250120T140500Z
 SUMMARY:CAD (L)
 LOCATION:13/ 54; 18/ 54
-DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10
+DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251021T140000Z
+DTEND:20251021T153500Z
+SUMMARY:Mp (w)
+LOCATION:01/ 54A
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T150000Z
@@ -1206,6 +1192,13 @@ DTEND:20251015T073500Z
 SUMMARY:F2 (ć)
 LOCATION:108/ 54
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251022T060000Z
+DTEND:20251022T073500Z
+SUMMARY:Mp (w)
+LOCATION:09/ 54A
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T070000Z
@@ -1563,6 +1556,13 @@ DTEND:20251008T130500Z
 SUMMARY:F2 (L)
 LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251022T113000Z
+DTEND:20251022T130500Z
+SUMMARY:CAD (L)
+LOCATION:29/ 54; 30/ 54
+DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T123000Z

@@ -214,13 +214,6 @@ LOCATION:1/22
 DESCRIPTION:Logistyka dystrybucji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251124T123000Z
-DTEND:20251124T140500Z
-SUMMARY:LP (ć)
-LOCATION:0.22/16
-DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251201T123000Z
 DTEND:20251201T140500Z
 SUMMARY:LD (ć)
@@ -659,7 +652,7 @@ DTSTART:20251202T150000Z
 DTEND:20251202T163500Z
 SUMMARY:LP (ć)
 LOCATION:1.17/16
-DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
+DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T070000Z
@@ -1297,6 +1290,13 @@ DTEND:20251016T130500Z
 SUMMARY:BiESTS (w)
 LOCATION:3.16/135
 DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: mgr inż. Radzimierski Mariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251023T113000Z
+DTEND:20251023T130500Z
+SUMMARY:LP (ć)
+LOCATION:2.21/135
+DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T123000Z

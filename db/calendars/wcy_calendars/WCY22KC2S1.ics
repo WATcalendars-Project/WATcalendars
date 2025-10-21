@@ -1453,13 +1453,6 @@ LOCATION:09 65
 DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 10/22\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251022T094000Z
-DTEND:20251022T111500Z
-SUMMARY:Ztel (L)
-LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/15\nProwadzący: Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251027T104000Z
 DTEND:20251027T121500Z
 SUMMARY:pzST (P)
@@ -1479,20 +1472,6 @@ DTEND:20251027T163500Z
 SUMMARY:REZ (Inne)
 LOCATION:-
 DESCRIPTION:Rezerwacja\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251029T070000Z
-DTEND:20251029T083500Z
-SUMMARY:Ztel (L)
-LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/15\nProwadzący: Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251029T085000Z
-DTEND:20251029T102500Z
-SUMMARY:Ztel (L)
-LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T123000Z
@@ -1555,14 +1534,14 @@ DTSTART:20251112T070000Z
 DTEND:20251112T083500Z
 SUMMARY:Ztel (L)
 LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/15\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T085000Z
 DTEND:20251112T102500Z
 SUMMARY:Ztel (L)
 LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/15\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T123000Z
@@ -1572,18 +1551,18 @@ LOCATION:201 65
 DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251117T070000Z
-DTEND:20251117T083500Z
+DTSTART:20251113T165000Z
+DTEND:20251113T182500Z
 SUMMARY:Ztel (L)
-LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/15\nProwadzący: Szymon Chmielewski
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251117T085000Z
-DTEND:20251117T102500Z
+DTSTART:20251113T184000Z
+DTEND:20251113T201500Z
 SUMMARY:Ztel (L)
-LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/15\nProwadzący: Szymon Chmielewski
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T123000Z
@@ -1600,20 +1579,6 @@ LOCATION:106 65
 DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 20/22\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251119T070000Z
-DTEND:20251119T083500Z
-SUMMARY:Ztel (L)
-LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/15\nProwadzący: Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251119T085000Z
-DTEND:20251119T102500Z
-SUMMARY:Ztel (L)
-LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/15\nProwadzący: Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251121T123000Z
 DTEND:20251121T140500Z
 SUMMARY:Ztel (w)
@@ -1625,14 +1590,21 @@ DTSTART:20251124T070000Z
 DTEND:20251124T083500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/15\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T085000Z
 DTEND:20251124T102500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/15\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/15\nProwadzący: Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T070000Z
+DTEND:20251125T083500Z
+SUMMARY:Ztel (L)
+LOCATION:121 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T070000Z
@@ -1654,6 +1626,27 @@ DTEND:20251126T140500Z
 SUMMARY:Ztel (w)
 LOCATION:201 65
 DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T150000Z
+DTEND:20251127T163500Z
+SUMMARY:Ztel (L)
+LOCATION:121 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/15\nProwadzący: Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T165000Z
+DTEND:20251127T182500Z
+SUMMARY:Ztel (L)
+LOCATION:121 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/15\nProwadzący: Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T184000Z
+DTEND:20251127T201500Z
+SUMMARY:Ztel (L)
+LOCATION:121 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T070000Z
@@ -1899,6 +1892,13 @@ DTEND:20251205T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 38/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251210T070000Z
+DTEND:20251210T083500Z
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T150000Z

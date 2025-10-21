@@ -4,6 +4,13 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO23ZZ1S1
 BEGIN:VEVENT
+DTSTART:20251208T104000Z
+DTEND:20251208T121500Z
+SUMMARY:Kzl (P)
+LOCATION:2/22
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 1/10\nProwadzący: dr Piotrkowski Kazimierz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250112T104000Z
 DTEND:20250112T121500Z
 SUMMARY:Sd. (S)
@@ -79,6 +86,13 @@ DTEND:20251124T163500Z
 SUMMARY:PzK (ć)
 LOCATION:255 S
 DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250112T150000Z
+DTEND:20250112T163500Z
+SUMMARY:Kzl (P)
+LOCATION:1.15/16
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 2/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250126T150000Z
@@ -288,14 +302,14 @@ DTSTART:20250113T085000Z
 DTEND:20250113T102500Z
 SUMMARY:Kzl (P)
 LOCATION:2/22
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 1/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 3/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T085000Z
 DTEND:20250120T102500Z
 SUMMARY:Kzl (P)
 LOCATION:2/22
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 2/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 4/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T085000Z
@@ -449,7 +463,7 @@ DTSTART:20251209T150000Z
 DTEND:20251209T163500Z
 SUMMARY:Kzl (P)
 LOCATION:37/158
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 3/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 5/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T150000Z
@@ -526,7 +540,7 @@ DTSTART:20251203T104000Z
 DTEND:20251203T121500Z
 SUMMARY:Kzl (P)
 LOCATION:0.24/135
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 4/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 6/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T104000Z
@@ -569,13 +583,6 @@ DTEND:20251112T140500Z
 SUMMARY:PzK (w)
 LOCATION:0.28/135
 DESCRIPTION:Psychologiczne wspomaganie zarządzania kadrami\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Tarapata Jolanta
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251119T123000Z
-DTEND:20251119T140500Z
-SUMMARY:Kzl (P)
-LOCATION:26/158
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 5/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T123000Z
@@ -834,7 +841,7 @@ DTSTART:20250115T070000Z
 DTEND:20250115T083500Z
 SUMMARY:Kzl (P)
 LOCATION:1.27/135
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 6/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 7/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250129T070000Z
@@ -862,7 +869,7 @@ DTSTART:20250108T085000Z
 DTEND:20250108T102500Z
 SUMMARY:Kzl (ć)
 LOCATION:0.23/16
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250129T085000Z
@@ -928,11 +935,18 @@ LOCATION:0.28/135
 DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250108T104000Z
+DTEND:20250108T121500Z
+SUMMARY:Kzl (P)
+LOCATION:A.1.3/135
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 8/10\nProwadzący: dr Piotrkowski Kazimierz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250129T104000Z
 DTEND:20250129T121500Z
 SUMMARY:Kzl (P)
 LOCATION:0.6/16
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 7/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 9/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T113000Z
@@ -981,7 +995,7 @@ DTSTART:20251127T123000Z
 DTEND:20251127T140500Z
 SUMMARY:Kzl (P)
 LOCATION:1a/28
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 8/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 10/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T123000Z
@@ -1019,13 +1033,6 @@ LOCATION:0.28/135
 DESCRIPTION:Systemy oceniania i wynagradzania pracowników\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T150000Z
-DTEND:20251120T163500Z
-SUMMARY:Kzl (P)
-LOCATION:0.7/16
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 9/10\nProwadzący: dr Piotrkowski Kazimierz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251218T150000Z
 DTEND:20251218T163500Z
 SUMMARY:Trans.Cyfr.Org. (ć)
@@ -1061,13 +1068,6 @@ LOCATION:0.28/135
 DESCRIPTION:Systemy oceniania i wynagradzania pracowników\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T165000Z
-DTEND:20251120T182500Z
-SUMMARY:Kzl (P)
-LOCATION:0.7/16
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 10/10\nProwadzący: dr Piotrkowski Kazimierz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251002T174000Z
 DTEND:20251002T191500Z
 SUMMARY:KwZ (w)
@@ -1089,13 +1089,6 @@ LOCATION:0.28/135
 DESCRIPTION:Systemy oceniania i wynagradzania pracowników\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250116T070000Z
-DTEND:20250116T083500Z
-SUMMARY:Kzl (ć)
-LOCATION:1.15/16
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Piotrkowski Kazimierz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250123T070000Z
 DTEND:20250123T083500Z
 SUMMARY:PG (ć)
@@ -1107,7 +1100,7 @@ DTSTART:20250130T070000Z
 DTEND:20250130T083500Z
 SUMMARY:Kzl (ć)
 LOCATION:4.23/135
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T075000Z
@@ -1142,7 +1135,7 @@ DTSTART:20251205T085000Z
 DTEND:20251205T102500Z
 SUMMARY:Kzl (ć)
 LOCATION:4.17a/135
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T085000Z
@@ -1163,21 +1156,21 @@ DTSTART:20250116T085000Z
 DTEND:20250116T102500Z
 SUMMARY:Kzl (ć)
 LOCATION:1.15/16
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250123T085000Z
 DTEND:20250123T102500Z
 SUMMARY:Kzl (ć)
 LOCATION:1.27/135
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T085000Z
 DTEND:20250130T102500Z
 SUMMARY:Kzl (ć)
 LOCATION:4.23/135
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T094000Z
@@ -1219,21 +1212,21 @@ DTSTART:20251205T104000Z
 DTEND:20251205T121500Z
 SUMMARY:Kzl (ć)
 LOCATION:4.17a/135
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T104000Z
 DTEND:20251212T121500Z
 SUMMARY:Kzl (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T104000Z
 DTEND:20251219T121500Z
 SUMMARY:Kzl (ć)
 LOCATION:0.6/16
-DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr Piotrkowski Kazimierz
+DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250116T104000Z

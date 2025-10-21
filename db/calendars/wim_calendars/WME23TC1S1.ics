@@ -536,18 +536,25 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 21/147
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251124T150000Z
-DTEND:20251124T163500Z
-SUMMARY:Par (L)
-LOCATION:14/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251201T150000Z
 DTEND:20251201T163500Z
 SUMMARY:Otw (w)
 LOCATION:6/ 23a
 DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/15\nProwadzący: dr inż. Pankiewicz Bolesław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T150000Z
+DTEND:20251208T163500Z
+SUMMARY:Par (L)
+LOCATION:14/ 23a; 4/ 23a
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T150000Z
+DTEND:20251215T163500Z
+SUMMARY:Par (L)
+LOCATION:14/ 23a; 4/ 23a
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T150000Z
@@ -793,20 +800,6 @@ DTEND:20251111T102500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 40/147
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251202T085000Z
-DTEND:20251202T102500Z
-SUMMARY:Par (L)
-LOCATION:4/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251209T085000Z
-DTEND:20251209T102500Z
-SUMMARY:Par (L)
-LOCATION:4/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T085000Z
@@ -1439,13 +1432,6 @@ LOCATION:15/ 23a
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 7/17\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251112T085000Z
-DTEND:20251112T102500Z
-SUMMARY:Par (L)
-LOCATION:14/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251119T085000Z
 DTEND:20251119T102500Z
 SUMMARY:Lu (ć)
@@ -1533,7 +1519,7 @@ BEGIN:VEVENT
 DTSTART:20251112T104000Z
 DTEND:20251112T121500Z
 SUMMARY:App (L)
-LOCATION:6/ 23a
+LOCATION:6/ 23a; 7/ 23a
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT

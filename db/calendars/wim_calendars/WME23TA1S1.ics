@@ -525,14 +525,14 @@ BEGIN:VEVENT
 DTSTART:20251117T150000Z
 DTEND:20251117T163500Z
 SUMMARY:App (L)
-LOCATION:3/ 23a
+LOCATION:3/ 23a; 7/ 23a
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T150000Z
 DTEND:20251124T163500Z
 SUMMARY:App (L)
-LOCATION:3/ 23a
+LOCATION:3/ 23a; 7/ 23a
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
@@ -1309,8 +1309,8 @@ BEGIN:VEVENT
 DTSTART:20251119T070000Z
 DTEND:20251119T083500Z
 SUMMARY:Par (L)
-LOCATION:14/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4
+LOCATION:14/ 23a; 4/ 23a
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T070000Z
@@ -1591,13 +1591,6 @@ DTEND:20251029T140500Z
 SUMMARY:GmP. (ć)
 LOCATION:5/ 19
 DESCRIPTION:Gospodarka magazynowa płynami eksploatacyjnymi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251210T123000Z
-DTEND:20251210T140500Z
-SUMMARY:Par (L)
-LOCATION:14/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T123000Z
@@ -1971,20 +1964,6 @@ LOCATION:42/ 20
 DESCRIPTION:Podstawy technologii przeróbki ropy naftowej\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: dr inż. Kałdoński Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251204T104000Z
-DTEND:20251204T121500Z
-SUMMARY:Par (L)
-LOCATION:4/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T104000Z
-DTEND:20251211T121500Z
-SUMMARY:Par (L)
-LOCATION:4/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251218T104000Z
 DTEND:20251218T121500Z
 SUMMARY:Bisp (L)
@@ -2200,6 +2179,13 @@ DTEND:20251120T163500Z
 SUMMARY:PoL (ć)
 LOCATION:1/ 19
 DESCRIPTION:Problemy odpadów w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T150000Z
+DTEND:20251127T163500Z
+SUMMARY:Par (L)
+LOCATION:14/ 23a; 4/ 23a
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T150000Z

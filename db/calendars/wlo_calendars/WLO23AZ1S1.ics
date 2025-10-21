@@ -39,18 +39,32 @@ LOCATION:26/158
 DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 2/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Moch Natalia; dr Śledzik Waldemar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251117T070000Z
+DTEND:20251117T083500Z
+SUMMARY:P 
+LOCATION:0.23/16
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 2/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251201T070000Z
 DTEND:20251201T083500Z
 SUMMARY:P 
 LOCATION:0.7/16
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 2/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 3/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T070000Z
 DTEND:20251208T083500Z
 SUMMARY:P 
 LOCATION:1.17/16
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 3/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 4/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250112T070000Z
+DTEND:20250112T083500Z
+SUMMARY:P 
+LOCATION:9/158
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 5/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T075000Z
@@ -214,32 +228,11 @@ LOCATION:0.7/16
 DESCRIPTION:ZAGROŻENIA\nRodzaj zajęć: -\nNumer zajęć: 22/51\nProwadzący: dr hab. inż. Nowacki Gabriel
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251027T123000Z
-DTEND:20251027T140500Z
-SUMMARY:ZAGROŻENIA 
-LOCATION:255 S
-DESCRIPTION:ZAGROŻENIA\nRodzaj zajęć: -\nNumer zajęć: 23/51\nProwadzący: dr hab. Stochaj Justyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251209T070000Z
-DTEND:20251209T083500Z
-SUMMARY:P 
-LOCATION:0.23/16
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 4/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250113T070000Z
 DTEND:20250113T083500Z
 SUMMARY:Oik (ć)
 LOCATION:1.16/16
 DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: dr Szwarc Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251209T085000Z
-DTEND:20251209T102500Z
-SUMMARY:P 
-LOCATION:1.9/16
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 5/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T085000Z
@@ -249,20 +242,6 @@ LOCATION:1.16/16
 DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251209T104000Z
-DTEND:20251209T121500Z
-SUMMARY:ol (ć)
-LOCATION:1.17/16
-DESCRIPTION:Ochrona ludności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr hab. Stochaj Justyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250113T104000Z
-DTEND:20250113T121500Z
-SUMMARY:ol (ć)
-LOCATION:1.17/16
-DESCRIPTION:Ochrona ludności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr hab. Stochaj Justyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250120T104000Z
 DTEND:20250120T121500Z
 SUMMARY:ZARZĄDZANIE 
@@ -270,25 +249,18 @@ LOCATION:1.16/16
 DESCRIPTION:ZARZĄDZANIE\nRodzaj zajęć: -\nNumer zajęć: 1/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr hab. Stochaj Justyna; dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251209T123000Z
-DTEND:20251209T140500Z
-SUMMARY:ol (ć)
-LOCATION:1.17/16
-DESCRIPTION:Ochrona ludności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr hab. Stochaj Justyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250113T123000Z
-DTEND:20250113T140500Z
-SUMMARY:ol (ć)
-LOCATION:1.17/16
-DESCRIPTION:Ochrona ludności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr hab. Stochaj Justyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250120T123000Z
 DTEND:20250120T140500Z
 SUMMARY:ZARZĄDZANIE 
 LOCATION:1.16/16
 DESCRIPTION:ZARZĄDZANIE\nRodzaj zajęć: -\nNumer zajęć: 2/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr hab. Stochaj Justyna; dr Szwarc Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251118T150000Z
+DTEND:20251118T163500Z
+SUMMARY:ZAGROŻENIA 
+LOCATION:1.17/16
+DESCRIPTION:ZAGROŻENIA\nRodzaj zajęć: -\nNumer zajęć: 23/51\nProwadzący: dr hab. Stochaj Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T150000Z
@@ -386,14 +358,14 @@ DTSTART:20251112T070000Z
 DTEND:20251112T083500Z
 SUMMARY:ol (ć)
 LOCATION:1.17/16
-DESCRIPTION:Ochrona ludności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr hab. Stochaj Justyna
+DESCRIPTION:Ochrona ludności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr hab. Stochaj Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T070000Z
 DTEND:20251119T083500Z
 SUMMARY:ol (ć)
 LOCATION:5.21/135
-DESCRIPTION:Ochrona ludności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr hab. Stochaj Justyna
+DESCRIPTION:Ochrona ludności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr hab. Stochaj Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T070000Z
@@ -408,6 +380,13 @@ DTEND:20251203T083500Z
 SUMMARY:Oik (ć)
 LOCATION:1.16/16
 DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: dr Szwarc Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251210T070000Z
+DTEND:20251210T083500Z
+SUMMARY:ol (ć)
+LOCATION:0.22/16
+DESCRIPTION:Ochrona ludności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr hab. Stochaj Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T070000Z
@@ -454,23 +433,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T085000Z
 DTEND:20251105T102500Z
-SUMMARY:SŁUŻBY, 
+SUMMARY:Oik (w)
 LOCATION:255 S
-DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 1/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr Krawczyk Anna; dr Moch Natalia
+DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T085000Z
 DTEND:20251112T102500Z
 SUMMARY:SŁUŻBY, 
 LOCATION:255 S
-DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 2/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr Krawczyk Anna; dr Moch Natalia
+DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 1/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr Krawczyk Anna; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T085000Z
 DTEND:20251119T102500Z
 SUMMARY:SŁUŻBY, 
 LOCATION:255 S
-DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 3/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr Krawczyk Anna; dr Moch Natalia
+DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 2/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr Krawczyk Anna; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T085000Z
@@ -484,21 +463,21 @@ DTSTART:20251203T085000Z
 DTEND:20251203T102500Z
 SUMMARY:SŁUŻBY, 
 LOCATION:255 S
-DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 4/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr Krawczyk Anna; dr Moch Natalia
+DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 3/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr Krawczyk Anna; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T085000Z
 DTEND:20251210T102500Z
 SUMMARY:SŁUŻBY, 
 LOCATION:255 S
-DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 5/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr Krawczyk Anna; dr Moch Natalia
+DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 4/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr Krawczyk Anna; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T085000Z
 DTEND:20251217T102500Z
 SUMMARY:SŁUŻBY, 
 LOCATION:255 S
-DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 6/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr Krawczyk Anna; dr Moch Natalia
+DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 5/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr Krawczyk Anna; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250128T085000Z
@@ -519,35 +498,35 @@ DTSTART:20251022T094000Z
 DTEND:20251022T111500Z
 SUMMARY:Oik (w)
 LOCATION:0.23/16
-DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr Szwarc Krzysztof
+DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T104000Z
 DTEND:20251029T121500Z
 SUMMARY:Oik (w)
 LOCATION:255 S
-DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr Szwarc Krzysztof
+DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T104000Z
 DTEND:20251105T121500Z
 SUMMARY:Oik (w)
 LOCATION:255 S
-DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr Szwarc Krzysztof
+DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T104000Z
 DTEND:20251112T121500Z
 SUMMARY:Oik (w)
 LOCATION:255 S
-DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Szwarc Krzysztof
+DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T104000Z
 DTEND:20251119T121500Z
 SUMMARY:Oik (w)
 LOCATION:255 S
-DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr Szwarc Krzysztof
+DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T104000Z
@@ -571,13 +550,6 @@ LOCATION:1.16/16
 DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251217T104000Z
-DTEND:20251217T121500Z
-SUMMARY:ol (ć)
-LOCATION:1.17/16
-DESCRIPTION:Ochrona ludności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr hab. Stochaj Justyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250121T104000Z
 DTEND:20250121T121500Z
 SUMMARY:Oik (ć)
@@ -596,18 +568,11 @@ DTSTART:20251022T113000Z
 DTEND:20251022T130500Z
 SUMMARY:Oik (w)
 LOCATION:0.23/16
-DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr Szwarc Krzysztof
+DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T123000Z
 DTEND:20251029T140500Z
-SUMMARY:Oik (w)
-LOCATION:255 S
-DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr Szwarc Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251105T123000Z
-DTEND:20251105T140500Z
 SUMMARY:Oik (w)
 LOCATION:255 S
 DESCRIPTION:Ochrona infrastruktury krytycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr Szwarc Krzysztof
@@ -676,6 +641,13 @@ LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Postępowanie Administracyjne\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Śledzik Waldemar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251030T070000Z
+DTEND:20251030T083500Z
+SUMMARY:ol (ć)
+LOCATION:37/158
+DESCRIPTION:Ochrona ludności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr hab. Stochaj Justyna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251106T070000Z
 DTEND:20251106T083500Z
 SUMMARY:ZARZĄDZANIE 
@@ -690,6 +662,13 @@ LOCATION:1.17/16
 DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 7/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Moch Natalia; dr Śledzik Waldemar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251120T070000Z
+DTEND:20251120T083500Z
+SUMMARY:P 
+LOCATION:255 S
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 7/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251127T070000Z
 DTEND:20251127T083500Z
 SUMMARY:ZARZĄDZANIE 
@@ -702,6 +681,20 @@ DTEND:20251211T083500Z
 SUMMARY:POSTĘPOWANIE 
 LOCATION:1.17/16
 DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 8/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Moch Natalia; dr Śledzik Waldemar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250115T070000Z
+DTEND:20250115T083500Z
+SUMMARY:ol (ć)
+LOCATION:0.8/16
+DESCRIPTION:Ochrona ludności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr hab. Stochaj Justyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250122T070000Z
+DTEND:20250122T083500Z
+SUMMARY:ol (ć)
+LOCATION:aula/135
+DESCRIPTION:Ochrona ludności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr hab. Stochaj Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T075000Z
@@ -743,7 +736,7 @@ DTSTART:20251120T085000Z
 DTEND:20251120T102500Z
 SUMMARY:P 
 LOCATION:255 S
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 7/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 8/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T085000Z
@@ -778,14 +771,21 @@ DTSTART:20250108T085000Z
 DTEND:20250108T102500Z
 SUMMARY:SŁUŻBY, 
 LOCATION:1.16/16
-DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 7/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr hab. Stochaj Justyna; dr Moch Natalia
+DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 6/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr hab. Stochaj Justyna; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T085000Z
 DTEND:20250115T102500Z
 SUMMARY:ol (ć)
 LOCATION:0.8/16
-DESCRIPTION:Ochrona ludności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr hab. Stochaj Justyna
+DESCRIPTION:Ochrona ludności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr hab. Stochaj Justyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250122T085000Z
+DTEND:20250122T102500Z
+SUMMARY:P 
+LOCATION:0.21/16
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 9/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T094000Z
@@ -813,14 +813,14 @@ DTSTART:20251113T104000Z
 DTEND:20251113T121500Z
 SUMMARY:P 
 LOCATION:255 S
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 8/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 10/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T104000Z
 DTEND:20251120T121500Z
 SUMMARY:SŁUŻBY, 
 LOCATION:1.16/16
-DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 8/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr hab. Stochaj Justyna; dr Moch Natalia
+DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 7/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr hab. Stochaj Justyna; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T104000Z
@@ -834,42 +834,56 @@ DTSTART:20251204T104000Z
 DTEND:20251204T121500Z
 SUMMARY:SŁUŻBY, 
 LOCATION:1.16/16
-DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 9/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr hab. Stochaj Justyna; dr Moch Natalia
+DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 8/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr hab. Stochaj Justyna; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T104000Z
 DTEND:20251211T121500Z
 SUMMARY:SŁUŻBY, 
 LOCATION:1.16/16
-DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 10/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr hab. Stochaj Justyna; dr Moch Natalia
+DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 9/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr hab. Stochaj Justyna; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T104000Z
 DTEND:20251218T121500Z
 SUMMARY:SŁUŻBY, 
 LOCATION:1.16/16
-DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 11/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr hab. Stochaj Justyna; dr Moch Natalia
+DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 10/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr hab. Stochaj Justyna; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T104000Z
 DTEND:20250108T121500Z
 SUMMARY:SŁUŻBY, 
 LOCATION:1.16/16
-DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 12/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr hab. Stochaj Justyna; dr Moch Natalia
+DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 11/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr hab. Stochaj Justyna; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T104000Z
 DTEND:20250115T121500Z
 SUMMARY:SŁUŻBY, 
 LOCATION:1.16/16
-DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 13/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr hab. Stochaj Justyna; dr Moch Natalia
+DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 12/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr hab. Stochaj Justyna; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T104000Z
 DTEND:20250122T121500Z
 SUMMARY:P 
 LOCATION:1.16/16
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 9/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 11/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T104000Z
+DTEND:20250129T121500Z
+SUMMARY:P 
+LOCATION:26/158
+DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 12/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251030T123000Z
+DTEND:20251030T140500Z
+SUMMARY:SŁUŻBY, 
+LOCATION:317 S
+DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 13/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr Krawczyk Anna; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T123000Z
@@ -890,7 +904,7 @@ DTSTART:20251218T123000Z
 DTEND:20251218T140500Z
 SUMMARY:ol (ć)
 LOCATION:A.1.3/135
-DESCRIPTION:Ochrona ludności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr hab. Stochaj Justyna
+DESCRIPTION:Ochrona ludności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr hab. Stochaj Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T123000Z
@@ -942,27 +956,6 @@ LOCATION:1.16/16
 DESCRIPTION:SŁUŻBY,\nRodzaj zajęć: -\nNumer zajęć: 17/20\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof; dr hab. Stochaj Justyna; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250108T165000Z
-DTEND:20250108T182500Z
-SUMMARY:P 
-LOCATION:1.16/16
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 10/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250129T165000Z
-DTEND:20250129T182500Z
-SUMMARY:P 
-LOCATION:1.16/16
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 11/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250129T184000Z
-DTEND:20250129T201500Z
-SUMMARY:P 
-LOCATION:1.16/16
-DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 12/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251010T060000Z
 DTEND:20251010T073500Z
 SUMMARY:POSTĘPOWANIE 
@@ -984,6 +977,13 @@ LOCATION:0.19/135
 DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 13/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Śledzik Waldemar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251212T070000Z
+DTEND:20251212T083500Z
+SUMMARY:ol (ć)
+LOCATION:0.19/135
+DESCRIPTION:Ochrona ludności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr hab. Stochaj Justyna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251219T070000Z
 DTEND:20251219T083500Z
 SUMMARY:POSTĘPOWANIE 
@@ -994,7 +994,7 @@ BEGIN:VEVENT
 DTSTART:20250109T070000Z
 DTEND:20250109T083500Z
 SUMMARY:P 
-LOCATION:0.23/16
+LOCATION:1.16/16
 DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 13/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT

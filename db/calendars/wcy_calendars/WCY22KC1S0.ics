@@ -2860,20 +2860,6 @@ LOCATION:204 65
 DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251024T113000Z
-DTEND:20251024T130500Z
-SUMMARY:Sbs (L)
-LOCATION:121 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251024T140000Z
-DTEND:20251024T153500Z
-SUMMARY:Sbs (L)
-LOCATION:121 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251025T060000Z
 DTEND:20251025T073500Z
 SUMMARY:XWF (ć)
@@ -2998,6 +2984,13 @@ DTEND:20251030T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 39/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251031T070000Z
+DTEND:20251031T083500Z
+SUMMARY:Sbs (L)
+LOCATION:120 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T085000Z
@@ -3145,6 +3138,13 @@ DTEND:20251106T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 41/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251107T070000Z
+DTEND:20251107T083500Z
+SUMMARY:Sbs (L)
+LOCATION:120 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T085000Z
@@ -3833,20 +3833,6 @@ LOCATION:011 65
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251212T150000Z
-DTEND:20251212T163500Z
-SUMMARY:MAST (P)
-LOCATION:011 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/8\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251212T165000Z
-DTEND:20251212T182500Z
-SUMMARY:MAST (P)
-LOCATION:011 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/8\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251213T070000Z
 DTEND:20251213T083500Z
 SUMMARY:XWF (ć)
@@ -3950,6 +3936,13 @@ DTEND:20251217T163500Z
 SUMMARY:Bsbp (L)
 LOCATION:120 65
 DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T165000Z
+DTEND:20251217T182500Z
+SUMMARY:MAST (P)
+LOCATION:120 65
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/8\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T104000Z
@@ -4068,7 +4061,7 @@ DTSTART:20260108T150000Z
 DTEND:20260108T163500Z
 SUMMARY:MAST (P)
 LOCATION:106 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/8\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T070000Z
@@ -4146,6 +4139,13 @@ DTEND:20260113T121500Z
 SUMMARY:MAST (w)
 LOCATION:317 S
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 12/12\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260113T123000Z
+DTEND:20260113T140500Z
+SUMMARY:MAST (P)
+LOCATION:226 S
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5/8\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T070000Z

@@ -259,7 +259,7 @@ BEGIN:VEVENT
 DTSTART:20251021T075000Z
 DTEND:20251021T092500Z
 SUMMARY:T 
-LOCATION:1.9/16
+LOCATION:0.19/135
 DESCRIPTION:T\nRodzaj zajęć: -\nNumer zajęć: 5/15\nProwadzący: dr Chyrzyński Ryszard; dr Kościelecki Tomasz
 END:VEVENT
 BEGIN:VEVENT
@@ -963,6 +963,13 @@ LOCATION:5.17/135
 DESCRIPTION:Statystyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Ćwik Bogdan
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251127T150000Z
+DTEND:20251127T163500Z
+SUMMARY:Ap (ć)
+LOCATION:0.7/16
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Chyrzyński Ryszard
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251204T150000Z
 DTEND:20251204T163500Z
 SUMMARY:ZŚN (ć)
@@ -1012,13 +1019,6 @@ LOCATION:3.16/135
 DESCRIPTION:T\nRodzaj zajęć: -\nNumer zajęć: 15/15\nProwadzący: dr Chyrzyński Ryszard; dr Kościelecki Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251106T165000Z
-DTEND:20251106T182500Z
-SUMMARY:ZŚN (ć)
-LOCATION:255 S
-DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Adamkiewicz Jakub
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251113T165000Z
 DTEND:20251113T182500Z
 SUMMARY:Syst.zarz. 
@@ -1037,7 +1037,7 @@ DTSTART:20251211T165000Z
 DTEND:20251211T182500Z
 SUMMARY:ZŚN (ć)
 LOCATION:1/22
-DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Adamkiewicz Jakub
+DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T165000Z
@@ -1149,7 +1149,7 @@ DTSTART:20251017T094000Z
 DTEND:20251017T111500Z
 SUMMARY:Ap (ć)
 LOCATION:5.17/135
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Chyrzyński Ryszard
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T104000Z
@@ -1170,7 +1170,7 @@ DTSTART:20251017T113000Z
 DTEND:20251017T130500Z
 SUMMARY:Ap (ć)
 LOCATION:5.17/135
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Chyrzyński Ryszard
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T113000Z
@@ -1192,6 +1192,13 @@ DTEND:20251219T140500Z
 SUMMARY:Syst.zarz. 
 LOCATION:0.19/135
 DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 15/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250130T123000Z
+DTEND:20250130T140500Z
+SUMMARY:ZŚN (ć)
+LOCATION:0.19/135
+DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T140000Z
@@ -1219,14 +1226,14 @@ DTSTART:20251107T150000Z
 DTEND:20251107T163500Z
 SUMMARY:Ap (ć)
 LOCATION:5.17/135
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Chyrzyński Ryszard
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T150000Z
 DTEND:20251114T163500Z
 SUMMARY:Ap (ć)
 LOCATION:5.17/135
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Chyrzyński Ryszard
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T150000Z
@@ -1268,7 +1275,7 @@ DTSTART:20251024T155000Z
 DTEND:20251024T172500Z
 SUMMARY:Ap (ć)
 LOCATION:5.17/135
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Chyrzyński Ryszard
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T165000Z
@@ -1282,7 +1289,7 @@ DTSTART:20251107T165000Z
 DTEND:20251107T182500Z
 SUMMARY:Ap (ć)
 LOCATION:5.17/135
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Chyrzyński Ryszard
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T165000Z
@@ -1336,13 +1343,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T174000Z
 DTEND:20251024T191500Z
-SUMMARY:Ap (ć)
-LOCATION:5.17/135
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Chyrzyński Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251031T184000Z
-DTEND:20251031T201500Z
 SUMMARY:Ap (ć)
 LOCATION:5.17/135
 DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Chyrzyński Ryszard

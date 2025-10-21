@@ -2811,20 +2811,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 45/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251105T150000Z
-DTEND:20251105T163500Z
-SUMMARY:PsbI (L)
-LOCATION:121 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251105T165000Z
-DTEND:20251105T182500Z
-SUMMARY:PsbI (L)
-LOCATION:121 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251105T184000Z
 DTEND:20251105T201500Z
 SUMMARY:- (S.Sz.W.)
@@ -2914,20 +2900,6 @@ DTEND:20251112T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 47/70\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251112T150000Z
-DTEND:20251112T163500Z
-SUMMARY:PsbI (L)
-LOCATION:121 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251112T165000Z
-DTEND:20251112T182500Z
-SUMMARY:PsbI (L)
-LOCATION:121 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T184000Z
@@ -3067,14 +3039,14 @@ DTSTART:20251119T150000Z
 DTEND:20251119T163500Z
 SUMMARY:PsbI (L)
 LOCATION:121 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T165000Z
 DTEND:20251119T182500Z
 SUMMARY:PsbI (L)
 LOCATION:121 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T184000Z
@@ -3368,14 +3340,14 @@ DTSTART:20251203T150000Z
 DTEND:20251203T163500Z
 SUMMARY:PsbI (L)
 LOCATION:09 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T165000Z
 DTEND:20251203T182500Z
 SUMMARY:PsbI (L)
 LOCATION:09 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T184000Z
@@ -3488,6 +3460,20 @@ DTEND:20251209T163500Z
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 47/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251210T150000Z
+DTEND:20251210T163500Z
+SUMMARY:PsbI (L)
+LOCATION:239 S
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251210T165000Z
+DTEND:20251210T182500Z
+SUMMARY:PsbI (L)
+LOCATION:239 S
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T184000Z
@@ -3614,6 +3600,20 @@ DTEND:20251217T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 60/70\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T150000Z
+DTEND:20251217T163500Z
+SUMMARY:PsbI (L)
+LOCATION:239 S
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T165000Z
+DTEND:20251217T182500Z
+SUMMARY:PsbI (L)
+LOCATION:239 S
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T184000Z

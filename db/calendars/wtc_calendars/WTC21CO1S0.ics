@@ -214,6 +214,13 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 2/10
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251027T104000Z
+DTEND:20251027T121500Z
+SUMMARY:Chj (w)
+LOCATION:1 55A
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251103T104000Z
 DTEND:20251103T121500Z
 SUMMARY:Cht (L)
@@ -267,7 +274,7 @@ DTSTART:20250119T104000Z
 DTEND:20250119T121500Z
 SUMMARY:Chj (w)
 LOCATION:10 55
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250126T104000Z
@@ -980,7 +987,7 @@ BEGIN:VEVENT
 DTSTART:20251029T070000Z
 DTEND:20251029T083500Z
 SUMMARY:PSt (ć)
-LOCATION:2 5
+LOCATION:110/ 14
 DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: dr hab. inż. Oton Martinez Eva
 END:VEVENT
 BEGIN:VEVENT
@@ -1082,6 +1089,13 @@ LOCATION:1 55A
 DESCRIPTION:Broń biologiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: prof.dr hab.inż. Witkiewicz Zygfryd
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251022T075000Z
+DTEND:20251022T092500Z
+SUMMARY:PSt (ć)
+LOCATION:1 55A
+DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: dr hab. inż. Oton Martinez Eva
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251029T085000Z
 DTEND:20251029T102500Z
 SUMMARY:Bbi (w)
@@ -1089,11 +1103,18 @@ LOCATION:1 55A
 DESCRIPTION:Broń biologiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: prof.dr hab.inż. Witkiewicz Zygfryd
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251105T085000Z
+DTEND:20251105T102500Z
+SUMMARY:PSt (ć)
+LOCATION:166 S
+DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: dr hab. inż. Oton Martinez Eva
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251112T085000Z
 DTEND:20251112T102500Z
 SUMMARY:PSt (ć)
 LOCATION:10 55
-DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: dr hab. inż. Oton Martinez Eva
+DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: dr hab. inż. Oton Martinez Eva
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T085000Z
@@ -1128,7 +1149,7 @@ DTSTART:20251217T085000Z
 DTEND:20251217T102500Z
 SUMMARY:PSt (ć)
 LOCATION:2 55A
-DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: dr hab. inż. Oton Martinez Eva
+DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: dr hab. inż. Oton Martinez Eva
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T085000Z
@@ -1212,7 +1233,7 @@ DTSTART:20251119T104000Z
 DTEND:20251119T121500Z
 SUMMARY:Chj (w)
 LOCATION:1 55A
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T104000Z
@@ -1289,14 +1310,7 @@ DTSTART:20251015T113000Z
 DTEND:20251015T130500Z
 SUMMARY:PSt (ć)
 LOCATION:2 5
-DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: dr hab. inż. Oton Martinez Eva
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251022T113000Z
-DTEND:20251022T130500Z
-SUMMARY:PSt (ć)
-LOCATION:2 5
-DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: dr hab. inż. Oton Martinez Eva
+DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: dr hab. inż. Oton Martinez Eva
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T123000Z
@@ -1304,13 +1318,6 @@ DTEND:20251029T140500Z
 SUMMARY:Chj (ć)
 LOCATION:1 55A
 DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251105T123000Z
-DTEND:20251105T140500Z
-SUMMARY:PSt (ć)
-LOCATION:2 55A
-DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: dr hab. inż. Oton Martinez Eva
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T123000Z
@@ -1358,7 +1365,7 @@ BEGIN:VEVENT
 DTSTART:20250107T123000Z
 DTEND:20250107T140500Z
 SUMMARY:PSt (ć)
-LOCATION:2 5
+LOCATION:108 24
 DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: dr hab. inż. Oton Martinez Eva
 END:VEVENT
 BEGIN:VEVENT
@@ -1681,7 +1688,7 @@ DTSTART:20251211T085000Z
 DTEND:20251211T102500Z
 SUMMARY:Chj (w)
 LOCATION:2 55A
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T085000Z
@@ -2396,13 +2403,6 @@ DTEND:20251010T130500Z
 SUMMARY:Pdp 
 LOCATION:
 DESCRIPTION:Pdp\nRodzaj zajęć: -\nNumer zajęć: 64/70
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251024T113000Z
-DTEND:20251024T130500Z
-SUMMARY:Chj (w)
-LOCATION:1 55A
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T123000Z

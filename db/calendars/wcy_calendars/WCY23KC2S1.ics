@@ -158,20 +158,6 @@ LOCATION:307 S
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251013T075000Z
-DTEND:20251013T092500Z
-SUMMARY:JEt (L)
-LOCATION:237 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251013T094000Z
-DTEND:20251013T111500Z
-SUMMARY:JEt (L)
-LOCATION:237 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251014T060000Z
 DTEND:20251014T073500Z
 SUMMARY:Est (w)
@@ -449,14 +435,14 @@ DTSTART:20251029T085000Z
 DTEND:20251029T102500Z
 SUMMARY:JEt (L)
 LOCATION:237 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T104000Z
 DTEND:20251029T121500Z
 SUMMARY:JEt (L)
 LOCATION:237 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T123000Z
@@ -492,6 +478,20 @@ DTEND:20251030T102500Z
 SUMMARY:Nsk (w)
 LOCATION:307 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251030T104000Z
+DTEND:20251030T121500Z
+SUMMARY:JEt (L)
+LOCATION:011 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251030T123000Z
+DTEND:20251030T140500Z
+SUMMARY:JEt (L)
+LOCATION:011 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T085000Z
@@ -625,20 +625,6 @@ DTEND:20251107T163500Z
 SUMMARY:Est (L)
 LOCATION:120 65
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Michał Jarosz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251112T085000Z
-DTEND:20251112T102500Z
-SUMMARY:JEt (L)
-LOCATION:237 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251112T104000Z
-DTEND:20251112T121500Z
-SUMMARY:JEt (L)
-LOCATION:237 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T123000Z
@@ -926,6 +912,20 @@ DTEND:20251202T163500Z
 SUMMARY:ZKwI (L)
 LOCATION:085 S
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T085000Z
+DTEND:20251203T102500Z
+SUMMARY:JEt (L)
+LOCATION:224 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T104000Z
+DTEND:20251203T121500Z
+SUMMARY:JEt (L)
+LOCATION:224 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T123000Z

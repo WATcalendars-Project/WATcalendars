@@ -494,13 +494,6 @@ LOCATION:6/ 23a
 DESCRIPTION:Inżynieria ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: dr inż. Dębowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251215T150000Z
-DTEND:20251215T163500Z
-SUMMARY:Ird (ć)
-LOCATION:6/ 23a
-DESCRIPTION:Inżynieria ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr inż. Dębowski Andrzej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251222T150000Z
 DTEND:20251222T163500Z
 SUMMARY:I 
@@ -1376,13 +1369,6 @@ LOCATION:3/ 23a
 DESCRIPTION:Magazynowanie i dystrybucja wyrobów motoryzacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251210T085000Z
-DTEND:20251210T102500Z
-SUMMARY:Par (L)
-LOCATION:14/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251217T085000Z
 DTEND:20251217T102500Z
 SUMMARY:App (S)
@@ -1453,6 +1439,13 @@ LOCATION:20/ 68
 DESCRIPTION:Silniki spalinowe i hybrydowe układy napędowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251126T104000Z
+DTEND:20251126T121500Z
+SUMMARY:Par (L)
+LOCATION:14/ 23a; 4/ 23a
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251203T104000Z
 DTEND:20251203T121500Z
 SUMMARY:Uk* (w)
@@ -1462,9 +1455,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T104000Z
 DTEND:20251210T121500Z
+SUMMARY:Ssh (L)
+LOCATION:9/ 68; 15/ 68
+DESCRIPTION:Silniki spalinowe i hybrydowe układy napędowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T104000Z
+DTEND:20251217T121500Z
 SUMMARY:Par (L)
-LOCATION:14/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4
+LOCATION:14/ 23a; 4/ 23a
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T104000Z
@@ -1555,7 +1555,7 @@ DTSTART:20251210T123000Z
 DTEND:20251210T140500Z
 SUMMARY:Ird (ć)
 LOCATION:6/ 23a
-DESCRIPTION:Inżynieria ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11\nProwadzący: dr inż. Dębowski Andrzej
+DESCRIPTION:Inżynieria ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr inż. Dębowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T123000Z
@@ -1611,7 +1611,7 @@ DTSTART:20251126T150000Z
 DTEND:20251126T163500Z
 SUMMARY:Ird (ć)
 LOCATION:6/ 23a
-DESCRIPTION:Inżynieria ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11\nProwadzący: dr inż. Dębowski Andrzej
+DESCRIPTION:Inżynieria ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11\nProwadzący: dr inż. Dębowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T150000Z
@@ -1768,13 +1768,6 @@ LOCATION:
 DESCRIPTION:E-logistyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Waśniewski Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251218T070000Z
-DTEND:20251218T083500Z
-SUMMARY:Par (L)
-LOCATION:4/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251225T070000Z
 DTEND:20251225T083500Z
 SUMMARY:I 
@@ -1882,9 +1875,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T085000Z
 DTEND:20251218T102500Z
-SUMMARY:Par (L)
-LOCATION:4/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+SUMMARY:Ird (ć)
+LOCATION:5/ 23a
+DESCRIPTION:Inżynieria ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11\nProwadzący: dr inż. Dębowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T085000Z
@@ -2178,7 +2171,7 @@ DTSTART:20251113T150000Z
 DTEND:20251113T163500Z
 SUMMARY:Ssh (L)
 LOCATION:9/ 68; 15/ 68
-DESCRIPTION:Silniki spalinowe i hybrydowe układy napędowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
+DESCRIPTION:Silniki spalinowe i hybrydowe układy napędowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T150000Z
@@ -2190,13 +2183,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T150000Z
 DTEND:20251127T163500Z
-SUMMARY:Ssh (L)
-LOCATION:9/ 68; 15/ 68
-DESCRIPTION:Silniki spalinowe i hybrydowe układy napędowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T150000Z
-DTEND:20251211T163500Z
 SUMMARY:Ssh (L)
 LOCATION:9/ 68; 15/ 68
 DESCRIPTION:Silniki spalinowe i hybrydowe układy napędowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8

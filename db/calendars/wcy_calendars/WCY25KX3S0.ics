@@ -921,11 +921,25 @@ LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 7/14\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251105T104000Z
+DTEND:20251105T121500Z
+SUMMARY:BwCP (ć)
+LOCATION:218 65
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251105T123000Z
 DTEND:20251105T140500Z
 SUMMARY:Mat I (ć)
 LOCATION:205 65
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/19\nProwadzący: mgr inż. Stanisław Zoń
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T150000Z
+DTEND:20251105T163500Z
+SUMMARY:M II (ć)
+LOCATION:204 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T070000Z
@@ -1010,6 +1024,13 @@ DTEND:20251107T163500Z
 SUMMARY:PGI (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251112T070000Z
+DTEND:20251112T083500Z
+SUMMARY:BwCP (ć)
+LOCATION:101 65
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T085000Z
@@ -1282,7 +1303,7 @@ DTSTART:20251121T150000Z
 DTEND:20251121T163500Z
 SUMMARY:M II (ć)
 LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/17\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T085000Z
@@ -1301,9 +1322,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T123000Z
 DTEND:20251124T140500Z
-SUMMARY:BwCP (ć)
+SUMMARY:M II (ć)
 LOCATION:201 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T150000Z
@@ -1359,7 +1380,7 @@ DTSTART:20251126T070000Z
 DTEND:20251126T083500Z
 SUMMARY:M II (ć)
 LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/17\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T085000Z
@@ -1441,9 +1462,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T123000Z
 DTEND:20251201T140500Z
-SUMMARY:BwCP (ć)
+SUMMARY:M II (ć)
 LOCATION:201 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T150000Z
@@ -1481,13 +1502,6 @@ LOCATION:314 S
 DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251202T123000Z
-DTEND:20251202T140500Z
-SUMMARY:M II (ć)
-LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/17\nProwadzący: mgr inż. Stanisław Zoń
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251203T085000Z
 DTEND:20251203T102500Z
 SUMMARY:M II (w)
@@ -1500,13 +1514,6 @@ DTEND:20251203T140500Z
 SUMMARY:Mat I (ć)
 LOCATION:205 65
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/19\nProwadzący: mgr inż. Stanisław Zoń
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251203T150000Z
-DTEND:20251203T163500Z
-SUMMARY:M II (ć)
-LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T070000Z
@@ -1590,7 +1597,7 @@ DTSTART:20251205T150000Z
 DTEND:20251205T163500Z
 SUMMARY:M II (ć)
 LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T070000Z
@@ -1618,7 +1625,7 @@ DTSTART:20251208T123000Z
 DTEND:20251208T140500Z
 SUMMARY:M II (ć)
 LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/17\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T165000Z
@@ -1723,7 +1730,7 @@ DTSTART:20251212T150000Z
 DTEND:20251212T163500Z
 SUMMARY:M II (ć)
 LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T070000Z
@@ -1751,7 +1758,7 @@ DTSTART:20251215T123000Z
 DTEND:20251215T140500Z
 SUMMARY:M II (ć)
 LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T165000Z
@@ -1866,6 +1873,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 26/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251219T070000Z
+DTEND:20251219T083500Z
+SUMMARY:M II (ć)
+LOCATION:205 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: mgr inż. Stanisław Zoń
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251219T085000Z
 DTEND:20251219T102500Z
 SUMMARY:WDM (ć)
@@ -1878,13 +1892,6 @@ DTEND:20251219T140500Z
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251219T150000Z
-DTEND:20251219T163500Z
-SUMMARY:M II (ć)
-LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T070000Z
@@ -1982,7 +1989,7 @@ DTSTART:20260109T150000Z
 DTEND:20260109T163500Z
 SUMMARY:M II (ć)
 LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T070000Z
@@ -2038,7 +2045,7 @@ DTSTART:20260113T123000Z
 DTEND:20260113T140500Z
 SUMMARY:M II (ć)
 LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T085000Z
@@ -2157,7 +2164,7 @@ DTSTART:20260120T123000Z
 DTEND:20260120T140500Z
 SUMMARY:M II (ć)
 LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/17\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T150000Z
@@ -2249,13 +2256,6 @@ DTEND:20260123T083500Z
 SUMMARY:Mat I (ć)
 LOCATION:205 65
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/19\nProwadzący: mgr inż. Stanisław Zoń
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260123T085000Z
-DTEND:20260123T102500Z
-SUMMARY:M II (ć)
-LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T123000Z
@@ -2377,18 +2377,18 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 31/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260130T070000Z
+DTEND:20260130T083500Z
+SUMMARY:M II (ć)
+LOCATION:205 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/17\nProwadzący: mgr inż. Stanisław Zoń
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260130T123000Z
 DTEND:20260130T140500Z
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260130T150000Z
-DTEND:20260130T163500Z
-SUMMARY:M II (ć)
-LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T070000Z
