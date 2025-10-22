@@ -438,18 +438,18 @@ LOCATION:13636
 DESCRIPTION:Bezzałogowe systemy powietrzne\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251022T060000Z
-DTEND:20251022T073500Z
-SUMMARY:Moelp 
-LOCATION:3367
-DESCRIPTION:Modelowanie elementów płatowca i zespołu napędowego\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251119T070000Z
 DTEND:20251119T083500Z
 SUMMARY:Prelp 
 LOCATION:1867
 DESCRIPTION:Prelp\nRodzaj zajęć: -\nProwadzący: mgr inż. Janczewski Mariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T070000Z
+DTEND:20251126T083500Z
+SUMMARY:Moelp 
+LOCATION:
+DESCRIPTION:Modelowanie elementów płatowca i zespołu napędowego\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T070000Z
@@ -482,13 +482,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T085000Z
 DTEND:20251029T102500Z
-SUMMARY:Moelp 
-LOCATION:
-DESCRIPTION:Modelowanie elementów płatowca i zespołu napędowego\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251112T085000Z
-DTEND:20251112T102500Z
 SUMMARY:Moelp 
 LOCATION:
 DESCRIPTION:Modelowanie elementów płatowca i zespołu napędowego\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
@@ -648,6 +641,13 @@ LOCATION:
 DESCRIPTION:Modelowanie elementów płatowca i zespołu napędowego\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251112T123000Z
+DTEND:20251112T140500Z
+SUMMARY:Ukssp 
+LOCATION:
+DESCRIPTION:Ukssp\nRodzaj zajęć: -\nProwadzący: mgr inż. Janczewski Mariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251119T123000Z
 DTEND:20251119T140500Z
 SUMMARY:Ary 
@@ -702,13 +702,6 @@ DTEND:20251022T153500Z
 SUMMARY:PZ 
 LOCATION:
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251105T150000Z
-DTEND:20251105T163500Z
-SUMMARY:Ukssp 
-LOCATION:
-DESCRIPTION:Ukssp\nRodzaj zajęć: -\nProwadzący: mgr inż. Janczewski Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T150000Z
@@ -802,6 +795,13 @@ LOCATION:
 DESCRIPTION:Ukssp\nRodzaj zajęć: -\nProwadzący: mgr inż. Janczewski Mariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251030T085000Z
+DTEND:20251030T102500Z
+SUMMARY:Moelp 
+LOCATION:3367
+DESCRIPTION:Modelowanie elementów płatowca i zespołu napędowego\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251211T085000Z
 DTEND:20251211T102500Z
 SUMMARY:Bzzsp 
@@ -856,6 +856,13 @@ DTEND:20251120T121500Z
 SUMMARY:Mpwm 
 LOCATION:
 DESCRIPTION:Modelowanie procesów wymiany ciepła i masy\nRodzaj zajęć: -\nProwadzący: prof. dr hab. inż. Koniorczyk Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T104000Z
+DTEND:20251127T121500Z
+SUMMARY:Ukssp 
+LOCATION:
+DESCRIPTION:Ukssp\nRodzaj zajęć: -\nProwadzący: mgr inż. Janczewski Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T104000Z
@@ -949,6 +956,13 @@ LOCATION:
 DESCRIPTION:Tecko\nRodzaj zajęć: -\nProwadzący: dr inż. Omen Łukasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251120T123000Z
+DTEND:20251120T140500Z
+SUMMARY:Ukssp 
+LOCATION:
+DESCRIPTION:Ukssp\nRodzaj zajęć: -\nProwadzący: mgr inż. Janczewski Mariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251127T123000Z
 DTEND:20251127T140500Z
 SUMMARY:Prelp 
@@ -1033,13 +1047,6 @@ LOCATION:3936
 DESCRIPTION:Bezzałogowe systemy powietrzne\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251204T150000Z
-DTEND:20251204T163500Z
-SUMMARY:Ukssp 
-LOCATION:
-DESCRIPTION:Ukssp\nRodzaj zajęć: -\nProwadzący: mgr inż. Janczewski Mariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251211T150000Z
 DTEND:20251211T163500Z
 SUMMARY:PZ 
@@ -1117,6 +1124,13 @@ LOCATION:
 DESCRIPTION:Modelowanie procesów wymiany ciepła i masy\nRodzaj zajęć: -\nProwadzący: prof. dr hab. inż. Koniorczyk Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251107T070000Z
+DTEND:20251107T083500Z
+SUMMARY:Ukssp 
+LOCATION:
+DESCRIPTION:Ukssp\nRodzaj zajęć: -\nProwadzący: mgr inż. Janczewski Mariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251114T070000Z
 DTEND:20251114T083500Z
 SUMMARY:Ukssp 
@@ -1164,6 +1178,13 @@ DTEND:20250116T083500Z
 SUMMARY:Ukssp 
 LOCATION:
 DESCRIPTION:Ukssp\nRodzaj zajęć: -\nProwadzący: dr inż. Omen Łukasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250123T070000Z
+DTEND:20250123T083500Z
+SUMMARY:Ukssp 
+LOCATION:
+DESCRIPTION:Ukssp\nRodzaj zajęć: -\nProwadzący: mgr inż. Janczewski Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T075000Z
@@ -1425,20 +1446,6 @@ LOCATION:
 DESCRIPTION:Tecko\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251024T140000Z
-DTEND:20251024T153500Z
-SUMMARY:Ukssp 
-LOCATION:
-DESCRIPTION:Ukssp\nRodzaj zajęć: -\nProwadzący: mgr inż. Janczewski Mariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251107T150000Z
-DTEND:20251107T163500Z
-SUMMARY:Ukssp 
-LOCATION:
-DESCRIPTION:Ukssp\nRodzaj zajęć: -\nProwadzący: mgr inż. Janczewski Mariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251205T150000Z
 DTEND:20251205T163500Z
 SUMMARY:Bzzsp 
@@ -1451,13 +1458,6 @@ DTEND:20251212T163500Z
 SUMMARY:Tecko 
 LOCATION:
 DESCRIPTION:Tecko\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250109T150000Z
-DTEND:20250109T163500Z
-SUMMARY:Ukssp 
-LOCATION:
-DESCRIPTION:Ukssp\nRodzaj zajęć: -\nProwadzący: mgr inż. Janczewski Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T165000Z

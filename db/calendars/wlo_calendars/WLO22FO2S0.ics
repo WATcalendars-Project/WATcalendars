@@ -1075,13 +1075,6 @@ LOCATION:0.24/135
 DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251105T070000Z
-DTEND:20251105T083500Z
-SUMMARY:SMa (S)
-LOCATION:
-DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: ppłk dr inż. Grzelak Małgorzata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251112T070000Z
 DTEND:20251112T083500Z
 SUMMARY:CL. (ć)
@@ -1171,13 +1164,6 @@ DTEND:20251015T092500Z
 SUMMARY:PoM (w)
 LOCATION:3.16/135
 DESCRIPTION:Podsystem medyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Nagrabski Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251105T085000Z
-DTEND:20251105T102500Z
-SUMMARY:SMa (S)
-LOCATION:
-DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T085000Z
@@ -2405,6 +2391,13 @@ LOCATION:0.21/16
 DESCRIPTION:Opakowania i jednostki ładunkowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250123T104000Z
+DTEND:20250123T121500Z
+SUMMARY:SMa (S)
+LOCATION:301/S
+DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250919T113000Z
 DTEND:20250919T130500Z
 SUMMARY:Sz.-CSz 
@@ -2466,6 +2459,13 @@ DTEND:20251205T140500Z
 SUMMARY:SMa (L)
 LOCATION:0.8/16
 DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250123T123000Z
+DTEND:20250123T140500Z
+SUMMARY:SMa (S)
+LOCATION:301/S
+DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T140000Z

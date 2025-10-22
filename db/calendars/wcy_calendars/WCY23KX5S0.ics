@@ -1947,7 +1947,7 @@ DTSTART:20250616T094000Z
 DTEND:20250616T111500Z
 SUMMARY:MM (Inne)
 LOCATION:314 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T140000Z
@@ -2143,7 +2143,7 @@ DTSTART:20251001T155000Z
 DTEND:20251001T172500Z
 SUMMARY:MM (Inne)
 LOCATION:223 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T060000Z
@@ -2171,7 +2171,7 @@ DTSTART:20251002T155000Z
 DTEND:20251002T172500Z
 SUMMARY:MM (Inne)
 LOCATION:314 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T060000Z
@@ -2536,6 +2536,13 @@ DTEND:20251023T092500Z
 SUMMARY:Pk (w)
 LOCATION:317 S
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251023T155000Z
+DTEND:20251023T172500Z
+SUMMARY:SO (Inne)
+LOCATION:307 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/2\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T075000Z
@@ -3166,6 +3173,13 @@ DTEND:20251121T182500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T184000Z
+DTEND:20251121T201500Z
+SUMMARY:MM (Inne)
+LOCATION:314 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T085000Z

@@ -893,13 +893,6 @@ LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251103T150000Z
-DTEND:20251103T163500Z
-SUMMARY:Mt 1 (w)
-LOCATION:51/ 62
-DESCRIPTION:Mechanika techniczna 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251103T165000Z
 DTEND:20251103T182500Z
 SUMMARY:JoM (w)
@@ -946,7 +939,7 @@ DTSTART:20251105T104000Z
 DTEND:20251105T121500Z
 SUMMARY:Mt 1 (w)
 LOCATION:51/ 62
-DESCRIPTION:Mechanika techniczna 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
+DESCRIPTION:Mechanika techniczna 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T123000Z
@@ -982,6 +975,13 @@ DTEND:20251106T140500Z
 SUMMARY:Mt 1 (ć)
 LOCATION:52/ 62
 DESCRIPTION:Mechanika techniczna 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251106T150000Z
+DTEND:20251106T163500Z
+SUMMARY:Mt 1 (w)
+LOCATION:51/ 62
+DESCRIPTION:Mechanika techniczna 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T070000Z

@@ -18,13 +18,6 @@ LOCATION:9/ 62
 DESCRIPTION:Komputerowe wspomaganie projektowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251027T070000Z
-DTEND:20251027T083500Z
-SUMMARY:Płe (w)
-LOCATION:3/ 54
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Szczawiński Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251110T070000Z
 DTEND:20251110T083500Z
 SUMMARY:I 
@@ -116,13 +109,6 @@ LOCATION:54/ 62
 DESCRIPTION:Fundamentals of finite element method\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251103T085000Z
-DTEND:20251103T102500Z
-SUMMARY:Kszm1 (w)
-LOCATION:53/ 62
-DESCRIPTION:Komputerowa symulacja zagadnień mechaniki 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251110T085000Z
 DTEND:20251110T102500Z
 SUMMARY:I 
@@ -134,14 +120,14 @@ DTSTART:20251117T085000Z
 DTEND:20251117T102500Z
 SUMMARY:Kszm1 (w)
 LOCATION:53/ 62
-DESCRIPTION:Komputerowa symulacja zagadnień mechaniki 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:Komputerowa symulacja zagadnień mechaniki 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T085000Z
 DTEND:20251124T102500Z
-SUMMARY:Kszm1 (ć)
+SUMMARY:Kszm1 (w)
 LOCATION:53/ 62
-DESCRIPTION:Komputerowa symulacja zagadnień mechaniki 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:Komputerowa symulacja zagadnień mechaniki 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T085000Z
@@ -389,6 +375,13 @@ LOCATION:53/ 62
 DESCRIPTION:Komputerowe wspomaganie projektowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251208T123000Z
+DTEND:20251208T140500Z
+SUMMARY:Kszm1 (ć)
+LOCATION:53/ 62
+DESCRIPTION:Komputerowa symulacja zagadnień mechaniki 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251215T123000Z
 DTEND:20251215T140500Z
 SUMMARY:Kwpro (L)
@@ -624,7 +617,7 @@ DTSTART:20251014T060000Z
 DTEND:20251014T073500Z
 SUMMARY:Płe (w)
 LOCATION:01/ 54A
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Szczawiński Piotr
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251111T070000Z
@@ -687,7 +680,7 @@ DTSTART:20251014T075000Z
 DTEND:20251014T092500Z
 SUMMARY:Płe (w)
 LOCATION:01/ 54A
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Szczawiński Piotr
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T085000Z
@@ -1534,7 +1527,7 @@ DTSTART:20251015T113000Z
 DTEND:20251015T130500Z
 SUMMARY:Płe (w)
 LOCATION:01/ 54A
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Szczawiński Piotr
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T113000Z
@@ -1590,7 +1583,7 @@ DTSTART:20251015T140000Z
 DTEND:20251015T153500Z
 SUMMARY:Płe (w)
 LOCATION:01/ 54A
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Szczawiński Piotr
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T150000Z
@@ -1640,6 +1633,13 @@ DTEND:20250204T163500Z
 SUMMARY:Pkm2 (z. popr. lab.)
 LOCATION:9/ 54; 13/ 54; 120/ 54
 DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: (z. popr. lab.)\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T165000Z
+DTEND:20251126T182500Z
+SUMMARY:Płe (w)
+LOCATION:15/ 23a
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T165000Z

@@ -690,20 +690,6 @@ LOCATION:121 65
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251119T070000Z
-DTEND:20251119T083500Z
-SUMMARY:SoU (L)
-LOCATION:237 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/20\nProwadzący: Jakub Walczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251119T085000Z
-DTEND:20251119T102500Z
-SUMMARY:SoU (L)
-LOCATION:237 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/20\nProwadzący: Jakub Walczak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251120T085000Z
 DTEND:20251120T102500Z
 SUMMARY:Bpe (w)
@@ -785,14 +771,14 @@ DTSTART:20251126T070000Z
 DTEND:20251126T083500Z
 SUMMARY:SoU (L)
 LOCATION:237 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/20\nProwadzący: Jakub Walczak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/20\nProwadzący: Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T085000Z
 DTEND:20251126T102500Z
 SUMMARY:SoU (L)
 LOCATION:237 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/20\nProwadzący: Jakub Walczak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/20\nProwadzący: Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T123000Z
@@ -932,14 +918,14 @@ DTSTART:20251205T104000Z
 DTEND:20251205T121500Z
 SUMMARY:SoU (L)
 LOCATION:237 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/20\nProwadzący: Jakub Walczak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/20\nProwadzący: Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T123000Z
 DTEND:20251205T140500Z
 SUMMARY:SoU (L)
 LOCATION:237 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/20\nProwadzący: Jakub Walczak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/20\nProwadzący: Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T150000Z
@@ -1037,14 +1023,14 @@ DTSTART:20251212T104000Z
 DTEND:20251212T121500Z
 SUMMARY:SoU (L)
 LOCATION:237 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/20\nProwadzący: Jakub Walczak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/20\nProwadzący: Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T123000Z
 DTEND:20251212T140500Z
 SUMMARY:SoU (L)
 LOCATION:237 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/20\nProwadzący: Jakub Walczak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/20\nProwadzący: Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T070000Z
@@ -1135,13 +1121,27 @@ DTSTART:20251219T104000Z
 DTEND:20251219T121500Z
 SUMMARY:SoU (L)
 LOCATION:237 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/20\nProwadzący: Jakub Walczak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/20\nProwadzący: Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T123000Z
 DTEND:20251219T140500Z
 SUMMARY:SoU (L)
 LOCATION:237 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/20\nProwadzący: Jakub Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260107T070000Z
+DTEND:20260107T083500Z
+SUMMARY:SoU (L)
+LOCATION:233 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/20\nProwadzący: Jakub Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260107T085000Z
+DTEND:20260107T102500Z
+SUMMARY:SoU (L)
+LOCATION:233 S
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/20\nProwadzący: Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT

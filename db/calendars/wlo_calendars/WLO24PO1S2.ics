@@ -53,18 +53,25 @@ LOCATION:4.17b/135
 DESCRIPTION:Bezpieczeństwo informacji w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251215T123000Z
+DTEND:20251215T140500Z
+SUMMARY:UiTK (ć)
+LOCATION:
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. Skrabacz Aleksandra
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250112T123000Z
 DTEND:20250112T140500Z
 SUMMARY:UiTK (ć)
 LOCATION:5.21/135
-DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. Skrabacz Aleksandra
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr hab. Skrabacz Aleksandra
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251103T150000Z
-DTEND:20251103T163500Z
+DTSTART:20251215T150000Z
+DTEND:20251215T163500Z
 SUMMARY:UiTK (ć)
-LOCATION:5.21/135
-DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr hab. Skrabacz Aleksandra
+LOCATION:
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. Skrabacz Aleksandra
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250119T150000Z
@@ -72,13 +79,6 @@ DTEND:20250119T163500Z
 SUMMARY:IiDwO (ć)
 LOCATION:1/22
 DESCRIPTION:Informacja i dezinformacja w obronności\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 26; IiDwO(ć) WLO24PO1S2 płk. Kaczmarczyk 2.21
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251103T165000Z
-DTEND:20251103T182500Z
-SUMMARY:UiTK (ć)
-LOCATION:5.21/135
-DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. Skrabacz Aleksandra
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T165000Z
@@ -879,6 +879,13 @@ LOCATION:31/158
 DESCRIPTION:Rozpozanie\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr inż. Kleszcz Sławomir; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 0.28; IiDwO(w) WLO24PO1S2 płk. Kaczmarczyk 37
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250115T123000Z
+DTEND:20250115T140500Z
+SUMMARY:UiTK (ć)
+LOCATION:0.19/135
+DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. Skrabacz Aleksandra
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250129T123000Z
 DTEND:20250129T140500Z
 SUMMARY:PZIwO (ć)
@@ -968,13 +975,6 @@ DTEND:20251106T201500Z
 SUMMARY:Lg (ć)
 LOCATION:26/158
 DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Marciniak Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251127T184000Z
-DTEND:20251127T201500Z
-SUMMARY:UiTK (ć)
-LOCATION:4.23/135
-DESCRIPTION:Urządzenia i technologie  komunikacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. Skrabacz Aleksandra
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T060000Z

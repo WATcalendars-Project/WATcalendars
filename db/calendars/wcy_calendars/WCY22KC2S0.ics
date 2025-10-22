@@ -2465,7 +2465,7 @@ DTSTART:20250923T155000Z
 DTEND:20250923T172500Z
 SUMMARY:Asie (Inne)
 LOCATION:308 S
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Marcin Pachnik
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T060000Z
@@ -2972,6 +2972,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 41/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251027T150000Z
+DTEND:20251027T163500Z
+SUMMARY:Asie (Inne)
+LOCATION:313 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251028T070000Z
 DTEND:20251028T083500Z
 SUMMARY:Bsbp (w)
@@ -3420,20 +3427,6 @@ LOCATION:125 65
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/20\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251118T123000Z
-DTEND:20251118T140500Z
-SUMMARY:AsU (L)
-LOCATION:09 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/14\nProwadzący: Piotr Targowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251118T150000Z
-DTEND:20251118T163500Z
-SUMMARY:AsU (L)
-LOCATION:09 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/14\nProwadzący: Piotr Targowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251119T085000Z
 DTEND:20251119T102500Z
 SUMMARY:AśW (w)
@@ -3788,14 +3781,14 @@ DTSTART:20251205T104000Z
 DTEND:20251205T121500Z
 SUMMARY:AsU (L)
 LOCATION:09 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/14\nProwadzący: Piotr Targowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/14\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T123000Z
 DTEND:20251205T140500Z
 SUMMARY:AsU (L)
 LOCATION:09 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14\nProwadzący: Piotr Targowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/14\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T150000Z
@@ -4068,14 +4061,14 @@ DTSTART:20251219T104000Z
 DTEND:20251219T121500Z
 SUMMARY:AsU (L)
 LOCATION:09 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/14\nProwadzący: Piotr Targowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/14\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T123000Z
 DTEND:20251219T140500Z
 SUMMARY:AsU (L)
 LOCATION:09 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: Piotr Targowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T070000Z
@@ -4166,14 +4159,14 @@ DTSTART:20260109T104000Z
 DTEND:20260109T121500Z
 SUMMARY:AsU (L)
 LOCATION:09 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: Piotr Targowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/14\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T123000Z
 DTEND:20260109T140500Z
 SUMMARY:AsU (L)
 LOCATION:09 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: Piotr Targowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T150000Z
@@ -4425,14 +4418,14 @@ DTSTART:20260123T104000Z
 DTEND:20260123T121500Z
 SUMMARY:AsU (L)
 LOCATION:09 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14\nProwadzący: Piotr Targowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T123000Z
 DTEND:20260123T140500Z
 SUMMARY:AsU (L)
 LOCATION:09 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: Piotr Targowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T070000Z
@@ -4517,6 +4510,20 @@ DTEND:20260128T201500Z
 SUMMARY:WF (w)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260129T070000Z
+DTEND:20260129T083500Z
+SUMMARY:AsU (L)
+LOCATION:09 65
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14\nProwadzący: Piotr Targowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260129T085000Z
+DTEND:20260129T102500Z
+SUMMARY:AsU (L)
+LOCATION:09 65
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T123000Z

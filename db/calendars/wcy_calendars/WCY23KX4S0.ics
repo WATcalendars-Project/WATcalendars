@@ -1919,7 +1919,7 @@ DTSTART:20250616T094000Z
 DTEND:20250616T111500Z
 SUMMARY:MM (Inne)
 LOCATION:314 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T060000Z
@@ -2101,7 +2101,7 @@ DTSTART:20251001T155000Z
 DTEND:20251001T172500Z
 SUMMARY:MM (Inne)
 LOCATION:223 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T060000Z
@@ -2115,7 +2115,7 @@ DTSTART:20251002T075000Z
 DTEND:20251002T092500Z
 SUMMARY:SO (Inne)
 LOCATION:314 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T094000Z
@@ -2129,7 +2129,7 @@ DTSTART:20251002T155000Z
 DTEND:20251002T172500Z
 SUMMARY:MM (Inne)
 LOCATION:314 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T060000Z
@@ -2508,6 +2508,13 @@ DTEND:20251023T092500Z
 SUMMARY:Pk (w)
 LOCATION:317 S
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251023T155000Z
+DTEND:20251023T172500Z
+SUMMARY:SO (Inne)
+LOCATION:307 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T075000Z
@@ -3098,20 +3105,6 @@ LOCATION:314 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/2\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251121T070000Z
-DTEND:20251121T083500Z
-SUMMARY:Sck (L)
-LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: Piotr Targowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T085000Z
-DTEND:20251121T102500Z
-SUMMARY:Sck (L)
-LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: Piotr Targowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251121T104000Z
 DTEND:20251121T121500Z
 SUMMARY:WF (ć)
@@ -3138,6 +3131,13 @@ DTEND:20251121T182500Z
 SUMMARY:PZiP (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T184000Z
+DTEND:20251121T201500Z
+SUMMARY:MM (Inne)
+LOCATION:314 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T085000Z
@@ -3459,14 +3459,14 @@ DTSTART:20251208T104000Z
 DTEND:20251208T121500Z
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: Piotr Targowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T123000Z
 DTEND:20251208T140500Z
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: Piotr Targowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T150000Z
@@ -3683,14 +3683,14 @@ DTSTART:20260107T070000Z
 DTEND:20260107T083500Z
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: Piotr Targowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T085000Z
 DTEND:20260107T102500Z
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: Piotr Targowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T104000Z
@@ -3774,14 +3774,14 @@ DTSTART:20260112T070000Z
 DTEND:20260112T083500Z
 SUMMARY:Sck (L)
 LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: Piotr Targowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T085000Z
 DTEND:20260112T102500Z
 SUMMARY:Sck (L)
 LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: Piotr Targowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T150000Z
@@ -3936,6 +3936,20 @@ DTEND:20260120T083500Z
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 57/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T123000Z
+DTEND:20260120T140500Z
+SUMMARY:Sck (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: Piotr Targowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T150000Z
+DTEND:20260120T163500Z
+SUMMARY:Sck (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T104000Z

@@ -426,9 +426,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T150000Z
 DTEND:20251103T163500Z
-SUMMARY:Wdi. (L)
-LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11
+SUMMARY:S-RS 
+LOCATION:51/ 62
+DESCRIPTION:S-RS\nRodzaj zajęć: -\nNumer zajęć: 1/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251110T150000Z
@@ -750,7 +750,7 @@ DTSTART:20250127T085000Z
 DTEND:20250127T102500Z
 SUMMARY:Wdi. (L)
 LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250210T085000Z
@@ -774,10 +774,10 @@ LOCATION:55/ 62
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/19\nProwadzący: dr Multarzyński Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251021T094000Z
-DTEND:20251021T111500Z
+DTSTART:20251104T104000Z
+DTEND:20251104T121500Z
 SUMMARY:M1 (ć)
-LOCATION:55/ 62
+LOCATION:
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/19\nProwadzący: dr Multarzyński Piotr
 END:VEVENT
 BEGIN:VEVENT
@@ -876,14 +876,14 @@ DTSTART:20251209T123000Z
 DTEND:20251209T140500Z
 SUMMARY:Wdi. (L)
 LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T123000Z
 DTEND:20251216T140500Z
 SUMMARY:Wdi. (L)
 LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T123000Z
@@ -940,6 +940,20 @@ DTEND:20251118T163500Z
 SUMMARY:Owi (w)
 LOCATION:51/ 62
 DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr Mielnik Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T150000Z
+DTEND:20251125T163500Z
+SUMMARY:S-RS 
+LOCATION:51/ 62
+DESCRIPTION:S-RS\nRodzaj zajęć: -\nNumer zajęć: 2/2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T150000Z
+DTEND:20251209T163500Z
+SUMMARY:Wdi. (L)
+LOCATION:57/ 62
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T150000Z
@@ -1663,25 +1677,32 @@ LOCATION:55/ 62
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/19\nProwadzący: dr Multarzyński Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251106T123000Z
+DTEND:20251106T140500Z
+SUMMARY:M1 (ć)
+LOCATION:55/ 62
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/19\nProwadzący: dr Multarzyński Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251113T123000Z
 DTEND:20251113T140500Z
 SUMMARY:M1 (ć)
 LOCATION:55/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/19\nProwadzący: dr Multarzyński Piotr
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/19\nProwadzący: dr Multarzyński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T123000Z
 DTEND:20251120T140500Z
 SUMMARY:M1 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/19\nProwadzący: dr Multarzyński Piotr
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/19\nProwadzący: dr Multarzyński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T123000Z
 DTEND:20251127T140500Z
 SUMMARY:M1 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/19\nProwadzący: dr Multarzyński Piotr
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/19\nProwadzący: dr Multarzyński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T123000Z
@@ -2039,13 +2060,6 @@ DTEND:20251017T092500Z
 SUMMARY:Wzp (w)
 LOCATION:51/ 62
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Małecka Magdalena
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251024T075000Z
-DTEND:20251024T092500Z
-SUMMARY:M1 (ć)
-LOCATION:8/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/19\nProwadzący: dr Multarzyński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T085000Z

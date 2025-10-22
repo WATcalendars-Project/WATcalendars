@@ -113,7 +113,7 @@ DTSTART:20250314T123000Z
 DTEND:20250314T140500Z
 SUMMARY:Wpp (Inne)
 LOCATION:106 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/3\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/4\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T070000Z
@@ -1275,14 +1275,14 @@ DTSTART:20250702T094000Z
 DTEND:20250702T111500Z
 SUMMARY:Wpp (Inne)
 LOCATION:121 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/3\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/4\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250709T094000Z
 DTEND:20250709T111500Z
 SUMMARY:Wpp (Inne)
 LOCATION:120 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/3\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/4\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T060000Z
@@ -1310,14 +1310,14 @@ DTSTART:20250918T155000Z
 DTEND:20250918T172500Z
 SUMMARY:Wpp (Inne)
 LOCATION:106 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/3\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/4\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250923T155000Z
 DTEND:20250923T172500Z
 SUMMARY:Asie (Inne)
 LOCATION:308 S
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Marcin Pachnik
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T075000Z
@@ -1338,7 +1338,7 @@ DTSTART:20251003T075000Z
 DTEND:20251003T092500Z
 SUMMARY:Wpp (Inne)
 LOCATION:121 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/3\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/4\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T060000Z
@@ -1366,7 +1366,7 @@ DTSTART:20251007T155000Z
 DTEND:20251007T172500Z
 SUMMARY:Wpp (Inne)
 LOCATION:106 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 6/3\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 6/4\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T060000Z
@@ -1453,6 +1453,13 @@ LOCATION:09 65
 DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNumer zajęć: 10/22\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251022T113000Z
+DTEND:20251022T130500Z
+SUMMARY:Wpp (Inne)
+LOCATION:106 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 7/4\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251027T104000Z
 DTEND:20251027T121500Z
 SUMMARY:pzST (P)
@@ -1469,9 +1476,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T150000Z
 DTEND:20251027T163500Z
-SUMMARY:REZ (Inne)
-LOCATION:-
-DESCRIPTION:Rezerwacja\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/3\nProwadzący: -
+SUMMARY:Asie (Inne)
+LOCATION:313 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T123000Z
@@ -1681,7 +1688,7 @@ DTSTART:20251201T150000Z
 DTEND:20251201T163500Z
 SUMMARY:REZ (Inne)
 LOCATION:-
-DESCRIPTION:Rezerwacja\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/3\nProwadzący: -
+DESCRIPTION:Rezerwacja\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T165000Z
@@ -1905,6 +1912,6 @@ DTSTART:20260112T150000Z
 DTEND:20260112T163500Z
 SUMMARY:REZ (Inne)
 LOCATION:-
-DESCRIPTION:Rezerwacja\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/3\nProwadzący: -
+DESCRIPTION:Rezerwacja\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

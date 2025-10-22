@@ -641,6 +641,13 @@ LOCATION:133 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251106T085000Z
+DTEND:20251106T102500Z
+SUMMARY:M II (w)
+LOCATION:314 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1/17\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251106T104000Z
 DTEND:20251106T121500Z
 SUMMARY:Mat I (w)
@@ -673,7 +680,7 @@ DTSTART:20251107T085000Z
 DTEND:20251107T102500Z
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 1/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 2/17\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T104000Z
@@ -722,7 +729,7 @@ DTSTART:20251113T104000Z
 DTEND:20251113T121500Z
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 2/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 3/17\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T123000Z
@@ -743,7 +750,7 @@ DTSTART:20251114T085000Z
 DTEND:20251114T102500Z
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 3/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 4/17\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T104000Z
@@ -855,7 +862,7 @@ DTSTART:20251120T104000Z
 DTEND:20251120T121500Z
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 4/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 5/17\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T123000Z
@@ -883,7 +890,7 @@ DTSTART:20251121T085000Z
 DTEND:20251121T102500Z
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 5/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 6/17\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T123000Z
@@ -967,7 +974,7 @@ DTSTART:20251127T104000Z
 DTEND:20251127T121500Z
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 6/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 7/17\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T123000Z
@@ -1054,13 +1061,6 @@ LOCATION:314 S
 DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251204T104000Z
-DTEND:20251204T121500Z
-SUMMARY:M II (w)
-LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 7/17\nProwadzący: dr Arkadiusz Szymaniec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251204T123000Z
 DTEND:20251204T140500Z
 SUMMARY:WF (ć)
@@ -1094,13 +1094,6 @@ DTEND:20251205T083500Z
 SUMMARY:M II (ć)
 LOCATION:309 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: mgr inż. Alicja Kida
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251205T085000Z
-DTEND:20251205T102500Z
-SUMMARY:M II (w)
-LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 8/17\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T070000Z
@@ -1177,7 +1170,7 @@ DTSTART:20251211T104000Z
 DTEND:20251211T121500Z
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 9/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 8/17\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T123000Z
@@ -1198,7 +1191,7 @@ DTSTART:20251212T085000Z
 DTEND:20251212T102500Z
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 10/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 9/17\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T070000Z
@@ -1268,7 +1261,7 @@ DTSTART:20251218T104000Z
 DTEND:20251218T121500Z
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 11/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 10/17\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T123000Z
@@ -1296,7 +1289,7 @@ DTSTART:20251219T085000Z
 DTEND:20251219T102500Z
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 12/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 11/17\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T104000Z
@@ -1352,7 +1345,7 @@ DTSTART:20260108T104000Z
 DTEND:20260108T121500Z
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 13/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 12/17\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T123000Z
@@ -1373,7 +1366,7 @@ DTSTART:20260109T085000Z
 DTEND:20260109T102500Z
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 14/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 13/17\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T070000Z
@@ -1406,6 +1399,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T085000Z
 DTEND:20260113T102500Z
+SUMMARY:M II (w)
+LOCATION:314 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 14/17\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260113T123000Z
+DTEND:20260113T140500Z
 SUMMARY:M II (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 15/17\nProwadzący: dr Arkadiusz Szymaniec
