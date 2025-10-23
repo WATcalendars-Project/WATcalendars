@@ -102,13 +102,6 @@ LOCATION:106 65
 DESCRIPTION:Basics of Computer Engineering\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251027T123000Z
-DTEND:20251027T140500Z
-SUMMARY:PAn (w)
-LOCATION:224 S
-DESCRIPTION:Probabilistic Anaiysis\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Romuald Hoffmann
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251027T150000Z
 DTEND:20251027T163500Z
 SUMMARY:BCE (w)
@@ -366,6 +359,13 @@ DTEND:20251114T182500Z
 SUMMARY:Icn (P)
 LOCATION:011 65
 DESCRIPTION:Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNumer zajęć: 2/10\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251117T085000Z
+DTEND:20251117T102500Z
+SUMMARY:PAn (w)
+LOCATION:307 S
+DESCRIPTION:Probabilistic Anaiysis\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T104000Z

@@ -3707,13 +3707,6 @@ LOCATION:239 S
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251202T150000Z
-DTEND:20251202T163500Z
-SUMMARY:Tik (L)
-LOCATION:125 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr inż. Łukasz Paciorek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251202T184000Z
 DTEND:20251202T201500Z
 SUMMARY:- (S.Sz.W.)
@@ -4033,7 +4026,7 @@ DTSTART:20251216T150000Z
 DTEND:20251216T163500Z
 SUMMARY:Tik (L)
 LOCATION:120 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T184000Z
@@ -4055,6 +4048,13 @@ DTEND:20251217T140500Z
 SUMMARY:Ja (ć)
 LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 52/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T150000Z
+DTEND:20251217T163500Z
+SUMMARY:Tik (L)
+LOCATION:252 S
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T070000Z
@@ -4545,6 +4545,20 @@ DTEND:20260131T083500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T104000Z
+DTEND:20260219T121500Z
+SUMMARY:ppk (Inne)
+LOCATION:317 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T123000Z
+DTEND:20260219T140500Z
+SUMMARY:ppk (Inne)
+LOCATION:317 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T070000Z

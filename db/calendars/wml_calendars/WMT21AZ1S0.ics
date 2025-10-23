@@ -147,14 +147,14 @@ BEGIN:VEVENT
 DTSTART:20251208T085000Z
 DTEND:20251208T102500Z
 SUMMARY:Tnu 
-LOCATION:2269
+LOCATION:1869
 DESCRIPTION:Technologia napraw uzbrojenia\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T085000Z
 DTEND:20251215T102500Z
 SUMMARY:Tnu 
-LOCATION:2269
+LOCATION:1869
 DESCRIPTION:Technologia napraw uzbrojenia\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 DTSTART:20251201T123000Z
 DTEND:20251201T140500Z
 SUMMARY:Tnu 
-LOCATION:2269
+LOCATION:1869
 DESCRIPTION:Technologia napraw uzbrojenia\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
@@ -350,7 +350,7 @@ BEGIN:VEVENT
 DTSTART:20251208T150000Z
 DTEND:20251208T163500Z
 SUMMARY:Tnu 
-LOCATION:2269
+LOCATION:1869
 DESCRIPTION:Technologia napraw uzbrojenia\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
@@ -1026,13 +1026,6 @@ LOCATION:
 DESCRIPTION:Wojskowe pojazdy mechaniczne\nRodzaj zajęć: -\nProwadzący: dr inż. Koliński Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251030T085000Z
-DTEND:20251030T102500Z
-SUMMARY:Prsu2 
-LOCATION:4563
-DESCRIPTION:Projektowanie systemów uzbrojenia II\nRodzaj zajęć: -\nProwadzący: płk. dr hab. inż. Kupidura Przemysław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251106T085000Z
 DTEND:20251106T102500Z
 SUMMARY:REZ 
@@ -1089,8 +1082,8 @@ LOCATION:
 DESCRIPTION:Wojskowe pojazdy mechaniczne\nRodzaj zajęć: -\nProwadzący: dr inż. Koliński Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251030T104000Z
-DTEND:20251030T121500Z
+DTSTART:20250129T085000Z
+DTEND:20250129T102500Z
 SUMMARY:Prsu2 
 LOCATION:4563
 DESCRIPTION:Projektowanie systemów uzbrojenia II\nRodzaj zajęć: -\nProwadzący: płk. dr hab. inż. Kupidura Przemysław
@@ -1199,6 +1192,13 @@ DTEND:20250108T140500Z
 SUMMARY:Bspw 
 LOCATION:2269
 DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250122T123000Z
+DTEND:20250122T140500Z
+SUMMARY:Prsu2 
+LOCATION:4563
+DESCRIPTION:Projektowanie systemów uzbrojenia II\nRodzaj zajęć: -\nProwadzący: płk. dr hab. inż. Kupidura Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T150000Z

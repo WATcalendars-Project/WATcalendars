@@ -830,25 +830,11 @@ LOCATION:1 55A
 DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: ppłk dr inż. Grabka Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251028T150000Z
-DTEND:20251028T163500Z
-SUMMARY:DSiSM (w)
-LOCATION:103 K
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: ppłk mgr inż. Grądziel Grzegorz; ppłk mgr Misiejuk Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251104T150000Z
 DTEND:20251104T163500Z
 SUMMARY:Pmc (ć)
 LOCATION:1 55A
 DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: ppłk dr inż. Grabka Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251118T150000Z
-DTEND:20251118T163500Z
-SUMMARY:PTo (S)
-LOCATION:PiWa
-DESCRIPTION:Podstawy toksykologii\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T150000Z
@@ -858,34 +844,6 @@ LOCATION:ć
 DESCRIPTION:50%\nRodzaj zajęć: Mwy\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. inż. Cudziło Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251202T150000Z
-DTEND:20251202T163500Z
-SUMMARY:PTo (S)
-LOCATION:166 S
-DESCRIPTION:Podstawy toksykologii\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/8\nProwadzący: plk dr inż Wachna Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251209T150000Z
-DTEND:20251209T163500Z
-SUMMARY:PTo (S)
-LOCATION:166 S
-DESCRIPTION:Podstawy toksykologii\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/8\nProwadzący: plk dr inż Wachna Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251216T150000Z
-DTEND:20251216T163500Z
-SUMMARY:PTo (S)
-LOCATION:166 S
-DESCRIPTION:Podstawy toksykologii\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/8\nProwadzący: plk dr inż Wachna Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250113T150000Z
-DTEND:20250113T163500Z
-SUMMARY:PTo (S)
-LOCATION:166 S
-DESCRIPTION:Podstawy toksykologii\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/8\nProwadzący: plk dr inż Wachna Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250120T150000Z
 DTEND:20250120T163500Z
 SUMMARY:50% Mwy
@@ -893,11 +851,46 @@ LOCATION:ć
 DESCRIPTION:50%\nRodzaj zajęć: Mwy\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250127T150000Z
-DTEND:20250127T163500Z
+DTSTART:20251118T165000Z
+DTEND:20251118T182500Z
 SUMMARY:PTo (S)
-LOCATION:PiWa
-DESCRIPTION:Podstawy toksykologii\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/8
+LOCATION:165 S
+DESCRIPTION:Podstawy toksykologii\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/8\nProwadzący: plk dr inż Wachna Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251202T165000Z
+DTEND:20251202T182500Z
+SUMMARY:PTo (S)
+LOCATION:166 S
+DESCRIPTION:Podstawy toksykologii\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/8\nProwadzący: plk dr inż Wachna Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T165000Z
+DTEND:20251209T182500Z
+SUMMARY:PTo (S)
+LOCATION:166 S
+DESCRIPTION:Podstawy toksykologii\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/8\nProwadzący: plk dr inż Wachna Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251216T165000Z
+DTEND:20251216T182500Z
+SUMMARY:PTo (S)
+LOCATION:166 S
+DESCRIPTION:Podstawy toksykologii\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/8\nProwadzący: plk dr inż Wachna Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250113T165000Z
+DTEND:20250113T182500Z
+SUMMARY:PTo (S)
+LOCATION:166 S
+DESCRIPTION:Podstawy toksykologii\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/8\nProwadzący: plk dr inż Wachna Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250127T165000Z
+DTEND:20250127T182500Z
+SUMMARY:PTo (S)
+LOCATION:166 S
+DESCRIPTION:Podstawy toksykologii\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/8\nProwadzący: plk dr inż Wachna Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T060000Z
@@ -1299,17 +1292,17 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/30\nProwadzący: mgr Buczyński Artur
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251217T150000Z
-DTEND:20251217T163500Z
+DTSTART:20251217T165000Z
+DTEND:20251217T182500Z
 SUMMARY:PTo (S)
 LOCATION:166 S
 DESCRIPTION:Podstawy toksykologii\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/8\nProwadzący: plk dr inż Wachna Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250107T150000Z
-DTEND:20250107T163500Z
+DTSTART:20250107T165000Z
+DTEND:20250107T182500Z
 SUMMARY:PTo (S)
-LOCATION:166 S
+LOCATION:165 S
 DESCRIPTION:Podstawy toksykologii\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/8\nProwadzący: plk dr inż Wachna Piotr
 END:VEVENT
 BEGIN:VEVENT
@@ -2024,6 +2017,13 @@ DTSTART:20251017T075000Z
 DTEND:20251017T092500Z
 SUMMARY:DSiSM (w)
 LOCATION:AW 3/038
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: ppłk mgr inż. Grądziel Grzegorz; ppłk mgr Misiejuk Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251024T075000Z
+DTEND:20251024T092500Z
+SUMMARY:DSiSM (w)
+LOCATION:103 K
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: ppłk mgr inż. Grądziel Grzegorz; ppłk mgr Misiejuk Tomasz
 END:VEVENT
 BEGIN:VEVENT
