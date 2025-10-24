@@ -1036,8 +1036,15 @@ BEGIN:VEVENT
 DTSTART:20251031T085000Z
 DTEND:20251031T102500Z
 SUMMARY:Lg (w)
-LOCATION:4.23/135
+LOCATION:166 S
 DESCRIPTION:Logika\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251205T085000Z
+DTEND:20251205T102500Z
+SUMMARY:Gd (w)
+LOCATION:37/158
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T085000Z
@@ -1079,7 +1086,7 @@ DTSTART:20251003T094000Z
 DTEND:20251003T111500Z
 SUMMARY:Gd (w)
 LOCATION:31/158
-DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T094000Z
@@ -1114,7 +1121,7 @@ DTSTART:20251114T104000Z
 DTEND:20251114T121500Z
 SUMMARY:Gd (w)
 LOCATION:31/158
-DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T104000Z
@@ -1122,6 +1129,13 @@ DTEND:20251121T121500Z
 SUMMARY:Gd (ć)
 LOCATION:31/158
 DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251205T104000Z
+DTEND:20251205T121500Z
+SUMMARY:Gd (w)
+LOCATION:37/158
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T104000Z
@@ -1170,7 +1184,7 @@ DTSTART:20251010T113000Z
 DTEND:20251010T130500Z
 SUMMARY:Gd (w)
 LOCATION:31/158
-DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T113000Z
@@ -1282,7 +1296,7 @@ DTSTART:20251107T150000Z
 DTEND:20251107T163500Z
 SUMMARY:Gd (w)
 LOCATION:31/158
-DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T150000Z
@@ -1338,7 +1352,7 @@ DTSTART:20251107T165000Z
 DTEND:20251107T182500Z
 SUMMARY:Gd (w)
 LOCATION:31/158
-DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
+DESCRIPTION:Gra decyzyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T165000Z

@@ -84,7 +84,7 @@ BEGIN:VEVENT
 DTSTART:20251124T085000Z
 DTEND:20251124T102500Z
 SUMMARY:Pobbs 
-LOCATION:1725
+LOCATION:11325
 DESCRIPTION:Podstawy budowy  BSP-FPV\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
@@ -270,6 +270,13 @@ LOCATION:
 DESCRIPTION:Budko\nRodzaj zajęć: -\nProwadzący: mgr inż. Daniel Natalia
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250202T123000Z
+DTEND:20250202T140500Z
+SUMMARY:Werop 
+LOCATION:1867
+DESCRIPTION:Weryfikacja, operacje lotnicze finalizacja projektu bezzałogowej\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250209T123000Z
 DTEND:20250209T140500Z
 SUMMARY:Sylak 
@@ -394,13 +401,6 @@ DTEND:20250210T102500Z
 SUMMARY:Sylak 
 LOCATION:
 DESCRIPTION:Sylak\nRodzaj zajęć: -\nProwadzący: mgr inż. Djabin Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251118T104000Z
-DTEND:20251118T121500Z
-SUMMARY:Senak 
-LOCATION:10636
-DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T104000Z
@@ -578,6 +578,13 @@ LOCATION:
 DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250211T070000Z
+DTEND:20250211T083500Z
+SUMMARY:Werop 
+LOCATION:13036
+DESCRIPTION:Weryfikacja, operacje lotnicze finalizacja projektu bezzałogowej\nRodzaj zajęć: -\nProwadzący: mgr inż. Djabin Jakub
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251119T085000Z
 DTEND:20251119T102500Z
 SUMMARY:Pobbs 
@@ -639,6 +646,13 @@ DTEND:20250204T102500Z
 SUMMARY:Senak 
 LOCATION:
 DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250211T085000Z
+DTEND:20250211T102500Z
+SUMMARY:Werop 
+LOCATION:13036
+DESCRIPTION:Weryfikacja, operacje lotnicze finalizacja projektu bezzałogowej\nRodzaj zajęć: -\nProwadzący: mgr inż. Djabin Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T104000Z
@@ -711,6 +725,13 @@ LOCATION:
 DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250211T104000Z
+DTEND:20250211T121500Z
+SUMMARY:Werop 
+LOCATION:1867
+DESCRIPTION:Weryfikacja, operacje lotnicze finalizacja projektu bezzałogowej\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251119T123000Z
 DTEND:20251119T140500Z
 SUMMARY:Pobbs 
@@ -771,6 +792,13 @@ DTSTART:20250204T123000Z
 DTEND:20250204T140500Z
 SUMMARY:Werop 
 LOCATION:00336
+DESCRIPTION:Weryfikacja, operacje lotnicze finalizacja projektu bezzałogowej\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250211T123000Z
+DTEND:20250211T140500Z
+SUMMARY:Werop 
+LOCATION:1867
 DESCRIPTION:Weryfikacja, operacje lotnicze finalizacja projektu bezzałogowej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
@@ -844,6 +872,13 @@ LOCATION:00336
 DESCRIPTION:Weryfikacja, operacje lotnicze finalizacja projektu bezzałogowej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250212T070000Z
+DTEND:20250212T083500Z
+SUMMARY:Werop 
+LOCATION:1867
+DESCRIPTION:Weryfikacja, operacje lotnicze finalizacja projektu bezzałogowej\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251120T085000Z
 DTEND:20251120T102500Z
 SUMMARY:Pobbs 
@@ -898,6 +933,13 @@ DTEND:20250205T102500Z
 SUMMARY:Senak 
 LOCATION:
 DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250212T085000Z
+DTEND:20250212T102500Z
+SUMMARY:Werop 
+LOCATION:1867
+DESCRIPTION:Weryfikacja, operacje lotnicze finalizacja projektu bezzałogowej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T104000Z
@@ -968,6 +1010,20 @@ DTEND:20250205T121500Z
 SUMMARY:Sylak 
 LOCATION:
 DESCRIPTION:Sylak\nRodzaj zajęć: -\nProwadzący: mgr inż. Djabin Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250212T104000Z
+DTEND:20250212T121500Z
+SUMMARY:Werop 
+LOCATION:2069
+DESCRIPTION:Weryfikacja, operacje lotnicze finalizacja projektu bezzałogowej\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T123000Z
+DTEND:20251120T140500Z
+SUMMARY:Senak 
+LOCATION:10636
+DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T123000Z
@@ -1072,6 +1128,13 @@ DTSTART:20250206T070000Z
 DTEND:20250206T083500Z
 SUMMARY:Werop 
 LOCATION:00336
+DESCRIPTION:Weryfikacja, operacje lotnicze finalizacja projektu bezzałogowej\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250213T070000Z
+DTEND:20250213T083500Z
+SUMMARY:Werop 
+LOCATION:2069
 DESCRIPTION:Weryfikacja, operacje lotnicze finalizacja projektu bezzałogowej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT

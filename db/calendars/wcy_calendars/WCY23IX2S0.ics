@@ -2958,13 +2958,6 @@ LOCATION:226 S
 DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T184000Z
-DTEND:20251104T201500Z
-SUMMARY:BD(pp) (Inne)
-LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/3\nProwadzący: mgr inż. Józef Woźniak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251105T070000Z
 DTEND:20251105T083500Z
 SUMMARY:Pw (w)
@@ -2984,6 +2977,13 @@ DTEND:20251105T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 43/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T165000Z
+DTEND:20251105T182500Z
+SUMMARY:BD(pp) (Inne)
+LOCATION:313 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/3\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T070000Z

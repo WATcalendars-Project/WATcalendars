@@ -127,7 +127,7 @@ DTSTART:20251117T123000Z
 DTEND:20251117T140500Z
 SUMMARY:Lwnm 
 LOCATION:3167
-DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
+DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T123000Z
@@ -310,6 +310,13 @@ DTEND:20251007T130500Z
 SUMMARY:Pnapł 
 LOCATION:
 DESCRIPTION:Podstawy napędów płynowych\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Dejewski Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251021T113000Z
+DTEND:20251021T130500Z
+SUMMARY:Met 
+LOCATION:
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: -\nProwadzący: dr inż. Omen Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T123000Z
@@ -767,6 +774,13 @@ LOCATION:00336
 DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: -\nProwadzący: mgr inż. Djabin Jakub
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251120T104000Z
+DTEND:20251120T121500Z
+SUMMARY:Lwnm 
+LOCATION:3167
+DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251127T104000Z
 DTEND:20251127T121500Z
 SUMMARY:Met 
@@ -1122,13 +1136,6 @@ DTEND:20250123T102500Z
 SUMMARY:EiE 
 LOCATION:
 DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250130T085000Z
-DTEND:20250130T102500Z
-SUMMARY:Met 
-LOCATION:3367
-DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: -\nProwadzący: dr inż. Omen Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T094000Z

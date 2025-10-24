@@ -60,6 +60,13 @@ LOCATION:0.21/16
 DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250117T070000Z
+DTEND:20250117T083500Z
+SUMMARY:WdI (ć)
+LOCATION:56/62
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250124T070000Z
 DTEND:20250124T083500Z
 SUMMARY:Podst.teorii 
@@ -221,20 +228,6 @@ LOCATION:0.28/135
 DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 5/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251220T104000Z
-DTEND:20251220T121500Z
-SUMMARY:WdI (ć)
-LOCATION:57/62
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Konarzewski Marcin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250110T104000Z
-DTEND:20250110T121500Z
-SUMMARY:WdI (ć)
-LOCATION:57/62
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Konarzewski Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250117T104000Z
 DTEND:20250117T121500Z
 SUMMARY:oiz (w)
@@ -281,7 +274,7 @@ DTSTART:20251108T123000Z
 DTEND:20251108T140500Z
 SUMMARY:WdI (ć)
 LOCATION:57/62
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Konarzewski Marcin
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T123000Z
@@ -316,7 +309,7 @@ DTSTART:20251220T123000Z
 DTEND:20251220T140500Z
 SUMMARY:WdI (ć)
 LOCATION:57/62
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Konarzewski Marcin
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T123000Z
@@ -324,13 +317,6 @@ DTEND:20250110T140500Z
 SUMMARY:Ek (ć)
 LOCATION:4.23/135
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250117T123000Z
-DTEND:20250117T140500Z
-SUMMARY:WdI (ć)
-LOCATION:56/62
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T123000Z
@@ -438,11 +424,25 @@ LOCATION:1.17/16
 DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251115T165000Z
+DTEND:20251115T182500Z
+SUMMARY:WdI (ć)
+LOCATION:57/62
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251122T165000Z
 DTEND:20251122T182500Z
 SUMMARY:Podst.teorii 
 LOCATION:0.6/16
 DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 7/9\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; dr Stawarz Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T165000Z
+DTEND:20251206T182500Z
+SUMMARY:WdI (ć)
+LOCATION:57/62
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T165000Z

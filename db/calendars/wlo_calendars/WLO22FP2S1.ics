@@ -354,6 +354,13 @@ LOCATION:0.7/16
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/12\nProwadzący: dr hab. inż.(prof. ucz.) Wysocki Józef
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251104T123000Z
+DTEND:20251104T140500Z
+SUMMARY:CL. (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251118T123000Z
 DTEND:20251118T140500Z
 SUMMARY:Sch. (ć)
@@ -380,6 +387,13 @@ DTEND:20250203T140500Z
 SUMMARY:OP 
 LOCATION:
 DESCRIPTION:OP\nRodzaj zajęć: -\nNumer zajęć: 11/21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251104T150000Z
+DTEND:20251104T163500Z
+SUMMARY:CL. (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T150000Z
@@ -477,7 +491,7 @@ DTSTART:20251119T070000Z
 DTEND:20251119T083500Z
 SUMMARY:CL. (ć)
 LOCATION:0.7/16
-DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T070000Z
@@ -547,7 +561,7 @@ DTSTART:20251119T085000Z
 DTEND:20251119T102500Z
 SUMMARY:CL. (ć)
 LOCATION:0.7/16
-DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T085000Z
@@ -715,7 +729,7 @@ DTSTART:20251126T123000Z
 DTEND:20251126T140500Z
 SUMMARY:CL. (ć)
 LOCATION:0.6/16
-DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T123000Z
@@ -841,7 +855,7 @@ DTSTART:20251023T060000Z
 DTEND:20251023T073500Z
 SUMMARY:CL. (ć)
 LOCATION:0.7/16
-DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T070000Z
@@ -890,7 +904,7 @@ DTSTART:20251023T075000Z
 DTEND:20251023T092500Z
 SUMMARY:CL. (ć)
 LOCATION:0.7/16
-DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T085000Z
@@ -898,13 +912,6 @@ DTEND:20251030T102500Z
 SUMMARY:Zil. (L)
 LOCATION:1/22
 DESCRIPTION:Zastosowanie informatyki w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Waśniewski Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251106T085000Z
-DTEND:20251106T102500Z
-SUMMARY:CL. (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T085000Z
@@ -947,13 +954,6 @@ DTEND:20251023T111500Z
 SUMMARY:Zil. (L)
 LOCATION:1/22
 DESCRIPTION:Zastosowanie informatyki w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Waśniewski Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251106T104000Z
-DTEND:20251106T121500Z
-SUMMARY:CL. (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T104000Z
