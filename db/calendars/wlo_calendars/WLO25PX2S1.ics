@@ -606,6 +606,13 @@ LOCATION:aula/135
 DESCRIPTION:Dzień stawiennictwa\nRodzaj zajęć: (i)\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251210T070000Z
+DTEND:20251210T083500Z
+SUMMARY:NoPiP (w)
+LOCATION:0.24/135
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Kowalski Wawrzyniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250107T070000Z
 DTEND:20250107T083500Z
 SUMMARY:oiz (w)
@@ -638,7 +645,7 @@ DTSTART:20251001T075000Z
 DTEND:20251001T092500Z
 SUMMARY:NoPiP (w)
 LOCATION:4S; 25Px; 3S; 25PX; 2S; 25PX; 1S; 1 Ko
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T075000Z
@@ -764,14 +771,14 @@ DTSTART:20251029T150000Z
 DTEND:20251029T163500Z
 SUMMARY:NoPiP (w)
 LOCATION:4S; 25Px; 3S; 25PX; 2S; 25PX; 1S; 1 Ko
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T150000Z
 DTEND:20251105T163500Z
 SUMMARY:NoPiP (w)
 LOCATION:4S; 25Px; 3S; 25PX; 2S; 25PX; 1S; 1 Ko
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T150000Z
@@ -799,7 +806,7 @@ DTSTART:20251203T150000Z
 DTEND:20251203T163500Z
 SUMMARY:NoPiP (w)
 LOCATION:301/S
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T150000Z
@@ -840,7 +847,7 @@ BEGIN:VEVENT
 DTSTART:20251029T165000Z
 DTEND:20251029T182500Z
 SUMMARY:Ek (ć)
-LOCATION:26/158
+LOCATION:4.17b/135
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
@@ -869,7 +876,7 @@ DTSTART:20251203T165000Z
 DTEND:20251203T182500Z
 SUMMARY:NoPiP (w)
 LOCATION:301/S
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T165000Z
@@ -896,8 +903,15 @@ BEGIN:VEVENT
 DTSTART:20251029T184000Z
 DTEND:20251029T201500Z
 SUMMARY:Ek (ć)
-LOCATION:26/158
+LOCATION:4.17b/135
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: prof. dr hab. Kościelecki Lech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251112T184000Z
+DTEND:20251112T201500Z
+SUMMARY:NoPiP (w)
+LOCATION:aula/135
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T184000Z
@@ -1338,7 +1352,7 @@ DTSTART:20251114T085000Z
 DTEND:20251114T102500Z
 SUMMARY:NoPiP (w)
 LOCATION:aula/135
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T085000Z
@@ -1402,13 +1416,6 @@ DTEND:20251010T111500Z
 SUMMARY:WdS (w)
 LOCATION:aula/135
 DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Łakoma Ewa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251031T104000Z
-DTEND:20251031T121500Z
-SUMMARY:NoPiP (w)
-LOCATION:51/62
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T104000Z
@@ -1479,13 +1486,6 @@ DTEND:20251003T130500Z
 SUMMARY:Ez (w)
 LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251031T123000Z
-DTEND:20251031T140500Z
-SUMMARY:NoPiP (w)
-LOCATION:51/62
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T123000Z

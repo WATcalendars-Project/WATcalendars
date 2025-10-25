@@ -1201,18 +1201,11 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251029T104000Z
-DTEND:20251029T121500Z
-SUMMARY:Wdi. (L)
-LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251112T104000Z
 DTEND:20251112T121500Z
 SUMMARY:Wdi. (L)
 LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T104000Z
@@ -1488,6 +1481,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 74/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250129T085000Z
+DTEND:20250129T102500Z
+SUMMARY:Wdi. (L)
+LOCATION:53/ 62
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250219T085000Z
 DTEND:20250219T102500Z
 SUMMARY:Mat2 (Ep)
@@ -1584,6 +1584,13 @@ DTEND:20250101T121500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 76/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T104000Z
+DTEND:20250129T121500Z
+SUMMARY:Wdi. (L)
+LOCATION:53/ 62
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250219T104000Z
@@ -2129,7 +2136,7 @@ DTSTART:20251121T104000Z
 DTEND:20251121T121500Z
 SUMMARY:Wdi. (L)
 LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251128T104000Z
@@ -2150,14 +2157,14 @@ DTSTART:20251212T104000Z
 DTEND:20251212T121500Z
 SUMMARY:Wdi. (L)
 LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T104000Z
 DTEND:20251219T121500Z
 SUMMARY:Wdi. (L)
 LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251226T104000Z
@@ -2178,28 +2185,14 @@ DTSTART:20250109T104000Z
 DTEND:20250109T121500Z
 SUMMARY:Wdi. (L)
 LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250116T104000Z
-DTEND:20250116T121500Z
-SUMMARY:Wdi. (L)
-LOCATION:57/ 62
 DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250123T104000Z
-DTEND:20250123T121500Z
-SUMMARY:Wdi. (L)
-LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T104000Z
 DTEND:20250130T121500Z
 SUMMARY:Wdi. (L)
 LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250206T104000Z
@@ -2228,6 +2221,13 @@ DTEND:20251107T140500Z
 SUMMARY:M1 (ć)
 LOCATION:8/ 62
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/19\nProwadzący: dr Multarzyński Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251114T123000Z
+DTEND:20251114T140500Z
+SUMMARY:Wdi. (L)
+LOCATION:53/ 62
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T123000Z

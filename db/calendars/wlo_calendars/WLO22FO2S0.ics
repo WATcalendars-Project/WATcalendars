@@ -1768,13 +1768,6 @@ LOCATION:
 DESCRIPTION:Zarządzanie łańcuchem dostaw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr Zamelek Paulina
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T085000Z
-DTEND:20251120T102500Z
-SUMMARY:CL. (ć)
-LOCATION:0.7/16
-DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251127T085000Z
 DTEND:20251127T102500Z
 SUMMARY:BeSL (ć)
@@ -1884,7 +1877,7 @@ DTSTART:20251204T104000Z
 DTEND:20251204T121500Z
 SUMMARY:CL. (ć)
 LOCATION:0.7/16
-DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T104000Z
@@ -2143,7 +2136,7 @@ DTSTART:20251024T060000Z
 DTEND:20251024T073500Z
 SUMMARY:CL. (ć)
 LOCATION:0.7/16
-DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T070000Z
@@ -2171,7 +2164,7 @@ DTSTART:20251212T070000Z
 DTEND:20251212T083500Z
 SUMMARY:CL. (ć)
 LOCATION:0.6/16
-DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T070000Z
@@ -2354,6 +2347,13 @@ DTEND:20251024T111500Z
 SUMMARY:SMa (L)
 LOCATION:0.6/16
 DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T104000Z
+DTEND:20251121T121500Z
+SUMMARY:CL. (ć)
+LOCATION:37/158
+DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T104000Z

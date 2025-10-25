@@ -39,13 +39,6 @@ LOCATION:37/158
 DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251201T104000Z
-DTEND:20251201T121500Z
-SUMMARY:Pmb (L)
-LOCATION:
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251215T104000Z
 DTEND:20251215T121500Z
 SUMMARY:PTb (ć)
@@ -67,13 +60,6 @@ LOCATION:255 S
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251201T123000Z
-DTEND:20251201T140500Z
-SUMMARY:Pmb (L)
-LOCATION:
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251215T123000Z
 DTEND:20251215T140500Z
 SUMMARY:Wp. (w)
@@ -84,8 +70,8 @@ BEGIN:VEVENT
 DTSTART:20250112T123000Z
 DTEND:20250112T140500Z
 SUMMARY:Pmb (L)
-LOCATION:
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
+LOCATION:5.21/135
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T150000Z
@@ -127,7 +113,7 @@ DTSTART:20251208T165000Z
 DTEND:20251208T182500Z
 SUMMARY:Pmb (L)
 LOCATION:1.15/16
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T165000Z
@@ -163,6 +149,13 @@ DTEND:20251215T201500Z
 SUMMARY:Wsp (w)
 LOCATION:3.16/135
 DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: prof. dr hab. Jagusiak Bogusław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251202T070000Z
+DTEND:20251202T083500Z
+SUMMARY:Pmb (L)
+LOCATION:5.21/135
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T070000Z
@@ -298,18 +291,25 @@ LOCATION:37/158
 DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251216T123000Z
+DTEND:20251216T140500Z
+SUMMARY:Mstp (ć)
+LOCATION:2/22
+DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250120T123000Z
 DTEND:20250120T140500Z
 SUMMARY:Mstp (ć)
 LOCATION:A.1.3/135
-DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T123000Z
 DTEND:20250127T140500Z
 SUMMARY:Mstp (ć)
 LOCATION:2.21/135
-DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T140000Z
@@ -336,14 +336,7 @@ BEGIN:VEVENT
 DTSTART:20251125T150000Z
 DTEND:20251125T163500Z
 SUMMARY:Mstp (ć)
-LOCATION:
-DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251202T150000Z
-DTEND:20251202T163500Z
-SUMMARY:Mstp (ć)
-LOCATION:
+LOCATION:1.17/16
 DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
@@ -394,6 +387,13 @@ DTEND:20251209T182500Z
 SUMMARY:Wp. (w)
 LOCATION:1.10/16
 DESCRIPTION:Wiedza o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr Gocalski Włodzimierz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251216T165000Z
+DTEND:20251216T182500Z
+SUMMARY:Pmb (L)
+LOCATION:5.21/135
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T174000Z
@@ -511,7 +511,7 @@ BEGIN:VEVENT
 DTSTART:20250107T085000Z
 DTEND:20250107T102500Z
 SUMMARY:Bezp.Eko (ć)
-LOCATION:
+LOCATION:226 S
 DESCRIPTION:Bezpieczeństwo ekologiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr hab. Zalewski Jerzy
 END:VEVENT
 BEGIN:VEVENT
@@ -616,7 +616,7 @@ BEGIN:VEVENT
 DTSTART:20250121T150000Z
 DTEND:20250121T163500Z
 SUMMARY:Bezp.Eko (ć)
-LOCATION:
+LOCATION:1.16/16
 DESCRIPTION:Bezpieczeństwo ekologiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr hab. Zalewski Jerzy
 END:VEVENT
 BEGIN:VEVENT
@@ -830,13 +830,6 @@ LOCATION:5.21/135
 DESCRIPTION:Prawne podstawy bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251204T123000Z
-DTEND:20251204T140500Z
-SUMMARY:Pmb (ć)
-LOCATION:
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: Prof. dr hab. Cieślarczyk Marian
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251211T123000Z
 DTEND:20251211T140500Z
 SUMMARY:PPb (w)
@@ -863,6 +856,13 @@ DTEND:20250122T140500Z
 SUMMARY:Pmb (w)
 LOCATION:51/62
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: Prof. dr hab. Cieślarczyk Marian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T123000Z
+DTEND:20250129T140500Z
+SUMMARY:Pmb (ć)
+LOCATION:5.21/135
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T140000Z

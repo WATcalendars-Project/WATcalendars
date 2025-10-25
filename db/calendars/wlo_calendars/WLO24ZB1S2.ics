@@ -1131,13 +1131,6 @@ LOCATION:4.23/135
 DESCRIPTION:Negocjacje\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Kasperski Marian
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251219T070000Z
-DTEND:20251219T083500Z
-SUMMARY:Trf (L)
-LOCATION:5.21/135
-DESCRIPTION:Transakcyjne systemy informatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Rozmus Stefan
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250109T070000Z
 DTEND:20250109T083500Z
 SUMMARY:Ohd (ć)
@@ -1313,11 +1306,25 @@ LOCATION:37/158
 DESCRIPTION:Negocjacje\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Kasperski Marian
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250109T104000Z
+DTEND:20250109T121500Z
+SUMMARY:Trf (L)
+LOCATION:5.21/135
+DESCRIPTION:Transakcyjne systemy informatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Rozmus Stefan
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250116T104000Z
 DTEND:20250116T121500Z
 SUMMARY:Neg (ć)
 LOCATION:5.21/135
 DESCRIPTION:Negocjacje\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Kasperski Marian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250130T104000Z
+DTEND:20250130T121500Z
+SUMMARY:Ohd (ć)
+LOCATION:
+DESCRIPTION:Organizacja hurtowni danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T123000Z
@@ -1355,11 +1362,11 @@ LOCATION:4.23/135
 DESCRIPTION:Analityka biznesowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251219T123000Z
-DTEND:20251219T140500Z
+DTSTART:20250130T123000Z
+DTEND:20250130T140500Z
 SUMMARY:Ohd (ć)
 LOCATION:
-DESCRIPTION:Organizacja hurtowni danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Rozmus Stefan
+DESCRIPTION:Organizacja hurtowni danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T150000Z
@@ -1374,13 +1381,6 @@ DTEND:20251212T163500Z
 SUMMARY:Anal.Biz. (L)
 LOCATION:2/22
 DESCRIPTION:Analityka biznesowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251219T150000Z
-DTEND:20251219T163500Z
-SUMMARY:Ohd (ć)
-LOCATION:
-DESCRIPTION:Organizacja hurtowni danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250123T165000Z

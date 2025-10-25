@@ -396,13 +396,6 @@ LOCATION:2 55A
 DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Puton Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251028T150000Z
-DTEND:20251028T163500Z
-SUMMARY:Fj (ć)
-LOCATION:2 55A
-DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr hab. inż. Puton Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251104T150000Z
 DTEND:20251104T163500Z
 SUMMARY:Fj (w)
@@ -422,6 +415,13 @@ DTEND:20251008T073500Z
 SUMMARY:Cho (L)
 LOCATION:34/ 14
 DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/38\nProwadzący: dr inż. Harmata Piotr; mgr inż. Karcz Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251029T070000Z
+DTEND:20251029T083500Z
+SUMMARY:Fj (ć)
+LOCATION:10 55
+DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr hab. inż. Puton Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T070000Z

@@ -914,25 +914,18 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 40/140
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250113T104000Z
-DTEND:20250113T121500Z
-SUMMARY:Wdi. (L)
-LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250120T104000Z
 DTEND:20250120T121500Z
 SUMMARY:Wdi. (L)
 LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T104000Z
 DTEND:20250127T121500Z
 SUMMARY:Wdi. (L)
 LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250217T104000Z
@@ -1661,6 +1654,13 @@ DTEND:20251120T102500Z
 SUMMARY:PGI (w)
 LOCATION:51/ 62
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T085000Z
+DTEND:20251127T102500Z
+SUMMARY:Wdi. (L)
+LOCATION:53/ 62
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T085000Z

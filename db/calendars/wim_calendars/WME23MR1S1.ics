@@ -343,7 +343,7 @@ BEGIN:VEVENT
 DTSTART:20251103T123000Z
 DTEND:20251103T140500Z
 SUMMARY:Par (ć)
-LOCATION:5/ 23a
+LOCATION:6/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
@@ -541,6 +541,13 @@ DTEND:20250126T163500Z
 SUMMARY:Kszm1 (L)
 LOCATION:57/ 62
 DESCRIPTION:Komputerowa symulacja zagadnień mechaniki 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/16\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251027T165000Z
+DTEND:20251027T182500Z
+SUMMARY:XSoM1 (ć)
+LOCATION:52/ 62
+DESCRIPTION:XStrength of Materials 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: ppłk dr inż. Kędzierski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251110T165000Z
@@ -3082,13 +3089,6 @@ DTEND:20251024T153500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 132/183
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251031T150000Z
-DTEND:20251031T163500Z
-SUMMARY:XSoM1 (ć)
-LOCATION:52/ 62
-DESCRIPTION:XStrength of Materials 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: ppłk dr inż. Kędzierski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T150000Z
