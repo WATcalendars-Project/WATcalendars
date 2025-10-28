@@ -25,13 +25,6 @@ LOCATION:0.24/135
 DESCRIPTION:Organizacja i technologia napraw\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250126T070000Z
-DTEND:20250126T083500Z
-SUMMARY:PoMa (ć)
-LOCATION:0.28/135
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: prof. WAT Kler Paweł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251020T075000Z
 DTEND:20251020T092500Z
 SUMMARY:PIW (w)
@@ -225,7 +218,7 @@ DTSTART:20251201T150000Z
 DTEND:20251201T163500Z
 SUMMARY:PoMa (ć)
 LOCATION:0.19/135
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T150000Z
@@ -561,7 +554,7 @@ DTSTART:20251104T123000Z
 DTEND:20251104T140500Z
 SUMMARY:PoMa (ć)
 LOCATION:255 S
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T123000Z
@@ -1296,7 +1289,7 @@ DTSTART:20251119T165000Z
 DTEND:20251119T182500Z
 SUMMARY:PoMa (ć)
 LOCATION:3.16/135
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T165000Z
@@ -1719,6 +1712,13 @@ LOCATION:0.23/16
 DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251113T150000Z
+DTEND:20251113T163500Z
+SUMMARY:PoMa (ć)
+LOCATION:37/158
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: prof. WAT Kler Paweł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251120T150000Z
 DTEND:20251120T163500Z
 SUMMARY:SLwLSZ (L)
@@ -1843,13 +1843,6 @@ DTEND:20250109T083500Z
 SUMMARY:PoMa (ć)
 LOCATION:0.28/135
 DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: prof. WAT Kler Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250116T070000Z
-DTEND:20250116T083500Z
-SUMMARY:PoMa (ć)
-LOCATION:0.28/135
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250123T070000Z
@@ -2108,7 +2101,7 @@ DTSTART:20251121T123000Z
 DTEND:20251121T140500Z
 SUMMARY:PoMa (ć)
 LOCATION:1.16/16
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T123000Z
@@ -2151,6 +2144,13 @@ DTEND:20251031T163500Z
 SUMMARY:Nsl* (ć)
 LOCATION:
 DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr hab. inż. Augustyn Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T150000Z
+DTEND:20251121T163500Z
+SUMMARY:PoMa (ć)
+LOCATION:1.16/16
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T150000Z

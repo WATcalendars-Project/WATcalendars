@@ -242,13 +242,6 @@ LOCATION:4PL/26KP; 24KX; 3S; 24MC; 1S; 0 StJ; 1 T
 DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: mjr mgr Stępień Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251209T123000Z
-DTEND:20251209T140500Z
-SUMMARY:OIN (ć)
-LOCATION:3PL/26KP; 4PL/26KP; 24KX; 1S; 24KX; 2S; 24KX; 3S; 24MC; 1S; 0 Gr; 1 T
-DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251216T123000Z
 DTEND:20251216T140500Z
 SUMMARY:SSW 
@@ -345,6 +338,13 @@ DTEND:20251015T153500Z
 SUMMARY:ZINŻ (w)
 LOCATION:6W
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr Jurzysta Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250121T150000Z
+DTEND:20250121T163500Z
+SUMMARY:OIN (ć)
+LOCATION:3PL/26KP; 4PL/26KP; 24KX; 1S; 24KX; 2S; 24KX; 3S; 24MC; 1S; 0 Gr; 3/038 T
+DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T155000Z

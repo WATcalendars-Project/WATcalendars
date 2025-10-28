@@ -4,20 +4,6 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Kurs_Podpulkownik_09.25_gr._A
 BEGIN:VEVENT
-DTSTART:20250915T060000Z
-DTEND:20250915T073500Z
-SUMMARY:ZfSZ (w)
-LOCATION:0.24/135
-DESCRIPTION:Zasady funkcjonowania SZRP - Taktyka i sztuka operacyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250922T060000Z
-DTEND:20250922T073500Z
-SUMMARY:ZfSZ (w)
-LOCATION:0.24/135
-DESCRIPTION:Zasady funkcjonowania SZRP - Taktyka i sztuka operacyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250929T060000Z
 DTEND:20250929T073500Z
 SUMMARY:ZmW (w)
@@ -36,7 +22,7 @@ DTSTART:20251013T060000Z
 DTEND:20251013T073500Z
 SUMMARY:Zlw. (w)
 LOCATION:0.24/135
-DESCRIPTION:Zarządzanie logistyką wykonawczą SZRP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zarządzanie logistyką wykonawczą SZRP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T060000Z
@@ -50,7 +36,7 @@ DTSTART:20251027T070000Z
 DTEND:20251027T083500Z
 SUMMARY:ĆPDiK (ć)
 LOCATION:5.17/135
-DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: ZfSZ(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A TJ 0.24; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17
+DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; LSZ-tp(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DN 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T070000Z
@@ -71,7 +57,7 @@ DTSTART:20251124T070000Z
 DTEND:20251124T083500Z
 SUMMARY:MSdL (w)
 LOCATION:0.24/135
-DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: ZPwL(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Ka.M. 0.24; PSwwSZ(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Le.R 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; INF(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; dr inż. Żuchowski Dariusz; PSwwSZ(ć) K - PPŁK 09.25 gr. A Le.R 0.24
+DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T070000Z
@@ -81,25 +67,11 @@ LOCATION:5.17/135
 DESCRIPTION:Zarządzanie logistyką wykonawczą SZRP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250915T075000Z
-DTEND:20250915T092500Z
-SUMMARY:ZfSZ (w)
-LOCATION:0.24/135
-DESCRIPTION:Zasady funkcjonowania SZRP - Taktyka i sztuka operacyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250922T075000Z
-DTEND:20250922T092500Z
-SUMMARY:ZfSZ (w)
-LOCATION:0.24/135
-DESCRIPTION:Zasady funkcjonowania SZRP - Taktyka i sztuka operacyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250929T075000Z
 DTEND:20250929T092500Z
 SUMMARY:ĆPDiK (w)
 LOCATION:0.24/135
-DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: ZfSZ(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A TJ 0.24; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; LSZ-tp(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DN 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; Ćgr.(ć) K - PPŁK 09.25 gr. A Sł. B.; K - PPŁK 09.25 gr. A DŻu
+DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; LSZ-tp(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DN 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17; Ćgr.(ć) K - PPŁK 09.25 gr. A Sł. B.; K - PPŁK 09.25 gr. A DŻu
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T075000Z
@@ -113,7 +85,7 @@ DTSTART:20251013T075000Z
 DTEND:20251013T092500Z
 SUMMARY:Zlw. (w)
 LOCATION:0.24/135
-DESCRIPTION:Zarządzanie logistyką wykonawczą SZRP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zarządzanie logistyką wykonawczą SZRP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T075000Z
@@ -141,49 +113,35 @@ DTSTART:20251117T085000Z
 DTEND:20251117T102500Z
 SUMMARY:HNS (S)
 LOCATION:5.17/135
-DESCRIPTION:Organizacja wsparcia państwa - gospodarza (HNS) i CIMIC w SZ RP\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Woźniak Robert
+DESCRIPTION:Organizacja wsparcia państwa - gospodarza (HNS) i CIMIC w SZ RP\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: ZT.(ć) K - PPŁK 09.25 gr. A Jun.K 1.27; dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T085000Z
 DTEND:20251124T102500Z
 SUMMARY:MSdL (w)
 LOCATION:0.24/135
-DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: ZPwL(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Ka.M. 0.24; PSwwSZ(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Le.R 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; INF(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; dr inż. Żuchowski Dariusz; PSwwSZ(ć) K - PPŁK 09.25 gr. A Le.R 0.24
+DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T085000Z
 DTEND:20251201T102500Z
 SUMMARY:HNS (S)
 LOCATION:5.17/135
-DESCRIPTION:Organizacja wsparcia państwa - gospodarza (HNS) i CIMIC w SZ RP\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Woźniak Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250915T094000Z
-DTEND:20250915T111500Z
-SUMMARY:Opw (w)
-LOCATION:0.24/135
-DESCRIPTION:Odzyskiwanie personelu wojskowego (SERE)\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250922T094000Z
-DTEND:20250922T111500Z
-SUMMARY:ZeW (w)
-LOCATION:0.24/135
-DESCRIPTION:Zasady ekonomii wojskowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr Chyrzyński Ryszard
+DESCRIPTION:Organizacja wsparcia państwa - gospodarza (HNS) i CIMIC w SZ RP\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: ZT.(ć) K - PPŁK 09.25 gr. A Jun.K 1.27; dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250929T094000Z
 DTEND:20250929T111500Z
 SUMMARY:ĆPDiK (w)
 LOCATION:0.24/135
-DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: ZfSZ(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A TJ 0.24; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; LSZ-tp(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DN 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; Ćgr.(ć) K - PPŁK 09.25 gr. A Sł. B.; K - PPŁK 09.25 gr. A DŻu
+DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; LSZ-tp(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DN 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17; Ćgr.(ć) K - PPŁK 09.25 gr. A Sł. B.; K - PPŁK 09.25 gr. A DŻu
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T094000Z
 DTEND:20251006T111500Z
 SUMMARY:HNS (w)
 LOCATION:0.24/135
-DESCRIPTION:Organizacja wsparcia państwa - gospodarza (HNS) i CIMIC w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Woźniak Robert
+DESCRIPTION:Organizacja wsparcia państwa - gospodarza (HNS) i CIMIC w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: ZT.(ć) K - PPŁK 09.25 gr. A Jun.K 1.27; dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T094000Z
@@ -225,7 +183,7 @@ DTSTART:20251124T104000Z
 DTEND:20251124T121500Z
 SUMMARY:MSdL (w)
 LOCATION:0.24/135
-DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: ZPwL(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Ka.M. 0.24; PSwwSZ(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Le.R 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; INF(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; dr inż. Żuchowski Dariusz; PSwwSZ(ć) K - PPŁK 09.25 gr. A Le.R 0.24
+DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T104000Z
@@ -233,20 +191,6 @@ DTEND:20251201T121500Z
 SUMMARY:ZmW (ć)
 LOCATION:5.17/135
 DESCRIPTION:Zabezpieczenie materiałowe wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: prof. WAT Kler Paweł; dr hab.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250915T113000Z
-DTEND:20250915T130500Z
-SUMMARY:Opw (w)
-LOCATION:0.24/135
-DESCRIPTION:Odzyskiwanie personelu wojskowego (SERE)\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250922T113000Z
-DTEND:20250922T130500Z
-SUMMARY:ZeW (w)
-LOCATION:0.24/135
-DESCRIPTION:Zasady ekonomii wojskowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250929T113000Z
@@ -260,7 +204,7 @@ DTSTART:20251006T113000Z
 DTEND:20251006T130500Z
 SUMMARY:HNS (w)
 LOCATION:0.24/135
-DESCRIPTION:Organizacja wsparcia państwa - gospodarza (HNS) i CIMIC w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Woźniak Robert
+DESCRIPTION:Organizacja wsparcia państwa - gospodarza (HNS) i CIMIC w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: ZT.(ć) K - PPŁK 09.25 gr. A Jun.K 1.27; dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T113000Z
@@ -288,42 +232,28 @@ DTSTART:20251124T123000Z
 DTEND:20251124T140500Z
 SUMMARY:MSdL (w)
 LOCATION:0.24/135
-DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: ZPwL(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Ka.M. 0.24; PSwwSZ(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Le.R 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; INF(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; dr inż. Żuchowski Dariusz; PSwwSZ(ć) K - PPŁK 09.25 gr. A Le.R 0.24
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250916T060000Z
-DTEND:20250916T073500Z
-SUMMARY:MPH (w)
-LOCATION:0.24/135
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: WF(ć) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A; LSZ-tp(w) K - PPŁK 09.25 gr. B; Egz.(E) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DN; K - PPŁK 09.25 gr. A PRyś; RGoławski; Zlw.(ć) K - PPŁK 09.25 gr. A Ka.M. 0.24; dr Śledzik Waldemar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250923T060000Z
-DTEND:20250923T073500Z
-SUMMARY:SwN (w)
-LOCATION:0.24/135
-DESCRIPTION:Standaryzacja w SZRP i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr n.społ. inż. Rogowski Bogusław
+DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250930T060000Z
 DTEND:20250930T073500Z
 SUMMARY:SI. (ć)
 LOCATION:1/22
-DESCRIPTION:Systemy informatyczne wspierajace procesy logistyczne SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr hab. Byłeń Slawomir
+DESCRIPTION:Systemy informatyczne wspierajace procesy logistyczne SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr hab. Byłeń Slawomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T060000Z
 DTEND:20251007T073500Z
 SUMMARY:ZfSZ (w)
 LOCATION:0.24/135
-DESCRIPTION:Zasady funkcjonowania SZRP - Taktyka i sztuka operacyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Tomaszewski Jarosław
+DESCRIPTION:Zasady funkcjonowania SZRP - Taktyka i sztuka operacyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T060000Z
 DTEND:20251014T073500Z
 SUMMARY:ZfSZ (w)
 LOCATION:0.24/135
-DESCRIPTION:Zasady funkcjonowania SZRP - Taktyka i sztuka operacyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Tomaszewski Jarosław
+DESCRIPTION:Zasady funkcjonowania SZRP - Taktyka i sztuka operacyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T060000Z
@@ -351,49 +281,35 @@ DTSTART:20251118T070000Z
 DTEND:20251118T083500Z
 SUMMARY:INF (ć)
 LOCATION:5.17/135
-DESCRIPTION:Infrastruktura wojskowa i ochrona obiektów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: ĆPDiK(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DŻu 0.24; PSwwSZ(w) K - PPŁK 09.25 gr. A; ZeW(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Jun.K
+DESCRIPTION:Infrastruktura wojskowa i ochrona obiektów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: ZeW(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Chy.R 0.24; LSZ-tp(PS) K - PPŁK 09.25 gr. A; Ćgr.(ć) K - PPŁK 09.25 gr. A Jun.K 5.17; K - PPŁK 09.25 gr. B Jun.K
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T070000Z
 DTEND:20251125T083500Z
 SUMMARY:MSdL (w)
 LOCATION:0.24/135; 5.17/135
-DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: ZPwL(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Ka.M. 0.24; PSwwSZ(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Le.R 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; INF(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; dr inż. Żuchowski Dariusz; PSwwSZ(ć) K - PPŁK 09.25 gr. A Le.R 0.24
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250916T075000Z
-DTEND:20250916T092500Z
-SUMMARY:MPH (w)
-LOCATION:0.24/135
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: WF(ć) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A; LSZ-tp(w) K - PPŁK 09.25 gr. B; Egz.(E) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DN; K - PPŁK 09.25 gr. A PRyś; RGoławski; Zlw.(ć) K - PPŁK 09.25 gr. A Ka.M. 0.24; dr Śledzik Waldemar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250923T075000Z
-DTEND:20250923T092500Z
-SUMMARY:SwN (w)
-LOCATION:0.24/135
-DESCRIPTION:Standaryzacja w SZRP i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr n.społ. inż. Rogowski Bogusław
+DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250930T075000Z
 DTEND:20250930T092500Z
 SUMMARY:SI. (ć)
 LOCATION:1/22
-DESCRIPTION:Systemy informatyczne wspierajace procesy logistyczne SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr hab. Byłeń Slawomir
+DESCRIPTION:Systemy informatyczne wspierajace procesy logistyczne SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr hab. Byłeń Slawomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T075000Z
 DTEND:20251007T092500Z
 SUMMARY:ZfSZ (w)
 LOCATION:0.24/135
-DESCRIPTION:Zasady funkcjonowania SZRP - Taktyka i sztuka operacyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Tomaszewski Jarosław
+DESCRIPTION:Zasady funkcjonowania SZRP - Taktyka i sztuka operacyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T075000Z
 DTEND:20251014T092500Z
 SUMMARY:PSwwSZ (w)
 LOCATION:0.24/135
-DESCRIPTION:Pozyskiwanie SpW w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Lewiński Ryszard
+DESCRIPTION:Pozyskiwanie SpW w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Lewiński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T075000Z
@@ -428,7 +344,7 @@ DTSTART:20251125T085000Z
 DTEND:20251125T102500Z
 SUMMARY:MSdL (w)
 LOCATION:0.24/135; 5.17/135
-DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 6/15\nProwadzący: ZPwL(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Ka.M. 0.24; PSwwSZ(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Le.R 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; INF(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; dr inż. Żuchowski Dariusz; PSwwSZ(ć) K - PPŁK 09.25 gr. A Le.R 0.24
+DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 6/15\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T085000Z
@@ -436,20 +352,6 @@ DTEND:20251202T102500Z
 SUMMARY:ZTiRW (S)
 LOCATION:5.17/135
 DESCRIPTION:Zabezpieczenie transportu i ruchu wojsk\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: mgr inż. Szymański Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250916T094000Z
-DTEND:20250916T111500Z
-SUMMARY:SI. (w)
-LOCATION:0.24/135
-DESCRIPTION:Systemy informatyczne wspierajace procesy logistyczne SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr hab. Byłeń Slawomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250923T094000Z
-DTEND:20250923T111500Z
-SUMMARY:ZPwL (w)
-LOCATION:0.24/135
-DESCRIPTION:Zamówienia publiczne w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250930T094000Z
@@ -498,35 +400,21 @@ DTSTART:20251118T104000Z
 DTEND:20251118T121500Z
 SUMMARY:ĆPDiK (ć)
 LOCATION:5.17/135
-DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: ZfSZ(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A TJ 0.24; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17
+DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; LSZ-tp(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DN 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T104000Z
 DTEND:20251125T121500Z
 SUMMARY:MSdL (w)
 LOCATION:0.24/135; 5.17/135
-DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 7/15\nProwadzący: ZPwL(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Ka.M. 0.24; PSwwSZ(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Le.R 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; INF(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; dr inż. Żuchowski Dariusz; PSwwSZ(ć) K - PPŁK 09.25 gr. A Le.R 0.24
+DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 7/15\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T104000Z
 DTEND:20251202T121500Z
 SUMMARY:ĆPDiK (S)
 LOCATION:5.17/135
-DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: ZfSZ(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A TJ 0.24; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250916T113000Z
-DTEND:20250916T130500Z
-SUMMARY:SI. (w)
-LOCATION:0.24/135
-DESCRIPTION:Systemy informatyczne wspierajace procesy logistyczne SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr hab. Byłeń Slawomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250923T113000Z
-DTEND:20250923T130500Z
-SUMMARY:Zlw. (w)
-LOCATION:0.24/135
-DESCRIPTION:Zarządzanie logistyką wykonawczą SZRP\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; LSZ-tp(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DN 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250930T113000Z
@@ -561,7 +449,7 @@ DTSTART:20251028T123000Z
 DTEND:20251028T140500Z
 SUMMARY:ĆPDiK (ć)
 LOCATION:5.17/135
-DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: ZfSZ(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A TJ 0.24; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17
+DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; LSZ-tp(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DN 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T123000Z
@@ -575,14 +463,14 @@ DTSTART:20251118T123000Z
 DTEND:20251118T140500Z
 SUMMARY:ĆPDiK (ć)
 LOCATION:5.17/135
-DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: ZfSZ(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A TJ 0.24; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17
+DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; LSZ-tp(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DN 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T123000Z
 DTEND:20251125T140500Z
 SUMMARY:MSdL (w)
 LOCATION:0.24/135; 5.17/135
-DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: ZPwL(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Ka.M. 0.24; PSwwSZ(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Le.R 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; INF(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; dr inż. Żuchowski Dariusz; PSwwSZ(ć) K - PPŁK 09.25 gr. A Le.R 0.24
+DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T140000Z
@@ -592,25 +480,25 @@ LOCATION:0.24/135
 DESCRIPTION:Zabezpieczenie techniczne wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: mgr inż. Juniec Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251028T150000Z
+DTEND:20251028T163500Z
+SUMMARY:ZTiRW (w)
+LOCATION:0.24/135
+DESCRIPTION:Zabezpieczenie transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: mgr inż. Szymański Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251014T155000Z
 DTEND:20251014T172500Z
 SUMMARY:SwN (w)
 LOCATION:0.24/135
-DESCRIPTION:Standaryzacja w SZRP i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr n.społ. inż. Rogowski Bogusław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250917T060000Z
-DTEND:20250917T073500Z
-SUMMARY:SI. (w)
-LOCATION:0.24/135
-DESCRIPTION:Systemy informatyczne wspierajace procesy logistyczne SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr hab. Byłeń Slawomir
+DESCRIPTION:Standaryzacja w SZRP i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr n.społ. inż. Rogowski Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T060000Z
 DTEND:20251001T073500Z
 SUMMARY:ZeW (w)
 LOCATION:0.24/135
-DESCRIPTION:Zasady ekonomii wojskowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr Chyrzyński Ryszard
+DESCRIPTION:Zasady ekonomii wojskowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T060000Z
@@ -666,35 +554,21 @@ DTSTART:20251126T070000Z
 DTEND:20251126T083500Z
 SUMMARY:MSdL (w)
 LOCATION:0.24/135
-DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: ZPwL(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Ka.M. 0.24; PSwwSZ(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Le.R 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; INF(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; dr inż. Żuchowski Dariusz; PSwwSZ(ć) K - PPŁK 09.25 gr. A Le.R 0.24
+DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T070000Z
 DTEND:20251203T083500Z
 SUMMARY:Egz. (E)
 LOCATION:1.27/135
-DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/6\nProwadzący: SI.(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Sł. B. 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; ZOPKW(S) K - PPŁK 09.25 gr. A DŻu 0.24; K - PPŁK 09.25 gr. A Kl.P 0.24; K - PPŁK 09.25 gr. A Jun.K 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17; dr Tomaszewski Jarosław; LSZ-tp(ć) K - PPŁK 09.25 gr. A DN 0.24
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250917T075000Z
-DTEND:20250917T092500Z
-SUMMARY:ĆPDiK (w)
-LOCATION:0.24/135
-DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: ZfSZ(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A TJ 0.24; ZmW(w) K - PPŁK 09.25 gr. B; LSZ-tp(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; K - PPŁK 09.25 gr. A DN 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; K - PPŁK 09.25 gr. A DŻu
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250924T075000Z
-DTEND:20250924T092500Z
-SUMMARY:PSwwSZ (w)
-LOCATION:0.24/135
-DESCRIPTION:Pozyskiwanie SpW w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Lewiński Ryszard
+DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/6\nProwadzący: ZOPKW(S) K - PPŁK 09.25 gr. A DŻu 0.24; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; ZT.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17; LSZ-tp(ć) K - PPŁK 09.25 gr. A DN 0.24; K - PPŁK 09.25 gr. A DŻu; dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T075000Z
 DTEND:20251001T092500Z
 SUMMARY:ZeW (w)
 LOCATION:0.24/135
-DESCRIPTION:Zasady ekonomii wojskowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr Chyrzyński Ryszard
+DESCRIPTION:Zasady ekonomii wojskowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T075000Z
@@ -750,28 +624,14 @@ DTSTART:20251126T085000Z
 DTEND:20251126T102500Z
 SUMMARY:MSdL (w)
 LOCATION:0.24/135
-DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: ZPwL(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Ka.M. 0.24; PSwwSZ(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Le.R 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; INF(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; dr inż. Żuchowski Dariusz; PSwwSZ(ć) K - PPŁK 09.25 gr. A Le.R 0.24
+DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T085000Z
 DTEND:20251203T102500Z
 SUMMARY:Egz. (E)
 LOCATION:1.27/135
-DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/6\nProwadzący: SI.(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Sł. B. 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; ZOPKW(S) K - PPŁK 09.25 gr. A DŻu 0.24; K - PPŁK 09.25 gr. A Kl.P 0.24; K - PPŁK 09.25 gr. A Jun.K 0.24; dr Tomaszewski Jarosław; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17; LSZ-tp(ć) K - PPŁK 09.25 gr. A DN 0.24
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250917T094000Z
-DTEND:20250917T111500Z
-SUMMARY:SI. (ć)
-LOCATION:1/22
-DESCRIPTION:Systemy informatyczne wspierajace procesy logistyczne SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr hab. Byłeń Slawomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250924T094000Z
-DTEND:20250924T111500Z
-SUMMARY:PSwwSZ (w)
-LOCATION:0.24/135
-DESCRIPTION:Pozyskiwanie SpW w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Lewiński Ryszard
+DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/6\nProwadzący: ZOPKW(S) K - PPŁK 09.25 gr. A DŻu 0.24; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; ZT.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17; LSZ-tp(ć) K - PPŁK 09.25 gr. A DN 0.24; K - PPŁK 09.25 gr. A DŻu; dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T094000Z
@@ -827,35 +687,21 @@ DTSTART:20251119T104000Z
 DTEND:20251119T121500Z
 SUMMARY:ĆPDiK (S)
 LOCATION:5.17/135
-DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: ZfSZ(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A TJ 0.24; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17
+DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; LSZ-tp(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DN 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T104000Z
 DTEND:20251126T121500Z
 SUMMARY:MSdL (w)
 LOCATION:0.24/135
-DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: ZPwL(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Ka.M. 0.24; PSwwSZ(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Le.R 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; INF(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; dr inż. Żuchowski Dariusz; PSwwSZ(ć) K - PPŁK 09.25 gr. A Le.R 0.24
+DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T104000Z
 DTEND:20251203T121500Z
 SUMMARY:Egz. (E)
 LOCATION:1.27/135
-DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 3/6\nProwadzący: SI.(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Sł. B. 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; ZOPKW(S) K - PPŁK 09.25 gr. A DŻu 0.24; K - PPŁK 09.25 gr. A Kl.P 0.24; K - PPŁK 09.25 gr. A Jun.K 0.24; dr Tomaszewski Jarosław; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17; LSZ-tp(ć) K - PPŁK 09.25 gr. A DN 0.24
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250917T113000Z
-DTEND:20250917T130500Z
-SUMMARY:Spp. (S)
-LOCATION:0.24/135
-DESCRIPTION:Sojusznicze procedury planowania i organizowania zabezpieczenia logistycznego wojsk na szczeblu oper\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: dr inż. Żuchowski Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250924T113000Z
-DTEND:20250924T130500Z
-SUMMARY:MiM. (w)
-LOCATION:0.24/135
-DESCRIPTION:Mikro i makrologistyka\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr n. społ. inż. Krupnik Dorota
+DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 3/6\nProwadzący: ZOPKW(S) K - PPŁK 09.25 gr. A DŻu 0.24; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; ZT.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17; LSZ-tp(ć) K - PPŁK 09.25 gr. A DN 0.24; K - PPŁK 09.25 gr. A DŻu; dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T113000Z
@@ -904,35 +750,21 @@ DTSTART:20251119T123000Z
 DTEND:20251119T140500Z
 SUMMARY:WF (ć)
 LOCATION:25 gr; 25 gr
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: ppłk mgr Ryś Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T123000Z
 DTEND:20251126T140500Z
 SUMMARY:MSdL (w)
 LOCATION:0.24/135
-DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: ZPwL(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Ka.M. 0.24; PSwwSZ(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Le.R 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; INF(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; dr inż. Żuchowski Dariusz; PSwwSZ(ć) K - PPŁK 09.25 gr. A Le.R 0.24
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250918T060000Z
-DTEND:20250918T073500Z
-SUMMARY:SI. (ć)
-LOCATION:1/22
-DESCRIPTION:Systemy informatyczne wspierajace procesy logistyczne SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr hab. Byłeń Slawomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250925T060000Z
-DTEND:20250925T073500Z
-SUMMARY:MPH (w)
-LOCATION:0.24/135
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: WF(ć) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A; LSZ-tp(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DN; K - PPŁK 09.25 gr. A PRyś; Zlw.(ć) K - PPŁK 09.25 gr. A Ka.M. 0.24; RGoławski; Egz.(E) K - PPŁK 09.25 gr. B; dr Śledzik Waldemar
+DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T060000Z
 DTEND:20251002T073500Z
 SUMMARY:MiM. (S)
 LOCATION:0.19/135
-DESCRIPTION:Mikro i makrologistyka\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr n. społ. inż. Krupnik Dorota
+DESCRIPTION:Mikro i makrologistyka\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr n. społ. inż. Krupnik Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T060000Z
@@ -946,21 +778,21 @@ DTSTART:20251016T060000Z
 DTEND:20251016T073500Z
 SUMMARY:ZTiRW (w)
 LOCATION:0.24/135
-DESCRIPTION:Zabezpieczenie transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: mgr inż. Szymański Krzysztof
+DESCRIPTION:Zabezpieczenie transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T060000Z
 DTEND:20251023T073500Z
 SUMMARY:ZeW (w)
 LOCATION:0.24/135
-DESCRIPTION:Zasady ekonomii wojskowej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr Chyrzyński Ryszard
+DESCRIPTION:Zasady ekonomii wojskowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T070000Z
 DTEND:20251030T083500Z
 SUMMARY:ĆPDiK (ć)
 LOCATION:5.17/135
-DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: ZfSZ(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A TJ 0.24; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17
+DESCRIPTION:Ćwiczebna praktyka dowodzenia i kierowania logistyką  oraz opracowywania ćwiczeń logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; LSZ-tp(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DN 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T070000Z
@@ -974,28 +806,14 @@ DTSTART:20251127T070000Z
 DTEND:20251127T083500Z
 SUMMARY:MSdL (w)
 LOCATION:0.24/135
-DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: ZPwL(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Ka.M. 0.24; PSwwSZ(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Le.R 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; INF(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; dr inż. Żuchowski Dariusz; PSwwSZ(ć) K - PPŁK 09.25 gr. A Le.R 0.24
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250918T075000Z
-DTEND:20250918T092500Z
-SUMMARY:SI. (ć)
-LOCATION:1/22
-DESCRIPTION:Systemy informatyczne wspierajace procesy logistyczne SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr hab. Byłeń Slawomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250925T075000Z
-DTEND:20250925T092500Z
-SUMMARY:MiM. (S)
-LOCATION:5.17/135
-DESCRIPTION:Mikro i makrologistyka\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr n. społ. inż. Krupnik Dorota
+DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T075000Z
 DTEND:20251002T092500Z
 SUMMARY:MPH (S)
 LOCATION:0.24/135
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: WF(ć) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A; LSZ-tp(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DN; dr Śledzik Waldemar
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: LSZ-tp(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DN; WF(ć) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A PRyś; dr Śledzik Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T075000Z
@@ -1009,7 +827,7 @@ DTSTART:20251016T075000Z
 DTEND:20251016T092500Z
 SUMMARY:ZeW (w)
 LOCATION:0.24/135
-DESCRIPTION:Zasady ekonomii wojskowej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr Chyrzyński Ryszard
+DESCRIPTION:Zasady ekonomii wojskowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T075000Z
@@ -1044,63 +862,49 @@ DTSTART:20251127T085000Z
 DTEND:20251127T102500Z
 SUMMARY:MSdL (w)
 LOCATION:0.24/135
-DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: ZPwL(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Ka.M. 0.24; PSwwSZ(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Le.R 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; INF(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; dr inż. Żuchowski Dariusz; PSwwSZ(ć) K - PPŁK 09.25 gr. A Le.R 0.24
+DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T085000Z
 DTEND:20251204T102500Z
 SUMMARY:Egz. (E)
 LOCATION:1.27/135
-DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 4/6\nProwadzący: SI.(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Sł. B. 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; ZOPKW(S) K - PPŁK 09.25 gr. A DŻu 0.24; K - PPŁK 09.25 gr. A Kl.P 0.24; K - PPŁK 09.25 gr. A Jun.K 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17; LSZ-tp(ć) K - PPŁK 09.25 gr. A DN 0.24; dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250918T094000Z
-DTEND:20250918T111500Z
-SUMMARY:Spp. (S)
-LOCATION:0.24/135
-DESCRIPTION:Sojusznicze procedury planowania i organizowania zabezpieczenia logistycznego wojsk na szczeblu oper\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: dr inż. Żuchowski Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250925T094000Z
-DTEND:20250925T111500Z
-SUMMARY:MPH (S)
-LOCATION:0.24/135
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: WF(ć) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A; LSZ-tp(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DN; dr Śledzik Waldemar
+DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 4/6\nProwadzący: ZOPKW(S) K - PPŁK 09.25 gr. A DŻu 0.24; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; ZT.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17; LSZ-tp(ć) K - PPŁK 09.25 gr. A DN 0.24; K - PPŁK 09.25 gr. A DŻu; dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T094000Z
 DTEND:20251002T111500Z
 SUMMARY:WF (ć)
 LOCATION:25 gr; 25 gr
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: ppłk mgr Ryś Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T094000Z
 DTEND:20251009T111500Z
 SUMMARY:PSwwSZ (w)
 LOCATION:0.24/135
-DESCRIPTION:Pozyskiwanie SpW w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Lewiński Ryszard
+DESCRIPTION:Pozyskiwanie SpW w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Lewiński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T094000Z
 DTEND:20251016T111500Z
 SUMMARY:PSwwSZ (w)
 LOCATION:0.24/135
-DESCRIPTION:Pozyskiwanie SpW w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Lewiński Ryszard
+DESCRIPTION:Pozyskiwanie SpW w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Lewiński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T094000Z
 DTEND:20251023T111500Z
 SUMMARY:SwN (w)
 LOCATION:0.24/135
-DESCRIPTION:Standaryzacja w SZRP i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr n.społ. inż. Rogowski Bogusław
+DESCRIPTION:Standaryzacja w SZRP i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr n.społ. inż. Rogowski Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T104000Z
 DTEND:20251030T121500Z
 SUMMARY:PSwwSZ (w)
 LOCATION:0.24/135
-DESCRIPTION:Pozyskiwanie SpW w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Lewiński Ryszard
+DESCRIPTION:Pozyskiwanie SpW w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Lewiński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T104000Z
@@ -1128,28 +932,14 @@ DTSTART:20251127T104000Z
 DTEND:20251127T121500Z
 SUMMARY:MSdL (w)
 LOCATION:0.24/135
-DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: ZPwL(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Ka.M. 0.24; PSwwSZ(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Le.R 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; INF(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; dr inż. Żuchowski Dariusz; PSwwSZ(ć) K - PPŁK 09.25 gr. A Le.R 0.24
+DESCRIPTION:Moduł Specjalistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T104000Z
 DTEND:20251204T121500Z
 SUMMARY:Egz. (E)
 LOCATION:1.27/135
-DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 5/6\nProwadzący: SI.(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Sł. B. 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; ZOPKW(S) K - PPŁK 09.25 gr. A DŻu 0.24; K - PPŁK 09.25 gr. A Kl.P 0.24; K - PPŁK 09.25 gr. A Jun.K 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17; LSZ-tp(ć) K - PPŁK 09.25 gr. A DN 0.24; dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250918T113000Z
-DTEND:20250918T130500Z
-SUMMARY:WF (ć)
-LOCATION:25 gr; 25 gr
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: ppłk mgr Ryś Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250925T113000Z
-DTEND:20250925T130500Z
-SUMMARY:WF (ć)
-LOCATION:25 gr; 25 gr
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 5/6\nProwadzący: ZOPKW(S) K - PPŁK 09.25 gr. A DŻu 0.24; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; ZT.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17; LSZ-tp(ć) K - PPŁK 09.25 gr. A DN 0.24; K - PPŁK 09.25 gr. A DŻu; dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T113000Z
@@ -1163,28 +953,28 @@ DTSTART:20251009T113000Z
 DTEND:20251009T130500Z
 SUMMARY:WF (ć)
 LOCATION:25 gr; 25 gr
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: ppłk mgr Ryś Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T113000Z
 DTEND:20251016T130500Z
 SUMMARY:WF (ć)
 LOCATION:25 gr; 25 gr
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: ppłk mgr Ryś Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T113000Z
 DTEND:20251023T130500Z
 SUMMARY:WF (ć)
 LOCATION:25 gr; 25 gr
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: ppłk mgr Ryś Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T123000Z
 DTEND:20251030T140500Z
 SUMMARY:WF (ć)
 LOCATION:25 gr; 25 gr
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: ppłk mgr Ryś Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T123000Z
@@ -1198,49 +988,35 @@ DTSTART:20251120T123000Z
 DTEND:20251120T140500Z
 SUMMARY:WF (ć)
 LOCATION:25 gr; 25 gr
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: ppłk mgr Ryś Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T123000Z
 DTEND:20251204T140500Z
 SUMMARY:Egz. (E)
 LOCATION:1.27/135
-DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 6/6\nProwadzący: SI.(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Sł. B. 0.24; Zlw.(w) K - PPŁK 09.25 gr. B; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Ka.M. 0.24; ZOPKW(S) K - PPŁK 09.25 gr. A DŻu 0.24; K - PPŁK 09.25 gr. A Kl.P 0.24; K - PPŁK 09.25 gr. A Jun.K 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17; LSZ-tp(ć) K - PPŁK 09.25 gr. A DN 0.24; dr Tomaszewski Jarosław
+DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 6/6\nProwadzący: ZOPKW(S) K - PPŁK 09.25 gr. A DŻu 0.24; ZmW(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Kl.P 0.24; ZT.(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A Jun.K 0.24; ĆPDiK(ć) K - PPŁK 09.25 gr. A Guł 5.17; LSZ-tp(ć) K - PPŁK 09.25 gr. A DN 0.24; K - PPŁK 09.25 gr. A DŻu; dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T150000Z
 DTEND:20251106T163500Z
 SUMMARY:WF (ć)
 LOCATION:25 gr; 25 gr
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: ppłk mgr Ryś Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250919T060000Z
-DTEND:20250919T073500Z
-SUMMARY:Spp. (S)
-LOCATION:0.24/135
-DESCRIPTION:Sojusznicze procedury planowania i organizowania zabezpieczenia logistycznego wojsk na szczeblu oper\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: dr inż. Żuchowski Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250926T060000Z
-DTEND:20250926T073500Z
-SUMMARY:ZPwL (w)
-LOCATION:0.24/135
-DESCRIPTION:Zamówienia publiczne w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: ppłk mgr Ryś Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T060000Z
 DTEND:20251003T073500Z
 SUMMARY:PSwwSZ (w)
 LOCATION:0.24/135
-DESCRIPTION:Pozyskiwanie SpW w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Lewiński Ryszard
+DESCRIPTION:Pozyskiwanie SpW w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Lewiński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T060000Z
 DTEND:20251010T073500Z
 SUMMARY:Zlw. (w)
 LOCATION:0.24/135
-DESCRIPTION:Zarządzanie logistyką wykonawczą SZRP\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zarządzanie logistyką wykonawczą SZRP\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T060000Z
@@ -1254,14 +1030,14 @@ DTSTART:20251024T060000Z
 DTEND:20251024T073500Z
 SUMMARY:INF (w)
 LOCATION:0.24/135
-DESCRIPTION:Infrastruktura wojskowa i ochrona obiektów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ĆPDiK(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DŻu 0.24; PSwwSZ(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Le.R 0.24; ZeW(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Chy.R 0.24; LSZ-tp(PS) K - PPŁK 09.25 gr. A; Ćgr.(ć) K - PPŁK 09.25 gr. A Jun.K 5.17; K - PPŁK 09.25 gr. B Jun.K
+DESCRIPTION:Infrastruktura wojskowa i ochrona obiektów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ZeW(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Chy.R 0.24; LSZ-tp(PS) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Guł; K - PPŁK 09.25 gr. B Jun.K; Ćgr.(ć) K - PPŁK 09.25 gr. A Jun.K 5.17; Ćgr.(ć) K - PPŁK 09.25 gr. A Kl.P 5.17; Zlw.(ć) K - PPŁK 09.25 gr. A Ka.M. 5.17; K - PPŁK 09.25 gr. A Jun.K
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T070000Z
 DTEND:20251031T083500Z
 SUMMARY:ZTiRW (w)
 LOCATION:0.24/135
-DESCRIPTION:Zabezpieczenie transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: mgr inż. Szymański Krzysztof
+DESCRIPTION:Zabezpieczenie transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T070000Z
@@ -1275,7 +1051,7 @@ DTSTART:20251114T070000Z
 DTEND:20251114T083500Z
 SUMMARY:HNS (w)
 LOCATION:0.24/135
-DESCRIPTION:Organizacja wsparcia państwa - gospodarza (HNS) i CIMIC w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Woźniak Robert
+DESCRIPTION:Organizacja wsparcia państwa - gospodarza (HNS) i CIMIC w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: ZT.(ć) K - PPŁK 09.25 gr. A Jun.K 1.27; dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T070000Z
@@ -1292,39 +1068,25 @@ LOCATION:aula/135
 DESCRIPTION:Zakończenie kursu\nRodzaj zajęć: (i)\nNumer zajęć: 1/1\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250926T075000Z
-DTEND:20250926T092500Z
-SUMMARY:ZPwL (w)
-LOCATION:0.24/135
-DESCRIPTION:Zamówienia publiczne w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Kalwasiński Marek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251003T075000Z
 DTEND:20251003T092500Z
 SUMMARY:PSwwSZ (w)
 LOCATION:0.24/135
-DESCRIPTION:Pozyskiwanie SpW w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Lewiński Ryszard
+DESCRIPTION:Pozyskiwanie SpW w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Lewiński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T075000Z
 DTEND:20251010T092500Z
 SUMMARY:Zlw. (w)
 LOCATION:0.24/135
-DESCRIPTION:Zarządzanie logistyką wykonawczą SZRP\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zarządzanie logistyką wykonawczą SZRP\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T075000Z
 DTEND:20251024T092500Z
 SUMMARY:INF (w)
 LOCATION:0.24/135
-DESCRIPTION:Infrastruktura wojskowa i ochrona obiektów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ĆPDiK(w) K - PPŁK 09.25 gr. B; K - PPŁK 09.25 gr. A DŻu 0.24; PSwwSZ(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Le.R 0.24; ZeW(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Chy.R 0.24; LSZ-tp(PS) K - PPŁK 09.25 gr. A; Ćgr.(ć) K - PPŁK 09.25 gr. A Jun.K 5.17; K - PPŁK 09.25 gr. B Jun.K
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251031T085000Z
-DTEND:20251031T102500Z
-SUMMARY:ZTiRW (w)
-LOCATION:0.24/135
-DESCRIPTION:Zabezpieczenie transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: mgr inż. Szymański Krzysztof
+DESCRIPTION:Infrastruktura wojskowa i ochrona obiektów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ZeW(w) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Chy.R 0.24; LSZ-tp(PS) K - PPŁK 09.25 gr. A; K - PPŁK 09.25 gr. B Guł; K - PPŁK 09.25 gr. B Jun.K; Ćgr.(ć) K - PPŁK 09.25 gr. A Jun.K 5.17; Ćgr.(ć) K - PPŁK 09.25 gr. A Kl.P 5.17; Zlw.(ć) K - PPŁK 09.25 gr. A Ka.M. 5.17; K - PPŁK 09.25 gr. A Jun.K
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T085000Z
@@ -1338,7 +1100,7 @@ DTSTART:20251114T085000Z
 DTEND:20251114T102500Z
 SUMMARY:HNS (w)
 LOCATION:0.24/135
-DESCRIPTION:Organizacja wsparcia państwa - gospodarza (HNS) i CIMIC w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Woźniak Robert
+DESCRIPTION:Organizacja wsparcia państwa - gospodarza (HNS) i CIMIC w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: ZT.(ć) K - PPŁK 09.25 gr. A Jun.K 1.27; dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T094000Z

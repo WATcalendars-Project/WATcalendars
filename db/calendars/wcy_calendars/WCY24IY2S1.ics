@@ -1961,7 +1961,7 @@ DTSTART:20250915T094000Z
 DTEND:20250915T111500Z
 SUMMARY:WdP (Inne)
 LOCATION:233 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Sławomir Wysocki
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Sławomir Wysocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T113000Z
@@ -2010,7 +2010,7 @@ DTSTART:20250919T075000Z
 DTEND:20250919T092500Z
 SUMMARY:WdP (Inne)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T113000Z
@@ -2545,20 +2545,6 @@ LOCATION:316 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251031T070000Z
-DTEND:20251031T083500Z
-SUMMARY:Als (L)
-LOCATION:226 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: mgr inż. Arkadiusz Kowalski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251031T085000Z
-DTEND:20251031T102500Z
-SUMMARY:Als (L)
-LOCATION:226 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: mgr inż. Arkadiusz Kowalski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251031T104000Z
 DTEND:20251031T121500Z
 SUMMARY:BD(pp) (L)
@@ -2657,6 +2643,20 @@ LOCATION:106 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251105T123000Z
+DTEND:20251105T140500Z
+SUMMARY:WdP (Inne)
+LOCATION:239 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: mgr inż. Sławomir Wysocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T150000Z
+DTEND:20251105T163500Z
+SUMMARY:Md2 (Inne)
+LOCATION:309 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr Łukasz Matysiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251106T070000Z
 DTEND:20251106T083500Z
 SUMMARY:Po (w)
@@ -2669,6 +2669,20 @@ DTEND:20251106T102500Z
 SUMMARY:Aok (w)
 LOCATION:317 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251106T123000Z
+DTEND:20251106T140500Z
+SUMMARY:Als (L)
+LOCATION:236 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: mgr inż. Arkadiusz Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251106T150000Z
+DTEND:20251106T163500Z
+SUMMARY:Als (L)
+LOCATION:236 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T070000Z
@@ -2864,7 +2878,7 @@ DTSTART:20251120T184000Z
 DTEND:20251120T201500Z
 SUMMARY:Md2 (Inne)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T070000Z

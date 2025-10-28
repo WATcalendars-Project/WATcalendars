@@ -256,13 +256,6 @@ LOCATION:205 65
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251105T085000Z
-DTEND:20251105T102500Z
-SUMMARY:mST (w)
-LOCATION:101 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251105T104000Z
 DTEND:20251105T121500Z
 SUMMARY:Zt (w)
@@ -330,7 +323,7 @@ DTSTART:20251112T085000Z
 DTEND:20251112T102500Z
 SUMMARY:mST (w)
 LOCATION:101 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T104000Z
@@ -403,6 +396,13 @@ LOCATION:120 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251117T150000Z
+DTEND:20251117T163500Z
+SUMMARY:mST (w)
+LOCATION:121 65
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251117T165000Z
 DTEND:20251117T182500Z
 SUMMARY:PsbI (w)
@@ -429,20 +429,6 @@ DTEND:20251118T102500Z
 SUMMARY:Zbi (ć)
 LOCATION:239 S
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251118T104000Z
-DTEND:20251118T121500Z
-SUMMARY:Tds (L)
-LOCATION:011 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251118T123000Z
-DTEND:20251118T140500Z
-SUMMARY:Tds (L)
-LOCATION:011 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T085000Z
@@ -485,13 +471,6 @@ DTEND:20251120T121500Z
 SUMMARY:Aip (L)
 LOCATION:106 65
 DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T123000Z
-DTEND:20251120T140500Z
-SUMMARY:Tds (w)
-LOCATION:101 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T085000Z
@@ -666,14 +645,14 @@ DTSTART:20251202T104000Z
 DTEND:20251202T121500Z
 SUMMARY:Tds (L)
 LOCATION:011 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T123000Z
 DTEND:20251202T140500Z
 SUMMARY:Tds (L)
 LOCATION:011 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T085000Z
@@ -834,14 +813,14 @@ DTSTART:20251216T104000Z
 DTEND:20251216T121500Z
 SUMMARY:Tds (L)
 LOCATION:011 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T123000Z
 DTEND:20251216T140500Z
 SUMMARY:Tds (L)
 LOCATION:011 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T070000Z
@@ -970,18 +949,25 @@ LOCATION:125 65
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260113T085000Z
+DTEND:20260113T102500Z
+SUMMARY:Tds (w)
+LOCATION:101 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260113T104000Z
 DTEND:20260113T121500Z
 SUMMARY:Tds (L)
 LOCATION:011 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T123000Z
 DTEND:20260113T140500Z
 SUMMARY:Tds (L)
 LOCATION:011 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T104000Z
@@ -1114,14 +1100,14 @@ DTSTART:20260127T104000Z
 DTEND:20260127T121500Z
 SUMMARY:Tds (L)
 LOCATION:011 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T123000Z
 DTEND:20260127T140500Z
 SUMMARY:Tds (L)
 LOCATION:011 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T150000Z
@@ -1136,6 +1122,20 @@ DTEND:20260127T182500Z
 SUMMARY:PsbI (P)
 LOCATION:125 65
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNumer zajęć: 7/7\nProwadzący: Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T085000Z
+DTEND:20260128T102500Z
+SUMMARY:Tds (L)
+LOCATION:106 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T104000Z
+DTEND:20260128T121500Z
+SUMMARY:Tds (L)
+LOCATION:106 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T123000Z

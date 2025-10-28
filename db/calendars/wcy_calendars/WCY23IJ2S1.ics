@@ -375,13 +375,6 @@ LOCATION:233 S
 DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251031T123000Z
-DTEND:20251031T140500Z
-SUMMARY:Nsk (ć)
-LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: mgr inż. Joanna Woźniak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251103T104000Z
 DTEND:20251103T121500Z
 SUMMARY:Nsk (w)
@@ -401,20 +394,6 @@ DTEND:20251103T163500Z
 SUMMARY:Wdis (w)
 LOCATION:308 S
 DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251103T165000Z
-DTEND:20251103T182500Z
-SUMMARY:SAR (L)
-LOCATION:224 S
-DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr Tomasz Protasowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251103T184000Z
-DTEND:20251103T201500Z
-SUMMARY:SAR (L)
-LOCATION:224 S
-DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T070000Z
@@ -449,14 +428,14 @@ DTSTART:20251106T070000Z
 DTEND:20251106T083500Z
 SUMMARY:Nsk (ć)
 LOCATION:308 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: mgr inż. Joanna Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: mgr inż. Joanna Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T085000Z
 DTEND:20251106T102500Z
 SUMMARY:Nsk (ć)
 LOCATION:308 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: mgr inż. Joanna Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: mgr inż. Joanna Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T123000Z
@@ -578,18 +557,25 @@ LOCATION:308 S
 DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251117T123000Z
+DTEND:20251117T140500Z
+SUMMARY:Nsk (ć)
+LOCATION:309 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: mgr inż. Joanna Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251117T165000Z
 DTEND:20251117T182500Z
 SUMMARY:SAR (L)
 LOCATION:224 S
-DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T184000Z
 DTEND:20251117T201500Z
 SUMMARY:SAR (L)
 LOCATION:224 S
-DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T070000Z
@@ -729,14 +715,14 @@ DTSTART:20251124T165000Z
 DTEND:20251124T182500Z
 SUMMARY:SAR (L)
 LOCATION:224 S
-DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T184000Z
 DTEND:20251124T201500Z
 SUMMARY:SAR (L)
 LOCATION:224 S
-DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T085000Z
@@ -834,14 +820,14 @@ DTSTART:20251201T165000Z
 DTEND:20251201T182500Z
 SUMMARY:SAR (L)
 LOCATION:224 S
-DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T184000Z
 DTEND:20251201T201500Z
 SUMMARY:SAR (L)
 LOCATION:224 S
-DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T123000Z
@@ -891,6 +877,20 @@ DTEND:20251208T102500Z
 SUMMARY:Hd (w)
 LOCATION:316 S
 DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T165000Z
+DTEND:20251208T182500Z
+SUMMARY:SAR (L)
+LOCATION:224 S
+DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr Tomasz Protasowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T184000Z
+DTEND:20251208T201500Z
+SUMMARY:SAR (L)
+LOCATION:224 S
+DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T070000Z

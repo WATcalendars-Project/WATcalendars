@@ -165,13 +165,6 @@ LOCATION:
 DESCRIPTION:TAKTYKA\nRodzaj zajęć: -\nProwadzący: mjr mgr Stępień Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251209T104000Z
-DTEND:20251209T121500Z
-SUMMARY:OIN 
-LOCATION:
-DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251104T123000Z
 DTEND:20251104T140500Z
 SUMMARY:ZINŻ 
@@ -310,5 +303,12 @@ DTEND:20250107T121500Z
 SUMMARY:ZINŻ 
 LOCATION:
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Jurzysta Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T070000Z
+DTEND:20250109T083500Z
+SUMMARY:OIN 
+LOCATION:
+DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 END:VCALENDAR

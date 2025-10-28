@@ -172,13 +172,6 @@ LOCATION:231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250916T060000Z
-DTEND:20250916T073500Z
-SUMMARY:NA (Ep)
-LOCATION:aula/135
-DESCRIPTION:Nauka o administracji\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Chyrzyński Ryszard
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251014T075000Z
 DTEND:20251014T092500Z
 SUMMARY:FPiPF (w)
@@ -232,7 +225,7 @@ DTSTART:20251007T094000Z
 DTEND:20251007T111500Z
 SUMMARY:Nad. 
 LOCATION:24AX; 4S; 24AX; 2S; 24AX; 1S; 24AX; 3S; 1 MiM
-DESCRIPTION:Nad.\nRodzaj zajęć: -\nNumer zajęć: 1/17\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec; dr hab. Filipek Agnieszka; dr Ćwik Dariusz
+DESCRIPTION:Nad.\nRodzaj zajęć: -\nNumer zajęć: 1/17\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T094000Z
@@ -382,11 +375,18 @@ LOCATION:51/62
 DESCRIPTION:Nad.\nRodzaj zajęć: -\nNumer zajęć: 2/17\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251028T150000Z
+DTEND:20251028T163500Z
+SUMMARY:P.Międzyn. (w)
+LOCATION:317 S
+DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Kowalski Wawrzyniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251104T150000Z
 DTEND:20251104T163500Z
 SUMMARY:P.Międzyn. (w)
 LOCATION:aula/135
-DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T150000Z
@@ -434,15 +434,15 @@ BEGIN:VEVENT
 DTSTART:20251028T165000Z
 DTEND:20251028T182500Z
 SUMMARY:P.Międzyn. (w)
-LOCATION:
-DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr Kowalski Wawrzyniec
+LOCATION:317 S
+DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T165000Z
 DTEND:20251104T182500Z
 SUMMARY:P.Międzyn. (w)
 LOCATION:aula/135
-DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr Kowalski Wawrzyniec
+DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T165000Z
@@ -487,13 +487,6 @@ LOCATION:0.22/16
 DESCRIPTION:Finanse publiczne i prawo finsnowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251028T184000Z
-DTEND:20251028T201500Z
-SUMMARY:P.Międzyn. (w)
-LOCATION:
-DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr Kowalski Wawrzyniec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251104T184000Z
 DTEND:20251104T201500Z
 SUMMARY:Adm.Obr. (w)
@@ -519,28 +512,28 @@ DTSTART:20251008T060000Z
 DTEND:20251008T073500Z
 SUMMARY:Leg. 
 LOCATION:24AX; 4S; 24AX; 2S; 24AX; 1S; 24AX; 3S
-DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 3/19\nProwadzący: dr inż. Magierski Mieczysław; dr Kowalski Wawrzyniec; dr Ćwik Dariusz; dr hab. Filipek Agnieszka; dr Stawarz Paweł
+DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 3/19\nProwadzący: dr inż. Magierski Mieczysław; dr Kowalski Wawrzyniec; dr Ćwik Dariusz; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T070000Z
 DTEND:20251119T083500Z
 SUMMARY:Leg. 
 LOCATION:24AX; 4S; 24AX; 2S; 24AX; 1S; 24AX; 3S
-DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 4/19\nProwadzący: dr inż. Magierski Mieczysław; dr Kowalski Wawrzyniec; dr Ćwik Dariusz; dr hab. Filipek Agnieszka; dr Stawarz Paweł
+DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 4/19\nProwadzący: dr inż. Magierski Mieczysław; dr Kowalski Wawrzyniec; dr Ćwik Dariusz; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T075000Z
 DTEND:20251008T092500Z
 SUMMARY:Leg. 
 LOCATION:24AX; 4S; 24AX; 2S; 24AX; 1S; 24AX; 3S
-DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 5/19\nProwadzący: dr inż. Magierski Mieczysław; dr Kowalski Wawrzyniec; dr Ćwik Dariusz; dr hab. Filipek Agnieszka; dr Stawarz Paweł
+DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 5/19\nProwadzący: dr inż. Magierski Mieczysław; dr Kowalski Wawrzyniec; dr Ćwik Dariusz; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T085000Z
 DTEND:20251119T102500Z
 SUMMARY:Leg. 
 LOCATION:24AX; 4S; 24AX; 2S; 24AX; 1S; 24AX; 3S
-DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 6/19\nProwadzący: dr inż. Magierski Mieczysław; dr Kowalski Wawrzyniec; dr Ćwik Dariusz; dr hab. Filipek Agnieszka; dr Stawarz Paweł
+DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 6/19\nProwadzący: dr inż. Magierski Mieczysław; dr Kowalski Wawrzyniec; dr Ćwik Dariusz; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T094000Z
@@ -638,7 +631,7 @@ DTSTART:20251112T165000Z
 DTEND:20251112T182500Z
 SUMMARY:Leg. 
 LOCATION:24AX; 4S; 24AX; 2S; 24AX; 1S; 24AX; 3S
-DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 9/19\nProwadzący: dr inż. Magierski Mieczysław; dr Kowalski Wawrzyniec; dr Ćwik Dariusz; dr hab. Filipek Agnieszka; dr Stawarz Paweł
+DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 9/19\nProwadzący: dr inż. Magierski Mieczysław; dr Kowalski Wawrzyniec; dr Ćwik Dariusz; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T165000Z
@@ -702,13 +695,6 @@ DTEND:20250128T201500Z
 SUMMARY:Nad. 
 LOCATION:0.22/16
 DESCRIPTION:Nad.\nRodzaj zajęć: -\nNumer zajęć: 6/17\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr inż. Magierski Mieczysław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250918T075000Z
-DTEND:20250918T092500Z
-SUMMARY:KSOP (Ep)
-LOCATION:aula/135
-DESCRIPTION:Konstytucyjny system organów Państwowych\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T104000Z
@@ -933,13 +919,6 @@ DTEND:20250108T201500Z
 SUMMARY:Leg. 
 LOCATION:37/158
 DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 15/19\nProwadzący: dr inż. Magierski Mieczysław; dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250919T060000Z
-DTEND:20250919T073500Z
-SUMMARY:PTb (Ep)
-LOCATION:aula/135
-DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. Filipek Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250116T085000Z

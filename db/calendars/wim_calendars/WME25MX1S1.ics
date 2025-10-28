@@ -88,6 +88,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 4/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250119T070000Z
+DTEND:20250119T083500Z
+SUMMARY:WDM (ć)
+LOCATION:2/ 68
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250209T070000Z
 DTEND:20250209T083500Z
 SUMMARY:Ez (Zp.)
@@ -1555,7 +1562,7 @@ DTSTART:20251217T123000Z
 DTEND:20251217T140500Z
 SUMMARY:WDM (ć)
 LOCATION:2/ 23a
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T123000Z
@@ -1765,7 +1772,7 @@ DTSTART:20250108T104000Z
 DTEND:20250108T121500Z
 SUMMARY:WDM (ć)
 LOCATION:2/ 68
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T104000Z
@@ -1786,14 +1793,14 @@ DTSTART:20251030T123000Z
 DTEND:20251030T140500Z
 SUMMARY:WDM (ć)
 LOCATION:2/ 68
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T123000Z
 DTEND:20251106T140500Z
 SUMMARY:WDM (ć)
 LOCATION:2/ 68
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T123000Z
@@ -2186,13 +2193,6 @@ DTEND:20250109T102500Z
 SUMMARY:Wzp (w)
 LOCATION:3/ 54
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Kobielski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250130T085000Z
-DTEND:20250130T102500Z
-SUMMARY:WDM (ć)
-LOCATION:2/ 68
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T094000Z

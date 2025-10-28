@@ -3042,13 +3042,6 @@ LOCATION:227 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: mgr inż. Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251103T123000Z
-DTEND:20251103T140500Z
-SUMMARY:Tik (ć)
-LOCATION:011 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251103T165000Z
 DTEND:20251103T182500Z
 SUMMARY:PO (w)
@@ -3242,7 +3235,7 @@ DTSTART:20251113T085000Z
 DTEND:20251113T102500Z
 SUMMARY:Tik (ć)
 LOCATION:101 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T104000Z
@@ -3508,7 +3501,7 @@ DTSTART:20251125T085000Z
 DTEND:20251125T102500Z
 SUMMARY:Tik (ć)
 LOCATION:101 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T104000Z
@@ -3628,6 +3621,13 @@ DTEND:20251129T083500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251201T070000Z
+DTEND:20251201T083500Z
+SUMMARY:Tik (ć)
+LOCATION:106 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T085000Z
@@ -3824,13 +3824,6 @@ DTEND:20251209T102500Z
 SUMMARY:SŁiŚD (w)
 LOCATION:118 45
 DESCRIPTION:System łączności i środki dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251209T104000Z
-DTEND:20251209T121500Z
-SUMMARY:OIN (ć)
-LOCATION:AW 1
-DESCRIPTION:Ochrona informacji niejawnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T150000Z
@@ -4160,6 +4153,13 @@ DTEND:20260108T140500Z
 SUMMARY:F2 (w)
 LOCATION:aula/ 135
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260109T070000Z
+DTEND:20260109T083500Z
+SUMMARY:OIN (ć)
+LOCATION:AW 3/038
+DESCRIPTION:Ochrona informacji niejawnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T085000Z

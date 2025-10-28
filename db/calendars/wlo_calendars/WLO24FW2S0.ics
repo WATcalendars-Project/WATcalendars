@@ -501,13 +501,6 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3/58
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251209T070000Z
-DTEND:20251209T083500Z
-SUMMARY:OIN (ć)
-LOCATION:1PL/15KP; 2PL/15KP; 24FW; 2S; 24TV; 1S; 0 Gr; 1 T
-DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251216T070000Z
 DTEND:20251216T083500Z
 SUMMARY:SŁiŚD (ć)
@@ -2424,6 +2417,13 @@ DTEND:20251219T140500Z
 SUMMARY:LP (L)
 LOCATION:1.16/16
 DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T123000Z
+DTEND:20250116T140500Z
+SUMMARY:OIN (ć)
+LOCATION:1PL/15KP; 2PL/15KP; 24FW; 2S; 24TV; 1S; 0 Gr; 3/038 T
+DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250123T123000Z

@@ -32,13 +32,6 @@ LOCATION:1.17/16
 DESCRIPTION:Prawo w służbie mundurowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: mgr Dembek Adam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250112T070000Z
-DTEND:20250112T083500Z
-SUMMARY:PoMa (ć)
-LOCATION:0.21/16
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: prof. WAT Kler Paweł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250119T070000Z
 DTEND:20250119T083500Z
 SUMMARY:ToMu (w)
@@ -74,18 +67,18 @@ LOCATION:aula/135
 DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251208T085000Z
+DTEND:20251208T102500Z
+SUMMARY:PoMa (ć)
+LOCATION:0.21/16
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: prof. WAT Kler Paweł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251215T085000Z
 DTEND:20251215T102500Z
 SUMMARY:PwSM (w)
 LOCATION:1.17/16
 DESCRIPTION:Prawo w służbie mundurowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: mgr Dembek Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250112T085000Z
-DTEND:20250112T102500Z
-SUMMARY:PoMa (ć)
-LOCATION:0.21/16
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250119T085000Z
@@ -155,7 +148,7 @@ DTSTART:20251215T104000Z
 DTEND:20251215T121500Z
 SUMMARY:PoMa (ć)
 LOCATION:0.6/16
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250112T104000Z
@@ -197,7 +190,7 @@ DTSTART:20251103T123000Z
 DTEND:20251103T140500Z
 SUMMARY:PoMa (ć)
 LOCATION:31/158
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T123000Z
@@ -260,7 +253,7 @@ DTSTART:20251103T150000Z
 DTEND:20251103T163500Z
 SUMMARY:PoMa (ć)
 LOCATION:31/158
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T150000Z
@@ -697,6 +690,13 @@ LOCATION:5W
 DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr Lasak Michał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251118T150000Z
+DTEND:20251118T163500Z
+SUMMARY:PoMa (ć)
+LOCATION:0.28/135
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: prof. WAT Kler Paweł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250113T150000Z
 DTEND:20250113T163500Z
 SUMMARY:ZaMe (ć)
@@ -1033,6 +1033,13 @@ LOCATION:aula/135
 DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251126T150000Z
+DTEND:20251126T163500Z
+SUMMARY:PoMa (S)
+LOCATION:239 S
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: prof. WAT Kler Paweł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251203T150000Z
 DTEND:20251203T163500Z
 SUMMARY:MmsM (S)
@@ -1243,13 +1250,6 @@ LOCATION:1.17/16
 DESCRIPTION:Prawo w służbie mundurowej\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: mgr Dembek Adam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250129T085000Z
-DTEND:20250129T102500Z
-SUMMARY:PoMa (ć)
-LOCATION:0.22/16
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: prof. WAT Kler Paweł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251002T094000Z
 DTEND:20251002T111500Z
 SUMMARY:LOiOŚ (w)
@@ -1436,14 +1436,14 @@ DTSTART:20251218T123000Z
 DTEND:20251218T140500Z
 SUMMARY:PoMa (ć)
 LOCATION:0.22/16
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T123000Z
 DTEND:20250108T140500Z
 SUMMARY:PoMa (S)
 LOCATION:0.22/16
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T123000Z
@@ -1499,14 +1499,14 @@ DTSTART:20251204T150000Z
 DTEND:20251204T163500Z
 SUMMARY:PoMa (S)
 LOCATION:0.22/16
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T150000Z
 DTEND:20251218T163500Z
 SUMMARY:PoMa (ć)
 LOCATION:0.22/16
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T150000Z
@@ -1528,6 +1528,13 @@ DTEND:20251002T172500Z
 SUMMARY:Nsl* (w)
 LOCATION:aula/135
 DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Augustyn Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251106T165000Z
+DTEND:20251106T182500Z
+SUMMARY:PoMa (ć)
+LOCATION:2.21/135
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T174000Z
@@ -1591,13 +1598,6 @@ DTEND:20250123T083500Z
 SUMMARY:MrBr (w)
 LOCATION:51/62
 DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250130T070000Z
-DTEND:20250130T083500Z
-SUMMARY:PoMa (S)
-LOCATION:0.21/16
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T075000Z

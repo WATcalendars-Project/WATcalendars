@@ -3931,13 +3931,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 48/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251209T104000Z
-DTEND:20251209T121500Z
-SUMMARY:OIN (ć)
-LOCATION:AW 1
-DESCRIPTION:Ochrona informacji niejawnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251209T123000Z
 DTEND:20251209T140500Z
 SUMMARY:Pnak (L)
@@ -4223,6 +4216,13 @@ DTEND:20260108T163500Z
 SUMMARY:F2 (L)
 LOCATION:139 S
 DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260109T070000Z
+DTEND:20260109T083500Z
+SUMMARY:OIN (ć)
+LOCATION:AW 3/038
+DESCRIPTION:Ochrona informacji niejawnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T085000Z

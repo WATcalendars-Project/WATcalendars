@@ -3686,13 +3686,6 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 51/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251212T070000Z
-DTEND:20251212T083500Z
-SUMMARY:DSiSM (w)
-LOCATION:AW 3/038
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251212T085000Z
 DTEND:20251212T102500Z
 SUMMARY:WF (ć)
@@ -3789,6 +3782,13 @@ DTEND:20251217T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 51/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T123000Z
+DTEND:20251217T140500Z
+SUMMARY:DSiSM (w)
+LOCATION:BIBL /22
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T150000Z

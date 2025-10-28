@@ -3042,13 +3042,6 @@ LOCATION:317 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251103T070000Z
-DTEND:20251103T083500Z
-SUMMARY:Tik (ć)
-LOCATION:121 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251103T085000Z
 DTEND:20251103T102500Z
 SUMMARY:Ja (ć)
@@ -3382,7 +3375,7 @@ DTSTART:20251118T085000Z
 DTEND:20251118T102500Z
 SUMMARY:Tik (ć)
 LOCATION:101 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T104000Z
@@ -3509,6 +3502,13 @@ DTEND:20251122T083500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251124T070000Z
+DTEND:20251124T083500Z
+SUMMARY:Tik (ć)
+LOCATION:106 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T085000Z
@@ -3866,13 +3866,6 @@ DTEND:20251209T102500Z
 SUMMARY:Tik (ć)
 LOCATION:101 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251209T123000Z
-DTEND:20251209T140500Z
-SUMMARY:OIN (ć)
-LOCATION:AW 1
-DESCRIPTION:Ochrona informacji niejawnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T150000Z
@@ -4398,6 +4391,13 @@ DTEND:20260121T140500Z
 SUMMARY:Ja (ć)
 LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 58/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T150000Z
+DTEND:20260121T163500Z
+SUMMARY:OIN (ć)
+LOCATION:AW 3/038
+DESCRIPTION:Ochrona informacji niejawnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T070000Z

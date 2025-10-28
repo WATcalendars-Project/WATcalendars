@@ -4,13 +4,6 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO24RX2N1
 BEGIN:VEVENT
-DTSTART:20250920T060000Z
-DTEND:20250920T073500Z
-SUMMARY:Ek (Ep)
-LOCATION:3.16/135
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Owczarczyk Anna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251004T060000Z
 DTEND:20251004T073500Z
 SUMMARY:Bin (w)
@@ -79,13 +72,6 @@ DTEND:20250131T083500Z
 SUMMARY:Bee (ć)
 LOCATION:31/158
 DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr hab. Zalewski Jerzy
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250913T075000Z
-DTEND:20250913T092500Z
-SUMMARY:MSW (Ep)
-LOCATION:3.16/135
-DESCRIPTION:Międzynarodowe stosunki wojskowe\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Śmiałek Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T075000Z
@@ -246,14 +232,14 @@ DTSTART:20250124T104000Z
 DTEND:20250124T121500Z
 SUMMARY:SYS. 
 LOCATION:aula/135
-DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 1/10\nProwadzący: dr hab. Filipek Agnieszka; dr Śmiałek Wiesław
+DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 1/10\nProwadzący: dr hab. Filipek Agnieszka; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T104000Z
 DTEND:20250131T121500Z
 SUMMARY:SYS. 
 LOCATION:aula/135
-DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 2/10\nProwadzący: dr hab. Filipek Agnieszka; dr Śmiałek Wiesław
+DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 2/10\nProwadzący: dr hab. Filipek Agnieszka; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T113000Z
@@ -330,7 +316,7 @@ DTSTART:20250131T123000Z
 DTEND:20250131T140500Z
 SUMMARY:SYS. 
 LOCATION:aula/135
-DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 3/10\nProwadzący: dr hab. Filipek Agnieszka; dr Śmiałek Wiesław
+DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 3/10\nProwadzący: dr hab. Filipek Agnieszka; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T140000Z
@@ -403,32 +389,25 @@ LOCATION:0.28/135
 DESCRIPTION:Komunikacja społeczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. Filipek Agnieszka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250914T060000Z
-DTEND:20250914T073500Z
-SUMMARY:PiSB (Ep)
-LOCATION:3.16/135
-DESCRIPTION:Polityka i Strategia Bezpieczeństwa\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. Stańczyk Jerzy
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251005T060000Z
 DTEND:20251005T073500Z
 SUMMARY:SYS. 
 LOCATION:0.24/135
-DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 4/10\nProwadzący: dr hab. Filipek Agnieszka; dr Śmiałek Wiesław
+DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 4/10\nProwadzący: dr hab. Filipek Agnieszka; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251012T060000Z
 DTEND:20251012T073500Z
 SUMMARY:SYS. 
 LOCATION:24RX; 2N; 24RX; 1N
-DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 5/10\nProwadzący: dr hab. Filipek Agnieszka; dr Gocalski Włodzimierz; dr Śmiałek Wiesław
+DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 5/10\nProwadzący: dr hab. Filipek Agnieszka; dr Gocalski Włodzimierz; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251109T070000Z
 DTEND:20251109T083500Z
 SUMMARY:SYS. 
 LOCATION:1.9/16
-DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 6/10\nProwadzący: dr hab. Filipek Agnieszka; dr Śmiałek Wiesław
+DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 6/10\nProwadzący: dr hab. Filipek Agnieszka; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T070000Z
@@ -575,7 +554,7 @@ DTSTART:20251116T104000Z
 DTEND:20251116T121500Z
 SUMMARY:SYS. 
 LOCATION:313 S
-DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 7/10\nProwadzący: dr hab. Filipek Agnieszka; dr Śmiałek Wiesław
+DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 7/10\nProwadzący: dr hab. Filipek Agnieszka; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T104000Z
@@ -603,14 +582,14 @@ DTSTART:20250111T104000Z
 DTEND:20250111T121500Z
 SUMMARY:SYS. 
 LOCATION:0.21/16
-DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 8/10\nProwadzący: dr hab. Filipek Agnieszka; dr Śmiałek Wiesław
+DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 8/10\nProwadzący: dr hab. Filipek Agnieszka; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250118T104000Z
 DTEND:20250118T121500Z
 SUMMARY:SYS. 
 LOCATION:0.28/135
-DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 9/10\nProwadzący: dr hab. Filipek Agnieszka; dr Śmiałek Wiesław
+DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 9/10\nProwadzący: dr hab. Filipek Agnieszka; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250125T104000Z
@@ -687,7 +666,7 @@ DTSTART:20250118T123000Z
 DTEND:20250118T140500Z
 SUMMARY:SYS. 
 LOCATION:26/158
-DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 10/10\nProwadzący: dr hab. Filipek Agnieszka; dr Śmiałek Wiesław
+DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 10/10\nProwadzący: dr hab. Filipek Agnieszka; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250125T123000Z

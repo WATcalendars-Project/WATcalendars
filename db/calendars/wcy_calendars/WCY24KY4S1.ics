@@ -2475,6 +2475,13 @@ LOCATION:121 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251105T150000Z
+DTEND:20251105T163500Z
+SUMMARY:Md2 (Inne)
+LOCATION:309 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr Łukasz Matysiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251105T165000Z
 DTEND:20251105T182500Z
 SUMMARY:Rp (Inne)
@@ -2745,21 +2752,7 @@ DTSTART:20251120T184000Z
 DTEND:20251120T201500Z
 SUMMARY:Md2 (Inne)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T070000Z
-DTEND:20251121T083500Z
-SUMMARY:SO (L)
-LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/13\nProwadzący: Sebastian Łeska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T085000Z
-DTEND:20251121T102500Z
-SUMMARY:SO (L)
-LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/13\nProwadzący: Sebastian Łeska
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T104000Z
@@ -2878,14 +2871,14 @@ DTSTART:20251127T070000Z
 DTEND:20251127T083500Z
 SUMMARY:SO (L)
 LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: Sebastian Łeska
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/13\nProwadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T085000Z
 DTEND:20251127T102500Z
 SUMMARY:SO (L)
 LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: Sebastian Łeska
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/13\nProwadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T104000Z
@@ -2970,6 +2963,20 @@ DTEND:20251203T121500Z
 SUMMARY:SO (w)
 LOCATION:316 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T150000Z
+DTEND:20251203T163500Z
+SUMMARY:SO (L)
+LOCATION:237 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T165000Z
+DTEND:20251203T182500Z
+SUMMARY:SO (L)
+LOCATION:237 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T070000Z

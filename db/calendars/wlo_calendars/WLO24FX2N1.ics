@@ -88,13 +88,6 @@ LOCATION:0.21/16
 DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250920T075000Z
-DTEND:20250920T092500Z
-SUMMARY:Mat3 (Ep)
-LOCATION:0.24/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr inż. Falkiewicz Ewa
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251004T075000Z
 DTEND:20251004T092500Z
 SUMMARY:Is (w)
@@ -184,13 +177,6 @@ DTEND:20250131T102500Z
 SUMMARY:T* (S)
 LOCATION:0.21/16
 DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr Oziębło Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250913T094000Z
-DTEND:20250913T111500Z
-SUMMARY:F1 (Ep)
-LOCATION:317 S
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Parka Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T094000Z
@@ -308,7 +294,7 @@ BEGIN:VEVENT
 DTSTART:20251108T123000Z
 DTEND:20251108T140500Z
 SUMMARY:LD (ć)
-LOCATION:0.8/16
+LOCATION:5.21/135
 DESCRIPTION:Logistyka dystrybucji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
@@ -392,7 +378,7 @@ BEGIN:VEVENT
 DTSTART:20251108T150000Z
 DTEND:20251108T163500Z
 SUMMARY:LD (ć)
-LOCATION:0.8/16
+LOCATION:5.21/135
 DESCRIPTION:Logistyka dystrybucji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
@@ -442,14 +428,14 @@ DTSTART:20250117T150000Z
 DTEND:20250117T163500Z
 SUMMARY:XWDM (ć)
 LOCATION:A.1.3/135 dr
-DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: WLO24FX2N1 Psz.J A.1.3; 135 dr.hab.inż.(prof.ucz.) Józef Pszczółkowski - Zajęcia dla osób powtarzających przedmiot.; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T150000Z
 DTEND:20250124T163500Z
 SUMMARY:XWDM (ć)
 LOCATION:A.1.3/135 dr
-DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: WLO24FX2N1 Psz.J A.1.3; 135 dr.hab.inż.(prof.ucz.) Józef Pszczółkowski - Zajęcia dla osób powtarzających przedmiot.; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T155000Z
@@ -672,7 +658,7 @@ BEGIN:VEVENT
 DTSTART:20251221T085000Z
 DTEND:20251221T102500Z
 SUMMARY:FII (ć)
-LOCATION:
+LOCATION:0.22/16
 DESCRIPTION:Fizyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
@@ -695,13 +681,6 @@ DTEND:20250201T102500Z
 SUMMARY:LD (w)
 LOCATION:1.10/16
 DESCRIPTION:Logistyka dystrybucji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Nyszk Łukasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250914T094000Z
-DTEND:20250914T111500Z
-SUMMARY:Pl (Ep)
-LOCATION:
-DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: 135 dr.hab.inż.(prof.ucz.) Józef Pszczółkowski - Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251005T094000Z
@@ -911,7 +890,7 @@ DTSTART:20250111T150000Z
 DTEND:20250111T163500Z
 SUMMARY:XWDM (ć)
 LOCATION:A.1.3/135 dr
-DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: WLO24FX2N1 Psz.J A.1.3; 135 dr.hab.inż.(prof.ucz.) Józef Pszczółkowski - Zajęcia dla osób powtarzających przedmiot.; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250125T150000Z
@@ -925,6 +904,6 @@ DTSTART:20250201T150000Z
 DTEND:20250201T163500Z
 SUMMARY:XWDM (ć)
 LOCATION:A.1.3/135 dr
-DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: WLO24FX2N1 Psz.J A.1.3; 135 dr.hab.inż.(prof.ucz.) Józef Pszczółkowski - Zajęcia dla osób powtarzających przedmiot.; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 END:VCALENDAR

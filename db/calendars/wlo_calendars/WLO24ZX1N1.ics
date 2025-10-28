@@ -4,13 +4,6 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO24ZX1N1
 BEGIN:VEVENT
-DTSTART:20250913T060000Z
-DTEND:20250913T073500Z
-SUMMARY:Sto (Ep)
-LOCATION:4.23/135
-DESCRIPTION:Statystyka opisowa\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Mularczyk Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251004T060000Z
 DTEND:20251004T073500Z
 SUMMARY:Bm (w)
@@ -72,20 +65,6 @@ DTEND:20250110T083500Z
 SUMMARY:TZ (ć)
 LOCATION:2/22
 DESCRIPTION:Techniki zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Wojciechowski Zdzislaw
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250913T075000Z
-DTEND:20250913T092500Z
-SUMMARY:M 
-LOCATION:5.21/135
-DESCRIPTION:M\nRodzaj zajęć: -\nNumer zajęć: 1/2\nProwadzący: dr Kasperski Marian; mgr Kurzela Anna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250920T075000Z
-DTEND:20250920T092500Z
-SUMMARY:NOR (Ep)
-LOCATION:2.25/135
-DESCRIPTION:Nauka o organizacji\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Miszalski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T075000Z
@@ -813,6 +792,6 @@ DTSTART:20251012T155000Z
 DTEND:20251012T172500Z
 SUMMARY:M 
 LOCATION:0.22/16
-DESCRIPTION:M\nRodzaj zajęć: -\nNumer zajęć: 2/2\nProwadzący: dr Kasperski Marian; mgr Kurzela Anna
+DESCRIPTION:M\nRodzaj zajęć: -\nNumer zajęć: 1/1\nProwadzący: dr Kasperski Marian; mgr Kurzela Anna
 END:VEVENT
 END:VCALENDAR
