@@ -627,6 +627,13 @@ LOCATION:0.22/16
 DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Wojciechowski Zdzislaw
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251203T150000Z
+DTEND:20251203T163500Z
+SUMMARY:Iae (L)
+LOCATION:4.23/135
+DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr Woźniak Jacek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251210T150000Z
 DTEND:20251210T163500Z
 SUMMARY:Adz (ć)
@@ -715,7 +722,7 @@ DTSTART:20251203T165000Z
 DTEND:20251203T182500Z
 SUMMARY:Iae (L)
 LOCATION:4.17a/135
-DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T165000Z
@@ -806,7 +813,7 @@ DTSTART:20251203T184000Z
 DTEND:20251203T201500Z
 SUMMARY:Iae (L)
 LOCATION:4.17a/135
-DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250121T184000Z
@@ -823,11 +830,25 @@ LOCATION:301/S
 DESCRIPTION:Komunikacja w zarządzaniu\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251218T070000Z
+DTEND:20251218T083500Z
+SUMMARY:Iae (w)
+LOCATION:aula/135
+DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr Woźniak Jacek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251127T085000Z
 DTEND:20251127T102500Z
 SUMMARY:KwZ (w)
 LOCATION:301/S
 DESCRIPTION:Komunikacja w zarządzaniu\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Miszczak Marta
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251218T085000Z
+DTEND:20251218T102500Z
+SUMMARY:Iae (w)
+LOCATION:166 S
+DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T104000Z
@@ -935,13 +956,6 @@ LOCATION:5.17/135
 DESCRIPTION:Podstawy systemów GIS\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr inż. Pokorski Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251023T155000Z
-DTEND:20251023T172500Z
-SUMMARY:Iae (w)
-LOCATION:5.17/135
-DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr Woźniak Jacek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251030T165000Z
 DTEND:20251030T182500Z
 SUMMARY:PGS (w)
@@ -953,7 +967,7 @@ DTSTART:20251106T165000Z
 DTEND:20251106T182500Z
 SUMMARY:Iae (L)
 LOCATION:4.17a/135
-DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T165000Z
@@ -1019,13 +1033,6 @@ LOCATION:5.17/135
 DESCRIPTION:Podstawy systemów GIS\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr inż. Pokorski Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251023T174000Z
-DTEND:20251023T191500Z
-SUMMARY:Iae (w)
-LOCATION:5.17/135
-DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr Woźniak Jacek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251030T184000Z
 DTEND:20251030T201500Z
 SUMMARY:PGS (w)
@@ -1037,7 +1044,7 @@ DTSTART:20251106T184000Z
 DTEND:20251106T201500Z
 SUMMARY:Iae (L)
 LOCATION:4.17a/135
-DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T184000Z
@@ -1121,7 +1128,7 @@ DTSTART:20251114T104000Z
 DTEND:20251114T121500Z
 SUMMARY:Iae (L)
 LOCATION:4.23/135
-DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T104000Z
@@ -1177,7 +1184,7 @@ DTSTART:20251114T123000Z
 DTEND:20251114T140500Z
 SUMMARY:Iae (L)
 LOCATION:4.23/135
-DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T123000Z
@@ -1192,13 +1199,6 @@ DTEND:20251212T140500Z
 SUMMARY:PGS (L)
 LOCATION:4.17a/135
 DESCRIPTION:Podstawy systemów GIS\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: dr inż. Pokorski Grzegorz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251219T123000Z
-DTEND:20251219T140500Z
-SUMMARY:Iae (L)
-LOCATION:4.17a/135
-DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T123000Z

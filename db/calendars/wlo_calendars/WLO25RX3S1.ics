@@ -11,11 +11,18 @@ LOCATION:3.16/135
 DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: prof. dr hab. Jagusiak Bogusław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250112T070000Z
+DTEND:20250112T083500Z
+SUMMARY:Wsp (w)
+LOCATION:3.16/135
+DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: prof. dr hab. Jagusiak Bogusław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251006T075000Z
 DTEND:20251006T092500Z
 SUMMARY:Wsp (w)
 LOCATION:3.16/135
-DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: prof. dr hab. Jagusiak Bogusław
+DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: prof. dr hab. Jagusiak Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T075000Z
@@ -106,7 +113,7 @@ DTSTART:20251124T165000Z
 DTEND:20251124T182500Z
 SUMMARY:Wsp (w)
 LOCATION:3.16/135
-DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: prof. dr hab. Jagusiak Bogusław
+DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: prof. dr hab. Jagusiak Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T165000Z
@@ -120,7 +127,7 @@ DTSTART:20251215T165000Z
 DTEND:20251215T182500Z
 SUMMARY:Wsp (w)
 LOCATION:3.16/135
-DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: prof. dr hab. Jagusiak Bogusław
+DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: prof. dr hab. Jagusiak Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250126T165000Z
@@ -134,7 +141,7 @@ DTSTART:20251124T184000Z
 DTEND:20251124T201500Z
 SUMMARY:Wsp (w)
 LOCATION:3.16/135
-DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: prof. dr hab. Jagusiak Bogusław
+DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: prof. dr hab. Jagusiak Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T184000Z
@@ -148,7 +155,7 @@ DTSTART:20251215T184000Z
 DTEND:20251215T201500Z
 SUMMARY:Wsp (w)
 LOCATION:3.16/135
-DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: prof. dr hab. Jagusiak Bogusław
+DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: prof. dr hab. Jagusiak Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T070000Z
@@ -156,13 +163,6 @@ DTEND:20251202T083500Z
 SUMMARY:Pmb (L)
 LOCATION:5.21/135
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250120T070000Z
-DTEND:20250120T083500Z
-SUMMARY:Wsp (w)
-LOCATION:3.16/135
-DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: prof. dr hab. Jagusiak Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T085000Z
@@ -177,13 +177,6 @@ DTEND:20251216T102500Z
 SUMMARY:Bezp.Eko (ć)
 LOCATION:0.7/16
 DESCRIPTION:Bezpieczeństwo ekologiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr hab. Zalewski Jerzy
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250120T085000Z
-DTEND:20250120T102500Z
-SUMMARY:Wsp (w)
-LOCATION:3.16/135
-DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: prof. dr hab. Jagusiak Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T094000Z
@@ -394,6 +387,13 @@ DTEND:20251216T182500Z
 SUMMARY:Pmb (L)
 LOCATION:5.21/135
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250120T165000Z
+DTEND:20250120T182500Z
+SUMMARY:Wsp (w)
+LOCATION:3.16/135
+DESCRIPTION:Współczesne systemy polityczne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: prof. dr hab. Jagusiak Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T174000Z
@@ -1260,7 +1260,7 @@ BEGIN:VEVENT
 DTSTART:20251212T104000Z
 DTEND:20251212T121500Z
 SUMMARY:Ap (ć)
-LOCATION:
+LOCATION:0.21/16
 DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT

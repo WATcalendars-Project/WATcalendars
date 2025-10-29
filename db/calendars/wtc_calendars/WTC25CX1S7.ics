@@ -424,18 +424,25 @@ LOCATION:bud. 87;117 24
 DESCRIPTION:Chemistry of explosives\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Hara Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251210T085000Z
+DTEND:20251210T102500Z
+SUMMARY:Pma (w)
+LOCATION:TyM
+DESCRIPTION:Polymer materials\nRodzaj zajęć: Wykład\nNumer zajęć: 3/14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T085000Z
+DTEND:20250107T102500Z
+SUMMARY:Pma (S)
+LOCATION:TyM
+DESCRIPTION:Polymer materials\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/8
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250114T085000Z
 DTEND:20250114T102500Z
 SUMMARY:SMoOSD (ć)
 LOCATION:204 136
 DESCRIPTION:Spectroscopic Methods of Organic Structure Determination\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr hab. inż. (prof. ucz.) Jankiewicz Bartłomiej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251015T094000Z
-DTEND:20251015T111500Z
-SUMMARY:Pma (w)
-LOCATION:TyM
-DESCRIPTION:Polymer materials\nRodzaj zajęć: Wykład\nNumer zajęć: 3/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T094000Z
@@ -452,18 +459,11 @@ LOCATION:TyM
 DESCRIPTION:Polymer materials\nRodzaj zajęć: Wykład\nNumer zajęć: 5/14
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251105T104000Z
-DTEND:20251105T121500Z
-SUMMARY:Pma (w)
-LOCATION:TyM
-DESCRIPTION:Polymer materials\nRodzaj zajęć: Wykład\nNumer zajęć: 6/14
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251112T104000Z
 DTEND:20251112T121500Z
 SUMMARY:Pma (w)
 LOCATION:TyM
-DESCRIPTION:Polymer materials\nRodzaj zajęć: Wykład\nNumer zajęć: 7/14
+DESCRIPTION:Polymer materials\nRodzaj zajęć: Wykład\nNumer zajęć: 6/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T104000Z
@@ -484,18 +484,11 @@ DTSTART:20251203T104000Z
 DTEND:20251203T121500Z
 SUMMARY:Pma (w)
 LOCATION:TyM
-DESCRIPTION:Polymer materials\nRodzaj zajęć: Wykład\nNumer zajęć: 8/14
+DESCRIPTION:Polymer materials\nRodzaj zajęć: Wykład\nNumer zajęć: 7/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T104000Z
 DTEND:20251210T121500Z
-SUMMARY:Pma (S)
-LOCATION:TyM
-DESCRIPTION:Polymer materials\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T104000Z
-DTEND:20251217T121500Z
 SUMMARY:Pma (S)
 LOCATION:TyM
 DESCRIPTION:Polymer materials\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/8
@@ -520,6 +513,13 @@ DTEND:20251029T140500Z
 SUMMARY:SMoOSD (w)
 LOCATION:204 136
 DESCRIPTION:Spectroscopic Methods of Organic Structure Determination\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: dr hab. inż. (prof. ucz.) Jankiewicz Bartłomiej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251112T123000Z
+DTEND:20251112T140500Z
+SUMMARY:Pma (w)
+LOCATION:TyM
+DESCRIPTION:Polymer materials\nRodzaj zajęć: Wykład\nNumer zajęć: 8/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T123000Z
@@ -697,6 +697,13 @@ LOCATION:bud. 87;117 24
 DESCRIPTION:Chemistry of explosives\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Hara Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251204T104000Z
+DTEND:20251204T121500Z
+SUMMARY:Pma (w)
+LOCATION:TyM
+DESCRIPTION:Polymer materials\nRodzaj zajęć: Wykład\nNumer zajęć: 9/14
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251211T104000Z
 DTEND:20251211T121500Z
 SUMMARY:SMoOSD (ć)
@@ -743,25 +750,18 @@ DTSTART:20251030T123000Z
 DTEND:20251030T140500Z
 SUMMARY:Pma (w)
 LOCATION:TyM
-DESCRIPTION:Polymer materials\nRodzaj zajęć: Wykład\nNumer zajęć: 9/14
+DESCRIPTION:Polymer materials\nRodzaj zajęć: Wykład\nNumer zajęć: 10/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T123000Z
 DTEND:20251106T140500Z
 SUMMARY:Pma (w)
 LOCATION:TyM
-DESCRIPTION:Polymer materials\nRodzaj zajęć: Wykład\nNumer zajęć: 10/14
+DESCRIPTION:Polymer materials\nRodzaj zajęć: Wykład\nNumer zajęć: 11/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T123000Z
 DTEND:20251113T140500Z
-SUMMARY:Pma (w)
-LOCATION:TyM
-DESCRIPTION:Polymer materials\nRodzaj zajęć: Wykład\nNumer zajęć: 11/14
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T123000Z
-DTEND:20251120T140500Z
 SUMMARY:Pma (w)
 LOCATION:TyM
 DESCRIPTION:Polymer materials\nRodzaj zajęć: Wykład\nNumer zajęć: 12/14

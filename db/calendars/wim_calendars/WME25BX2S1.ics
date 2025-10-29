@@ -389,6 +389,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 13/126
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251117T123000Z
+DTEND:20251117T140500Z
+SUMMARY:PGI (ć)
+LOCATION:108/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251215T123000Z
 DTEND:20251215T140500Z
 SUMMARY:Mat2 (ć)
@@ -792,7 +799,7 @@ DTSTART:20251125T104000Z
 DTEND:20251125T121500Z
 SUMMARY:PGI (ć)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T104000Z
@@ -806,7 +813,7 @@ DTSTART:20251209T104000Z
 DTEND:20251209T121500Z
 SUMMARY:PGI (ć)
 LOCATION:108/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T104000Z
@@ -897,7 +904,7 @@ DTSTART:20251125T123000Z
 DTEND:20251125T140500Z
 SUMMARY:PGI (ć)
 LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T123000Z
@@ -1163,7 +1170,7 @@ DTSTART:20251029T085000Z
 DTEND:20251029T102500Z
 SUMMARY:PGI (ć)
 LOCATION:42/ 54A
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T085000Z
@@ -1254,7 +1261,7 @@ DTSTART:20251022T094000Z
 DTEND:20251022T111500Z
 SUMMARY:PGI (ć)
 LOCATION:108/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T104000Z
@@ -1702,7 +1709,7 @@ DTSTART:20251113T104000Z
 DTEND:20251113T121500Z
 SUMMARY:PGI (ć)
 LOCATION:109/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T104000Z
@@ -1758,7 +1765,7 @@ DTSTART:20250108T104000Z
 DTEND:20250108T121500Z
 SUMMARY:PGI (ć)
 LOCATION:120/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T104000Z
@@ -2123,13 +2130,6 @@ DTEND:20251010T092500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 2/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T085000Z
-DTEND:20251121T102500Z
-SUMMARY:PGI (ć)
-LOCATION:120/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251128T085000Z

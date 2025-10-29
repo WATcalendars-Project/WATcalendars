@@ -4,13 +4,6 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO24FR1S4
 BEGIN:VEVENT
-DTSTART:20251117T070000Z
-DTEND:20251117T083500Z
-SUMMARY:PADL (ć)
-LOCATION:0.6/16
-DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. Owczarek Paulina
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251201T070000Z
 DTEND:20251201T083500Z
 SUMMARY:IBwL (ć)
@@ -29,13 +22,20 @@ DTSTART:20250112T070000Z
 DTEND:20250112T083500Z
 SUMMARY:PADL (ć)
 LOCATION:0.6/16
-DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Owczarek Paulina
+DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T085000Z
 DTEND:20251117T102500Z
+SUMMARY:PADL (ć)
+LOCATION:
+DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Owczarek Paulina
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251124T085000Z
+DTEND:20251124T102500Z
 SUMMARY:CoO (ć)
-LOCATION:1.27/135
+LOCATION:0.8/16
 DESCRIPTION:Controlling Operacyjny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
@@ -69,9 +69,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T104000Z
 DTEND:20251117T121500Z
-SUMMARY:Psp. (ć)
-LOCATION:1b/28
-DESCRIPTION:Projektowanie systemów i procesów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+SUMMARY:PADL (w)
+LOCATION:
+DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T104000Z
@@ -102,6 +102,13 @@ LOCATION:1b/28
 DESCRIPTION:Controlling Operacyjny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250112T104000Z
+DTEND:20250112T121500Z
+SUMMARY:Psp. (ć)
+LOCATION:1b/28
+DESCRIPTION:Projektowanie systemów i procesów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250119T104000Z
 DTEND:20250119T121500Z
 SUMMARY:NSM (S)
@@ -111,9 +118,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T123000Z
 DTEND:20251117T140500Z
-SUMMARY:Psp. (P)
-LOCATION:1b/28
-DESCRIPTION:Projektowanie systemów i procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/5\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+SUMMARY:PADL (w)
+LOCATION:
+DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T123000Z
@@ -127,7 +134,7 @@ DTSTART:20251208T123000Z
 DTEND:20251208T140500Z
 SUMMARY:Psp. (P)
 LOCATION:1.15/16
-DESCRIPTION:Projektowanie systemów i procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+DESCRIPTION:Projektowanie systemów i procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/5\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T123000Z
@@ -137,18 +144,18 @@ LOCATION:0.6/16
 DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250112T123000Z
+DTEND:20250112T140500Z
+SUMMARY:Psp. (P)
+LOCATION:1b/28
+DESCRIPTION:Projektowanie systemów i procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250119T123000Z
 DTEND:20250119T140500Z
 SUMMARY:NSM (S)
 LOCATION:2.21/135
 DESCRIPTION:Nowoczesne systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/4\nProwadzący: dr inż. Głodowska Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251117T150000Z
-DTEND:20251117T163500Z
-SUMMARY:IBwL (S)
-LOCATION:0.19/135
-DESCRIPTION:Inżynieria bezpieczeństwa w logistyce\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T150000Z
@@ -197,28 +204,14 @@ DTSTART:20251215T165000Z
 DTEND:20251215T182500Z
 SUMMARY:IBwL (S)
 LOCATION:1.17/16
-DESCRIPTION:Inżynieria bezpieczeństwa w logistyce\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. Augustyn Sławomir
+DESCRIPTION:Inżynieria bezpieczeństwa w logistyce\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T070000Z
 DTEND:20251028T083500Z
 SUMMARY:PADL (w)
 LOCATION:1a/28
-DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Owczarek Paulina
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251104T070000Z
-DTEND:20251104T083500Z
-SUMMARY:PADL (w)
-LOCATION:1a/28
-DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Owczarek Paulina
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251118T070000Z
-DTEND:20251118T083500Z
-SUMMARY:Zp* (w)
-LOCATION:1.27/135
-DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T070000Z
@@ -242,32 +235,18 @@ LOCATION:14/23a
 DESCRIPTION:Wybrane zagadnienia z dynamiki środków transportowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: ppłk dr inż. Hryciów Zdzisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251216T070000Z
-DTEND:20251216T083500Z
-SUMMARY:Zp* (ć)
-LOCATION:1.27/135
-DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr inż. Kalwasiński Marek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250113T070000Z
 DTEND:20250113T083500Z
 SUMMARY:Zp* (ć)
 LOCATION:1.27/135
-DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr inż. Kalwasiński Marek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250120T070000Z
-DTEND:20250120T083500Z
-SUMMARY:Zp* (ć)
-LOCATION:1.16/16
-DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T070000Z
 DTEND:20250127T083500Z
 SUMMARY:Zp* (ć)
 LOCATION:0.6/16
-DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T075000Z
@@ -323,7 +302,7 @@ DTSTART:20251209T085000Z
 DTEND:20251209T102500Z
 SUMMARY:Zp* (ć)
 LOCATION:1.27/135
-DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T085000Z
@@ -337,14 +316,7 @@ DTSTART:20250113T085000Z
 DTEND:20250113T102500Z
 SUMMARY:Zp* (ć)
 LOCATION:1.27/135
-DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr inż. Kalwasiński Marek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250120T085000Z
-DTEND:20250120T102500Z
-SUMMARY:Zp* (ć)
-LOCATION:1.16/16
-DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T085000Z
@@ -393,14 +365,14 @@ DTSTART:20251118T104000Z
 DTEND:20251118T121500Z
 SUMMARY:PADL (w)
 LOCATION:0.6/16
-DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Owczarek Paulina
+DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T104000Z
 DTEND:20251125T121500Z
 SUMMARY:Zp* (w)
 LOCATION:1.27/135
-DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T104000Z
@@ -463,7 +435,7 @@ DTSTART:20251021T113000Z
 DTEND:20251021T130500Z
 SUMMARY:Zp* (w)
 LOCATION:1.27/135
-DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T123000Z
@@ -498,7 +470,7 @@ DTSTART:20251202T123000Z
 DTEND:20251202T140500Z
 SUMMARY:Zp* (ć)
 LOCATION:0.7/16
-DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T123000Z
@@ -520,6 +492,13 @@ DTEND:20250113T140500Z
 SUMMARY:LZr (ć)
 LOCATION:0.22/16
 DESCRIPTION:Logistyka zrównoważona\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr n. społ. inż. Krupnik Dorota
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250120T123000Z
+DTEND:20250120T140500Z
+SUMMARY:IBwL (S)
+LOCATION:1.16/16
+DESCRIPTION:Inżynieria bezpieczeństwa w logistyce\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T140000Z
@@ -568,7 +547,7 @@ DTSTART:20251202T150000Z
 DTEND:20251202T163500Z
 SUMMARY:Zp* (ć)
 LOCATION:0.7/16
-DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T150000Z
@@ -646,13 +625,6 @@ DTEND:20251126T083500Z
 SUMMARY:TT (w)
 LOCATION:0.7/16
 DESCRIPTION:Technologie transportowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Głodowska Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251203T070000Z
-DTEND:20251203T083500Z
-SUMMARY:PADL (w)
-LOCATION:0.6/16
-DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T070000Z
@@ -1061,6 +1033,13 @@ LOCATION:1.27/135
 DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251126T165000Z
+DTEND:20251126T182500Z
+SUMMARY:Zp* (w)
+LOCATION:1.27/135
+DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251203T165000Z
 DTEND:20251203T182500Z
 SUMMARY:Osl (L)
@@ -1122,6 +1101,13 @@ DTEND:20251218T083500Z
 SUMMARY:TT (w)
 LOCATION:0.7/16
 DESCRIPTION:Technologie transportowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Głodowska Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T070000Z
+DTEND:20250129T083500Z
+SUMMARY:Zp* (ć)
+LOCATION:1.16/16
+DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T075000Z
@@ -1353,5 +1339,19 @@ DTEND:20250108T163500Z
 SUMMARY:NSM (S)
 LOCATION:2.21/135
 DESCRIPTION:Nowoczesne systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Głodowska Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T085000Z
+DTEND:20250116T102500Z
+SUMMARY:Zp* (ć)
+LOCATION:1.27/135
+DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T123000Z
+DTEND:20250109T140500Z
+SUMMARY:Zp* (ć)
+LOCATION:1.16/16
+DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 END:VCALENDAR

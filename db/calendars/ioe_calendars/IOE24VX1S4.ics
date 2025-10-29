@@ -1148,7 +1148,7 @@ BEGIN:VEVENT
 DTSTART:20251120T104000Z
 DTEND:20251120T121500Z
 SUMMARY:Tla (w)
-LOCATION:21 46
+LOCATION:3.7 75
 DESCRIPTION:Technika laserowa\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: dr inż. Mikołajczyk Janusz
 END:VEVENT
 BEGIN:VEVENT
@@ -1169,7 +1169,7 @@ BEGIN:VEVENT
 DTSTART:20251211T104000Z
 DTEND:20251211T121500Z
 SUMMARY:Tla (S)
-LOCATION:21 46
+LOCATION:12 46
 DESCRIPTION:Technika laserowa\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/5\nProwadzący: dr inż. Mikołajczyk Janusz
 END:VEVENT
 BEGIN:VEVENT
@@ -1248,13 +1248,6 @@ DTEND:20251113T140500Z
 SUMMARY:Lsł (w)
 LOCATION:27 70
 DESCRIPTION:Laserowe systemy łączności\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Mikołajczyk Janusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T123000Z
-DTEND:20251120T140500Z
-SUMMARY:ZWm (ć)
-LOCATION:20 46
-DESCRIPTION:Zastosowanie impulsowych laserów wielkiej mocy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T123000Z
@@ -1353,6 +1346,13 @@ DTEND:20251121T083500Z
 SUMMARY:L4g. (L)
 LOCATION:28 46;17 136
 DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 30/38\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew; dr inż. Mikołajczyk Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251205T070000Z
+DTEND:20251205T083500Z
+SUMMARY:ZWm (ć)
+LOCATION:20 46
+DESCRIPTION:Zastosowanie impulsowych laserów wielkiej mocy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Bielecki Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T070000Z

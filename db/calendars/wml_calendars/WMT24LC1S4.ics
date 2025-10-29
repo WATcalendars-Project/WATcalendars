@@ -123,6 +123,13 @@ LOCATION:
 DESCRIPTION:Tecko\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251215T123000Z
+DTEND:20251215T140500Z
+SUMMARY:Moelp 
+LOCATION:1863
+DESCRIPTION:Modelowanie elementów płatowca i zespołu napędowego\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250126T123000Z
 DTEND:20250126T140500Z
 SUMMARY:Ukssp 
@@ -478,13 +485,6 @@ DTEND:20250114T083500Z
 SUMMARY:Ukssp 
 LOCATION:
 DESCRIPTION:Ukssp\nRodzaj zajęć: -\nProwadzący: mgr inż. Janczewski Mariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251029T085000Z
-DTEND:20251029T102500Z
-SUMMARY:Moelp 
-LOCATION:
-DESCRIPTION:Modelowanie elementów płatowca i zespołu napędowego\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T085000Z
@@ -844,13 +844,6 @@ LOCATION:
 DESCRIPTION:Tecko\nRodzaj zajęć: -\nProwadzący: dr inż. Omen Łukasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251030T104000Z
-DTEND:20251030T121500Z
-SUMMARY:Ukssp 
-LOCATION:
-DESCRIPTION:Ukssp\nRodzaj zajęć: -\nProwadzący: mgr inż. Janczewski Mariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251106T104000Z
 DTEND:20251106T121500Z
 SUMMARY:Tecko 
@@ -982,6 +975,13 @@ DTEND:20251204T140500Z
 SUMMARY:Moelp 
 LOCATION:
 DESCRIPTION:Modelowanie elementów płatowca i zespołu napędowego\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T123000Z
+DTEND:20251211T140500Z
+SUMMARY:Ukssp 
+LOCATION:
+DESCRIPTION:Ukssp\nRodzaj zajęć: -\nProwadzący: mgr inż. Janczewski Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T123000Z

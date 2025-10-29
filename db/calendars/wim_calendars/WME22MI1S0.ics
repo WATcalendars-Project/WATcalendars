@@ -613,13 +613,6 @@ LOCATION:109/ 54
 DESCRIPTION:Maszyny do prac mostowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251028T070000Z
-DTEND:20251028T083500Z
-SUMMARY:Mpm. (ć)
-LOCATION:109/ 54
-DESCRIPTION:Maszyny do prac mostowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: ppłk dr inż. Ślęzak Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251104T070000Z
 DTEND:20251104T083500Z
 SUMMARY:Mpm. (w)
@@ -980,8 +973,8 @@ BEGIN:VEVENT
 DTSTART:20251104T123000Z
 DTEND:20251104T140500Z
 SUMMARY:Mpm. (ć)
-LOCATION:109/ 54
-DESCRIPTION:Maszyny do prac mostowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+LOCATION:09/ 54A
+DESCRIPTION:Maszyny do prac mostowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251111T123000Z
@@ -1066,6 +1059,13 @@ DTEND:20250210T140500Z
 SUMMARY:Ri (Zp.)
 LOCATION:42/ 54A
 DESCRIPTION:Roboty inżynieryjne\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Cieślik Karol
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251104T150000Z
+DTEND:20251104T163500Z
+SUMMARY:Mpm. (ć)
+LOCATION:09/ 54A
+DESCRIPTION:Maszyny do prac mostowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251111T150000Z

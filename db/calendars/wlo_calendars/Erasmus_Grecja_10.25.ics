@@ -193,13 +193,6 @@ LOCATION:1.21/135
 DESCRIPTION:Logistics Costs\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Zamelek Paulina
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251021T075000Z
-DTEND:20251021T092500Z
-SUMMARY:WaS (w)
-LOCATION:1.27/135
-DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251028T085000Z
 DTEND:20251028T102500Z
 SUMMARY:LoC (w)
@@ -275,6 +268,13 @@ DTEND:20251209T140500Z
 SUMMARY:LoC (ć)
 LOCATION:1.21/135
 DESCRIPTION:Logistics Costs\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Zamelek Paulina
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251021T140000Z
+DTEND:20251021T153500Z
+SUMMARY:WaS (w)
+LOCATION:2.21/135
+DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T150000Z
