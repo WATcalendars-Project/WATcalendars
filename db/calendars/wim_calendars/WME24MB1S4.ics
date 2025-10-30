@@ -578,13 +578,6 @@ LOCATION:54/ 62
 DESCRIPTION:Komunikacja i podstawy negocjacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Kałucki Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T070000Z
-DTEND:20251104T083500Z
-SUMMARY:Es* (w)
-LOCATION:37/ 54A
-DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Typiak Rafał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251111T070000Z
 DTEND:20251111T083500Z
 SUMMARY:I 
@@ -1191,7 +1184,7 @@ DTSTART:20251105T070000Z
 DTEND:20251105T083500Z
 SUMMARY:Es* (w)
 LOCATION:37/ 54A
-DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Typiak Rafał
+DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Typiak Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T070000Z
@@ -1219,7 +1212,7 @@ DTSTART:20251203T070000Z
 DTEND:20251203T083500Z
 SUMMARY:Es* (w)
 LOCATION:37/ 54A
-DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Typiak Rafał
+DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Typiak Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T070000Z
@@ -1289,7 +1282,7 @@ DTSTART:20251105T085000Z
 DTEND:20251105T102500Z
 SUMMARY:Es* (w)
 LOCATION:37/ 54A
-DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Typiak Rafał
+DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Typiak Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T085000Z
@@ -1317,7 +1310,7 @@ DTSTART:20251203T085000Z
 DTEND:20251203T102500Z
 SUMMARY:Es* (w)
 LOCATION:37/ 54A
-DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Typiak Rafał
+DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Typiak Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T085000Z
@@ -1509,6 +1502,13 @@ LOCATION:116/ 54
 DESCRIPTION:Planowanie zakupów i użytkowania maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr hab. inż. Łopatka Marian
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251203T123000Z
+DTEND:20251203T140500Z
+SUMMARY:Ssm. (w)
+LOCATION:42/ 54A
+DESCRIPTION:Systemy sterowania maszynami\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251210T123000Z
 DTEND:20251210T140500Z
 SUMMARY:Ssm. (ć)
@@ -1562,25 +1562,25 @@ DTSTART:20251105T150000Z
 DTEND:20251105T163500Z
 SUMMARY:Ssm. (w)
 LOCATION:116/ 54
-DESCRIPTION:Systemy sterowania maszynami\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Systemy sterowania maszynami\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T150000Z
 DTEND:20251112T163500Z
 SUMMARY:Ssm. (w)
 LOCATION:116/ 54
-DESCRIPTION:Systemy sterowania maszynami\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Systemy sterowania maszynami\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T150000Z
+DTEND:20251119T163500Z
+SUMMARY:Es* (w)
+LOCATION:37/ 54A
+DESCRIPTION:Engineering systems in mobile applications\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Typiak Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T150000Z
 DTEND:20251126T163500Z
-SUMMARY:Ssm. (w)
-LOCATION:116/ 54
-DESCRIPTION:Systemy sterowania maszynami\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251203T150000Z
-DTEND:20251203T163500Z
 SUMMARY:Ssm. (w)
 LOCATION:116/ 54
 DESCRIPTION:Systemy sterowania maszynami\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej

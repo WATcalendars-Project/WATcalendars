@@ -396,13 +396,6 @@ LOCATION:2 55A
 DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Puton Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T150000Z
-DTEND:20251104T163500Z
-SUMMARY:Fj (w)
-LOCATION:2 55A
-DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: dr hab. inż. Puton Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250127T150000Z
 DTEND:20250127T163500Z
 SUMMARY:Fj (L)
@@ -428,7 +421,7 @@ DTSTART:20251119T070000Z
 DTEND:20251119T083500Z
 SUMMARY:Fj (w)
 LOCATION:2 55A
-DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: dr hab. inż. Puton Jarosław
+DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: dr hab. inż. Puton Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T070000Z
@@ -505,7 +498,7 @@ DTSTART:20251210T085000Z
 DTEND:20251210T102500Z
 SUMMARY:Fj (w)
 LOCATION:2 55A
-DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: dr hab. inż. Puton Jarosław
+DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: dr hab. inż. Puton Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T085000Z
@@ -695,6 +688,13 @@ DTEND:20251106T083500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
 DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 11/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251113T070000Z
+DTEND:20251113T083500Z
+SUMMARY:Fj (w)
+LOCATION:10 55
+DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: dr hab. inż. Puton Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T070000Z

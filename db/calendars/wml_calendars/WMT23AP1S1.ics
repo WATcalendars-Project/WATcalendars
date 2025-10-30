@@ -53,6 +53,13 @@ LOCATION:4763
 DESCRIPTION:Sterowanie w systemach mechatronicznych 2\nRodzaj zajęć: -\nProwadzący: dr inż. Siwek Michał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251208T070000Z
+DTEND:20251208T083500Z
+SUMMARY:Ziop 
+LOCATION:
+DESCRIPTION:Zarządzanie i organizacja pracy\nRodzaj zajęć: -\nProwadzący: mgr inż. Pustkowski Remigiusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251215T070000Z
 DTEND:20251215T083500Z
 SUMMARY:MIE 
@@ -928,6 +935,13 @@ LOCATION:
 DESCRIPTION:Niezawodność i eksploatacja urzadzeń mechatronicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Dudziński Jacek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251127T070000Z
+DTEND:20251127T083500Z
+SUMMARY:Opto 
+LOCATION:
+DESCRIPTION:Optoelektronika\nRodzaj zajęć: -\nProwadzący: dr inż. Prokopiuk Artur
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251204T070000Z
 DTEND:20251204T083500Z
 SUMMARY:Psme 
@@ -1000,9 +1014,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T085000Z
 DTEND:20251127T102500Z
-SUMMARY:Nieu 
+SUMMARY:Opto 
 LOCATION:
-DESCRIPTION:Niezawodność i eksploatacja urzadzeń mechatronicznych\nRodzaj zajęć: -
+DESCRIPTION:Optoelektronika\nRodzaj zajęć: -\nProwadzący: dr inż. Prokopiuk Artur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T085000Z
@@ -1089,11 +1103,18 @@ LOCATION:4763
 DESCRIPTION:Sterowanie w systemach mechatronicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251120T104000Z
+DTEND:20251120T121500Z
+SUMMARY:Ziop 
+LOCATION:
+DESCRIPTION:Zarządzanie i organizacja pracy\nRodzaj zajęć: -\nProwadzący: mgr inż. Pustkowski Remigiusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251127T104000Z
 DTEND:20251127T121500Z
-SUMMARY:Opto 
+SUMMARY:Nieu 
 LOCATION:
-DESCRIPTION:Optoelektronika\nRodzaj zajęć: -\nProwadzący: dr inż. Prokopiuk Artur
+DESCRIPTION:Niezawodność i eksploatacja urzadzeń mechatronicznych\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T104000Z
@@ -1164,13 +1185,6 @@ DTEND:20251120T140500Z
 SUMMARY:Skau 
 LOCATION:
 DESCRIPTION:Sieci komunikacyjne w automatyce\nRodzaj zajęć: -\nProwadzący: mgr.inż. Miernik Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251127T123000Z
-DTEND:20251127T140500Z
-SUMMARY:Opto 
-LOCATION:
-DESCRIPTION:Optoelektronika\nRodzaj zajęć: -\nProwadzący: dr inż. Prokopiuk Artur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T123000Z
@@ -1348,13 +1362,6 @@ LOCATION:
 DESCRIPTION:Miernictwo\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251031T104000Z
-DTEND:20251031T121500Z
-SUMMARY:Ziop 
-LOCATION:
-DESCRIPTION:Zarządzanie i organizacja pracy\nRodzaj zajęć: -\nProwadzący: mgr inż. Pustkowski Remigiusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251107T104000Z
 DTEND:20251107T121500Z
 SUMMARY:SwSm2 
@@ -1430,13 +1437,6 @@ DTEND:20251003T130500Z
 SUMMARY:Skau 
 LOCATION:
 DESCRIPTION:Sieci komunikacyjne w automatyce\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251031T123000Z
-DTEND:20251031T140500Z
-SUMMARY:Ziop 
-LOCATION:
-DESCRIPTION:Zarządzanie i organizacja pracy\nRodzaj zajęć: -\nProwadzący: mgr inż. Pustkowski Remigiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T123000Z

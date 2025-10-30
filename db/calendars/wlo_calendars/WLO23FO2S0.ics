@@ -280,7 +280,7 @@ BEGIN:VEVENT
 DTSTART:20251215T165000Z
 DTEND:20251215T182500Z
 SUMMARY:PoMa (ć)
-LOCATION:0.23/16
+LOCATION:1.15/16
 DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
@@ -1005,6 +1005,13 @@ LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: (i)\nNumer zajęć: 4/4\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy; dr inż. Chrzanowski Wojciech
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250128T070000Z
+DTEND:20250128T083500Z
+SUMMARY:MrBr (ć)
+LOCATION:1.17/16
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251008T075000Z
 DTEND:20251008T092500Z
 SUMMARY:DGB (ć)
@@ -1086,7 +1093,7 @@ DTSTART:20250121T085000Z
 DTEND:20250121T102500Z
 SUMMARY:MrBr (ć)
 LOCATION:255 S
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250128T085000Z
@@ -1128,7 +1135,7 @@ DTSTART:20251112T104000Z
 DTEND:20251112T121500Z
 SUMMARY:MrBr (ć)
 LOCATION:1.17/16
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T104000Z
@@ -1255,13 +1262,6 @@ DTEND:20250114T140500Z
 SUMMARY:MrBr (L)
 LOCATION:7/23a
 DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251029T150000Z
-DTEND:20251029T163500Z
-SUMMARY:MrBr (ć)
-LOCATION:255 S
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T150000Z
