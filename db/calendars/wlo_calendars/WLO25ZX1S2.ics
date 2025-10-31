@@ -634,6 +634,13 @@ LOCATION:4.17a/135
 DESCRIPTION:Psychologia w zarządzaniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Tarapata Jolanta
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250128T104000Z
+DTEND:20250128T121500Z
+SUMMARY:Nkz (ć)
+LOCATION:0.19/135
+DESCRIPTION:Nowoczesne koncepcje zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251001T113000Z
 DTEND:20251001T130500Z
 SUMMARY:Zs (w)
@@ -659,20 +666,13 @@ DTSTART:20251022T113000Z
 DTEND:20251022T130500Z
 SUMMARY:Nkz (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Nowoczesne koncepcje zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
+DESCRIPTION:Nowoczesne koncepcje zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T123000Z
 DTEND:20251029T140500Z
 SUMMARY:Nkz (ć)
 LOCATION:31/158
-DESCRIPTION:Nowoczesne koncepcje zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251105T123000Z
-DTEND:20251105T140500Z
-SUMMARY:Nkz (ć)
-LOCATION:4.23/135
 DESCRIPTION:Nowoczesne koncepcje zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
@@ -942,6 +942,13 @@ LOCATION:301/S
 DESCRIPTION:Psychologia w zarządzaniu\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr Tarapata Jolanta
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250122T070000Z
+DTEND:20250122T083500Z
+SUMMARY:Nkz (ć)
+LOCATION:2/22
+DESCRIPTION:Nowoczesne koncepcje zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250129T070000Z
 DTEND:20250129T083500Z
 SUMMARY:Metodologia 
@@ -954,13 +961,6 @@ DTEND:20251127T102500Z
 SUMMARY:Sm (w)
 LOCATION:51/62
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13\nProwadzący: dr Łakoma Ewa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T085000Z
-DTEND:20251204T102500Z
-SUMMARY:Nkz (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Nowoczesne koncepcje zarządzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T085000Z
@@ -1239,7 +1239,7 @@ BEGIN:VEVENT
 DTSTART:20251205T070000Z
 DTEND:20251205T083500Z
 SUMMARY:Nkz (w)
-LOCATION:51/62
+LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Nowoczesne koncepcje zarządzania\nRodzaj zajęć: Wykład\nNumer zajęć: 14/17\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
@@ -1301,9 +1301,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T085000Z
 DTEND:20251031T102500Z
-SUMMARY:pz (w)
+SUMMARY:Szkl (w)
 LOCATION:301/S
-DESCRIPTION:Psychologia w zarządzaniu\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr Tarapata Jolanta
+DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 4/12\nProwadzący: dr Stroińska Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T085000Z
@@ -1331,7 +1331,7 @@ DTSTART:20251219T085000Z
 DTEND:20251219T102500Z
 SUMMARY:Szkl (w)
 LOCATION:1.9/16
-DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 4/12\nProwadzący: dr Stroińska Ewa
+DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: dr Stroińska Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T085000Z
@@ -1366,7 +1366,7 @@ DTSTART:20251003T094000Z
 DTEND:20251003T111500Z
 SUMMARY:Szkl (w)
 LOCATION:3.16/135
-DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: dr Stroińska Ewa
+DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr Stroińska Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T094000Z
@@ -1380,21 +1380,21 @@ DTSTART:20251017T094000Z
 DTEND:20251017T111500Z
 SUMMARY:Szkl (w)
 LOCATION:0.28/135
-DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr Stroińska Ewa
+DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: dr Stroińska Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T094000Z
 DTEND:20251024T111500Z
 SUMMARY:Szkl (w)
 LOCATION:0.28/135
-DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: dr Stroińska Ewa
+DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: dr Stroińska Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T104000Z
 DTEND:20251031T121500Z
 SUMMARY:Szkl (w)
 LOCATION:301/S
-DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: dr Stroińska Ewa
+DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 9/12\nProwadzący: dr Stroińska Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T104000Z
@@ -1404,11 +1404,18 @@ LOCATION:51/62
 DESCRIPTION:Zarządzanie logistyką\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13\nProwadzący: dr hab. inż. Miszalski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251121T104000Z
+DTEND:20251121T121500Z
+SUMMARY:pz (w)
+LOCATION:301/S
+DESCRIPTION:Psychologia w zarządzaniu\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr Tarapata Jolanta
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251205T104000Z
 DTEND:20251205T121500Z
 SUMMARY:Szkl (w)
 LOCATION:0.28/135
-DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 9/12\nProwadzący: dr Stroińska Ewa
+DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 10/12\nProwadzący: dr Stroińska Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T104000Z
@@ -1422,7 +1429,7 @@ DTSTART:20251219T104000Z
 DTEND:20251219T121500Z
 SUMMARY:Szkl (w)
 LOCATION:1.9/16
-DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 10/12\nProwadzący: dr Stroińska Ewa
+DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: dr Stroińska Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T104000Z
@@ -1457,7 +1464,7 @@ DTSTART:20251003T113000Z
 DTEND:20251003T130500Z
 SUMMARY:Szkl (w)
 LOCATION:3.16/135
-DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: dr Stroińska Ewa
+DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 12/12\nProwadzący: dr Stroińska Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T113000Z
@@ -1479,13 +1486,6 @@ DTEND:20251024T130500Z
 SUMMARY:pz (w)
 LOCATION:0.28/135
 DESCRIPTION:Psychologia w zarządzaniu\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr Tarapata Jolanta
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251031T123000Z
-DTEND:20251031T140500Z
-SUMMARY:Szkl (w)
-LOCATION:301/S
-DESCRIPTION:Strategiczne zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 12/12\nProwadzący: dr Stroińska Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T123000Z

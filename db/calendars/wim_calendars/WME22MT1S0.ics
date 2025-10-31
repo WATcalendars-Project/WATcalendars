@@ -2216,13 +2216,6 @@ LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251030T123000Z
-DTEND:20251030T140500Z
-SUMMARY:TrŁ (ć)
-LOCATION:2/ 23a
-DESCRIPTION:Transport ładunków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: dr inż. Chojnowski Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251106T123000Z
 DTEND:20251106T140500Z
 SUMMARY:SSW 
@@ -2235,6 +2228,13 @@ DTEND:20251113T140500Z
 SUMMARY:TrŁ (w)
 LOCATION:2/ 23a
 DESCRIPTION:Transport ładunków\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: dr inż. Chojnowski Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251204T123000Z
+DTEND:20251204T140500Z
+SUMMARY:TrŁ (ć)
+LOCATION:2/ 23a
+DESCRIPTION:Transport ładunków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T123000Z
