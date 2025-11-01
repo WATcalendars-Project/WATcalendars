@@ -606,13 +606,6 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251105T123000Z
-DTEND:20251105T140500Z
-SUMMARY:M II (ć)
-LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/17\nProwadzący: mgr Wojciech Matuszewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251105T150000Z
 DTEND:20251105T163500Z
 SUMMARY:JoM (ć)
@@ -680,7 +673,7 @@ DTSTART:20251112T085000Z
 DTEND:20251112T102500Z
 SUMMARY:M II (ć)
 LOCATION:308 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/17\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T104000Z
@@ -757,7 +750,7 @@ DTSTART:20251114T085000Z
 DTEND:20251114T102500Z
 SUMMARY:M II (ć)
 LOCATION:307 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T104000Z
@@ -795,6 +788,13 @@ LOCATION:116/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251117T150000Z
+DTEND:20251117T163500Z
+SUMMARY:M II (ć)
+LOCATION:317 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251118T070000Z
 DTEND:20251118T083500Z
 SUMMARY:M II (ć)
@@ -821,20 +821,6 @@ DTEND:20251118T121500Z
 SUMMARY:SiKD (Inne)
 LOCATION:313 S
 DESCRIPTION:Spotkanie informacyjne z kierownikiem Dziekanatu\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: dr Joanna Piasecka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251118T150000Z
-DTEND:20251118T163500Z
-SUMMARY:Wzp (w)
-LOCATION:314 S
-DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251118T165000Z
-DTEND:20251118T182500Z
-SUMMARY:Wzp (w)
-LOCATION:314 S
-DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T070000Z
@@ -1019,6 +1005,13 @@ LOCATION:252 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251127T165000Z
+DTEND:20251127T182500Z
+SUMMARY:Wzp (w)
+LOCATION:314 S
+DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251201T070000Z
 DTEND:20251201T083500Z
 SUMMARY:M II (w)
@@ -1037,14 +1030,14 @@ DTSTART:20251202T150000Z
 DTEND:20251202T163500Z
 SUMMARY:Wzp (w)
 LOCATION:314 S
-DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T165000Z
 DTEND:20251202T182500Z
 SUMMARY:Wzp (w)
 LOCATION:314 S
-DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T085000Z
@@ -1143,6 +1136,13 @@ DTEND:20251209T102500Z
 SUMMARY:MD1 (ć)
 LOCATION:205 65
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T165000Z
+DTEND:20251209T182500Z
+SUMMARY:Wzp (w)
+LOCATION:314 S
+DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T085000Z

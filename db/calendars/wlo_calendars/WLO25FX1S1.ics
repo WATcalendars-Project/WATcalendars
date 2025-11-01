@@ -907,13 +907,6 @@ LOCATION:1.17/16
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251119T085000Z
-DTEND:20251119T102500Z
-SUMMARY:Wzp (w)
-LOCATION:1.10/16; 1.9/16
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Kobielski Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251126T085000Z
 DTEND:20251126T102500Z
 SUMMARY:Ez (ć)
@@ -1010,13 +1003,6 @@ DTEND:20251112T121500Z
 SUMMARY:M1 (ć)
 LOCATION:0.8/16
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/19
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251119T104000Z
-DTEND:20251119T121500Z
-SUMMARY:Wzp (w)
-LOCATION:1.10/16; 1.9/16
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T104000Z
@@ -1143,6 +1129,13 @@ DTEND:20251015T153500Z
 SUMMARY:Owi (w)
 LOCATION:aula/135
 DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr hab. inż. Rybiński Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251112T150000Z
+DTEND:20251112T163500Z
+SUMMARY:Wzp (w)
+LOCATION:
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T150000Z
@@ -1371,6 +1364,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T165000Z
 DTEND:20251106T182500Z
+SUMMARY:Wzp (w)
+LOCATION:301/S
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Kobielski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251106T184000Z
+DTEND:20251106T201500Z
 SUMMARY:Wzp (w)
 LOCATION:301/S
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Kobielski Piotr

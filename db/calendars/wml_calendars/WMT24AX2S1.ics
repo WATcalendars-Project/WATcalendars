@@ -193,20 +193,6 @@ LOCATION:1563
 DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: -\nProwadzący: dr inż. Czyżewska Marta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T085000Z
-DTEND:20251104T102500Z
-SUMMARY:Lwnm 
-LOCATION:3167
-DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251125T085000Z
-DTEND:20251125T102500Z
-SUMMARY:Lwnm 
-LOCATION:3167
-DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251202T085000Z
 DTEND:20251202T102500Z
 SUMMARY:Liwpw 
@@ -634,13 +620,6 @@ LOCATION:
 DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T104000Z
-DTEND:20251120T121500Z
-SUMMARY:Liim 
-LOCATION:3136
-DESCRIPTION:Laboratorium informatyki i mechaniki\nRodzaj zajęć: -\nProwadzący: dr inż. Czyżewska Marta
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251127T104000Z
 DTEND:20251127T121500Z
 SUMMARY:Met 
@@ -795,6 +774,13 @@ LOCATION:3136
 DESCRIPTION:Laboratorium informatyki i mechaniki\nRodzaj zajęć: -\nProwadzący: dr inż. Czyżewska Marta
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251107T085000Z
+DTEND:20251107T102500Z
+SUMMARY:Lwnm 
+LOCATION:3167
+DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251114T085000Z
 DTEND:20251114T102500Z
 SUMMARY:Met 
@@ -858,6 +844,20 @@ LOCATION:4136
 DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: -\nProwadzący: dr inż. Czyżewska Marta
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251114T104000Z
+DTEND:20251114T121500Z
+SUMMARY:Lwnm 
+LOCATION:3167
+DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T104000Z
+DTEND:20251121T121500Z
+SUMMARY:Met 
+LOCATION:1563
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: -\nProwadzący: dr inż. Czyżewska Marta
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250109T104000Z
 DTEND:20250109T121500Z
 SUMMARY:Liwpw 
@@ -879,13 +879,6 @@ LOCATION:3167
 DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251219T123000Z
-DTEND:20251219T140500Z
-SUMMARY:Met 
-LOCATION:2069
-DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: -\nProwadzący: dr inż. Czyżewska Marta
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250109T123000Z
 DTEND:20250109T140500Z
 SUMMARY:Liwpw 
@@ -898,5 +891,12 @@ DTEND:20250116T140500Z
 SUMMARY:Met 
 LOCATION:4663
 DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: -\nProwadzący: dr inż. Czyżewska Marta
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250130T123000Z
+DTEND:20250130T140500Z
+SUMMARY:Liim 
+LOCATION:3136
+DESCRIPTION:Laboratorium informatyki i mechaniki\nRodzaj zajęć: -\nProwadzący: dr inż. Czyżewska Marta
 END:VEVENT
 END:VCALENDAR

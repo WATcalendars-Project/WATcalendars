@@ -284,20 +284,6 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251013T140000Z
-DTEND:20251013T153500Z
-SUMMARY:Wzp (w)
-LOCATION:316 S
-DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251013T155000Z
-DTEND:20251013T172500Z
-SUMMARY:Wzp (w)
-LOCATION:316 S
-DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251014T075000Z
 DTEND:20251014T092500Z
 SUMMARY:Mat I (w)
@@ -519,14 +505,14 @@ DTSTART:20251028T150000Z
 DTEND:20251028T163500Z
 SUMMARY:Wzp (w)
 LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T165000Z
 DTEND:20251028T182500Z
 SUMMARY:Wzp (w)
 LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T085000Z
@@ -590,13 +576,6 @@ DTEND:20251031T140500Z
 SUMMARY:WdI (w)
 LOCATION:314 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251031T150000Z
-DTEND:20251031T163500Z
-SUMMARY:WdI (w)
-LOCATION:314 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T070000Z
@@ -708,6 +687,13 @@ DTSTART:20251107T123000Z
 DTEND:20251107T140500Z
 SUMMARY:WdI (w)
 LOCATION:314 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251107T150000Z
+DTEND:20251107T163500Z
+SUMMARY:WdI (w)
+LOCATION:317 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
@@ -753,6 +739,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251113T150000Z
+DTEND:20251113T163500Z
+SUMMARY:Wzp (ć)
+LOCATION:313 S
+DESCRIPTION:Wybrane zagadnienia prawa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251114T085000Z
 DTEND:20251114T102500Z
 SUMMARY:M II (w)
@@ -765,6 +758,13 @@ DTEND:20251114T140500Z
 SUMMARY:Mat I (ć)
 LOCATION:307 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/38\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251114T150000Z
+DTEND:20251114T163500Z
+SUMMARY:Wzp (w)
+LOCATION:313 S
+DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T070000Z
@@ -800,13 +800,6 @@ DTEND:20251117T163500Z
 SUMMARY:WDM (w)
 LOCATION:314 S
 DESCRIPTION:Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251117T165000Z
-DTEND:20251117T182500Z
-SUMMARY:Wzp (ć)
-LOCATION:307 S
-DESCRIPTION:Wybrane zagadnienia prawa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T070000Z
@@ -1059,6 +1052,13 @@ DTEND:20251204T102500Z
 SUMMARY:Ez (w)
 LOCATION:314 S
 DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251204T104000Z
+DTEND:20251204T121500Z
+SUMMARY:Wzp (w)
+LOCATION:314 S
+DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T123000Z

@@ -25,13 +25,6 @@ LOCATION:1663
 DESCRIPTION:Sterowanie w systemach mechatronicznych 2\nRodzaj zajęć: -\nProwadzący: dr inż. Siwek Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251103T070000Z
-DTEND:20251103T083500Z
-SUMMARY:SwSm2 
-LOCATION:
-DESCRIPTION:Sterowanie w systemach mechatronicznych 2\nRodzaj zajęć: -\nProwadzący: dr inż. Siwek Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251117T070000Z
 DTEND:20251117T083500Z
 SUMMARY:Psme 
@@ -170,6 +163,13 @@ DTEND:20251020T111500Z
 SUMMARY:Nieu 
 LOCATION:
 DESCRIPTION:Niezawodność i eksploatacja urzadzeń mechatronicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Dudziński Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251103T104000Z
+DTEND:20251103T121500Z
+SUMMARY:SwSm2 
+LOCATION:4763
+DESCRIPTION:Sterowanie w systemach mechatronicznych 2\nRodzaj zajęć: -\nProwadzący: dr inż. Siwek Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T104000Z
@@ -410,6 +410,13 @@ LOCATION:4763
 DESCRIPTION:Programowanie systemów mechatronicznych\nRodzaj zajęć: -\nProwadzący: mgr inż. Borys Szymon
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251118T085000Z
+DTEND:20251118T102500Z
+SUMMARY:Psme 
+LOCATION:4763
+DESCRIPTION:Programowanie systemów mechatronicznych\nRodzaj zajęć: -\nProwadzący: mgr inż. Borys Szymon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251125T085000Z
 DTEND:20251125T102500Z
 SUMMARY:SwSM 
@@ -611,13 +618,6 @@ DTEND:20251022T073500Z
 SUMMARY:Skau 
 LOCATION:
 DESCRIPTION:Sieci komunikacyjne w automatyce\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251105T070000Z
-DTEND:20251105T083500Z
-SUMMARY:Psme 
-LOCATION:4763
-DESCRIPTION:Programowanie systemów mechatronicznych\nRodzaj zajęć: -\nProwadzący: mgr inż. Borys Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T070000Z
@@ -1215,6 +1215,13 @@ LOCATION:
 DESCRIPTION:Niezawodność i eksploatacja urzadzeń mechatronicznych\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251218T150000Z
+DTEND:20251218T163500Z
+SUMMARY:Nieu 
+LOCATION:
+DESCRIPTION:Niezawodność i eksploatacja urzadzeń mechatronicznych\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250108T150000Z
 DTEND:20250108T163500Z
 SUMMARY:Psme 
@@ -1507,12 +1514,5 @@ DTEND:20250130T140500Z
 SUMMARY:Psme 
 LOCATION:4763
 DESCRIPTION:Programowanie systemów mechatronicznych\nRodzaj zajęć: -\nProwadzący: mgr inż. Borys Szymon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251031T150000Z
-DTEND:20251031T163500Z
-SUMMARY:Nieu 
-LOCATION:
-DESCRIPTION:Niezawodność i eksploatacja urzadzeń mechatronicznych\nRodzaj zajęć: -
 END:VEVENT
 END:VCALENDAR
