@@ -3063,20 +3063,6 @@ LOCATION:121 65
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/20\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T150000Z
-DTEND:20251104T163500Z
-SUMMARY:MAST (L)
-LOCATION:011 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251104T165000Z
-DTEND:20251104T182500Z
-SUMMARY:MAST (L)
-LOCATION:011 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251105T070000Z
 DTEND:20251105T083500Z
 SUMMARY:AśW (w)
@@ -3390,6 +3376,20 @@ DTEND:20251120T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 44/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T150000Z
+DTEND:20251120T163500Z
+SUMMARY:MAST (L)
+LOCATION:106 65
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T165000Z
+DTEND:20251120T182500Z
+SUMMARY:MAST (L)
+LOCATION:106 65
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T070000Z

@@ -3084,20 +3084,6 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 43/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251121T085000Z
-DTEND:20251121T102500Z
-SUMMARY:Temo (L)
-LOCATION:106 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T104000Z
-DTEND:20251121T121500Z
-SUMMARY:Temo (L)
-LOCATION:106 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251121T123000Z
 DTEND:20251121T140500Z
 SUMMARY:BsIP (L)
@@ -3389,14 +3375,14 @@ DTSTART:20251205T104000Z
 DTEND:20251205T121500Z
 SUMMARY:Temo (L)
 LOCATION:106 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: Łukasz Czerniszewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T123000Z
 DTEND:20251205T140500Z
 SUMMARY:Temo (L)
 LOCATION:106 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: Łukasz Czerniszewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T150000Z
@@ -3551,6 +3537,20 @@ DTEND:20251213T102500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23/28\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T070000Z
+DTEND:20251215T083500Z
+SUMMARY:Temo (L)
+LOCATION:219 65
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T085000Z
+DTEND:20251215T102500Z
+SUMMARY:Temo (L)
+LOCATION:219 65
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T104000Z

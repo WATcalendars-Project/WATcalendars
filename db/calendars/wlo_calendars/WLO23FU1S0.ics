@@ -7,7 +7,7 @@ BEGIN:VEVENT
 DTSTART:20251117T070000Z
 DTEND:20251117T083500Z
 SUMMARY:Pmiuwl (P)
-LOCATION:1b/28; 1a/28
+LOCATION:1.15/16; 1.16/16
 DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Projekt\nNumer zajęć: 1/8\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
@@ -694,7 +694,7 @@ DTSTART:20251118T150000Z
 DTEND:20251118T163500Z
 SUMMARY:PoMa (ć)
 LOCATION:0.28/135
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T150000Z
@@ -702,6 +702,13 @@ DTEND:20250113T163500Z
 SUMMARY:ZaMe (ć)
 LOCATION:2pl/24kp; 23FU; 1S; 23BJO; 0 K; 4 T
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: kpt.mgr Nawalicki Piotr; dr hab. inż.(prof. ucz.) Jackowski Jerzy; ppłk mgr inż. Grądziel Grzegorz; dr n. społ. inż. Krupnik Dorota; mgr inż. Michałowski Bogusław; ppłk mgr Lasak Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251118T165000Z
+DTEND:20251118T182500Z
+SUMMARY:Pmiuwl (P)
+LOCATION:0.7/16; 1.15/16
+DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Projekt\nNumer zajęć: 2/8\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T060000Z
@@ -883,7 +890,7 @@ DTSTART:20251105T104000Z
 DTEND:20251105T121500Z
 SUMMARY:Pmiuwl (P)
 LOCATION:1b/28; 1a/28
-DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Projekt\nNumer zajęć: 2/8\nProwadzący: dr inż. Torzewski Janusz
+DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Projekt\nNumer zajęć: 3/8\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T104000Z
@@ -907,13 +914,6 @@ LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy; dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251217T104000Z
-DTEND:20251217T121500Z
-SUMMARY:Pmiuwl (P)
-LOCATION:1b/28; 1a/28
-DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Projekt\nNumer zajęć: 3/8\nProwadzący: dr inż. Torzewski Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250107T104000Z
 DTEND:20250107T121500Z
 SUMMARY:MrBr (L)
@@ -931,14 +931,14 @@ BEGIN:VEVENT
 DTSTART:20250121T104000Z
 DTEND:20250121T121500Z
 SUMMARY:Pmiuwl (P)
-LOCATION:1b/28; 1a/28
+LOCATION:4.23/135; 5.21/135
 DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Projekt\nNumer zajęć: 4/8\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250128T104000Z
 DTEND:20250128T121500Z
 SUMMARY:Pmiuwl (P)
-LOCATION:1b/28; 1a/28
+LOCATION:0.6/16; 1.16/16
 DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Projekt\nNumer zajęć: 5/8\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
@@ -1418,13 +1418,6 @@ LOCATION:0.8/16
 DESCRIPTION:Niezawodność systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251204T123000Z
-DTEND:20251204T140500Z
-SUMMARY:Pmiuwl (P)
-LOCATION:1b/28; 1a/28
-DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Projekt\nNumer zajęć: 6/8\nProwadzący: dr inż. Torzewski Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251211T123000Z
 DTEND:20251211T140500Z
 SUMMARY:ToMu (w)
@@ -1535,6 +1528,13 @@ DTEND:20251106T182500Z
 SUMMARY:PoMa (ć)
 LOCATION:2.21/135
 DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: prof. WAT Kler Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250115T165000Z
+DTEND:20250115T182500Z
+SUMMARY:Pmiuwl (P)
+LOCATION:0.21/16; 0.22/16
+DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Projekt\nNumer zajęć: 6/8\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T174000Z
@@ -1876,7 +1876,7 @@ BEGIN:VEVENT
 DTSTART:20250109T123000Z
 DTEND:20250109T140500Z
 SUMMARY:Pmiuwl (P)
-LOCATION:1b/28; 1a/28
+LOCATION:4.17a/135; 5.21/135
 DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Projekt\nNumer zajęć: 8/8\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT

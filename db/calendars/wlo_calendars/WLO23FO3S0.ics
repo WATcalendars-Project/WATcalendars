@@ -1078,7 +1078,7 @@ BEGIN:VEVENT
 DTSTART:20251119T104000Z
 DTEND:20251119T121500Z
 SUMMARY:Pmiuwl (P)
-LOCATION:1a/28; 1b/28
+LOCATION:1.9/16; 1.10/16
 DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Projekt\nNumer zajęć: 3/8\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
@@ -1642,13 +1642,6 @@ LOCATION:0.24/135
 DESCRIPTION:Organizacja i technologia napraw\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251211T123000Z
-DTEND:20251211T140500Z
-SUMMARY:Pmiuwl (P)
-LOCATION:1a/28; 1b/28
-DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Projekt\nNumer zajęć: 7/8\nProwadzący: dr inż. Torzewski Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251218T123000Z
 DTEND:20251218T140500Z
 SUMMARY:PoTe (ć)
@@ -1766,6 +1759,20 @@ DTEND:20250115T163500Z
 SUMMARY:SLwLSZ (L)
 LOCATION:1.7/16
 DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: płk mgr inż. Górski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250122T150000Z
+DTEND:20250122T163500Z
+SUMMARY:Pmiuwl (P)
+LOCATION:26/158; 9/158
+DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Projekt\nNumer zajęć: 7/8\nProwadzący: dr inż. Torzewski Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T150000Z
+DTEND:20250129T163500Z
+SUMMARY:Pmiuwl (P)
+LOCATION:0.21/16; 1.16/16
+DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Projekt\nNumer zajęć: 8/8\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T155000Z
@@ -2116,13 +2123,6 @@ DTEND:20251212T140500Z
 SUMMARY:MrBr (L)
 LOCATION:7/23a
 DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251219T123000Z
-DTEND:20251219T140500Z
-SUMMARY:Pmiuwl (P)
-LOCATION:1a/28; 1b/28
-DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Projekt\nNumer zajęć: 8/8\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T140000Z

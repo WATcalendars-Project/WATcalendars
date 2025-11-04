@@ -333,13 +333,6 @@ LOCATION:1.9/16
 DESCRIPTION:Technologie transportowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Głodowska Katarzyna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250110T123000Z
-DTEND:20250110T140500Z
-SUMMARY:IBwL (ć)
-LOCATION:A.1.3/135
-DESCRIPTION:Inżynieria bezpieczeństwa w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr hab. inż.(prof. ucz.) Wysocki Józef
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250117T123000Z
 DTEND:20250117T140500Z
 SUMMARY:ZMSE (L)
@@ -595,7 +588,7 @@ BEGIN:VEVENT
 DTSTART:20251109T070000Z
 DTEND:20251109T083500Z
 SUMMARY:UL. (w)
-LOCATION:0.28/135
+LOCATION:0.24/135
 DESCRIPTION:Usługi logistyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
@@ -618,6 +611,13 @@ DTEND:20251207T083500Z
 SUMMARY:ZMSE (L)
 LOCATION:0.8/16
 DESCRIPTION:Zastosowanie arkusza MS Excel w logistyce przedsiębiorstw\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr inż. Waśniewski Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251214T070000Z
+DTEND:20251214T083500Z
+SUMMARY:IBwL (ć)
+LOCATION:0.28/135
+DESCRIPTION:Inżynieria bezpieczeństwa w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr hab. inż.(prof. ucz.) Wysocki Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251221T070000Z
@@ -861,7 +861,7 @@ BEGIN:VEVENT
 DTSTART:20251109T123000Z
 DTEND:20251109T140500Z
 SUMMARY:Psp. (w)
-LOCATION:0.28/135
+LOCATION:0.24/135
 DESCRIPTION:Projektowanie systemów i procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT

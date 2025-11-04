@@ -365,7 +365,7 @@ DTSTART:20251104T150000Z
 DTEND:20251104T163500Z
 SUMMARY:Lwnm 
 LOCATION:3167
-DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach\nRodzaj zajęć: -
+DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T150000Z
@@ -1416,6 +1416,13 @@ DTEND:20251107T140500Z
 SUMMARY:EiE1 
 LOCATION:
 DESCRIPTION:Elektrotechnika i elektronika 1\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251114T123000Z
+DTEND:20251114T140500Z
+SUMMARY:Lwnm 
+LOCATION:3167
+DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T123000Z

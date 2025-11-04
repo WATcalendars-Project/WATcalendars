@@ -1523,13 +1523,6 @@ LOCATION:317 S
 DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251105T085000Z
-DTEND:20251105T102500Z
-SUMMARY:Ztel (w)
-LOCATION:204 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Tomasz Malinowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251106T104000Z
 DTEND:20251106T121500Z
 SUMMARY:Wpp (Inne)
@@ -1569,7 +1562,7 @@ DTSTART:20251112T123000Z
 DTEND:20251112T140500Z
 SUMMARY:Ztel (w)
 LOCATION:201 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T165000Z
@@ -1604,7 +1597,7 @@ DTSTART:20251121T123000Z
 DTEND:20251121T140500Z
 SUMMARY:Ztel (w)
 LOCATION:205 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T070000Z
@@ -1619,6 +1612,13 @@ DTEND:20251124T102500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
 DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/15\nProwadzący: Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251124T104000Z
+DTEND:20251124T121500Z
+SUMMARY:Ztel (w)
+LOCATION:101 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T070000Z

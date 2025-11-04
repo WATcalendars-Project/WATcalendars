@@ -207,13 +207,6 @@ LOCATION:4.23/135
 DESCRIPTION:Koszty logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr Milian-Pogonowska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251124T104000Z
-DTEND:20251124T121500Z
-SUMMARY:CL. (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251201T104000Z
 DTEND:20251201T121500Z
 SUMMARY:SMa (ć)
@@ -232,7 +225,7 @@ DTSTART:20251215T104000Z
 DTEND:20251215T121500Z
 SUMMARY:CL. (ć)
 LOCATION:1.10/16
-DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250112T104000Z
@@ -394,6 +387,13 @@ DTEND:20251201T163500Z
 SUMMARY:DZSŚB (ć)
 LOCATION:26/158
 DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Gułaj Mariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250119T150000Z
+DTEND:20250119T163500Z
+SUMMARY:OiJŁ (ć)
+LOCATION:255 S
+DESCRIPTION:Opakowania i jednostki ładunkowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T060000Z
@@ -862,7 +862,7 @@ DTSTART:20251112T070000Z
 DTEND:20251112T083500Z
 SUMMARY:CL. (ć)
 LOCATION:0.7/16
-DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T070000Z
@@ -1355,6 +1355,13 @@ LOCATION:0.22/16
 DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250121T165000Z
+DTEND:20250121T182500Z
+SUMMARY:CL. (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250128T165000Z
 DTEND:20250128T182500Z
 SUMMARY:WF (w)
@@ -1381,6 +1388,13 @@ DTEND:20251113T083500Z
 SUMMARY:Złd (ć)
 LOCATION:
 DESCRIPTION:Zarządzanie łańcuchem dostaw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr Zamelek Paulina
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T070000Z
+DTEND:20251120T083500Z
+SUMMARY:SMa (L)
+LOCATION:0.6/16
+DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T070000Z
@@ -1429,7 +1443,7 @@ DTSTART:20251016T075000Z
 DTEND:20251016T092500Z
 SUMMARY:OiJŁ (ć)
 LOCATION:0.21/16
-DESCRIPTION:Opakowania i jednostki ładunkowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Oziębło Małgorzata
+DESCRIPTION:Opakowania i jednostki ładunkowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T085000Z
@@ -1523,13 +1537,6 @@ LOCATION:
 DESCRIPTION:Zarządzanie łańcuchem dostaw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr Zamelek Paulina
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T104000Z
-DTEND:20251120T121500Z
-SUMMARY:OiJŁ (ć)
-LOCATION:0.21/16
-DESCRIPTION:Opakowania i jednostki ładunkowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Oziębło Małgorzata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251127T104000Z
 DTEND:20251127T121500Z
 SUMMARY:BeSL (ć)
@@ -1614,11 +1621,11 @@ LOCATION:
 DESCRIPTION:Zarządzanie łańcuchem dostaw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr Zamelek Paulina
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251127T123000Z
-DTEND:20251127T140500Z
+DTSTART:20251120T123000Z
+DTEND:20251120T140500Z
 SUMMARY:SMa (L)
-LOCATION:0.6/16
-DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+LOCATION:
+DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T123000Z
@@ -1682,13 +1689,6 @@ DTEND:20251030T163500Z
 SUMMARY:OiJŁ (w)
 LOCATION:0.24/135
 DESCRIPTION:Opakowania i jednostki ładunkowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Oziębło Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251127T150000Z
-DTEND:20251127T163500Z
-SUMMARY:SMa (L)
-LOCATION:0.6/16
-DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T150000Z

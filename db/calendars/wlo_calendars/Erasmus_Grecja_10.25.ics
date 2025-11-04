@@ -4,13 +4,6 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Erasmus_Grecja_10.25
 BEGIN:VEVENT
-DTSTART:20251124T070000Z
-DTEND:20251124T083500Z
-SUMMARY:WaS (L)
-LOCATION:0.6/16
-DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251208T070000Z
 DTEND:20251208T083500Z
 SUMMARY:InMa (ć)
@@ -44,13 +37,6 @@ DTEND:20251117T102500Z
 SUMMARY:LSiA (ć)
 LOCATION:2/22
 DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr hab. inż. Augustyn Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251124T085000Z
-DTEND:20251124T102500Z
-SUMMARY:WaS (L)
-LOCATION:0.6/16
-DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T085000Z
@@ -109,18 +95,11 @@ LOCATION:2/22
 DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251124T104000Z
-DTEND:20251124T121500Z
-SUMMARY:WaS (ć)
-LOCATION:0.7/16
-DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251201T104000Z
 DTEND:20251201T121500Z
 SUMMARY:WaS (L)
 LOCATION:2/22
-DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T113000Z
@@ -148,7 +127,7 @@ DTSTART:20251201T123000Z
 DTEND:20251201T140500Z
 SUMMARY:WaS (L)
 LOCATION:2/22
-DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T123000Z
@@ -170,13 +149,6 @@ DTEND:20251028T083500Z
 SUMMARY:LoC (w)
 LOCATION:1.21/135
 DESCRIPTION:Logistics Costs\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Zamelek Paulina
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251125T070000Z
-DTEND:20251125T083500Z
-SUMMARY:WaS (ć)
-LOCATION:37/158
-DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T070000Z
@@ -344,7 +316,7 @@ DTSTART:20251217T104000Z
 DTEND:20251217T121500Z
 SUMMARY:WaS (L)
 LOCATION:4.17a/135
-DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T123000Z
@@ -379,7 +351,7 @@ DTSTART:20251217T123000Z
 DTEND:20251217T140500Z
 SUMMARY:WaS (L)
 LOCATION:4.17a/135
-DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T150000Z
@@ -394,6 +366,13 @@ DTEND:20251126T163500Z
 SUMMARY:Knf 
 LOCATION:
 DESCRIPTION:Knf\nRodzaj zajęć: -\nNumer zajęć: 10/14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T150000Z
+DTEND:20251203T163500Z
+SUMMARY:WaS (ć)
+LOCATION:25/26; 25/26; 25/26 Grz
+DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T150000Z
@@ -457,6 +436,13 @@ DTEND:20251211T083500Z
 SUMMARY:InMa (ć)
 LOCATION:4.23/135
 DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr inż. Rykała Magdalena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251218T070000Z
+DTEND:20251218T083500Z
+SUMMARY:WaS (ć)
+LOCATION:25/26; 25/26; 25/26 Grz
+DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T075000Z
@@ -718,6 +704,13 @@ LOCATION:9/158
 DESCRIPTION:Inventory management\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251107T104000Z
+DTEND:20251107T121500Z
+SUMMARY:WaS (L)
+LOCATION:1a/28
+DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251121T104000Z
 DTEND:20251121T121500Z
 SUMMARY:InMa (ć)
@@ -737,6 +730,13 @@ DTEND:20251219T121500Z
 SUMMARY:WaS (P)
 LOCATION:25/26; 25/26; 25/26 Grz
 DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Projekt\nNumer zajęć: 3/3\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251107T123000Z
+DTEND:20251107T140500Z
+SUMMARY:WaS (L)
+LOCATION:1a/28
+DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T123000Z
