@@ -1026,13 +1026,6 @@ LOCATION:1.7/16
 DESCRIPTION:Moduł materiałowy służby mundurowej - ZWSI RON\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251119T150000Z
-DTEND:20251119T163500Z
-SUMMARY:PoTe (w)
-LOCATION:aula/135
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Nagrabski Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251126T150000Z
 DTEND:20251126T163500Z
 SUMMARY:PoMa (S)
@@ -1205,7 +1198,7 @@ DTSTART:20251127T085000Z
 DTEND:20251127T102500Z
 SUMMARY:PoTe (w)
 LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Nagrabski Dariusz
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T085000Z
@@ -1213,13 +1206,6 @@ DTEND:20251204T102500Z
 SUMMARY:PoMa (ć)
 LOCATION:0.6/16
 DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: prof. WAT Kler Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T085000Z
-DTEND:20251211T102500Z
-SUMMARY:PoTe (ć)
-LOCATION:0.21/16
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T085000Z
@@ -1464,7 +1450,7 @@ DTSTART:20251009T140000Z
 DTEND:20251009T153500Z
 SUMMARY:PoTe (w)
 LOCATION:aula/135
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Nagrabski Dariusz
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T140000Z
@@ -1479,6 +1465,13 @@ DTEND:20251106T163500Z
 SUMMARY:MrBr (L)
 LOCATION:7/23a
 DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251113T150000Z
+DTEND:20251113T163500Z
+SUMMARY:PoTe (ć)
+LOCATION:2/22
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T150000Z
@@ -1535,6 +1528,13 @@ DTEND:20250115T182500Z
 SUMMARY:Pmiuwl (P)
 LOCATION:0.21/16; 0.22/16
 DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Projekt\nNumer zajęć: 6/8\nProwadzący: dr inż. Torzewski Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250122T165000Z
+DTEND:20250122T182500Z
+SUMMARY:PoTe (w)
+LOCATION:301/S
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T174000Z

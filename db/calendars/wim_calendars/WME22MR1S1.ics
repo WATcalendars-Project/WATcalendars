@@ -272,13 +272,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T070000Z
 DTEND:20251118T083500Z
-SUMMARY:Zśie (ć)
-LOCATION:1/ 19
-DESCRIPTION:Zarządzanie środowiskiem i ekologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251125T070000Z
-DTEND:20251125T083500Z
 SUMMARY:SiNBM (w)
 LOCATION:5/ 20
 DESCRIPTION:Standaryzacja i normalizacja w budowie maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
@@ -344,7 +337,7 @@ DTSTART:20251118T085000Z
 DTEND:20251118T102500Z
 SUMMARY:Zśie (ć)
 LOCATION:1/ 19
-DESCRIPTION:Zarządzanie środowiskiem i ekologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
+DESCRIPTION:Zarządzanie środowiskiem i ekologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T085000Z
@@ -415,6 +408,13 @@ DTEND:20251111T121500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 10/21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251118T104000Z
+DTEND:20251118T121500Z
+SUMMARY:Zśie (ć)
+LOCATION:1/ 19
+DESCRIPTION:Zarządzanie środowiskiem i ekologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T104000Z

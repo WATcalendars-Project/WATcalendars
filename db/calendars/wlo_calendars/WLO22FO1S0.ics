@@ -389,6 +389,13 @@ LOCATION:1.27/135
 DESCRIPTION:Gospodarka mieniem\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251124T150000Z
+DTEND:20251124T163500Z
+SUMMARY:PoM (S)
+LOCATION:0.21/16
+DESCRIPTION:Podsystem medyczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr inż. Nagrabski Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251208T150000Z
 DTEND:20251208T163500Z
 SUMMARY:DZSŚB (ć)
@@ -879,6 +886,13 @@ LOCATION:0.24/135
 DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251105T070000Z
+DTEND:20251105T083500Z
+SUMMARY:CL. (w)
+LOCATION:3.16/135
+DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251119T070000Z
 DTEND:20251119T083500Z
 SUMMARY:ZŻWAT (i)
@@ -1156,7 +1170,7 @@ DTSTART:20251022T113000Z
 DTEND:20251022T130500Z
 SUMMARY:CL. (w)
 LOCATION:0.24/135
-DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T123000Z
@@ -1663,13 +1677,6 @@ LOCATION:
 DESCRIPTION:Zarządzanie łańcuchem dostaw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr Zamelek Paulina
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T123000Z
-DTEND:20251120T140500Z
-SUMMARY:PoM (S)
-LOCATION:1.27/135
-DESCRIPTION:Podsystem medyczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr inż. Nagrabski Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251127T123000Z
 DTEND:20251127T140500Z
 SUMMARY:KL. (ć)
@@ -2011,13 +2018,6 @@ DTEND:20251114T140500Z
 SUMMARY:CL. (ć)
 LOCATION:1.27/135
 DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251114T150000Z
-DTEND:20251114T163500Z
-SUMMARY:CL. (w)
-LOCATION:0.24/135
-DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T060000Z

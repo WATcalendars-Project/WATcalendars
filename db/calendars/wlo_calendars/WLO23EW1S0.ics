@@ -1299,13 +1299,6 @@ LOCATION:0.22/16
 DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251119T150000Z
-DTEND:20251119T163500Z
-SUMMARY:PoTe (w)
-LOCATION:aula/135
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Nagrabski Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251126T150000Z
 DTEND:20251126T163500Z
 SUMMARY:HME (ć)
@@ -1411,13 +1404,6 @@ LOCATION:0.21/16
 DESCRIPTION:Podsystem medyczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T070000Z
-DTEND:20251120T083500Z
-SUMMARY:PoM (ć)
-LOCATION:0.21/16
-DESCRIPTION:Podsystem medyczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr inż. Nagrabski Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251127T070000Z
 DTEND:20251127T083500Z
 SUMMARY:PoM (S)
@@ -1444,6 +1430,13 @@ DTEND:20251218T083500Z
 SUMMARY:SLwLSZ (L)
 LOCATION:1.7/16
 DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: płk mgr inż. Górski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T070000Z
+DTEND:20250108T083500Z
+SUMMARY:PoM (ć)
+LOCATION:1/22
+DESCRIPTION:Podsystem medyczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T070000Z
@@ -1506,7 +1499,7 @@ DTSTART:20251127T085000Z
 DTEND:20251127T102500Z
 SUMMARY:PoTe (w)
 LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Nagrabski Dariusz
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T085000Z
@@ -1758,7 +1751,7 @@ DTSTART:20251009T140000Z
 DTEND:20251009T153500Z
 SUMMARY:PoTe (w)
 LOCATION:aula/135
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Nagrabski Dariusz
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T140000Z
@@ -1885,6 +1878,13 @@ DTEND:20250108T182500Z
 SUMMARY:Fip (ć)
 LOCATION:1.15/16
 DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/11\nProwadzący: dr hab. Kożuch Artur Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250122T165000Z
+DTEND:20250122T182500Z
+SUMMARY:PoTe (w)
+LOCATION:301/S
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T060000Z
