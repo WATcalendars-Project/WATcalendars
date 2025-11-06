@@ -599,6 +599,13 @@ LOCATION:
 DESCRIPTION:Ing\nRodzaj zajęć: -\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250107T104000Z
+DTEND:20250107T121500Z
+SUMMARY:Mat2 (w)
+LOCATION:315 S
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1/17\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251203T123000Z
 DTEND:20251203T140500Z
 SUMMARY:M1 (ć)
@@ -844,6 +851,13 @@ LOCATION:1 55A
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Łyszkowski Radosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251211T085000Z
+DTEND:20251211T102500Z
+SUMMARY:Mat2 (w)
+LOCATION:315 S
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2/17\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251002T094000Z
 DTEND:20251002T111500Z
 SUMMARY:M1 (w)
@@ -904,56 +918,49 @@ DTSTART:20251127T104000Z
 DTEND:20251127T121500Z
 SUMMARY:Mat2 (w)
 LOCATION:aF S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1/17\nProwadzący: dr Klepczarek Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T104000Z
-DTEND:20251204T121500Z
-SUMMARY:Mat2 (w)
-LOCATION:aF S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2/17\nProwadzący: dr Klepczarek Michał
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3/17\nProwadzący: dr Klepczarek Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T104000Z
 DTEND:20251211T121500Z
 SUMMARY:Mat2 (w)
 LOCATION:aF S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3/17\nProwadzący: dr Klepczarek Michał
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 4/17\nProwadzący: dr Klepczarek Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T104000Z
 DTEND:20251218T121500Z
 SUMMARY:Mat2 (w)
 LOCATION:aF S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 4/17\nProwadzący: dr Klepczarek Michał
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 5/17\nProwadzący: dr Klepczarek Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T104000Z
 DTEND:20250108T121500Z
 SUMMARY:Mat2 (w)
 LOCATION:aF S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 5/17\nProwadzący: dr Klepczarek Michał
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 6/17\nProwadzący: dr Klepczarek Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T104000Z
 DTEND:20250115T121500Z
 SUMMARY:Mat2 (w)
 LOCATION:aF S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 6/17\nProwadzący: dr Klepczarek Michał
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 7/17\nProwadzący: dr Klepczarek Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T104000Z
 DTEND:20250122T121500Z
 SUMMARY:Mat2 (w)
 LOCATION:aF S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 7/17\nProwadzący: dr Klepczarek Michał
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 8/17\nProwadzący: dr Klepczarek Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250129T104000Z
 DTEND:20250129T121500Z
 SUMMARY:Mat2 (w)
 LOCATION:aF S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 8/17\nProwadzący: dr Klepczarek Michał
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 9/17\nProwadzący: dr Klepczarek Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T113000Z
@@ -1121,7 +1128,7 @@ DTSTART:20251121T085000Z
 DTEND:20251121T102500Z
 SUMMARY:Mat2 (w)
 LOCATION:aF S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 9/17\nProwadzący: dr Klepczarek Michał
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 10/17\nProwadzący: dr Klepczarek Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T085000Z
@@ -1196,13 +1203,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T104000Z
 DTEND:20251121T121500Z
-SUMMARY:Mat2 (w)
-LOCATION:aF S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 10/17\nProwadzący: dr Klepczarek Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251205T104000Z
-DTEND:20251205T121500Z
 SUMMARY:Mat2 (w)
 LOCATION:aF S
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 11/17\nProwadzący: dr Klepczarek Michał

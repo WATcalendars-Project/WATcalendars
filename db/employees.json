@@ -2802,8 +2802,8 @@
     },
     {
       "degree": "dr inż.",
-      "is_new": true,
-      "name": "Paweł Augustynowicz [NEW]"
+      "is_new": false,
+      "name": "Paweł Augustynowicz"
     },
     {
       "degree": "dr inż.",
@@ -4512,6 +4512,11 @@
     },
     {
       "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Kinga Szost [NEW]"
+    },
+    {
+      "degree": "mgr inż.",
       "is_new": false,
       "name": "Klaudia Kozon"
     },
@@ -5612,10 +5617,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-11-05T01:42:33.277776",
-    "last_updated_readable": "2025-11-05 01:42:33",
+    "last_updated": "2025-11-06T01:42:07.497023",
+    "last_updated_readable": "2025-11-06 01:42:07",
     "new_employees_count": 1,
     "scraper_version": "1.0",
-    "total_employees": 1122
+    "total_employees": 1123
   }
 }
