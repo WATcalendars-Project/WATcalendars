@@ -60,13 +60,6 @@ LOCATION:233 S
 DESCRIPTION:Zarządzanie logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. Miszalski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250117T070000Z
-DTEND:20250117T083500Z
-SUMMARY:pz (ć)
-LOCATION:4.17b/135
-DESCRIPTION:Psychologia w zarządzaniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Tarapata Jolanta
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250124T070000Z
 DTEND:20250124T083500Z
 SUMMARY:Nkz (ć)
@@ -142,6 +135,13 @@ DTEND:20250110T102500Z
 SUMMARY:ZL (ć)
 LOCATION:233 S
 DESCRIPTION:Zarządzanie logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr hab. inż. Miszalski Włodzimierz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T085000Z
+DTEND:20250117T102500Z
+SUMMARY:pz (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Psychologia w zarządzaniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Tarapata Jolanta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T085000Z

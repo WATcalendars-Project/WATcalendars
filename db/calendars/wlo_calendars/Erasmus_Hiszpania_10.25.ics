@@ -371,22 +371,15 @@ BEGIN:VEVENT
 DTSTART:20251113T070000Z
 DTEND:20251113T083500Z
 SUMMARY:InMa (ć)
-LOCATION:255 S
+LOCATION:25/26; 25/26; 25/26; 25/26 MR
 DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr inż. Rykała Magdalena
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T070000Z
-DTEND:20251120T083500Z
-SUMMARY:InMa (ć)
-LOCATION:4.23/135
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T070000Z
 DTEND:20251211T083500Z
 SUMMARY:InMa (ć)
 LOCATION:4.23/135
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr inż. Rykała Magdalena
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T070000Z
@@ -413,29 +406,22 @@ BEGIN:VEVENT
 DTSTART:20251113T085000Z
 DTEND:20251113T102500Z
 SUMMARY:InMa (ć)
-LOCATION:255 S
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr inż. Rykała Magdalena
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T085000Z
-DTEND:20251120T102500Z
-SUMMARY:InMa (ć)
-LOCATION:4.23/135
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr inż. Rykała Magdalena
+LOCATION:25/26; 25/26; 25/26; 25/26 MR
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T085000Z
 DTEND:20251211T102500Z
 SUMMARY:InMa (ć)
 LOCATION:4.23/135
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr inż. Rykała Magdalena
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T085000Z
 DTEND:20251218T102500Z
 SUMMARY:InMa (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr inż. Rykała Magdalena
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T085000Z
@@ -627,6 +613,20 @@ LOCATION:29/158
 DESCRIPTION:Supply chain management\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr Zamelek Paulina
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251212T085000Z
+DTEND:20251212T102500Z
+SUMMARY:InMa (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr inż. Rykała Magdalena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T085000Z
+DTEND:20250109T102500Z
+SUMMARY:InMa (ć)
+LOCATION:4.23/135
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr inż. Rykała Magdalena
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251031T104000Z
 DTEND:20251031T121500Z
 SUMMARY:InMa (w)
@@ -634,10 +634,10 @@ LOCATION:9/158
 DESCRIPTION:Inventory management\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251121T104000Z
-DTEND:20251121T121500Z
+DTSTART:20251219T123000Z
+DTEND:20251219T140500Z
 SUMMARY:InMa (ć)
-LOCATION:1.15/16
+LOCATION:25/26; 25/26; 25/26; 25/26 MR
 DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 END:VCALENDAR

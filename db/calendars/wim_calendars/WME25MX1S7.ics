@@ -424,17 +424,10 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 16/140
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250112T123000Z
-DTEND:20250112T140500Z
-SUMMARY:Ceh (ć)
-LOCATION:20/ 68
-DESCRIPTION:Combustion engines and hybrid propulsion systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż Polak Filip
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250119T123000Z
 DTEND:20250119T140500Z
 SUMMARY:HS* (w)
-LOCATION:16/ 68
+LOCATION:3/ 54
 DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr hab. inż. Łopatka Marian
 END:VEVENT
 BEGIN:VEVENT
@@ -589,14 +582,14 @@ DTSTART:20251209T070000Z
 DTEND:20251209T083500Z
 SUMMARY:Ceh (ć)
 LOCATION:20/ 68
-DESCRIPTION:Combustion engines and hybrid propulsion systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż Polak Filip
+DESCRIPTION:Combustion engines and hybrid propulsion systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż Polak Filip
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T070000Z
 DTEND:20251216T083500Z
 SUMMARY:Ceh (ć)
 LOCATION:20/ 68
-DESCRIPTION:Combustion engines and hybrid propulsion systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż Polak Filip
+DESCRIPTION:Combustion engines and hybrid propulsion systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż Polak Filip
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T070000Z
@@ -805,7 +798,7 @@ BEGIN:VEVENT
 DTSTART:20250120T104000Z
 DTEND:20250120T121500Z
 SUMMARY:HS* (ć)
-LOCATION:16/ 68
+LOCATION:42/ 54A
 DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr hab. inż. Łopatka Marian
 END:VEVENT
 BEGIN:VEVENT
@@ -895,9 +888,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T123000Z
 DTEND:20250113T140500Z
-SUMMARY:HS* (ć)
-LOCATION:16/ 68
-DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr hab. inż. Łopatka Marian
+SUMMARY:Ceh (ć)
+LOCATION:20/ 68
+DESCRIPTION:Combustion engines and hybrid propulsion systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż Polak Filip
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T123000Z
@@ -910,7 +903,7 @@ BEGIN:VEVENT
 DTSTART:20250127T123000Z
 DTEND:20250127T140500Z
 SUMMARY:HS* (Zp.)
-LOCATION:16/ 68
+LOCATION:42/ 54A
 DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Łopatka Marian
 END:VEVENT
 BEGIN:VEVENT
@@ -1112,9 +1105,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T070000Z
 DTEND:20251217T083500Z
-SUMMARY:HS* (ć)
-LOCATION:16/ 68
-DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr hab. inż. Łopatka Marian
+SUMMARY:HS* (w)
+LOCATION:105/ 54
+DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr hab. inż. Łopatka Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T070000Z
@@ -1135,14 +1128,14 @@ DTSTART:20250107T070000Z
 DTEND:20250107T083500Z
 SUMMARY:HS* (ć)
 LOCATION:16/ 68
-DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr hab. inż. Łopatka Marian
+DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr hab. inż. Łopatka Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250114T070000Z
 DTEND:20250114T083500Z
 SUMMARY:HS* (ć)
 LOCATION:16/ 68
-DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr hab. inż. Łopatka Marian
+DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr hab. inż. Łopatka Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T075000Z
@@ -1173,39 +1166,32 @@ LOCATION:20/ 68
 DESCRIPTION:Combustion engines and hybrid propulsion systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251119T085000Z
-DTEND:20251119T102500Z
-SUMMARY:HS* (w)
-LOCATION:105/ 54
-DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr hab. inż. Łopatka Marian
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251126T085000Z
 DTEND:20251126T102500Z
 SUMMARY:HS* (ć)
 LOCATION:16/ 68
-DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr hab. inż. Łopatka Marian
+DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr hab. inż. Łopatka Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T085000Z
 DTEND:20251203T102500Z
 SUMMARY:HS* (ć)
 LOCATION:16/ 68
-DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr hab. inż. Łopatka Marian
+DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr hab. inż. Łopatka Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T085000Z
 DTEND:20251210T102500Z
 SUMMARY:HS* (ć)
 LOCATION:16/ 68
-DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr hab. inż. Łopatka Marian
+DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr hab. inż. Łopatka Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T085000Z
 DTEND:20251217T102500Z
 SUMMARY:HS* (ć)
 LOCATION:16/ 68
-DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr hab. inż. Łopatka Marian
+DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr hab. inż. Łopatka Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T085000Z
@@ -1248,6 +1234,13 @@ DTEND:20251105T121500Z
 SUMMARY:Ceh (L)
 LOCATION:9/ 68
 DESCRIPTION:Combustion engines and hybrid propulsion systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T104000Z
+DTEND:20251217T121500Z
+SUMMARY:HS* (ć)
+LOCATION:16/ 68
+DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr hab. inż. Łopatka Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T104000Z
@@ -1479,6 +1472,13 @@ DTEND:20250101T102500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 74/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250115T085000Z
+DTEND:20250115T102500Z
+SUMMARY:HS* (ć)
+LOCATION:42/ 54A
+DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr hab. inż. Łopatka Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T094000Z

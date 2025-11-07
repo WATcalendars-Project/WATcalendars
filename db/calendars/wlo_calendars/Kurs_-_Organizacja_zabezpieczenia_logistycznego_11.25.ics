@@ -452,18 +452,11 @@ LOCATION:25 JKu
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: ppłk dr inż. Kurek Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251203T123000Z
-DTEND:20251203T140500Z
-SUMMARY:WF (ć)
-LOCATION:25 JKu
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: ppłk dr inż. Kurek Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251210T123000Z
 DTEND:20251210T140500Z
 SUMMARY:WF (ć)
 LOCATION:25 JKu
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: ppłk dr inż. Kurek Jarosław
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: ppłk dr inż. Kurek Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T150000Z
@@ -478,6 +471,13 @@ DTEND:20251203T163500Z
 SUMMARY:FWoj.OG (S)
 LOCATION:2.21/135
 DESCRIPTION:Funkcjonowanie wojskowego oddziału gospodarczego\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Żuchowski Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251106T070000Z
+DTEND:20251106T083500Z
+SUMMARY:WF (ć)
+LOCATION:25 JKu
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: ppłk dr inż. Kurek Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T070000Z
@@ -753,18 +753,11 @@ LOCATION:1/22
 DESCRIPTION:Ćwiczenie grupowe - Zabezpieczenie logistyczne BZ w obronie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251107T123000Z
-DTEND:20251107T140500Z
-SUMMARY:ESL (w)
-LOCATION:2.21/135
-DESCRIPTION:Eksploatacja sprzętu logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Sieczka Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251114T123000Z
 DTEND:20251114T140500Z
 SUMMARY:ESL (w)
 LOCATION:2.21/135
-DESCRIPTION:Eksploatacja sprzętu logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Sieczka Jarosław
+DESCRIPTION:Eksploatacja sprzętu logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T123000Z
@@ -772,6 +765,13 @@ DTEND:20251121T140500Z
 SUMMARY:SIWDL (w)
 LOCATION:1/22
 DESCRIPTION:Systemy informatyczne wspierające działania logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr hab. Byłeń Slawomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251128T123000Z
+DTEND:20251128T140500Z
+SUMMARY:ESL (w)
+LOCATION:2.21/135
+DESCRIPTION:Eksploatacja sprzętu logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T123000Z

@@ -1169,8 +1169,8 @@ BEGIN:VEVENT
 DTSTART:20251106T165000Z
 DTEND:20251106T182500Z
 SUMMARY:W 
-LOCATION:25AX; 3S; 1 Trz
-DESCRIPTION:W\nRodzaj zajęć: -\nNumer zajęć: 20/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Skulska Joanna; dr hab. Wereda Wioletta; prof. dr hab. Kościelecki Lech; dr Karczewski Edward; dr Kowalski Wawrzyniec
+LOCATION:A.1.3/135
+DESCRIPTION:W\nRodzaj zajęć: -\nNumer zajęć: 20/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Skulska Joanna; dr hab. Wereda Wioletta; prof. dr hab. Kościelecki Lech; dr Karczewski Edward; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T165000Z
@@ -1178,13 +1178,6 @@ DTEND:20251113T182500Z
 SUMMARY:SYS. 
 LOCATION:1.10/16; 1.9/16
 DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 16/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; mgr Dąbrowska - Świder Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T165000Z
-DTEND:20251120T182500Z
-SUMMARY:W 
-LOCATION:0.22/16
-DESCRIPTION:W\nRodzaj zajęć: -\nNumer zajęć: 21/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Skulska Joanna; dr hab. Wereda Wioletta; prof. dr hab. Kościelecki Lech; dr Karczewski Edward; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T165000Z
@@ -1219,14 +1212,14 @@ DTSTART:20251023T174000Z
 DTEND:20251023T191500Z
 SUMMARY:W 
 LOCATION:1.27/135
-DESCRIPTION:W\nRodzaj zajęć: -\nNumer zajęć: 22/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Skulska Joanna; dr hab. Wereda Wioletta; prof. dr hab. Kościelecki Lech; dr Karczewski Edward; mgr Trzcińska Luiza
+DESCRIPTION:W\nRodzaj zajęć: -\nNumer zajęć: 21/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Skulska Joanna; dr hab. Wereda Wioletta; prof. dr hab. Kościelecki Lech; dr Karczewski Edward; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T184000Z
 DTEND:20251106T201500Z
 SUMMARY:W 
-LOCATION:25AX; 3S; 1 Trz
-DESCRIPTION:W\nRodzaj zajęć: -\nNumer zajęć: 23/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Skulska Joanna; dr hab. Wereda Wioletta; prof. dr hab. Kościelecki Lech; dr Karczewski Edward; dr Kowalski Wawrzyniec
+LOCATION:A.1.3/135
+DESCRIPTION:W\nRodzaj zajęć: -\nNumer zajęć: 22/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Skulska Joanna; dr hab. Wereda Wioletta; prof. dr hab. Kościelecki Lech; dr Karczewski Edward; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T184000Z
@@ -1234,13 +1227,6 @@ DTEND:20251113T201500Z
 SUMMARY:SYS. 
 LOCATION:1.10/16; 1.9/16
 DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 18/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; mgr Dąbrowska - Świder Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T184000Z
-DTEND:20251120T201500Z
-SUMMARY:W 
-LOCATION:0.22/16
-DESCRIPTION:W\nRodzaj zajęć: -\nNumer zajęć: 24/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Skulska Joanna; dr hab. Wereda Wioletta; prof. dr hab. Kościelecki Lech; dr Karczewski Edward; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T184000Z
@@ -1334,6 +1320,13 @@ LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Podstawy ekonomii\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251212T104000Z
+DTEND:20251212T121500Z
+SUMMARY:W 
+LOCATION:25AX; 3S; 1 Trz
+DESCRIPTION:W\nRodzaj zajęć: -\nNumer zajęć: 23/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Skulska Joanna; dr hab. Wereda Wioletta; prof. dr hab. Kościelecki Lech; dr Karczewski Edward; dr Kowalski Wawrzyniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251219T104000Z
 DTEND:20251219T121500Z
 SUMMARY:SYS. 
@@ -1374,6 +1367,13 @@ DTEND:20251121T140500Z
 SUMMARY:Pi (w)
 LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Podstawy informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr inż. Pokorski Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T123000Z
+DTEND:20251212T140500Z
+SUMMARY:W 
+LOCATION:1.27/135
+DESCRIPTION:W\nRodzaj zajęć: -\nNumer zajęć: 24/26\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Skulska Joanna; dr hab. Wereda Wioletta; prof. dr hab. Kościelecki Lech; dr Karczewski Edward; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T123000Z

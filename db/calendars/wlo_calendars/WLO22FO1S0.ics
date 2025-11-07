@@ -1306,6 +1306,13 @@ LOCATION:0.22/16
 DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250128T150000Z
+DTEND:20250128T163500Z
+SUMMARY:SMa (S)
+LOCATION:A.1.3/135
+DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251008T155000Z
 DTEND:20251008T172500Z
 SUMMARY:WF (w)
@@ -1796,13 +1803,6 @@ LOCATION:0.21/16
 DESCRIPTION:Opakowania i jednostki ładunkowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251128T070000Z
-DTEND:20251128T083500Z
-SUMMARY:SMa (S)
-LOCATION:0.19/135
-DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: ppłk dr inż. Grzelak Małgorzata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251205T070000Z
 DTEND:20251205T083500Z
 SUMMARY:CL. (ć)
@@ -1878,13 +1878,6 @@ DTEND:20251121T102500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23/30\nProwadzący: mgr Piórkowski Mariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251128T085000Z
-DTEND:20251128T102500Z
-SUMMARY:SMa (S)
-LOCATION:0.19/135
-DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T085000Z
@@ -1983,6 +1976,13 @@ DTEND:20251121T121500Z
 SUMMARY:Złd (ć)
 LOCATION:1.27/135
 DESCRIPTION:Zarządzanie łańcuchem dostaw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr Zamelek Paulina
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251205T104000Z
+DTEND:20251205T121500Z
+SUMMARY:SMa (S)
+LOCATION:9/158
+DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T113000Z

@@ -160,9 +160,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T085000Z
 DTEND:20250124T102500Z
-SUMMARY:Mv. (ć)
-LOCATION:PTW/28 HANGAR
-DESCRIPTION:Military vehicles\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Papliński Krzysztof
+SUMMARY:PADL (S)
+LOCATION:1.10/16
+DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T085000Z
@@ -233,6 +233,13 @@ DTEND:20251220T121500Z
 SUMMARY:CoO (ć)
 LOCATION:A.1.3/135
 DESCRIPTION:Controlling Operacyjny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: inż. Kochański Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T104000Z
+DTEND:20250110T121500Z
+SUMMARY:Mv. (ć)
+LOCATION:PTW/28 HANGAR
+DESCRIPTION:Military vehicles\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Papliński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250117T104000Z
@@ -506,13 +513,6 @@ DTEND:20250117T182500Z
 SUMMARY:Psp. (P)
 LOCATION:0.7/16
 DESCRIPTION:Projektowanie systemów i procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250124T165000Z
-DTEND:20250124T182500Z
-SUMMARY:PADL (S)
-LOCATION:0.6/16
-DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T174000Z
