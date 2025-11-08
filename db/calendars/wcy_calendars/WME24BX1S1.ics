@@ -1355,20 +1355,6 @@ LOCATION:032 S
 DESCRIPTION:Metrologia i systemy pomiarowe - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T070000Z
-DTEND:20251120T083500Z
-SUMMARY:Fiz.C (w)
-LOCATION:51/ 62
-DESCRIPTION:Fizjologia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T085000Z
-DTEND:20251120T102500Z
-SUMMARY:Pele (ć)
-LOCATION:54/ 62
-DESCRIPTION:Podstawy elektromagnetyzmu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251120T104000Z
 DTEND:20251120T121500Z
 SUMMARY:Mt 1 (ć)
@@ -1444,6 +1430,13 @@ DTEND:20251124T083500Z
 SUMMARY:Sck (w)
 LOCATION:52/ 62
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251124T085000Z
+DTEND:20251124T102500Z
+SUMMARY:Pele (ć)
+LOCATION:52/ 62
+DESCRIPTION:Podstawy elektromagnetyzmu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T104000Z
@@ -1541,7 +1534,7 @@ DTSTART:20251127T070000Z
 DTEND:20251127T083500Z
 SUMMARY:Fiz.C (w)
 LOCATION:51/ 62
-DESCRIPTION:Fizjologia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: -
+DESCRIPTION:Fizjologia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T085000Z
@@ -1626,6 +1619,13 @@ DTEND:20251130T163500Z
 SUMMARY:XWDM (ć)
 LOCATION:5/ 20
 DESCRIPTION:XWprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251201T085000Z
+DTEND:20251201T102500Z
+SUMMARY:Fiz.C (w)
+LOCATION:8/ 62
+DESCRIPTION:Fizjologia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T123000Z

@@ -64,14 +64,14 @@ DTSTART:20251208T070000Z
 DTEND:20251208T083500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T070000Z
 DTEND:20251215T083500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T070000Z
@@ -197,14 +197,14 @@ DTSTART:20251208T085000Z
 DTEND:20251208T102500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T085000Z
 DTEND:20251215T102500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T085000Z
@@ -1800,7 +1800,7 @@ DTSTART:20251105T104000Z
 DTEND:20251105T121500Z
 SUMMARY:Ptr (L)
 LOCATION:4c/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T104000Z
@@ -2506,8 +2506,8 @@ BEGIN:VEVENT
 DTSTART:20251113T104000Z
 DTEND:20251113T121500Z
 SUMMARY:Ptr (L)
-LOCATION:4c/ 19; 3d/ 19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6
+LOCATION:4c/ 19
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T104000Z
@@ -2774,6 +2774,13 @@ DTEND:20251113T163500Z
 SUMMARY:Mfd (P)
 LOCATION:09/ 54A
 DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Projekt\nNumer zajęć: 7/7\nProwadzący: dr inż. Muszyński Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T150000Z
+DTEND:20251120T163500Z
+SUMMARY:Ptr (L)
+LOCATION:3d/ 19
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T150000Z
