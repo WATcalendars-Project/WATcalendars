@@ -648,18 +648,11 @@ LOCATION:
 DESCRIPTION:Zarządzanie wartością firmy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr Krzepicka Alicja
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251221T085000Z
-DTEND:20251221T102500Z
-SUMMARY:Mm (ć)
-LOCATION:255 S
-DESCRIPTION:Marketing międzynarodowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Krzepicka Alicja
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250111T085000Z
 DTEND:20250111T102500Z
 SUMMARY:Mm (ć)
 LOCATION:5.17/135
-DESCRIPTION:Marketing międzynarodowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Krzepicka Alicja
+DESCRIPTION:Marketing międzynarodowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Krzepicka Alicja
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250118T085000Z
@@ -706,8 +699,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T104000Z
 DTEND:20251116T121500Z
+SUMMARY:Mm (ć)
+LOCATION:0.7/16
+DESCRIPTION:Marketing międzynarodowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Krzepicka Alicja
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251123T104000Z
+DTEND:20251123T121500Z
 SUMMARY:Sd. (S)
-LOCATION:31/158
+LOCATION:1.17/16
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 15/18
 END:VEVENT
 BEGIN:VEVENT
@@ -770,7 +770,7 @@ BEGIN:VEVENT
 DTSTART:20251116T123000Z
 DTEND:20251116T140500Z
 SUMMARY:Sd. (S)
-LOCATION:0.22/16
+LOCATION:1.15/16
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 17/18
 END:VEVENT
 BEGIN:VEVENT

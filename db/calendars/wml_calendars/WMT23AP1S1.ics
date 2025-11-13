@@ -25,13 +25,6 @@ LOCATION:1663
 DESCRIPTION:Sterowanie w systemach mechatronicznych 2\nRodzaj zajęć: -\nProwadzący: dr inż. Siwek Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251117T070000Z
-DTEND:20251117T083500Z
-SUMMARY:Psme 
-LOCATION:4763
-DESCRIPTION:Programowanie systemów mechatronicznych\nRodzaj zajęć: -\nProwadzący: mgr inż. Borys Szymon
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251124T070000Z
 DTEND:20251124T083500Z
 SUMMARY:SwSm2 
@@ -214,6 +207,13 @@ LOCATION:
 DESCRIPTION:Niezawodność i eksploatacja urzadzeń mechatronicznych\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250119T104000Z
+DTEND:20250119T121500Z
+SUMMARY:Psme 
+LOCATION:4763
+DESCRIPTION:Programowanie systemów mechatronicznych\nRodzaj zajęć: -\nProwadzący: mgr inż. Borys Szymon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250126T104000Z
 DTEND:20250126T121500Z
 SUMMARY:Psme 
@@ -333,13 +333,6 @@ LOCATION:
 DESCRIPTION:Zarządzanie i organizacja pracy\nRodzaj zajęć: -\nProwadzący: mgr inż. Pustkowski Remigiusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251118T070000Z
-DTEND:20251118T083500Z
-SUMMARY:Psme 
-LOCATION:4763
-DESCRIPTION:Programowanie systemów mechatronicznych\nRodzaj zajęć: -\nProwadzący: mgr inż. Borys Szymon
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251125T070000Z
 DTEND:20251125T083500Z
 SUMMARY:Nieu 
@@ -405,13 +398,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T085000Z
 DTEND:20251104T102500Z
-SUMMARY:Psme 
-LOCATION:4763
-DESCRIPTION:Programowanie systemów mechatronicznych\nRodzaj zajęć: -\nProwadzący: mgr inż. Borys Szymon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251118T085000Z
-DTEND:20251118T102500Z
 SUMMARY:Psme 
 LOCATION:4763
 DESCRIPTION:Programowanie systemów mechatronicznych\nRodzaj zajęć: -\nProwadzący: mgr inż. Borys Szymon
@@ -632,6 +618,20 @@ DTEND:20251126T083500Z
 SUMMARY:Ziop 
 LOCATION:
 DESCRIPTION:Zarządzanie i organizacja pracy\nRodzaj zajęć: -\nProwadzący: mgr inż. Pustkowski Remigiusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T070000Z
+DTEND:20251203T083500Z
+SUMMARY:Psme 
+LOCATION:4763
+DESCRIPTION:Programowanie systemów mechatronicznych\nRodzaj zajęć: -\nProwadzący: mgr inż. Borys Szymon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251210T070000Z
+DTEND:20251210T083500Z
+SUMMARY:Psme 
+LOCATION:4763
+DESCRIPTION:Programowanie systemów mechatronicznych\nRodzaj zajęć: -\nProwadzący: mgr inż. Borys Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T070000Z
@@ -905,6 +905,13 @@ DTEND:20250107T140500Z
 SUMMARY:MIE 
 LOCATION:
 DESCRIPTION:Miernictwo\nRodzaj zajęć: -\nProwadzący: mgr.inż. Miernik Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250114T123000Z
+DTEND:20250114T140500Z
+SUMMARY:Psme 
+LOCATION:1663
+DESCRIPTION:Programowanie systemów mechatronicznych\nRodzaj zajęć: -\nProwadzący: mgr inż. Borys Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250121T123000Z
@@ -1271,11 +1278,25 @@ LOCATION:
 DESCRIPTION:Optoelektronika\nRodzaj zajęć: -\nProwadzący: dr inż. Prokopiuk Artur
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251212T070000Z
+DTEND:20251212T083500Z
+SUMMARY:Psme 
+LOCATION:4763
+DESCRIPTION:Programowanie systemów mechatronicznych\nRodzaj zajęć: -\nProwadzący: mgr inż. Borys Szymon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251219T070000Z
 DTEND:20251219T083500Z
 SUMMARY:Opto 
 LOCATION:
 DESCRIPTION:Optoelektronika\nRodzaj zajęć: -\nProwadzący: dr inż. Prokopiuk Artur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T070000Z
+DTEND:20250109T083500Z
+SUMMARY:SwSm2 
+LOCATION:1663
+DESCRIPTION:Sterowanie w systemach mechatronicznych 2\nRodzaj zajęć: -\nProwadzący: dr inż. Siwek Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250116T070000Z
@@ -1348,6 +1369,13 @@ LOCATION:
 DESCRIPTION:Optoelektronika\nRodzaj zajęć: -\nProwadzący: dr inż. Prokopiuk Artur
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250109T085000Z
+DTEND:20250109T102500Z
+SUMMARY:SwSm2 
+LOCATION:1663
+DESCRIPTION:Sterowanie w systemach mechatronicznych 2\nRodzaj zajęć: -\nProwadzący: dr inż. Siwek Michał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250116T085000Z
 DTEND:20250116T102500Z
 SUMMARY:Opto 
@@ -1367,13 +1395,6 @@ DTEND:20251003T111500Z
 SUMMARY:MIE 
 LOCATION:
 DESCRIPTION:Miernictwo\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251107T104000Z
-DTEND:20251107T121500Z
-SUMMARY:SwSm2 
-LOCATION:1663
-DESCRIPTION:Sterowanie w systemach mechatronicznych 2\nRodzaj zajęć: -\nProwadzący: dr inż. Siwek Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T104000Z
@@ -1444,20 +1465,6 @@ DTEND:20251003T130500Z
 SUMMARY:Skau 
 LOCATION:
 DESCRIPTION:Sieci komunikacyjne w automatyce\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251107T123000Z
-DTEND:20251107T140500Z
-SUMMARY:SwSm2 
-LOCATION:1663
-DESCRIPTION:Sterowanie w systemach mechatronicznych 2\nRodzaj zajęć: -\nProwadzący: dr inż. Siwek Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251114T123000Z
-DTEND:20251114T140500Z
-SUMMARY:Psme 
-LOCATION:4763
-DESCRIPTION:Programowanie systemów mechatronicznych\nRodzaj zajęć: -\nProwadzący: mgr inż. Borys Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T123000Z

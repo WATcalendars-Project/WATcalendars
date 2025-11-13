@@ -333,13 +333,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 8/84
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251115T085000Z
-DTEND:20251115T102500Z
-SUMMARY:Par (ć)
-LOCATION:6/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251122T085000Z
 DTEND:20251122T102500Z
 SUMMARY:Par (w)
@@ -610,7 +603,7 @@ DTSTART:20251025T113000Z
 DTEND:20251025T130500Z
 SUMMARY:Par (ć)
 LOCATION:6/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251101T123000Z
@@ -1556,6 +1549,13 @@ DTEND:20251109T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 62/84
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T123000Z
+DTEND:20251116T140500Z
+SUMMARY:Par (ć)
+LOCATION:6/ 23a
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T123000Z

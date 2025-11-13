@@ -312,13 +312,6 @@ LOCATION:0.6/16
 DESCRIPTION:Zarzadzanie logistyczne w przedsiebiorstwie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251115T070000Z
-DTEND:20251115T083500Z
-SUMMARY:Zlwp (w)
-LOCATION:0.23/16
-DESCRIPTION:Zarzadzanie logistyczne w przedsiebiorstwie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Owczarek Paulina
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251122T070000Z
 DTEND:20251122T083500Z
 SUMMARY:Zlwp (ć)
@@ -358,7 +351,7 @@ DTSTART:20251025T075000Z
 DTEND:20251025T092500Z
 SUMMARY:Zlwp (w)
 LOCATION:1.16/16
-DESCRIPTION:Zarzadzanie logistyczne w przedsiebiorstwie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Owczarek Paulina
+DESCRIPTION:Zarzadzanie logistyczne w przedsiebiorstwie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251108T085000Z
@@ -688,6 +681,13 @@ DTEND:20251109T121500Z
 SUMMARY:CL. (ć)
 LOCATION:0.7/16
 DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251123T104000Z
+DTEND:20251123T121500Z
+SUMMARY:Zlwp (w)
+LOCATION:0.7/16
+DESCRIPTION:Zarzadzanie logistyczne w przedsiebiorstwie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T104000Z

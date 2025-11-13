@@ -942,13 +942,6 @@ LOCATION:9/ 62
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/19\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251112T085000Z
-DTEND:20251112T102500Z
-SUMMARY:Wzp (ć)
-LOCATION:8/ 62
-DESCRIPTION:Wybrane zagadnienia prawa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251113T104000Z
 DTEND:20251113T121500Z
 SUMMARY:WF (ć)
@@ -1103,20 +1096,6 @@ LOCATION:108/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251121T104000Z
-DTEND:20251121T121500Z
-SUMMARY:Wzp (w)
-LOCATION:3/ 54
-DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T123000Z
-DTEND:20251121T140500Z
-SUMMARY:Wzp (w)
-LOCATION:3/ 54
-DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251124T070000Z
 DTEND:20251124T083500Z
 SUMMARY:WF (ć)
@@ -1157,6 +1136,13 @@ DTEND:20251125T121500Z
 SUMMARY:M1 (ć)
 LOCATION:8/ 62
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/19\nProwadzący: mgr Robert Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T085000Z
+DTEND:20251126T102500Z
+SUMMARY:Wzp (ć)
+LOCATION:6/ 23a
+DESCRIPTION:Wybrane zagadnienia prawa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T104000Z
@@ -1451,6 +1437,20 @@ DTEND:20251209T121500Z
 SUMMARY:M1 (ć)
 LOCATION:109/ 54
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/19\nProwadzący: mgr Robert Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T123000Z
+DTEND:20251209T140500Z
+SUMMARY:Wzp (w)
+LOCATION:301/ S
+DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T150000Z
+DTEND:20251209T163500Z
+SUMMARY:Wzp (w)
+LOCATION:301/ S
+DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T085000Z

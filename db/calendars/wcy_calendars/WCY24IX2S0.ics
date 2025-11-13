@@ -3224,13 +3224,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 42/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251113T085000Z
-DTEND:20251113T102500Z
-SUMMARY:Tik (ć)
-LOCATION:101 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251113T104000Z
 DTEND:20251113T121500Z
 SUMMARY:Ja (ć)
@@ -3500,8 +3493,8 @@ BEGIN:VEVENT
 DTSTART:20251125T085000Z
 DTEND:20251125T102500Z
 SUMMARY:Tik (ć)
-LOCATION:101 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Leszek Grad
+LOCATION:218 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T104000Z
@@ -3627,7 +3620,7 @@ DTSTART:20251201T070000Z
 DTEND:20251201T083500Z
 SUMMARY:Tik (ć)
 LOCATION:106 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T085000Z
@@ -3697,7 +3690,7 @@ DTSTART:20251203T070000Z
 DTEND:20251203T083500Z
 SUMMARY:Tik (ć)
 LOCATION:203 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T085000Z
@@ -4075,7 +4068,7 @@ DTSTART:20251219T123000Z
 DTEND:20251219T140500Z
 SUMMARY:Tik (ć)
 LOCATION:101 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T070000Z
@@ -4251,6 +4244,13 @@ DTEND:20260113T102500Z
 SUMMARY:Tgs (ć)
 LOCATION:309 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260113T123000Z
+DTEND:20260113T140500Z
+SUMMARY:Tik (ć)
+LOCATION:233 S
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T150000Z

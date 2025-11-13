@@ -543,6 +543,13 @@ LOCATION:1.15/16
 DESCRIPTION:Statystyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. Ćwik Bogdan
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250121T123000Z
+DTEND:20250121T140500Z
+SUMMARY:PODST. 
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: dr Kościelecki Tomasz; dr Chyrzyński Ryszard; dr Wojnarowska Szpucha Sylwia; mgr Dąbrowska - Świder Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251022T140000Z
 DTEND:20251022T153500Z
 SUMMARY:ZŚN (w)
@@ -568,7 +575,7 @@ DTSTART:20251210T150000Z
 DTEND:20251210T163500Z
 SUMMARY:PODST. 
 LOCATION:5.27/135
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: dr Kościelecki Tomasz; dr Chyrzyński Ryszard; dr Wojnarowska Szpucha Sylwia; mgr Dąbrowska - Świder Małgorzata
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr Kościelecki Tomasz; dr Chyrzyński Ryszard; dr Wojnarowska Szpucha Sylwia; mgr Dąbrowska - Świder Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T150000Z
@@ -631,7 +638,7 @@ DTSTART:20251210T165000Z
 DTEND:20251210T182500Z
 SUMMARY:PODST. 
 LOCATION:5.27/135
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr Kościelecki Tomasz; dr Chyrzyński Ryszard; dr Wojnarowska Szpucha Sylwia; mgr Dąbrowska - Świder Małgorzata
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr Kościelecki Tomasz; dr Chyrzyński Ryszard; dr Wojnarowska Szpucha Sylwia; mgr Dąbrowska - Świder Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T165000Z
@@ -827,7 +834,7 @@ DTSTART:20251218T104000Z
 DTEND:20251218T121500Z
 SUMMARY:PODST. 
 LOCATION:3.16/135
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr Kościelecki Tomasz; dr Chyrzyński Ryszard; dr Stawarz Paweł; mgr Trzcińska Luiza
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: dr Kościelecki Tomasz; dr Chyrzyński Ryszard; dr Stawarz Paweł; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T104000Z
@@ -867,13 +874,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T123000Z
 DTEND:20251106T140500Z
-SUMMARY:PODST. 
-LOCATION:5.27/135
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: dr Kościelecki Tomasz; dr Chyrzyński Ryszard; dr Wojnarowska Szpucha Sylwia; mgr Dąbrowska - Świder Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251113T123000Z
-DTEND:20251113T140500Z
 SUMMARY:PODST. 
 LOCATION:5.27/135
 DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 10/15\nProwadzący: dr Kościelecki Tomasz; dr Chyrzyński Ryszard; dr Wojnarowska Szpucha Sylwia; mgr Dąbrowska - Świder Małgorzata
@@ -940,6 +940,13 @@ DTEND:20251016T153500Z
 SUMMARY:Syst.zarz. 
 LOCATION:3.16/135
 DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 11/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251106T150000Z
+DTEND:20251106T163500Z
+SUMMARY:ZŚN (ć)
+LOCATION:255 S
+DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T150000Z
@@ -1016,7 +1023,7 @@ DTSTART:20251211T165000Z
 DTEND:20251211T182500Z
 SUMMARY:ZŚN (ć)
 LOCATION:1/22
-DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Adamkiewicz Jakub
+DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T165000Z
@@ -1177,7 +1184,7 @@ DTSTART:20250130T123000Z
 DTEND:20250130T140500Z
 SUMMARY:ZŚN (ć)
 LOCATION:0.19/135
-DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Adamkiewicz Jakub
+DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T140000Z
@@ -1227,13 +1234,6 @@ DTEND:20251219T163500Z
 SUMMARY:EkO (w)
 LOCATION:0.28/135
 DESCRIPTION:Ekonomika obronna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Kościelecki Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250130T150000Z
-DTEND:20250130T163500Z
-SUMMARY:ZŚN (ć)
-LOCATION:0.19/135
-DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T155000Z

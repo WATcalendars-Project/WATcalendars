@@ -74,13 +74,6 @@ LOCATION:13036
 DESCRIPTION:Podstawy programowania\nRodzaj zajęć: -\nProwadzący: dr inż. Rochala Zdzisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251117T085000Z
-DTEND:20251117T102500Z
-SUMMARY:Psnrl 
-LOCATION:
-DESCRIPTION:Projektowanie struktur nośnych robotów latających\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251124T085000Z
 DTEND:20251124T102500Z
 SUMMARY:Psnrl 
@@ -182,7 +175,7 @@ BEGIN:VEVENT
 DTSTART:20250126T104000Z
 DTEND:20250126T121500Z
 SUMMARY:Pplc 
-LOCATION:1863
+LOCATION:
 DESCRIPTION:Programowanie sterowników PLC\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
@@ -504,7 +497,7 @@ BEGIN:VEVENT
 DTSTART:20251210T085000Z
 DTEND:20251210T102500Z
 SUMMARY:Pplc 
-LOCATION:1963
+LOCATION:
 DESCRIPTION:Programowanie sterowników PLC\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
@@ -518,7 +511,7 @@ BEGIN:VEVENT
 DTSTART:20250107T085000Z
 DTEND:20250107T102500Z
 SUMMARY:Pplc 
-LOCATION:1863
+LOCATION:
 DESCRIPTION:Programowanie sterowników PLC\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
@@ -562,6 +555,13 @@ DTEND:20251126T121500Z
 SUMMARY:Elszb 
 LOCATION:14136
 DESCRIPTION:Elektroenergetyka, systemy zasilania i baterie\nRodzaj zajęć: -\nProwadzący: mgr inż. Sabady Miłosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T104000Z
+DTEND:20251203T121500Z
+SUMMARY:Psnrl 
+LOCATION:
+DESCRIPTION:Projektowanie struktur nośnych robotów latających\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T104000Z
@@ -686,7 +686,7 @@ BEGIN:VEVENT
 DTSTART:20251119T150000Z
 DTEND:20251119T163500Z
 SUMMARY:Pplc 
-LOCATION:4663
+LOCATION:
 DESCRIPTION:Programowanie sterowników PLC\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
@@ -994,7 +994,7 @@ BEGIN:VEVENT
 DTSTART:20250122T123000Z
 DTEND:20250122T140500Z
 SUMMARY:Pplc 
-LOCATION:4663
+LOCATION:
 DESCRIPTION:Programowanie sterowników PLC\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
@@ -1288,7 +1288,7 @@ BEGIN:VEVENT
 DTSTART:20251205T123000Z
 DTEND:20251205T140500Z
 SUMMARY:Pplc 
-LOCATION:4663
+LOCATION:
 DESCRIPTION:Programowanie sterowników PLC\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT

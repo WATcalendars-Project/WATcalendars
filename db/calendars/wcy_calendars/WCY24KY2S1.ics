@@ -2594,13 +2594,6 @@ LOCATION:19 36
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251112T085000Z
-DTEND:20251112T102500Z
-SUMMARY:Tik (ć)
-LOCATION:106 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251112T104000Z
 DTEND:20251112T121500Z
 SUMMARY:Sm (w)
@@ -2877,8 +2870,8 @@ BEGIN:VEVENT
 DTSTART:20251126T123000Z
 DTEND:20251126T140500Z
 SUMMARY:Tik (ć)
-LOCATION:205 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Leszek Grad
+LOCATION:011 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T070000Z
@@ -2941,7 +2934,7 @@ DTSTART:20251201T123000Z
 DTEND:20251201T140500Z
 SUMMARY:Tik (ć)
 LOCATION:101 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T150000Z
@@ -3053,7 +3046,7 @@ DTSTART:20251208T104000Z
 DTEND:20251208T121500Z
 SUMMARY:Tik (ć)
 LOCATION:101 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T123000Z
@@ -3221,7 +3214,7 @@ DTSTART:20251218T070000Z
 DTEND:20251218T083500Z
 SUMMARY:Tik (ć)
 LOCATION:101 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T104000Z
@@ -3334,6 +3327,13 @@ DTEND:20260112T163500Z
 SUMMARY:REZ (Inne)
 LOCATION:-
 DESCRIPTION:Rezerwacja\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260113T104000Z
+DTEND:20260113T121500Z
+SUMMARY:Tik (ć)
+LOCATION:233 S
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T123000Z

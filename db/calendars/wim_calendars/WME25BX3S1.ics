@@ -963,6 +963,13 @@ LOCATION:8/ 62
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/19
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251209T123000Z
+DTEND:20251209T140500Z
+SUMMARY:Wzp (w)
+LOCATION:301/ S
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Kobielski Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251216T123000Z
 DTEND:20251216T140500Z
 SUMMARY:WDM (ć)
@@ -1010,6 +1017,13 @@ DTEND:20251111T163500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 45/126
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T150000Z
+DTEND:20251209T163500Z
+SUMMARY:Wzp (w)
+LOCATION:301/ S
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T150000Z
@@ -1215,18 +1229,18 @@ LOCATION:2/ 23a
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251112T085000Z
-DTEND:20251112T102500Z
-SUMMARY:Wzp (ć)
-LOCATION:8/ 62
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr Kobielski Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251119T085000Z
 DTEND:20251119T102500Z
 SUMMARY:M1 (ć)
 LOCATION:8/ 62
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T085000Z
+DTEND:20251126T102500Z
+SUMMARY:Wzp (ć)
+LOCATION:6/ 23a
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T085000Z
@@ -1303,7 +1317,7 @@ DTSTART:20251008T094000Z
 DTEND:20251008T111500Z
 SUMMARY:Wzp (w)
 LOCATION:01/ 54A
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Kobielski Piotr
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T094000Z
@@ -1387,7 +1401,7 @@ DTSTART:20251008T113000Z
 DTEND:20251008T130500Z
 SUMMARY:Wzp (w)
 LOCATION:01/ 54A
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Kobielski Piotr
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T123000Z
@@ -2087,7 +2101,7 @@ DTSTART:20251212T085000Z
 DTEND:20251212T102500Z
 SUMMARY:Wzp (w)
 LOCATION:3/ 54
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Kobielski Piotr
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T085000Z
@@ -2129,7 +2143,7 @@ DTSTART:20251024T094000Z
 DTEND:20251024T111500Z
 SUMMARY:Wzp (w)
 LOCATION:01/ 54A
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Kobielski Piotr
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T104000Z
@@ -2151,13 +2165,6 @@ DTEND:20251114T121500Z
 SUMMARY:Wdi. (L)
 LOCATION:57/ 62
 DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: dr inż. Konarzewski Marcin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T104000Z
-DTEND:20251121T121500Z
-SUMMARY:Wzp (w)
-LOCATION:3/ 54
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251128T104000Z
@@ -2213,7 +2220,7 @@ DTSTART:20251024T113000Z
 DTEND:20251024T130500Z
 SUMMARY:Wzp (w)
 LOCATION:01/ 54A
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Kobielski Piotr
+DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T123000Z
@@ -2235,13 +2242,6 @@ DTEND:20251114T140500Z
 SUMMARY:PGI (ć)
 LOCATION:108/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T123000Z
-DTEND:20251121T140500Z
-SUMMARY:Wzp (w)
-LOCATION:3/ 54
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Kobielski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251128T123000Z
