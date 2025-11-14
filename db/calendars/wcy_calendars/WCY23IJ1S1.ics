@@ -599,20 +599,6 @@ LOCATION:226 S
 DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251118T150000Z
-DTEND:20251118T163500Z
-SUMMARY:NET (L)
-LOCATION:224 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Kamil Małysz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251118T165000Z
-DTEND:20251118T182500Z
-SUMMARY:NET (L)
-LOCATION:224 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Kamil Małysz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251119T070000Z
 DTEND:20251119T083500Z
 SUMMARY:Gk (L)
@@ -855,14 +841,14 @@ DTSTART:20251203T150000Z
 DTEND:20251203T163500Z
 SUMMARY:NET (L)
 LOCATION:226 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T165000Z
 DTEND:20251203T182500Z
 SUMMARY:NET (L)
 LOCATION:226 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T070000Z
@@ -919,6 +905,20 @@ DTEND:20251208T140500Z
 SUMMARY:Hd (L)
 LOCATION:239 S
 DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T150000Z
+DTEND:20251208T163500Z
+SUMMARY:NET (L)
+LOCATION:236 S
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T165000Z
+DTEND:20251208T182500Z
+SUMMARY:NET (L)
+LOCATION:236 S
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T104000Z
@@ -1040,13 +1040,6 @@ LOCATION:204 65
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260107T085000Z
-DTEND:20260107T102500Z
-SUMMARY:Hd (L)
-LOCATION:239 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Stefan Rozmus
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260107T104000Z
 DTEND:20260107T121500Z
 SUMMARY:PSy (L)
@@ -1108,6 +1101,13 @@ DTEND:20260114T201500Z
 SUMMARY:Pjf (L)
 LOCATION:224 S
 DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260115T085000Z
+DTEND:20260115T102500Z
+SUMMARY:Hd (L)
+LOCATION:223 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T104000Z

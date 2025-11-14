@@ -1257,20 +1257,6 @@ LOCATION:114 57
 DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T150000Z
-DTEND:20251120T163500Z
-SUMMARY:WdI (L)
-LOCATION:226 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: mgr inż. Marcin Perka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T165000Z
-DTEND:20251120T182500Z
-SUMMARY:WdI (L)
-LOCATION:226 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: mgr inż. Marcin Perka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251120T184000Z
 DTEND:20251120T201500Z
 SUMMARY:- (S.Sz.W.)
@@ -1514,6 +1500,20 @@ DTEND:20251203T140500Z
 SUMMARY:Mat I (ć)
 LOCATION:205 65
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/19\nProwadzący: mgr inż. Stanisław Zoń
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T150000Z
+DTEND:20251203T163500Z
+SUMMARY:WdI (L)
+LOCATION:228 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T165000Z
+DTEND:20251203T182500Z
+SUMMARY:WdI (L)
+LOCATION:228 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T070000Z

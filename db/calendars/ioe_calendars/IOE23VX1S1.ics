@@ -118,16 +118,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T104000Z
 DTEND:20251117T121500Z
-SUMMARY:MpL (w)
+SUMMARY:Pspe (w)
 LOCATION:204 136
-DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251124T104000Z
-DTEND:20251124T121500Z
-SUMMARY:Pmuo (L)
-LOCATION:311 136
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Podstawy spektroskopii\nRodzaj zajęć: Wykład\nNumer zajęć: 1/11\nProwadzący: mgr inż. Musiałek Filip
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T104000Z
@@ -148,7 +141,7 @@ DTSTART:20251215T104000Z
 DTEND:20251215T121500Z
 SUMMARY:Pmuo (L)
 LOCATION:311 136
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250112T104000Z
@@ -172,20 +165,6 @@ LOCATION:16 45
 DESCRIPTION:Podstawy mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr hab. inż. (prof. ucz.) Kopczyński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251117T123000Z
-DTEND:20251117T140500Z
-SUMMARY:Pmuo (ć)
-LOCATION:120 144
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251124T123000Z
-DTEND:20251124T140500Z
-SUMMARY:Pmuo (L)
-LOCATION:311 136
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251201T123000Z
 DTEND:20251201T140500Z
 SUMMARY:Srr (w)
@@ -204,7 +183,7 @@ DTSTART:20251215T123000Z
 DTEND:20251215T140500Z
 SUMMARY:Pmuo (L)
 LOCATION:311 136
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250119T123000Z
@@ -219,6 +198,20 @@ DTEND:20250126T140500Z
 SUMMARY:Pmi (L)
 LOCATION:16 45
 DESCRIPTION:Podstawy mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr hab. inż. (prof. ucz.) Kopczyński Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251201T150000Z
+DTEND:20251201T163500Z
+SUMMARY:Pmuo (w)
+LOCATION:120 144
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T150000Z
+DTEND:20251208T163500Z
+SUMMARY:Pmuo (ć)
+LOCATION:120 144
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T060000Z
@@ -291,6 +284,13 @@ LOCATION:16 45
 DESCRIPTION:Podstawy mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr hab. inż. (prof. ucz.) Kopczyński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250120T070000Z
+DTEND:20250120T083500Z
+SUMMARY:Pmuo (L)
+LOCATION:311 136
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251014T075000Z
 DTEND:20251014T092500Z
 SUMMARY:Ttp (w)
@@ -361,11 +361,18 @@ LOCATION:16 45
 DESCRIPTION:Podstawy mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr hab. inż. (prof. ucz.) Kopczyński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250120T085000Z
+DTEND:20250120T102500Z
+SUMMARY:Pmuo (L)
+LOCATION:311 136
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251014T094000Z
 DTEND:20251014T111500Z
 SUMMARY:Pmuo (w)
 LOCATION:120 144
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T094000Z
@@ -387,13 +394,6 @@ DTEND:20251104T121500Z
 SUMMARY:Pmi (w)
 LOCATION:12 46
 DESCRIPTION:Podstawy mikrokontrolerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. (prof. ucz.) Kopczyński Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251118T104000Z
-DTEND:20251118T121500Z
-SUMMARY:Pmuo (ć)
-LOCATION:120 144
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T104000Z
@@ -421,7 +421,7 @@ DTSTART:20251216T104000Z
 DTEND:20251216T121500Z
 SUMMARY:Pspe (w)
 LOCATION:204 136
-DESCRIPTION:Podstawy spektroskopii\nRodzaj zajęć: Wykład\nNumer zajęć: 1/11\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Podstawy spektroskopii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T104000Z
@@ -463,7 +463,7 @@ DTSTART:20251021T113000Z
 DTEND:20251021T130500Z
 SUMMARY:MpL (w)
 LOCATION:204 136
-DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T123000Z
@@ -477,28 +477,21 @@ DTSTART:20251104T123000Z
 DTEND:20251104T140500Z
 SUMMARY:MpL (w)
 LOCATION:204 136
-DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251118T123000Z
-DTEND:20251118T140500Z
-SUMMARY:Pspe (w)
-LOCATION:204 136
-DESCRIPTION:Podstawy spektroskopii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: mgr inż. Musiałek Filip
+DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T123000Z
 DTEND:20251125T140500Z
 SUMMARY:Pmuo (ć)
 LOCATION:120 144
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T123000Z
 DTEND:20251202T140500Z
 SUMMARY:Pmuo (ć)
 LOCATION:120 144
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T123000Z
@@ -652,7 +645,7 @@ DTSTART:20251210T104000Z
 DTEND:20251210T121500Z
 SUMMARY:MpL (w)
 LOCATION:204 136
-DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T104000Z
@@ -716,6 +709,13 @@ DTEND:20251119T163500Z
 SUMMARY:Pmi (L)
 LOCATION:16 45
 DESCRIPTION:Podstawy mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr hab. inż. (prof. ucz.) Kopczyński Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T150000Z
+DTEND:20251126T163500Z
+SUMMARY:Pmuo (ć)
+LOCATION:120 144
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T165000Z
@@ -869,7 +869,7 @@ DTSTART:20251127T085000Z
 DTEND:20251127T102500Z
 SUMMARY:MpL (w)
 LOCATION:204 136
-DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T085000Z
@@ -967,7 +967,7 @@ DTSTART:20251211T104000Z
 DTEND:20251211T121500Z
 SUMMARY:Pmuo (w)
 LOCATION:120 144
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T104000Z
@@ -1002,7 +1002,7 @@ DTSTART:20251106T123000Z
 DTEND:20251106T140500Z
 SUMMARY:MpL (w)
 LOCATION:204 136
-DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T123000Z
@@ -1023,7 +1023,7 @@ DTSTART:20251204T123000Z
 DTEND:20251204T140500Z
 SUMMARY:MpL (w)
 LOCATION:204 136
-DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T123000Z
@@ -1170,7 +1170,7 @@ DTSTART:20251017T075000Z
 DTEND:20251017T092500Z
 SUMMARY:MpL (w)
 LOCATION:204 136
-DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T075000Z
@@ -1261,14 +1261,14 @@ DTSTART:20251003T094000Z
 DTEND:20251003T111500Z
 SUMMARY:MpL (w)
 LOCATION:204 136
-DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T094000Z
 DTEND:20251010T111500Z
 SUMMARY:MpL (w)
 LOCATION:204 136
-DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T094000Z
@@ -1366,14 +1366,14 @@ DTSTART:20251003T113000Z
 DTEND:20251003T130500Z
 SUMMARY:Pmuo (w)
 LOCATION:120 144
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T113000Z
 DTEND:20251010T130500Z
 SUMMARY:Pmuo (w)
 LOCATION:120 144
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T113000Z
@@ -1387,28 +1387,28 @@ DTSTART:20251024T113000Z
 DTEND:20251024T130500Z
 SUMMARY:Pmuo (w)
 LOCATION:120 144
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T123000Z
 DTEND:20251031T140500Z
 SUMMARY:Pmuo (w)
 LOCATION:120 144
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T123000Z
 DTEND:20251107T140500Z
 SUMMARY:Pmuo (w)
 LOCATION:120 144
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T123000Z
 DTEND:20251121T140500Z
-SUMMARY:Pmuo (w)
-LOCATION:120 144
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+SUMMARY:MpL (w)
+LOCATION:204 136
+DESCRIPTION:Metrologia promieniowania laserowego\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T123000Z

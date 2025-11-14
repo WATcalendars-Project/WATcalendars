@@ -2001,9 +2001,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T085000Z
 DTEND:20251211T102500Z
-SUMMARY:Mup (ć)
+SUMMARY:Mpm. (w)
 LOCATION:09/ 54A
-DESCRIPTION:Maszyny i urządzenia przeładunkowe i transportu bliskiego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
+DESCRIPTION:Maszyny do prac mostowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T085000Z
@@ -2038,7 +2038,7 @@ DTSTART:20250115T085000Z
 DTEND:20250115T102500Z
 SUMMARY:Mup (ć)
 LOCATION:09/ 54A
-DESCRIPTION:Maszyny i urządzenia przeładunkowe i transportu bliskiego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
+DESCRIPTION:Maszyny i urządzenia przeładunkowe i transportu bliskiego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T085000Z
@@ -2157,7 +2157,7 @@ DTSTART:20250115T104000Z
 DTEND:20250115T121500Z
 SUMMARY:Mup (ć)
 LOCATION:09/ 54A
-DESCRIPTION:Maszyny i urządzenia przeładunkowe i transportu bliskiego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
+DESCRIPTION:Maszyny i urządzenia przeładunkowe i transportu bliskiego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T104000Z
@@ -2185,7 +2185,7 @@ DTSTART:20251016T113000Z
 DTEND:20251016T130500Z
 SUMMARY:Mpm. (w)
 LOCATION:3/ 54
-DESCRIPTION:Maszyny do prac mostowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+DESCRIPTION:Maszyny do prac mostowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T113000Z
@@ -2235,6 +2235,13 @@ DTEND:20251204T140500Z
 SUMMARY:Wow. (ć)
 LOCATION:120/ 54
 DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T123000Z
+DTEND:20251211T140500Z
+SUMMARY:Mup (ć)
+LOCATION:42/ 54A
+DESCRIPTION:Maszyny i urządzenia przeładunkowe i transportu bliskiego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T123000Z
@@ -2297,7 +2304,7 @@ DTSTART:20251016T140000Z
 DTEND:20251016T153500Z
 SUMMARY:Mpm. (w)
 LOCATION:3/ 54
-DESCRIPTION:Maszyny do prac mostowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+DESCRIPTION:Maszyny do prac mostowych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T140000Z
@@ -2332,7 +2339,7 @@ DTSTART:20251120T150000Z
 DTEND:20251120T163500Z
 SUMMARY:Mpm. (w)
 LOCATION:42/ 54A
-DESCRIPTION:Maszyny do prac mostowych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+DESCRIPTION:Maszyny do prac mostowych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T150000Z
@@ -2347,13 +2354,6 @@ DTEND:20251204T163500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 12/48
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T150000Z
-DTEND:20251211T163500Z
-SUMMARY:Mpm. (w)
-LOCATION:109/ 54
-DESCRIPTION:Maszyny do prac mostowych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T150000Z

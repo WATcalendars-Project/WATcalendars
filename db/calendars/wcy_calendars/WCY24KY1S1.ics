@@ -2839,13 +2839,6 @@ LOCATION:39 36
 DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251117T104000Z
-DTEND:20251117T121500Z
-SUMMARY:Tik (L)
-LOCATION:106 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr Jerzy Dorobisz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251117T123000Z
 DTEND:20251117T140500Z
 SUMMARY:Sm (w)
@@ -3312,7 +3305,7 @@ DTSTART:20251210T085000Z
 DTEND:20251210T102500Z
 SUMMARY:Tik (L)
 LOCATION:121 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr Jerzy Dorobisz
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T104000Z
@@ -3369,6 +3362,13 @@ DTEND:20251216T083500Z
 SUMMARY:F2 (ć)
 LOCATION:39 36
 DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251216T085000Z
+DTEND:20251216T102500Z
+SUMMARY:Tik (L)
+LOCATION:224 S
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T123000Z
