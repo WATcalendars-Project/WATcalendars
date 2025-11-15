@@ -188,9 +188,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T104000Z
 DTEND:20251215T121500Z
-SUMMARY:Ed (w)
+SUMMARY:Ekw (w)
 LOCATION:20 46
-DESCRIPTION:Eksploracja danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Hoffmann Romuald
+DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/18\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250112T104000Z
@@ -225,7 +225,7 @@ DTSTART:20251027T123000Z
 DTEND:20251027T140500Z
 SUMMARY:Ekw (w)
 LOCATION:20 46
-DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/18\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
+DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/18\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T123000Z
@@ -258,9 +258,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T123000Z
 DTEND:20251215T140500Z
-SUMMARY:Ed (L)
+SUMMARY:Ed (w)
 LOCATION:223 S
-DESCRIPTION:Eksploracja danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Hoffmann Romuald
+DESCRIPTION:Eksploracja danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Hoffmann Romuald
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250112T123000Z
@@ -298,6 +298,13 @@ LOCATION:4 41
 DESCRIPTION:Układy cyfrowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/16\nProwadzący: dr hab. inż. (prof. ucz.) Kwiatkowski Jacek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251215T150000Z
+DTEND:20251215T163500Z
+SUMMARY:Ed (L)
+LOCATION:223 S
+DESCRIPTION:Eksploracja danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Hoffmann Romuald
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251014T060000Z
 DTEND:20251014T073500Z
 SUMMARY:Ucy (w)
@@ -309,7 +316,7 @@ DTSTART:20251104T070000Z
 DTEND:20251104T083500Z
 SUMMARY:Ekw (w)
 LOCATION:20 46
-DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/18\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
+DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/18\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T070000Z
@@ -414,14 +421,14 @@ DTSTART:20251001T060000Z
 DTEND:20251001T073500Z
 SUMMARY:Ekw (w)
 LOCATION:20 46
-DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/18\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
+DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/18\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T060000Z
 DTEND:20251008T073500Z
 SUMMARY:Ekw (w)
 LOCATION:20 46
-DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/18\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
+DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/18\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T060000Z
@@ -457,13 +464,6 @@ DTEND:20251210T083500Z
 SUMMARY:Ed (w)
 LOCATION:223 S
 DESCRIPTION:Eksploracja danych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Hoffmann Romuald
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T070000Z
-DTEND:20251217T083500Z
-SUMMARY:Ekw (w)
-LOCATION:20 46
-DESCRIPTION:Elektronika kwantowa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/18\nProwadzący: prof. dr hab. inż. Żendzian Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T070000Z

@@ -935,6 +935,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 41/84
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251125T123000Z
+DTEND:20251125T140500Z
+SUMMARY:Prmi (L)
+LOCATION:
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Berczyński Robert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251223T123000Z
 DTEND:20251223T140500Z
 SUMMARY:I 
@@ -1183,7 +1190,7 @@ BEGIN:VEVENT
 DTSTART:20251217T070000Z
 DTEND:20251217T083500Z
 SUMMARY:App (L)
-LOCATION:2/ 23a
+LOCATION:3/ 23a
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9
 END:VEVENT
 BEGIN:VEVENT
@@ -1281,7 +1288,7 @@ BEGIN:VEVENT
 DTSTART:20251217T085000Z
 DTEND:20251217T102500Z
 SUMMARY:App (L)
-LOCATION:2/ 23a
+LOCATION:3/ 23a
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9
 END:VEVENT
 BEGIN:VEVENT
@@ -1394,7 +1401,7 @@ DTSTART:20251210T104000Z
 DTEND:20251210T121500Z
 SUMMARY:Prmi (L)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T104000Z
@@ -1485,7 +1492,7 @@ DTSTART:20251210T123000Z
 DTEND:20251210T140500Z
 SUMMARY:Prmi (L)
 LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Berczyński Robert
+DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T123000Z
@@ -1773,13 +1780,6 @@ DTEND:20251030T102500Z
 SUMMARY:Cps (L)
 LOCATION:
 DESCRIPTION:Cyfrowe przetwarzanie sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T085000Z
-DTEND:20251120T102500Z
-SUMMARY:Prmi (L)
-LOCATION:
-DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Berczyński Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T085000Z

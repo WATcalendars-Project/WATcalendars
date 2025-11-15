@@ -175,7 +175,7 @@ BEGIN:VEVENT
 DTSTART:20251124T085000Z
 DTEND:20251124T102500Z
 SUMMARY:UP. (w)
-LOCATION:3/ 23a
+LOCATION:6/ 23a
 DESCRIPTION:Urządzenia przeładunkowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
@@ -224,7 +224,7 @@ BEGIN:VEVENT
 DTSTART:20250112T085000Z
 DTEND:20250112T102500Z
 SUMMARY:UP. (w)
-LOCATION:3/ 23a
+LOCATION:15/ 23a
 DESCRIPTION:Urządzenia przeładunkowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
@@ -795,6 +795,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 32/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250113T070000Z
+DTEND:20250113T083500Z
+SUMMARY:UP. (S)
+LOCATION:5/ 20
+DESCRIPTION:Urządzenia przeładunkowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: dr inż. Pankiewicz Bolesław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250120T070000Z
 DTEND:20250120T083500Z
 SUMMARY:Brd (Zp. Ćw)
@@ -905,6 +912,13 @@ DTEND:20250106T102500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 36/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250113T085000Z
+DTEND:20250113T102500Z
+SUMMARY:UP. (S)
+LOCATION:5/ 20
+DESCRIPTION:Urządzenia przeładunkowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T085000Z
@@ -1765,7 +1779,7 @@ DTSTART:20251126T104000Z
 DTEND:20251126T121500Z
 SUMMARY:UP. (S)
 LOCATION:42/ 20
-DESCRIPTION:Urządzenia przeładunkowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: dr inż. Pankiewicz Bolesław
+DESCRIPTION:Urządzenia przeładunkowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T104000Z
@@ -2489,13 +2503,6 @@ LOCATION:3/ 23a
 DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251218T104000Z
-DTEND:20251218T121500Z
-SUMMARY:UP. (S)
-LOCATION:5/ 23a
-DESCRIPTION:Urządzenia przeładunkowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: dr inż. Pankiewicz Bolesław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251225T104000Z
 DTEND:20251225T121500Z
 SUMMARY:I 
@@ -2599,13 +2606,6 @@ DTEND:20251204T140500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/ 19; 3d/ 19
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251218T123000Z
-DTEND:20251218T140500Z
-SUMMARY:UP. (S)
-LOCATION:5/ 23a
-DESCRIPTION:Urządzenia przeładunkowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T123000Z

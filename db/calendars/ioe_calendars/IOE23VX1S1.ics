@@ -207,13 +207,6 @@ LOCATION:120 144
 DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251208T150000Z
-DTEND:20251208T163500Z
-SUMMARY:Pmuo (ć)
-LOCATION:120 144
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251014T060000Z
 DTEND:20251014T073500Z
 SUMMARY:Tte (w)
@@ -272,9 +265,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T070000Z
 DTEND:20251216T083500Z
-SUMMARY:Srr (L)
-LOCATION:315 135
-DESCRIPTION:Systemy rzeczywistości rozszerzonej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+SUMMARY:Pmuo (ć)
+LOCATION:120 144
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T070000Z
@@ -351,7 +344,7 @@ DTSTART:20251216T085000Z
 DTEND:20251216T102500Z
 SUMMARY:Srr (L)
 LOCATION:315 135
-DESCRIPTION:Systemy rzeczywistości rozszerzonej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Systemy rzeczywistości rozszerzonej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T085000Z
@@ -419,9 +412,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T104000Z
 DTEND:20251216T121500Z
-SUMMARY:Pspe (w)
-LOCATION:204 136
-DESCRIPTION:Podstawy spektroskopii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+SUMMARY:Srr (L)
+LOCATION:315 135
+DESCRIPTION:Systemy rzeczywistości rozszerzonej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T104000Z
@@ -499,6 +492,13 @@ DTEND:20251209T140500Z
 SUMMARY:Mpo (L)
 LOCATION:10 70
 DESCRIPTION:Modulacja promieniowania optycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr hab. inż. (prof. ucz.) Kopczyński Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251216T123000Z
+DTEND:20251216T140500Z
+SUMMARY:Pspe (w)
+LOCATION:204 136
+DESCRIPTION:Podstawy spektroskopii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T123000Z
@@ -709,13 +709,6 @@ DTEND:20251119T163500Z
 SUMMARY:Pmi (L)
 LOCATION:16 45
 DESCRIPTION:Podstawy mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr hab. inż. (prof. ucz.) Kopczyński Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251126T150000Z
-DTEND:20251126T163500Z
-SUMMARY:Pmuo (ć)
-LOCATION:120 144
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T165000Z
@@ -1380,7 +1373,7 @@ DTSTART:20251017T113000Z
 DTEND:20251017T130500Z
 SUMMARY:Pmuo (ć)
 LOCATION:120 144
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T113000Z
@@ -1429,7 +1422,7 @@ DTSTART:20251219T123000Z
 DTEND:20251219T140500Z
 SUMMARY:Pmuo (ć)
 LOCATION:120 144
-DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T123000Z
@@ -1437,6 +1430,13 @@ DTEND:20250109T140500Z
 SUMMARY:Mpo (ć)
 LOCATION:11 70
 DESCRIPTION:Modulacja promieniowania optycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr hab. inż. (prof. ucz.) Kopczyński Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250123T123000Z
+DTEND:20250123T140500Z
+SUMMARY:Pmuo (ć)
+LOCATION:120 144
+DESCRIPTION:Podstawy modelowania układów optycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T150000Z
