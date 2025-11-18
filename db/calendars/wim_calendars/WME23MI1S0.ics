@@ -930,9 +930,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T085000Z
 DTEND:20251216T102500Z
-SUMMARY:Mfd (P)
-LOCATION:42/ 54A
-DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Projekt\nNumer zajęć: 4/7\nProwadzący: dr inż. Muszyński Tomasz
+SUMMARY:Par (ć)
+LOCATION:15/ 23a
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T085000Z
@@ -1248,13 +1248,6 @@ DTEND:20251111T163500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 45/140
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251118T150000Z
-DTEND:20251118T163500Z
-SUMMARY:Par (ć)
-LOCATION:6/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T150000Z
@@ -2235,6 +2228,13 @@ DTEND:20251113T083500Z
 SUMMARY:Par (ć)
 LOCATION:2/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T070000Z
+DTEND:20251120T083500Z
+SUMMARY:Mfd (P)
+LOCATION:09/ 54A
+DESCRIPTION:Maszyny fortyfikacyjno-drogowe\nRodzaj zajęć: Projekt\nNumer zajęć: 4/7\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T070000Z

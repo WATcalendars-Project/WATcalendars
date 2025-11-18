@@ -3567,13 +3567,6 @@ LOCATION:230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251118T070000Z
-DTEND:20251118T083500Z
-SUMMARY:Als (w)
-LOCATION:51/ 62
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251118T085000Z
 DTEND:20251118T102500Z
 SUMMARY:F2 (ć)
@@ -3623,11 +3616,11 @@ LOCATION:6 71
 DESCRIPTION:Wprowadzenie do technik biomedycznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/24\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T085000Z
-DTEND:20251120T102500Z
-SUMMARY:Bchm (ć)
-LOCATION:108 24
-DESCRIPTION:Biochemia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: -
+DTSTART:20251120T070000Z
+DTEND:20251120T083500Z
+SUMMARY:Als (w)
+LOCATION:51/ 62
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T070000Z
@@ -3740,6 +3733,13 @@ DTEND:20251125T121500Z
 SUMMARY:Pele (ć)
 LOCATION:2/ 68
 DESCRIPTION:Podstawy elektromagnetyzmu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T123000Z
+DTEND:20251125T140500Z
+SUMMARY:Bchm (ć)
+LOCATION:108 24
+DESCRIPTION:Biochemia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T070000Z
@@ -3966,8 +3966,8 @@ LOCATION:108 24
 DESCRIPTION:Biochemia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251204T123000Z
-DTEND:20251204T140500Z
+DTSTART:20251204T104000Z
+DTEND:20251204T121500Z
 SUMMARY:Pele (ć)
 LOCATION:54/ 62
 DESCRIPTION:Podstawy elektromagnetyzmu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: -

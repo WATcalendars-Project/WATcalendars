@@ -487,13 +487,6 @@ LOCATION:37/ 54A
 DESCRIPTION:Systemy sterowania maszynami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251208T150000Z
-DTEND:20251208T163500Z
-SUMMARY:Ssm. (L)
-LOCATION:37/ 54A
-DESCRIPTION:Systemy sterowania maszynami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251222T150000Z
 DTEND:20251222T163500Z
 SUMMARY:I 
@@ -1467,6 +1460,13 @@ LOCATION:3/ 54
 DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr Fijałkowska Sylwia
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251203T104000Z
+DTEND:20251203T121500Z
+SUMMARY:Ssm. (L)
+LOCATION:37/ 54A
+DESCRIPTION:Systemy sterowania maszynami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251210T104000Z
 DTEND:20251210T121500Z
 SUMMARY:Pzum (ć)
@@ -1607,13 +1607,6 @@ LOCATION:116/ 54
 DESCRIPTION:Systemy sterowania maszynami\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251126T150000Z
-DTEND:20251126T163500Z
-SUMMARY:Ssm. (w)
-LOCATION:116/ 54
-DESCRIPTION:Systemy sterowania maszynami\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251210T150000Z
 DTEND:20251210T163500Z
 SUMMARY:Ssm. (L)
@@ -1646,7 +1639,7 @@ DTSTART:20250107T150000Z
 DTEND:20250107T163500Z
 SUMMARY:Ssm. (w)
 LOCATION:116/ 54
-DESCRIPTION:Systemy sterowania maszynami\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Systemy sterowania maszynami\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T165000Z
@@ -1722,7 +1715,7 @@ BEGIN:VEVENT
 DTSTART:20251120T070000Z
 DTEND:20251120T083500Z
 SUMMARY:WzPs (w)
-LOCATION:6/ 23a
+LOCATION:2/ 23a
 DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Fijałkowska Sylwia
 END:VEVENT
 BEGIN:VEVENT
@@ -1848,15 +1841,15 @@ BEGIN:VEVENT
 DTSTART:20251120T085000Z
 DTEND:20251120T102500Z
 SUMMARY:WzPs (ć)
-LOCATION:6/ 23a
+LOCATION:2/ 23a
 DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Fijałkowska Sylwia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T085000Z
 DTEND:20251127T102500Z
-SUMMARY:WzPs (ć)
-LOCATION:6/ 23a
-DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Fijałkowska Sylwia
+SUMMARY:Ssm. (w)
+LOCATION:10/ 54A
+DESCRIPTION:Systemy sterowania maszynami\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T085000Z
@@ -1870,7 +1863,7 @@ DTSTART:20251211T085000Z
 DTEND:20251211T102500Z
 SUMMARY:WzPs (ć)
 LOCATION:6/ 23a
-DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Fijałkowska Sylwia
+DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Fijałkowska Sylwia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T085000Z
@@ -1976,6 +1969,13 @@ DTEND:20251113T121500Z
 SUMMARY:Pm. (ć)
 LOCATION:55/ 62
 DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T104000Z
+DTEND:20251120T121500Z
+SUMMARY:WzPs (ć)
+LOCATION:2/ 23a
+DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Fijałkowska Sylwia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T104000Z

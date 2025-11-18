@@ -1306,13 +1306,6 @@ LOCATION:11/ 54; 18/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250114T070000Z
-DTEND:20250114T083500Z
-SUMMARY:ArCz (L)
-LOCATION:5/ 34a
-DESCRIPTION:Analiza ruchu człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Stankiewicz Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250121T070000Z
 DTEND:20250121T083500Z
 SUMMARY:BKiF (L)
@@ -1387,7 +1380,7 @@ DTSTART:20251203T085000Z
 DTEND:20251203T102500Z
 SUMMARY:ArCz (L)
 LOCATION:5/ 34a
-DESCRIPTION:Analiza ruchu człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Stankiewicz Michał
+DESCRIPTION:Analiza ruchu człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Stankiewicz Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T085000Z
@@ -1422,7 +1415,7 @@ DTSTART:20250114T085000Z
 DTEND:20250114T102500Z
 SUMMARY:ArCz (L)
 LOCATION:5/ 34a
-DESCRIPTION:Analiza ruchu człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Stankiewicz Michał
+DESCRIPTION:Analiza ruchu człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Stankiewicz Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250121T085000Z
@@ -1506,7 +1499,7 @@ DTSTART:20251217T104000Z
 DTEND:20251217T121500Z
 SUMMARY:ArCz (L)
 LOCATION:5/ 34a
-DESCRIPTION:Analiza ruchu człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Stankiewicz Michał
+DESCRIPTION:Analiza ruchu człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Stankiewicz Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T104000Z
@@ -1528,6 +1521,13 @@ DTEND:20250107T121500Z
 SUMMARY:Tmf (L)
 LOCATION:
 DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250114T104000Z
+DTEND:20250114T121500Z
+SUMMARY:ArCz (L)
+LOCATION:5/ 34a
+DESCRIPTION:Analiza ruchu człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Stankiewicz Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T104000Z

@@ -459,13 +459,6 @@ LOCATION:0.6/16
 DESCRIPTION:Podstawy spedycji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: prof. WAT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250120T123000Z
-DTEND:20250120T140500Z
-SUMMARY:NwL (w)
-LOCATION:301/S
-DESCRIPTION:Normalizacja w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr n.społ. inż. Rogowski Bogusław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251118T150000Z
 DTEND:20251118T163500Z
 SUMMARY:PS. (ć)
@@ -823,6 +816,13 @@ LOCATION:4.17b/135
 DESCRIPTION:Podstawy ekonomiki logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251210T150000Z
+DTEND:20251210T163500Z
+SUMMARY:NwL (w)
+LOCATION:1.16/16
+DESCRIPTION:Normalizacja w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr n.społ. inż. Rogowski Bogusław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251009T060000Z
 DTEND:20251009T073500Z
 SUMMARY:Pmiuwl (w)
@@ -884,13 +884,6 @@ DTEND:20250108T083500Z
 SUMMARY:PLwP (ć)
 LOCATION:0.21/16
 DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Woźniak Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250115T070000Z
-DTEND:20250115T083500Z
-SUMMARY:Pmiuwl (ć)
-LOCATION:3/54
-DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T070000Z
@@ -1079,7 +1072,7 @@ DTSTART:20250108T104000Z
 DTEND:20250108T121500Z
 SUMMARY:Pmiuwl (ć)
 LOCATION:3/54
-DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Torzewski Janusz
+DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T104000Z
@@ -1164,6 +1157,13 @@ DTEND:20251218T140500Z
 SUMMARY:PEL (ć)
 LOCATION:314 S
 DESCRIPTION:Podstawy ekonomiki logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: inż. Kochański Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250115T123000Z
+DTEND:20250115T140500Z
+SUMMARY:Pmiuwl (ć)
+LOCATION:3/54
+DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T140000Z

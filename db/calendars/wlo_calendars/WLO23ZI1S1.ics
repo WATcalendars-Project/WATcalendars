@@ -200,6 +200,13 @@ LOCATION:26/158
 DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250112T184000Z
+DTEND:20250112T201500Z
+SUMMARY:Iae (L)
+LOCATION:4.17a/135
+DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11\nProwadzący: dr Woźniak Jacek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250126T184000Z
 DTEND:20250126T201500Z
 SUMMARY:Z.S-up (w)
@@ -211,7 +218,7 @@ DTSTART:20251216T070000Z
 DTEND:20251216T083500Z
 SUMMARY:Iae (L)
 LOCATION:4.17a/135
-DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T070000Z
@@ -239,7 +246,7 @@ DTSTART:20251216T085000Z
 DTEND:20251216T102500Z
 SUMMARY:Iae (L)
 LOCATION:4.17a/135
-DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T085000Z
@@ -326,13 +333,6 @@ LOCATION:26/158
 DESCRIPTION:Komunikacja w zarządzaniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T123000Z
-DTEND:20251104T140500Z
-SUMMARY:Iae (L)
-LOCATION:4.23/135
-DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: dr Woźniak Jacek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251209T123000Z
 DTEND:20251209T140500Z
 SUMMARY:Trans.Cyfr.Org. (w)
@@ -368,13 +368,6 @@ LOCATION:26/158
 DESCRIPTION:Komunikacja w zarządzaniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T150000Z
-DTEND:20251104T163500Z
-SUMMARY:Iae (L)
-LOCATION:4.23/135
-DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: dr Woźniak Jacek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251118T150000Z
 DTEND:20251118T163500Z
 SUMMARY:Trans.Cyfr.Org. (w)
@@ -393,7 +386,7 @@ DTSTART:20251209T150000Z
 DTEND:20251209T163500Z
 SUMMARY:Iae (L)
 LOCATION:4.17a/135
-DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T150000Z
@@ -443,6 +436,13 @@ DTEND:20251202T182500Z
 SUMMARY:Npr (ć)
 LOCATION:4.17a/135
 DESCRIPTION:Narzędzia projektowania procesów biznesowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T165000Z
+DTEND:20251209T182500Z
+SUMMARY:Iae (L)
+LOCATION:4.17a/135
+DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T165000Z
@@ -504,7 +504,7 @@ BEGIN:VEVENT
 DTSTART:20250121T070000Z
 DTEND:20250121T083500Z
 SUMMARY:Iae (L)
-LOCATION:4.23/135
+LOCATION:5.21/135
 DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -1341,8 +1341,8 @@ LOCATION:301/S
 DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251114T165000Z
-DTEND:20251114T182500Z
+DTSTART:20251212T165000Z
+DTEND:20251212T182500Z
 SUMMARY:PG (w)
 LOCATION:0.24/135
 DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. Kamiński Tomasz

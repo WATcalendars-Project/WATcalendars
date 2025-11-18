@@ -655,18 +655,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 41/119
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251118T123000Z
-DTEND:20251118T140500Z
-SUMMARY:Ek (ć)
-LOCATION:6/ 23a
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Owczarczyk Anna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251125T123000Z
 DTEND:20251125T140500Z
 SUMMARY:Ek (ć)
 LOCATION:6/ 23a
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Owczarczyk Anna
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Owczarczyk Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T123000Z
@@ -883,7 +876,7 @@ DTSTART:20251015T075000Z
 DTEND:20251015T092500Z
 SUMMARY:Ek (ć)
 LOCATION:5/ 23a
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr Owczarczyk Anna
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Owczarczyk Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T085000Z
@@ -898,6 +891,13 @@ DTEND:20251112T102500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 2/147
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T085000Z
+DTEND:20251119T102500Z
+SUMMARY:Ek (ć)
+LOCATION:5/ 19
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr Owczarczyk Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T085000Z

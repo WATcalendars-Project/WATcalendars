@@ -116,6 +116,13 @@ LOCATION:bud. 87;117 24
 DESCRIPTION:Środki inicjowania palenia i detonacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3\nProwadzący: dr inż. Hara Marcin; dr inż. Szymańczyk Leszek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251215T085000Z
+DTEND:20251215T102500Z
+SUMMARY:Wsn (ć)
+LOCATION:2 55A
+DESCRIPTION:Wykrywanie i oznaczanie substancji niebezpiecznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. Budzyńska Edyta
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250112T085000Z
 DTEND:20250112T102500Z
 SUMMARY:Śpd (w)
@@ -561,7 +568,7 @@ DTSTART:20251209T104000Z
 DTEND:20251209T121500Z
 SUMMARY:Wsn (ć)
 LOCATION:10 55
-DESCRIPTION:Wykrywanie i oznaczanie substancji niebezpiecznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. Budzyńska Edyta
+DESCRIPTION:Wykrywanie i oznaczanie substancji niebezpiecznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr inż. Budzyńska Edyta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T104000Z
@@ -827,7 +834,7 @@ DTSTART:20251203T085000Z
 DTEND:20251203T102500Z
 SUMMARY:Wsn (ć)
 LOCATION:2 55A
-DESCRIPTION:Wykrywanie i oznaczanie substancji niebezpiecznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr inż. Budzyńska Edyta
+DESCRIPTION:Wykrywanie i oznaczanie substancji niebezpiecznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr inż. Budzyńska Edyta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T085000Z
@@ -1138,13 +1145,6 @@ LOCATION:2 5
 DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr hab. inż. Piecek Wiktor
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T070000Z
-DTEND:20251120T083500Z
-SUMMARY:Wsn (L)
-LOCATION:6 55
-DESCRIPTION:Wykrywanie i oznaczanie substancji niebezpiecznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr inż. Budzyńska Edyta
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251127T070000Z
 DTEND:20251127T083500Z
 SUMMARY:Cht (ć)
@@ -1154,6 +1154,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T070000Z
 DTEND:20251204T083500Z
+SUMMARY:Wsn (L)
+LOCATION:6 55
+DESCRIPTION:Wykrywanie i oznaczanie substancji niebezpiecznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr inż. Budzyńska Edyta
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T070000Z
+DTEND:20251211T083500Z
 SUMMARY:Wsn (L)
 LOCATION:6 55
 DESCRIPTION:Wykrywanie i oznaczanie substancji niebezpiecznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr inż. Budzyńska Edyta
@@ -1184,7 +1191,7 @@ DTSTART:20251106T085000Z
 DTEND:20251106T102500Z
 SUMMARY:Wsn (ć)
 LOCATION:2 55A
-DESCRIPTION:Wykrywanie i oznaczanie substancji niebezpiecznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr inż. Budzyńska Edyta
+DESCRIPTION:Wykrywanie i oznaczanie substancji niebezpiecznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Budzyńska Edyta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T085000Z
@@ -1192,13 +1199,6 @@ DTEND:20251113T102500Z
 SUMMARY:Chj (L)
 LOCATION:19 55
 DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T085000Z
-DTEND:20251120T102500Z
-SUMMARY:Wsn (L)
-LOCATION:6 55
-DESCRIPTION:Wykrywanie i oznaczanie substancji niebezpiecznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr inż. Budzyńska Edyta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T085000Z
@@ -1210,6 +1210,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T085000Z
 DTEND:20251204T102500Z
+SUMMARY:Wsn (L)
+LOCATION:6 55
+DESCRIPTION:Wykrywanie i oznaczanie substancji niebezpiecznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr inż. Budzyńska Edyta
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T085000Z
+DTEND:20251211T102500Z
 SUMMARY:Wsn (L)
 LOCATION:6 55
 DESCRIPTION:Wykrywanie i oznaczanie substancji niebezpiecznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr inż. Budzyńska Edyta
@@ -1255,13 +1262,6 @@ DTEND:20251113T121500Z
 SUMMARY:Chj (L)
 LOCATION:19 55
 DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr Oszczak-Nowińska Agata; por. mgr inż. Piwowarski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T104000Z
-DTEND:20251120T121500Z
-SUMMARY:Wsn (ć)
-LOCATION:2 55A
-DESCRIPTION:Wykrywanie i oznaczanie substancji niebezpiecznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Budzyńska Edyta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T104000Z

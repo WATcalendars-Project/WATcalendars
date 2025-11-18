@@ -42,7 +42,7 @@ BEGIN:VEVENT
 DTSTART:20251215T123000Z
 DTEND:20251215T140500Z
 SUMMARY:Iae (L)
-LOCATION:4.23/135
+LOCATION:4.17a/135
 DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -119,14 +119,14 @@ BEGIN:VEVENT
 DTSTART:20251117T165000Z
 DTEND:20251117T182500Z
 SUMMARY:Iae (L)
-LOCATION:4.23/135
+LOCATION:4.17a/135
 DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T165000Z
 DTEND:20251201T182500Z
 SUMMARY:Iae (L)
-LOCATION:4.23/135
+LOCATION:5.21/135
 DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -329,7 +329,7 @@ BEGIN:VEVENT
 DTSTART:20250113T123000Z
 DTEND:20250113T140500Z
 SUMMARY:Iae (L)
-LOCATION:4.23/135
+LOCATION:4.17a/135
 DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -630,7 +630,7 @@ BEGIN:VEVENT
 DTSTART:20251203T150000Z
 DTEND:20251203T163500Z
 SUMMARY:Iae (L)
-LOCATION:4.23/135
+LOCATION:4.17a/135
 DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -1292,18 +1292,18 @@ LOCATION:301/S
 DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251114T165000Z
-DTEND:20251114T182500Z
-SUMMARY:PG (w)
-LOCATION:0.24/135
-DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. Kamiński Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251205T165000Z
 DTEND:20251205T182500Z
 SUMMARY:Zrz (L)
 LOCATION:4.17a/135
 DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T165000Z
+DTEND:20251212T182500Z
+SUMMARY:PG (w)
+LOCATION:0.24/135
+DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T165000Z

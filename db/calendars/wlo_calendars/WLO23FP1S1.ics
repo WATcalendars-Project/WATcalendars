@@ -459,13 +459,6 @@ LOCATION:0.22/16
 DESCRIPTION:Zarządzanie zasobami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250120T123000Z
-DTEND:20250120T140500Z
-SUMMARY:NwL (w)
-LOCATION:301/S
-DESCRIPTION:Normalizacja w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr n.społ. inż. Rogowski Bogusław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251118T150000Z
 DTEND:20251118T163500Z
 SUMMARY:TwL (S)
@@ -814,6 +807,13 @@ DTEND:20251203T163500Z
 SUMMARY:PS. (ć)
 LOCATION:1/22
 DESCRIPTION:Podstawy spedycji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: prof. WAT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251210T150000Z
+DTEND:20251210T163500Z
+SUMMARY:NwL (w)
+LOCATION:1.16/16
+DESCRIPTION:Normalizacja w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr n.społ. inż. Rogowski Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T150000Z

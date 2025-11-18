@@ -46,10 +46,10 @@ LOCATION:9/158
 DESCRIPTION:Finanse publiczne i prawo finsnowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251220T070000Z
-DTEND:20251220T083500Z
+DTSTART:20251213T070000Z
+DTEND:20251213T083500Z
 SUMMARY:FPiPF (ć)
-LOCATION:1.15/16
+LOCATION:1.16/16
 DESCRIPTION:Finanse publiczne i prawo finsnowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
@@ -121,13 +121,6 @@ DTEND:20251213T102500Z
 SUMMARY:Leg. 
 LOCATION:166 S
 DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 3/12\nProwadzący: dr inż. Magierski Mieczysław; dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251220T085000Z
-DTEND:20251220T102500Z
-SUMMARY:FPiPF (ć)
-LOCATION:1.15/16
-DESCRIPTION:Finanse publiczne i prawo finsnowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250117T085000Z
@@ -316,7 +309,7 @@ DTSTART:20250117T123000Z
 DTEND:20250117T140500Z
 SUMMARY:FPiPF (ć)
 LOCATION:9/158
-DESCRIPTION:Finanse publiczne i prawo finsnowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Chyrzyński Ryszard
+DESCRIPTION:Finanse publiczne i prawo finsnowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T123000Z
@@ -400,7 +393,14 @@ DTSTART:20250117T150000Z
 DTEND:20250117T163500Z
 SUMMARY:FPiPF (ć)
 LOCATION:9/158
-DESCRIPTION:Finanse publiczne i prawo finsnowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Chyrzyński Ryszard
+DESCRIPTION:Finanse publiczne i prawo finsnowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Chyrzyński Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250124T150000Z
+DTEND:20250124T163500Z
+SUMMARY:Leg. 
+LOCATION:0.24/135
+DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 8/12\nProwadzący: dr inż. Magierski Mieczysław; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T150000Z
@@ -436,6 +436,20 @@ DTEND:20250110T182500Z
 SUMMARY:P.Międzyn. (ć)
 LOCATION:166 S
 DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Kowalski Wawrzyniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T165000Z
+DTEND:20250117T182500Z
+SUMMARY:FPiPF (ć)
+LOCATION:9/158
+DESCRIPTION:Finanse publiczne i prawo finsnowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Chyrzyński Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250124T165000Z
+DTEND:20250124T182500Z
+SUMMARY:Leg. 
+LOCATION:0.24/135
+DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 9/12\nProwadzący: dr inż. Magierski Mieczysław; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251005T060000Z
@@ -487,13 +501,6 @@ LOCATION:2.21/135
 DESCRIPTION:Prawo cywilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251221T070000Z
-DTEND:20251221T083500Z
-SUMMARY:Leg. 
-LOCATION:0.8/16
-DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 8/12\nProwadzący: dr inż. Magierski Mieczysław; dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250111T070000Z
 DTEND:20250111T083500Z
 SUMMARY:Adm.Obr. (ć)
@@ -505,7 +512,7 @@ DTSTART:20250118T070000Z
 DTEND:20250118T083500Z
 SUMMARY:Leg. 
 LOCATION:1.15/16
-DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 9/12\nProwadzący: dr inż. Magierski Mieczysław; dr Ćwik Dariusz
+DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 10/12\nProwadzący: dr inż. Magierski Mieczysław; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250125T070000Z
@@ -576,13 +583,6 @@ DTEND:20251214T102500Z
 SUMMARY:Nad. 
 LOCATION:166 S
 DESCRIPTION:Nad.\nRodzaj zajęć: -\nNumer zajęć: 4/10\nProwadzący: płk. dr Małkowski Zdzisław; mgr Jaśkiewicz Paweł; dr inż. Magierski Mieczysław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251221T085000Z
-DTEND:20251221T102500Z
-SUMMARY:Leg. 
-LOCATION:0.8/16
-DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 10/12\nProwadzący: dr inż. Magierski Mieczysław; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250111T085000Z

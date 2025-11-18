@@ -60,13 +60,6 @@ LOCATION:2.21/135
 DESCRIPTION:Organizacja zabezpieczenia technicznego\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: mgr inż. Juniec Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251208T085000Z
-DTEND:20251208T102500Z
-SUMMARY:SLHNS (S)
-LOCATION:2.21/135
-DESCRIPTION:System logistyczny w realizacji zadań HNS\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Woźniak Robert
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251103T104000Z
 DTEND:20251103T121500Z
 SUMMARY:WSL (w)
@@ -95,13 +88,6 @@ LOCATION:2.21/135
 DESCRIPTION:Wojskowy system logistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251208T104000Z
-DTEND:20251208T121500Z
-SUMMARY:WSL (S)
-LOCATION:2.21/135
-DESCRIPTION:Wojskowy system logistyczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Woźniak Robert
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251103T123000Z
 DTEND:20251103T140500Z
 SUMMARY:WSL (w)
@@ -128,13 +114,6 @@ DTEND:20251201T140500Z
 SUMMARY:WSL (w)
 LOCATION:2.21/135
 DESCRIPTION:Wojskowy system logistyczny\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Woźniak Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251208T123000Z
-DTEND:20251208T140500Z
-SUMMARY:WSL (S)
-LOCATION:2.21/135
-DESCRIPTION:Wojskowy system logistyczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T070000Z
@@ -225,7 +204,7 @@ DTSTART:20251125T104000Z
 DTEND:20251125T121500Z
 SUMMARY:SLHNS (S)
 LOCATION:2.21/135
-DESCRIPTION:System logistyczny w realizacji zadań HNS\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Woźniak Robert
+DESCRIPTION:System logistyczny w realizacji zadań HNS\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T104000Z
@@ -282,6 +261,13 @@ DTEND:20251104T163500Z
 SUMMARY:Fsm (w)
 LOCATION:2.21/135
 DESCRIPTION:Funkcjonowanie podsystemu materiałowego w SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251118T150000Z
+DTEND:20251118T163500Z
+SUMMARY:SLHNS (S)
+LOCATION:2.21/135
+DESCRIPTION:System logistyczny w realizacji zadań HNS\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T150000Z
@@ -356,9 +342,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T085000Z
 DTEND:20251119T102500Z
-SUMMARY:FWoj.OG (S)
+SUMMARY:WSL (S)
 LOCATION:2.21/135
-DESCRIPTION:Funkcjonowanie wojskowego oddziału gospodarczego\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Żuchowski Dariusz
+DESCRIPTION:Wojskowy system logistyczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T085000Z
@@ -452,6 +438,13 @@ LOCATION:25 JKu
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: ppłk dr inż. Kurek Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251203T123000Z
+DTEND:20251203T140500Z
+SUMMARY:FWoj.OG (S)
+LOCATION:2.21/135
+DESCRIPTION:Funkcjonowanie wojskowego oddziału gospodarczego\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Żuchowski Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251210T123000Z
 DTEND:20251210T140500Z
 SUMMARY:WF (ć)
@@ -471,6 +464,13 @@ DTEND:20251203T163500Z
 SUMMARY:FWoj.OG (S)
 LOCATION:2.21/135
 DESCRIPTION:Funkcjonowanie wojskowego oddziału gospodarczego\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Żuchowski Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251210T150000Z
+DTEND:20251210T163500Z
+SUMMARY:WSL (S)
+LOCATION:2.21/135
+DESCRIPTION:Wojskowy system logistyczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T070000Z
