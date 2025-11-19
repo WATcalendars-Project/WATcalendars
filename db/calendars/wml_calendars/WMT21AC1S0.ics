@@ -172,6 +172,13 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250202T104000Z
+DTEND:20250202T121500Z
+SUMMARY:Bspw 
+LOCATION:1869
+DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251027T123000Z
 DTEND:20251027T140500Z
 SUMMARY:SSW 
@@ -191,6 +198,13 @@ DTEND:20251117T140500Z
 SUMMARY:ŚNIEŻNIK 
 LOCATION:
 DESCRIPTION:ŚNIEŻNIK\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250112T123000Z
+DTEND:20250112T140500Z
+SUMMARY:Snzb 
+LOCATION:3136
+DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250126T123000Z
@@ -459,13 +473,6 @@ LOCATION:3136
 DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250127T085000Z
-DTEND:20250127T102500Z
-SUMMARY:Snzb 
-LOCATION:3136
-DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251028T104000Z
 DTEND:20251028T121500Z
 SUMMARY:TwRA 
@@ -506,13 +513,6 @@ DTEND:20250120T121500Z
 SUMMARY:Snzb 
 LOCATION:3136
 DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250127T104000Z
-DTEND:20250127T121500Z
-SUMMARY:Bspw 
-LOCATION:1869
-DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T123000Z
@@ -559,20 +559,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T123000Z
 DTEND:20251216T140500Z
-SUMMARY:Bspw 
-LOCATION:2069
-DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250113T123000Z
-DTEND:20250113T140500Z
-SUMMARY:Bspw 
-LOCATION:2069
-DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250120T123000Z
-DTEND:20250120T140500Z
 SUMMARY:Bspw 
 LOCATION:2069
 DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
@@ -1019,6 +1005,13 @@ LOCATION:2269
 DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250108T085000Z
+DTEND:20250108T102500Z
+SUMMARY:Bspw 
+LOCATION:2269
+DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251120T104000Z
 DTEND:20251120T121500Z
 SUMMARY:SiKO 
@@ -1047,8 +1040,22 @@ LOCATION:2269
 DESCRIPTION:Taktyka wojsk rakietowych i artylerii 1\nRodzaj zajęć: -\nProwadzący: dr inż. Krzyżanowski Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250122T104000Z
-DTEND:20250122T121500Z
+DTSTART:20250108T104000Z
+DTEND:20250108T121500Z
+SUMMARY:Bspw 
+LOCATION:2269
+DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T104000Z
+DTEND:20250129T121500Z
+SUMMARY:Bspw 
+LOCATION:2269
+DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250205T104000Z
+DTEND:20250205T121500Z
 SUMMARY:Prsu2 
 LOCATION:4563
 DESCRIPTION:Projektowanie systemów uzbrojenia II\nRodzaj zajęć: -\nProwadzący: płk. dr hab. inż. Kupidura Przemysław
@@ -1075,8 +1082,15 @@ LOCATION:2269
 DESCRIPTION:Taktyka wojsk rakietowych i artylerii 1\nRodzaj zajęć: -\nProwadzący: dr inż. Krzyżanowski Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250122T123000Z
-DTEND:20250122T140500Z
+DTSTART:20250129T123000Z
+DTEND:20250129T140500Z
+SUMMARY:Bspw 
+LOCATION:2269
+DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250205T123000Z
+DTEND:20250205T140500Z
 SUMMARY:Prsu2 
 LOCATION:4563
 DESCRIPTION:Projektowanie systemów uzbrojenia II\nRodzaj zajęć: -\nProwadzący: płk. dr hab. inż. Kupidura Przemysław
@@ -1096,13 +1110,6 @@ LOCATION:
 DESCRIPTION:Połączone wsparcie ogniowe i tageting\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251218T150000Z
-DTEND:20251218T163500Z
-SUMMARY:Bspw 
-LOCATION:2269
-DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251120T165000Z
 DTEND:20251120T182500Z
 SUMMARY:Bspw 
@@ -1110,11 +1117,11 @@ LOCATION:2269
 DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251218T165000Z
-DTEND:20251218T182500Z
-SUMMARY:Bspw 
+DTSTART:20250206T070000Z
+DTEND:20250206T083500Z
+SUMMARY:Prsu2 
 LOCATION:2269
-DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
+DESCRIPTION:Projektowanie systemów uzbrojenia II\nRodzaj zajęć: -\nProwadzący: płk. dr hab. inż. Kupidura Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T085000Z
@@ -1227,13 +1234,6 @@ DTEND:20251212T121500Z
 SUMMARY:Bspw 
 LOCATION:1869
 DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250130T104000Z
-DTEND:20250130T121500Z
-SUMMARY:Prsu2 
-LOCATION:2269
-DESCRIPTION:Projektowanie systemów uzbrojenia II\nRodzaj zajęć: -\nProwadzący: płk. dr hab. inż. Kupidura Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T123000Z

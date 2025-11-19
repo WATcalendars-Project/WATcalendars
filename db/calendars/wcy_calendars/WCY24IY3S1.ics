@@ -1016,7 +1016,7 @@ DTSTART:20250429T140000Z
 DTEND:20250429T153500Z
 SUMMARY:Tgs (Inne)
 LOCATION:239 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T060000Z
@@ -1849,7 +1849,7 @@ DTSTART:20250915T113000Z
 DTEND:20250915T130500Z
 SUMMARY:Tgs (Inne)
 LOCATION:239 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250916T075000Z
@@ -2713,6 +2713,13 @@ LOCATION:307 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251120T150000Z
+DTEND:20251120T163500Z
+SUMMARY:Tgs (Inne)
+LOCATION:226 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251120T184000Z
 DTEND:20251120T201500Z
 SUMMARY:Md2 (Inne)
@@ -3189,6 +3196,13 @@ LOCATION:307 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251218T085000Z
+DTEND:20251218T102500Z
+SUMMARY:SO (w)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251219T104000Z
 DTEND:20251219T121500Z
 SUMMARY:Als (L)
@@ -3222,13 +3236,6 @@ DTEND:20251219T201500Z
 SUMMARY:Po (L)
 LOCATION:224 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/16\nProwadzący: mgr inż. Kamil Małysz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260107T085000Z
-DTEND:20260107T102500Z
-SUMMARY:SO (w)
-LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T150000Z

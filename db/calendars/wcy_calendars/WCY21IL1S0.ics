@@ -2972,20 +2972,6 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 42/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251119T085000Z
-DTEND:20251119T102500Z
-SUMMARY:PZ (L)
-LOCATION:223 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/22\nProwadzący: mgr inż. Tomasz Gumowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251119T104000Z
-DTEND:20251119T121500Z
-SUMMARY:PZ (L)
-LOCATION:223 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/22\nProwadzący: mgr inż. Tomasz Gumowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251119T123000Z
 DTEND:20251119T140500Z
 SUMMARY:WF (ć)
@@ -3102,14 +3088,14 @@ DTSTART:20251124T123000Z
 DTEND:20251124T140500Z
 SUMMARY:PZ (L)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/22\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T150000Z
 DTEND:20251124T163500Z
 SUMMARY:PZ (L)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/22\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T165000Z
@@ -3439,6 +3425,20 @@ DTEND:20251208T140500Z
 SUMMARY:Sme. (ć)
 LOCATION:317 S
 DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T150000Z
+DTEND:20251208T163500Z
+SUMMARY:PZ (L)
+LOCATION:239 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T165000Z
+DTEND:20251208T182500Z
+SUMMARY:PZ (L)
+LOCATION:239 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/22\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T085000Z

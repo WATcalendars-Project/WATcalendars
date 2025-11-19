@@ -67,20 +67,6 @@ LOCATION:203 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251121T085000Z
-DTEND:20251121T102500Z
-SUMMARY:Rou (w)
-LOCATION:203 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T104000Z
-DTEND:20251121T121500Z
-SUMMARY:Rou (w)
-LOCATION:203 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251124T085000Z
 DTEND:20251124T102500Z
 SUMMARY:zsl (L)
@@ -123,6 +109,13 @@ LOCATION:121 65
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251125T123000Z
+DTEND:20251125T140500Z
+SUMMARY:Rou (w)
+LOCATION:103 K
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251126T070000Z
 DTEND:20251126T083500Z
 SUMMARY:zsw (L)
@@ -142,6 +135,13 @@ DTEND:20251126T121500Z
 SUMMARY:Lan (w)
 LOCATION:203 65
 DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T123000Z
+DTEND:20251126T140500Z
+SUMMARY:Rou (w)
+LOCATION:103 K
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T085000Z

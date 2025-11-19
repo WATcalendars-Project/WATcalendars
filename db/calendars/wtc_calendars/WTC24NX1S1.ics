@@ -50,7 +50,14 @@ DTSTART:20251201T070000Z
 DTEND:20251201T083500Z
 SUMMARY:EiE (L)
 LOCATION:058 S
-DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: mgr inż. Paziewski Piotr; mgr. inż. Piwowarski Karol
+DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: mgr inż. Paziewski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T070000Z
+DTEND:20251215T083500Z
+SUMMARY:MeW (ć)
+LOCATION:56/ 62
+DESCRIPTION:Mechanika techniczna z wytrzymałością materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. Bogusz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T075000Z
@@ -92,28 +99,21 @@ DTSTART:20251117T085000Z
 DTEND:20251117T102500Z
 SUMMARY:EiE (L)
 LOCATION:058 S
-DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: mgr inż. Paziewski Piotr; mgr. inż. Piwowarski Karol
+DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: mgr inż. Paziewski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T085000Z
 DTEND:20251124T102500Z
 SUMMARY:EiE (L)
 LOCATION:058 S
-DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: mgr inż. Paziewski Piotr; mgr. inż. Piwowarski Karol
+DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: mgr inż. Paziewski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T085000Z
 DTEND:20251201T102500Z
 SUMMARY:EiE (L)
 LOCATION:058 S
-DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: mgr inż. Paziewski Piotr; mgr. inż. Piwowarski Karol
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251208T085000Z
-DTEND:20251208T102500Z
-SUMMARY:MeW (ć)
-LOCATION:166 S
-DESCRIPTION:Mechanika techniczna z wytrzymałością materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. Bogusz Paweł
+DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: mgr inż. Paziewski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T085000Z
@@ -176,14 +176,14 @@ DTSTART:20251117T104000Z
 DTEND:20251117T121500Z
 SUMMARY:EiE (L)
 LOCATION:058 S
-DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: mgr inż. Paziewski Piotr; mgr. inż. Piwowarski Karol
+DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: mgr inż. Paziewski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T104000Z
 DTEND:20251124T121500Z
 SUMMARY:EiE (L)
 LOCATION:058 S
-DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: mgr inż. Paziewski Piotr; mgr. inż. Piwowarski Karol
+DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: mgr inż. Paziewski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T104000Z
@@ -329,21 +329,21 @@ BEGIN:VEVENT
 DTSTART:20251124T150000Z
 DTEND:20251124T163500Z
 SUMMARY:MeW (ć)
-LOCATION:166 S
+LOCATION:56/ 62
 DESCRIPTION:Mechanika techniczna z wytrzymałością materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Bogusz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T150000Z
 DTEND:20251201T163500Z
 SUMMARY:MeW (ć)
-LOCATION:166 S
+LOCATION:5/ 23a
 DESCRIPTION:Mechanika techniczna z wytrzymałością materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Bogusz Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251215T150000Z
-DTEND:20251215T163500Z
+DTSTART:20251208T150000Z
+DTEND:20251208T163500Z
 SUMMARY:MeW (ć)
-LOCATION:166 S
+LOCATION:3/ 23a
 DESCRIPTION:Mechanika techniczna z wytrzymałością materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Bogusz Paweł
 END:VEVENT
 BEGIN:VEVENT
@@ -386,7 +386,7 @@ DTSTART:20250113T070000Z
 DTEND:20250113T083500Z
 SUMMARY:EiE (L)
 LOCATION:058 S
-DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: mgr inż. Paziewski Piotr; mgr. inż. Piwowarski Karol
+DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: mgr inż. Paziewski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T075000Z
@@ -1141,7 +1141,7 @@ BEGIN:VEVENT
 DTSTART:20251120T085000Z
 DTEND:20251120T102500Z
 SUMMARY:PNM (w)
-LOCATION:11/ 34
+LOCATION:12/ 34
 DESCRIPTION:Podstawy nauki o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
 END:VEVENT
 BEGIN:VEVENT

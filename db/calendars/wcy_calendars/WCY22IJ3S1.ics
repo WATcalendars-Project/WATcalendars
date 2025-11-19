@@ -1488,20 +1488,6 @@ LOCATION:203 65
 DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T085000Z
-DTEND:20251120T102500Z
-SUMMARY:IRz (L)
-LOCATION:227 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: mgr inż. Tomasz Gumowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T104000Z
-DTEND:20251120T121500Z
-SUMMARY:IRz (L)
-LOCATION:227 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: mgr inż. Tomasz Gumowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251120T123000Z
 DTEND:20251120T140500Z
 SUMMARY:Bsi (w)
@@ -1558,24 +1544,38 @@ LOCATION:236 S
 DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251125T070000Z
+DTEND:20251125T083500Z
+SUMMARY:IRz (L)
+LOCATION:233 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T085000Z
+DTEND:20251125T102500Z
+SUMMARY:IRz (L)
+LOCATION:233 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251125T104000Z
 DTEND:20251125T121500Z
 SUMMARY:Bsi (L)
-LOCATION:239 S 236 S
+LOCATION:239 S
 DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T123000Z
 DTEND:20251125T140500Z
 SUMMARY:Bsi (L)
-LOCATION:239 S 236 S
+LOCATION:239 S
 DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T150000Z
 DTEND:20251125T163500Z
 SUMMARY:Bsi (L)
-LOCATION:239 S 236 S
+LOCATION:239 S
 DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
