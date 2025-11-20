@@ -39,13 +39,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 1/84
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251117T070000Z
-DTEND:20251117T083500Z
-SUMMARY:Mwein (w)
-LOCATION:
-DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251124T070000Z
 DTEND:20251124T083500Z
 SUMMARY:GwIB (ć)
@@ -86,6 +79,13 @@ DTEND:20250112T083500Z
 SUMMARY:Mwein (L)
 LOCATION:
 DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250126T070000Z
+DTEND:20250126T083500Z
+SUMMARY:Mwein (w)
+LOCATION:
+DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T075000Z
@@ -156,6 +156,13 @@ DTEND:20251208T102500Z
 SUMMARY:Cps (w)
 LOCATION:
 DESCRIPTION:Cyfrowe przetwarzanie sygnałów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr hab. inż. Jakubowski Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T085000Z
+DTEND:20251215T102500Z
+SUMMARY:Mwein (w)
+LOCATION:
+DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T085000Z
@@ -268,13 +275,6 @@ DTEND:20251201T121500Z
 SUMMARY:Tmf (ć)
 LOCATION:
 DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251208T104000Z
-DTEND:20251208T121500Z
-SUMMARY:Mwein (w)
-LOCATION:
-DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T104000Z
@@ -963,6 +963,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 44/84
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250120T123000Z
+DTEND:20250120T140500Z
+SUMMARY:Mwein (w)
+LOCATION:
+DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250127T123000Z
 DTEND:20250127T140500Z
 SUMMARY:App (S)
@@ -1156,7 +1163,7 @@ DTSTART:20251001T060000Z
 DTEND:20251001T073500Z
 SUMMARY:Mwein (w)
 LOCATION:
-DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Wawer Janusz
+DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Wawer Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T060000Z
@@ -1345,7 +1352,7 @@ DTSTART:20251008T094000Z
 DTEND:20251008T111500Z
 SUMMARY:Mwein (w)
 LOCATION:
-DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Wawer Janusz
+DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Wawer Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T094000Z
@@ -1465,13 +1472,6 @@ DTEND:20251105T140500Z
 SUMMARY:GwIB (ć)
 LOCATION:29/ 54; 30/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/13
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251112T123000Z
-DTEND:20251112T140500Z
-SUMMARY:Mwein (w)
-LOCATION:
-DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T123000Z

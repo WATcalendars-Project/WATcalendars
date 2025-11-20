@@ -60,6 +60,13 @@ LOCATION:
 DESCRIPTION:Wojskowe pojazdy mechaniczne\nRodzaj zajęć: -\nProwadzący: dr inż. Koliński Kazimierz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251208T070000Z
+DTEND:20251208T083500Z
+SUMMARY:Elsw2 
+LOCATION:1869
+DESCRIPTION:Eksploatacja i logistyka sprzętu wojskowego 2\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251215T070000Z
 DTEND:20251215T083500Z
 SUMMARY:TA 
@@ -242,6 +249,27 @@ LOCATION:1869
 DESCRIPTION:Bezpieczeństwo eksploatacji sprzętu woj.\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251201T123000Z
+DTEND:20251201T140500Z
+SUMMARY:Tnsw 
+LOCATION:2269
+DESCRIPTION:Technologia napraw sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T123000Z
+DTEND:20251215T140500Z
+SUMMARY:Tnsw 
+LOCATION:2269
+DESCRIPTION:Technologia napraw sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250209T123000Z
+DTEND:20250209T140500Z
+SUMMARY:Bspw 
+LOCATION:1869
+DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251027T150000Z
 DTEND:20251027T163500Z
 SUMMARY:SSW 
@@ -317,13 +345,6 @@ DTEND:20251117T201500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250105T184000Z
-DTEND:20250105T201500Z
-SUMMARY:Pra 
-LOCATION:
-DESCRIPTION:Pra\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T060000Z
@@ -480,20 +501,6 @@ LOCATION:1869
 DESCRIPTION:Technologia napraw sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250113T085000Z
-DTEND:20250113T102500Z
-SUMMARY:Bspw 
-LOCATION:1869
-DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250120T085000Z
-DTEND:20250120T102500Z
-SUMMARY:Bspw 
-LOCATION:1869
-DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250203T085000Z
 DTEND:20250203T102500Z
 SUMMARY:Bspw 
@@ -562,20 +569,6 @@ DTEND:20251216T121500Z
 SUMMARY:Wpmec 
 LOCATION:
 DESCRIPTION:Wojskowe pojazdy mechaniczne\nRodzaj zajęć: -\nProwadzący: dr inż. Koliński Kazimierz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250120T104000Z
-DTEND:20250120T121500Z
-SUMMARY:Tnsw 
-LOCATION:2269
-DESCRIPTION:Technologia napraw sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250127T104000Z
-DTEND:20250127T121500Z
-SUMMARY:Tnsw 
-LOCATION:2269
-DESCRIPTION:Technologia napraw sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250203T104000Z
@@ -648,18 +641,18 @@ LOCATION:2069
 DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250127T123000Z
-DTEND:20250127T140500Z
-SUMMARY:Tnsw 
-LOCATION:2269
-DESCRIPTION:Technologia napraw sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250203T123000Z
 DTEND:20250203T140500Z
 SUMMARY:Snzb 
 LOCATION:3136
 DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250210T123000Z
+DTEND:20250210T140500Z
+SUMMARY:Bspw 
+LOCATION:1869
+DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T165000Z
@@ -725,25 +718,11 @@ LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250107T070000Z
-DTEND:20250107T083500Z
-SUMMARY:Tnsw 
-LOCATION:2869
-DESCRIPTION:Technologia napraw sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250114T070000Z
 DTEND:20250114T083500Z
 SUMMARY:ZŻWAT 
 LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250121T070000Z
-DTEND:20250121T083500Z
-SUMMARY:BeSpw 
-LOCATION:2069
-DESCRIPTION:Bezpieczeństwo eksploatacji sprzętu woj.\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T075000Z
@@ -823,18 +802,18 @@ LOCATION:2269
 DESCRIPTION:Technologia napraw sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250107T085000Z
-DTEND:20250107T102500Z
-SUMMARY:Bspw 
-LOCATION:2269
-DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250121T085000Z
 DTEND:20250121T102500Z
 SUMMARY:MW 
 LOCATION:2063
 DESCRIPTION:mjr dr inż. Walkowiak Marzena\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Walkowiak Marzena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250204T085000Z
+DTEND:20250204T102500Z
+SUMMARY:Elsw2 
+LOCATION:1869
+DESCRIPTION:Eksploatacja i logistyka sprzętu wojskowego 2\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T094000Z
@@ -914,10 +893,10 @@ LOCATION:3936
 DESCRIPTION:mjr dr inż. Walkowiak Marzena\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Walkowiak Marzena
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250128T104000Z
-DTEND:20250128T121500Z
+DTSTART:20250204T104000Z
+DTEND:20250204T121500Z
 SUMMARY:BeSpw 
-LOCATION:2269
+LOCATION:2069
 DESCRIPTION:Bezpieczeństwo eksploatacji sprzętu woj.\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
@@ -963,6 +942,13 @@ LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250204T123000Z
+DTEND:20250204T140500Z
+SUMMARY:BeSpw 
+LOCATION:2269
+DESCRIPTION:Bezpieczeństwo eksploatacji sprzętu woj.\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250211T123000Z
 DTEND:20250211T140500Z
 SUMMARY:Snzb 
@@ -1002,13 +988,6 @@ DTSTART:20251217T150000Z
 DTEND:20251217T163500Z
 SUMMARY:Elsw2 
 LOCATION:2069
-DESCRIPTION:Eksploatacja i logistyka sprzętu wojskowego 2\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250128T150000Z
-DTEND:20250128T163500Z
-SUMMARY:Elsw2 
-LOCATION:1869
 DESCRIPTION:Eksploatacja i logistyka sprzętu wojskowego 2\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
 END:VEVENT
 BEGIN:VEVENT
@@ -1194,13 +1173,6 @@ LOCATION:3136
 DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250115T104000Z
-DTEND:20250115T121500Z
-SUMMARY:Tnsw 
-LOCATION:
-DESCRIPTION:Technologia napraw sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251009T113000Z
 DTEND:20251009T130500Z
 SUMMARY:Wpmec 
@@ -1250,6 +1222,13 @@ LOCATION:1869
 DESCRIPTION:Technologia napraw sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250212T123000Z
+DTEND:20250212T140500Z
+SUMMARY:Bspw 
+LOCATION:2269
+DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251127T150000Z
 DTEND:20251127T163500Z
 SUMMARY:Wpmec 
@@ -1283,6 +1262,13 @@ DTEND:20251003T073500Z
 SUMMARY:BeSpw 
 LOCATION:2869
 DESCRIPTION:Bezpieczeństwo eksploatacji sprzętu woj.\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250206T070000Z
+DTEND:20250206T083500Z
+SUMMARY:Tnsw 
+LOCATION:2069
+DESCRIPTION:Technologia napraw sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250213T070000Z
@@ -1390,6 +1376,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: dr Chodała Andrzej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250206T085000Z
+DTEND:20250206T102500Z
+SUMMARY:Tnsw 
+LOCATION:2269
+DESCRIPTION:Technologia napraw sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250213T085000Z
 DTEND:20250213T102500Z
 SUMMARY:Snzb 
@@ -1495,6 +1488,13 @@ LOCATION:3136
 DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251219T123000Z
+DTEND:20251219T140500Z
+SUMMARY:Tnsw 
+LOCATION:2069
+DESCRIPTION:Technologia napraw sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251107T150000Z
 DTEND:20251107T163500Z
 SUMMARY:Bspw 
@@ -1527,13 +1527,6 @@ DTSTART:20251219T150000Z
 DTEND:20251219T163500Z
 SUMMARY:Elsw2 
 LOCATION:2069
-DESCRIPTION:Eksploatacja i logistyka sprzętu wojskowego 2\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250123T150000Z
-DTEND:20250123T163500Z
-SUMMARY:Elsw2 
-LOCATION:1869
 DESCRIPTION:Eksploatacja i logistyka sprzętu wojskowego 2\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
 END:VEVENT
 BEGIN:VEVENT
