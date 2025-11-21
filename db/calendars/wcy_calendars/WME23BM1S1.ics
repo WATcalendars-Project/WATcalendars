@@ -4792,13 +4792,6 @@ LOCATION:2.10/ 54A
 DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T123000Z
-DTEND:20251120T140500Z
-SUMMARY:Wdmuc (w)
-LOCATION:51/ 62
-DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251121T070000Z
 DTEND:20251121T083500Z
 SUMMARY:- (Inne)
@@ -4851,14 +4844,14 @@ BEGIN:VEVENT
 DTSTART:20251123T070000Z
 DTEND:20251123T083500Z
 SUMMARY:XFiz2 (ć)
-LOCATION:aF S 19 36
+LOCATION:aF S
 DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T085000Z
 DTEND:20251123T102500Z
 SUMMARY:XFiz2 (ć)
-LOCATION:aF S 19 36
+LOCATION:aF S
 DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5005,7 +4998,14 @@ BEGIN:VEVENT
 DTSTART:20251127T123000Z
 DTEND:20251127T140500Z
 SUMMARY:Wdmuc (w)
-LOCATION:51/ 62
+LOCATION:52/ 62
+DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T150000Z
+DTEND:20251127T163500Z
+SUMMARY:Wdmuc (w)
+LOCATION:52/ 62
 DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT

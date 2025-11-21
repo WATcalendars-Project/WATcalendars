@@ -70,7 +70,7 @@ BEGIN:VEVENT
 DTSTART:20250202T070000Z
 DTEND:20250202T083500Z
 SUMMARY:Snzb 
-LOCATION:3136
+LOCATION:
 DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
 END:VEVENT
 BEGIN:VEVENT
@@ -448,8 +448,8 @@ BEGIN:VEVENT
 DTSTART:20250210T070000Z
 DTEND:20250210T083500Z
 SUMMARY:Snzb 
-LOCATION:3136
-DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -
+LOCATION:
+DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T085000Z
@@ -477,7 +477,7 @@ DTSTART:20251202T085000Z
 DTEND:20251202T102500Z
 SUMMARY:Snzb 
 LOCATION:3136
-DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T085000Z
@@ -504,8 +504,8 @@ BEGIN:VEVENT
 DTSTART:20250210T085000Z
 DTEND:20250210T102500Z
 SUMMARY:Snzb 
-LOCATION:3136
-DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -
+LOCATION:
+DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T094000Z
@@ -547,7 +547,7 @@ DTSTART:20251202T104000Z
 DTEND:20251202T121500Z
 SUMMARY:Snzb 
 LOCATION:3136
-DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T104000Z
@@ -854,7 +854,7 @@ BEGIN:VEVENT
 DTSTART:20250204T104000Z
 DTEND:20250204T121500Z
 SUMMARY:Snzb 
-LOCATION:3136
+LOCATION:
 DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
 END:VEVENT
 BEGIN:VEVENT
@@ -924,7 +924,7 @@ BEGIN:VEVENT
 DTSTART:20250204T123000Z
 DTEND:20250204T140500Z
 SUMMARY:Snzb 
-LOCATION:3136
+LOCATION:
 DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
 END:VEVENT
 BEGIN:VEVENT
@@ -1110,6 +1110,13 @@ LOCATION:
 DESCRIPTION:Wojskowe pojazdy mechaniczne\nRodzaj zajęć: -\nProwadzący: dr inż. Koliński Kazimierz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251120T123000Z
+DTEND:20251120T140500Z
+SUMMARY:Bspw 
+LOCATION:
+DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251204T123000Z
 DTEND:20251204T140500Z
 SUMMARY:Wpmec 
@@ -1164,13 +1171,6 @@ DTEND:20251211T163500Z
 SUMMARY:Wpmec 
 LOCATION:
 DESCRIPTION:Wojskowe pojazdy mechaniczne\nRodzaj zajęć: -\nProwadzący: dr inż. Koliński Kazimierz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T165000Z
-DTEND:20251120T182500Z
-SUMMARY:Bspw 
-LOCATION:2269
-DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250206T070000Z
@@ -1281,7 +1281,7 @@ BEGIN:VEVENT
 DTSTART:20250206T085000Z
 DTEND:20250206T102500Z
 SUMMARY:Snzb 
-LOCATION:3136
+LOCATION:
 DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
 END:VEVENT
 BEGIN:VEVENT
@@ -1323,7 +1323,7 @@ BEGIN:VEVENT
 DTSTART:20250206T104000Z
 DTEND:20250206T121500Z
 SUMMARY:Snzb 
-LOCATION:3136
+LOCATION:
 DESCRIPTION:Symulacja numeryczna zjawisk balistycznych\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
 END:VEVENT
 BEGIN:VEVENT

@@ -725,20 +725,6 @@ LOCATION:237 S
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/20\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251119T104000Z
-DTEND:20251119T121500Z
-SUMMARY:Bpe (L)
-LOCATION:121 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251119T123000Z
-DTEND:20251119T140500Z
-SUMMARY:Bpe (L)
-LOCATION:121 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251120T085000Z
 DTEND:20251120T102500Z
 SUMMARY:Bpe (w)
@@ -932,14 +918,14 @@ DTSTART:20251203T150000Z
 DTEND:20251203T163500Z
 SUMMARY:Bpe (L)
 LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: -
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T165000Z
 DTEND:20251203T182500Z
 SUMMARY:Bpe (L)
 LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: -
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T070000Z
@@ -1199,6 +1185,20 @@ DTEND:20260112T163500Z
 SUMMARY:REZ (Inne)
 LOCATION:-
 DESCRIPTION:Rezerwacja\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260114T070000Z
+DTEND:20260114T083500Z
+SUMMARY:Bpe (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260114T085000Z
+DTEND:20260114T102500Z
+SUMMARY:Bpe (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T104000Z

@@ -823,18 +823,18 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251120T104000Z
+DTEND:20251120T121500Z
+SUMMARY:WdI (L)
+LOCATION:252 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251120T123000Z
 DTEND:20251120T140500Z
 SUMMARY:WDM (ć)
 LOCATION:313 S
 DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T150000Z
-DTEND:20251120T163500Z
-SUMMARY:WdI (L)
-LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T070000Z
@@ -1640,5 +1640,33 @@ DTEND:20260130T140500Z
 SUMMARY:Ez (ć)
 LOCATION:316 S
 DESCRIPTION:Etyka zawodowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T070000Z
+DTEND:20260205T083500Z
+SUMMARY:Mat I (E)
+LOCATION:313 S 314 S
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T085000Z
+DTEND:20260209T102500Z
+SUMMARY:M II (E)
+LOCATION:313 S 314 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T085000Z
+DTEND:20260216T102500Z
+SUMMARY:M II (Inne)
+LOCATION:313 S 314 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T070000Z
+DTEND:20260219T083500Z
+SUMMARY:Mat I (Inne)
+LOCATION:313 S 314 S
+DESCRIPTION:Matematyka I\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 END:VCALENDAR
