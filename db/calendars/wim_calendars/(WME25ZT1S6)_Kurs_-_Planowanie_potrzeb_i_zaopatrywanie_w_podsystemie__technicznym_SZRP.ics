@@ -102,6 +102,13 @@ LOCATION:6/ 23a
 DESCRIPTION:Zaopatrywanie jednostek wojskowych w SpW\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251125T123000Z
+DTEND:20251125T140500Z
+SUMMARY:NiTP (w)
+LOCATION:5/ 20
+DESCRIPTION:Narzędzia i techniki planowania w zakresie zabezpieczenia technicznego SZRP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251202T123000Z
 DTEND:20251202T140500Z
 SUMMARY:PzL (w)
@@ -167,9 +174,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T070000Z
 DTEND:20251127T083500Z
-SUMMARY:NIswP (ć)
+SUMMARY:NiTP (ć)
 LOCATION:1/ 22
-DESCRIPTION:Narzędzia informatyczne stosowane w planowaniu zabezpieczenia technicznego SZRP -Si LPBP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: płk dr hab.(prof. ucz.) Kozicki Bartosz
+DESCRIPTION:Narzędzia i techniki planowania w zakresie zabezpieczenia technicznego SZRP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T070000Z
@@ -181,9 +188,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T085000Z
 DTEND:20251127T102500Z
-SUMMARY:NIswP (ć)
+SUMMARY:NiTP (ć)
 LOCATION:1/ 22
-DESCRIPTION:Narzędzia informatyczne stosowane w planowaniu zabezpieczenia technicznego SZRP -Si LPBP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: płk dr hab.(prof. ucz.) Kozicki Bartosz
+DESCRIPTION:Narzędzia i techniki planowania w zakresie zabezpieczenia technicznego SZRP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T085000Z
@@ -193,13 +200,6 @@ LOCATION:1/ 19
 DESCRIPTION:Organizacja zabezpieczenia logistycznego w podsystemie technicznym\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251127T104000Z
-DTEND:20251127T121500Z
-SUMMARY:NIswP (ć)
-LOCATION:1/ 22
-DESCRIPTION:Narzędzia informatyczne stosowane w planowaniu zabezpieczenia technicznego SZRP -Si LPBP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: płk dr hab.(prof. ucz.) Kozicki Bartosz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251204T104000Z
 DTEND:20251204T121500Z
 SUMMARY:OzlPT (w)
@@ -207,18 +207,11 @@ LOCATION:1/ 19
 DESCRIPTION:Organizacja zabezpieczenia logistycznego w podsystemie technicznym\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251127T123000Z
-DTEND:20251127T140500Z
-SUMMARY:NIswP (ć)
-LOCATION:1/ 22
-DESCRIPTION:Narzędzia informatyczne stosowane w planowaniu zabezpieczenia technicznego SZRP -Si LPBP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: płk dr hab.(prof. ucz.) Kozicki Bartosz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251128T070000Z
 DTEND:20251128T083500Z
-SUMMARY:NiTP (w)
-LOCATION:6/ 23a
-DESCRIPTION:Narzędzia i techniki planowania w zakresie zabezpieczenia technicznego SZRP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr inż. Kalwasiński Marek
+SUMMARY:NIswP (ć)
+LOCATION:1/ 22
+DESCRIPTION:Narzędzia informatyczne stosowane w planowaniu zabezpieczenia technicznego SZRP -Si LPBP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: płk dr hab.(prof. ucz.) Kozicki Bartosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T070000Z
@@ -230,9 +223,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251128T085000Z
 DTEND:20251128T102500Z
-SUMMARY:NiTP (ć)
+SUMMARY:NIswP (ć)
 LOCATION:1/ 22
-DESCRIPTION:Narzędzia i techniki planowania w zakresie zabezpieczenia technicznego SZRP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Narzędzia informatyczne stosowane w planowaniu zabezpieczenia technicznego SZRP -Si LPBP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: płk dr hab.(prof. ucz.) Kozicki Bartosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T085000Z
@@ -244,9 +237,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251128T104000Z
 DTEND:20251128T121500Z
-SUMMARY:NiTP (ć)
+SUMMARY:NIswP (ć)
 LOCATION:1/ 22
-DESCRIPTION:Narzędzia i techniki planowania w zakresie zabezpieczenia technicznego SZRP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Narzędzia informatyczne stosowane w planowaniu zabezpieczenia technicznego SZRP -Si LPBP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: płk dr hab.(prof. ucz.) Kozicki Bartosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T104000Z
@@ -254,5 +247,12 @@ DTEND:20251205T121500Z
 SUMMARY:ZaKu (Z.)
 LOCATION:6/ 23a
 DESCRIPTION:Zaliczenie Kursu\nRodzaj zajęć: (Z.)\nNumer zajęć: 3/3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251128T123000Z
+DTEND:20251128T140500Z
+SUMMARY:NIswP (ć)
+LOCATION:1/ 22
+DESCRIPTION:Narzędzia informatyczne stosowane w planowaniu zabezpieczenia technicznego SZRP -Si LPBP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: płk dr hab.(prof. ucz.) Kozicki Bartosz
 END:VEVENT
 END:VCALENDAR

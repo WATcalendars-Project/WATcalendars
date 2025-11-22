@@ -417,18 +417,18 @@ LOCATION:54/ 62
 DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251124T123000Z
-DTEND:20251124T140500Z
-SUMMARY:Tmf (w)
-LOCATION:54/ 62
-DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251201T123000Z
 DTEND:20251201T140500Z
 SUMMARY:ArCz (w)
 LOCATION:8/ 62
 DESCRIPTION:Analiza ruchu człowieka\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Stankiewicz Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T123000Z
+DTEND:20251208T140500Z
+SUMMARY:Tmf (w)
+LOCATION:52/ 62
+DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab.inż. Szczepaniak Zenon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T123000Z
@@ -2195,18 +2195,11 @@ LOCATION:51/ 62
 DESCRIPTION:Analiza ruchu człowieka\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Stankiewicz Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T123000Z
-DTEND:20251120T140500Z
-SUMMARY:Wdmuc (w)
-LOCATION:51/ 62
-DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Sławiński Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251127T123000Z
 DTEND:20251127T140500Z
 SUMMARY:Wdmuc (w)
-LOCATION:51/ 62
-DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Sławiński Grzegorz
+LOCATION:52/ 62
+DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T123000Z
@@ -2312,6 +2305,13 @@ DTEND:20251113T163500Z
 SUMMARY:App (L)
 LOCATION:5/ 23a
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T150000Z
+DTEND:20251127T163500Z
+SUMMARY:Wdmuc (w)
+LOCATION:52/ 62
+DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T150000Z

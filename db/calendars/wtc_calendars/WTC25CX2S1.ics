@@ -109,13 +109,6 @@ LOCATION:aF S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: mgr Łukasik Sebastian
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251124T104000Z
-DTEND:20251124T121500Z
-SUMMARY:M1 (ć)
-LOCATION:2 45
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/19\nProwadzący: dr hab. Czuchry Ewa
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251006T113000Z
 DTEND:20251006T130500Z
 SUMMARY:PGI (w)
@@ -134,21 +127,21 @@ DTSTART:20251027T123000Z
 DTEND:20251027T140500Z
 SUMMARY:M1 (ć)
 LOCATION:108 24
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/19\nProwadzący: dr hab. Czuchry Ewa
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/19\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T123000Z
 DTEND:20251103T140500Z
 SUMMARY:M1 (ć)
 LOCATION:108 24
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/19\nProwadzący: dr hab. Czuchry Ewa
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/19\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T123000Z
 DTEND:20251117T140500Z
 SUMMARY:M1 (ć)
 LOCATION:108 24
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/19\nProwadzący: dr hab. Czuchry Ewa
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/19\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T123000Z
@@ -163,6 +156,13 @@ DTEND:20251201T140500Z
 SUMMARY:Mat2 (ć)
 LOCATION:108 24
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/17\nProwadzący: dr hab. Czuchry Ewa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T123000Z
+DTEND:20251208T140500Z
+SUMMARY:M1 (ć)
+LOCATION:120 45
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/19\nProwadzący: dr hab. Czuchry Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T140000Z
@@ -900,11 +900,25 @@ LOCATION:315 S
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2/17\nProwadzący: dr Klepczarek Michał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251218T085000Z
+DTEND:20251218T102500Z
+SUMMARY:WDM (ć)
+LOCATION:165 S
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. Zarański Zbigniew
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250122T085000Z
 DTEND:20250122T102500Z
 SUMMARY:WDM (ć)
 LOCATION:166 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. Zarański Zbigniew
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Zarański Zbigniew
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T085000Z
+DTEND:20250129T102500Z
+SUMMARY:WDM (ć)
+LOCATION:166 S
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Zarański Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T094000Z
@@ -1058,32 +1072,18 @@ DTSTART:20251204T123000Z
 DTEND:20251204T140500Z
 SUMMARY:WDM (ć)
 LOCATION:166 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Zarański Zbigniew
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T123000Z
-DTEND:20251211T140500Z
-SUMMARY:WDM (ć)
-LOCATION:166 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Zarański Zbigniew
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Zarański Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T123000Z
 DTEND:20251218T140500Z
 SUMMARY:WDM (ć)
 LOCATION:166 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Zarański Zbigniew
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Zarański Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T123000Z
 DTEND:20250108T140500Z
-SUMMARY:WDM (ć)
-LOCATION:166 S
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Zarański Zbigniew
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250115T123000Z
-DTEND:20250115T140500Z
 SUMMARY:WDM (ć)
 LOCATION:166 S
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Zarański Zbigniew

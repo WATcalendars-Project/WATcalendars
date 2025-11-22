@@ -697,13 +697,6 @@ LOCATION:53/ 62; 57/ 62
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250124T150000Z
-DTEND:20250124T163500Z
-SUMMARY:WDM (ć)
-LOCATION:2/ 68
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250131T150000Z
 DTEND:20250131T163500Z
 SUMMARY:PZiP (w)
@@ -1184,7 +1177,7 @@ DTSTART:20250118T085000Z
 DTEND:20250118T102500Z
 SUMMARY:WDM (ć)
 LOCATION:2/ 68
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250208T085000Z
@@ -1282,7 +1275,7 @@ DTSTART:20251221T104000Z
 DTEND:20251221T121500Z
 SUMMARY:WDM (ć)
 LOCATION:2/ 68
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251228T104000Z
@@ -1301,6 +1294,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250111T104000Z
 DTEND:20250111T121500Z
+SUMMARY:WDM (ć)
+LOCATION:2/ 68
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250118T104000Z
+DTEND:20250118T121500Z
 SUMMARY:WDM (ć)
 LOCATION:2/ 68
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
