@@ -672,14 +672,14 @@ BEGIN:VEVENT
 DTSTART:20250114T104000Z
 DTEND:20250114T121500Z
 SUMMARY:Pmb (ć)
-LOCATION:
+LOCATION:4.17b/135
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250121T104000Z
 DTEND:20250121T121500Z
 SUMMARY:Pmb (ć)
-LOCATION:
+LOCATION:239 S
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
@@ -700,7 +700,7 @@ BEGIN:VEVENT
 DTSTART:20251217T123000Z
 DTEND:20251217T140500Z
 SUMMARY:Pmb (L)
-LOCATION:
+LOCATION:5.21/135
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
@@ -721,14 +721,14 @@ BEGIN:VEVENT
 DTSTART:20250121T123000Z
 DTEND:20250121T140500Z
 SUMMARY:Pmb (ć)
-LOCATION:
+LOCATION:239 S
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250128T123000Z
 DTEND:20250128T140500Z
 SUMMARY:Pmb (L)
-LOCATION:
+LOCATION:5.21/135
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
@@ -760,10 +760,17 @@ LOCATION:2/22
 DESCRIPTION:Międzynarodowe stosunki polityczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250121T150000Z
+DTEND:20250121T163500Z
+SUMMARY:Ap (ć)
+LOCATION:1.17/16
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr Moch Natalia
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250128T150000Z
 DTEND:20250128T163500Z
 SUMMARY:Pmb (L)
-LOCATION:
+LOCATION:5.21/135
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
@@ -911,7 +918,7 @@ DTSTART:20251106T104000Z
 DTEND:20251106T121500Z
 SUMMARY:Ap (ć)
 LOCATION:31/158
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr Moch Natalia
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T104000Z
@@ -982,13 +989,6 @@ DTEND:20251127T140500Z
 SUMMARY:Bezp.Eko (ć)
 LOCATION:2/22
 DESCRIPTION:Bezpieczeństwo ekologiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr hab. Zalewski Jerzy
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T123000Z
-DTEND:20251204T140500Z
-SUMMARY:Ap (ć)
-LOCATION:239 S
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T123000Z

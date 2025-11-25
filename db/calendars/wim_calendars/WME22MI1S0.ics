@@ -826,7 +826,7 @@ BEGIN:VEVENT
 DTSTART:20250217T085000Z
 DTEND:20250217T102500Z
 SUMMARY:ESW-2 (Ep)
-LOCATION:09/ 54A
+LOCATION:120/ 54
 DESCRIPTION:Eksploatacja sprzętu wojskowego 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
@@ -2051,7 +2051,7 @@ BEGIN:VEVENT
 DTSTART:20250219T085000Z
 DTEND:20250219T102500Z
 SUMMARY:Mup (Ep)
-LOCATION:09/ 54A
+LOCATION:116/ 54
 DESCRIPTION:Maszyny i urządzenia przeładunkowe i transportu bliskiego\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
@@ -2846,6 +2846,13 @@ LOCATION:5/ 23a
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250220T085000Z
+DTEND:20250220T102500Z
+SUMMARY:Wow. (Zp.)
+LOCATION:120/ 54
+DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251017T094000Z
 DTEND:20251017T111500Z
 SUMMARY:PODS.SUR. (ć)
@@ -2928,13 +2935,6 @@ DTEND:20250116T121500Z
 SUMMARY:Pdm (w)
 LOCATION:6/ 23a
 DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: ppłk dr inż. Hryciów Zdzisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250220T104000Z
-DTEND:20250220T121500Z
-SUMMARY:Wow. (Zp.)
-LOCATION:120/ 54
-DESCRIPTION:Wydobywanie i oczyszczanie wody\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T113000Z

@@ -305,13 +305,6 @@ LOCATION:1.16/16
 DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 6/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251125T104000Z
-DTEND:20251125T121500Z
-SUMMARY:Syst.zarz. 
-LOCATION:1.16/16
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251216T104000Z
 DTEND:20251216T121500Z
 SUMMARY:P 
@@ -323,14 +316,14 @@ DTSTART:20250113T104000Z
 DTEND:20250113T121500Z
 SUMMARY:Syst.zarz. 
 LOCATION:1.10/16
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 7/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T113000Z
 DTEND:20251007T130500Z
 SUMMARY:Syst.zarz. 
 LOCATION:3.16/135
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T113000Z
@@ -358,7 +351,7 @@ DTSTART:20250113T123000Z
 DTEND:20250113T140500Z
 SUMMARY:Syst.zarz. 
 LOCATION:1.10/16
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 10/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T140000Z
@@ -939,7 +932,7 @@ DTSTART:20251016T140000Z
 DTEND:20251016T153500Z
 SUMMARY:Syst.zarz. 
 LOCATION:3.16/135
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 11/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 10/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T150000Z
@@ -1009,7 +1002,7 @@ DTSTART:20251113T165000Z
 DTEND:20251113T182500Z
 SUMMARY:Syst.zarz. 
 LOCATION:3.16/135
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 12/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 11/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T165000Z
@@ -1114,7 +1107,7 @@ DTSTART:20250130T085000Z
 DTEND:20250130T102500Z
 SUMMARY:Syst.zarz. 
 LOCATION:1.16/16
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 13/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 12/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T094000Z
@@ -1142,7 +1135,7 @@ DTSTART:20250130T104000Z
 DTEND:20250130T121500Z
 SUMMARY:Syst.zarz. 
 LOCATION:1.16/16
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 14/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 13/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T113000Z
@@ -1171,6 +1164,13 @@ DTEND:20251107T140500Z
 SUMMARY:Ap (w)
 LOCATION:301/S
 DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Chyrzyński Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T123000Z
+DTEND:20251212T140500Z
+SUMMARY:Syst.zarz. 
+LOCATION:0.7/16
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 14/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T123000Z

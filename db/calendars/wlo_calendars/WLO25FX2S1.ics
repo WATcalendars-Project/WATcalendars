@@ -893,13 +893,6 @@ LOCATION:0.21/16
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251203T104000Z
-DTEND:20251203T121500Z
-SUMMARY:WdI (L)
-LOCATION:0.22/16
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: dr inż. Konarzewski Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251210T104000Z
 DTEND:20251210T121500Z
 SUMMARY:Mat2 (w)
@@ -1072,7 +1065,7 @@ DTSTART:20250108T085000Z
 DTEND:20250108T102500Z
 SUMMARY:WdI (L)
 LOCATION:0.21/16
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: dr inż. Konarzewski Marcin
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T085000Z
@@ -1114,7 +1107,7 @@ DTSTART:20251113T104000Z
 DTEND:20251113T121500Z
 SUMMARY:WdI (L)
 LOCATION:0.21/16
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: dr inż. Konarzewski Marcin
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T104000Z
@@ -1404,11 +1397,11 @@ LOCATION:4.17b/135
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251121T085000Z
-DTEND:20251121T102500Z
-SUMMARY:PZiP (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Nyszk Łukasz
+DTSTART:20251205T085000Z
+DTEND:20251205T102500Z
+SUMMARY:WdI (L)
+LOCATION:0.22/16
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T094000Z
@@ -1458,6 +1451,13 @@ DTEND:20251114T140500Z
 SUMMARY:PGI (ć)
 LOCATION:0.7/16
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250123T123000Z
+DTEND:20250123T140500Z
+SUMMARY:PZiP (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Nyszk Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T165000Z

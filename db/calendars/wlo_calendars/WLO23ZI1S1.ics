@@ -4,6 +4,13 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO23ZI1S1
 BEGIN:VEVENT
+DTSTART:20250112T123000Z
+DTEND:20250112T140500Z
+SUMMARY:Zrz (w)
+LOCATION:aula/135
+DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Wojciechowski Zdzislaw
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251020T140000Z
 DTEND:20251020T153500Z
 SUMMARY:Trans.Cyfr.Org. (w)
@@ -25,32 +32,25 @@ LOCATION:2/22
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/17\nProwadzący: dr Czuba Beata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251201T150000Z
-DTEND:20251201T163500Z
-SUMMARY:Z.S-up (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250112T150000Z
 DTEND:20250112T163500Z
 SUMMARY:Z.S-up (ć)
 LOCATION:2/22
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250119T150000Z
 DTEND:20250119T163500Z
 SUMMARY:Z.S-up (ć)
 LOCATION:2/22
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250126T150000Z
 DTEND:20250126T163500Z
 SUMMARY:Z.S-up (ć)
 LOCATION:0.21/16
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T155000Z
@@ -88,20 +88,6 @@ LOCATION:0.24/135
 DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251124T165000Z
-DTEND:20251124T182500Z
-SUMMARY:Z.S-up (ć)
-LOCATION:1/22
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251201T165000Z
-DTEND:20251201T182500Z
-SUMMARY:Z.S-up (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251208T165000Z
 DTEND:20251208T182500Z
 SUMMARY:PG (ć)
@@ -120,21 +106,21 @@ DTSTART:20250112T165000Z
 DTEND:20250112T182500Z
 SUMMARY:Z.S-up (ć)
 LOCATION:2/22
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250119T165000Z
 DTEND:20250119T182500Z
 SUMMARY:Z.S-up (ć)
 LOCATION:2/22
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250126T165000Z
 DTEND:20250126T182500Z
 SUMMARY:Z.S-up (ć)
 LOCATION:0.21/16
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T174000Z
@@ -634,6 +620,13 @@ LOCATION:0.21/16
 DESCRIPTION:Transformacja cyfrowa organizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251126T150000Z
+DTEND:20251126T163500Z
+SUMMARY:Z.S-up (ć)
+LOCATION:0.22/16
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251210T150000Z
 DTEND:20251210T163500Z
 SUMMARY:Trans.Cyfr.Org. (ć)
@@ -778,35 +771,35 @@ DTSTART:20251022T174000Z
 DTEND:20251022T191500Z
 SUMMARY:Zrz (w)
 LOCATION:5.17/135
-DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Wojciechowski Zdzislaw
+DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Wojciechowski Zdzislaw
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T184000Z
 DTEND:20251029T201500Z
 SUMMARY:Zrz (w)
 LOCATION:5.17/135
-DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Wojciechowski Zdzislaw
+DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Wojciechowski Zdzislaw
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T184000Z
 DTEND:20251112T201500Z
 SUMMARY:Zrz (w)
 LOCATION:5.17/135
-DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Wojciechowski Zdzislaw
+DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Wojciechowski Zdzislaw
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T184000Z
 DTEND:20251119T201500Z
 SUMMARY:Zrz (w)
 LOCATION:5.17/135
-DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Wojciechowski Zdzislaw
+DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Wojciechowski Zdzislaw
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T184000Z
 DTEND:20251126T201500Z
 SUMMARY:Zrz (w)
 LOCATION:5.17/135
-DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Wojciechowski Zdzislaw
+DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Wojciechowski Zdzislaw
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250121T184000Z
@@ -932,7 +925,7 @@ DTSTART:20251218T123000Z
 DTEND:20251218T140500Z
 SUMMARY:Zrz (w)
 LOCATION:5.17/135
-DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Wojciechowski Zdzislaw
+DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Wojciechowski Zdzislaw
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T123000Z
@@ -979,9 +972,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T150000Z
 DTEND:20251218T163500Z
-SUMMARY:Zrz (w)
-LOCATION:5.17/135
-DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Wojciechowski Zdzislaw
+SUMMARY:Z.S-up (ć)
+LOCATION:1.16/16
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T150000Z
@@ -1304,6 +1297,13 @@ DTEND:20251219T140500Z
 SUMMARY:Adz (L)
 LOCATION:228 S
 DESCRIPTION:Analiza i wizualizacja danych w zarządzaniu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: dr Olejniczak Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T123000Z
+DTEND:20250109T140500Z
+SUMMARY:Z.S-up (ć)
+LOCATION:4.23/135
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T140000Z

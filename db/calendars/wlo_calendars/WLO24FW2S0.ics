@@ -1782,6 +1782,13 @@ LOCATION:0.28/135
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250129T070000Z
+DTEND:20250129T083500Z
+SUMMARY:BiESTS (w)
+LOCATION:0.28/135
+DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: mgr inż. Radzimierski Mariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251002T075000Z
 DTEND:20251002T092500Z
 SUMMARY:IJL (w)
@@ -1905,7 +1912,7 @@ DTSTART:20251016T094000Z
 DTEND:20251016T111500Z
 SUMMARY:BiESTS (w)
 LOCATION:3.16/135
-DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: mgr inż. Radzimierski Mariusz
+DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: mgr inż. Radzimierski Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T094000Z
@@ -2122,13 +2129,6 @@ DTSTART:20251120T150000Z
 DTEND:20251120T163500Z
 SUMMARY:BiESTS (w)
 LOCATION:3.16/135
-DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: mgr inż. Radzimierski Mariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251127T150000Z
-DTEND:20251127T163500Z
-SUMMARY:BiESTS (w)
-LOCATION:0.24/135
 DESCRIPTION:Budowa i eksploatacja środków transportu samochodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: mgr inż. Radzimierski Mariusz
 END:VEVENT
 BEGIN:VEVENT
@@ -2174,13 +2174,6 @@ LOCATION:0.19/135
 DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251127T165000Z
-DTEND:20251127T182500Z
-SUMMARY:IJL (w)
-LOCATION:aula/135
-DESCRIPTION:Inżynieria jakości w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr n.społ. inż. Rogowski Bogusław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251204T165000Z
 DTEND:20251204T182500Z
 SUMMARY:LP (ć)
@@ -2200,6 +2193,13 @@ DTEND:20251218T182500Z
 SUMMARY:LP (ć)
 LOCATION:0.23/16
 DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T165000Z
+DTEND:20250108T182500Z
+SUMMARY:IJL (w)
+LOCATION:aula/135
+DESCRIPTION:Inżynieria jakości w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr n.społ. inż. Rogowski Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T174000Z

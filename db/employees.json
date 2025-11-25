@@ -932,6 +932,11 @@
     },
     {
       "degree": "dr hab.",
+      "is_new": true,
+      "name": "Wioletta Wereda [NEW]"
+    },
+    {
+      "degree": "dr hab.",
       "is_new": false,
       "name": "Wojciech Stępniowski"
     },
@@ -4617,6 +4622,11 @@
     },
     {
       "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Marcin Dejewski [NEW]"
+    },
+    {
+      "degree": "mgr inż.",
       "is_new": false,
       "name": "Marcin Dopieralski"
     },
@@ -4764,6 +4774,11 @@
       "degree": "mgr inż.",
       "is_new": false,
       "name": "Michał Walczakowski"
+    },
+    {
+      "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Michał Zimoń [NEW]"
     },
     {
       "degree": "mgr inż.",
@@ -5627,10 +5642,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-11-24T01:48:08.980401",
-    "last_updated_readable": "2025-11-24 01:48:08",
-    "new_employees_count": 0,
+    "last_updated": "2025-11-25T01:42:32.803788",
+    "last_updated_readable": "2025-11-25 01:42:32",
+    "new_employees_count": 3,
     "scraper_version": "1.0",
-    "total_employees": 1125
+    "total_employees": 1128
   }
 }

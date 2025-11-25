@@ -1173,13 +1173,6 @@ LOCATION:1.17/16
 DESCRIPTION:Pozyskiwanie, dostarczanie, gromadzenie, magazynowanie PUiW w czasie pokoju i wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: mgr Dembek Adam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251217T165000Z
-DTEND:20251217T182500Z
-SUMMARY:PSLiPuiw (w)
-LOCATION:1.17/16
-DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: por mgr inż. Sobczyk Olimpia
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250128T165000Z
 DTEND:20250128T182500Z
 SUMMARY:PUiWwip (S)
@@ -1257,6 +1250,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/40\nProwadzący: mgr Fiedoruk Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250122T070000Z
+DTEND:20250122T083500Z
+SUMMARY:PSLiPuiw (w)
+LOCATION:301/S
+DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: por mgr inż. Sobczyk Olimpia
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250129T070000Z
 DTEND:20250129T083500Z
 SUMMARY:Dpl (S)
@@ -1325,6 +1325,13 @@ DTEND:20250115T102500Z
 SUMMARY:PSLiPuiw (w)
 LOCATION:1.17/16
 DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: por mgr inż. Sobczyk Olimpia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250122T085000Z
+DTEND:20250122T102500Z
+SUMMARY:PSLiPuiw (w)
+LOCATION:301/S
+DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: por mgr inż. Sobczyk Olimpia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250129T085000Z
@@ -1411,6 +1418,13 @@ LOCATION:1.17/16
 DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: por mgr inż. Sobczyk Olimpia
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250122T104000Z
+DTEND:20250122T121500Z
+SUMMARY:PSLiPuiw (w)
+LOCATION:301/S
+DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: por mgr inż. Sobczyk Olimpia
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250129T104000Z
 DTEND:20250129T121500Z
 SUMMARY:PSLiPuiw (ć)
@@ -1467,6 +1481,20 @@ LOCATION:0.6/16
 DESCRIPTION:Military vehicles\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr inż. Papliński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250115T123000Z
+DTEND:20250115T140500Z
+SUMMARY:PSLiPuiw (w)
+LOCATION:1.27/135
+DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: por mgr inż. Sobczyk Olimpia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250122T123000Z
+DTEND:20250122T140500Z
+SUMMARY:PSLiPuiw (w)
+LOCATION:
+DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: por mgr inż. Sobczyk Olimpia
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250129T123000Z
 DTEND:20250129T140500Z
 SUMMARY:MwASM (ć)
@@ -1481,25 +1509,11 @@ LOCATION:
 DESCRIPTION:Budowa i eksploatacja sprzętu wojskowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: ppłk dr inż. Leśnik Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251127T150000Z
-DTEND:20251127T163500Z
-SUMMARY:Mv. (ć)
-LOCATION:0.22/16
-DESCRIPTION:Military vehicles\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr inż. Papliński Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251204T150000Z
 DTEND:20251204T163500Z
 SUMMARY:WO (ć)
 LOCATION:1.17/16
 DESCRIPTION:Właściwości ochronne PUiW\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: mgr Dembek Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250108T150000Z
-DTEND:20250108T163500Z
-SUMMARY:PSLiPuiw (w)
-LOCATION:1.17/16
-DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: por mgr inż. Sobczyk Olimpia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250129T150000Z
@@ -1579,6 +1593,20 @@ LOCATION:231 K; 230 K; 134 K; 133 K; 131 K; 128 K; 127 K; 125 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23/29
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250123T070000Z
+DTEND:20250123T083500Z
+SUMMARY:PSLiPuiw (w)
+LOCATION:0.8/16
+DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: por mgr inż. Sobczyk Olimpia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250130T070000Z
+DTEND:20250130T083500Z
+SUMMARY:MwASM (S)
+LOCATION:0.21/16
+DESCRIPTION:Metrologia w aspekcie służby mundurowej\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: por mgr inż. Sobczyk Olimpia
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251010T075000Z
 DTEND:20251010T092500Z
 SUMMARY:CoO (ć)
@@ -1605,13 +1633,6 @@ DTEND:20251121T102500Z
 SUMMARY:CoO (ć)
 LOCATION:1.27/135
 DESCRIPTION:Controlling Operacyjny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: inż. Kochański Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251205T085000Z
-DTEND:20251205T102500Z
-SUMMARY:PSLiPuiw (w)
-LOCATION:1.17/16
-DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: por mgr inż. Sobczyk Olimpia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T085000Z
@@ -1646,7 +1667,7 @@ DTSTART:20250123T085000Z
 DTEND:20250123T102500Z
 SUMMARY:PSLiPuiw (w)
 LOCATION:1.17/16
-DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: por mgr inż. Sobczyk Olimpia
+DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: por mgr inż. Sobczyk Olimpia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T085000Z
@@ -1768,13 +1789,6 @@ LOCATION:A.1.3/135
 DESCRIPTION:Wybrane zagadnienia z dynamiki środków transportowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251205T123000Z
-DTEND:20251205T140500Z
-SUMMARY:PSLiPuiw (w)
-LOCATION:1.17/16
-DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: por mgr inż. Sobczyk Olimpia
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251219T123000Z
 DTEND:20251219T140500Z
 SUMMARY:PUiWwip (w)
@@ -1793,14 +1807,14 @@ DTSTART:20250116T123000Z
 DTEND:20250116T140500Z
 SUMMARY:PSLiPuiw (w)
 LOCATION:1.17/16
-DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: por mgr inż. Sobczyk Olimpia
+DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: por mgr inż. Sobczyk Olimpia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250123T123000Z
 DTEND:20250123T140500Z
 SUMMARY:PSLiPuiw (w)
 LOCATION:1.17/16
-DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: por mgr inż. Sobczyk Olimpia
+DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: por mgr inż. Sobczyk Olimpia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T123000Z
@@ -1808,13 +1822,6 @@ DTEND:20250130T140500Z
 SUMMARY:PSLiPuiw (S)
 LOCATION:1.17/16
 DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: por mgr inż. Sobczyk Olimpia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251205T150000Z
-DTEND:20251205T163500Z
-SUMMARY:PSLiPuiw (w)
-LOCATION:1.17/16
-DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: por mgr inż. Sobczyk Olimpia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T150000Z
@@ -1838,25 +1845,18 @@ LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/29
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250123T150000Z
-DTEND:20250123T163500Z
-SUMMARY:PSLiPuiw (w)
-LOCATION:1.17/16
-DESCRIPTION:Pozyskiwanie sprzętu logistycznego i puiw w ramach zamówień publicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: por mgr inż. Sobczyk Olimpia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250130T150000Z
-DTEND:20250130T163500Z
-SUMMARY:MwASM (S)
-LOCATION:1.17/16
-DESCRIPTION:Metrologia w aspekcie służby mundurowej\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: por mgr inż. Sobczyk Olimpia
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250109T165000Z
 DTEND:20250109T182500Z
 SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26/29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T165000Z
+DTEND:20250116T182500Z
+SUMMARY:Mv. (ć)
+LOCATION:0.22/16
+DESCRIPTION:Military vehicles\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr inż. Papliński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T184000Z

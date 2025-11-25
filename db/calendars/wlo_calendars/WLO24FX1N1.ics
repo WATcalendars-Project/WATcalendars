@@ -57,7 +57,7 @@ DTSTART:20251213T070000Z
 DTEND:20251213T083500Z
 SUMMARY:LP (L)
 LOCATION:0.8/16
-DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2
+DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: por mgr inż. Sobczyk Olimpia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T070000Z
@@ -71,7 +71,7 @@ DTSTART:20250117T070000Z
 DTEND:20250117T083500Z
 SUMMARY:LP (ć)
 LOCATION:5.17/135
-DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3
+DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: por mgr inż. Sobczyk Olimpia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T070000Z
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 DTSTART:20251206T085000Z
 DTEND:20251206T102500Z
 SUMMARY:Ek (ć)
-LOCATION:255 S
+LOCATION:5.21/135
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: ppłk dr Waszkiewicz Grzegorz
 END:VEVENT
 BEGIN:VEVENT
@@ -162,7 +162,7 @@ DTSTART:20250117T085000Z
 DTEND:20250117T102500Z
 SUMMARY:LP (ć)
 LOCATION:5.17/135
-DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
+DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: por mgr inż. Sobczyk Olimpia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T085000Z
@@ -224,7 +224,7 @@ BEGIN:VEVENT
 DTSTART:20251206T104000Z
 DTEND:20251206T121500Z
 SUMMARY:Ek (ć)
-LOCATION:255 S
+LOCATION:5.21/135
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: ppłk dr Waszkiewicz Grzegorz
 END:VEVENT
 BEGIN:VEVENT
@@ -253,7 +253,7 @@ DTSTART:20250117T104000Z
 DTEND:20250117T121500Z
 SUMMARY:LP (ć)
 LOCATION:5.17/135
-DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
+DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: por mgr inż. Sobczyk Olimpia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T104000Z
@@ -407,14 +407,14 @@ DTSTART:20250117T150000Z
 DTEND:20250117T163500Z
 SUMMARY:XWDM (ć)
 LOCATION:A.1.3/135 dr
-DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: WLO24FX2N1 Psz.J A.1.3; 135 dr.hab.inż.(prof.ucz.) Józef Pszczółkowski - Zajęcia dla osób powtarzających przedmiot.; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T150000Z
 DTEND:20250124T163500Z
 SUMMARY:XWDM (ć)
 LOCATION:A.1.3/135 dr
-DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: WLO24FX2N1 Psz.J A.1.3; 135 dr.hab.inż.(prof.ucz.) Józef Pszczółkowski - Zajęcia dla osób powtarzających przedmiot.; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T155000Z
@@ -473,18 +473,11 @@ LOCATION:0.22/16
 DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251220T165000Z
-DTEND:20251220T182500Z
-SUMMARY:LP (w)
-LOCATION:0.28/135
-DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: płk dr hab. inż. Borucka Anna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250110T165000Z
 DTEND:20250110T182500Z
 SUMMARY:LP (L)
 LOCATION:1.16/16
-DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2
+DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: por mgr inż. Sobczyk Olimpia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T174000Z
@@ -547,7 +540,7 @@ DTSTART:20251026T070000Z
 DTEND:20251026T083500Z
 SUMMARY:LP (w)
 LOCATION:255 S
-DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: płk dr hab. inż. Borucka Anna
+DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: por mgr inż. Sobczyk Olimpia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251109T070000Z
@@ -599,6 +592,13 @@ LOCATION:142 S; 139 S
 DESCRIPTION:Fizyka II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250201T070000Z
+DTEND:20250201T083500Z
+SUMMARY:LP (w)
+LOCATION:0.28/135
+DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: por mgr inż. Sobczyk Olimpia
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251005T075000Z
 DTEND:20251005T092500Z
 SUMMARY:LZ (w)
@@ -617,7 +617,7 @@ DTSTART:20251026T085000Z
 DTEND:20251026T102500Z
 SUMMARY:LP (w)
 LOCATION:255 S
-DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: płk dr hab. inż. Borucka Anna
+DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: por mgr inż. Sobczyk Olimpia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251109T085000Z
@@ -701,7 +701,7 @@ DTSTART:20251026T104000Z
 DTEND:20251026T121500Z
 SUMMARY:LP (w)
 LOCATION:255 S
-DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: płk dr hab. inż. Borucka Anna
+DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: por mgr inż. Sobczyk Olimpia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251109T104000Z
@@ -890,7 +890,7 @@ DTSTART:20250111T150000Z
 DTEND:20250111T163500Z
 SUMMARY:XWDM (ć)
 LOCATION:A.1.3/135 dr
-DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: WLO24FX2N1 Psz.J A.1.3; 135 dr.hab.inż.(prof.ucz.) Józef Pszczółkowski - Zajęcia dla osób powtarzających przedmiot.; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250125T150000Z
@@ -904,6 +904,6 @@ DTSTART:20250201T150000Z
 DTEND:20250201T163500Z
 SUMMARY:XWDM (ć)
 LOCATION:A.1.3/135 dr
-DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: WLO24FX2N1 Psz.J A.1.3; 135 dr.hab.inż.(prof.ucz.) Józef Pszczółkowski - Zajęcia dla osób powtarzających przedmiot.; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:XWprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 END:VCALENDAR

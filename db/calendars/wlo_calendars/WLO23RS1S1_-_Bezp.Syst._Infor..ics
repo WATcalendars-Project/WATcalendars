@@ -179,11 +179,18 @@ LOCATION:4.17b/135
 DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 5/22\nProwadzący: dr Gocalski Włodzimierz; dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251216T070000Z
+DTEND:20251216T083500Z
+SUMMARY:wzbnim (ć)
+LOCATION:1.17/16
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Gocalski Włodzimierz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250120T070000Z
 DTEND:20250120T083500Z
 SUMMARY:wzbnim (ć)
 LOCATION:1.16/16
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Gocalski Włodzimierz
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr Gocalski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T085000Z
@@ -193,11 +200,18 @@ LOCATION:4.17b/135
 DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 6/22\nProwadzący: dr Gocalski Włodzimierz; dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251216T085000Z
+DTEND:20251216T102500Z
+SUMMARY:wzbnim (ć)
+LOCATION:1.17/16
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Gocalski Włodzimierz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250120T085000Z
 DTEND:20250120T102500Z
 SUMMARY:wzbnim (ć)
 LOCATION:1.16/16
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr Gocalski Włodzimierz
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Gocalski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T104000Z
@@ -333,6 +347,13 @@ LOCATION:1/22
 DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250120T150000Z
+DTEND:20250120T163500Z
+SUMMARY:I.toG (ć)
+LOCATION:0.7/16
+DESCRIPTION:Introduction to geopolitics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251021T155000Z
 DTEND:20251021T172500Z
 SUMMARY:OIN (w)
@@ -396,18 +417,11 @@ LOCATION:2.21/135
 DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: dr Kawalerski Paweł; dr hab. inż. Nowacki Gabriel; dr Gocalski Włodzimierz; mgr Moszczyński Maciej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251203T085000Z
-DTEND:20251203T102500Z
-SUMMARY:Zrz (ć)
-LOCATION:5.21/135
-DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Szwarc Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251217T085000Z
 DTEND:20251217T102500Z
 SUMMARY:wzbnim (ć)
 LOCATION:2/22
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Gocalski Włodzimierz
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Gocalski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T094000Z
@@ -422,13 +436,6 @@ DTEND:20251112T121500Z
 SUMMARY:DiZ.I. (w)
 LOCATION:4.17b/135
 DESCRIPTION:Dezinformacja i zagrożenia informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr Kawalerski Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251126T104000Z
-DTEND:20251126T121500Z
-SUMMARY:I.toG (ć)
-LOCATION:255 S
-DESCRIPTION:Introduction to geopolitics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T104000Z
@@ -450,6 +457,13 @@ DTEND:20251217T121500Z
 SUMMARY:I.toG (ć)
 LOCATION:5.21/135
 DESCRIPTION:Introduction to geopolitics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T104000Z
+DTEND:20250107T121500Z
+SUMMARY:Zrz (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Zarządzanie ryzykiem\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T113000Z
@@ -932,7 +946,7 @@ DTSTART:20250109T085000Z
 DTEND:20250109T102500Z
 SUMMARY:wzbnim (ć)
 LOCATION:5.17/135
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Gocalski Włodzimierz
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Gocalski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T104000Z
@@ -946,7 +960,7 @@ DTSTART:20250109T104000Z
 DTEND:20250109T121500Z
 SUMMARY:wzbnim (ć)
 LOCATION:5.17/135
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Gocalski Włodzimierz
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Gocalski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T123000Z
@@ -975,13 +989,6 @@ DTEND:20251212T163500Z
 SUMMARY:OIN (ć)
 LOCATION:37/158
 DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Śmiałek Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251219T150000Z
-DTEND:20251219T163500Z
-SUMMARY:wzbnim (ć)
-LOCATION:0.22/16
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Gocalski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T150000Z
@@ -1017,13 +1024,6 @@ DTEND:20251003T172500Z
 SUMMARY:I.toG (w)
 LOCATION:3.16/135
 DESCRIPTION:Introduction to geopolitics\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251219T165000Z
-DTEND:20251219T182500Z
-SUMMARY:wzbnim (ć)
-LOCATION:0.22/16
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Gocalski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T165000Z
