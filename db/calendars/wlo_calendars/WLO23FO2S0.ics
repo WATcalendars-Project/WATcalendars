@@ -235,13 +235,6 @@ LOCATION:0.23/16
 DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: 16. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251208T150000Z
-DTEND:20251208T163500Z
-SUMMARY:PoTe (S)
-LOCATION:1.9/16
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: 16. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251215T150000Z
 DTEND:20251215T163500Z
 SUMMARY:PoMa (ć)
@@ -1773,6 +1766,13 @@ DTEND:20251120T182500Z
 SUMMARY:Bśt (ć)
 LOCATION:0.23/16
 DESCRIPTION:Budowa środków transportowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: mgr inż. Radzimierski Mariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T165000Z
+DTEND:20250108T182500Z
+SUMMARY:PoTe (S)
+LOCATION:0.8/16
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: 16. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T165000Z

@@ -249,20 +249,6 @@ LOCATION:203 65
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251205T104000Z
-DTEND:20251205T121500Z
-SUMMARY:Lan (L)
-LOCATION:120 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: Paweł Głębocki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251205T123000Z
-DTEND:20251205T140500Z
-SUMMARY:Lan (L)
-LOCATION:120 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Paweł Głębocki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251208T085000Z
 DTEND:20251208T102500Z
 SUMMARY:Rou (L)
@@ -317,6 +303,20 @@ DTEND:20251210T102500Z
 SUMMARY:zsw (L)
 LOCATION:106 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251210T104000Z
+DTEND:20251210T121500Z
+SUMMARY:Lan (L)
+LOCATION:125 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251210T123000Z
+DTEND:20251210T140500Z
+SUMMARY:Lan (L)
+LOCATION:125 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T070000Z

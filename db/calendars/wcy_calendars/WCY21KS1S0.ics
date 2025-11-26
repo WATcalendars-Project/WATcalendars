@@ -3084,6 +3084,13 @@ LOCATION:316 S
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251124T150000Z
+DTEND:20251124T163500Z
+SUMMARY:QPQ (ć)
+LOCATION:087 S
+DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251125T070000Z
 DTEND:20251125T083500Z
 SUMMARY:Kas (w)
@@ -3145,6 +3152,13 @@ DTEND:20251126T121500Z
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PW)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T123000Z
+DTEND:20251126T140500Z
+SUMMARY:QPQ (w)
+LOCATION:087 S
+DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T070000Z
@@ -3252,25 +3266,11 @@ LOCATION:316 S
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251202T123000Z
-DTEND:20251202T140500Z
-SUMMARY:QPQ (ć)
-LOCATION:218 65
-DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251202T150000Z
 DTEND:20251202T163500Z
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 45/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251203T070000Z
-DTEND:20251203T083500Z
-SUMMARY:QPQ (w)
-LOCATION:085 S
-DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T085000Z

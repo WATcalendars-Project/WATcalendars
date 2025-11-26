@@ -932,8 +932,8 @@
     },
     {
       "degree": "dr hab.",
-      "is_new": true,
-      "name": "Wioletta Wereda [NEW]"
+      "is_new": false,
+      "name": "Wioletta Wereda"
     },
     {
       "degree": "dr hab.",
@@ -3757,6 +3757,11 @@
     },
     {
       "degree": "mgr",
+      "is_new": true,
+      "name": "Kacper Jabłoński [NEW]"
+    },
+    {
+      "degree": "mgr",
       "is_new": false,
       "name": "Karol Landowski"
     },
@@ -4622,8 +4627,8 @@
     },
     {
       "degree": "mgr inż.",
-      "is_new": true,
-      "name": "Marcin Dejewski [NEW]"
+      "is_new": false,
+      "name": "Marcin Dejewski"
     },
     {
       "degree": "mgr inż.",
@@ -4777,8 +4782,8 @@
     },
     {
       "degree": "mgr inż.",
-      "is_new": true,
-      "name": "Michał Zimoń [NEW]"
+      "is_new": false,
+      "name": "Michał Zimoń"
     },
     {
       "degree": "mgr inż.",
@@ -5642,10 +5647,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-11-25T01:42:32.803788",
-    "last_updated_readable": "2025-11-25 01:42:32",
-    "new_employees_count": 3,
+    "last_updated": "2025-11-26T01:42:12.242488",
+    "last_updated_readable": "2025-11-26 01:42:12",
+    "new_employees_count": 1,
     "scraper_version": "1.0",
-    "total_employees": 1128
+    "total_employees": 1129
   }
 }

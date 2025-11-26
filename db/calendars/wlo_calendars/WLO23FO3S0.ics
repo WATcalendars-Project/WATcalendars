@@ -235,13 +235,6 @@ LOCATION:0.23/16
 DESCRIPTION:Podsystem infrastruktury wojskowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: mgr inż. Juniec Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251208T165000Z
-DTEND:20251208T182500Z
-SUMMARY:PoTe (S)
-LOCATION:1.10/16
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251215T165000Z
 DTEND:20251215T182500Z
 SUMMARY:Otn (ć)
@@ -1443,7 +1436,7 @@ DTSTART:20250115T085000Z
 DTEND:20250115T102500Z
 SUMMARY:PoTe (S)
 LOCATION:0.19/135
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T085000Z
@@ -1864,6 +1857,13 @@ DTEND:20250109T083500Z
 SUMMARY:PoMa (ć)
 LOCATION:0.28/135
 DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: prof. WAT Kler Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T070000Z
+DTEND:20250116T083500Z
+SUMMARY:PoTe (S)
+LOCATION:0.22/16
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250123T070000Z

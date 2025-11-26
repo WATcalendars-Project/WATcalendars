@@ -2944,13 +2944,6 @@ LOCATION:-
 DESCRIPTION:Rezerwacja\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251202T085000Z
-DTEND:20251202T102500Z
-SUMMARY:SO (L)
-LOCATION:120 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/13\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251202T123000Z
 DTEND:20251202T140500Z
 SUMMARY:Ja (ć)
@@ -3067,7 +3060,7 @@ DTSTART:20251209T070000Z
 DTEND:20251209T083500Z
 SUMMARY:SO (L)
 LOCATION:121 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/13\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T123000Z
@@ -3172,7 +3165,7 @@ DTSTART:20251216T070000Z
 DTEND:20251216T083500Z
 SUMMARY:SO (L)
 LOCATION:121 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/13\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T123000Z
@@ -3291,7 +3284,7 @@ DTSTART:20260109T070000Z
 DTEND:20260109T083500Z
 SUMMARY:SO (L)
 LOCATION:120 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/13\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T104000Z
@@ -3361,7 +3354,7 @@ DTSTART:20260114T104000Z
 DTEND:20260114T121500Z
 SUMMARY:SO (L)
 LOCATION:120 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/13\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T085000Z
@@ -3481,6 +3474,13 @@ DTEND:20260122T102500Z
 SUMMARY:F2 (ć)
 LOCATION:203 65
 DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260122T104000Z
+DTEND:20260122T121500Z
+SUMMARY:SO (L)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/13\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T070000Z

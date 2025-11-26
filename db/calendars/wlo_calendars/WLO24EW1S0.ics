@@ -427,7 +427,7 @@ BEGIN:VEVENT
 DTSTART:20251216T070000Z
 DTEND:20251216T083500Z
 SUMMARY:PoF (w)
-LOCATION:1a/28
+LOCATION:37/158
 DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: dr hab. Kostecki Janusz
 END:VEVENT
 BEGIN:VEVENT
@@ -443,13 +443,6 @@ DTEND:20250120T083500Z
 SUMMARY:PG (ć)
 LOCATION:1a/28
 DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr hab. Kamiński Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250127T070000Z
-DTEND:20250127T083500Z
-SUMMARY:PG (ć)
-LOCATION:1a/28
-DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T075000Z
@@ -511,14 +504,14 @@ BEGIN:VEVENT
 DTSTART:20251209T085000Z
 DTEND:20251209T102500Z
 SUMMARY:PoF (w)
-LOCATION:1a/28
+LOCATION:1/22
 DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr hab. Kostecki Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T085000Z
 DTEND:20251216T102500Z
 SUMMARY:PoF (ć)
-LOCATION:1a/28
+LOCATION:37/158
 DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: dr hab. Kostecki Janusz
 END:VEVENT
 BEGIN:VEVENT
@@ -595,7 +588,7 @@ BEGIN:VEVENT
 DTSTART:20251209T104000Z
 DTEND:20251209T121500Z
 SUMMARY:PoF (ć)
-LOCATION:1a/28
+LOCATION:1/22
 DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/11\nProwadzący: dr hab. Kostecki Janusz
 END:VEVENT
 BEGIN:VEVENT
@@ -681,6 +674,13 @@ DTEND:20250113T140500Z
 SUMMARY:PG (w)
 LOCATION:4.17b/135
 DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr hab. Kamiński Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250120T123000Z
+DTEND:20250120T140500Z
+SUMMARY:PG (ć)
+LOCATION:1a/28
+DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T123000Z
