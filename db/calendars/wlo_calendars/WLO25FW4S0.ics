@@ -137,20 +137,6 @@ LOCATION:A.1.3/135
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/19
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251201T085000Z
-DTEND:20251201T102500Z
-SUMMARY:M1 (ć)
-LOCATION:A.1.3/135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/19
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251208T085000Z
-DTEND:20251208T102500Z
-SUMMARY:WDM (w)
-LOCATION:aula/135
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251215T085000Z
 DTEND:20251215T102500Z
 SUMMARY:WdI (w)
@@ -197,7 +183,7 @@ DTSTART:20251020T094000Z
 DTEND:20251020T111500Z
 SUMMARY:M1 (ć)
 LOCATION:3.16/135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/19
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T104000Z
@@ -211,7 +197,7 @@ DTSTART:20251103T104000Z
 DTEND:20251103T121500Z
 SUMMARY:M1 (ć)
 LOCATION:
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/19
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T104000Z
@@ -239,14 +225,14 @@ DTSTART:20251208T104000Z
 DTEND:20251208T121500Z
 SUMMARY:M1 (ć)
 LOCATION:3.16/135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/19
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T104000Z
 DTEND:20251215T121500Z
 SUMMARY:M1 (ć)
 LOCATION:3.16/135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/19
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250119T104000Z
@@ -319,6 +305,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/30\nProwadzący: mgr Gąsiński Michał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250119T123000Z
+DTEND:20250119T140500Z
+SUMMARY:M1 (ć)
+LOCATION:
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/19
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251006T140000Z
 DTEND:20251006T153500Z
 SUMMARY:RiAIP (w)
@@ -337,7 +330,7 @@ DTSTART:20251020T140000Z
 DTEND:20251020T153500Z
 SUMMARY:WDM (w)
 LOCATION:aula/135
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T150000Z
@@ -372,7 +365,7 @@ DTSTART:20251013T155000Z
 DTEND:20251013T172500Z
 SUMMARY:WDM (w)
 LOCATION:aula/135
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T155000Z
@@ -384,6 +377,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T165000Z
 DTEND:20251117T182500Z
+SUMMARY:WDM (w)
+LOCATION:aula/135
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250112T165000Z
+DTEND:20250112T182500Z
 SUMMARY:WDM (w)
 LOCATION:aula/135
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef

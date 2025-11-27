@@ -270,6 +270,13 @@ LOCATION:
 DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251208T104000Z
+DTEND:20251208T121500Z
+SUMMARY:Mwein (w)
+LOCATION:
+DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251215T104000Z
 DTEND:20251215T121500Z
 SUMMARY:Cps (w)
@@ -435,7 +442,7 @@ DTSTART:20250126T123000Z
 DTEND:20250126T140500Z
 SUMMARY:Mwein (w)
 LOCATION:
-DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7
+DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T140000Z
@@ -963,13 +970,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 44/84
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250120T123000Z
-DTEND:20250120T140500Z
-SUMMARY:Mwein (w)
-LOCATION:
-DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250127T123000Z
 DTEND:20250127T140500Z
 SUMMARY:App (S)
@@ -1397,13 +1397,6 @@ LOCATION:13/ 54; 18/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251203T104000Z
-DTEND:20251203T121500Z
-SUMMARY:Tmf (L)
-LOCATION:
-DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251210T104000Z
 DTEND:20251210T121500Z
 SUMMARY:Prmi (L)
@@ -1436,7 +1429,7 @@ DTSTART:20250107T104000Z
 DTEND:20250107T121500Z
 SUMMARY:Tmf (L)
 LOCATION:
-DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8
+DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250128T104000Z
@@ -1481,13 +1474,6 @@ LOCATION:13/ 54; 18/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251203T123000Z
-DTEND:20251203T140500Z
-SUMMARY:Tmf (L)
-LOCATION:
-DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251210T123000Z
 DTEND:20251210T140500Z
 SUMMARY:Prmi (L)
@@ -1520,7 +1506,7 @@ DTSTART:20250107T123000Z
 DTEND:20250107T140500Z
 SUMMARY:Tmf (L)
 LOCATION:
-DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8
+DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250128T123000Z
@@ -1586,6 +1572,13 @@ LOCATION:
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 18/24
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251217T150000Z
+DTEND:20251217T163500Z
+SUMMARY:Tmf (L)
+LOCATION:
+DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251224T150000Z
 DTEND:20251224T163500Z
 SUMMARY:I 
@@ -1640,6 +1633,13 @@ DTEND:20251210T182500Z
 SUMMARY:Swb (L)
 LOCATION:
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 24/24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T165000Z
+DTEND:20251217T182500Z
+SUMMARY:Tmf (L)
+LOCATION:
+DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T165000Z

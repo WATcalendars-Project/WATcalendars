@@ -11,6 +11,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 1/119
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251201T070000Z
+DTEND:20251201T083500Z
+SUMMARY:Tw1 (L)
+LOCATION:17a/ 21
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251208T070000Z
 DTEND:20251208T083500Z
 SUMMARY:Mp (w)
@@ -65,6 +72,13 @@ DTEND:20251110T102500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 5/119
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251201T085000Z
+DTEND:20251201T102500Z
+SUMMARY:Tw1 (L)
+LOCATION:17a/ 21
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T085000Z
@@ -379,7 +393,7 @@ DTSTART:20251201T150000Z
 DTEND:20251201T163500Z
 SUMMARY:Tw1 (L)
 LOCATION:14/ 19; 17a/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr inż. Woźniak Adam
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T150000Z
@@ -806,7 +820,7 @@ DTSTART:20250120T085000Z
 DTEND:20250120T102500Z
 SUMMARY:Tw1 (L)
 LOCATION:17a/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr inż. Woźniak Adam
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T085000Z
@@ -1688,7 +1702,7 @@ DTSTART:20251210T150000Z
 DTEND:20251210T163500Z
 SUMMARY:Tw1 (L)
 LOCATION:14/ 19; 17a/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr inż. Woźniak Adam
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T150000Z
@@ -1870,14 +1884,14 @@ DTSTART:20250122T070000Z
 DTEND:20250122T083500Z
 SUMMARY:Tw1 (L)
 LOCATION:14/ 19; 17a/ 21; 9/ 21; 10/ 21; 6/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250129T070000Z
 DTEND:20250129T083500Z
 SUMMARY:Tw1 (L)
 LOCATION:14/ 19; 17a/ 21; 9/ 21; 10/ 21; 6/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T070000Z
@@ -2010,14 +2024,14 @@ DTSTART:20250122T085000Z
 DTEND:20250122T102500Z
 SUMMARY:Tw1 (L)
 LOCATION:14/ 19; 17a/ 21; 9/ 21; 10/ 21; 6/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250129T085000Z
 DTEND:20250129T102500Z
 SUMMARY:Tw1 (L)
 LOCATION:14/ 19; 17a/ 21; 9/ 21; 10/ 21; 6/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T085000Z
@@ -2107,7 +2121,7 @@ BEGIN:VEVENT
 DTSTART:20251218T104000Z
 DTEND:20251218T121500Z
 SUMMARY:Sinż (ć)
-LOCATION:7/ 23a; 6/ 23a
+LOCATION:7/ 23a
 DESCRIPTION:Statystyka inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
@@ -2136,7 +2150,7 @@ DTSTART:20250115T104000Z
 DTEND:20250115T121500Z
 SUMMARY:Tw1 (L)
 LOCATION:14/ 19; 17a/ 21; 9/ 21; 10/ 21; 6/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T104000Z
@@ -2262,7 +2276,7 @@ DTSTART:20250115T123000Z
 DTEND:20250115T140500Z
 SUMMARY:Tw1 (L)
 LOCATION:14/ 19; 17a/ 21; 9/ 21; 10/ 21; 6/ 21
-DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9
+DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T123000Z

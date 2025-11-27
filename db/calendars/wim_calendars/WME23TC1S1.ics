@@ -459,18 +459,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 19/147
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250112T123000Z
-DTEND:20250112T140500Z
-SUMMARY:Sp* (ć)
-LOCATION:15/ 23a
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250119T123000Z
 DTEND:20250119T140500Z
 SUMMARY:Sp* (ć)
 LOCATION:55/ 62
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250202T123000Z
@@ -736,7 +729,7 @@ DTSTART:20250113T070000Z
 DTEND:20250113T083500Z
 SUMMARY:Sp* (ć)
 LOCATION:55/ 62
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250217T070000Z
@@ -786,13 +779,6 @@ DTEND:20251111T102500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 40/147
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251209T085000Z
-DTEND:20251209T102500Z
-SUMMARY:Otw (w)
-LOCATION:5/ 20
-DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T085000Z
@@ -1089,6 +1075,13 @@ LOCATION:5/ 23a
 DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250127T123000Z
+DTEND:20250127T140500Z
+SUMMARY:Sp* (ć)
+LOCATION:15/ 23a
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250210T123000Z
 DTEND:20250210T140500Z
 SUMMARY:Tr.Ł.2 (Zp. Ćw)
@@ -1107,21 +1100,21 @@ DTSTART:20251007T140000Z
 DTEND:20251007T153500Z
 SUMMARY:Otw (w)
 LOCATION:6/ 23a
-DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: dr inż. Pankiewicz Bolesław
+DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T140000Z
 DTEND:20251014T153500Z
 SUMMARY:Otw (w)
 LOCATION:5/ 23a
-DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: dr inż. Pankiewicz Bolesław
+DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T140000Z
 DTEND:20251021T153500Z
 SUMMARY:Otw (w)
 LOCATION:5/ 23a
-DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: dr inż. Pankiewicz Bolesław
+DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T150000Z
@@ -1351,7 +1344,7 @@ BEGIN:VEVENT
 DTSTART:20251210T070000Z
 DTEND:20251210T083500Z
 SUMMARY:Sp* (w)
-LOCATION:15/ 23a
+LOCATION:5/ 20
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/17\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
@@ -1458,6 +1451,13 @@ DTEND:20251210T102500Z
 SUMMARY:PeUT (ć)
 LOCATION:2/ 68
 DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T085000Z
+DTEND:20251217T102500Z
+SUMMARY:Otw (w)
+LOCATION:42/ 20
+DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T085000Z
@@ -1960,7 +1960,7 @@ BEGIN:VEVENT
 DTSTART:20251218T085000Z
 DTEND:20251218T102500Z
 SUMMARY:But (w)
-LOCATION:6/ 23a
+LOCATION:15/ 23a
 DESCRIPTION:Budowa urządzeń transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11
 END:VEVENT
 BEGIN:VEVENT
@@ -2156,7 +2156,7 @@ BEGIN:VEVENT
 DTSTART:20251218T123000Z
 DTEND:20251218T140500Z
 SUMMARY:Tr.Ł.2 (ć)
-LOCATION:6/ 23a
+LOCATION:2/ 23a
 DESCRIPTION:Transport ładunków 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
 END:VEVENT
 BEGIN:VEVENT

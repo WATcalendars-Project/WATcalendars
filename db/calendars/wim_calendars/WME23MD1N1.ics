@@ -200,13 +200,6 @@ LOCATION:9/ 54; 120/ 54
 DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251129T070000Z
-DTEND:20251129T083500Z
-SUMMARY:Peks (w)
-LOCATION:5/ 20
-DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251206T070000Z
 DTEND:20251206T083500Z
 SUMMARY:I 
@@ -218,7 +211,7 @@ DTSTART:20251213T070000Z
 DTEND:20251213T083500Z
 SUMMARY:Peks (w)
 LOCATION:5/ 20
-DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T070000Z
@@ -295,7 +288,7 @@ DTSTART:20251004T075000Z
 DTEND:20251004T092500Z
 SUMMARY:Peks (w)
 LOCATION:6/ 23a
-DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T075000Z
@@ -342,9 +335,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251129T085000Z
 DTEND:20251129T102500Z
-SUMMARY:Peks (ć)
+SUMMARY:Peks (w)
 LOCATION:5/ 20
-DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T085000Z
@@ -358,7 +351,7 @@ DTSTART:20251213T085000Z
 DTEND:20251213T102500Z
 SUMMARY:Peks (ć)
 LOCATION:5/ 20
-DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T085000Z
@@ -489,9 +482,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251129T104000Z
 DTEND:20251129T121500Z
-SUMMARY:Brd (L)
-LOCATION:6/ 23a; 17/ 23
-DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/1
+SUMMARY:Peks (ć)
+LOCATION:5/ 20
+DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T104000Z
@@ -1577,6 +1570,13 @@ DTEND:20251207T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 63/84
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251214T123000Z
+DTEND:20251214T140500Z
+SUMMARY:Brd (L)
+LOCATION:6/ 23a; 17/ 23
+DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251221T123000Z

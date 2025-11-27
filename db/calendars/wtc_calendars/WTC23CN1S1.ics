@@ -11,6 +11,13 @@ LOCATION:123 24
 DESCRIPTION:Metody obliczeniowe w chemii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. Szymańczyk Leszek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250126T070000Z
+DTEND:20250126T083500Z
+SUMMARY:wmca (w)
+LOCATION:10 55
+DESCRIPTION:Współczesne metody chemii analitycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr hab. inż. Popiel Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251215T085000Z
 DTEND:20251215T102500Z
 SUMMARY:wmca (L)
@@ -288,7 +295,7 @@ DTSTART:20251028T104000Z
 DTEND:20251028T121500Z
 SUMMARY:wmca (w)
 LOCATION:110/ 14
-DESCRIPTION:Współczesne metody chemii analitycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr hab. inż. Popiel Stanisław
+DESCRIPTION:Współczesne metody chemii analitycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr hab. inż. Popiel Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T104000Z
@@ -389,25 +396,11 @@ LOCATION:ć
 DESCRIPTION:50%\nRodzaj zajęć: Mwy\nNumer zajęć: 1/2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250127T123000Z
-DTEND:20250127T140500Z
-SUMMARY:Fj (L)
-LOCATION:5 55
-DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: por. mgr inż. Piwowarski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251014T140000Z
 DTEND:20251014T153500Z
 SUMMARY:Fj (ć)
 LOCATION:2 55A
 DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Puton Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250127T150000Z
-DTEND:20250127T163500Z
-SUMMARY:Fj (L)
-LOCATION:5 55
-DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T060000Z
@@ -461,9 +454,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250128T070000Z
 DTEND:20250128T083500Z
-SUMMARY:wmca (w)
-LOCATION:10 55
-DESCRIPTION:Współczesne metody chemii analitycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr hab. inż. Popiel Stanisław
+SUMMARY:Fj (L)
+LOCATION:5 55
+DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T075000Z
@@ -520,6 +513,13 @@ DTEND:20251217T102500Z
 SUMMARY:Mc (w)
 LOCATION:110/ 14
 DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250128T085000Z
+DTEND:20250128T102500Z
+SUMMARY:Fj (L)
+LOCATION:5 55
+DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: por. mgr inż. Piwowarski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T094000Z

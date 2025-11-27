@@ -501,6 +501,13 @@ LOCATION:
 DESCRIPTION:Polymer materials\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/8\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251217T104000Z
+DTEND:20251217T121500Z
+SUMMARY:Ce (S)
+LOCATION:
+DESCRIPTION:Chemistry of explosives\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/10\nProwadzący: dr inż. Szala Mateusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250107T104000Z
 DTEND:20250107T121500Z
 SUMMARY:Pma (S)
@@ -541,13 +548,6 @@ DTEND:20251126T140500Z
 SUMMARY:SMoOSD (L)
 LOCATION:
 DESCRIPTION:Spectroscopic Methods of Organic Structure Determination\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr hab. inż. (prof. ucz.) Jankiewicz Bartłomiej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251203T123000Z
-DTEND:20251203T140500Z
-SUMMARY:Ce (S)
-LOCATION:
-DESCRIPTION:Chemistry of explosives\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/10\nProwadzący: dr inż. Szala Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T123000Z
@@ -928,13 +928,6 @@ LOCATION:
 DESCRIPTION:Chemistry of explosives\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251212T085000Z
-DTEND:20251212T102500Z
-SUMMARY:SMoOSD (L)
-LOCATION:
-DESCRIPTION:Spectroscopic Methods of Organic Structure Determination\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr hab. inż. (prof. ucz.) Jankiewicz Bartłomiej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251219T085000Z
 DTEND:20251219T102500Z
 SUMMARY:Ce (L)
@@ -942,15 +935,22 @@ LOCATION:
 DESCRIPTION:Chemistry of explosives\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251212T104000Z
-DTEND:20251212T121500Z
+DTSTART:20250123T085000Z
+DTEND:20250123T102500Z
+SUMMARY:SMoOSD (L)
+LOCATION:
+DESCRIPTION:Spectroscopic Methods of Organic Structure Determination\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr hab. inż. (prof. ucz.) Jankiewicz Bartłomiej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250123T104000Z
+DTEND:20250123T121500Z
 SUMMARY:SMoOSD (L)
 LOCATION:
 DESCRIPTION:Spectroscopic Methods of Organic Structure Determination\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr hab. inż. (prof. ucz.) Jankiewicz Bartłomiej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251212T123000Z
-DTEND:20251212T140500Z
+DTSTART:20250123T123000Z
+DTEND:20250123T140500Z
 SUMMARY:SMoOSD (L)
 LOCATION:
 DESCRIPTION:Spectroscopic Methods of Organic Structure Determination\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: dr hab. inż. (prof. ucz.) Jankiewicz Bartłomiej

@@ -175,7 +175,7 @@ BEGIN:VEVENT
 DTSTART:20251208T085000Z
 DTEND:20251208T102500Z
 SUMMARY:Stw (w)
-LOCATION:2/ 23a
+LOCATION:6/ 23a
 DESCRIPTION:System transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 2/17\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -289,6 +289,13 @@ DTEND:20251201T121500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 6/27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T104000Z
+DTEND:20251208T121500Z
+SUMMARY:Stw (ć)
+LOCATION:6/ 23a
+DESCRIPTION:System transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T104000Z
@@ -1191,7 +1198,7 @@ DTSTART:20250120T123000Z
 DTEND:20250120T140500Z
 SUMMARY:Stw (ć)
 LOCATION:42/ 20
-DESCRIPTION:System transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: mgr inż. Szymański Krzysztof
+DESCRIPTION:System transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T123000Z
@@ -1856,7 +1863,7 @@ DTSTART:20251203T123000Z
 DTEND:20251203T140500Z
 SUMMARY:Stw (ć)
 LOCATION:3/ 23a
-DESCRIPTION:System transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: mgr inż. Szymański Krzysztof
+DESCRIPTION:System transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T123000Z
@@ -2437,7 +2444,7 @@ DTSTART:20251218T123000Z
 DTEND:20251218T140500Z
 SUMMARY:Stw (ć)
 LOCATION:3/ 23a
-DESCRIPTION:System transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: mgr inż. Szymański Krzysztof
+DESCRIPTION:System transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T123000Z
@@ -2458,7 +2465,7 @@ DTSTART:20250108T123000Z
 DTEND:20250108T140500Z
 SUMMARY:Stw (ć)
 LOCATION:3/ 23a
-DESCRIPTION:System transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: mgr inż. Szymański Krzysztof
+DESCRIPTION:System transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T123000Z
@@ -2515,13 +2522,6 @@ DTEND:20251120T163500Z
 SUMMARY:Mm. (L)
 LOCATION:14/ 54A
 DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/18
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251127T150000Z
-DTEND:20251127T163500Z
-SUMMARY:Stw (ć)
-LOCATION:3/ 23a
-DESCRIPTION:System transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T150000Z

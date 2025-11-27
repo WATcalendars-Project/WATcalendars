@@ -3217,13 +3217,6 @@ LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251201T123000Z
-DTEND:20251201T140500Z
-SUMMARY:Ao (ć)
-LOCATION:309 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251202T070000Z
 DTEND:20251202T083500Z
 SUMMARY:WF (ć)
@@ -3278,6 +3271,13 @@ DTEND:20251204T201500Z
 SUMMARY:Insz (L)
 LOCATION:223 S
 DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr Tomasz Protasowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251205T070000Z
+DTEND:20251205T083500Z
+SUMMARY:Ao (ć)
+LOCATION:227 S
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T085000Z
@@ -3434,6 +3434,13 @@ LOCATION:224 S
 DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251212T070000Z
+DTEND:20251212T083500Z
+SUMMARY:Ao (ć)
+LOCATION:223 S
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251212T085000Z
 DTEND:20251212T102500Z
 SUMMARY:Ao (w)
@@ -3446,13 +3453,6 @@ DTEND:20251212T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 50/90\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251212T123000Z
-DTEND:20251212T140500Z
-SUMMARY:Ao (ć)
-LOCATION:316 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T070000Z
@@ -3686,13 +3686,6 @@ LOCATION:227 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260112T104000Z
-DTEND:20260112T121500Z
-SUMMARY:Ao (ć)
-LOCATION:313 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260113T070000Z
 DTEND:20260113T083500Z
 SUMMARY:WF (ć)
@@ -3705,6 +3698,13 @@ DTEND:20260113T102500Z
 SUMMARY:mo (L)
 LOCATION:227 S
 DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260113T104000Z
+DTEND:20260113T121500Z
+SUMMARY:Ao (ć)
+LOCATION:223 S
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T070000Z
@@ -3773,7 +3773,7 @@ BEGIN:VEVENT
 DTSTART:20260116T123000Z
 DTEND:20260116T140500Z
 SUMMARY:Ao (ć)
-LOCATION:309 S
+LOCATION:236 S
 DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
@@ -3885,7 +3885,7 @@ BEGIN:VEVENT
 DTSTART:20260123T123000Z
 DTEND:20260123T140500Z
 SUMMARY:Ao (ć)
-LOCATION:309 S
+LOCATION:223 S
 DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
@@ -4046,7 +4046,7 @@ BEGIN:VEVENT
 DTSTART:20260130T123000Z
 DTEND:20260130T140500Z
 SUMMARY:Ao (ć)
-LOCATION:309 S
+LOCATION:236 S
 DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT

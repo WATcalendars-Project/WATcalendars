@@ -11,13 +11,6 @@ LOCATION:1.15/16
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251208T085000Z
-DTEND:20251208T102500Z
-SUMMARY:WDM (w)
-LOCATION:aula/135
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251215T085000Z
 DTEND:20251215T102500Z
 SUMMARY:WdI (w)
@@ -204,7 +197,7 @@ DTSTART:20251020T140000Z
 DTEND:20251020T153500Z
 SUMMARY:WDM (w)
 LOCATION:aula/135
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T150000Z
@@ -240,6 +233,13 @@ DTEND:20251027T182500Z
 SUMMARY:Wzp (w)
 LOCATION:0.24/135
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Kobielski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250112T165000Z
+DTEND:20250112T182500Z
+SUMMARY:WDM (w)
+LOCATION:aula/135
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T174000Z
@@ -802,6 +802,13 @@ LOCATION:aula/135
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 15/17\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251217T104000Z
+DTEND:20251217T121500Z
+SUMMARY:M1 (ć)
+LOCATION:
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/19
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250107T104000Z
 DTEND:20250107T121500Z
 SUMMARY:PZiP (ć)
@@ -1000,13 +1007,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T104000Z
 DTEND:20251106T121500Z
-SUMMARY:M1 (ć)
-LOCATION:9/158
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/19
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T104000Z
-DTEND:20251204T121500Z
 SUMMARY:M1 (ć)
 LOCATION:9/158
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/19

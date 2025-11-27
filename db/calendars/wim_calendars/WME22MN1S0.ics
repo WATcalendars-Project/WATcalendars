@@ -349,16 +349,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250112T104000Z
 DTEND:20250112T121500Z
-SUMMARY:BPiE (w)
+SUMMARY:Pdm (w)
 LOCATION:5/ 23a
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: ppłk dr inż. Hryciów Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T113000Z
 DTEND:20251006T130500Z
 SUMMARY:Pdm (w)
 LOCATION:6/ 23a
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: ppłk dr inż. Hryciów Zdzisław
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: ppłk dr inż. Hryciów Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T113000Z
@@ -379,14 +379,14 @@ DTSTART:20251027T123000Z
 DTEND:20251027T140500Z
 SUMMARY:BPiE (w)
 LOCATION:5/ 23a
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T123000Z
 DTEND:20251103T140500Z
 SUMMARY:Pdm (w)
 LOCATION:5/ 23a
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: ppłk dr inż. Hryciów Zdzisław
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: ppłk dr inż. Hryciów Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251110T123000Z
@@ -400,7 +400,7 @@ DTSTART:20251117T123000Z
 DTEND:20251117T140500Z
 SUMMARY:Pdm (w)
 LOCATION:6/ 23a
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: ppłk dr inż. Hryciów Zdzisław
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: ppłk dr inż. Hryciów Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T123000Z
@@ -412,9 +412,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T123000Z
 DTEND:20251201T140500Z
-SUMMARY:Pdm (w)
-LOCATION:6/ 23a
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: ppłk dr inż. Hryciów Zdzisław
+SUMMARY:BPiE (w)
+LOCATION:5/ 23a
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T123000Z
@@ -471,6 +471,13 @@ DTEND:20251124T163500Z
 SUMMARY:Zśie (ć)
 LOCATION:5/ 19
 DESCRIPTION:Zarządzanie środowiskiem i ekologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251201T150000Z
+DTEND:20251201T163500Z
+SUMMARY:Pdm (L)
+LOCATION:14/ 23a
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T150000Z
@@ -827,7 +834,7 @@ DTSTART:20251216T104000Z
 DTEND:20251216T121500Z
 SUMMARY:Pdm (L)
 LOCATION:14/ 23a
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T104000Z
@@ -1254,7 +1261,7 @@ DTSTART:20251126T085000Z
 DTEND:20251126T102500Z
 SUMMARY:Pdm (L)
 LOCATION:14/ 23a
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T085000Z
@@ -1705,6 +1712,13 @@ LOCATION:10/ 19
 DESCRIPTION:Badania laboratoryjne mps\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251211T070000Z
+DTEND:20251211T083500Z
+SUMMARY:SUiN (ć)
+LOCATION:1/ 19
+DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251218T070000Z
 DTEND:20251218T083500Z
 SUMMARY:GwSMPS (S)
@@ -1807,7 +1821,7 @@ DTSTART:20251211T085000Z
 DTEND:20251211T102500Z
 SUMMARY:SUiN (ć)
 LOCATION:1/ 19
-DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. Szczawiński Piotr
+DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T085000Z
@@ -1905,28 +1919,28 @@ DTSTART:20251127T104000Z
 DTEND:20251127T121500Z
 SUMMARY:SUiN (ć)
 LOCATION:1/ 19
-DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr inż. Szczawiński Piotr
+DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T104000Z
 DTEND:20251204T121500Z
 SUMMARY:SUiN (ć)
 LOCATION:5/ 19
-DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr inż. Szczawiński Piotr
+DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T104000Z
 DTEND:20251211T121500Z
 SUMMARY:SUiN (ć)
 LOCATION:1/ 19
-DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Szczawiński Piotr
+DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T104000Z
 DTEND:20251218T121500Z
 SUMMARY:SUiN (ć)
 LOCATION:5/ 19
-DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Szczawiński Piotr
+DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T104000Z
@@ -1997,13 +2011,6 @@ DTEND:20251120T140500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23/30\nProwadzący: mgr Jadczak Mariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251127T123000Z
-DTEND:20251127T140500Z
-SUMMARY:SUiN (ć)
-LOCATION:1/ 19
-DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T123000Z
@@ -2431,13 +2438,6 @@ DTEND:20251128T121500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 91/140
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251205T104000Z
-DTEND:20251205T121500Z
-SUMMARY:Pdm (L)
-LOCATION:14/ 23a
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T104000Z

@@ -291,6 +291,13 @@ LOCATION:0.19/135
 DESCRIPTION:T\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: dr Chyrzyński Ryszard; dr Kościelecki Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251202T085000Z
+DTEND:20251202T102500Z
+SUMMARY:Syst.zarz. 
+LOCATION:2/22
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251216T085000Z
 DTEND:20251216T102500Z
 SUMMARY:ZŚN (w)
@@ -302,7 +309,7 @@ DTSTART:20251007T094000Z
 DTEND:20251007T111500Z
 SUMMARY:Syst.zarz. 
 LOCATION:3.16/135
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T094000Z
@@ -310,6 +317,13 @@ DTEND:20251021T111500Z
 SUMMARY:P 
 LOCATION:0.28/135
 DESCRIPTION:P\nRodzaj zajęć: -\nNumer zajęć: 4/15\nProwadzący: dr Wojnarowska Szpucha Sylwia; dr Chyrzyński Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251202T104000Z
+DTEND:20251202T121500Z
+SUMMARY:Syst.zarz. 
+LOCATION:2/22
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 10/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T104000Z
@@ -330,7 +344,7 @@ DTSTART:20251007T113000Z
 DTEND:20251007T130500Z
 SUMMARY:Syst.zarz. 
 LOCATION:3.16/135
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
+DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 11/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T113000Z
@@ -501,13 +515,6 @@ LOCATION:5.17/135
 DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251202T165000Z
-DTEND:20251202T182500Z
-SUMMARY:Syst.zarz. 
-LOCATION:1.17/16
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 10/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251209T165000Z
 DTEND:20251209T182500Z
 SUMMARY:Bwp (ć)
@@ -562,13 +569,6 @@ DTEND:20251125T201500Z
 SUMMARY:Ap (ć)
 LOCATION:5.17/135
 DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Chyrzyński Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251202T184000Z
-DTEND:20251202T201500Z
-SUMMARY:Syst.zarz. 
-LOCATION:1.17/16
-DESCRIPTION:Syst.zarz.\nRodzaj zajęć: -\nNumer zajęć: 11/15\nProwadzący: dr Chyrzyński Ryszard; dr Stawarz Paweł; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T184000Z
@@ -949,13 +949,6 @@ LOCATION:5.27/135
 DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 13/15\nProwadzący: dr Kościelecki Tomasz; dr Chyrzyński Ryszard; dr Wojnarowska Szpucha Sylwia; mgr Dąbrowska - Świder Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251211T150000Z
-DTEND:20251211T163500Z
-SUMMARY:Ap (ć)
-LOCATION:0.7/16
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Chyrzyński Ryszard
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251218T150000Z
 DTEND:20251218T163500Z
 SUMMARY:P 
@@ -1170,7 +1163,7 @@ DTSTART:20251114T123000Z
 DTEND:20251114T140500Z
 SUMMARY:Ap (ć)
 LOCATION:5.17/135
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Chyrzyński Ryszard
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T123000Z
@@ -1227,6 +1220,13 @@ DTEND:20250116T163500Z
 SUMMARY:ZŚN (ć)
 LOCATION:26/158
 DESCRIPTION:Zagrożenia Środowiska Naturalnego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Adamkiewicz Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250123T150000Z
+DTEND:20250123T163500Z
+SUMMARY:Ap (ć)
+LOCATION:255 S
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T150000Z

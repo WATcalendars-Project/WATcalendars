@@ -67,6 +67,13 @@ LOCATION:4d/ 19; 3d/ 19
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251215T070000Z
+DTEND:20251215T083500Z
+SUMMARY:Dtw (ć)
+LOCATION:1/ 19
+DESCRIPTION:Działania taktyczne wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12\nProwadzący: dr inż. Muszyński Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251222T070000Z
 DTEND:20251222T083500Z
 SUMMARY:I 
@@ -191,6 +198,13 @@ DTEND:20251208T102500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/ 19; 3d/ 19
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T085000Z
+DTEND:20251215T102500Z
+SUMMARY:Dtw (ć)
+LOCATION:1/ 19
+DESCRIPTION:Działania taktyczne wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T085000Z
@@ -834,7 +848,7 @@ DTSTART:20250113T070000Z
 DTEND:20250113T083500Z
 SUMMARY:Dtw (ć)
 LOCATION:108/ 54
-DESCRIPTION:Działania taktyczne wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Działania taktyczne wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T070000Z
@@ -960,7 +974,7 @@ DTSTART:20250113T085000Z
 DTEND:20250113T102500Z
 SUMMARY:Dtw (ć)
 LOCATION:108/ 54
-DESCRIPTION:Działania taktyczne wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Działania taktyczne wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T085000Z
@@ -2664,18 +2678,11 @@ LOCATION:15/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251127T123000Z
-DTEND:20251127T140500Z
-SUMMARY:Dtw (ć)
-LOCATION:108/ 54
-DESCRIPTION:Działania taktyczne wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: dr inż. Muszyński Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251204T123000Z
 DTEND:20251204T140500Z
 SUMMARY:Dtw (ć)
 LOCATION:108/ 54
-DESCRIPTION:Działania taktyczne wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Działania taktyczne wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T123000Z
@@ -2689,7 +2696,7 @@ DTSTART:20251218T123000Z
 DTEND:20251218T140500Z
 SUMMARY:Dtw (ć)
 LOCATION:108/ 54
-DESCRIPTION:Działania taktyczne wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Działania taktyczne wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T123000Z
@@ -2717,7 +2724,7 @@ DTSTART:20250115T123000Z
 DTEND:20250115T140500Z
 SUMMARY:Dtw (ć)
 LOCATION:108/ 54
-DESCRIPTION:Działania taktyczne wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Działania taktyczne wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T123000Z
@@ -2781,13 +2788,6 @@ DTEND:20251120T163500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/ 19
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251127T150000Z
-DTEND:20251127T163500Z
-SUMMARY:Dtw (ć)
-LOCATION:108/ 54
-DESCRIPTION:Działania taktyczne wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T150000Z
