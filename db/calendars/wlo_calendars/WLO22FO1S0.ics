@@ -301,7 +301,7 @@ BEGIN:VEVENT
 DTSTART:20251201T123000Z
 DTEND:20251201T140500Z
 SUMMARY:KL. (ć)
-LOCATION:37/158
+LOCATION:5/20
 DESCRIPTION:Koszty logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr Milian-Pogonowska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
@@ -963,13 +963,6 @@ LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251217T085000Z
-DTEND:20251217T102500Z
-SUMMARY:DZSŚB (w)
-LOCATION:3.16/135
-DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Gułaj Mariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250107T085000Z
 DTEND:20250107T102500Z
 SUMMARY:WF (ć)
@@ -1121,7 +1114,7 @@ DTSTART:20251015T113000Z
 DTEND:20251015T130500Z
 SUMMARY:DZSŚB (w)
 LOCATION:3.16/135
-DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Gułaj Mariusz
+DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T113000Z
@@ -1163,7 +1156,7 @@ DTSTART:20251126T123000Z
 DTEND:20251126T140500Z
 SUMMARY:DZSŚB (w)
 LOCATION:1.10/16
-DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Gułaj Mariusz
+DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T123000Z
@@ -1527,7 +1520,7 @@ DTSTART:20251023T094000Z
 DTEND:20251023T111500Z
 SUMMARY:DZSŚB (w)
 LOCATION:3.16/135
-DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Gułaj Mariusz
+DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T104000Z
@@ -1598,6 +1591,13 @@ DTEND:20250122T121500Z
 SUMMARY:BeSL (L)
 LOCATION:
 DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr inż. Sieczka Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T104000Z
+DTEND:20250129T121500Z
+SUMMARY:DZSŚB (w)
+LOCATION:aula/135
+DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T113000Z

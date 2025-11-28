@@ -1047,20 +1047,6 @@ LOCATION:314 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251202T104000Z
-DTEND:20251202T121500Z
-SUMMARY:WdI (L)
-LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251202T123000Z
-DTEND:20251202T140500Z
-SUMMARY:WdI (L)
-LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251202T184000Z
 DTEND:20251202T201500Z
 SUMMARY:Wzp (ć)
@@ -1236,13 +1222,6 @@ LOCATION:314 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251216T104000Z
-DTEND:20251216T121500Z
-SUMMARY:WdI (L)
-LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251217T070000Z
 DTEND:20251217T083500Z
 SUMMARY:M II (ć)
@@ -1262,13 +1241,6 @@ DTEND:20251217T121500Z
 SUMMARY:Mat I (ć)
 LOCATION:307 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/19\nProwadzący: mgr inż. Alicja Kida
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T123000Z
-DTEND:20251217T140500Z
-SUMMARY:PGI (ć)
-LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T150000Z
@@ -1304,6 +1276,13 @@ DTEND:20251218T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251218T150000Z
+DTEND:20251218T163500Z
+SUMMARY:PGI (ć)
+LOCATION:120/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T085000Z
@@ -1402,6 +1381,13 @@ DTEND:20260114T083500Z
 SUMMARY:M II (ć)
 LOCATION:308 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/17\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260114T085000Z
+DTEND:20260114T102500Z
+SUMMARY:WdI (L)
+LOCATION:252 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T104000Z
@@ -1619,6 +1605,20 @@ DTEND:20260129T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260129T150000Z
+DTEND:20260129T163500Z
+SUMMARY:WdI (L)
+LOCATION:252 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260129T165000Z
+DTEND:20260129T182500Z
+SUMMARY:WdI (L)
+LOCATION:252 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T085000Z

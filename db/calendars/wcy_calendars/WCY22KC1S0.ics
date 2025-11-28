@@ -3952,13 +3952,6 @@ LOCATION:120 65
 DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251217T165000Z
-DTEND:20251217T182500Z
-SUMMARY:MAST (P)
-LOCATION:120 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/8\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251218T104000Z
 DTEND:20251218T121500Z
 SUMMARY:Ps (ć)
@@ -4074,7 +4067,14 @@ BEGIN:VEVENT
 DTSTART:20260108T150000Z
 DTEND:20260108T163500Z
 SUMMARY:MAST (P)
-LOCATION:106 65
+LOCATION:237 S
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/8\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260108T165000Z
+DTEND:20260108T182500Z
+SUMMARY:MAST (P)
+LOCATION:237 S
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/8\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT

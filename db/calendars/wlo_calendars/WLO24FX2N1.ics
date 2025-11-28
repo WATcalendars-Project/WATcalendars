@@ -480,13 +480,6 @@ LOCATION:
 DESCRIPTION:Fizyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: prof. dr hab. inż. Parka Janusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251213T165000Z
-DTEND:20251213T182500Z
-SUMMARY:Is (ć)
-LOCATION:0.7/16
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251011T174000Z
 DTEND:20251011T191500Z
 SUMMARY:Met (w)
@@ -667,6 +660,13 @@ DTEND:20250111T102500Z
 SUMMARY:LZ (S)
 LOCATION:0.21/16
 DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: płk dr inż. Zelkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250118T085000Z
+DTEND:20250118T102500Z
+SUMMARY:Is (ć)
+LOCATION:1.17/16
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250125T085000Z

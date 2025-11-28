@@ -641,13 +641,6 @@ LOCATION:26/158
 DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251217T104000Z
-DTEND:20251217T121500Z
-SUMMARY:Pmb (w)
-LOCATION:
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. Kołodziejczyk Adam
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250107T104000Z
 DTEND:20250107T121500Z
 SUMMARY:SYS. 
@@ -725,6 +718,13 @@ LOCATION:24RX; 1S; 24RX; 3S; 24RX; 2S; 1 Trz
 DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 8/15\nProwadzący: mgr Dąbrowska - Świder Małgorzata; dr hab. Zalewski Jerzy; dr Kawalerski Paweł; dr Wojnarowska Szpucha Sylwia; dr Gocalski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250114T165000Z
+DTEND:20250114T182500Z
+SUMMARY:Pmb (w)
+LOCATION:1.10/16; 1.9/16
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. Kołodziejczyk Adam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251211T070000Z
 DTEND:20251211T083500Z
 SUMMARY:Pmb (w)
@@ -798,7 +798,7 @@ BEGIN:VEVENT
 DTSTART:20250108T123000Z
 DTEND:20250108T140500Z
 SUMMARY:Bee (ć)
-LOCATION:
+LOCATION:1a/28
 DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr hab. Zalewski Jerzy
 END:VEVENT
 BEGIN:VEVENT
@@ -868,7 +868,7 @@ BEGIN:VEVENT
 DTSTART:20250108T150000Z
 DTEND:20250108T163500Z
 SUMMARY:Bee (ć)
-LOCATION:
+LOCATION:1.16/16
 DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr hab. Zalewski Jerzy
 END:VEVENT
 BEGIN:VEVENT

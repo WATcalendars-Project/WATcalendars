@@ -67,6 +67,13 @@ LOCATION:255 S
 DESCRIPTION:Fizyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250110T070000Z
+DTEND:20250110T083500Z
+SUMMARY:Is (ć)
+LOCATION:0.23/16
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250117T070000Z
 DTEND:20250117T083500Z
 SUMMARY:LP (ć)
@@ -176,7 +183,7 @@ DTSTART:20250131T085000Z
 DTEND:20250131T102500Z
 SUMMARY:Is (ć)
 LOCATION:0.7/16
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T094000Z
@@ -260,7 +267,7 @@ DTSTART:20250124T104000Z
 DTEND:20250124T121500Z
 SUMMARY:Is (ć)
 LOCATION:0.7/16
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T113000Z
@@ -344,7 +351,7 @@ DTSTART:20250124T123000Z
 DTEND:20250124T140500Z
 SUMMARY:Is (ć)
 LOCATION:0.7/16
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T140000Z
@@ -400,7 +407,7 @@ DTSTART:20250110T150000Z
 DTEND:20250110T163500Z
 SUMMARY:Is (ć)
 LOCATION:0.7/16
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250117T150000Z
@@ -520,13 +527,6 @@ DTEND:20251206T201500Z
 SUMMARY:FII (ć)
 LOCATION:255 S
 DESCRIPTION:Fizyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251213T184000Z
-DTEND:20251213T201500Z
-SUMMARY:Is (ć)
-LOCATION:1.16/16
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251012T060000Z

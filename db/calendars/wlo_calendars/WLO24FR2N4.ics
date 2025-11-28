@@ -396,13 +396,6 @@ LOCATION:0.7/16
 DESCRIPTION:Projektowanie systemów i procesów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251213T150000Z
-DTEND:20251213T163500Z
-SUMMARY:TT (w)
-LOCATION:1.9/16
-DESCRIPTION:Technologie transportowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Głodowska Katarzyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251220T150000Z
 DTEND:20251220T163500Z
 SUMMARY:NSM (w)
@@ -947,5 +940,12 @@ DTEND:20251123T163500Z
 SUMMARY:Mv. (ć)
 LOCATION:0.8/16
 DESCRIPTION:Military vehicles\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Papliński Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250201T150000Z
+DTEND:20250201T163500Z
+SUMMARY:TT (w)
+LOCATION:3.16/135
+DESCRIPTION:Technologie transportowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Głodowska Katarzyna
 END:VEVENT
 END:VCALENDAR
