@@ -11,6 +11,13 @@ LOCATION:5.21/135
 DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251201T085000Z
+DTEND:20251201T102500Z
+SUMMARY:Pi (w)
+LOCATION:
+DESCRIPTION:Podstawy informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr inż. Pokorski Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251208T085000Z
 DTEND:20251208T102500Z
 SUMMARY:Lg (ć)
@@ -141,14 +148,14 @@ DTSTART:20251020T140000Z
 DTEND:20251020T153500Z
 SUMMARY:Pi (w)
 LOCATION:
-DESCRIPTION:Podstawy informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr inż. Pokorski Grzegorz
+DESCRIPTION:Podstawy informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr inż. Pokorski Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T150000Z
 DTEND:20251027T163500Z
 SUMMARY:Pi (w)
 LOCATION:
-DESCRIPTION:Podstawy informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr inż. Pokorski Grzegorz
+DESCRIPTION:Podstawy informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr inż. Pokorski Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T150000Z
@@ -168,7 +175,7 @@ BEGIN:VEVENT
 DTSTART:20251201T150000Z
 DTEND:20251201T163500Z
 SUMMARY:Pe. (ć)
-LOCATION:3.16/135
+LOCATION:0.21/16
 DESCRIPTION:Podstawy ekonomii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
@@ -238,7 +245,7 @@ BEGIN:VEVENT
 DTSTART:20251201T165000Z
 DTEND:20251201T182500Z
 SUMMARY:Pe. (ć)
-LOCATION:3.16/135
+LOCATION:0.21/16
 DESCRIPTION:Podstawy ekonomii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11\nProwadzący: prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
@@ -450,13 +457,6 @@ DTEND:20251118T163500Z
 SUMMARY:ETYKA 
 LOCATION:1.10/16; 1.9/16
 DESCRIPTION:ETYKA\nRodzaj zajęć: -\nNumer zajęć: 6/16\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; mgr Dąbrowska - Świder Małgorzata; dr Kowalski Wawrzyniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251125T150000Z
-DTEND:20251125T163500Z
-SUMMARY:Pi (w)
-LOCATION:1.10/16; 1.9/16
-DESCRIPTION:Podstawy informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr inż. Pokorski Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T150000Z

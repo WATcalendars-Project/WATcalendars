@@ -1485,14 +1485,14 @@ DTSTART:20251126T070000Z
 DTEND:20251126T083500Z
 SUMMARY:Par (L)
 LOCATION:14/ 23a; 4/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T070000Z
 DTEND:20251203T083500Z
 SUMMARY:Par (L)
 LOCATION:14/ 23a; 4/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T070000Z
@@ -3600,6 +3600,13 @@ DTEND:20251205T182500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 21/28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T165000Z
+DTEND:20251212T182500Z
+SUMMARY:Par (L)
+LOCATION:14/ 23a
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251226T165000Z

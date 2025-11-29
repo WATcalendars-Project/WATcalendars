@@ -340,11 +340,18 @@ LOCATION:4 41
 DESCRIPTION:Technika terahercowa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. (prof. ucz.) Kopczyński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251209T070000Z
+DTEND:20251209T083500Z
+SUMMARY:Mp (L)
+LOCATION:3 67
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251216T070000Z
 DTEND:20251216T083500Z
-SUMMARY:Ptd (w)
-LOCATION:27 70
-DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/22\nProwadzący: dr inż. Gontar Przemysław
+SUMMARY:Mp (ć)
+LOCATION:3 67
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T070000Z
@@ -435,7 +442,7 @@ DTSTART:20251014T094000Z
 DTEND:20251014T111500Z
 SUMMARY:Ptd (w)
 LOCATION:27 70
-DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/22\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/22\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T104000Z
@@ -478,6 +485,13 @@ DTEND:20251209T121500Z
 SUMMARY:L4g. (L)
 LOCATION:13 136;27 46;309 136;17 136
 DESCRIPTION:Laboratorium-4g.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/24\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław; dr inż. Gontar Przemysław; dr hab. inż. (prof. ucz.) Wojtanowski Jacek; dr inż. Kamiński Kamil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251216T104000Z
+DTEND:20251216T121500Z
+SUMMARY:Ptd (w)
+LOCATION:301 136
+DESCRIPTION:Podstawy teledetekcji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/22\nProwadzący: dr inż. Gontar Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T113000Z
@@ -1082,6 +1096,13 @@ LOCATION:108 58
 DESCRIPTION:Układy odniesienia i podstawy geodezji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251127T070000Z
+DTEND:20251127T083500Z
+SUMMARY:Mp (L)
+LOCATION:3 67
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251204T070000Z
 DTEND:20251204T083500Z
 SUMMARY:Ptd (w)
@@ -1245,30 +1266,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T123000Z
 DTEND:20251127T140500Z
-SUMMARY:Mp (L)
-LOCATION:3 67
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+SUMMARY:OI (ć)
+LOCATION:301 136
+DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T123000Z
 DTEND:20251204T140500Z
 SUMMARY:OI (ć)
 LOCATION:301 136
-DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
+DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T123000Z
 DTEND:20251211T140500Z
 SUMMARY:OI (ć)
 LOCATION:301 136
-DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251218T123000Z
-DTEND:20251218T140500Z
-SUMMARY:Mp (L)
-LOCATION:3 67
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T123000Z
@@ -1296,7 +1310,7 @@ DTSTART:20251106T150000Z
 DTEND:20251106T163500Z
 SUMMARY:Mp (ć)
 LOCATION:3 67
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T150000Z
@@ -1310,21 +1324,14 @@ DTSTART:20251120T150000Z
 DTEND:20251120T163500Z
 SUMMARY:Mp (ć)
 LOCATION:3 67
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251127T150000Z
-DTEND:20251127T163500Z
-SUMMARY:OI (ć)
-LOCATION:301 136
-DESCRIPTION:Optyka instrumentalna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. (prof. ucz.) Wojtanowski Jacek
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T150000Z
 DTEND:20251204T163500Z
 SUMMARY:Mp (ć)
 LOCATION:3 67
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T150000Z
@@ -1332,13 +1339,6 @@ DTEND:20251211T163500Z
 SUMMARY:Mp (L)
 LOCATION:3 67
 DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251218T150000Z
-DTEND:20251218T163500Z
-SUMMARY:Mp (ć)
-LOCATION:3 67
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. (prof. ucz.) Młyńczak Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T150000Z
@@ -1694,7 +1694,7 @@ BEGIN:VEVENT
 DTSTART:20251123T070000Z
 DTEND:20251123T083500Z
 SUMMARY:XFiz2 (ć)
-LOCATION:aF S;19 36
+LOCATION:aF S
 DESCRIPTION:XFiz2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. (prof. ucz.) Kopczyński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -1722,7 +1722,7 @@ BEGIN:VEVENT
 DTSTART:20251123T085000Z
 DTEND:20251123T102500Z
 SUMMARY:XFiz2 (ć)
-LOCATION:aF S;19 36
+LOCATION:aF S
 DESCRIPTION:XFiz2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. (prof. ucz.) Kopczyński Krzysztof
 END:VEVENT
 BEGIN:VEVENT

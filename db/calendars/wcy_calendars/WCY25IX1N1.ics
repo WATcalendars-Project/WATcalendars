@@ -1088,4 +1088,32 @@ SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 42/1\nProwadzący: -
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260207T070000Z
+DTEND:20260207T083500Z
+SUMMARY:M1 (E)
+LOCATION:307 S
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260214T070000Z
+DTEND:20260214T083500Z
+SUMMARY:Mat2 (E)
+LOCATION:307 S
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260221T070000Z
+DTEND:20260221T083500Z
+SUMMARY:M1 (Inne)
+LOCATION:307 S
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260221T085000Z
+DTEND:20260221T102500Z
+SUMMARY:Mat2 (Inne)
+LOCATION:307 S
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr Piotr Kozarzewski
+END:VEVENT
 END:VCALENDAR
