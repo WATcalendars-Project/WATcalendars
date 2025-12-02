@@ -249,13 +249,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 9/84
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251117T104000Z
-DTEND:20251117T121500Z
-SUMMARY:Par (ć)
-LOCATION:2/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251124T104000Z
 DTEND:20251124T121500Z
 SUMMARY:Tmf (ć)
@@ -694,7 +687,7 @@ DTSTART:20251028T085000Z
 DTEND:20251028T102500Z
 SUMMARY:Par (ć)
 LOCATION:5/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T085000Z
@@ -947,6 +940,13 @@ DTEND:20251125T140500Z
 SUMMARY:Prmi (L)
 LOCATION:
 DESCRIPTION:Programowanie mikrokontrolerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Berczyński Robert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251202T123000Z
+DTEND:20251202T140500Z
+SUMMARY:Par (ć)
+LOCATION:51/ 62
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T123000Z

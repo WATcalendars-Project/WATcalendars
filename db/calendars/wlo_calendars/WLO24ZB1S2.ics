@@ -172,6 +172,13 @@ LOCATION:3.16/135
 DESCRIPTION:Organizacja hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250120T085000Z
+DTEND:20250120T102500Z
+SUMMARY:Sd. (S)
+LOCATION:
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/15\nProwadzący: dr Woźniak Jacek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251021T094000Z
 DTEND:20251021T111500Z
 SUMMARY:Prc (ć)
@@ -183,7 +190,7 @@ DTSTART:20251028T104000Z
 DTEND:20251028T121500Z
 SUMMARY:Sd. (S)
 LOCATION:
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/15\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/15\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T104000Z
@@ -310,13 +317,6 @@ DTEND:20251119T102500Z
 SUMMARY:Prc (ć)
 LOCATION:1a/28
 DESCRIPTION:Przedsiębiorczość\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr Kaczmarska Krawczak Jadwiga
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T085000Z
-DTEND:20251217T102500Z
-SUMMARY:Sd. (S)
-LOCATION:1.15/16
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/15\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250114T085000Z
@@ -480,18 +480,11 @@ LOCATION:4.23/135
 DESCRIPTION:Informatyczne systemy agregacji i analizy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251203T165000Z
-DTEND:20251203T182500Z
-SUMMARY:Sd. (S)
-LOCATION:37/158
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/15\nProwadzący: dr Woźniak Jacek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251210T165000Z
 DTEND:20251210T182500Z
 SUMMARY:Sd. (S)
 LOCATION:0.21/16
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/15\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/15\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T165000Z
@@ -526,7 +519,7 @@ DTSTART:20251210T184000Z
 DTEND:20251210T201500Z
 SUMMARY:Sd. (S)
 LOCATION:0.22/16
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/15\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/15\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T184000Z
@@ -624,7 +617,7 @@ DTSTART:20251127T085000Z
 DTEND:20251127T102500Z
 SUMMARY:Sd. (S)
 LOCATION:4.17a/135
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/15\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/15\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T085000Z
@@ -680,14 +673,14 @@ DTSTART:20251023T094000Z
 DTEND:20251023T111500Z
 SUMMARY:Sd. (S)
 LOCATION:1b/28
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/15\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/15\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T104000Z
 DTEND:20251030T121500Z
 SUMMARY:Sd. (S)
 LOCATION:31/158
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/15\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/15\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T104000Z
@@ -771,7 +764,7 @@ DTSTART:20251016T113000Z
 DTEND:20251016T130500Z
 SUMMARY:Sd. (S)
 LOCATION:1a/28
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/15\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/15\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T113000Z
@@ -835,6 +828,13 @@ DTEND:20250108T140500Z
 SUMMARY:MWiPM (ć)
 LOCATION:
 DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr Skulska Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250115T123000Z
+DTEND:20250115T140500Z
+SUMMARY:Sd. (S)
+LOCATION:
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/15\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T123000Z

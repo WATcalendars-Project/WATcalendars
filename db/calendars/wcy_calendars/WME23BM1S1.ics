@@ -4694,13 +4694,6 @@ LOCATION:5/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251117T104000Z
-DTEND:20251117T121500Z
-SUMMARY:Par (ć)
-LOCATION:2/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251117T123000Z
 DTEND:20251117T140500Z
 SUMMARY:Tmf (w)
@@ -5072,18 +5065,18 @@ LOCATION:3 54E
 DESCRIPTION:Technika mikrofalowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251201T123000Z
-DTEND:20251201T140500Z
-SUMMARY:ArCz (w)
-LOCATION:8/ 62
-DESCRIPTION:Analiza ruchu człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251202T104000Z
 DTEND:20251202T121500Z
 SUMMARY:App (w)
 LOCATION:2.01/ 54A
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251202T123000Z
+DTEND:20251202T140500Z
+SUMMARY:Par (ć)
+LOCATION:51/ 62
+DESCRIPTION:Podstawy automatyki i robotyki - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T150000Z
@@ -5301,6 +5294,13 @@ DTEND:20251209T121500Z
 SUMMARY:App (Inne)
 LOCATION:5/ 23a
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T123000Z
+DTEND:20251209T140500Z
+SUMMARY:ArCz (w)
+LOCATION:3/ 23a
+DESCRIPTION:Analiza ruchu człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T150000Z

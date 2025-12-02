@@ -998,13 +998,6 @@ LOCATION:314 S
 DESCRIPTION:Rezerwacja\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251202T070000Z
-DTEND:20251202T083500Z
-SUMMARY:WdI (L)
-LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: mgr inż. Tadeusz Kowiorski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251202T085000Z
 DTEND:20251202T102500Z
 SUMMARY:Mat I (ć)
@@ -1082,13 +1075,6 @@ LOCATION:116/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251205T104000Z
-DTEND:20251205T121500Z
-SUMMARY:Ez (w)
-LOCATION:314 S
-DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251205T123000Z
 DTEND:20251205T140500Z
 SUMMARY:WDM (ć)
@@ -1115,6 +1101,13 @@ DTEND:20251209T102500Z
 SUMMARY:Mat I (ć)
 LOCATION:307 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/19\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T104000Z
+DTEND:20251209T121500Z
+SUMMARY:WdI (L)
+LOCATION:252 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T165000Z
@@ -1198,7 +1191,7 @@ DTSTART:20251212T104000Z
 DTEND:20251212T121500Z
 SUMMARY:Ez (w)
 LOCATION:314 S
-DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
+DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T123000Z
@@ -1206,6 +1199,13 @@ DTEND:20251212T140500Z
 SUMMARY:Wzp (w)
 LOCATION:314 S
 DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T150000Z
+DTEND:20251212T163500Z
+SUMMARY:Ez (w)
+LOCATION:314 S
+DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T070000Z

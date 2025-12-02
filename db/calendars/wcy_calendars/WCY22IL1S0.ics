@@ -3210,25 +3210,11 @@ LOCATION:223 S
 DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251201T104000Z
-DTEND:20251201T121500Z
-SUMMARY:Ps (ć)
-LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Justyna Kurkowiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251202T070000Z
 DTEND:20251202T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 47/90\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251202T085000Z
-DTEND:20251202T102500Z
-SUMMARY:Mnwd (w)
-LOCATION:309 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T104000Z
@@ -3257,6 +3243,13 @@ DTEND:20251203T140500Z
 SUMMARY:Mipb (w)
 LOCATION:236 S
 DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251204T070000Z
+DTEND:20251204T083500Z
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T165000Z
@@ -3298,7 +3291,7 @@ DTSTART:20251205T123000Z
 DTEND:20251205T140500Z
 SUMMARY:Mnwd (w)
 LOCATION:307 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T070000Z
@@ -3319,7 +3312,7 @@ DTSTART:20251208T085000Z
 DTEND:20251208T102500Z
 SUMMARY:Mnwd (w)
 LOCATION:317 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T123000Z
@@ -3453,6 +3446,13 @@ DTEND:20251212T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 50/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T123000Z
+DTEND:20251212T140500Z
+SUMMARY:Mnwd (w)
+LOCATION:316 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T070000Z
