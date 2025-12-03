@@ -683,13 +683,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 36/147
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251202T070000Z
-DTEND:20251202T083500Z
-SUMMARY:Otw (w)
-LOCATION:15/ 23a
-DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/15\nProwadzący: dr inż. Pankiewicz Bolesław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251209T070000Z
 DTEND:20251209T083500Z
 SUMMARY:Ośl (ć)
@@ -814,6 +807,13 @@ DTEND:20250113T102500Z
 SUMMARY:Ośl (ć)
 LOCATION:51/ 62
 DESCRIPTION:Ochrona środowiska w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr n. społ. inż. Krupnik Dorota
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250120T085000Z
+DTEND:20250120T102500Z
+SUMMARY:Otw (w)
+LOCATION:15/ 23a
+DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/15\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T085000Z
@@ -1248,6 +1248,13 @@ DTEND:20250120T182500Z
 SUMMARY:Sp* (L)
 LOCATION:14/ 19; 9/ 21; 10/ 21; 15/ 21
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250127T165000Z
+DTEND:20250127T182500Z
+SUMMARY:Otw (ć)
+LOCATION:5/ 23a
+DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251111T184000Z
@@ -1723,20 +1730,13 @@ DTSTART:20251105T150000Z
 DTEND:20251105T163500Z
 SUMMARY:Otw (ć)
 LOCATION:6/ 23a
-DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Pankiewicz Bolesław
+DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T150000Z
 DTEND:20251126T163500Z
 SUMMARY:Otw (ć)
 LOCATION:5/ 23a
-DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Pankiewicz Bolesław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251203T150000Z
-DTEND:20251203T163500Z
-SUMMARY:Otw (ć)
-LOCATION:6/ 23a
 DESCRIPTION:Organizacja transportu wewnętrznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT

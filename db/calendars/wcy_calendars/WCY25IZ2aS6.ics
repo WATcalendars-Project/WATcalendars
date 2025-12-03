@@ -256,6 +256,20 @@ LOCATION:203 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251204T150000Z
+DTEND:20251204T163500Z
+SUMMARY:Rou (L)
+LOCATION:219 65
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251204T165000Z
+DTEND:20251204T182500Z
+SUMMARY:Rou (L)
+LOCATION:219 65
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251205T085000Z
 DTEND:20251205T102500Z
 SUMMARY:Rou (w)
@@ -267,14 +281,14 @@ DTSTART:20251205T104000Z
 DTEND:20251205T121500Z
 SUMMARY:Rou (L)
 LOCATION:121 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T123000Z
 DTEND:20251205T140500Z
 SUMMARY:Rou (L)
 LOCATION:121 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T085000Z
@@ -303,20 +317,6 @@ DTEND:20251209T083500Z
 SUMMARY:zsl (w)
 LOCATION:203 65
 DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251209T150000Z
-DTEND:20251209T163500Z
-SUMMARY:Rou (L)
-LOCATION:219 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251209T165000Z
-DTEND:20251209T182500Z
-SUMMARY:Rou (L)
-LOCATION:219 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T104000Z

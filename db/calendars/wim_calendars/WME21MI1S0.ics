@@ -1026,13 +1026,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 40/126
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250113T104000Z
-DTEND:20250113T121500Z
-SUMMARY:Owp (ć)
-LOCATION:09/ 54A
-DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. Kuchta Wiesław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250127T104000Z
 DTEND:20250127T121500Z
 SUMMARY:TWI 
@@ -1726,10 +1719,10 @@ LOCATION:10/ 54A
 DESCRIPTION:TWI\nRodzaj zajęć: -\nNumer zajęć: 12/21\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250114T104000Z
-DTEND:20250114T121500Z
+DTSTART:20250121T104000Z
+DTEND:20250121T121500Z
 SUMMARY:TWI 
-LOCATION:42/ 54A
+LOCATION:10/ 54A
 DESCRIPTION:TWI\nRodzaj zajęć: -\nNumer zajęć: 13/21\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
@@ -2248,7 +2241,7 @@ DTSTART:20251030T104000Z
 DTEND:20251030T121500Z
 SUMMARY:Owp (ć)
 LOCATION:09/ 54A
-DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T104000Z
@@ -2374,7 +2367,7 @@ DTSTART:20251023T113000Z
 DTEND:20251023T130500Z
 SUMMARY:Owp (ć)
 LOCATION:120/ 54
-DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T123000Z
@@ -2409,7 +2402,7 @@ DTSTART:20251211T123000Z
 DTEND:20251211T140500Z
 SUMMARY:Owp (ć)
 LOCATION:120/ 54
-DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T123000Z
@@ -2437,7 +2430,7 @@ DTSTART:20250108T123000Z
 DTEND:20250108T140500Z
 SUMMARY:Owp (ć)
 LOCATION:120/ 54
-DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T123000Z
@@ -2920,7 +2913,7 @@ DTSTART:20251212T104000Z
 DTEND:20251212T121500Z
 SUMMARY:Owp (ć)
 LOCATION:120/ 54
-DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T104000Z
@@ -2997,7 +2990,7 @@ DTSTART:20251107T123000Z
 DTEND:20251107T140500Z
 SUMMARY:Owp (ć)
 LOCATION:120/ 54
-DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T123000Z
@@ -3011,7 +3004,7 @@ DTSTART:20251121T123000Z
 DTEND:20251121T140500Z
 SUMMARY:Owp (ć)
 LOCATION:120/ 54
-DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251128T123000Z
@@ -3061,6 +3054,13 @@ DTEND:20250109T140500Z
 SUMMARY:Pm. (L)
 LOCATION:29/ 54; 30/ 54
 DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T123000Z
+DTEND:20250116T140500Z
+SUMMARY:Owp (ć)
+LOCATION:09/ 54A
+DESCRIPTION:Organizacja wojskowych prac inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T123000Z

@@ -203,7 +203,7 @@ BEGIN:VEVENT
 DTSTART:20250107T070000Z
 DTEND:20250107T083500Z
 SUMMARY:InMa (ć)
-LOCATION:25/26; 25/26; 25/26 MR
+LOCATION:A.1.3/135
 DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
@@ -319,13 +319,6 @@ LOCATION:4.23/135
 DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251218T070000Z
-DTEND:20251218T083500Z
-SUMMARY:WaS (ć)
-LOCATION:25/26; 25/26 Grz
-DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250108T070000Z
 DTEND:20250108T083500Z
 SUMMARY:Sch.M (ć)
@@ -431,6 +424,13 @@ LOCATION:1b/28
 DESCRIPTION:Operational Research for Defence Applications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Ćwik Bogdan
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251211T104000Z
+DTEND:20251211T121500Z
+SUMMARY:WaS (ć)
+LOCATION:34/158
+DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250115T104000Z
 DTEND:20250115T121500Z
 SUMMARY:WaS (L)
@@ -471,6 +471,13 @@ DTEND:20251204T140500Z
 SUMMARY:LPP (w)
 LOCATION:1a/28
 DESCRIPTION:Logistic Processes Planning\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Owczarek Paulina
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T123000Z
+DTEND:20251211T140500Z
+SUMMARY:WaS (P)
+LOCATION:34/158
+DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Projekt\nNumer zajęć: 1/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T123000Z
@@ -701,7 +708,7 @@ DTSTART:20251219T085000Z
 DTEND:20251219T102500Z
 SUMMARY:WaS (P)
 LOCATION:25/26; 25/26 Grz
-DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Projekt\nNumer zajęć: 1/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Projekt\nNumer zajęć: 2/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T085000Z
@@ -723,13 +730,6 @@ DTEND:20251205T121500Z
 SUMMARY:ORfDA (L)
 LOCATION:25/26
 DESCRIPTION:Operational Research for Defence Applications\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Ćwik Bogdan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251212T104000Z
-DTEND:20251212T121500Z
-SUMMARY:WaS (P)
-LOCATION:25/26; 25/26 Grz
-DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Projekt\nNumer zajęć: 2/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T104000Z

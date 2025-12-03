@@ -1040,13 +1040,6 @@ LOCATION:3.16/135
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250129T070000Z
-DTEND:20250129T083500Z
-SUMMARY:LP (L)
-LOCATION:5.17/135
-DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251002T075000Z
 DTEND:20251002T092500Z
 SUMMARY:IJL (w)
@@ -1145,13 +1138,6 @@ LOCATION:aula/135
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: płk dr hab. Stańczyk Konrad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250129T085000Z
-DTEND:20250129T102500Z
-SUMMARY:LP (L)
-LOCATION:5.17/135
-DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251009T094000Z
 DTEND:20251009T111500Z
 SUMMARY:BiESTS (w)
@@ -1248,13 +1234,6 @@ DTEND:20250122T121500Z
 SUMMARY:Ek (w)
 LOCATION:aula/135
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: płk dr hab. Stańczyk Konrad
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250129T104000Z
-DTEND:20250129T121500Z
-SUMMARY:LP (L)
-LOCATION:5.17/135
-DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T113000Z
@@ -1404,11 +1383,25 @@ LOCATION:aula/135
 DESCRIPTION:Inżynieria jakości w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr n.społ. inż. Rogowski Bogusław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251212T070000Z
+DTEND:20251212T083500Z
+SUMMARY:LP (L)
+LOCATION:2.21/135
+DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251114T085000Z
 DTEND:20251114T102500Z
 SUMMARY:Met (ć)
 LOCATION:5.17/135
 DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: 135. dr.hab.inż.(prof.ucz.)Józef Pszczółkowski. Zajęcia dla osób powtarzających przedmiot.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T085000Z
+DTEND:20251212T102500Z
+SUMMARY:LP (L)
+LOCATION:2.21/135
+DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T085000Z
@@ -1430,6 +1423,13 @@ DTEND:20251114T121500Z
 SUMMARY:Met (w)
 LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: 135. dr.hab.inż.(prof.ucz.)Józef Pszczółkowski. Zajęcia dla osób powtarzających przedmiot.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T104000Z
+DTEND:20251212T121500Z
+SUMMARY:LP (L)
+LOCATION:2.21/135
+DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T155000Z

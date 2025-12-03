@@ -291,18 +291,11 @@ LOCATION:255 S
 DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251208T123000Z
-DTEND:20251208T140500Z
-SUMMARY:ZOWO (w)
-LOCATION:1.16/16
-DESCRIPTION:Zasady organizacji wojskowych obiektów żywienia\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: dr Spychała Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251215T123000Z
 DTEND:20251215T140500Z
 SUMMARY:ZOWO (w)
 LOCATION:1.16/16
-DESCRIPTION:Zasady organizacji wojskowych obiektów żywienia\nRodzaj zajęć: Wykład\nNumer zajęć: 13/13\nProwadzący: dr Spychała Dariusz
+DESCRIPTION:Zasady organizacji wojskowych obiektów żywienia\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250112T123000Z
@@ -464,6 +457,13 @@ DTEND:20251209T121500Z
 SUMMARY:PODS.SUR. (ć)
 LOCATION:2PL/8KP; 22FO; 3S; 22FZ; 1S; 22FU; 1S; 0 Kar
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: kmdr ppor. mgr inż. Kordus Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250113T104000Z
+DTEND:20250113T121500Z
+SUMMARY:ZOWO (w)
+LOCATION:0.6/16
+DESCRIPTION:Zasady organizacji wojskowych obiektów żywienia\nRodzaj zajęć: Wykład\nNumer zajęć: 13/13\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T104000Z

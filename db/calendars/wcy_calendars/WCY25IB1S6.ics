@@ -2447,13 +2447,6 @@ LOCATION:103 K
 DESCRIPTION:Szkolenie strzeleckie - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251210T104000Z
-DTEND:20251210T121500Z
-SUMMARY:ZaMe (w)
-LOCATION:103 K
-DESCRIPTION:Zabezpieczenie medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251210T123000Z
 DTEND:20251210T140500Z
 SUMMARY:WF (w)
@@ -2557,6 +2550,13 @@ DTEND:20251216T121500Z
 SUMMARY:WIT (w)
 LOCATION:203 65
 DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251216T150000Z
+DTEND:20251216T163500Z
+SUMMARY:ZaMe (w)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T070000Z
