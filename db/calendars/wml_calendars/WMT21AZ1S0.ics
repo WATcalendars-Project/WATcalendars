@@ -746,13 +746,6 @@ LOCATION:1869
 DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250121T085000Z
-DTEND:20250121T102500Z
-SUMMARY:MW 
-LOCATION:2063
-DESCRIPTION:mjr dr inż. Walkowiak Marzena\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Walkowiak Marzena
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250204T085000Z
 DTEND:20250204T102500Z
 SUMMARY:Tnu 
@@ -963,8 +956,15 @@ LOCATION:4563
 DESCRIPTION:Projektowanie systemów uzbrojenia II\nRodzaj zajęć: -\nProwadzący: płk. dr hab. inż. Kupidura Przemysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251203T165000Z
-DTEND:20251203T182500Z
+DTSTART:20251210T165000Z
+DTEND:20251210T182500Z
+SUMMARY:Prsu2 
+LOCATION:1563
+DESCRIPTION:Projektowanie systemów uzbrojenia II\nRodzaj zajęć: -\nProwadzący: płk. dr hab. inż. Kupidura Przemysław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T165000Z
+DTEND:20251217T182500Z
 SUMMARY:Prsu2 
 LOCATION:4563
 DESCRIPTION:Projektowanie systemów uzbrojenia II\nRodzaj zajęć: -\nProwadzący: płk. dr hab. inż. Kupidura Przemysław
@@ -1052,13 +1052,6 @@ DTEND:20251106T121500Z
 SUMMARY:Wpmec 
 LOCATION:
 DESCRIPTION:Wojskowe pojazdy mechaniczne\nRodzaj zajęć: -\nProwadzący: dr inż. Koliński Kazimierz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T104000Z
-DTEND:20251204T121500Z
-SUMMARY:Prsu2 
-LOCATION:4563
-DESCRIPTION:Projektowanie systemów uzbrojenia II\nRodzaj zajęć: -\nProwadzący: płk. dr hab. inż. Kupidura Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T104000Z
@@ -1409,6 +1402,13 @@ DTEND:20251114T182500Z
 SUMMARY:Prsu2 
 LOCATION:1563
 DESCRIPTION:Projektowanie systemów uzbrojenia II\nRodzaj zajęć: -\nProwadzący: płk. dr hab. inż. Kupidura Przemysław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T165000Z
+DTEND:20250116T182500Z
+SUMMARY:MW 
+LOCATION:
+DESCRIPTION:mjr dr inż. Walkowiak Marzena\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Walkowiak Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T075000Z

@@ -204,14 +204,14 @@ DTSTART:20251201T104000Z
 DTEND:20251201T121500Z
 SUMMARY:Twwkl 
 LOCATION:
-DESCRIPTION:Techniki wytwarzania w konstrukcjach lotniczych\nRodzaj zajęć: -
+DESCRIPTION:Techniki wytwarzania w konstrukcjach lotniczych\nRodzaj zajęć: -\nProwadzący: dr inż. Grzejszczak Pączek Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T104000Z
 DTEND:20251208T121500Z
 SUMMARY:Twwkl 
 LOCATION:
-DESCRIPTION:Techniki wytwarzania w konstrukcjach lotniczych\nRodzaj zajęć: -\nProwadzący: dr inż. Grzejszczak Pączek Olga
+DESCRIPTION:Techniki wytwarzania w konstrukcjach lotniczych\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T104000Z
@@ -1430,6 +1430,13 @@ DTEND:20251204T140500Z
 SUMMARY:Ae 
 LOCATION:
 DESCRIPTION:Aerodynamika\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T123000Z
+DTEND:20251211T140500Z
+SUMMARY:Wkc 
+LOCATION:3167
+DESCRIPTION:Wytrzymałość konstrukcji cienkościennych\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kachel Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T123000Z

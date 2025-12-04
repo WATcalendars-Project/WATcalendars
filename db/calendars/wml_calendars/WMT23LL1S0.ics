@@ -197,14 +197,14 @@ DTSTART:20251201T104000Z
 DTEND:20251201T121500Z
 SUMMARY:Twwkl 
 LOCATION:
-DESCRIPTION:Techniki wytwarzania w konstrukcjach lotniczych\nRodzaj zajęć: -
+DESCRIPTION:Techniki wytwarzania w konstrukcjach lotniczych\nRodzaj zajęć: -\nProwadzący: dr inż. Grzejszczak Pączek Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T104000Z
 DTEND:20251208T121500Z
 SUMMARY:Twwkl 
 LOCATION:
-DESCRIPTION:Techniki wytwarzania w konstrukcjach lotniczych\nRodzaj zajęć: -\nProwadzący: dr inż. Grzejszczak Pączek Olga
+DESCRIPTION:Techniki wytwarzania w konstrukcjach lotniczych\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T104000Z
@@ -1180,13 +1180,6 @@ LOCATION:
 DESCRIPTION:Wytrzymałość konstrukcji cienkościennych\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250114T150000Z
-DTEND:20250114T163500Z
-SUMMARY:Sa 
-LOCATION:1936
-DESCRIPTION:Systemy awioniczne\nRodzaj zajęć: -\nProwadzący: dr inż. Rochala Zdzisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251015T155000Z
 DTEND:20251015T172500Z
 SUMMARY:Malo 
@@ -1290,6 +1283,13 @@ DTEND:20251204T083500Z
 SUMMARY:Ae 
 LOCATION:
 DESCRIPTION:Aerodynamika\nRodzaj zajęć: -\nProwadzący: dr inż. Frant Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T070000Z
+DTEND:20251211T083500Z
+SUMMARY:Sa 
+LOCATION:
+DESCRIPTION:Systemy awioniczne\nRodzaj zajęć: -\nProwadzący: dr inż. Rochala Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T070000Z

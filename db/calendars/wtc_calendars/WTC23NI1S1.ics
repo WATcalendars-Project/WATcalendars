@@ -382,6 +382,13 @@ LOCATION:165 S
 DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/15\nProwadzący: dr inż. Zarański Zbigniew
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250107T165000Z
+DTEND:20250107T182500Z
+SUMMARY:Mnm (ć)
+LOCATION:26/ 34
+DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. Dworecka-Wójcik Julita
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251120T070000Z
 DTEND:20251120T083500Z
 SUMMARY:SzMKiTW (S)
@@ -475,23 +482,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T085000Z
 DTEND:20251204T102500Z
-SUMMARY:Ipo (L)
-LOCATION:14/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Zasada Dariusz
+SUMMARY:MeP (L)
+LOCATION:17/ 34
+DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Siemiaszko Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T085000Z
 DTEND:20251211T102500Z
 SUMMARY:Ipo (L)
 LOCATION:14/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Łyszkowski Radosław
+DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Łyszkowski Radosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T085000Z
 DTEND:20251218T102500Z
 SUMMARY:Ipo (L)
 LOCATION:14/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Radziwonko Agata
+DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Radziwonko Agata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T085000Z
@@ -568,28 +575,28 @@ DTSTART:20251127T104000Z
 DTEND:20251127T121500Z
 SUMMARY:MeP (L)
 LOCATION:17/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Siemiaszko Dariusz
+DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Siemiaszko Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T104000Z
 DTEND:20251204T121500Z
-SUMMARY:Ipo (L)
-LOCATION:14/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Zasada Dariusz
+SUMMARY:MeP (L)
+LOCATION:17/ 34
+DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Siemiaszko Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T104000Z
 DTEND:20251211T121500Z
 SUMMARY:Ipo (L)
 LOCATION:14/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Łyszkowski Radosław
+DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Łyszkowski Radosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T104000Z
 DTEND:20251218T121500Z
 SUMMARY:Ipo (L)
 LOCATION:14/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Radziwonko Agata
+DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Radziwonko Agata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T104000Z
@@ -659,21 +666,14 @@ DTSTART:20251127T123000Z
 DTEND:20251127T140500Z
 SUMMARY:MeP (L)
 LOCATION:17/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Siemiaszko Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T123000Z
-DTEND:20251204T140500Z
-SUMMARY:MeP (L)
-LOCATION:17/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Siemiaszko Dariusz
+DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Siemiaszko Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T123000Z
 DTEND:20251211T140500Z
 SUMMARY:MeP (L)
 LOCATION:17/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Siemiaszko Dariusz
+DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Siemiaszko Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T123000Z
@@ -732,18 +732,25 @@ LOCATION:14/ 34
 DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Komorek Zenon
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251204T150000Z
-DTEND:20251204T163500Z
-SUMMARY:MeP (L)
-LOCATION:17/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Siemiaszko Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251211T150000Z
 DTEND:20251211T163500Z
 SUMMARY:MeP (L)
 LOCATION:17/ 34
 DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Siemiaszko Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T150000Z
+DTEND:20250108T163500Z
+SUMMARY:Ipo (L)
+LOCATION:14/ 34
+DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Zasada Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T165000Z
+DTEND:20250108T182500Z
+SUMMARY:Ipo (L)
+LOCATION:14/ 34
+DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T060000Z
@@ -891,13 +898,6 @@ DTEND:20251205T102500Z
 SUMMARY:Bn (L)
 LOCATION:15/ 34
 DESCRIPTION:Badania nieniszczące\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Komorek Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251212T085000Z
-DTEND:20251212T102500Z
-SUMMARY:Mnm (ć)
-LOCATION:26/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. Dworecka-Wójcik Julita
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T085000Z

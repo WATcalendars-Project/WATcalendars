@@ -144,6 +144,20 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251208T104000Z
+DTEND:20251208T121500Z
+SUMMARY:Krp 
+LOCATION:
+DESCRIPTION:Konstrukcja rakiet przeciwlotniczych\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Klicki Kamil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T104000Z
+DTEND:20251215T121500Z
+SUMMARY:Krp 
+LOCATION:
+DESCRIPTION:Konstrukcja rakiet przeciwlotniczych\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Klicki Kamil
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250119T104000Z
 DTEND:20250119T121500Z
 SUMMARY:ŚNIEŻNIK 
@@ -256,6 +270,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251215T150000Z
+DTEND:20251215T163500Z
+SUMMARY:Wnp 
+LOCATION:
+DESCRIPTION:Wyposażenie naziemne PZR\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Klicki Kamil
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250119T150000Z
 DTEND:20250119T163500Z
 SUMMARY:SSW 
@@ -296,6 +317,13 @@ DTEND:20251201T182500Z
 SUMMARY:TA 
 LOCATION:
 DESCRIPTION:TAKTYKA\nRodzaj zajęć: -\nProwadzący: mjr mgr Stępień Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T165000Z
+DTEND:20251215T182500Z
+SUMMARY:Wnp 
+LOCATION:
+DESCRIPTION:Wyposażenie naziemne PZR\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Klicki Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250112T165000Z
@@ -844,13 +872,6 @@ LOCATION:
 DESCRIPTION:Konstrukcja rakiet przeciwlotniczych\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250121T085000Z
-DTEND:20250121T102500Z
-SUMMARY:MW 
-LOCATION:2063
-DESCRIPTION:mjr dr inż. Walkowiak Marzena\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Walkowiak Marzena
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250128T085000Z
 DTEND:20250128T102500Z
 SUMMARY:Upsy 
@@ -942,13 +963,6 @@ LOCATION:
 DESCRIPTION:Wyposażenie naziemne PZR\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Klicki Kamil
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250121T104000Z
-DTEND:20250121T121500Z
-SUMMARY:Wnp 
-LOCATION:
-DESCRIPTION:Wyposażenie naziemne PZR\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Klicki Kamil
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251008T113000Z
 DTEND:20251008T130500Z
 SUMMARY:DGB 
@@ -1021,13 +1035,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250114T123000Z
 DTEND:20250114T140500Z
-SUMMARY:Wnp 
-LOCATION:
-DESCRIPTION:Wyposażenie naziemne PZR\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Klicki Kamil
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250121T123000Z
-DTEND:20250121T140500Z
 SUMMARY:Wnp 
 LOCATION:
 DESCRIPTION:Wyposażenie naziemne PZR\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Klicki Kamil
@@ -1376,6 +1383,13 @@ LOCATION:
 DESCRIPTION:Zabezpieczenie logistyczne\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Bużantowicz Witold
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250129T150000Z
+DTEND:20250129T163500Z
+SUMMARY:Aool 
+LOCATION:
+DESCRIPTION:Aerodynamika osiowosymetrycznych obiektów latających\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251017T075000Z
 DTEND:20251017T092500Z
 SUMMARY:WF 
@@ -1530,13 +1544,6 @@ LOCATION:
 DESCRIPTION:Aerodynamika osiowosymetrycznych obiektów latających\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250123T104000Z
-DTEND:20250123T121500Z
-SUMMARY:Krp 
-LOCATION:
-DESCRIPTION:Konstrukcja rakiet przeciwlotniczych\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Klicki Kamil
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250130T104000Z
 DTEND:20250130T121500Z
 SUMMARY:Upsy 
@@ -1621,13 +1628,6 @@ LOCATION:
 DESCRIPTION:Układy przetwarzania sygnałów\nRodzaj zajęć: -\nProwadzący: dr inż. Grzywiński Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250123T123000Z
-DTEND:20250123T140500Z
-SUMMARY:Krp 
-LOCATION:
-DESCRIPTION:Konstrukcja rakiet przeciwlotniczych\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Klicki Kamil
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250130T123000Z
 DTEND:20250130T140500Z
 SUMMARY:Upsy 
@@ -1649,18 +1649,18 @@ LOCATION:
 DESCRIPTION:Zabezpieczenie logistyczne\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Bużantowicz Witold
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250123T150000Z
-DTEND:20250123T163500Z
-SUMMARY:Aool 
-LOCATION:
-DESCRIPTION:Aerodynamika osiowosymetrycznych obiektów latających\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250130T150000Z
 DTEND:20250130T163500Z
 SUMMARY:Zblog 
 LOCATION:
 DESCRIPTION:Zabezpieczenie logistyczne\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Bużantowicz Witold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T165000Z
+DTEND:20250116T182500Z
+SUMMARY:MW 
+LOCATION:
+DESCRIPTION:mjr dr inż. Walkowiak Marzena\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Walkowiak Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T075000Z

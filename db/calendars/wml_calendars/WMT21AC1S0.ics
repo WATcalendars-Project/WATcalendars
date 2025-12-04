@@ -697,13 +697,6 @@ LOCATION:1869
 DESCRIPTION:Badanie sprzętu wojskowego\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250121T085000Z
-DTEND:20250121T102500Z
-SUMMARY:MW 
-LOCATION:2063
-DESCRIPTION:mjr dr inż. Walkowiak Marzena\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Walkowiak Marzena
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250128T085000Z
 DTEND:20250128T102500Z
 SUMMARY:SiKO 
@@ -900,8 +893,15 @@ LOCATION:2269
 DESCRIPTION:Taktyka wojsk rakietowych i artylerii 1\nRodzaj zajęć: -\nProwadzący: dr inż. Krzyżanowski Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251203T165000Z
-DTEND:20251203T182500Z
+DTSTART:20251210T165000Z
+DTEND:20251210T182500Z
+SUMMARY:Prsu2 
+LOCATION:1563
+DESCRIPTION:Projektowanie systemów uzbrojenia II\nRodzaj zajęć: -\nProwadzący: płk. dr hab. inż. Kupidura Przemysław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T165000Z
+DTEND:20251217T182500Z
 SUMMARY:Prsu2 
 LOCATION:4563
 DESCRIPTION:Projektowanie systemów uzbrojenia II\nRodzaj zajęć: -\nProwadzący: płk. dr hab. inż. Kupidura Przemysław
@@ -1031,13 +1031,6 @@ DTEND:20251120T121500Z
 SUMMARY:SiKO 
 LOCATION:2269
 DESCRIPTION:SiKO\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T104000Z
-DTEND:20251204T121500Z
-SUMMARY:Prsu2 
-LOCATION:4563
-DESCRIPTION:Projektowanie systemów uzbrojenia II\nRodzaj zajęć: -\nProwadzący: płk. dr hab. inż. Kupidura Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T104000Z
@@ -1304,6 +1297,13 @@ DTEND:20251114T182500Z
 SUMMARY:Prsu2 
 LOCATION:1563
 DESCRIPTION:Projektowanie systemów uzbrojenia II\nRodzaj zajęć: -\nProwadzący: płk. dr hab. inż. Kupidura Przemysław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T165000Z
+DTEND:20250116T182500Z
+SUMMARY:MW 
+LOCATION:
+DESCRIPTION:mjr dr inż. Walkowiak Marzena\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Walkowiak Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T075000Z

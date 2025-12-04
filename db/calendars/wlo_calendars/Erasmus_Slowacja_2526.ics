@@ -25,11 +25,18 @@ LOCATION:2/22
 DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Projekt\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250119T070000Z
+DTEND:20250119T083500Z
+SUMMARY:QMiL (L)
+LOCATION:1/22
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr inż. Rykała Magdalena
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251020T075000Z
 DTEND:20251020T092500Z
 SUMMARY:QMiL (L)
 LOCATION:2/22
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr inż. Rykała Magdalena
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T085000Z
@@ -85,7 +92,7 @@ DTSTART:20251020T094000Z
 DTEND:20251020T111500Z
 SUMMARY:QMiL (L)
 LOCATION:2/22
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr inż. Rykała Magdalena
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T104000Z
@@ -127,7 +134,7 @@ DTSTART:20251215T123000Z
 DTEND:20251215T140500Z
 SUMMARY:QMiL (L)
 LOCATION:2/22
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr inż. Rykała Magdalena
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T150000Z
@@ -317,13 +324,6 @@ DTEND:20251204T121500Z
 SUMMARY:LSiA (ć)
 LOCATION:2/22
 DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr hab. inż. Augustyn Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251218T104000Z
-DTEND:20251218T121500Z
-SUMMARY:QMiL (L)
-LOCATION:0.22/16
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T123000Z
