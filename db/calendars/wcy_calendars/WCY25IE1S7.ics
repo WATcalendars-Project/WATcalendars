@@ -739,13 +739,6 @@ LOCATION:078 S
 DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251209T104000Z
-DTEND:20251209T121500Z
-SUMMARY:InC (L)
-LOCATION:085 S
-DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: dr inż. Michał Misztal
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251209T123000Z
 DTEND:20251209T140500Z
 SUMMARY:ISP (L)
@@ -765,6 +758,13 @@ DTEND:20251209T182500Z
 SUMMARY:CAO (L)
 LOCATION:011 65
 DESCRIPTION:Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251210T070000Z
+DTEND:20251210T083500Z
+SUMMARY:InC (L)
+LOCATION:085 S
+DESCRIPTION:Introduction to the Cryptography\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T085000Z
