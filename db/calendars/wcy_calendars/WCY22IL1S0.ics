@@ -3287,13 +3287,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 48/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251205T123000Z
-DTEND:20251205T140500Z
-SUMMARY:Mnwd (w)
-LOCATION:307 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251206T070000Z
 DTEND:20251206T083500Z
 SUMMARY:XWF (ć)
@@ -3312,7 +3305,7 @@ DTSTART:20251208T085000Z
 DTEND:20251208T102500Z
 SUMMARY:Mnwd (w)
 LOCATION:317 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T123000Z
@@ -3445,7 +3438,7 @@ DTSTART:20251212T123000Z
 DTEND:20251212T140500Z
 SUMMARY:Mnwd (w)
 LOCATION:316 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T070000Z
@@ -3474,6 +3467,13 @@ DTEND:20251215T121500Z
 SUMMARY:Med (L)
 LOCATION:252 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T123000Z
+DTEND:20251215T140500Z
+SUMMARY:Mnwd (w)
+LOCATION:252 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T165000Z

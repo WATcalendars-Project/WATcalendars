@@ -4176,20 +4176,6 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260112T070000Z
-DTEND:20260112T083500Z
-SUMMARY:ppk (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260112T085000Z
-DTEND:20260112T102500Z
-SUMMARY:ppk (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260112T104000Z
 DTEND:20260112T121500Z
 SUMMARY:Als (L)
@@ -4299,14 +4285,14 @@ DTSTART:20260115T150000Z
 DTEND:20260115T163500Z
 SUMMARY:ppk (L)
 LOCATION:120 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T165000Z
 DTEND:20260115T182500Z
 SUMMARY:ppk (L)
 LOCATION:120 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T070000Z
@@ -4377,6 +4363,20 @@ DTEND:20260120T102500Z
 SUMMARY:Tgs (ć)
 LOCATION:317 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T104000Z
+DTEND:20260120T121500Z
+SUMMARY:ppk (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T123000Z
+DTEND:20260120T140500Z
+SUMMARY:ppk (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T184000Z
@@ -4645,22 +4645,22 @@ LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260304T070000Z
-DTEND:20260304T083500Z
+DTSTART:20260304T085000Z
+DTEND:20260304T102500Z
 SUMMARY:PODS.SUR. (ć)
 LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260304T085000Z
-DTEND:20260304T102500Z
+DTSTART:20260304T104000Z
+DTEND:20260304T121500Z
 SUMMARY:PODS.SUR. (ć)
 LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260304T104000Z
-DTEND:20260304T121500Z
+DTSTART:20260304T123000Z
+DTEND:20260304T140500Z
 SUMMARY:PODS.SUR. (ć)
 LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: -
