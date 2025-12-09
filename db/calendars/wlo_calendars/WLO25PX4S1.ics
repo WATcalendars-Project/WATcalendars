@@ -942,6 +942,13 @@ LOCATION:51/62
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251211T104000Z
+DTEND:20251211T121500Z
+SUMMARY:M (ć)
+LOCATION:4S
+DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: dr hab. inż. Ćwik Bogdan
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251218T104000Z
 DTEND:20251218T121500Z
 SUMMARY:Historyczne 
@@ -1142,7 +1149,7 @@ DTSTART:20251030T165000Z
 DTEND:20251030T182500Z
 SUMMARY:M (ć)
 LOCATION:2/22
-DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: dr hab. inż. Ćwik Bogdan
+DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: dr hab. inż. Ćwik Bogdan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T165000Z
@@ -1219,7 +1226,7 @@ DTSTART:20251030T184000Z
 DTEND:20251030T201500Z
 SUMMARY:M (ć)
 LOCATION:2/22
-DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: dr hab. inż. Ćwik Bogdan
+DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr hab. inż. Ćwik Bogdan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T184000Z
@@ -1303,7 +1310,7 @@ DTSTART:20251212T070000Z
 DTEND:20251212T083500Z
 SUMMARY:M (ć)
 LOCATION:2/22
-DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr hab. inż. Ćwik Bogdan
+DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11\nProwadzący: dr hab. inż. Ćwik Bogdan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T070000Z
@@ -1429,7 +1436,7 @@ DTSTART:20251114T104000Z
 DTEND:20251114T121500Z
 SUMMARY:M (ć)
 LOCATION:1.17/16
-DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11\nProwadzący: dr hab. inż. Ćwik Bogdan
+DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11\nProwadzący: dr hab. inż. Ćwik Bogdan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T104000Z
@@ -1471,14 +1478,14 @@ DTSTART:20250123T104000Z
 DTEND:20250123T121500Z
 SUMMARY:M (ć)
 LOCATION:0.7/16
-DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11\nProwadzący: dr hab. inż. Ćwik Bogdan
+DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: dr hab. inż. Ćwik Bogdan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T104000Z
 DTEND:20250130T121500Z
 SUMMARY:M (ć)
 LOCATION:0.28/135
-DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: dr hab. inż. Ćwik Bogdan
+DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/11\nProwadzący: dr hab. inż. Ćwik Bogdan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T113000Z
@@ -1492,7 +1499,7 @@ DTSTART:20251114T123000Z
 DTEND:20251114T140500Z
 SUMMARY:M (ć)
 LOCATION:1.17/16
-DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/11\nProwadzący: dr hab. inż. Ćwik Bogdan
+DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: dr hab. inż. Ćwik Bogdan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T123000Z
@@ -1541,7 +1548,7 @@ DTSTART:20250130T123000Z
 DTEND:20250130T140500Z
 SUMMARY:M (ć)
 LOCATION:0.28/135
-DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: dr hab. inż. Ćwik Bogdan
+DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/11\nProwadzący: dr hab. inż. Ćwik Bogdan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T140000Z
@@ -1556,13 +1563,6 @@ DTEND:20251121T163500Z
 SUMMARY:WdI (ć)
 LOCATION:53/62
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251205T150000Z
-DTEND:20251205T163500Z
-SUMMARY:M (ć)
-LOCATION:0.21/16
-DESCRIPTION:Matematyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/11\nProwadzący: dr hab. inż. Ćwik Bogdan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T150000Z

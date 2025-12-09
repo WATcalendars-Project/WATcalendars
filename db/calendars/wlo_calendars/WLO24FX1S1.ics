@@ -214,13 +214,6 @@ LOCATION:0.6/16
 DESCRIPTION:Logistyka dystrybucji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251208T123000Z
-DTEND:20251208T140500Z
-SUMMARY:Is (ć)
-LOCATION:0.21/16
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251215T123000Z
 DTEND:20251215T140500Z
 SUMMARY:Ek (ć)
@@ -841,7 +834,7 @@ DTSTART:20251210T104000Z
 DTEND:20251210T121500Z
 SUMMARY:Is (ć)
 LOCATION:0.23/16
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T104000Z
@@ -904,7 +897,7 @@ DTSTART:20251217T123000Z
 DTEND:20251217T140500Z
 SUMMARY:Is (ć)
 LOCATION:0.21/16
-DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T123000Z
@@ -968,6 +961,13 @@ DTEND:20251015T172500Z
 SUMMARY:LZ (w)
 LOCATION:aula/135
 DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: płk dr inż. Zelkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250121T165000Z
+DTEND:20250121T182500Z
+SUMMARY:Is (ć)
+LOCATION:0.28/135
+DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T060000Z
