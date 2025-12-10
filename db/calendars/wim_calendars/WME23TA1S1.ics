@@ -1950,6 +1950,13 @@ LOCATION:1/ 21
 DESCRIPTION:Problemy odpadów w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr Pakowski Czesław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251211T104000Z
+DTEND:20251211T121500Z
+SUMMARY:GmP. (S)
+LOCATION:1/ 21
+DESCRIPTION:Gospodarka magazynowa płynami eksploatacyjnymi\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: mgr inż. Wójcik Maciej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251218T104000Z
 DTEND:20251218T121500Z
 SUMMARY:Bisp (L)
@@ -2115,7 +2122,7 @@ DTSTART:20250122T123000Z
 DTEND:20250122T140500Z
 SUMMARY:GmP. (S)
 LOCATION:1/ 19
-DESCRIPTION:Gospodarka magazynowa płynami eksploatacyjnymi\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: mgr inż. Wójcik Maciej
+DESCRIPTION:Gospodarka magazynowa płynami eksploatacyjnymi\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250212T123000Z
@@ -2160,17 +2167,10 @@ LOCATION:42/ 20
 DESCRIPTION:Problemy odpadów w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251211T150000Z
-DTEND:20251211T163500Z
-SUMMARY:GmP. (S)
-LOCATION:1/ 19
-DESCRIPTION:Gospodarka magazynowa płynami eksploatacyjnymi\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: mgr inż. Wójcik Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251218T150000Z
 DTEND:20251218T163500Z
 SUMMARY:Par (ć)
-LOCATION:4/ 23a
+LOCATION:15/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
@@ -3392,6 +3392,20 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 109/147
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250117T104000Z
+DTEND:20250117T121500Z
+SUMMARY:XFiz2 (E)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250131T104000Z
+DTEND:20250131T121500Z
+SUMMARY:XFiz2 (Ep)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250214T104000Z
 DTEND:20250214T121500Z
 SUMMARY:I 
@@ -3446,6 +3460,20 @@ DTEND:20250103T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 113/147
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T123000Z
+DTEND:20250117T140500Z
+SUMMARY:XFiz2 (E)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250131T123000Z
+DTEND:20250131T140500Z
+SUMMARY:XFiz2 (Ep)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2/2\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250214T123000Z

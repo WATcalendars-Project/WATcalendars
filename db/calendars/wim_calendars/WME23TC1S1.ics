@@ -1043,7 +1043,7 @@ BEGIN:VEVENT
 DTSTART:20251216T123000Z
 DTEND:20251216T140500Z
 SUMMARY:Ośl (w)
-LOCATION:3/ 23a
+LOCATION:15/ 23a
 DESCRIPTION:Ochrona środowiska w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr n. społ. inż. Krupnik Dorota
 END:VEVENT
 BEGIN:VEVENT
@@ -1155,7 +1155,7 @@ BEGIN:VEVENT
 DTSTART:20251216T150000Z
 DTEND:20251216T163500Z
 SUMMARY:Ośl (ć)
-LOCATION:3/ 23a
+LOCATION:15/ 23a
 DESCRIPTION:Ochrona środowiska w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr n. społ. inż. Krupnik Dorota
 END:VEVENT
 BEGIN:VEVENT
@@ -3427,6 +3427,20 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 109/147
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250117T104000Z
+DTEND:20250117T121500Z
+SUMMARY:XFiz2 (E)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250131T104000Z
+DTEND:20250131T121500Z
+SUMMARY:XFiz2 (Ep)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250214T104000Z
 DTEND:20250214T121500Z
 SUMMARY:I 
@@ -3481,6 +3495,20 @@ DTEND:20250103T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 113/147
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T123000Z
+DTEND:20250117T140500Z
+SUMMARY:XFiz2 (E)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250131T123000Z
+DTEND:20250131T140500Z
+SUMMARY:XFiz2 (Ep)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2/2\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250214T123000Z

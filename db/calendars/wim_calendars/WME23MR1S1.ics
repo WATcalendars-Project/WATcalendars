@@ -1215,18 +1215,11 @@ LOCATION:3/ 54
 DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251210T070000Z
-DTEND:20251210T083500Z
-SUMMARY:Peks (ć)
-LOCATION:5/ 23a
-DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251217T070000Z
 DTEND:20251217T083500Z
 SUMMARY:Peks (ć)
 LOCATION:5/ 23a
-DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
+DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T070000Z
@@ -1247,7 +1240,7 @@ DTSTART:20250107T070000Z
 DTEND:20250107T083500Z
 SUMMARY:Peks (ć)
 LOCATION:5/ 23a
-DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
+DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250114T070000Z
@@ -1387,7 +1380,7 @@ DTSTART:20250114T085000Z
 DTEND:20250114T102500Z
 SUMMARY:Peks (ć)
 LOCATION:2/ 23a
-DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
+DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250128T085000Z
@@ -1450,14 +1443,14 @@ DTSTART:20251112T104000Z
 DTEND:20251112T121500Z
 SUMMARY:Peks (ć)
 LOCATION:2/ 68
-DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
+DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T104000Z
 DTEND:20251119T121500Z
 SUMMARY:Peks (ć)
 LOCATION:2/ 68
-DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
+DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T104000Z
@@ -1563,6 +1556,13 @@ DTEND:20251210T140500Z
 SUMMARY:Brd (ć)
 LOCATION:15/ 23a
 DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T123000Z
+DTEND:20251217T140500Z
+SUMMARY:Peks (ć)
+LOCATION:6/ 23a
+DESCRIPTION:Podstawy eksploatacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T123000Z
@@ -3595,6 +3595,20 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 93/119
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250117T104000Z
+DTEND:20250117T121500Z
+SUMMARY:XFiz2 (E)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250131T104000Z
+DTEND:20250131T121500Z
+SUMMARY:XFiz2 (Ep)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251101T123000Z
 DTEND:20251101T140500Z
 SUMMARY:I 
@@ -3642,6 +3656,20 @@ DTEND:20250103T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 96/119
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T123000Z
+DTEND:20250117T140500Z
+SUMMARY:XFiz2 (E)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250131T123000Z
+DTEND:20250131T140500Z
+SUMMARY:XFiz2 (Ep)
+LOCATION:
+DESCRIPTION:XFizyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2/2\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251101T150000Z
