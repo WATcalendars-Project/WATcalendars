@@ -4295,6 +4295,13 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28/28\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260202T085000Z
+DTEND:20260202T102500Z
+SUMMARY:Psmo (E)
+LOCATION:203 65
+DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260203T085000Z
 DTEND:20260203T102500Z
 SUMMARY:Nm (E)
@@ -4302,11 +4309,60 @@ LOCATION:205 65
 DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260205T070000Z
+DTEND:20260205T083500Z
+SUMMARY:AśW (E)
+LOCATION:120 65
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T085000Z
+DTEND:20260205T102500Z
+SUMMARY:AśW (E)
+LOCATION:120 65
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T104000Z
+DTEND:20260210T121500Z
+SUMMARY:MAST (E)
+LOCATION:314 S
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260217T085000Z
 DTEND:20260217T102500Z
 SUMMARY:Nm (Inne)
 LOCATION:205 65
 DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T104000Z
+DTEND:20260217T121500Z
+SUMMARY:MAST (Inne)
+LOCATION:314 S
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T123000Z
+DTEND:20260218T140500Z
+SUMMARY:AśW (Inne)
+LOCATION:120 65
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T150000Z
+DTEND:20260218T163500Z
+SUMMARY:AśW (Inne)
+LOCATION:120 65
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T070000Z
+DTEND:20260219T083500Z
+SUMMARY:Psmo (Inne)
+LOCATION:203 65
+DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T070000Z

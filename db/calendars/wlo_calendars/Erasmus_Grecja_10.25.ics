@@ -4,13 +4,6 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Erasmus_Grecja_10.25
 BEGIN:VEVENT
-DTSTART:20251208T070000Z
-DTEND:20251208T083500Z
-SUMMARY:InMa (ć)
-LOCATION:1.27/135
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr inż. Rykała Magdalena
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251215T070000Z
 DTEND:20251215T083500Z
 SUMMARY:LSiA (ć)
@@ -71,7 +64,7 @@ DTSTART:20250119T085000Z
 DTEND:20250119T102500Z
 SUMMARY:InMa (ć)
 LOCATION:25/26; 25/26; 25/26 MR
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr inż. Rykała Magdalena
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T094000Z
@@ -113,7 +106,7 @@ DTSTART:20250119T104000Z
 DTEND:20250119T121500Z
 SUMMARY:InMa (ć)
 LOCATION:25/26; 25/26; 25/26 MR
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr inż. Rykała Magdalena
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T113000Z
@@ -155,7 +148,7 @@ DTSTART:20251201T150000Z
 DTEND:20251201T163500Z
 SUMMARY:InMa (ć)
 LOCATION:25/26; 25/26; 25/26 MR
-DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr inż. Rykała Magdalena
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T070000Z
@@ -319,6 +312,13 @@ LOCATION:25/26; 25/26 Grz
 DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250114T085000Z
+DTEND:20250114T102500Z
+SUMMARY:InMa (ć)
+LOCATION:25/26; 25/26; 25/26 MR
+DESCRIPTION:Inventory management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr inż. Rykała Magdalena
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251119T104000Z
 DTEND:20251119T121500Z
 SUMMARY:Knf 
@@ -368,13 +368,6 @@ LOCATION:1.27/135
 DESCRIPTION:Inventory management\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251210T123000Z
-DTEND:20251210T140500Z
-SUMMARY:QMiL (ć)
-LOCATION:0.22/16
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Rykała Magdalena
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251217T123000Z
 DTEND:20251217T140500Z
 SUMMARY:WaS (L)
@@ -401,13 +394,6 @@ DTEND:20251203T163500Z
 SUMMARY:WaS (ć)
 LOCATION:25/26; 25/26 Grz
 DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251210T150000Z
-DTEND:20251210T163500Z
-SUMMARY:QMiL (ć)
-LOCATION:0.22/16
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T165000Z
@@ -725,6 +711,13 @@ LOCATION:25/26; 25/26 Grz
 DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Projekt\nNumer zajęć: 2/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250130T085000Z
+DTEND:20250130T102500Z
+SUMMARY:QMiL (ć)
+LOCATION:2/22
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Rykała Magdalena
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251031T104000Z
 DTEND:20251031T121500Z
 SUMMARY:InMa (w)
@@ -737,6 +730,13 @@ DTEND:20251219T121500Z
 SUMMARY:WaS (P)
 LOCATION:25/26; 25/26 Grz
 DESCRIPTION:Warehouse Systems\nRodzaj zajęć: Projekt\nNumer zajęć: 3/4\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250130T104000Z
+DTEND:20250130T121500Z
+SUMMARY:QMiL (ć)
+LOCATION:2/22
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T123000Z

@@ -298,11 +298,18 @@ LOCATION:0.28/135
 DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 5/9\nProwadzący: dr hab. Zalewski Jerzy
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250117T123000Z
+DTEND:20250117T140500Z
+SUMMARY:KSP (ć)
+LOCATION:1.27/135
+DESCRIPTION:Komunikacja społeczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr hab. Filipek Agnieszka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250124T123000Z
 DTEND:20250124T140500Z
 SUMMARY:KSP (ć)
 LOCATION:A.1.3/135
-DESCRIPTION:Komunikacja społeczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr hab. Filipek Agnieszka
+DESCRIPTION:Komunikacja społeczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr hab. Filipek Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T123000Z
@@ -428,14 +435,14 @@ DTSTART:20251214T070000Z
 DTEND:20251214T083500Z
 SUMMARY:KSP (ć)
 LOCATION:3.16/135
-DESCRIPTION:Komunikacja społeczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr hab. Filipek Agnieszka
+DESCRIPTION:Komunikacja społeczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. Filipek Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251221T070000Z
 DTEND:20251221T083500Z
-SUMMARY:KSP (ć)
-LOCATION:A.1.3/135
-DESCRIPTION:Komunikacja społeczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr hab. Filipek Agnieszka
+SUMMARY:Bin (ć)
+LOCATION:5.21/135
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250111T070000Z
@@ -694,7 +701,7 @@ DTSTART:20251116T150000Z
 DTEND:20251116T163500Z
 SUMMARY:Bin (ć)
 LOCATION:5.21/135
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T150000Z
@@ -709,6 +716,13 @@ DTEND:20251207T163500Z
 SUMMARY:Jo (ć)
 LOCATION:134 K
 DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/16\nProwadzący: mgr Zeneli Andi
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251214T150000Z
+DTEND:20251214T163500Z
+SUMMARY:Bin (ć)
+LOCATION:5.21/135
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251221T150000Z
@@ -730,19 +744,5 @@ DTEND:20250118T163500Z
 SUMMARY:Pmb (ć)
 LOCATION:5.21/135
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250125T150000Z
-DTEND:20250125T163500Z
-SUMMARY:Bin (ć)
-LOCATION:5.21/135
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250201T150000Z
-DTEND:20250201T163500Z
-SUMMARY:Bin (ć)
-LOCATION:5.21/135
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
 END:VEVENT
 END:VCALENDAR

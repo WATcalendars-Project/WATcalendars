@@ -270,6 +270,13 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 9/13
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250112T150000Z
+DTEND:20250112T163500Z
+SUMMARY:Dpl (ć)
+LOCATION:0.22/16
+DESCRIPTION:Dowodzenie pododdziałem logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250119T150000Z
 DTEND:20250119T163500Z
 SUMMARY:SzS (ć)
@@ -638,21 +645,21 @@ DTSTART:20250113T123000Z
 DTEND:20250113T140500Z
 SUMMARY:Dpl (ć)
 LOCATION:0.6/16
-DESCRIPTION:Dowodzenie pododdziałem logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
+DESCRIPTION:Dowodzenie pododdziałem logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T123000Z
 DTEND:20250120T140500Z
 SUMMARY:Dpl (ć)
 LOCATION:0.6/16
-DESCRIPTION:Dowodzenie pododdziałem logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
+DESCRIPTION:Dowodzenie pododdziałem logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T123000Z
 DTEND:20250127T140500Z
 SUMMARY:Dpl (ć)
 LOCATION:0.21/16
-DESCRIPTION:Dowodzenie pododdziałem logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
+DESCRIPTION:Dowodzenie pododdziałem logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T140000Z
@@ -751,6 +758,13 @@ DTEND:20250113T182500Z
 SUMMARY:WF (w)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: mgr Fiedoruk Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250120T165000Z
+DTEND:20250120T182500Z
+SUMMARY:Dpl (ć)
+LOCATION:0.22/16
+DESCRIPTION:Dowodzenie pododdziałem logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T060000Z
@@ -1058,7 +1072,7 @@ DTSTART:20250107T104000Z
 DTEND:20250107T121500Z
 SUMMARY:Dpl (ć)
 LOCATION:0.7/16
-DESCRIPTION:Dowodzenie pododdziałem logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
+DESCRIPTION:Dowodzenie pododdziałem logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250121T104000Z
@@ -1184,7 +1198,7 @@ DTSTART:20251112T150000Z
 DTEND:20251112T163500Z
 SUMMARY:Dpl (ć)
 LOCATION:9/158
-DESCRIPTION:Dowodzenie pododdziałem logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
+DESCRIPTION:Dowodzenie pododdziałem logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T150000Z
@@ -1271,13 +1285,6 @@ LOCATION:0.19/135
 DESCRIPTION:Działalnośc służby materiałów pędnych i smarów w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251211T070000Z
-DTEND:20251211T083500Z
-SUMMARY:Dpl (ć)
-LOCATION:0.6/16
-DESCRIPTION:Dowodzenie pododdziałem logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251218T070000Z
 DTEND:20251218T083500Z
 SUMMARY:DSMPiSwCz (ć)
@@ -1360,13 +1367,6 @@ DTEND:20251204T102500Z
 SUMMARY:Dpl (w)
 LOCATION:0.19/135
 DESCRIPTION:Dowodzenie pododdziałem logistycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: prof. dr hab. Pawlisiak Mieczysław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T085000Z
-DTEND:20251211T102500Z
-SUMMARY:Dpl (ć)
-LOCATION:0.6/16
-DESCRIPTION:Dowodzenie pododdziałem logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T085000Z

@@ -263,20 +263,6 @@ LOCATION:25/26; 25/26 Ow
 DESCRIPTION:Logistic Processes Planning\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251210T123000Z
-DTEND:20251210T140500Z
-SUMMARY:QMiL (ć)
-LOCATION:0.22/16
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Rykała Magdalena
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251210T150000Z
-DTEND:20251210T163500Z
-SUMMARY:QMiL (ć)
-LOCATION:0.22/16
-DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Rykała Magdalena
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251030T070000Z
 DTEND:20251030T083500Z
 SUMMARY:FTiL (L)
@@ -464,5 +450,19 @@ DTEND:20251114T102500Z
 SUMMARY:LSiA (ć)
 LOCATION:2/22
 DESCRIPTION:Logistics Support in Army\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr hab. inż. Augustyn Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250130T085000Z
+DTEND:20250130T102500Z
+SUMMARY:QMiL (ć)
+LOCATION:2/22
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Rykała Magdalena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250130T104000Z
+DTEND:20250130T121500Z
+SUMMARY:QMiL (ć)
+LOCATION:2/22
+DESCRIPTION:Quantitative Methods in Logistics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Rykała Magdalena
 END:VEVENT
 END:VCALENDAR

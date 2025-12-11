@@ -95,13 +95,6 @@ LOCATION:
 DESCRIPTION:Metrologia wielkości geometrycznych w produkcji\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251215T085000Z
-DTEND:20251215T102500Z
-SUMMARY:Mwg 
-LOCATION:
-DESCRIPTION:Metrologia wielkości geometrycznych w produkcji\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250112T085000Z
 DTEND:20250112T102500Z
 SUMMARY:Tmb 
@@ -114,6 +107,13 @@ DTEND:20250119T102500Z
 SUMMARY:Tmb 
 LOCATION:
 DESCRIPTION:Techniki i metody badania materiałów\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250126T085000Z
+DTEND:20250126T102500Z
+SUMMARY:Mwg 
+LOCATION:10625
+DESCRIPTION:Metrologia wielkości geometrycznych w produkcji\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250202T085000Z
@@ -331,13 +331,6 @@ DTEND:20251209T083500Z
 SUMMARY:Mpur2 
 LOCATION:11136
 DESCRIPTION:Modelowanie i projektowanie układów robotyki 2\nRodzaj zajęć: -\nProwadzący: dr inż. Kaczmarek Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251216T070000Z
-DTEND:20251216T083500Z
-SUMMARY:Mwg 
-LOCATION:
-DESCRIPTION:Metrologia wielkości geometrycznych w produkcji\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T070000Z
@@ -1460,10 +1453,24 @@ LOCATION:1925
 DESCRIPTION:Techniki i metody badania materiałów\nRodzaj zajęć: -\nProwadzący: mgr.inż. Dziewit Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250116T123000Z
+DTEND:20250116T140500Z
+SUMMARY:Mwg 
+LOCATION:
+DESCRIPTION:Metrologia wielkości geometrycznych w produkcji\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251212T150000Z
 DTEND:20251212T163500Z
 SUMMARY:Tmb 
 LOCATION:1925
 DESCRIPTION:Techniki i metody badania materiałów\nRodzaj zajęć: -\nProwadzący: mgr.inż. Dziewit Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T150000Z
+DTEND:20250116T163500Z
+SUMMARY:Mwg 
+LOCATION:
+DESCRIPTION:Metrologia wielkości geometrycznych w produkcji\nRodzaj zajęć: -
 END:VEVENT
 END:VCALENDAR

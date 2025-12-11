@@ -4218,11 +4218,81 @@ LOCATION:121 65
 DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260204T123000Z
+DTEND:20260204T140500Z
+SUMMARY:Dtu (E)
+LOCATION:316 S
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T104000Z
+DTEND:20260205T121500Z
+SUMMARY:BsIP (E)
+LOCATION:120 65 121 65
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T123000Z
+DTEND:20260205T140500Z
+SUMMARY:BsIP (E)
+LOCATION:120 65 121 65
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T150000Z
+DTEND:20260209T163500Z
+SUMMARY:PsbI (E)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T165000Z
+DTEND:20260209T182500Z
+SUMMARY:PsbI (E)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T104000Z
+DTEND:20260216T121500Z
+SUMMARY:BsIP (Inne)
+LOCATION:120 65 121 65
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T123000Z
+DTEND:20260216T140500Z
+SUMMARY:BsIP (Inne)
+LOCATION:120 65 121 65
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260217T085000Z
 DTEND:20260217T102500Z
 SUMMARY:Sr (Inne)
 LOCATION:121 65
 DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T123000Z
+DTEND:20260218T140500Z
+SUMMARY:Dtu (Inne)
+LOCATION:316 S
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T150000Z
+DTEND:20260219T163500Z
+SUMMARY:PsbI (Inne)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T165000Z
+DTEND:20260219T182500Z
+SUMMARY:PsbI (Inne)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T123000Z
