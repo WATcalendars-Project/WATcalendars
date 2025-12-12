@@ -1450,14 +1450,14 @@ DTSTART:20251023T075000Z
 DTEND:20251023T092500Z
 SUMMARY:SzS (ć)
 LOCATION:4pl/29kp; 5pl/29kp; 25FW; 2S; 25FW; 3S; 25EW; 1S
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T085000Z
 DTEND:20251030T102500Z
 SUMMARY:SzS (ć)
 LOCATION:4pl/29kp; 5pl/29kp; 25FW; 2S; 25FW; 3S; 25EW; 1S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T085000Z
@@ -1479,13 +1479,6 @@ DTEND:20251127T102500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1/44
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T085000Z
-DTEND:20251204T102500Z
-SUMMARY:SzS (ć)
-LOCATION:4pl/29kp; 5pl/29kp; 25FW; 2S; 25FW; 3S; 25EW; 1S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T085000Z
@@ -1555,14 +1548,14 @@ DTSTART:20251023T094000Z
 DTEND:20251023T111500Z
 SUMMARY:SzS (ć)
 LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T104000Z
 DTEND:20251030T121500Z
 SUMMARY:SzS (ć)
 LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T104000Z
@@ -1590,7 +1583,7 @@ DTSTART:20251204T104000Z
 DTEND:20251204T121500Z
 SUMMARY:SzS (ć)
 LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T104000Z
@@ -2108,7 +2101,7 @@ DTSTART:20250123T070000Z
 DTEND:20250123T083500Z
 SUMMARY:SzS (ć)
 LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T075000Z
@@ -2192,7 +2185,7 @@ DTSTART:20250123T085000Z
 DTEND:20250123T102500Z
 SUMMARY:SzS (ć)
 LOCATION:5pl/29kp; 4PL/1KP; 25FW; 3S; 25EW; 1S; 21LL; 3S; 21LL; 2S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T094000Z
@@ -2466,5 +2459,19 @@ DTEND:20250109T182500Z
 SUMMARY:PGI (w)
 LOCATION:aula/135
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T085000Z
+DTEND:20250110T102500Z
+SUMMARY:SzS (ć)
+LOCATION:4pl/29kp; 5pl/29kp; 25FW; 2S; 25FW; 3S; 25EW; 1S; 0 Str; 1 BPa
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T104000Z
+DTEND:20250110T121500Z
+SUMMARY:SzS (ć)
+LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S; 0 Str; 1 BPa
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9
 END:VEVENT
 END:VCALENDAR

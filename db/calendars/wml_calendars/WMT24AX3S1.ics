@@ -169,7 +169,14 @@ DTSTART:20250112T123000Z
 DTEND:20250112T140500Z
 SUMMARY:EiE1 
 LOCATION:
-DESCRIPTION:Elektrotechnika i elektronika 1\nRodzaj zajęć: -
+DESCRIPTION:Elektrotechnika i elektronika 1\nRodzaj zajęć: -\nProwadzący: dr inż. Para Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250923T060000Z
+DTEND:20250923T073500Z
+SUMMARY:FI 
+LOCATION:4663
+DESCRIPTION:Fizyka I\nRodzaj zajęć: -\nProwadzący: dr hab .inż. Perkowski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T070000Z
@@ -585,6 +592,13 @@ LOCATION:
 DESCRIPTION:Laboratorium wytrzymałości i nauki o materiałach\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250918T075000Z
+DTEND:20250918T092500Z
+SUMMARY:Mat3 
+LOCATION:4663
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: -\nProwadzący: dr hab. Pysiak Leszek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251106T085000Z
 DTEND:20251106T102500Z
 SUMMARY:Met 
@@ -596,7 +610,14 @@ DTSTART:20250122T085000Z
 DTEND:20250122T102500Z
 SUMMARY:EiE1 
 LOCATION:
-DESCRIPTION:Elektrotechnika i elektronika 1\nRodzaj zajęć: -\nProwadzący: dr inż. Para Wojciech
+DESCRIPTION:Elektrotechnika i elektronika 1\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250918T094000Z
+DTEND:20250918T111500Z
+SUMMARY:Mat3 
+LOCATION:4663
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: -\nProwadzący: dr hab. Pysiak Leszek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T104000Z

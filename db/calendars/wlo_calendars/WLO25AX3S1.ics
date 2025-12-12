@@ -7,7 +7,7 @@ BEGIN:VEVENT
 DTSTART:20251215T070000Z
 DTEND:20251215T083500Z
 SUMMARY:Lg (ć)
-LOCATION:5.21/135
+LOCATION:1/22
 DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 DTSTART:20251215T085000Z
 DTEND:20251215T102500Z
 SUMMARY:Lg (ć)
-LOCATION:5.21/135
+LOCATION:1/22
 DESCRIPTION:Logika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
@@ -1369,6 +1369,13 @@ LOCATION:2/22
 DESCRIPTION:ETYKA\nRodzaj zajęć: -\nNumer zajęć: 16/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; mgr Dąbrowska - Świder Małgorzata; dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250130T104000Z
+DTEND:20250130T121500Z
+SUMMARY:PODST. 
+LOCATION:5.27/135
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 18/21\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; prof. dr hab. Kościelecki Lech; mgr Dąbrowska - Świder Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251010T113000Z
 DTEND:20251010T130500Z
 SUMMARY:Pe. (w)
@@ -1436,7 +1443,7 @@ DTSTART:20250130T123000Z
 DTEND:20250130T140500Z
 SUMMARY:PODST. 
 LOCATION:5.27/135
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 18/21\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; prof. dr hab. Kościelecki Lech; mgr Dąbrowska - Świder Małgorzata
+DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 19/21\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; prof. dr hab. Kościelecki Lech; mgr Dąbrowska - Świder Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T140000Z
@@ -1500,13 +1507,6 @@ DTEND:20250109T163500Z
 SUMMARY:ETYKA 
 LOCATION:0.24/135
 DESCRIPTION:ETYKA\nRodzaj zajęć: -\nNumer zajęć: 20/20\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; mgr Dąbrowska - Świder Małgorzata; dr Kowalski Wawrzyniec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250130T150000Z
-DTEND:20250130T163500Z
-SUMMARY:PODST. 
-LOCATION:5.27/135
-DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 19/21\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Karczewski Edward; prof. dr hab. Kościelecki Lech; mgr Dąbrowska - Świder Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T155000Z

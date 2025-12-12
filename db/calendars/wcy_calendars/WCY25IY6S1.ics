@@ -1138,18 +1138,18 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251211T104000Z
+DTEND:20251211T121500Z
+SUMMARY:PGI (ć)
+LOCATION:108/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251211T123000Z
 DTEND:20251211T140500Z
 SUMMARY:Mat I (ć)
 LOCATION:308 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/19\nProwadzący: mgr Wojciech Matuszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T150000Z
-DTEND:20251211T163500Z
-SUMMARY:PGI (ć)
-LOCATION:120/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T070000Z
@@ -1379,7 +1379,7 @@ BEGIN:VEVENT
 DTSTART:20260113T104000Z
 DTEND:20260113T121500Z
 SUMMARY:M II (ć)
-LOCATION:313 S
+LOCATION:224 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/17\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT

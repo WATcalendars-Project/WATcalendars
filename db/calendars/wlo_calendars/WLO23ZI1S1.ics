@@ -258,9 +258,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T085000Z
 DTEND:20250120T102500Z
-SUMMARY:Npr (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Narzędzia projektowania procesów biznesowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
+SUMMARY:Npr (w)
+LOCATION:301/S
+DESCRIPTION:Narzędzia projektowania procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Wojciechowski Zdzislaw
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T085000Z
@@ -302,14 +302,14 @@ DTSTART:20250113T104000Z
 DTEND:20250113T121500Z
 SUMMARY:Npr (ć)
 LOCATION:4.17a/135
-DESCRIPTION:Narzędzia projektowania procesów biznesowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
+DESCRIPTION:Narzędzia projektowania procesów biznesowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T104000Z
 DTEND:20250120T121500Z
 SUMMARY:Npr (ć)
 LOCATION:4.17a/135
-DESCRIPTION:Narzędzia projektowania procesów biznesowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
+DESCRIPTION:Narzędzia projektowania procesów biznesowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T104000Z
@@ -379,7 +379,7 @@ DTSTART:20251202T150000Z
 DTEND:20251202T163500Z
 SUMMARY:Npr (ć)
 LOCATION:4.17a/135
-DESCRIPTION:Narzędzia projektowania procesów biznesowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
+DESCRIPTION:Narzędzia projektowania procesów biznesowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T150000Z
@@ -421,14 +421,14 @@ DTSTART:20251125T165000Z
 DTEND:20251125T182500Z
 SUMMARY:Npr (ć)
 LOCATION:4.17a/135
-DESCRIPTION:Narzędzia projektowania procesów biznesowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
+DESCRIPTION:Narzędzia projektowania procesów biznesowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T165000Z
 DTEND:20251202T182500Z
 SUMMARY:Npr (ć)
 LOCATION:4.17a/135
-DESCRIPTION:Narzędzia projektowania procesów biznesowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
+DESCRIPTION:Narzędzia projektowania procesów biznesowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T165000Z
@@ -487,6 +487,13 @@ LOCATION:0.6/16
 DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250120T184000Z
+DTEND:20250120T201500Z
+SUMMARY:Npr (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Narzędzia projektowania procesów biznesowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250107T070000Z
 DTEND:20250107T083500Z
 SUMMARY:Zrz (ć)
@@ -541,13 +548,6 @@ DTEND:20251210T121500Z
 SUMMARY:Iae (w)
 LOCATION:1.9/16
 DESCRIPTION:Ilościowa analiza efektywności organizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr Woźniak Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T104000Z
-DTEND:20251217T121500Z
-SUMMARY:Npr (w)
-LOCATION:5.17/135
-DESCRIPTION:Narzędzia projektowania procesów biznesowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Wojciechowski Zdzislaw
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T104000Z

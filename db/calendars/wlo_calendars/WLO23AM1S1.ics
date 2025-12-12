@@ -4,6 +4,20 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO23AM1S1
 BEGIN:VEVENT
+DTSTART:20250112T070000Z
+DTEND:20250112T083500Z
+SUMMARY:MIĘDZYNARODOWE 
+LOCATION:1.27/135
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 1/34\nProwadzący: dr Stawarz Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250112T085000Z
+DTEND:20250112T102500Z
+SUMMARY:Admin. 
+LOCATION:1.27/135
+DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 1/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250119T085000Z
 DTEND:20250119T102500Z
 SUMMARY:SYSTEM 
@@ -93,6 +107,13 @@ DTEND:20250119T182500Z
 SUMMARY:ORGANIZACJA 
 LOCATION:0.6/16
 DESCRIPTION:ORGANIZACJA\nRodzaj zajęć: -\nNumer zajęć: 4/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Jacuch Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250119T184000Z
+DTEND:20250119T201500Z
+SUMMARY:Admin. 
+LOCATION:0.6/16
+DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 2/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T060000Z
@@ -204,7 +225,7 @@ DTSTART:20250113T104000Z
 DTEND:20250113T121500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:0.8/16
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 1/34\nProwadzący: prof. dr hab. Kościelecki Lech
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 2/34\nProwadzący: prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T104000Z
@@ -246,7 +267,7 @@ DTSTART:20250113T123000Z
 DTEND:20250113T140500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:0.8/16
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 2/34\nProwadzący: prof. dr hab. Kościelecki Lech
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 3/34\nProwadzący: prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T123000Z
@@ -407,7 +428,7 @@ DTSTART:20250114T085000Z
 DTEND:20250114T102500Z
 SUMMARY:Admin. 
 LOCATION:2.21/135
-DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 1/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
+DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 3/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T104000Z
@@ -449,7 +470,7 @@ DTSTART:20250114T104000Z
 DTEND:20250114T121500Z
 SUMMARY:Admin. 
 LOCATION:2.21/135
-DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 2/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
+DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 4/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T123000Z
@@ -477,21 +498,21 @@ DTSTART:20251009T060000Z
 DTEND:20251009T073500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:4.17b/135
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 3/34\nProwadzący: dr Stawarz Paweł
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 4/34\nProwadzący: dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T060000Z
 DTEND:20251023T073500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:4.17b/135
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 4/34\nProwadzący: dr Stawarz Paweł
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 5/34\nProwadzący: dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T070000Z
 DTEND:20251030T083500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:4.17b/135
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 5/34\nProwadzący: dr Stawarz Paweł
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 6/34\nProwadzący: dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T070000Z
@@ -505,21 +526,21 @@ DTSTART:20251009T075000Z
 DTEND:20251009T092500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:4.17b/135
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 6/34\nProwadzący: dr Stawarz Paweł
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 7/34\nProwadzący: dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T075000Z
 DTEND:20251016T092500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:4.17b/135
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 7/34\nProwadzący: dr Stawarz Paweł
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 8/34\nProwadzący: dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T075000Z
 DTEND:20251023T092500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:4.17b/135
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 8/34\nProwadzący: dr Stawarz Paweł
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 9/34\nProwadzący: dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T085000Z
@@ -547,7 +568,7 @@ DTSTART:20250115T085000Z
 DTEND:20250115T102500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:1.27/135
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 9/34\nProwadzący: dr Stawarz Paweł
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 10/34\nProwadzący: dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250129T085000Z
@@ -589,7 +610,7 @@ DTSTART:20251106T104000Z
 DTEND:20251106T121500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:26/158
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 10/34\nProwadzący: dr Stawarz Paweł
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 11/34\nProwadzący: dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T104000Z
@@ -603,21 +624,21 @@ DTSTART:20250108T104000Z
 DTEND:20250108T121500Z
 SUMMARY:Admin. 
 LOCATION:26/158
-DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 3/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
+DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 5/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T104000Z
 DTEND:20250115T121500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:1.27/135
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 11/34\nProwadzący: dr Stawarz Paweł
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 12/34\nProwadzący: dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T104000Z
 DTEND:20250122T121500Z
 SUMMARY:Admin. 
 LOCATION:1/22
-DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 4/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
+DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 6/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250129T104000Z
@@ -638,7 +659,7 @@ DTSTART:20250108T123000Z
 DTEND:20250108T140500Z
 SUMMARY:Admin. 
 LOCATION:26/158
-DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 5/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
+DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 7/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T123000Z
@@ -652,14 +673,7 @@ DTSTART:20250122T123000Z
 DTEND:20250122T140500Z
 SUMMARY:Admin. 
 LOCATION:1/22
-DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 6/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T150000Z
-DTEND:20251211T163500Z
-SUMMARY:MIĘDZYNARODOWE 
-LOCATION:1.27/135
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 12/34\nProwadzący: dr Stawarz Paweł
+DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 8/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T150000Z
@@ -676,46 +690,32 @@ LOCATION:5.17/135
 DESCRIPTION:SYSTEM\nRodzaj zajęć: -\nNumer zajęć: 33/40\nProwadzący: dr Jacuch Andrzej; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251211T165000Z
-DTEND:20251211T182500Z
-SUMMARY:MIĘDZYNARODOWE 
-LOCATION:1.27/135
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 14/34\nProwadzący: dr Stawarz Paweł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251218T165000Z
 DTEND:20251218T182500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:1.27/135
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 15/34\nProwadzący: dr Stawarz Paweł
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 14/34\nProwadzący: dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T165000Z
 DTEND:20250108T182500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:2/22
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 16/34\nProwadzący: dr Stawarz Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T184000Z
-DTEND:20251211T201500Z
-SUMMARY:MIĘDZYNARODOWE 
-LOCATION:1.27/135
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 17/34\nProwadzący: dr Stawarz Paweł
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 15/34\nProwadzący: dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T184000Z
 DTEND:20251218T201500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:1.27/135
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 18/34\nProwadzący: dr Stawarz Paweł
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 16/34\nProwadzący: dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T184000Z
 DTEND:20250108T201500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:2/22
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 19/34\nProwadzący: dr Stawarz Paweł
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 17/34\nProwadzący: dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T060000Z
@@ -753,11 +753,18 @@ LOCATION:0.24/135
 DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 11/17\nProwadzący: dr Stawarz Paweł; dr Śledzik Waldemar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250116T070000Z
+DTEND:20250116T083500Z
+SUMMARY:MIĘDZYNARODOWE 
+LOCATION:26/158
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 18/34\nProwadzący: dr Stawarz Paweł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251003T075000Z
 DTEND:20251003T092500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:4.17b/135
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 20/34\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; prof. dr hab. Kościelecki Lech
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 19/34\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T075000Z
@@ -792,7 +799,7 @@ DTSTART:20251107T085000Z
 DTEND:20251107T102500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:4.17b/135
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 21/34\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; prof. dr hab. Kościelecki Lech
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 20/34\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T085000Z
@@ -813,14 +820,7 @@ DTSTART:20251205T085000Z
 DTEND:20251205T102500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:4.17b/135
-DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 22/34\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251212T085000Z
-DTEND:20251212T102500Z
-SUMMARY:Admin. 
-LOCATION:31/158
-DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 7/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 21/34\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T085000Z
@@ -828,6 +828,13 @@ DTEND:20251219T102500Z
 SUMMARY:POSTĘPOWANIE 
 LOCATION:1.17/16
 DESCRIPTION:POSTĘPOWANIE\nRodzaj zajęć: -\nNumer zajęć: 16/17\nProwadzący: dr Stawarz Paweł; dr Śledzik Waldemar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T085000Z
+DTEND:20250116T102500Z
+SUMMARY:MIĘDZYNARODOWE 
+LOCATION:26/158
+DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 22/34\nProwadzący: dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T094000Z
@@ -869,21 +876,21 @@ DTSTART:20251107T104000Z
 DTEND:20251107T121500Z
 SUMMARY:Admin. 
 LOCATION:4.17b/135
-DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 8/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
+DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 9/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T104000Z
 DTEND:20251114T121500Z
 SUMMARY:Admin. 
 LOCATION:4.17b/135
-DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 9/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
+DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 10/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T104000Z
 DTEND:20251121T121500Z
 SUMMARY:Admin. 
 LOCATION:4.17b/135
-DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 10/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
+DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 11/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T104000Z
@@ -891,13 +898,6 @@ DTEND:20251205T121500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:4.17b/135
 DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 26/34\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251212T104000Z
-DTEND:20251212T121500Z
-SUMMARY:Admin. 
-LOCATION:31/158
-DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 11/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T104000Z

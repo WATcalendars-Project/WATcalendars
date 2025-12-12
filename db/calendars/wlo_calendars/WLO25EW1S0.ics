@@ -739,6 +739,13 @@ LOCATION:
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/19\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251216T150000Z
+DTEND:20251216T163500Z
+SUMMARY:M1 (w)
+LOCATION:
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: dr Kowal Robert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250113T150000Z
 DTEND:20250113T163500Z
 SUMMARY:M1 (ć)
@@ -792,7 +799,7 @@ DTSTART:20251015T060000Z
 DTEND:20251015T073500Z
 SUMMARY:M1 (w)
 LOCATION:5.21/135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: dr Kowal Robert
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 6/15\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T060000Z
@@ -806,7 +813,7 @@ DTSTART:20251029T070000Z
 DTEND:20251029T083500Z
 SUMMARY:M1 (w)
 LOCATION:54/62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 6/15\nProwadzący: dr Kowal Robert
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7/15\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T070000Z
@@ -918,7 +925,7 @@ DTSTART:20251203T085000Z
 DTEND:20251203T102500Z
 SUMMARY:M1 (w)
 LOCATION:
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7/15\nProwadzący: dr Kowal Robert
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T085000Z
@@ -926,13 +933,6 @@ DTEND:20251210T102500Z
 SUMMARY:DGB (ć)
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Tomaszewska Justyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T085000Z
-DTEND:20251217T102500Z
-SUMMARY:M1 (w)
-LOCATION:
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T085000Z
@@ -1373,14 +1373,14 @@ DTSTART:20251023T075000Z
 DTEND:20251023T092500Z
 SUMMARY:SzS (ć)
 LOCATION:4pl/29kp; 5pl/29kp; 25FW; 2S; 25FW; 3S; 25EW; 1S
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T085000Z
 DTEND:20251030T102500Z
 SUMMARY:SzS (ć)
 LOCATION:4pl/29kp; 5pl/29kp; 25FW; 2S; 25FW; 3S; 25EW; 1S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T085000Z
@@ -1409,13 +1409,6 @@ DTEND:20251127T102500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1/38
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T085000Z
-DTEND:20251204T102500Z
-SUMMARY:SzS (ć)
-LOCATION:4pl/29kp; 5pl/29kp; 25FW; 2S; 25FW; 3S; 25EW; 1S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T085000Z
@@ -1492,14 +1485,14 @@ DTSTART:20251023T094000Z
 DTEND:20251023T111500Z
 SUMMARY:SzS (ć)
 LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T104000Z
 DTEND:20251030T121500Z
 SUMMARY:SzS (ć)
 LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T104000Z
@@ -1534,7 +1527,7 @@ DTSTART:20251204T104000Z
 DTEND:20251204T121500Z
 SUMMARY:SzS (ć)
 LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T104000Z
@@ -2045,7 +2038,7 @@ DTSTART:20250123T070000Z
 DTEND:20250123T083500Z
 SUMMARY:SzS (ć)
 LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T075000Z
@@ -2136,7 +2129,7 @@ DTSTART:20250123T085000Z
 DTEND:20250123T102500Z
 SUMMARY:SzS (ć)
 LOCATION:5pl/29kp; 4PL/1KP; 25FW; 3S; 25EW; 1S; 21LL; 3S; 21LL; 2S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T094000Z
@@ -2417,5 +2410,19 @@ DTEND:20251031T182500Z
 SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30/30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T085000Z
+DTEND:20250110T102500Z
+SUMMARY:SzS (ć)
+LOCATION:4pl/29kp; 5pl/29kp; 25FW; 2S; 25FW; 3S; 25EW; 1S; 0 Str; 1 BPa
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T104000Z
+DTEND:20250110T121500Z
+SUMMARY:SzS (ć)
+LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S; 0 Str; 1 BPa
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9
 END:VEVENT
 END:VCALENDAR
