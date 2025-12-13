@@ -1407,7 +1407,7 @@ BEGIN:VEVENT
 DTSTART:20250121T104000Z
 DTEND:20250121T121500Z
 SUMMARY:Wdi. (L)
-LOCATION:57/ 62
+LOCATION:7/ 23a
 DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11
 END:VEVENT
 BEGIN:VEVENT
@@ -1661,13 +1661,6 @@ DTEND:20251211T121500Z
 SUMMARY:M1 (ć)
 LOCATION:55/ 62
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/19
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251218T104000Z
-DTEND:20251218T121500Z
-SUMMARY:Wdi. (L)
-LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T104000Z
@@ -2115,14 +2108,14 @@ DTSTART:20251031T085000Z
 DTEND:20251031T102500Z
 SUMMARY:Wdi. (L)
 LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T085000Z
 DTEND:20251107T102500Z
 SUMMARY:Wdi. (L)
 LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T085000Z
@@ -2136,7 +2129,7 @@ DTSTART:20251121T085000Z
 DTEND:20251121T102500Z
 SUMMARY:Wdi. (L)
 LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251128T085000Z
@@ -2191,8 +2184,8 @@ BEGIN:VEVENT
 DTSTART:20250130T085000Z
 DTEND:20250130T102500Z
 SUMMARY:Wdi. (L)
-LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11
+LOCATION:7/ 23a
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T094000Z
@@ -2235,6 +2228,13 @@ DTEND:20251212T121500Z
 SUMMARY:Mat2 (ć)
 LOCATION:9/ 62
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251219T104000Z
+DTEND:20251219T121500Z
+SUMMARY:Wdi. (L)
+LOCATION:53/ 62
+DESCRIPTION:Wprowadzenie do informatyki.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251226T104000Z

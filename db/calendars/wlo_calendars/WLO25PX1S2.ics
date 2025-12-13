@@ -4,6 +4,13 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO25PX1S2
 BEGIN:VEVENT
+DTSTART:20250112T070000Z
+DTEND:20250112T083500Z
+SUMMARY:Sgd (ć)
+LOCATION:37/158
+DESCRIPTION:Socjologia grup dyspozycyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: dr Karczewski Edward
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251013T075000Z
 DTEND:20251013T092500Z
 SUMMARY:Gpio (w)
@@ -23,6 +30,13 @@ DTEND:20251208T102500Z
 SUMMARY:Wdd (w)
 LOCATION:1/22
 DESCRIPTION:Współczesne dylematy demokracji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Szczegielniak Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250112T085000Z
+DTEND:20250112T102500Z
+SUMMARY:Hbn (ć)
+LOCATION:37/158
+DESCRIPTION:Historia bezpieczeństwa narodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: dr hab. Ostanek Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T094000Z
@@ -221,13 +235,6 @@ LOCATION:aula/135
 DESCRIPTION:Społeczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250112T165000Z
-DTEND:20250112T182500Z
-SUMMARY:Sgd (ć)
-LOCATION:0.28/135
-DESCRIPTION:Socjologia grup dyspozycyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: dr Karczewski Edward
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250119T165000Z
 DTEND:20250119T182500Z
 SUMMARY:Europejski 
@@ -254,13 +261,6 @@ DTEND:20251117T201500Z
 SUMMARY:Gpio (ć)
 LOCATION:4.23/135
 DESCRIPTION:Geopolityka i obronność\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/11\nProwadzący: prof. dr hab. Trejnis Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250112T184000Z
-DTEND:20250112T201500Z
-SUMMARY:Sgd (ć)
-LOCATION:0.28/135
-DESCRIPTION:Socjologia grup dyspozycyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250119T184000Z
@@ -323,7 +323,7 @@ DTSTART:20250113T085000Z
 DTEND:20250113T102500Z
 SUMMARY:Hbn (ć)
 LOCATION:2.21/135
-DESCRIPTION:Historia bezpieczeństwa narodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: dr hab. Ostanek Adam
+DESCRIPTION:Historia bezpieczeństwa narodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: dr hab. Ostanek Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T085000Z
@@ -337,7 +337,7 @@ DTSTART:20250127T085000Z
 DTEND:20250127T102500Z
 SUMMARY:Hbn (ć)
 LOCATION:2/22
-DESCRIPTION:Historia bezpieczeństwa narodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: dr hab. Ostanek Adam
+DESCRIPTION:Historia bezpieczeństwa narodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: dr hab. Ostanek Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T094000Z
@@ -372,7 +372,7 @@ DTSTART:20251202T104000Z
 DTEND:20251202T121500Z
 SUMMARY:Sgd (ć)
 LOCATION:
-DESCRIPTION:Socjologia grup dyspozycyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: dr Karczewski Edward
+DESCRIPTION:Socjologia grup dyspozycyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11\nProwadzący: dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T104000Z
@@ -435,14 +435,14 @@ DTSTART:20251118T123000Z
 DTEND:20251118T140500Z
 SUMMARY:Hbn (ć)
 LOCATION:1.16/16
-DESCRIPTION:Historia bezpieczeństwa narodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: dr hab. Ostanek Adam
+DESCRIPTION:Historia bezpieczeństwa narodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: dr hab. Ostanek Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T123000Z
 DTEND:20251125T140500Z
 SUMMARY:Hbn (ć)
 LOCATION:3.16/135
-DESCRIPTION:Historia bezpieczeństwa narodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: dr hab. Ostanek Adam
+DESCRIPTION:Historia bezpieczeństwa narodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr hab. Ostanek Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T123000Z
@@ -534,6 +534,13 @@ DTEND:20250113T163500Z
 SUMMARY:EAWiP (ć)
 LOCATION:1.15/16
 DESCRIPTION:Etyczne Aspekty Wojny i Pokoju\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250120T150000Z
+DTEND:20250120T163500Z
+SUMMARY:Sgd (ć)
+LOCATION:5.17/135
+DESCRIPTION:Socjologia grup dyspozycyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T150000Z
@@ -688,13 +695,6 @@ DTEND:20251112T163500Z
 SUMMARY:Wpg (w)
 LOCATION:4.23/135
 DESCRIPTION:Współczesne procesy globalizacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Adamkiewicz Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250107T150000Z
-DTEND:20250107T163500Z
-SUMMARY:Hbn (ć)
-LOCATION:1.17/16
-DESCRIPTION:Historia bezpieczeństwa narodowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr hab. Ostanek Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250121T150000Z
@@ -1435,7 +1435,7 @@ BEGIN:VEVENT
 DTSTART:20251212T104000Z
 DTEND:20251212T121500Z
 SUMMARY:Wdd (ć)
-LOCATION:A.1.3/135
+LOCATION:37/158
 DESCRIPTION:Współczesne dylematy demokracji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/11\nProwadzący: dr Szczegielniak Michał
 END:VEVENT
 BEGIN:VEVENT

@@ -354,6 +354,13 @@ LOCATION:aula/135
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251215T165000Z
+DTEND:20251215T182500Z
+SUMMARY:M1 (ć)
+LOCATION:0.24/135
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/19\nProwadzący: dr Kowal Robert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251007T060000Z
 DTEND:20251007T073500Z
 SUMMARY:HP (w)
@@ -736,7 +743,7 @@ DTSTART:20251209T150000Z
 DTEND:20251209T163500Z
 SUMMARY:M1 (ć)
 LOCATION:
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/19\nProwadzący: dr Kowal Robert
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/19\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T150000Z
@@ -750,7 +757,7 @@ DTSTART:20250113T150000Z
 DTEND:20250113T163500Z
 SUMMARY:M1 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/19\nProwadzący: dr Kowal Robert
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/19\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T150000Z
@@ -897,7 +904,7 @@ DTSTART:20251015T075000Z
 DTEND:20251015T092500Z
 SUMMARY:M1 (ć)
 LOCATION:0.28/135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/19\nProwadzący: dr Kowal Robert
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/19\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T085000Z
@@ -2052,21 +2059,21 @@ DTSTART:20251010T075000Z
 DTEND:20251010T092500Z
 SUMMARY:M1 (ć)
 LOCATION:1.15/16
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/19\nProwadzący: dr Kowal Robert
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/19\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T075000Z
 DTEND:20251017T092500Z
 SUMMARY:M1 (ć)
 LOCATION:1.15/16
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/19\nProwadzący: dr Kowal Robert
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/19\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T075000Z
 DTEND:20251024T092500Z
 SUMMARY:M1 (ć)
 LOCATION:0.8/16
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/19\nProwadzący: dr Kowal Robert
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/19\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T085000Z
@@ -2080,7 +2087,7 @@ DTSTART:20251107T085000Z
 DTEND:20251107T102500Z
 SUMMARY:M1 (ć)
 LOCATION:3.16/135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/19\nProwadzący: dr Kowal Robert
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/19\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T085000Z
@@ -2101,7 +2108,7 @@ DTSTART:20251212T085000Z
 DTEND:20251212T102500Z
 SUMMARY:M1 (ć)
 LOCATION:0.24/135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/19\nProwadzący: dr Kowal Robert
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/19\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T085000Z
@@ -2192,7 +2199,7 @@ DTSTART:20250109T104000Z
 DTEND:20250109T121500Z
 SUMMARY:M1 (ć)
 LOCATION:9/62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/19\nProwadzący: dr Kowal Robert
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19/19\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250123T104000Z
@@ -2375,13 +2382,6 @@ DTEND:20251212T163500Z
 SUMMARY:Mat2 (ć)
 LOCATION:1.9/16
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/17\nProwadzący: dr Tomaszewska Justyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251219T150000Z
-DTEND:20251219T163500Z
-SUMMARY:M1 (ć)
-LOCATION:3.16/135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19/19\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T150000Z
