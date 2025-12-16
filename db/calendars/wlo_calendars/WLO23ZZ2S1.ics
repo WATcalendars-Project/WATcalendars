@@ -4,6 +4,13 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO23ZZ2S1
 BEGIN:VEVENT
+DTSTART:20250119T085000Z
+DTEND:20250119T102500Z
+SUMMARY:KwZ (w)
+LOCATION:
+DESCRIPTION:Komunikacja w zarządzaniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr Miszczak Marta
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250126T085000Z
 DTEND:20250126T102500Z
 SUMMARY:Zkn (ć)
@@ -16,6 +23,13 @@ DTEND:20250119T121500Z
 SUMMARY:PG (w)
 LOCATION:
 DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. Kamiński Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250126T104000Z
+DTEND:20250126T121500Z
+SUMMARY:Z.S-up (ć)
+LOCATION:
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T123000Z
@@ -221,6 +235,13 @@ LOCATION:4.17b/135
 DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Projekt\nNumer zajęć: 4/10\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250127T070000Z
+DTEND:20250127T083500Z
+SUMMARY:Z.S-up (ć)
+LOCATION:1.16/16
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251125T085000Z
 DTEND:20251125T102500Z
 SUMMARY:PG (w)
@@ -296,13 +317,6 @@ DTEND:20251209T121500Z
 SUMMARY:Trans.Cyfr.Org. (w)
 LOCATION:0.24/135
 DESCRIPTION:Transformacja cyfrowa organizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr Sołek-Borowska Celina
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251216T104000Z
-DTEND:20251216T121500Z
-SUMMARY:KwZ (w)
-LOCATION:0.24/135
-DESCRIPTION:Komunikacja w zarządzaniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T104000Z
@@ -477,7 +491,7 @@ DTSTART:20251216T165000Z
 DTEND:20251216T182500Z
 SUMMARY:Z.S-up (ć)
 LOCATION:239 S
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T165000Z
@@ -499,6 +513,13 @@ DTEND:20251104T201500Z
 SUMMARY:Trans.Cyfr.Org. (w)
 LOCATION:0.24/135
 DESCRIPTION:Transformacja cyfrowa organizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: dr Sołek-Borowska Celina
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250120T184000Z
+DTEND:20250120T201500Z
+SUMMARY:Z.S-up (ć)
+LOCATION:4.23/135
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T070000Z
@@ -536,25 +557,11 @@ LOCATION:5.21/135
 DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr hab. Kamiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250114T085000Z
-DTEND:20250114T102500Z
-SUMMARY:Z.S-up (ć)
-LOCATION:2/22
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250121T085000Z
-DTEND:20250121T102500Z
-SUMMARY:Z.S-up (ć)
-LOCATION:37/158
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250128T085000Z
 DTEND:20250128T102500Z
 SUMMARY:Z.S-up (ć)
 LOCATION:2/22
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T104000Z
@@ -578,25 +585,11 @@ LOCATION:0.24/135
 DESCRIPTION:Zarządzanie kapitałem niematerialnym\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr hab. Domańska-Szaruga Beata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250114T104000Z
-DTEND:20250114T121500Z
-SUMMARY:Z.S-up (ć)
-LOCATION:2/22
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250121T104000Z
-DTEND:20250121T121500Z
-SUMMARY:Z.S-up (ć)
-LOCATION:37/158
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250128T104000Z
 DTEND:20250128T121500Z
 SUMMARY:Z.S-up (ć)
 LOCATION:2/22
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T123000Z
@@ -793,6 +786,13 @@ DTEND:20250114T182500Z
 SUMMARY:S.OiW.P. (ć)
 LOCATION:0.8/16
 DESCRIPTION:Systemy oceniania i wynagradzania pracowników\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250128T165000Z
+DTEND:20250128T182500Z
+SUMMARY:Z.S-up (ć)
+LOCATION:4.23/135
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T174000Z

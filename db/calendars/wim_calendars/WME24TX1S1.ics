@@ -130,6 +130,13 @@ LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250119T085000Z
+DTEND:20250119T102500Z
+SUMMARY:LD (L)
+LOCATION:7/ 23a
+DESCRIPTION:Logistyka dystrybucji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr inż. Chrzanowski Wojciech
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250126T085000Z
 DTEND:20250126T102500Z
 SUMMARY:F2 (ć)
@@ -991,13 +998,6 @@ LOCATION:108/ 54
 DESCRIPTION:Logistyka produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251216T123000Z
-DTEND:20251216T140500Z
-SUMMARY:LD (L)
-LOCATION:7/ 23a
-DESCRIPTION:Logistyka dystrybucji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr inż. Chrzanowski Wojciech
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251223T123000Z
 DTEND:20251223T140500Z
 SUMMARY:I 
@@ -1264,13 +1264,6 @@ LOCATION:15/ 23a
 DESCRIPTION:Metrologia wielkości geometrycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Cypko Edward
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250128T070000Z
-DTEND:20250128T083500Z
-SUMMARY:PLm (w)
-LOCATION:52/ 62
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr inż. Orłowski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250211T070000Z
 DTEND:20250211T083500Z
 SUMMARY:Mwg. (Zp.)
@@ -1527,7 +1520,7 @@ DTSTART:20251008T113000Z
 DTEND:20251008T130500Z
 SUMMARY:PLm (w)
 LOCATION:52/ 62
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr inż. Orłowski Krzysztof
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T113000Z
@@ -1541,7 +1534,7 @@ DTSTART:20251022T113000Z
 DTEND:20251022T130500Z
 SUMMARY:PLm (w)
 LOCATION:52/ 62
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. Orłowski Krzysztof
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T123000Z
@@ -1583,7 +1576,7 @@ DTSTART:20250121T123000Z
 DTEND:20250121T140500Z
 SUMMARY:PLm (w)
 LOCATION:15/ 23a
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr inż. Orłowski Krzysztof
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T123000Z
@@ -1948,6 +1941,13 @@ DTEND:20250101T121500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 76/84
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T104000Z
+DTEND:20250108T121500Z
+SUMMARY:PLm (w)
+LOCATION:52/ 62
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T104000Z

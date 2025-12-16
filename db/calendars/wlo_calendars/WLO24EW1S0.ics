@@ -340,6 +340,13 @@ LOCATION:4.17b/135
 DESCRIPTION:Zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250112T150000Z
+DTEND:20250112T163500Z
+SUMMARY:Za (ć)
+LOCATION:255 S
+DESCRIPTION:Zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: dr hab. Przychocka Iwona
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250119T150000Z
 DTEND:20250119T163500Z
 SUMMARY:LP (L)
@@ -358,7 +365,7 @@ DTSTART:20251013T155000Z
 DTEND:20251013T172500Z
 SUMMARY:Za (ć)
 LOCATION:0.21/16
-DESCRIPTION:Zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: dr hab. Przychocka Iwona
+DESCRIPTION:Zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T165000Z
@@ -372,18 +379,11 @@ DTSTART:20251201T165000Z
 DTEND:20251201T182500Z
 SUMMARY:Za (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: dr hab. Przychocka Iwona
+DESCRIPTION:Zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T165000Z
 DTEND:20251208T182500Z
-SUMMARY:Za (ć)
-LOCATION:4.17b/135
-DESCRIPTION:Zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: dr hab. Przychocka Iwona
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251215T165000Z
-DTEND:20251215T182500Z
 SUMMARY:Za (ć)
 LOCATION:4.17b/135
 DESCRIPTION:Zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: dr hab. Przychocka Iwona
@@ -522,13 +522,6 @@ LOCATION:1a/28
 DESCRIPTION:Inżynieria wojskowego systemu logistycznego\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250120T085000Z
-DTEND:20250120T102500Z
-SUMMARY:PoF (ć)
-LOCATION:4.17b/135
-DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: dr hab. Kostecki Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250127T085000Z
 DTEND:20250127T102500Z
 SUMMARY:LZ (S)
@@ -547,28 +540,28 @@ DTSTART:20251014T094000Z
 DTEND:20251014T111500Z
 SUMMARY:PoF (ć)
 LOCATION:2.21/135
-DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: dr hab. Kostecki Janusz
+DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11\nProwadzący: dr hab. Kostecki Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T094000Z
 DTEND:20251021T111500Z
 SUMMARY:PoF (ć)
 LOCATION:0.21/16
-DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr hab. Kostecki Janusz
+DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11\nProwadzący: dr hab. Kostecki Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T104000Z
 DTEND:20251104T121500Z
 SUMMARY:PoF (ć)
 LOCATION:31/158
-DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11\nProwadzący: dr hab. Kostecki Janusz
+DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr hab. Kostecki Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T104000Z
 DTEND:20251118T121500Z
 SUMMARY:PoF (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11\nProwadzący: dr hab. Kostecki Janusz
+DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11\nProwadzący: dr hab. Kostecki Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T104000Z
@@ -582,14 +575,14 @@ DTSTART:20251202T104000Z
 DTEND:20251202T121500Z
 SUMMARY:PoF (ć)
 LOCATION:1a/28
-DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: dr hab. Kostecki Janusz
+DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11\nProwadzący: dr hab. Kostecki Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T104000Z
 DTEND:20251209T121500Z
 SUMMARY:PoF (ć)
 LOCATION:1/22
-DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/11\nProwadzący: dr hab. Kostecki Janusz
+DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: dr hab. Kostecki Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T104000Z
@@ -604,20 +597,6 @@ DTEND:20250113T121500Z
 SUMMARY:IWSL (S)
 LOCATION:1a/28
 DESCRIPTION:Inżynieria wojskowego systemu logistycznego\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: płk dr inż. Zelkowski Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250120T104000Z
-DTEND:20250120T121500Z
-SUMMARY:PoF (ć)
-LOCATION:4.17b/135
-DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: dr hab. Kostecki Janusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250127T104000Z
-DTEND:20250127T121500Z
-SUMMARY:PoF (ć)
-LOCATION:31/158
-DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/11\nProwadzący: dr hab. Kostecki Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T113000Z
@@ -1271,6 +1250,20 @@ LOCATION:4.17b/135
 DESCRIPTION:Międzynarodowe stosunki ekonomiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: ppłk dr Waszkiewicz Grzegorz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250114T165000Z
+DTEND:20250114T182500Z
+SUMMARY:PoF (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/11\nProwadzący: dr hab. Kostecki Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250114T184000Z
+DTEND:20250114T201500Z
+SUMMARY:PoF (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: dr hab. Kostecki Janusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251016T060000Z
 DTEND:20251016T073500Z
 SUMMARY:Za (ć)
@@ -1682,6 +1675,13 @@ DTEND:20250115T163500Z
 SUMMARY:Ap (w)
 LOCATION:4.17b/135
 DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Moch Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250122T150000Z
+DTEND:20250122T163500Z
+SUMMARY:PoF (ć)
+LOCATION:5.21/135
+DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/11\nProwadzący: dr hab. Kostecki Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T155000Z
