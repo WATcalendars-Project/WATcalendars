@@ -1082,13 +1082,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 40/126
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250113T104000Z
-DTEND:20250113T121500Z
-SUMMARY:Epw (w)
-LOCATION:42/ 20
-DESCRIPTION:Eksploatacja pojazdów wojskowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/22\nProwadzący: dr hab. inż.(prof. ucz.) Dziubak Tadeusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250120T104000Z
 DTEND:20250120T121500Z
 SUMMARY:Epw (L)
@@ -1135,7 +1128,7 @@ DTSTART:20251021T113000Z
 DTEND:20251021T130500Z
 SUMMARY:Epw (w)
 LOCATION:42/ 20
-DESCRIPTION:Eksploatacja pojazdów wojskowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/22\nProwadzący: dr hab. inż.(prof. ucz.) Dziubak Tadeusz
+DESCRIPTION:Eksploatacja pojazdów wojskowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/22\nProwadzący: dr hab. inż.(prof. ucz.) Dziubak Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T123000Z
@@ -1177,7 +1170,7 @@ DTSTART:20251202T123000Z
 DTEND:20251202T140500Z
 SUMMARY:Epw (w)
 LOCATION:42/ 20
-DESCRIPTION:Eksploatacja pojazdów wojskowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/22\nProwadzący: dr hab. inż.(prof. ucz.) Dziubak Tadeusz
+DESCRIPTION:Eksploatacja pojazdów wojskowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/22\nProwadzący: dr hab. inż.(prof. ucz.) Dziubak Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T123000Z
@@ -1220,6 +1213,13 @@ DTEND:20250120T140500Z
 SUMMARY:Epw (L)
 LOCATION:PTW/ 28
 DESCRIPTION:Eksploatacja pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250127T123000Z
+DTEND:20250127T140500Z
+SUMMARY:Epw (w)
+LOCATION:42/ 20
+DESCRIPTION:Eksploatacja pojazdów wojskowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/22\nProwadzący: dr hab. inż.(prof. ucz.) Dziubak Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T140000Z

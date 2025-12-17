@@ -1684,13 +1684,6 @@ LOCATION:55/ 62
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/17
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250115T085000Z
-DTEND:20250115T102500Z
-SUMMARY:WDM (ć)
-LOCATION:5/ 20
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Boruta Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250122T085000Z
 DTEND:20250122T102500Z
 SUMMARY:PGI (ć)
@@ -1772,7 +1765,7 @@ DTSTART:20251218T104000Z
 DTEND:20251218T121500Z
 SUMMARY:WDM (ć)
 LOCATION:5/ 20
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Boruta Grzegorz
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T104000Z
@@ -1787,6 +1780,13 @@ DTEND:20250101T121500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 76/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250115T104000Z
+DTEND:20250115T121500Z
+SUMMARY:WDM (ć)
+LOCATION:5/ 20
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250219T104000Z

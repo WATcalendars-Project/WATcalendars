@@ -571,6 +571,13 @@ LOCATION:
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/18
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250121T104000Z
+DTEND:20250121T121500Z
+SUMMARY:Z.S-up (ć)
+LOCATION:
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251029T123000Z
 DTEND:20251029T140500Z
 SUMMARY:ZKo (w)
@@ -603,7 +610,7 @@ DTSTART:20251203T123000Z
 DTEND:20251203T140500Z
 SUMMARY:Z.S-up (ć)
 LOCATION:0.6/16
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T123000Z
@@ -632,6 +639,13 @@ DTEND:20250114T140500Z
 SUMMARY:ZKo (ć)
 LOCATION:4.17b/135
 DESCRIPTION:Zarządzanie kompetencjami w organizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr inż. Wojciechowski Zdzislaw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250121T123000Z
+DTEND:20250121T140500Z
+SUMMARY:Z.S-up (ć)
+LOCATION:
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T140000Z
@@ -1222,32 +1236,25 @@ LOCATION:4.17b/135
 DESCRIPTION:Kierowanie zespołami ludzkimi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251219T104000Z
-DTEND:20251219T121500Z
-SUMMARY:Z.S-up (ć)
-LOCATION:0.24/135
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250116T104000Z
 DTEND:20250116T121500Z
 SUMMARY:Z.S-up (ć)
 LOCATION:1/22
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250123T104000Z
 DTEND:20250123T121500Z
 SUMMARY:Z.S-up (ć)
 LOCATION:1/22
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T104000Z
 DTEND:20250130T121500Z
 SUMMARY:Z.S-up (ć)
 LOCATION:1/22
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
+DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T113000Z
@@ -1283,13 +1290,6 @@ DTEND:20251121T140500Z
 SUMMARY:PG (ć)
 LOCATION:0.22/16
 DESCRIPTION:Prawo gospodarcze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr hab. Kamiński Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251219T123000Z
-DTEND:20251219T140500Z
-SUMMARY:Z.S-up (ć)
-LOCATION:5.17/135
-DESCRIPTION:Zarządzanie start-upami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250116T123000Z

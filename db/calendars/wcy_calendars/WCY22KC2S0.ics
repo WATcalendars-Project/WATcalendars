@@ -4127,6 +4127,13 @@ LOCATION:125 65
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260107T165000Z
+DTEND:20260107T182500Z
+SUMMARY:MAST (w)
+LOCATION:313 S
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260108T070000Z
 DTEND:20260108T083500Z
 SUMMARY:- (S.Sz.W.)
@@ -4225,13 +4232,6 @@ LOCATION:203 65
 DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260113T085000Z
-DTEND:20260113T102500Z
-SUMMARY:MAST (w)
-LOCATION:317 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260113T104000Z
 DTEND:20260113T121500Z
 SUMMARY:MAST (w)
@@ -4246,13 +4246,6 @@ LOCATION:-
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260114T085000Z
-DTEND:20260114T102500Z
-SUMMARY:MAST (P)
-LOCATION:106 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5/8\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260114T104000Z
 DTEND:20260114T121500Z
 SUMMARY:Ja (ć)
@@ -4265,6 +4258,13 @@ DTEND:20260114T140500Z
 SUMMARY:ESI (L)
 LOCATION:120 65
 DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260114T165000Z
+DTEND:20260114T182500Z
+SUMMARY:MAST (P)
+LOCATION:09 65
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5/8\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T123000Z
@@ -4573,6 +4573,20 @@ DTEND:20260131T083500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28/28\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T070000Z
+DTEND:20260203T083500Z
+SUMMARY:Wpp (Inne)
+LOCATION:120 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T085000Z
+DTEND:20260203T102500Z
+SUMMARY:Wpp (Inne)
+LOCATION:120 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/2\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260205T070000Z
@@ -4953,13 +4967,6 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 68/88\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260401T113000Z
-DTEND:20260401T130500Z
-SUMMARY:DWiPD (w)
-LOCATION:19 36
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260402T060000Z
 DTEND:20260402T073500Z
 SUMMARY:- (S.Sz.W.)
@@ -5014,6 +5021,13 @@ DTEND:20260408T111500Z
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 69/88\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T113000Z
+DTEND:20260408T130500Z
+SUMMARY:DWiPD (w)
+LOCATION:19 36
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T060000Z

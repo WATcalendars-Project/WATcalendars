@@ -151,6 +151,13 @@ LOCATION:2PL/9KP; 3PL/9KP; 21EW; 1S; 21CO; 1S; 21BIS; 21BID; 21BJO; 21BJL
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: mjr dr inż. Walkowiak Marzena; dr n.społ. inż. Rogowski Bogusław; dr inż. Magierski Mieczysław; ppłk rez. mgr Czarnecki Jarosław; ppłk mgr inż. Goławski Rafał; dr hab. Filipek Agnieszka; dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250119T085000Z
+DTEND:20250119T102500Z
+SUMMARY:PrzO (ć)
+LOCATION:
+DESCRIPTION:Przemysł obronny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. Magierski Mieczysław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250126T085000Z
 DTEND:20250126T102500Z
 SUMMARY:SzS (ć)
@@ -872,13 +879,6 @@ LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251217T085000Z
-DTEND:20251217T102500Z
-SUMMARY:PrzO (ć)
-LOCATION:
-DESCRIPTION:Przemysł obronny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. Magierski Mieczysław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250107T085000Z
 DTEND:20250107T102500Z
 SUMMARY:Tib (ć)
@@ -1516,6 +1516,13 @@ LOCATION:0.6/16
 DESCRIPTION:Gospodarka finansowa WOG\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: płk dr hab. Stańczyk Konrad
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250129T123000Z
+DTEND:20250129T140500Z
+SUMMARY:Tib (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Technologie informacyjne w bezpieczeństwie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr inż. Pokorski Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251002T140000Z
 DTEND:20251002T153500Z
 SUMMARY:A.Wew. (ć)
@@ -1555,7 +1562,7 @@ DTSTART:20251113T150000Z
 DTEND:20251113T163500Z
 SUMMARY:Tib (ć)
 LOCATION:4.17a/135
-DESCRIPTION:Technologie informacyjne w bezpieczeństwie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr inż. Pokorski Grzegorz
+DESCRIPTION:Technologie informacyjne w bezpieczeństwie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr inż. Pokorski Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T150000Z
@@ -1584,13 +1591,6 @@ DTEND:20251211T163500Z
 SUMMARY:SIwFiRW (L)
 LOCATION:1.7/16
 DESCRIPTION:Systemy informatyczne w finansach i rachunkowości wojska\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/13\nProwadzący: płk mgr inż. Górski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251218T150000Z
-DTEND:20251218T163500Z
-SUMMARY:Tib (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Technologie informacyjne w bezpieczeństwie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr inż. Pokorski Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T150000Z
