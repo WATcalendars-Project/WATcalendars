@@ -119,7 +119,7 @@ BEGIN:VEVENT
 DTSTART:20250112T123000Z
 DTEND:20250112T140500Z
 SUMMARY:FEM (L)
-LOCATION:57/ 62
+LOCATION:56/ 62
 DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 DTSTART:20250112T150000Z
 DTEND:20250112T163500Z
 SUMMARY:FEM (L)
-LOCATION:57/ 62
+LOCATION:56/ 62
 DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 DTSTART:20250120T070000Z
 DTEND:20250120T083500Z
 SUMMARY:FEM (L)
-LOCATION:53/ 62
+LOCATION:56/ 62
 DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 DTSTART:20250120T085000Z
 DTEND:20250120T102500Z
 SUMMARY:FEM (L)
-LOCATION:53/ 62
+LOCATION:56/ 62
 DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
@@ -289,13 +289,6 @@ DTEND:20250120T121500Z
 SUMMARY:HS* (ć)
 LOCATION:42/ 54A
 DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr hab. inż. Łopatka Marian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250127T104000Z
-DTEND:20250127T121500Z
-SUMMARY:FEM (Zp.)
-LOCATION:53/ 62
-DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T123000Z
@@ -520,6 +513,13 @@ DTEND:20251217T121500Z
 SUMMARY:HS* (ć)
 LOCATION:16/ 68
 DESCRIPTION:Hydraulics systems for mobile aplications\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr hab. inż. Łopatka Marian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250128T104000Z
+DTEND:20250128T121500Z
+SUMMARY:FEM (Zp.)
+LOCATION:56/ 62
+DESCRIPTION:FEM and Simulation of Linear Problems of Mechanics\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T123000Z

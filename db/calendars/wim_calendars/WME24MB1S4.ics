@@ -105,14 +105,14 @@ BEGIN:VEVENT
 DTSTART:20250119T070000Z
 DTEND:20250119T083500Z
 SUMMARY:Pum. (L)
-LOCATION:53/ 62
+LOCATION:
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/15\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250126T070000Z
 DTEND:20250126T083500Z
 SUMMARY:Pum. (L)
-LOCATION:53/ 62
+LOCATION:
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/15\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
 END:VEVENT
 BEGIN:VEVENT
@@ -224,14 +224,14 @@ BEGIN:VEVENT
 DTSTART:20250119T085000Z
 DTEND:20250119T102500Z
 SUMMARY:Pum. (L)
-LOCATION:53/ 62
+LOCATION:
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/15\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250126T085000Z
 DTEND:20250126T102500Z
 SUMMARY:Pum. (L)
-LOCATION:53/ 62
+LOCATION:
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/15\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
 END:VEVENT
 BEGIN:VEVENT
@@ -340,17 +340,10 @@ LOCATION:30/ 54
 DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250119T104000Z
-DTEND:20250119T121500Z
-SUMMARY:Pm. (ć)
-LOCATION:116/ 54
-DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250126T104000Z
 DTEND:20250126T121500Z
 SUMMARY:Pum. (L)
-LOCATION:57/ 62
+LOCATION:
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/15\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
 END:VEVENT
 BEGIN:VEVENT
@@ -693,7 +686,7 @@ BEGIN:VEVENT
 DTSTART:20250127T070000Z
 DTEND:20250127T083500Z
 SUMMARY:Pum. (L)
-LOCATION:53/ 62
+LOCATION:
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/15\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
 END:VEVENT
 BEGIN:VEVENT
@@ -708,7 +701,7 @@ DTSTART:20251014T075000Z
 DTEND:20251014T092500Z
 SUMMARY:Pm. (ć)
 LOCATION:8/ 62
-DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
+DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T075000Z
@@ -812,7 +805,7 @@ BEGIN:VEVENT
 DTSTART:20250127T085000Z
 DTEND:20250127T102500Z
 SUMMARY:Pum. (L)
-LOCATION:53/ 62
+LOCATION:
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/15\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
 END:VEVENT
 BEGIN:VEVENT
@@ -855,7 +848,7 @@ DTSTART:20251028T104000Z
 DTEND:20251028T121500Z
 SUMMARY:Pm. (ć)
 LOCATION:42/ 54A
-DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
+DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T104000Z
@@ -933,13 +926,6 @@ DTEND:20250113T121500Z
 SUMMARY:Mm. (L)
 LOCATION:10/ 54A
 DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250127T104000Z
-DTEND:20250127T121500Z
-SUMMARY:Pm. (L)
-LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250203T104000Z
@@ -1047,6 +1033,13 @@ LOCATION:10/ 54A
 DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250127T123000Z
+DTEND:20250127T140500Z
+SUMMARY:Pum. (L)
+LOCATION:
+DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/15\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250210T123000Z
 DTEND:20250210T140500Z
 SUMMARY:Pbm 
@@ -1145,13 +1138,6 @@ LOCATION:53/ 62
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250127T150000Z
-DTEND:20250127T163500Z
-SUMMARY:Pum. (L)
-LOCATION:57/ 62
-DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/15\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251111T165000Z
 DTEND:20251111T182500Z
 SUMMARY:I 
@@ -1219,7 +1205,7 @@ DTSTART:20251001T060000Z
 DTEND:20251001T073500Z
 SUMMARY:Pm. (ć)
 LOCATION:55/ 62
-DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
+DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T060000Z
@@ -1261,7 +1247,7 @@ DTSTART:20251119T070000Z
 DTEND:20251119T083500Z
 SUMMARY:Pm. (L)
 LOCATION:30/ 54
-DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12
+DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T070000Z
@@ -1282,7 +1268,7 @@ DTSTART:20251210T070000Z
 DTEND:20251210T083500Z
 SUMMARY:Pm. (L)
 LOCATION:30/ 54; 29/ 54
-DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12
+DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T070000Z
@@ -1359,14 +1345,14 @@ DTSTART:20251119T085000Z
 DTEND:20251119T102500Z
 SUMMARY:Pm. (L)
 LOCATION:30/ 54
-DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12
+DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T085000Z
 DTEND:20251126T102500Z
 SUMMARY:Pm. (L)
 LOCATION:30/ 54; 29/ 54
-DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12
+DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T085000Z
@@ -1528,6 +1514,20 @@ DTEND:20250107T121500Z
 SUMMARY:Zsw. (L)
 LOCATION:26/ 34
 DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250114T104000Z
+DTEND:20250114T121500Z
+SUMMARY:Pm. (L)
+LOCATION:29/ 54; 30/ 54
+DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250121T104000Z
+DTEND:20250121T121500Z
+SUMMARY:Pm. (ć)
+LOCATION:120/ 54
+DESCRIPTION:Projektowanie maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T113000Z
@@ -2310,7 +2310,7 @@ BEGIN:VEVENT
 DTSTART:20250123T070000Z
 DTEND:20250123T083500Z
 SUMMARY:Pum. (L)
-LOCATION:53/ 62
+LOCATION:
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/15\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
 END:VEVENT
 BEGIN:VEVENT
@@ -2464,7 +2464,7 @@ BEGIN:VEVENT
 DTSTART:20250123T085000Z
 DTEND:20250123T102500Z
 SUMMARY:Pum. (L)
-LOCATION:53/ 62
+LOCATION:
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/15\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
 END:VEVENT
 BEGIN:VEVENT
@@ -2618,7 +2618,7 @@ BEGIN:VEVENT
 DTSTART:20250123T104000Z
 DTEND:20250123T121500Z
 SUMMARY:Pum. (L)
-LOCATION:53/ 62
+LOCATION:
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/15\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
 END:VEVENT
 BEGIN:VEVENT
@@ -2772,7 +2772,7 @@ BEGIN:VEVENT
 DTSTART:20250123T123000Z
 DTEND:20250123T140500Z
 SUMMARY:Pum. (L)
-LOCATION:53/ 62
+LOCATION:
 DESCRIPTION:Projektowanie uniwersalne w modelowaniu i analizach numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/15\nProwadzący: dr hab. inż. (prof. ucz.) Baranowski Paweł
 END:VEVENT
 BEGIN:VEVENT

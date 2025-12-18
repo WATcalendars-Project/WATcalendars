@@ -2426,18 +2426,18 @@ LOCATION:aula/ 135
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 12/17\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260113T123000Z
+DTEND:20260113T140500Z
+SUMMARY:Wdi. (L)
+LOCATION:7/ 23a
+DESCRIPTION:Wprowadzenie do informatyki. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260115T070000Z
 DTEND:20260115T083500Z
 SUMMARY:Mat2 (ć)
 LOCATION:9/ 62
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: dr Jerzy Ploch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260115T085000Z
-DTEND:20260115T102500Z
-SUMMARY:Wdi. (L)
-LOCATION:57/ 62
-DESCRIPTION:Wprowadzenie do informatyki. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T104000Z
@@ -2534,7 +2534,7 @@ BEGIN:VEVENT
 DTSTART:20260122T085000Z
 DTEND:20260122T102500Z
 SUMMARY:Wdi. (L)
-LOCATION:57/ 62
+LOCATION:7/ 23a
 DESCRIPTION:Wprowadzenie do informatyki. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2618,7 +2618,7 @@ BEGIN:VEVENT
 DTSTART:20260129T085000Z
 DTEND:20260129T102500Z
 SUMMARY:Wdi. (L)
-LOCATION:57/ 62
+LOCATION:7/ 23a
 DESCRIPTION:Wprowadzenie do informatyki. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2646,7 +2646,7 @@ BEGIN:VEVENT
 DTSTART:20260202T085000Z
 DTEND:20260202T102500Z
 SUMMARY:Wdi. (Inne)
-LOCATION:53/ 62 57/ 62
+LOCATION:53/ 62
 DESCRIPTION:Wprowadzenie do informatyki. - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
