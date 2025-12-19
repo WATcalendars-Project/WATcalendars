@@ -3840,13 +3840,6 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 50/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251219T085000Z
-DTEND:20251219T102500Z
-SUMMARY:ZBD (L)
-LOCATION:227 S
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: Marcin Dąbkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251219T150000Z
 DTEND:20251219T163500Z
 SUMMARY:Picz (L)
@@ -3873,13 +3866,6 @@ DTEND:20260107T102500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 62/75\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260107T104000Z
-DTEND:20260107T121500Z
-SUMMARY:ZBD (L)
-LOCATION:224 S
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: Marcin Dąbkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T123000Z
@@ -4176,18 +4162,18 @@ LOCATION:09 65
 DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/16\nProwadzący: Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260120T104000Z
-DTEND:20260120T121500Z
-SUMMARY:ZBD (L)
-LOCATION:226 S
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: Marcin Dąbkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260120T150000Z
 DTEND:20260120T163500Z
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 57/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T165000Z
+DTEND:20260120T182500Z
+SUMMARY:ZBD (L)
+LOCATION:226 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: Marcin Dąbkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T070000Z
@@ -4251,6 +4237,20 @@ DTEND:20260122T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 68/75\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260122T150000Z
+DTEND:20260122T163500Z
+SUMMARY:ZBD (L)
+LOCATION:227 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: Marcin Dąbkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260122T165000Z
+DTEND:20260122T182500Z
+SUMMARY:ZBD (L)
+LOCATION:227 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: Marcin Dąbkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T070000Z

@@ -50,7 +50,7 @@ DTSTART:20251117T070000Z
 DTEND:20251117T083500Z
 SUMMARY:Sd. (S)
 LOCATION:116/ 54
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/10
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/10\nProwadzący: dr inż. Kluczyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T070000Z
@@ -123,13 +123,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 2/21
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251117T085000Z
-DTEND:20251117T102500Z
-SUMMARY:Sd. (S)
-LOCATION:116/ 54
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/10
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251124T085000Z
 DTEND:20251124T102500Z
 SUMMARY:AiRPT (L)
@@ -162,21 +155,21 @@ DTSTART:20251006T094000Z
 DTEND:20251006T111500Z
 SUMMARY:Sd. (S)
 LOCATION:116/ 54
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/10
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T094000Z
 DTEND:20251020T111500Z
 SUMMARY:Sd. (S)
 LOCATION:116/ 54
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/10
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T104000Z
 DTEND:20251103T121500Z
 SUMMARY:Sd. (S)
 LOCATION:116/ 54
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/10\nProwadzący: dr inż. Kluczyński Janusz
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/10\nProwadzący: dr inż. Kluczyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251110T104000Z
@@ -184,6 +177,13 @@ DTEND:20251110T121500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 3/21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251117T104000Z
+DTEND:20251117T121500Z
+SUMMARY:Sd. (S)
+LOCATION:109/ 54
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/10\nProwadzący: dr inż. Kluczyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T104000Z

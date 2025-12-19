@@ -4085,18 +4085,18 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 65/75\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260114T104000Z
-DTEND:20260114T121500Z
-SUMMARY:ZBD (L)
-LOCATION:226 S
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: Marcin Dąbkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260114T123000Z
 DTEND:20260114T140500Z
 SUMMARY:TA (ć)
 LOCATION:103 K
 DESCRIPTION:TAKTYKA - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260114T150000Z
+DTEND:20260114T163500Z
+SUMMARY:ZBD (L)
+LOCATION:226 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: Marcin Dąbkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T165000Z
@@ -4386,13 +4386,6 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 59/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260128T070000Z
-DTEND:20260128T083500Z
-SUMMARY:ZBD (L)
-LOCATION:228 S
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: Marcin Dąbkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260128T085000Z
 DTEND:20260128T102500Z
 SUMMARY:WF (ć)
@@ -4405,6 +4398,13 @@ DTEND:20260128T121500Z
 SUMMARY:TA (Inne)
 LOCATION:103 K
 DESCRIPTION:TAKTYKA - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T150000Z
+DTEND:20260128T163500Z
+SUMMARY:ZBD (L)
+LOCATION:227 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: Marcin Dąbkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T184000Z
