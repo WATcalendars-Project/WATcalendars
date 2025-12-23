@@ -340,13 +340,6 @@ LOCATION:5.21/135
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250113T070000Z
-DTEND:20250113T083500Z
-SUMMARY:SZK (ć)
-LOCATION:1.27/135
-DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250120T070000Z
 DTEND:20250120T083500Z
 SUMMARY:Pmb (w)
@@ -363,9 +356,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T085000Z
 DTEND:20250113T102500Z
-SUMMARY:SZK (ć)
-LOCATION:1.27/135
-DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10
+SUMMARY:Pmb (w)
+LOCATION:3.16/135
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. Kołodziejczyk Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T085000Z
@@ -386,21 +379,21 @@ DTSTART:20251104T104000Z
 DTEND:20251104T121500Z
 SUMMARY:Pmb (w)
 LOCATION:3.16/135
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. Kołodziejczyk Adam
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. Kołodziejczyk Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T104000Z
 DTEND:20251209T121500Z
 SUMMARY:Pmb (w)
 LOCATION:3.16/135
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. Kołodziejczyk Adam
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. Kołodziejczyk Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250113T104000Z
 DTEND:20250113T121500Z
 SUMMARY:Pmb (w)
-LOCATION:
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. Kołodziejczyk Adam
+LOCATION:3.16/135
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. Kołodziejczyk Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T104000Z
@@ -415,13 +408,6 @@ DTEND:20251021T130500Z
 SUMMARY:Ocgr.Lud.i 
 LOCATION:301/S
 DESCRIPTION:Ocgr.Lud.i\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: dr hab. Zalewski Jerzy
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250113T123000Z
-DTEND:20250113T140500Z
-SUMMARY:Pmb (w)
-LOCATION:
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. Kołodziejczyk Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T123000Z
@@ -659,7 +645,7 @@ DTSTART:20250128T104000Z
 DTEND:20250128T121500Z
 SUMMARY:SZK (ć)
 LOCATION:0.8/16
-DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10
+DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T123000Z
@@ -687,14 +673,14 @@ DTSTART:20250128T123000Z
 DTEND:20250128T140500Z
 SUMMARY:SZK (ć)
 LOCATION:0.8/16
-DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10
+DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T150000Z
 DTEND:20251210T163500Z
 SUMMARY:SZK (ć)
 LOCATION:
-DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10
+DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250114T150000Z
@@ -722,13 +708,13 @@ DTSTART:20251210T165000Z
 DTEND:20251210T182500Z
 SUMMARY:SZK (ć)
 LOCATION:
-DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10
+DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250114T165000Z
 DTEND:20250114T182500Z
 SUMMARY:Pmb (w)
-LOCATION:1.10/16; 1.9/16
+LOCATION:0.24/135
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. Kołodziejczyk Adam
 END:VEVENT
 BEGIN:VEVENT
@@ -900,6 +886,13 @@ LOCATION:315 S
 DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr hab. Zalewski Jerzy
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250108T150000Z
+DTEND:20250108T163500Z
+SUMMARY:SZK (ć)
+LOCATION:1.17/16
+DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250115T150000Z
 DTEND:20250115T163500Z
 SUMMARY:Teo. 
@@ -963,6 +956,13 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo energetyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. Zalewski Jerzy
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250108T165000Z
+DTEND:20250108T182500Z
+SUMMARY:SZK (ć)
+LOCATION:1.17/16
+DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250115T165000Z
 DTEND:20250115T182500Z
 SUMMARY:Teo. 
@@ -974,7 +974,7 @@ DTSTART:20250122T165000Z
 DTEND:20250122T182500Z
 SUMMARY:Pmb (ć)
 LOCATION:5.21/135
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr hab. Kołodziejczyk Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T174000Z
@@ -1002,7 +1002,7 @@ DTSTART:20250122T184000Z
 DTEND:20250122T201500Z
 SUMMARY:Pmb (ć)
 LOCATION:5.21/135
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr hab. Kołodziejczyk Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T085000Z
@@ -1016,7 +1016,7 @@ DTSTART:20250116T085000Z
 DTEND:20250116T102500Z
 SUMMARY:Pmb (ć)
 LOCATION:5.21/135
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr hab. Kołodziejczyk Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T094000Z
@@ -1058,7 +1058,7 @@ DTSTART:20250116T104000Z
 DTEND:20250116T121500Z
 SUMMARY:Pmb (ć)
 LOCATION:5.21/135
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr hab. Kołodziejczyk Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T104000Z
@@ -1233,7 +1233,7 @@ DTSTART:20250130T165000Z
 DTEND:20250130T182500Z
 SUMMARY:Pmb (ć)
 LOCATION:5.21/135
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr hab. Kołodziejczyk Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T174000Z

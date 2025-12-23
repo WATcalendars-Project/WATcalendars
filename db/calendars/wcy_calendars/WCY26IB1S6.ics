@@ -277,25 +277,11 @@ LOCATION:317 S
 DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260122T104000Z
-DTEND:20260122T121500Z
-SUMMARY:Oś (w)
-LOCATION:2 59
-DESCRIPTION:Ochrona środowiska - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260122T123000Z
 DTEND:20260122T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260122T150000Z
-DTEND:20260122T163500Z
-SUMMARY:SBD (w)
-LOCATION:308 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T070000Z
@@ -428,7 +414,7 @@ DTSTART:20260129T150000Z
 DTEND:20260129T163500Z
 SUMMARY:SBD (w)
 LOCATION:317 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T070000Z
@@ -443,6 +429,13 @@ DTEND:20260130T102500Z
 SUMMARY:PKSt (w)
 LOCATION:0.28/ 135
 DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T104000Z
+DTEND:20260130T121500Z
+SUMMARY:Oś (w)
+LOCATION:201 53
+DESCRIPTION:Ochrona środowiska - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T123000Z
@@ -778,7 +771,7 @@ DTSTART:20260212T150000Z
 DTEND:20260212T163500Z
 SUMMARY:SBD (w)
 LOCATION:309 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213T070000Z
@@ -2088,6 +2081,13 @@ DTEND:20260402T172500Z
 SUMMARY:Sck (L)
 LOCATION:120 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260403T060000Z
+DTEND:20260403T073500Z
+SUMMARY:SBD (w)
+LOCATION:317 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260403T075000Z
