@@ -354,11 +354,18 @@ LOCATION:4.17b/135
 DESCRIPTION:SYS.\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: dr hab. Filipek Agnieszka; mgr Moszczyński Maciej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250113T123000Z
+DTEND:20250113T140500Z
+SUMMARY:Bin (ć)
+LOCATION:4.23/135
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250127T123000Z
 DTEND:20250127T140500Z
 SUMMARY:Bin (ć)
 LOCATION:4.17a/135
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T140000Z
@@ -638,7 +645,7 @@ DTSTART:20251126T104000Z
 DTEND:20251126T121500Z
 SUMMARY:Bin (ć)
 LOCATION:5.21/135
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T104000Z
@@ -680,7 +687,7 @@ DTSTART:20251126T123000Z
 DTEND:20251126T140500Z
 SUMMARY:Bin (ć)
 LOCATION:5.21/135
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T123000Z
@@ -751,13 +758,6 @@ DTEND:20250115T083500Z
 SUMMARY:PODST. 
 LOCATION:5.27/135
 DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 9/15\nProwadzący: mgr Dąbrowska - Świder Małgorzata; dr hab. Zalewski Jerzy; dr Wojnarowska Szpucha Sylwia; dr Śmiałek Wiesław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T085000Z
-DTEND:20251211T102500Z
-SUMMARY:Bin (ć)
-LOCATION:0.6/16
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T085000Z

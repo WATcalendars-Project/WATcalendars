@@ -74,6 +74,13 @@ LOCATION:201 65
 DESCRIPTION:Zarządzanie siecią komputerową\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260223T104000Z
+DTEND:20260223T121500Z
+SUMMARY:Zsk (w)
+LOCATION:201 65
+DESCRIPTION:Zarządzanie siecią komputerową\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260223T123000Z
 DTEND:20260223T140500Z
 SUMMARY:NLan (w)
@@ -92,7 +99,7 @@ DTSTART:20260225T070000Z
 DTEND:20260225T083500Z
 SUMMARY:Zsk (w)
 LOCATION:101 65
-DESCRIPTION:Zarządzanie siecią komputerową\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Zarządzanie siecią komputerową\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260225T085000Z
@@ -141,7 +148,7 @@ DTSTART:20260227T085000Z
 DTEND:20260227T102500Z
 SUMMARY:Zsk (w)
 LOCATION:201 65
-DESCRIPTION:Zarządzanie siecią komputerową\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Zarządzanie siecią komputerową\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T070000Z
@@ -193,13 +200,6 @@ LOCATION:120 65
 DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260304T070000Z
-DTEND:20260304T083500Z
-SUMMARY:Zsk (w)
-LOCATION:101 65
-DESCRIPTION:Zarządzanie siecią komputerową\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Tomasz Malinowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260304T085000Z
 DTEND:20260304T102500Z
 SUMMARY:NLan (L)
@@ -212,6 +212,13 @@ DTEND:20260304T121500Z
 SUMMARY:NLan (L)
 LOCATION:125 65
 DESCRIPTION:Niezawodność i bezpieczeństwo sieci LAN\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T123000Z
+DTEND:20260304T140500Z
+SUMMARY:Zsk (w)
+LOCATION:101 65
+DESCRIPTION:Zarządzanie siecią komputerową\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T070000Z
@@ -246,7 +253,7 @@ DTSTART:20260306T085000Z
 DTEND:20260306T102500Z
 SUMMARY:Zsk (w)
 LOCATION:101 65
-DESCRIPTION:Zarządzanie siecią komputerową\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Zarządzanie siecią komputerową\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T085000Z
@@ -309,7 +316,7 @@ DTSTART:20260313T085000Z
 DTEND:20260313T102500Z
 SUMMARY:Zsk (w)
 LOCATION:101 65
-DESCRIPTION:Zarządzanie siecią komputerową\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Zarządzanie siecią komputerową\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T104000Z
@@ -380,13 +387,6 @@ DTEND:20260317T140500Z
 SUMMARY:WST (L)
 LOCATION:120 65
 DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260318T070000Z
-DTEND:20260318T083500Z
-SUMMARY:Zsk (w)
-LOCATION:101 65
-DESCRIPTION:Zarządzanie siecią komputerową\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T085000Z
