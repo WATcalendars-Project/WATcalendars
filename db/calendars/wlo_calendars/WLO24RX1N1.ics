@@ -475,8 +475,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250118T070000Z
 DTEND:20250118T083500Z
+SUMMARY:Pmb (w)
+LOCATION:1.17/16
+DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. Kołodziejczyk Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250125T070000Z
+DTEND:20250125T083500Z
 SUMMARY:Pmb (ć)
-LOCATION:5.21/135
+LOCATION:1.15/16
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. Kołodziejczyk Adam
 END:VEVENT
 BEGIN:VEVENT
@@ -562,13 +569,6 @@ DTEND:20250118T102500Z
 SUMMARY:PODST. 
 LOCATION:5.27/135
 DESCRIPTION:PODST.\nRodzaj zajęć: -\nNumer zajęć: 9/9\nProwadzący: mgr Dąbrowska - Świder Małgorzata; dr hab. Zalewski Jerzy; Prof. dr hab. Cieślarczyk Marian; dr Śmiałek Wiesław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250125T085000Z
-DTEND:20250125T102500Z
-SUMMARY:Pmb (w)
-LOCATION:0.8/16
-DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. Kołodziejczyk Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250201T085000Z

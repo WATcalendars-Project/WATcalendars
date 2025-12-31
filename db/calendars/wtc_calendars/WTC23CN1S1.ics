@@ -329,7 +329,7 @@ BEGIN:VEVENT
 DTSTART:20250113T104000Z
 DTEND:20250113T121500Z
 SUMMARY:Mwy (w)
-LOCATION:108 24
+LOCATION:110/ 14
 DESCRIPTION:Materiały wysokoenergetyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: prof. dr hab. inż. Cudziło Stanisław
 END:VEVENT
 BEGIN:VEVENT
@@ -515,6 +515,13 @@ LOCATION:110/ 14
 DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250114T085000Z
+DTEND:20250114T102500Z
+SUMMARY:Mwy (L)
+LOCATION:117b 24;117 24
+DESCRIPTION:Materiały wysokoenergetyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: dr inż. Chyłek Zbigniew
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250128T085000Z
 DTEND:20250128T102500Z
 SUMMARY:Fj (L)
@@ -561,7 +568,7 @@ DTSTART:20251203T104000Z
 DTEND:20251203T121500Z
 SUMMARY:Mwy (L)
 LOCATION:117b 24;117 24
-DESCRIPTION:Materiały wysokoenergetyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: dr inż. Chyłek Zbigniew
+DESCRIPTION:Materiały wysokoenergetyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: dr inż. Chyłek Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T104000Z
@@ -576,6 +583,13 @@ DTEND:20251217T121500Z
 SUMMARY:Mc (w)
 LOCATION:108 24
 DESCRIPTION:Materiałoznawstwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 9/23\nProwadzący: prof. dr hab. inż. Tykarska Marzena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250114T104000Z
+DTEND:20250114T121500Z
+SUMMARY:Mwy (L)
+LOCATION:117b 24;117 24
+DESCRIPTION:Materiały wysokoenergetyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: dr inż. Chyłek Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T113000Z
@@ -711,13 +725,6 @@ LOCATION:10 55
 DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: dr hab. inż. Puton Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251211T070000Z
-DTEND:20251211T083500Z
-SUMMARY:Mwy (L)
-LOCATION:117b 24;117 24
-DESCRIPTION:Materiały wysokoenergetyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: dr inż. Chyłek Zbigniew
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251002T075000Z
 DTEND:20251002T092500Z
 SUMMARY:Cho (L)
@@ -751,13 +758,6 @@ DTEND:20251120T102500Z
 SUMMARY:Fj (w)
 LOCATION:1 55A
 DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/15\nProwadzący: dr hab. inż. Puton Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T085000Z
-DTEND:20251211T102500Z
-SUMMARY:Mwy (L)
-LOCATION:117b 24;117 24
-DESCRIPTION:Materiały wysokoenergetyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: dr inż. Chyłek Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T085000Z
