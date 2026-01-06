@@ -1096,13 +1096,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 40/140
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250113T104000Z
-DTEND:20250113T121500Z
-SUMMARY:Pkm2 (w)
-LOCATION:3/ 54
-DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250127T104000Z
 DTEND:20250127T121500Z
 SUMMARY:Sz.-CSz 
@@ -1492,7 +1485,7 @@ DTSTART:20251001T060000Z
 DTEND:20251001T073500Z
 SUMMARY:Pkm2 (w)
 LOCATION:3/ 54
-DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
+DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T060000Z
@@ -2199,7 +2192,7 @@ DTSTART:20251002T060000Z
 DTEND:20251002T073500Z
 SUMMARY:Pkm2 (w)
 LOCATION:3/ 54
-DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
+DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T060000Z
@@ -3628,6 +3621,13 @@ DTEND:20250102T163500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 99/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T150000Z
+DTEND:20250109T163500Z
+SUMMARY:Pkm2 (w)
+LOCATION:3/ 54
+DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250116T150000Z

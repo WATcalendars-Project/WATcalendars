@@ -312,6 +312,34 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260409T094000Z
+DTEND:20260409T111500Z
+SUMMARY:SBD (L)
+LOCATION:226 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T113000Z
+DTEND:20260409T130500Z
+SUMMARY:SBD (L)
+LOCATION:226 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T140000Z
+DTEND:20260409T153500Z
+SUMMARY:WST (L)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T155000Z
+DTEND:20260409T172500Z
+SUMMARY:WST (L)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260414T060000Z
 DTEND:20260414T073500Z
 SUMMARY:Ps (w)
@@ -338,6 +366,13 @@ DTEND:20260416T092500Z
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T094000Z
+DTEND:20260416T111500Z
+SUMMARY:WST (P)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/4\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T060000Z
@@ -382,6 +417,13 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260423T094000Z
+DTEND:20260423T111500Z
+SUMMARY:WST (P)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/4\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260427T075000Z
 DTEND:20260427T092500Z
 SUMMARY:SBD (w)
@@ -389,11 +431,32 @@ LOCATION:308 S
 DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260428T094000Z
+DTEND:20260428T111500Z
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260430T075000Z
 DTEND:20260430T092500Z
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T094000Z
+DTEND:20260430T111500Z
+SUMMARY:SBD (L)
+LOCATION:226 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T113000Z
+DTEND:20260430T130500Z
+SUMMARY:SBD (L)
+LOCATION:226 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T060000Z
@@ -445,11 +508,39 @@ LOCATION:308 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260511T094000Z
+DTEND:20260511T111500Z
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T094000Z
+DTEND:20260512T111500Z
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260514T075000Z
 DTEND:20260514T092500Z
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T094000Z
+DTEND:20260514T111500Z
+SUMMARY:WST (P)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/4\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T113000Z
+DTEND:20260514T130500Z
+SUMMARY:WST (P)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/4\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T060000Z
@@ -459,11 +550,67 @@ LOCATION:308 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260518T075000Z
+DTEND:20260518T092500Z
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T094000Z
+DTEND:20260519T111500Z
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260521T075000Z
 DTEND:20260521T092500Z
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T094000Z
+DTEND:20260521T111500Z
+SUMMARY:SBD (L)
+LOCATION:226 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T113000Z
+DTEND:20260521T130500Z
+SUMMARY:SBD (L)
+LOCATION:226 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T140000Z
+DTEND:20260521T153500Z
+SUMMARY:WST (L)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T155000Z
+DTEND:20260521T172500Z
+SUMMARY:WST (L)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T075000Z
+DTEND:20260525T092500Z
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T094000Z
+DTEND:20260526T111500Z
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T075000Z
@@ -473,11 +620,109 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260529T060000Z
+DTEND:20260529T073500Z
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T075000Z
+DTEND:20260529T092500Z
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T075000Z
+DTEND:20260601T092500Z
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T094000Z
+DTEND:20260602T111500Z
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T060000Z
+DTEND:20260608T073500Z
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T075000Z
+DTEND:20260608T092500Z
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T094000Z
+DTEND:20260609T111500Z
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260611T075000Z
 DTEND:20260611T092500Z
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T094000Z
+DTEND:20260611T111500Z
+SUMMARY:SBD (L)
+LOCATION:226 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T113000Z
+DTEND:20260611T130500Z
+SUMMARY:SBD (L)
+LOCATION:226 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T140000Z
+DTEND:20260611T153500Z
+SUMMARY:WST (L)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T155000Z
+DTEND:20260611T172500Z
+SUMMARY:WST (L)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T060000Z
+DTEND:20260615T073500Z
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T075000Z
+DTEND:20260615T092500Z
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T094000Z
+DTEND:20260616T111500Z
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T075000Z

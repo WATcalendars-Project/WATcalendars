@@ -816,13 +816,6 @@ LOCATION:aula/135
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 15/17\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260107T104000Z
-DTEND:20260107T121500Z
-SUMMARY:PZiP (ć)
-LOCATION:0.21/16
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Nyszk Łukasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260121T104000Z
 DTEND:20260121T121500Z
 SUMMARY:Mat2 (w)
@@ -905,6 +898,13 @@ DTEND:20260121T140500Z
 SUMMARY:WdI (L)
 LOCATION:0.22/16
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: dr inż. Konarzewski Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T123000Z
+DTEND:20260128T140500Z
+SUMMARY:PZiP (ć)
+LOCATION:0.7/16
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Nyszk Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T140000Z
