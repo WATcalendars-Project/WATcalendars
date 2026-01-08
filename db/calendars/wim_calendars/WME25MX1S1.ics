@@ -669,18 +669,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 32/140
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250113T070000Z
-DTEND:20250113T083500Z
-SUMMARY:Mat2 (ć)
-LOCATION:9/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: dr Pszczoła Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250120T070000Z
 DTEND:20250120T083500Z
 SUMMARY:Mat2 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: dr Pszczoła Krzysztof
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/17\nProwadzący: dr Pszczoła Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T070000Z
@@ -779,6 +772,13 @@ DTEND:20250106T102500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 36/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250113T085000Z
+DTEND:20250113T102500Z
+SUMMARY:Mat2 (ć)
+LOCATION:3/ 54
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/17\nProwadzący: dr Pszczoła Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T085000Z

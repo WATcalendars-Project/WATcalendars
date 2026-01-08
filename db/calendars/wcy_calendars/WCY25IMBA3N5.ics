@@ -448,7 +448,7 @@ BEGIN:VEVENT
 DTSTART:20260110T165000Z
 DTEND:20260110T182500Z
 SUMMARY:SIZB (L)
-LOCATION:237 S
+LOCATION:224 S
 DESCRIPTION:Sztuczna inteligencja w zastosowaniach bezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
@@ -464,20 +464,6 @@ DTEND:20260111T102500Z
 SUMMARY:CP (ć)
 LOCATION:237 S
 DESCRIPTION:Cyberprzestępczość\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: Agnieszka Gryszczyńska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260111T104000Z
-DTEND:20260111T121500Z
-SUMMARY:SIZB (L)
-LOCATION:239 S
-DESCRIPTION:Sztuczna inteligencja w zastosowaniach bezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260111T123000Z
-DTEND:20260111T140500Z
-SUMMARY:SIZB (L)
-LOCATION:239 S
-DESCRIPTION:Sztuczna inteligencja w zastosowaniach bezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T150000Z
@@ -506,6 +492,20 @@ DTEND:20260117T102500Z
 SUMMARY:Dme (Inne)
 LOCATION:237 S
 DESCRIPTION:Decyzje menedżerskie\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T104000Z
+DTEND:20260117T121500Z
+SUMMARY:SIZB (L)
+LOCATION:239 S
+DESCRIPTION:Sztuczna inteligencja w zastosowaniach bezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3\nProwadzący: dr inż. Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T123000Z
+DTEND:20260117T140500Z
+SUMMARY:SIZB (L)
+LOCATION:239 S
+DESCRIPTION:Sztuczna inteligencja w zastosowaniach bezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T070000Z

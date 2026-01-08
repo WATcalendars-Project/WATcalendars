@@ -658,7 +658,7 @@ BEGIN:VEVENT
 DTSTART:20260107T150000Z
 DTEND:20260107T163500Z
 SUMMARY:Wp. (ć)
-LOCATION:
+LOCATION:0.22/16
 DESCRIPTION:Wiedza o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr Gocalski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
@@ -728,7 +728,7 @@ BEGIN:VEVENT
 DTSTART:20260107T165000Z
 DTEND:20260107T182500Z
 SUMMARY:Wp. (ć)
-LOCATION:
+LOCATION:0.22/16
 DESCRIPTION:Wiedza o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr Gocalski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
@@ -954,13 +954,6 @@ DTEND:20260122T140500Z
 SUMMARY:Pmb (w)
 LOCATION:51/62
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: Prof. dr hab. Cieślarczyk Marian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260129T123000Z
-DTEND:20260129T140500Z
-SUMMARY:Ap (ć)
-LOCATION:0.19/135
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T140000Z
@@ -1338,7 +1331,7 @@ DTSTART:20261114T104000Z
 DTEND:20261114T121500Z
 SUMMARY:Ap (ć)
 LOCATION:1/22
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr Moch Natalia
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T104000Z
@@ -1352,7 +1345,7 @@ DTSTART:20261205T104000Z
 DTEND:20261205T121500Z
 SUMMARY:Ap (ć)
 LOCATION:0.22/16
-DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr Moch Natalia
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T104000Z
@@ -1367,6 +1360,13 @@ DTEND:20260116T121500Z
 SUMMARY:PPb (w)
 LOCATION:aula/135
 DESCRIPTION:Prawne podstawy bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T104000Z
+DTEND:20260123T121500Z
+SUMMARY:Ap (ć)
+LOCATION:226 S
+DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261003T113000Z

@@ -1285,13 +1285,6 @@ LOCATION:1.16/16
 DESCRIPTION:Logistyka zrównoważona\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr n. społ. inż. Krupnik Dorota
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260108T123000Z
-DTEND:20260108T140500Z
-SUMMARY:NSM (S)
-LOCATION:2.21/135
-DESCRIPTION:Nowoczesne systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr inż. Głodowska Katarzyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261023T140000Z
 DTEND:20261023T153500Z
 SUMMARY:IBwL (w)
@@ -1320,13 +1313,6 @@ LOCATION:0.7/16
 DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260108T150000Z
-DTEND:20260108T163500Z
-SUMMARY:NSM (S)
-LOCATION:2.21/135
-DESCRIPTION:Nowoczesne systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Głodowska Katarzyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261204T165000Z
 DTEND:20261204T182500Z
 SUMMARY:ZMSE (L)
@@ -1353,5 +1339,19 @@ DTEND:20260109T140500Z
 SUMMARY:Zp* (ć)
 LOCATION:1.16/16
 DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T150000Z
+DTEND:20260117T163500Z
+SUMMARY:NSM (S)
+LOCATION:1.16/16
+DESCRIPTION:Nowoczesne systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr inż. Głodowska Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T165000Z
+DTEND:20260117T182500Z
+SUMMARY:NSM (S)
+LOCATION:1.16/16
+DESCRIPTION:Nowoczesne systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Głodowska Katarzyna
 END:VEVENT
 END:VCALENDAR

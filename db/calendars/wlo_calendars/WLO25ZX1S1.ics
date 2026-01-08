@@ -102,6 +102,13 @@ LOCATION:4.17b/135
 DESCRIPTION:Prawo\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Śledzik Waldemar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260202T123000Z
+DTEND:20260202T140500Z
+SUMMARY:Mi (E)
+LOCATION:3.16/135
+DESCRIPTION:Mikroekonomia\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Antczak Joanna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261117T150000Z
 DTEND:20261117T163500Z
 SUMMARY:Mi (ć)
@@ -417,6 +424,13 @@ LOCATION:0.6/16
 DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 5/30\nProwadzący: dr (prof. WAT) Gonciarski Wiesław; dr Matysiak Łukasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260217T150000Z
+DTEND:20260217T163500Z
+SUMMARY:Mi (Ep)
+LOCATION:3.16/135
+DESCRIPTION:Mikroekonomia\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Antczak Joanna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261014T155000Z
 DTEND:20261014T172500Z
 SUMMARY:Mat 
@@ -590,6 +604,13 @@ DTEND:20260121T083500Z
 SUMMARY:Pmr (ć)
 LOCATION:0.22/16
 DESCRIPTION:Podstawy marketingu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr Pawlak Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T070000Z
+DTEND:20260211T083500Z
+SUMMARY:Pmr (E)
+LOCATION:3.16/135
+DESCRIPTION:Podstawy marketingu\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Pawlak Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T075000Z
@@ -1019,6 +1040,20 @@ LOCATION:51/62
 DESCRIPTION:Mat\nRodzaj zajęć: -\nNumer zajęć: 26/30\nProwadzący: mgr inż. Kowalski Arkadiusz; dr Matysiak Łukasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260205T085000Z
+DTEND:20260205T102500Z
+SUMMARY:Pz (E)
+LOCATION:3.16/135
+DESCRIPTION:Podstawy zarządzania\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T085000Z
+DTEND:20260219T102500Z
+SUMMARY:Pz (Ep)
+LOCATION:3.16/135
+DESCRIPTION:Podstawy zarządzania\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261002T094000Z
 DTEND:20261002T111500Z
 SUMMARY:Ing (In.Roku Akad.)
@@ -1269,6 +1304,13 @@ DTEND:20260130T102500Z
 SUMMARY:Pi (L)
 LOCATION:233 S
 DESCRIPTION:Podstawy informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T085000Z
+DTEND:20260220T102500Z
+SUMMARY:Pmr (E)
+LOCATION:1.10/16; 1.9/16
+DESCRIPTION:Podstawy marketingu\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Pawlak Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261024T094000Z

@@ -6,9 +6,9 @@ X-WR-CALNAME:K-8103098
 BEGIN:VEVENT
 DTSTART:20260119T070000Z
 DTEND:20260119T083500Z
-SUMMARY:Estel 
+SUMMARY:Wdeut 
 LOCATION:
-DESCRIPTION:Elementy sieci teleinformatycznych\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Dyjak Jakub
+DESCRIPTION:Wprowadzenie do eksploatacji urządzeń technicznych\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Karpiński Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T070000Z
@@ -18,11 +18,18 @@ LOCATION:10463A
 DESCRIPTION:Podstawy pomiarów wielkości elektrycznych i mechanicznych\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Dyjak Jakub
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260202T070000Z
+DTEND:20260202T083500Z
+SUMMARY:Wzee 
+LOCATION:1563
+DESCRIPTION:Wybrane zagadnienia  elektroniki i elektrotechniki\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Dyjak Jakub
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260112T085000Z
 DTEND:20260112T102500Z
-SUMMARY:Wdeut 
+SUMMARY:Estel 
 LOCATION:
-DESCRIPTION:Wprowadzenie do eksploatacji urządzeń technicznych\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Karpiński Michał
+DESCRIPTION:Elementy sieci teleinformatycznych\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T085000Z
@@ -83,9 +90,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T123000Z
 DTEND:20260119T140500Z
-SUMMARY:Estel 
+SUMMARY:Wdeut 
 LOCATION:
-DESCRIPTION:Elementy sieci teleinformatycznych\nRodzaj zajęć: -
+DESCRIPTION:Wprowadzenie do eksploatacji urządzeń technicznych\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Karpiński Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T123000Z
@@ -186,13 +193,6 @@ LOCATION:
 DESCRIPTION:Wybrane zagadnienia  elektroniki i elektrotechniki\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Dyjak Jakub
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260113T123000Z
-DTEND:20260113T140500Z
-SUMMARY:Wzee 
-LOCATION:
-DESCRIPTION:Wybrane zagadnienia  elektroniki i elektrotechniki\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Dyjak Jakub
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260127T123000Z
 DTEND:20260127T140500Z
 SUMMARY:Wzee 
@@ -209,9 +209,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T070000Z
 DTEND:20260114T083500Z
-SUMMARY:Wdeut 
+SUMMARY:Estel 
 LOCATION:
-DESCRIPTION:Wprowadzenie do eksploatacji urządzeń technicznych\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Karpiński Michał
+DESCRIPTION:Elementy sieci teleinformatycznych\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Dyjak Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T070000Z
@@ -237,9 +237,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T085000Z
 DTEND:20260114T102500Z
-SUMMARY:Wdeut 
+SUMMARY:Wzee 
 LOCATION:
-DESCRIPTION:Wprowadzenie do eksploatacji urządzeń technicznych\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Karpiński Michał
+DESCRIPTION:Wybrane zagadnienia  elektroniki i elektrotechniki\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Dyjak Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T085000Z
@@ -291,13 +291,6 @@ LOCATION:
 DESCRIPTION:Pomiary elektryczne i elektroniczne\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260114T123000Z
-DTEND:20260114T140500Z
-SUMMARY:Estel 
-LOCATION:
-DESCRIPTION:Elementy sieci teleinformatycznych\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Dyjak Jakub
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260121T123000Z
 DTEND:20260121T140500Z
 SUMMARY:Estel 
@@ -317,13 +310,6 @@ DTEND:20260204T140500Z
 SUMMARY:Wzee 
 LOCATION:
 DESCRIPTION:Wybrane zagadnienia  elektroniki i elektrotechniki\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Dyjak Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260115T070000Z
-DTEND:20260115T083500Z
-SUMMARY:Poee 
-LOCATION:
-DESCRIPTION:Pomiary elektryczne i elektroniczne\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Dyjak Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T070000Z
@@ -431,6 +417,13 @@ LOCATION:
 DESCRIPTION:Wybrane zagadnienia  elektroniki i elektrotechniki\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260122T150000Z
+DTEND:20260122T163500Z
+SUMMARY:Poee 
+LOCATION:
+DESCRIPTION:Pomiary elektryczne i elektroniczne\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Dyjak Jakub
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260116T070000Z
 DTEND:20260116T083500Z
 SUMMARY:Poee 
@@ -475,8 +468,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T085000Z
 DTEND:20260130T102500Z
-SUMMARY:Wzee 
+SUMMARY:Wdeut 
 LOCATION:
-DESCRIPTION:Wybrane zagadnienia  elektroniki i elektrotechniki\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Dyjak Jakub
+DESCRIPTION:Wprowadzenie do eksploatacji urządzeń technicznych\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Karpiński Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T085000Z
+DTEND:20260206T102500Z
+SUMMARY:Estel 
+LOCATION:10363A
+DESCRIPTION:Elementy sieci teleinformatycznych\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Dyjak Jakub
 END:VEVENT
 END:VCALENDAR

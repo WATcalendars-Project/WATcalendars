@@ -22,7 +22,7 @@ DTSTART:20261206T070000Z
 DTEND:20261206T083500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Szy
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 1/28
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 1/32
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261213T070000Z
@@ -41,9 +41,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T070000Z
 DTEND:20260117T083500Z
+SUMMARY:OCHRONA 
+LOCATION:23AB; 1N; 1 Szy
+DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 4/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260207T070000Z
+DTEND:20260207T083500Z
+SUMMARY:BEZP. 
+LOCATION:4.23/135
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 2/32\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260214T070000Z
+DTEND:20260214T083500Z
 SUMMARY:ORGANY 
-LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 1/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
+LOCATION:1.17/16
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 1/16\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Moszczyński Maciej; dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260221T070000Z
+DTEND:20260221T083500Z
+SUMMARY:BEZP. 
+LOCATION:4.23/135
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 3/32\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261004T075000Z
@@ -64,7 +85,7 @@ DTSTART:20261025T085000Z
 DTEND:20261025T102500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Szy
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 2/28
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 4/32
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261108T085000Z
@@ -78,14 +99,14 @@ DTSTART:20261115T085000Z
 DTEND:20261115T102500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Szy
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 3/28
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 5/32
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261206T085000Z
 DTEND:20261206T102500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Szy
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 4/28
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 6/32
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261213T085000Z
@@ -106,28 +127,35 @@ DTSTART:20260110T085000Z
 DTEND:20260110T102500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Szy
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 5/28
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 7/32
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T085000Z
 DTEND:20260117T102500Z
-SUMMARY:OCHRONA 
+SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Szy
-DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 4/10
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 8/32
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T085000Z
 DTEND:20260124T102500Z
 SUMMARY:ORGANY 
 LOCATION:4.17b/135
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 2/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 2/16\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T085000Z
 DTEND:20260131T102500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Trz
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 6/28
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 9/32
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260221T085000Z
+DTEND:20260221T102500Z
+SUMMARY:ORGANY 
+LOCATION:4.17b/135
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 3/16\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261004T094000Z
@@ -141,7 +169,7 @@ DTSTART:20261011T094000Z
 DTEND:20261011T111500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 7/28\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 10/32\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T104000Z
@@ -155,7 +183,7 @@ DTSTART:20261108T104000Z
 DTEND:20261108T121500Z
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 3/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 4/16\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T104000Z
@@ -183,28 +211,28 @@ DTSTART:20261213T104000Z
 DTEND:20261213T121500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Trz
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 8/28
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 11/32
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261220T104000Z
 DTEND:20261220T121500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Trz
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 9/28
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 12/32
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260110T104000Z
 DTEND:20260110T121500Z
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 4/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 5/16\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T104000Z
 DTEND:20260117T121500Z
-SUMMARY:BEZP. 
-LOCATION:23AB; 1N; 1 Szy
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 10/28
+SUMMARY:ORGANY 
+LOCATION:23AB; 1N
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 6/16\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T104000Z
@@ -218,7 +246,7 @@ DTSTART:20260131T104000Z
 DTEND:20260131T121500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Trz
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 11/28
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 13/32
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261004T113000Z
@@ -232,7 +260,7 @@ DTSTART:20261011T113000Z
 DTEND:20261011T130500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 12/28\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 14/32\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T123000Z
@@ -246,14 +274,14 @@ DTSTART:20261108T123000Z
 DTEND:20261108T140500Z
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 5/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 7/16\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T123000Z
 DTEND:20261115T140500Z
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 6/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 8/16\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T123000Z
@@ -274,21 +302,21 @@ DTSTART:20261213T123000Z
 DTEND:20261213T140500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Trz
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 13/28
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 15/32
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261220T123000Z
 DTEND:20261220T140500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Trz
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 14/28
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 16/32
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260110T123000Z
 DTEND:20260110T140500Z
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 7/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 9/16\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T123000Z
@@ -309,7 +337,7 @@ DTSTART:20260131T123000Z
 DTEND:20260131T140500Z
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 8/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 10/16\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T150000Z
@@ -330,7 +358,7 @@ DTSTART:20261115T150000Z
 DTEND:20261115T163500Z
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 9/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 11/16\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T150000Z
@@ -365,14 +393,14 @@ DTSTART:20260110T150000Z
 DTEND:20260110T163500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Trz
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 15/28
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 17/32
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T150000Z
 DTEND:20260117T163500Z
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 10/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 12/16\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T150000Z
@@ -386,7 +414,7 @@ DTSTART:20260131T150000Z
 DTEND:20260131T163500Z
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 11/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 13/16\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T165000Z
@@ -428,14 +456,14 @@ DTSTART:20260110T165000Z
 DTEND:20260110T182500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N; 1 Trz
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 16/28
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 18/32
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T165000Z
 DTEND:20260117T182500Z
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 12/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 14/16\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T165000Z
@@ -456,7 +484,7 @@ DTSTART:20261005T060000Z
 DTEND:20261005T073500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 17/28\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 19/32\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T060000Z
@@ -484,7 +512,7 @@ DTSTART:20261123T070000Z
 DTEND:20261123T083500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 18/28\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 20/32\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T070000Z
@@ -508,11 +536,18 @@ LOCATION:1/22
 DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 9/10\nProwadzący: mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260215T070000Z
+DTEND:20260215T083500Z
+SUMMARY:BEZP. 
+LOCATION:4.17b/135
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 21/32\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261005T075000Z
 DTEND:20261005T092500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 19/28\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 22/32\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T075000Z
@@ -540,7 +575,7 @@ DTSTART:20261123T085000Z
 DTEND:20261123T102500Z
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 13/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 15/16\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T085000Z
@@ -603,14 +638,14 @@ DTSTART:20261116T104000Z
 DTEND:20261116T121500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 20/28\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 23/32\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T104000Z
 DTEND:20261123T121500Z
 SUMMARY:ORGANY 
 LOCATION:23AB; 1N
-DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 14/14\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
+DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 16/16\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; dr Szwarc Krzysztof; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T104000Z
@@ -624,7 +659,7 @@ DTSTART:20261214T104000Z
 DTEND:20261214T121500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 21/28\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 24/32\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T104000Z
@@ -638,7 +673,7 @@ DTSTART:20260111T104000Z
 DTEND:20260111T121500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 22/28\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 25/32\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T104000Z
@@ -652,14 +687,21 @@ DTSTART:20260125T104000Z
 DTEND:20260125T121500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 23/28\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 26/32\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260201T104000Z
 DTEND:20260201T121500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 24/28\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 27/32\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260222T104000Z
+DTEND:20260222T121500Z
+SUMMARY:BEZP. 
+LOCATION:31/158
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 28/32\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T113000Z
@@ -694,27 +736,27 @@ DTSTART:20261214T123000Z
 DTEND:20261214T140500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 25/28\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 29/32\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T123000Z
 DTEND:20260111T140500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 26/28\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 30/32\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260125T123000Z
 DTEND:20260125T140500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 27/28\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 31/32\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260201T123000Z
 DTEND:20260201T140500Z
 SUMMARY:BEZP. 
 LOCATION:23AB; 1N
-DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 28/28\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
+DESCRIPTION:BEZP.\nRodzaj zajęć: -\nNumer zajęć: 32/32\nProwadzący: dr hab. (prof. WAT) Szyłkowska Monika; mgr Trzcińska Luiza
 END:VEVENT
 END:VCALENDAR

@@ -2727,13 +2727,6 @@ LOCATION:AW 1
 DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260109T123000Z
-DTEND:20260109T140500Z
-SUMMARY:SO (w)
-LOCATION:101 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 10/14\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260112T070000Z
 DTEND:20260112T083500Z
 SUMMARY:WIT (w)
@@ -3095,7 +3088,7 @@ DTSTART:20260127T085000Z
 DTEND:20260127T102500Z
 SUMMARY:SO (w)
 LOCATION:205 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 11/14\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 10/14\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T104000Z
@@ -3158,7 +3151,7 @@ DTSTART:20260129T085000Z
 DTEND:20260129T102500Z
 SUMMARY:SO (w)
 LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 12/14\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 11/14\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T104000Z
@@ -3494,7 +3487,7 @@ DTSTART:20260213T104000Z
 DTEND:20260213T121500Z
 SUMMARY:SO (w)
 LOCATION:101 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 13/14\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 12/14\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T070000Z
@@ -3691,6 +3684,13 @@ DTEND:20260223T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24/17\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260224T070000Z
+DTEND:20260224T083500Z
+SUMMARY:SO (w)
+LOCATION:101 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 13/14\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260224T085000Z
