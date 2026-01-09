@@ -557,6 +557,13 @@ LOCATION:PTW/28 HANGAR
 DESCRIPTION:Military vehicles\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Papliński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260203T150000Z
+DTEND:20260203T163500Z
+SUMMARY:NSM (S)
+LOCATION:1.16/16
+DESCRIPTION:Nowoczesne systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr inż. Głodowska Katarzyna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261118T165000Z
 DTEND:20261118T182500Z
 SUMMARY:PADL (L)
@@ -569,6 +576,13 @@ DTEND:20261216T182500Z
 SUMMARY:Osl (S)
 LOCATION:1.27/135
 DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: płk dr inż. Zelkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T165000Z
+DTEND:20260203T182500Z
+SUMMARY:NSM (S)
+LOCATION:1.16/16
+DESCRIPTION:Nowoczesne systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Głodowska Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T060000Z
@@ -1339,19 +1353,5 @@ DTEND:20260109T140500Z
 SUMMARY:Zp* (ć)
 LOCATION:1.16/16
 DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr inż. Kalwasiński Marek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260117T150000Z
-DTEND:20260117T163500Z
-SUMMARY:NSM (S)
-LOCATION:1.16/16
-DESCRIPTION:Nowoczesne systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr inż. Głodowska Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260117T165000Z
-DTEND:20260117T182500Z
-SUMMARY:NSM (S)
-LOCATION:1.16/16
-DESCRIPTION:Nowoczesne systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Głodowska Katarzyna
 END:VEVENT
 END:VCALENDAR

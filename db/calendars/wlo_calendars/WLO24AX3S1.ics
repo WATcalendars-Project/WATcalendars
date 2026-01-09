@@ -417,13 +417,6 @@ LOCATION:238 K; 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260203T123000Z
-DTEND:20260203T140500Z
-SUMMARY:P.Międzyn. (E)
-LOCATION:aula/135
-DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Kowalski Wawrzyniec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261007T140000Z
 DTEND:20261007T153500Z
 SUMMARY:Nad. 
@@ -471,6 +464,13 @@ DTEND:20260127T163500Z
 SUMMARY:Leg. 
 LOCATION:0.21/16
 DESCRIPTION:Leg.\nRodzaj zajęć: -\nNumer zajęć: 5/19\nProwadzący: dr inż. Magierski Mieczysław; dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T150000Z
+DTEND:20260203T163500Z
+SUMMARY:P.Międzyn. (E)
+LOCATION:aula/135
+DESCRIPTION:Prawo międzynarodowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T165000Z

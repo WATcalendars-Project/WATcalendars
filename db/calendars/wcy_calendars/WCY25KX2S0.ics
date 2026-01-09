@@ -1978,13 +1978,6 @@ LOCATION:223 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260112T070000Z
-DTEND:20260112T083500Z
-SUMMARY:Mat I (ć)
-LOCATION:205 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/19\nProwadzący: mgr inż. Stanisław Zoń
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260112T085000Z
 DTEND:20260112T102500Z
 SUMMARY:Mat I (w)
@@ -2006,6 +1999,13 @@ LOCATION:204 65
 DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260112T150000Z
+DTEND:20260112T163500Z
+SUMMARY:Mat I (ć)
+LOCATION:205 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/19\nProwadzący: mgr inż. Stanisław Zoń
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260113T070000Z
 DTEND:20260113T083500Z
 SUMMARY:WF (ć)
@@ -2018,13 +2018,6 @@ DTEND:20260113T102500Z
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/58\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260113T104000Z
-DTEND:20260113T121500Z
-SUMMARY:M II (ć)
-LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T123000Z
@@ -2046,6 +2039,13 @@ DTEND:20260114T102500Z
 SUMMARY:M II (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNumer zajęć: 15/11\nProwadzący: dr inż. Jarosław Łazuka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260114T150000Z
+DTEND:20260114T163500Z
+SUMMARY:M II (ć)
+LOCATION:219 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T070000Z
@@ -2160,13 +2160,6 @@ LOCATION:116/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260121T070000Z
-DTEND:20260121T083500Z
-SUMMARY:M II (ć)
-LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/17\nProwadzący: mgr inż. Stanisław Zoń
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260121T085000Z
 DTEND:20260121T102500Z
 SUMMARY:M II (w)
@@ -2179,6 +2172,13 @@ DTEND:20260121T121500Z
 SUMMARY:PGI (ć)
 LOCATION:29/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T123000Z
+DTEND:20260121T140500Z
+SUMMARY:M II (ć)
+LOCATION:203 65
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/17\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T070000Z

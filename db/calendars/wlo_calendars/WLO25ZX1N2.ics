@@ -805,8 +805,8 @@ BEGIN:VEVENT
 DTSTART:20260208T085000Z
 DTEND:20260208T102500Z
 SUMMARY:ZL (E)
-LOCATION:1.16/16
-DESCRIPTION:Zarządzanie logistyką\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Miszalski Włodzimierz
+LOCATION:1.16/16 egz
+DESCRIPTION:Zarządzanie logistyką\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/3\nProwadzący: dr hab. inż. Miszalski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260222T085000Z
@@ -907,6 +907,13 @@ LOCATION:A.1.3/135
 DESCRIPTION:Zarządzanie logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. Miszalski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260208T104000Z
+DTEND:20260208T121500Z
+SUMMARY:ZL (E)
+LOCATION:1.16/16 egz
+DESCRIPTION:Zarządzanie logistyką\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/3\nProwadzący: dr hab. inż. Miszalski Włodzimierz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261005T113000Z
 DTEND:20261005T130500Z
 SUMMARY:Pc (w)
@@ -975,5 +982,12 @@ DTEND:20260125T140500Z
 SUMMARY:ZL (ć)
 LOCATION:1.15/16
 DESCRIPTION:Zarządzanie logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Miszalski Włodzimierz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260208T123000Z
+DTEND:20260208T140500Z
+SUMMARY:ZL (E)
+LOCATION:1.16/16 egz
+DESCRIPTION:Zarządzanie logistyką\nRodzaj zajęć: Egzamin\nNumer zajęć: 3/3\nProwadzący: dr hab. inż. Miszalski Włodzimierz
 END:VEVENT
 END:VCALENDAR

@@ -277,6 +277,13 @@ LOCATION:317 S
 DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260122T104000Z
+DTEND:20260122T121500Z
+SUMMARY:DWiPD (ć)
+LOCATION:BIBL /22
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260122T123000Z
 DTEND:20260122T140500Z
 SUMMARY:WF (ć)
@@ -296,13 +303,6 @@ DTEND:20260123T102500Z
 SUMMARY:PESW (w)
 LOCATION:46 63
 DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260123T104000Z
-DTEND:20260123T121500Z
-SUMMARY:DWiPD (ć)
-LOCATION:1.9/ 16
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T123000Z
@@ -347,6 +347,13 @@ LOCATION:307 S
 DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260127T104000Z
+DTEND:20260127T121500Z
+SUMMARY:PD (w)
+LOCATION:AW 7
+DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260127T123000Z
 DTEND:20260127T140500Z
 SUMMARY:WF (ć)
@@ -358,7 +365,7 @@ DTSTART:20260128T070000Z
 DTEND:20260128T083500Z
 SUMMARY:PD (w)
 LOCATION:AW 1
-DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
+DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T085000Z
@@ -462,7 +469,7 @@ BEGIN:VEVENT
 DTSTART:20260202T085000Z
 DTEND:20260202T102500Z
 SUMMARY:DSiSM (ć)
-LOCATION:PĆT2
+LOCATION:AW 1
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -739,13 +746,6 @@ LOCATION:114 57
 DESCRIPTION:Topografia wojskowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260212T070000Z
-DTEND:20260212T083500Z
-SUMMARY:PD (w)
-LOCATION:AW 1
-DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260212T085000Z
 DTEND:20260212T102500Z
 SUMMARY:PKSt (ć)
@@ -800,6 +800,20 @@ DTEND:20260213T140500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 14/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260213T150000Z
+DTEND:20260213T163500Z
+SUMMARY:TW (ć)
+LOCATION:114 57
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260213T165000Z
+DTEND:20260213T182500Z
+SUMMARY:TW (ć)
+LOCATION:114 57
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T070000Z
@@ -891,20 +905,6 @@ DTEND:20260218T121500Z
 SUMMARY:RiAIP (w)
 LOCATION:AW 3/038
 DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260218T123000Z
-DTEND:20260218T140500Z
-SUMMARY:TW (ć)
-LOCATION:114 57
-DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260218T150000Z
-DTEND:20260218T163500Z
-SUMMARY:TW (ć)
-LOCATION:114 57
-DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T070000Z
@@ -1505,7 +1505,7 @@ BEGIN:VEVENT
 DTSTART:20260313T104000Z
 DTEND:20260313T121500Z
 SUMMARY:.BHP. (w)
-LOCATION:0.19/ 135
+LOCATION:3.16/ 135
 DESCRIPTION:.Bezpieczeństwo i higiena pracy. - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
