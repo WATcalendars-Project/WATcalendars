@@ -2258,6 +2258,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 78/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250122T123000Z
+DTEND:20250122T140500Z
+SUMMARY:DS (w)
+LOCATION:5/ 20
+DESCRIPTION:Diagnostyka środków transportu\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: dr inż. Trawiński Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250205T123000Z
 DTEND:20250205T140500Z
 SUMMARY:Zśie (Zp. Ćw)
@@ -2801,7 +2808,7 @@ DTSTART:20251107T104000Z
 DTEND:20251107T121500Z
 SUMMARY:DS (w)
 LOCATION:5/ 20
-DESCRIPTION:Diagnostyka środków transportu\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: dr inż. Trawiński Grzegorz
+DESCRIPTION:Diagnostyka środków transportu\nRodzaj zajęć: Wykład\nNumer zajęć: 13/13\nProwadzący: dr inż. Trawiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T104000Z
@@ -2853,17 +2860,10 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 93/140
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250109T104000Z
-DTEND:20250109T121500Z
-SUMMARY:DS (w)
-LOCATION:5/ 20
-DESCRIPTION:Diagnostyka środków transportu\nRodzaj zajęć: Wykład\nNumer zajęć: 13/13\nProwadzący: dr inż. Trawiński Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250116T104000Z
 DTEND:20250116T121500Z
 SUMMARY:Pdm (w)
-LOCATION:6/ 23a
+LOCATION:15/ 23a
 DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: ppłk dr inż. Hryciów Zdzisław
 END:VEVENT
 BEGIN:VEVENT

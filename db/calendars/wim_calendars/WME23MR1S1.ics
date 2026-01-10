@@ -676,13 +676,6 @@ LOCATION:5/ 23a
 DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250203T070000Z
-DTEND:20250203T083500Z
-SUMMARY:Par (Zp. Ćw)
-LOCATION:5/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251014T075000Z
 DTEND:20251014T092500Z
 SUMMARY:Płe (w)
@@ -1591,6 +1584,13 @@ DTEND:20250204T140500Z
 SUMMARY:Par (z. popr. lab.)
 LOCATION:4/ 23a; 14/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: (z. popr. lab.)\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250211T123000Z
+DTEND:20250211T140500Z
+SUMMARY:Par (Zp. Ćw)
+LOCATION:15/ 23a
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T140000Z

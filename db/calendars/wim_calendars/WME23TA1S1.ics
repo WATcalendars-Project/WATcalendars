@@ -987,7 +987,7 @@ BEGIN:VEVENT
 DTSTART:20250113T104000Z
 DTEND:20250113T121500Z
 SUMMARY:PoL (w)
-LOCATION:109/ 54
+LOCATION:01/ 54A
 DESCRIPTION:Problemy odpadów w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11
 END:VEVENT
 BEGIN:VEVENT
@@ -1117,8 +1117,8 @@ LOCATION:15/ 23a
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250217T123000Z
-DTEND:20250217T140500Z
+DTSTART:20250203T123000Z
+DTEND:20250203T140500Z
 SUMMARY:Par (Zp.)
 LOCATION:15/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
@@ -1355,13 +1355,6 @@ LOCATION:1/ 19
 DESCRIPTION:Gospodarka magazynowa płynami eksploatacyjnymi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250211T070000Z
-DTEND:20250211T083500Z
-SUMMARY:Par (Zp. Ćw)
-LOCATION:2/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250218T070000Z
 DTEND:20250218T083500Z
 SUMMARY:Bisp (Zp.)
@@ -1584,6 +1577,13 @@ DTEND:20251231T140500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 71/147
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250211T123000Z
+DTEND:20250211T140500Z
+SUMMARY:Par (Zp. Ćw)
+LOCATION:15/ 23a
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250218T123000Z

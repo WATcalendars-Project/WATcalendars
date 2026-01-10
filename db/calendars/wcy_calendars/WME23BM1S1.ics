@@ -6500,13 +6500,6 @@ LOCATION:19 36
 DESCRIPTION:XFizyka 2 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260119T070000Z
-DTEND:20260119T083500Z
-SUMMARY:TMiM (ć)
-LOCATION:2.10/ 54A
-DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260119T085000Z
 DTEND:20260119T102500Z
 SUMMARY:Tmf (w)
@@ -6540,20 +6533,6 @@ DTEND:20260120T102500Z
 SUMMARY:ArCz (L)
 LOCATION:5/ 34a
 DESCRIPTION:Analiza ruchu człowieka - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260120T123000Z
-DTEND:20260120T140500Z
-SUMMARY:TMiM (ć)
-LOCATION:2.10/ 54A
-DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260120T150000Z
-DTEND:20260120T163500Z
-SUMMARY:TMiM (ć)
-LOCATION:2.10/ 54A
-DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T070000Z
@@ -6686,7 +6665,7 @@ DTSTART:20260127T070000Z
 DTEND:20260127T083500Z
 SUMMARY:TMiM (ć)
 LOCATION:2.10/ 54A
-DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: -
+DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T085000Z
@@ -6708,6 +6687,27 @@ DTEND:20260127T140500Z
 SUMMARY:App (Inne)
 LOCATION:6/ 23a
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T070000Z
+DTEND:20260128T083500Z
+SUMMARY:TMiM (ć)
+LOCATION:2.14/ 54A
+DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T085000Z
+DTEND:20260128T102500Z
+SUMMARY:TMiM (ć)
+LOCATION:2.14/ 54A
+DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T104000Z
+DTEND:20260128T121500Z
+SUMMARY:TMiM (ć)
+LOCATION:2.14/ 54A
+DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T070000Z
@@ -6780,13 +6780,6 @@ LOCATION:9/ 62
 DESCRIPTION:Biomateriały konstrukcyjne i funkcjonalne  - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260202T104000Z
-DTEND:20260202T121500Z
-SUMMARY:Par (Inne)
-LOCATION:2/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki - (Zp. Ćw) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260203T070000Z
 DTEND:20260203T083500Z
 SUMMARY:GwIB (Inne)
@@ -6812,7 +6805,7 @@ DTSTART:20260203T123000Z
 DTEND:20260203T140500Z
 SUMMARY:Par (Inne)
 LOCATION:4/ 23a 14/ 23
-DESCRIPTION:Podstawy automatyki i robotyki - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: -
+DESCRIPTION:Podstawy automatyki i robotyki - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T150000Z
@@ -6897,6 +6890,13 @@ DTEND:20260210T140500Z
 SUMMARY:Mt 2 (Inne)
 LOCATION:55/ 62
 DESCRIPTION:Mechanika techniczna 2 - (Zaliczenie poprawkowe.) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T123000Z
+DTEND:20260211T140500Z
+SUMMARY:Par (Inne)
+LOCATION:15/ 23a
+DESCRIPTION:Podstawy automatyki i robotyki - (Zp. Ćw) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213T150000Z

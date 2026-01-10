@@ -88,6 +88,13 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260112T085000Z
+DTEND:20260112T102500Z
+SUMMARY:SZK (ć)
+LOCATION:0.21/16
+DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260126T085000Z
 DTEND:20260126T102500Z
 SUMMARY:Bin (ć)
@@ -106,7 +113,7 @@ DTSTART:20261117T104000Z
 DTEND:20261117T121500Z
 SUMMARY:SZK (ć)
 LOCATION:
-DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10
+DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261124T104000Z
@@ -134,7 +141,7 @@ DTSTART:20260112T104000Z
 DTEND:20260112T121500Z
 SUMMARY:SZK (ć)
 LOCATION:
-DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10
+DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T113000Z
@@ -182,8 +189,8 @@ BEGIN:VEVENT
 DTSTART:20260112T123000Z
 DTEND:20260112T140500Z
 SUMMARY:SZK (ć)
-LOCATION:
-DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10
+LOCATION:0.8/16
+DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T123000Z
@@ -224,8 +231,8 @@ BEGIN:VEVENT
 DTSTART:20260112T150000Z
 DTEND:20260112T163500Z
 SUMMARY:SZK (ć)
-LOCATION:
-DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10
+LOCATION:0.22/16
+DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T150000Z
@@ -352,13 +359,6 @@ DTEND:20261118T083500Z
 SUMMARY:Pmb (ć)
 LOCATION:5.21/135
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260113T070000Z
-DTEND:20260113T083500Z
-SUMMARY:SZK (ć)
-LOCATION:5.21/135
-DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T070000Z

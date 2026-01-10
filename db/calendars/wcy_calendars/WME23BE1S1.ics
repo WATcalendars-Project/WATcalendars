@@ -6507,13 +6507,6 @@ LOCATION:315b S
 DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260202T104000Z
-DTEND:20260202T121500Z
-SUMMARY:Par (Inne)
-LOCATION:2/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki - (Zp. Ćw) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260203T070000Z
 DTEND:20260203T083500Z
 SUMMARY:GwIB (Inne)
@@ -6532,7 +6525,7 @@ DTSTART:20260203T123000Z
 DTEND:20260203T140500Z
 SUMMARY:Par (Inne)
 LOCATION:4/ 23a 14/ 23
-DESCRIPTION:Podstawy automatyki i robotyki - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: -
+DESCRIPTION:Podstawy automatyki i robotyki - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T150000Z
@@ -6617,6 +6610,13 @@ DTEND:20260206T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 420/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T123000Z
+DTEND:20260211T140500Z
+SUMMARY:Par (Inne)
+LOCATION:15/ 23a
+DESCRIPTION:Podstawy automatyki i robotyki - (Zp. Ćw) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213T070000Z
@@ -6836,6 +6836,83 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 441/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260302T070000Z
+DTEND:20260302T083500Z
+SUMMARY:TeMi (w)
+LOCATION:27 61
+DESCRIPTION:Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T085000Z
+DTEND:20260302T102500Z
+SUMMARY:ToiS (w)
+LOCATION:30a 54E
+DESCRIPTION:Technika obliczeniowa i symulacyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T104000Z
+DTEND:20260302T121500Z
+SUMMARY:PrSt (w)
+LOCATION:27 61
+DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T070000Z
+DTEND:20260303T083500Z
+SUMMARY:TeAn (w)
+LOCATION:30a 54E
+DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T085000Z
+DTEND:20260303T102500Z
+SUMMARY:ToiS (w)
+LOCATION:30a 54E
+DESCRIPTION:Technika obliczeniowa i symulacyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T070000Z
+DTEND:20260304T083500Z
+SUMMARY:PRo (w)
+LOCATION:73b S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T085000Z
+DTEND:20260304T102500Z
+SUMMARY:PrSt (w)
+LOCATION:103 61
+DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T104000Z
+DTEND:20260304T121500Z
+SUMMARY:TeAn (w)
+LOCATION:30a 54E
+DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T070000Z
+DTEND:20260305T083500Z
+SUMMARY:Eam (w)
+LOCATION:118 45
+DESCRIPTION:Elektroniczna aparatura medyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T085000Z
+DTEND:20260305T102500Z
+SUMMARY:ToiS (w)
+LOCATION:30a 54E
+DESCRIPTION:Technika obliczeniowa i symulacyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T104000Z
+DTEND:20260305T121500Z
+SUMMARY:TeMi (w)
+LOCATION:27 61
+DESCRIPTION:Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260306T070000Z
 DTEND:20260306T083500Z
 SUMMARY:- (Inne)
@@ -6883,6 +6960,90 @@ DTEND:20260306T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 448/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260309T070000Z
+DTEND:20260309T083500Z
+SUMMARY:TeMi (w)
+LOCATION:27 61
+DESCRIPTION:Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260309T085000Z
+DTEND:20260309T102500Z
+SUMMARY:ToiS (w)
+LOCATION:30a 54E
+DESCRIPTION:Technika obliczeniowa i symulacyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260309T104000Z
+DTEND:20260309T121500Z
+SUMMARY:Eam (w)
+LOCATION:15 47
+DESCRIPTION:Elektroniczna aparatura medyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T070000Z
+DTEND:20260310T083500Z
+SUMMARY:TeAn (w)
+LOCATION:30a 54E
+DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T085000Z
+DTEND:20260310T102500Z
+SUMMARY:PrSt (w)
+LOCATION:118 45
+DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T070000Z
+DTEND:20260311T083500Z
+SUMMARY:Piab (w)
+LOCATION:116 45
+DESCRIPTION:Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T085000Z
+DTEND:20260311T102500Z
+SUMMARY:Piab (w)
+LOCATION:116 45
+DESCRIPTION:Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T104000Z
+DTEND:20260311T121500Z
+SUMMARY:ToiS (w)
+LOCATION:30a 54E
+DESCRIPTION:Technika obliczeniowa i symulacyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T123000Z
+DTEND:20260311T140500Z
+SUMMARY:TeAn (w)
+LOCATION:30a 54E
+DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T070000Z
+DTEND:20260312T083500Z
+SUMMARY:SsO (w)
+LOCATION:116 45
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T085000Z
+DTEND:20260312T102500Z
+SUMMARY:Sze (w)
+LOCATION:73b S
+DESCRIPTION:Systemy zapewnienia energii - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T104000Z
+DTEND:20260312T121500Z
+SUMMARY:TC (w)
+LOCATION:117 45
+DESCRIPTION:Technika cyfrowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T070000Z
@@ -6934,6 +7095,83 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 455/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260316T070000Z
+DTEND:20260316T083500Z
+SUMMARY:Sze (w)
+LOCATION:315a S
+DESCRIPTION:Systemy zapewnienia energii - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T085000Z
+DTEND:20260316T102500Z
+SUMMARY:ToiS (w)
+LOCATION:30a 54E
+DESCRIPTION:Technika obliczeniowa i symulacyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T104000Z
+DTEND:20260316T121500Z
+SUMMARY:PrSt (w)
+LOCATION:118 45
+DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260317T070000Z
+DTEND:20260317T083500Z
+SUMMARY:TeAn (w)
+LOCATION:30a 54E
+DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260317T085000Z
+DTEND:20260317T102500Z
+SUMMARY:PRo (w)
+LOCATION:73b S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T085000Z
+DTEND:20260318T102500Z
+SUMMARY:PRo (w)
+LOCATION:315a S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T104000Z
+DTEND:20260318T121500Z
+SUMMARY:TeMi (w)
+LOCATION:27 61
+DESCRIPTION:Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T123000Z
+DTEND:20260318T140500Z
+SUMMARY:ToiS (w)
+LOCATION:30a 54E
+DESCRIPTION:Technika obliczeniowa i symulacyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T070000Z
+DTEND:20260319T083500Z
+SUMMARY:SsO (w)
+LOCATION:116 45
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T085000Z
+DTEND:20260319T102500Z
+SUMMARY:Sze (w)
+LOCATION:73b S
+DESCRIPTION:Systemy zapewnienia energii - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T104000Z
+DTEND:20260319T121500Z
+SUMMARY:TC (w)
+LOCATION:117 45
+DESCRIPTION:Technika cyfrowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260320T070000Z
 DTEND:20260320T083500Z
 SUMMARY:- (Inne)
@@ -6981,6 +7219,83 @@ DTEND:20260320T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 462/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T070000Z
+DTEND:20260323T083500Z
+SUMMARY:TeMi (w)
+LOCATION:27 61
+DESCRIPTION:Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T085000Z
+DTEND:20260323T102500Z
+SUMMARY:Sze (w)
+LOCATION:315a S
+DESCRIPTION:Systemy zapewnienia energii - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T104000Z
+DTEND:20260323T121500Z
+SUMMARY:Eam (w)
+LOCATION:117 45
+DESCRIPTION:Elektroniczna aparatura medyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T070000Z
+DTEND:20260324T083500Z
+SUMMARY:SsO (w)
+LOCATION:116 45
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T085000Z
+DTEND:20260324T102500Z
+SUMMARY:PrSt (w)
+LOCATION:118 45
+DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T104000Z
+DTEND:20260324T121500Z
+SUMMARY:Piab (w)
+LOCATION:116 45
+DESCRIPTION:Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T104000Z
+DTEND:20260325T121500Z
+SUMMARY:TeMi (w)
+LOCATION:27 61
+DESCRIPTION:Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T123000Z
+DTEND:20260325T140500Z
+SUMMARY:TeAn (w)
+LOCATION:30a 54E
+DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T070000Z
+DTEND:20260326T083500Z
+SUMMARY:SsO (w)
+LOCATION:117 45
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T085000Z
+DTEND:20260326T102500Z
+SUMMARY:Sze (w)
+LOCATION:73b S
+DESCRIPTION:Systemy zapewnienia energii - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T104000Z
+DTEND:20260326T121500Z
+SUMMARY:TC (w)
+LOCATION:117 45
+DESCRIPTION:Technika cyfrowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T070000Z
@@ -7032,6 +7347,90 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 469/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260330T060000Z
+DTEND:20260330T073500Z
+SUMMARY:TeMi (w)
+LOCATION:27 61
+DESCRIPTION:Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T075000Z
+DTEND:20260330T092500Z
+SUMMARY:Sze (w)
+LOCATION:315a S
+DESCRIPTION:Systemy zapewnienia energii - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T094000Z
+DTEND:20260330T111500Z
+SUMMARY:PrSt (w)
+LOCATION:27 61
+DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T060000Z
+DTEND:20260331T073500Z
+SUMMARY:SsO (w)
+LOCATION:116 45
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T075000Z
+DTEND:20260331T092500Z
+SUMMARY:Piab (w)
+LOCATION:117 45
+DESCRIPTION:Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T075000Z
+DTEND:20260401T092500Z
+SUMMARY:PRo (w)
+LOCATION:315b S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T094000Z
+DTEND:20260401T111500Z
+SUMMARY:TeMi (w)
+LOCATION:27 61
+DESCRIPTION:Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T113000Z
+DTEND:20260401T130500Z
+SUMMARY:TeAn (w)
+LOCATION:30a 54E
+DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T060000Z
+DTEND:20260402T073500Z
+SUMMARY:PrSt (w)
+LOCATION:119 45
+DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T075000Z
+DTEND:20260402T092500Z
+SUMMARY:SsO (w)
+LOCATION:116 45
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T094000Z
+DTEND:20260402T111500Z
+SUMMARY:TC (w)
+LOCATION:117 45
+DESCRIPTION:Technika cyfrowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T113000Z
+DTEND:20260402T130500Z
+SUMMARY:Sze (w)
+LOCATION:315b S
+DESCRIPTION:Systemy zapewnienia energii - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260403T060000Z
 DTEND:20260403T073500Z
 SUMMARY:- (Inne)
@@ -7079,6 +7478,34 @@ DTEND:20260403T191500Z
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 476/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T060000Z
+DTEND:20260408T073500Z
+SUMMARY:Eam (w)
+LOCATION:116 45
+DESCRIPTION:Elektroniczna aparatura medyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T075000Z
+DTEND:20260408T092500Z
+SUMMARY:TC (w)
+LOCATION:120 45
+DESCRIPTION:Technika cyfrowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T094000Z
+DTEND:20260408T111500Z
+SUMMARY:PRo (w)
+LOCATION:73b S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T113000Z
+DTEND:20260408T130500Z
+SUMMARY:Piab (w)
+LOCATION:315a S
+DESCRIPTION:Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T060000Z
@@ -7130,6 +7557,41 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 483/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260413T060000Z
+DTEND:20260413T073500Z
+SUMMARY:Eam (w)
+LOCATION:117 45
+DESCRIPTION:Elektroniczna aparatura medyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T075000Z
+DTEND:20260413T092500Z
+SUMMARY:Piab (w)
+LOCATION:73b S
+DESCRIPTION:Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T060000Z
+DTEND:20260415T073500Z
+SUMMARY:SsO (w)
+LOCATION:117 45
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T075000Z
+DTEND:20260415T092500Z
+SUMMARY:TC (w)
+LOCATION:120 45
+DESCRIPTION:Technika cyfrowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T094000Z
+DTEND:20260415T111500Z
+SUMMARY:PRo (w)
+LOCATION:73b S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260417T060000Z
 DTEND:20260417T073500Z
 SUMMARY:- (Inne)
@@ -7177,6 +7639,34 @@ DTEND:20260417T191500Z
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 490/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T060000Z
+DTEND:20260420T073500Z
+SUMMARY:Eam (w)
+LOCATION:117 45
+DESCRIPTION:Elektroniczna aparatura medyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T075000Z
+DTEND:20260420T092500Z
+SUMMARY:Piab (w)
+LOCATION:73b S
+DESCRIPTION:Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T060000Z
+DTEND:20260422T073500Z
+SUMMARY:PRo (w)
+LOCATION:73b S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T075000Z
+DTEND:20260422T092500Z
+SUMMARY:TC (w)
+LOCATION:120 45
+DESCRIPTION:Technika cyfrowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260424T060000Z
