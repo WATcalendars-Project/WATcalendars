@@ -501,6 +501,13 @@ LOCATION:2 5
 DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: dr hab. inż. Oton Martinez Eva
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260217T085000Z
+DTEND:20260217T102500Z
+SUMMARY:Cht (E)
+LOCATION:aF S
+DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Piecek Wiktor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261021T094000Z
 DTEND:20261021T111500Z
 SUMMARY:Cha2 (L)
@@ -562,6 +569,20 @@ DTEND:20260113T121500Z
 SUMMARY:Cht (L)
 LOCATION:123 24
 DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Jasek Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T104000Z
+DTEND:20260203T121500Z
+SUMMARY:Sch (E)
+LOCATION:2 55A
+DESCRIPTION:Sensory chemiczne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Grabka Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T104000Z
+DTEND:20260210T121500Z
+SUMMARY:Cht (E)
+LOCATION:aF S
+DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Piecek Wiktor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T113000Z
@@ -928,6 +949,13 @@ LOCATION:budynek 32;bud. 87
 DESCRIPTION:Prognozowanie skutków wybuchu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Paszula Józef; dr inż. Dyjak Sławomir
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260218T104000Z
+DTEND:20260218T121500Z
+SUMMARY:Sch (Ep)
+LOCATION:1 55A
+DESCRIPTION:Sensory chemiczne\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Grabka Michał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261001T113000Z
 DTEND:20261001T130500Z
 SUMMARY:WzPs (w)
@@ -1227,6 +1255,20 @@ DTEND:20260108T102500Z
 SUMMARY:Cht (w)
 LOCATION:108 24
 DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 7/18\nProwadzący: dr hab. inż. Piecek Wiktor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T085000Z
+DTEND:20260205T102500Z
+SUMMARY:Psw (E)
+LOCATION:108 24
+DESCRIPTION:Prognozowanie skutków wybuchu\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof.dr hab.inż. Trzciński Waldemar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T085000Z
+DTEND:20260219T102500Z
+SUMMARY:Psw (Ep)
+LOCATION:108 24
+DESCRIPTION:Prognozowanie skutków wybuchu\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof.dr hab.inż. Trzciński Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T094000Z

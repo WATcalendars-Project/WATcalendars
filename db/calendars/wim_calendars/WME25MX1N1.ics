@@ -307,9 +307,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250228T085000Z
 DTEND:20250228T102500Z
-SUMMARY:HP (w)
-LOCATION:51/ 62
-DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Iwanowicz Izabela
+SUMMARY:Ppu. (w)
+LOCATION:01/ 54A
+DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T094000Z
@@ -461,9 +461,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250228T104000Z
 DTEND:20250228T121500Z
-SUMMARY:HP (w)
-LOCATION:51/ 62
-DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Iwanowicz Izabela
+SUMMARY:Mas (w)
+LOCATION:01/ 54A
+DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T113000Z
@@ -613,6 +613,13 @@ LOCATION:51/ 62
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250228T123000Z
+DTEND:20250228T140500Z
+SUMMARY:Mkm1 (w)
+LOCATION:52/ 62
+DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr inż. Zasada Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251004T140000Z
 DTEND:20251004T153500Z
 SUMMARY:M1 (w)
@@ -753,6 +760,13 @@ LOCATION:51/ 62
 DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr Mielnik Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250228T150000Z
+DTEND:20250228T163500Z
+SUMMARY:Mt 
+LOCATION:52/ 62
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 1/1\nProwadzący: dr inż. Bogusz Paweł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251004T155000Z
 DTEND:20251004T172500Z
 SUMMARY:M1 (ć)
@@ -872,6 +886,13 @@ LOCATION:
 DESCRIPTION:SEpop.\nRodzaj zajęć: -\nNumer zajęć: 1/5
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250228T165000Z
+DTEND:20250228T182500Z
+SUMMARY:HP (w)
+LOCATION:51/ 62
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Iwanowicz Izabela
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251101T184000Z
 DTEND:20251101T201500Z
 SUMMARY:I 
@@ -947,6 +968,13 @@ DTEND:20250221T201500Z
 SUMMARY:SEpop. 
 LOCATION:
 DESCRIPTION:SEpop.\nRodzaj zajęć: -\nNumer zajęć: 2/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250228T184000Z
+DTEND:20250228T201500Z
+SUMMARY:HP (w)
+LOCATION:51/ 62
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Iwanowicz Izabela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251005T060000Z

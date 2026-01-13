@@ -274,14 +274,14 @@ DTSTART:20260223T104000Z
 DTEND:20260223T121500Z
 SUMMARY:F2 (E)
 LOCATION:aF S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: prof.dr hab.inż. Jaroszewicz Leszek
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof.dr hab.inż. Jaroszewicz Leszek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T104000Z
 DTEND:20260302T121500Z
-SUMMARY:F2 (E)
+SUMMARY:F2 (Ep)
 LOCATION:166 S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: prof.dr hab.inż. Jaroszewicz Leszek
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof.dr hab.inż. Jaroszewicz Leszek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T113000Z
@@ -473,13 +473,6 @@ LOCATION:109 24
 DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/13\nProwadzący: dr hab. inż. Herman Jakub
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260127T070000Z
-DTEND:20260127T083500Z
-SUMMARY:Cho (ć)
-LOCATION:109 24
-DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/13\nProwadzący: dr hab. inż. Herman Jakub
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261007T075000Z
 DTEND:20261007T092500Z
 SUMMARY:Cha (ć)
@@ -589,7 +582,7 @@ DTSTART:20261118T104000Z
 DTEND:20261118T121500Z
 SUMMARY:Cho (ć)
 LOCATION:109 24
-DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/13\nProwadzący: dr hab. inż. Herman Jakub
+DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/13\nProwadzący: dr hab. inż. Herman Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T104000Z
@@ -639,6 +632,20 @@ DTEND:20260127T121500Z
 SUMMARY:Chf (ć)
 LOCATION:109 24
 DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/17\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T104000Z
+DTEND:20260217T121500Z
+SUMMARY:Chf (E)
+LOCATION:110/ 14
+DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Czerwiński Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T104000Z
+DTEND:20260303T121500Z
+SUMMARY:Chf (Ep)
+LOCATION:110/ 14
+DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Czerwiński Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T113000Z
@@ -802,11 +809,18 @@ LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: i\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260128T070000Z
-DTEND:20260128T083500Z
+DTSTART:20260121T070000Z
+DTEND:20260121T083500Z
 SUMMARY:Cho (ć)
-LOCATION:109 24
-DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/13\nProwadzący: dr hab. inż. Herman Jakub
+LOCATION:110/ 14
+DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/13\nProwadzący: dr hab. inż. Herman Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T070000Z
+DTEND:20260304T083500Z
+SUMMARY:Cho (Ep)
+LOCATION:110/ 14
+DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: płk dr hab. inż. Kula Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T075000Z
@@ -921,6 +935,13 @@ LOCATION:238 K;120 K;121 K;122 K;124 K;125 K;126 K;127 K;128 K;131 K;133 K;134 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28/32
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260225T085000Z
+DTEND:20260225T102500Z
+SUMMARY:Cho (E)
+LOCATION:110/ 14
+DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: płk dr hab. inż. Kula Przemysław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T085000Z
 DTEND:20260304T102500Z
 SUMMARY:Ja (ć)
@@ -1016,7 +1037,7 @@ DTSTART:20260121T104000Z
 DTEND:20260121T121500Z
 SUMMARY:Cho (ć)
 LOCATION:108 24
-DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/13\nProwadzący: dr hab. inż. Herman Jakub
+DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/13\nProwadzący: dr hab. inż. Herman Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T104000Z
@@ -1156,7 +1177,7 @@ DTSTART:20261126T150000Z
 DTEND:20261126T163500Z
 SUMMARY:Cho (ć)
 LOCATION:109 24
-DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/13\nProwadzący: dr hab. inż. Herman Jakub
+DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/13\nProwadzący: dr hab. inż. Herman Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T150000Z
@@ -1233,7 +1254,7 @@ DTSTART:20261211T070000Z
 DTEND:20261211T083500Z
 SUMMARY:Cho (ć)
 LOCATION:109 24
-DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/13\nProwadzący: dr hab. inż. Herman Jakub
+DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/13\nProwadzący: dr hab. inż. Herman Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T070000Z
@@ -1247,14 +1268,28 @@ DTSTART:20260108T070000Z
 DTEND:20260108T083500Z
 SUMMARY:Cho (ć)
 LOCATION:109 24
-DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/13\nProwadzący: dr hab. inż. Herman Jakub
+DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/13\nProwadzący: dr hab. inż. Herman Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T070000Z
 DTEND:20260115T083500Z
 SUMMARY:Cho (ć)
 LOCATION:109 24
-DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/13\nProwadzący: dr hab. inż. Herman Jakub
+DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/13\nProwadzący: dr hab. inż. Herman Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T070000Z
+DTEND:20260219T083500Z
+SUMMARY:Cha (E)
+LOCATION:110/ 14
+DESCRIPTION:Chemia analityczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. Kuśmierek Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260226T070000Z
+DTEND:20260226T083500Z
+SUMMARY:Cha (Ep)
+LOCATION:110/ 14
+DESCRIPTION:Chemia analityczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. Kuśmierek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261002T075000Z
@@ -1549,6 +1584,13 @@ DTEND:20260108T140500Z
 SUMMARY:Chf (w)
 LOCATION:110/ 14
 DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 30/30\nProwadzący: dr hab. inż. Czerwiński Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260115T123000Z
+DTEND:20260115T140500Z
+SUMMARY:Cho (ć)
+LOCATION:2 55A
+DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/13\nProwadzący: dr hab. inż. Herman Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T123000Z

@@ -300,9 +300,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250228T085000Z
 DTEND:20250228T102500Z
-SUMMARY:HP (w)
-LOCATION:51/ 62
-DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Iwanowicz Izabela
+SUMMARY:Par (w)
+LOCATION:6/ 23a
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T094000Z
@@ -447,9 +447,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250228T104000Z
 DTEND:20250228T121500Z
-SUMMARY:HP (w)
-LOCATION:51/ 62
-DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Iwanowicz Izabela
+SUMMARY:Par (w)
+LOCATION:6/ 23a
+DESCRIPTION:Podstawy automatyki i robotyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T113000Z
@@ -599,6 +599,13 @@ LOCATION:51/ 62
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250228T123000Z
+DTEND:20250228T140500Z
+SUMMARY:WdST (w)
+LOCATION:5/ 23a
+DESCRIPTION:Wprowadzenie do systemów transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251004T140000Z
 DTEND:20251004T153500Z
 SUMMARY:M1 (w)
@@ -732,6 +739,13 @@ LOCATION:51/ 62
 DESCRIPTION:Ochrona własności intelektualnych\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr Mielnik Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250228T150000Z
+DTEND:20250228T163500Z
+SUMMARY:WdST (w)
+LOCATION:5/ 23a
+DESCRIPTION:Wprowadzenie do systemów transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251018T155000Z
 DTEND:20251018T172500Z
 SUMMARY:M1 (ć)
@@ -851,6 +865,13 @@ LOCATION:
 DESCRIPTION:SEpop.\nRodzaj zajęć: -\nNumer zajęć: 1/5
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250228T165000Z
+DTEND:20250228T182500Z
+SUMMARY:HP (w)
+LOCATION:51/ 62
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Iwanowicz Izabela
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251004T174000Z
 DTEND:20251004T191500Z
 SUMMARY:M1 (ć)
@@ -947,6 +968,13 @@ DTEND:20250221T201500Z
 SUMMARY:SEpop. 
 LOCATION:
 DESCRIPTION:SEpop.\nRodzaj zajęć: -\nNumer zajęć: 2/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250228T184000Z
+DTEND:20250228T201500Z
+SUMMARY:HP (w)
+LOCATION:51/ 62
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Iwanowicz Izabela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251005T060000Z
