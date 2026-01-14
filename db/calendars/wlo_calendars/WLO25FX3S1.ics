@@ -351,7 +351,7 @@ DTSTART:20260217T070000Z
 DTEND:20260217T083500Z
 SUMMARY:M1 (Ep)
 LOCATION:
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/2\nProwadzący: dr Ploch Jerzy
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/3\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T075000Z
@@ -435,7 +435,7 @@ DTSTART:20260217T085000Z
 DTEND:20260217T102500Z
 SUMMARY:M1 (Ep)
 LOCATION:
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2/2\nProwadzący: dr Ploch Jerzy
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2/3\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T094000Z
@@ -512,7 +512,7 @@ DTSTART:20260203T104000Z
 DTEND:20260203T121500Z
 SUMMARY:M1 (E)
 LOCATION:
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Ploch Jerzy
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T123000Z
@@ -688,6 +688,20 @@ DTEND:20260114T083500Z
 SUMMARY:Mat2 (ć)
 LOCATION:8/62
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T070000Z
+DTEND:20260204T083500Z
+SUMMARY:M1 (E)
+LOCATION:317 S
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T070000Z
+DTEND:20260218T083500Z
+SUMMARY:M1 (Ep)
+LOCATION:317 S
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T075000Z
@@ -974,7 +988,7 @@ DTSTART:20260219T085000Z
 DTEND:20260219T102500Z
 SUMMARY:Mat2 (Ep)
 LOCATION:
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/2\nProwadzący: dr Ploch Jerzy
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/3\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T094000Z
@@ -1037,14 +1051,14 @@ DTSTART:20260205T104000Z
 DTEND:20260205T121500Z
 SUMMARY:Mat2 (E)
 LOCATION:
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Ploch Jerzy
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T104000Z
 DTEND:20260219T121500Z
 SUMMARY:Mat2 (Ep)
 LOCATION:
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2/2\nProwadzący: dr Ploch Jerzy
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2/3\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261113T123000Z
@@ -1241,6 +1255,20 @@ DTEND:20260109T083500Z
 SUMMARY:WDM (ć)
 LOCATION:0.23/16
 DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T070000Z
+DTEND:20260206T083500Z
+SUMMARY:Mat2 (E)
+LOCATION:317 S
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T070000Z
+DTEND:20260220T083500Z
+SUMMARY:Mat2 (Ep)
+LOCATION:317 S
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261010T075000Z

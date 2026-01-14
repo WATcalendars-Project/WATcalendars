@@ -529,6 +529,13 @@ LOCATION:2 55A
 DESCRIPTION:Podstawy miernictwa w chemii\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: ppłk dr inż. Grabka Michał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260203T085000Z
+DTEND:20260203T102500Z
+SUMMARY:Cha (E)
+LOCATION:110/ 14
+DESCRIPTION:Chemia analityczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Dziura Aleksandra
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260217T085000Z
 DTEND:20260217T102500Z
 SUMMARY:Chf (Ep)
@@ -695,13 +702,6 @@ DTEND:20260127T140500Z
 SUMMARY:Chf (w)
 LOCATION:110/ 14
 DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 11/30\nProwadzący: dr hab. inż. Czerwiński Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260203T123000Z
-DTEND:20260203T140500Z
-SUMMARY:Chf (E)
-LOCATION:110/ 14
-DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Czerwiński Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T140000Z
@@ -1791,9 +1791,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T085000Z
 DTEND:20260206T102500Z
-SUMMARY:Cha (E)
+SUMMARY:Chf (E)
 LOCATION:110/ 14
-DESCRIPTION:Chemia analityczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Dziura Aleksandra
+DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Czerwiński Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T085000Z

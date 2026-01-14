@@ -1208,6 +1208,13 @@ LOCATION:0.19/135
 DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260130T150000Z
+DTEND:20260130T163500Z
+SUMMARY:SZK (ć)
+LOCATION:1.16/16
+DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261010T155000Z
 DTEND:20261010T172500Z
 SUMMARY:Ja (ć)
@@ -1254,14 +1261,14 @@ DTSTART:20260109T165000Z
 DTEND:20260109T182500Z
 SUMMARY:SZK (ć)
 LOCATION:0.19/135
-DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10
+DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T165000Z
 DTEND:20260130T182500Z
 SUMMARY:SZK (ć)
 LOCATION:1.16/16
-DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10
+DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261010T174000Z
@@ -1290,12 +1297,5 @@ DTEND:20261107T201500Z
 SUMMARY:Pmb (ć)
 LOCATION:5.21/135
 DESCRIPTION:Podstawy metodologii badań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260130T184000Z
-DTEND:20260130T201500Z
-SUMMARY:SZK (ć)
-LOCATION:1.16/16
-DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10
 END:VEVENT
 END:VCALENDAR

@@ -4,6 +4,27 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WMT21LL1S0
 BEGIN:VEVENT
+DTSTART:20260929T060000Z
+DTEND:20260929T073500Z
+SUMMARY:Bioś 
+LOCATION:
+DESCRIPTION:Budowa i obsługa śmigłowców\nRodzaj zajęć: -\nProwadzący: mgr. inż. Siuta Bogumił
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261006T060000Z
+DTEND:20261006T073500Z
+SUMMARY:SSW 
+LOCATION:
+DESCRIPTION:SSW\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T070000Z
+DTEND:20261117T083500Z
+SUMMARY:REG 
+LOCATION:
+DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr Bomba Marcin
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261201T070000Z
 DTEND:20261201T083500Z
 SUMMARY:TA 
@@ -18,11 +39,32 @@ LOCATION:
 DESCRIPTION:TAKTYKA\nRodzaj zajęć: -\nProwadzący: mjr mgr Stępień Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260323T070000Z
-DTEND:20260323T083500Z
-SUMMARY:WF 
+DTSTART:20261006T075000Z
+DTEND:20261006T092500Z
+SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:SSW\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261006T094000Z
+DTEND:20261006T111500Z
+SUMMARY:SSW 
+LOCATION:
+DESCRIPTION:SSW\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261013T094000Z
+DTEND:20261013T111500Z
+SUMMARY:REG 
+LOCATION:
+DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr Bomba Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261124T104000Z
+DTEND:20261124T121500Z
+SUMMARY:SSW 
+LOCATION:
+DESCRIPTION:SSW\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T104000Z
@@ -60,39 +102,95 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261006T113000Z
+DTEND:20261006T130500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261013T113000Z
+DTEND:20261013T130500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T113000Z
+DTEND:20261020T130500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T123000Z
+DTEND:20261027T140500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261103T123000Z
+DTEND:20261103T140500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T123000Z
+DTEND:20261117T140500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261124T123000Z
+DTEND:20261124T140500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261201T123000Z
 DTEND:20261201T140500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T123000Z
 DTEND:20261215T140500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T123000Z
 DTEND:20260112T140500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T123000Z
 DTEND:20260119T140500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T123000Z
 DTEND:20260126T140500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261103T150000Z
+DTEND:20261103T163500Z
+SUMMARY:TA 
+LOCATION:
+DESCRIPTION:TAKTYKA\nRodzaj zajęć: -\nProwadzący: mjr mgr Stępień Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T150000Z
@@ -116,46 +214,144 @@ LOCATION:
 DESCRIPTION:TAKTYKA\nRodzaj zajęć: -\nProwadzący: mjr mgr Stępień Jacek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260930T060000Z
+DTEND:20260930T073500Z
+SUMMARY:Bioś 
+LOCATION:
+DESCRIPTION:Budowa i obsługa śmigłowców\nRodzaj zajęć: -\nProwadzący: mgr. inż. Siuta Bogumił
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261007T060000Z
+DTEND:20261007T073500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T060000Z
+DTEND:20261014T073500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T060000Z
+DTEND:20261021T073500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T070000Z
+DTEND:20261028T083500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T070000Z
+DTEND:20261104T083500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T070000Z
+DTEND:20261118T083500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T070000Z
+DTEND:20261125T083500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261202T070000Z
 DTEND:20261202T083500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T070000Z
 DTEND:20261209T083500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T070000Z
 DTEND:20261216T083500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T070000Z
 DTEND:20260113T083500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T070000Z
 DTEND:20260120T083500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T070000Z
 DTEND:20260127T083500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T075000Z
+DTEND:20260930T092500Z
+SUMMARY:Bioś 
+LOCATION:
+DESCRIPTION:Budowa i obsługa śmigłowców\nRodzaj zajęć: -\nProwadzący: mgr. inż. Siuta Bogumił
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T075000Z
+DTEND:20261021T092500Z
+SUMMARY:Setau 
+LOCATION:
+DESCRIPTION:Specjalized English Terminology for Aircraft and UAV Systems\nRodzaj zajęć: -\nProwadzący: dr inż. Zalewski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T085000Z
+DTEND:20261028T102500Z
+SUMMARY:Setau 
+LOCATION:
+DESCRIPTION:Specjalized English Terminology for Aircraft and UAV Systems\nRodzaj zajęć: -\nProwadzący: dr inż. Zalewski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T085000Z
+DTEND:20261104T102500Z
+SUMMARY:Setau 
+LOCATION:
+DESCRIPTION:Specjalized English Terminology for Aircraft and UAV Systems\nRodzaj zajęć: -\nProwadzący: dr inż. Zalewski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T085000Z
+DTEND:20261118T102500Z
+SUMMARY:Psipp 
+LOCATION:
+DESCRIPTION:Przetwarzanie sygnałów i przetworniki pomiarowe\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T085000Z
+DTEND:20261125T102500Z
+SUMMARY:Psipp 
+LOCATION:
+DESCRIPTION:Przetwarzanie sygnałów i przetworniki pomiarowe\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T085000Z
@@ -195,6 +391,34 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T085000Z
 DTEND:20260127T102500Z
+SUMMARY:Psipp 
+LOCATION:
+DESCRIPTION:Przetwarzanie sygnałów i przetworniki pomiarowe\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T094000Z
+DTEND:20261021T111500Z
+SUMMARY:Psipp 
+LOCATION:
+DESCRIPTION:Przetwarzanie sygnałów i przetworniki pomiarowe\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T104000Z
+DTEND:20261028T121500Z
+SUMMARY:Psipp 
+LOCATION:
+DESCRIPTION:Przetwarzanie sygnałów i przetworniki pomiarowe\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T104000Z
+DTEND:20261104T121500Z
+SUMMARY:Psipp 
+LOCATION:
+DESCRIPTION:Przetwarzanie sygnałów i przetworniki pomiarowe\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T104000Z
+DTEND:20261118T121500Z
 SUMMARY:Psipp 
 LOCATION:
 DESCRIPTION:Przetwarzanie sygnałów i przetworniki pomiarowe\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
@@ -242,6 +466,48 @@ LOCATION:
 DESCRIPTION:Sterowanie zespołów napędowych\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261007T113000Z
+DTEND:20261007T130500Z
+SUMMARY:CL 
+LOCATION:
+DESCRIPTION:Czynnik ludzki\nRodzaj zajęć: -\nProwadzący: dr inż. Jaskółowski Waldemar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T113000Z
+DTEND:20261021T130500Z
+SUMMARY:Szn 
+LOCATION:
+DESCRIPTION:Sterowanie zespołów napędowych\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T123000Z
+DTEND:20261028T140500Z
+SUMMARY:Szn 
+LOCATION:
+DESCRIPTION:Sterowanie zespołów napędowych\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T123000Z
+DTEND:20261104T140500Z
+SUMMARY:Szn 
+LOCATION:
+DESCRIPTION:Sterowanie zespołów napędowych\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T123000Z
+DTEND:20261118T140500Z
+SUMMARY:Szn 
+LOCATION:
+DESCRIPTION:Sterowanie zespołów napędowych\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T123000Z
+DTEND:20261125T140500Z
+SUMMARY:Szn 
+LOCATION:
+DESCRIPTION:Sterowanie zespołów napędowych\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261202T123000Z
 DTEND:20261202T140500Z
 SUMMARY:Szn 
@@ -267,7 +533,49 @@ DTSTART:20260113T165000Z
 DTEND:20260113T182500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261008T060000Z
+DTEND:20261008T073500Z
+SUMMARY:DGB 
+LOCATION:
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T060000Z
+DTEND:20261022T073500Z
+SUMMARY:ZŻWAT 
+LOCATION:
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T070000Z
+DTEND:20261029T083500Z
+SUMMARY:Szn 
+LOCATION:
+DESCRIPTION:Sterowanie zespołów napędowych\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T070000Z
+DTEND:20261105T083500Z
+SUMMARY:Szn 
+LOCATION:
+DESCRIPTION:Sterowanie zespołów napędowych\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T070000Z
+DTEND:20261112T083500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T070000Z
+DTEND:20261119T083500Z
+SUMMARY:ZŻWAT 
+LOCATION:
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T070000Z
@@ -305,39 +613,53 @@ LOCATION:
 DESCRIPTION:Specjalized English Terminology for Aircraft and UAV Systems\nRodzaj zajęć: -\nProwadzący: dr inż. Zalewski Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260311T070000Z
-DTEND:20260311T083500Z
+DTSTART:20261008T075000Z
+DTEND:20261008T092500Z
 SUMMARY:DGB 
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260422T060000Z
-DTEND:20260422T073500Z
-SUMMARY:ZŻWAT 
+DTSTART:20261015T075000Z
+DTEND:20261015T092500Z
+SUMMARY:Setau 
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -
+DESCRIPTION:Specjalized English Terminology for Aircraft and UAV Systems\nRodzaj zajęć: -\nProwadzący: dr inż. Zalewski Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260520T060000Z
-DTEND:20260520T073500Z
-SUMMARY:ZŻWAT 
-LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -
+DTSTART:20261022T075000Z
+DTEND:20261022T092500Z
+SUMMARY:Inesp 
+LOCATION:13636
+DESCRIPTION:Inżynieria eksploatacji SP\nRodzaj zajęć: -\nProwadzący: dr inż. Tkaczuk Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260603T060000Z
-DTEND:20260603T073500Z
-SUMMARY:DGB 
+DTSTART:20261105T085000Z
+DTEND:20261105T102500Z
+SUMMARY:Szn 
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: -
+DESCRIPTION:Sterowanie zespołów napędowych\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260617T060000Z
-DTEND:20260617T073500Z
-SUMMARY:ZŻWAT 
+DTSTART:20261112T085000Z
+DTEND:20261112T102500Z
+SUMMARY:Setau 
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -
+DESCRIPTION:Specjalized English Terminology for Aircraft and UAV Systems\nRodzaj zajęć: -\nProwadzący: dr inż. Zalewski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T085000Z
+DTEND:20261119T102500Z
+SUMMARY:Setau 
+LOCATION:
+DESCRIPTION:Specjalized English Terminology for Aircraft and UAV Systems\nRodzaj zajęć: -\nProwadzący: dr inż. Zalewski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T085000Z
+DTEND:20261126T102500Z
+SUMMARY:Inesp 
+LOCATION:13636
+DESCRIPTION:Inżynieria eksploatacji SP\nRodzaj zajęć: -\nProwadzący: dr inż. Tkaczuk Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T085000Z
@@ -389,18 +711,53 @@ LOCATION:13636
 DESCRIPTION:Inżynieria eksploatacji SP\nRodzaj zajęć: -\nProwadzący: dr inż. Tkaczuk Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260311T085000Z
-DTEND:20260311T102500Z
+DTSTART:20261008T094000Z
+DTEND:20261008T111500Z
 SUMMARY:DGB 
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260603T075000Z
-DTEND:20260603T092500Z
-SUMMARY:DGB 
+DTSTART:20261015T094000Z
+DTEND:20261015T111500Z
+SUMMARY:CL 
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: -
+DESCRIPTION:Czynnik ludzki\nRodzaj zajęć: -\nProwadzący: dr inż. Jaskółowski Waldemar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T094000Z
+DTEND:20261022T111500Z
+SUMMARY:CL 
+LOCATION:
+DESCRIPTION:Czynnik ludzki\nRodzaj zajęć: -\nProwadzący: dr inż. Jaskółowski Waldemar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T104000Z
+DTEND:20261029T121500Z
+SUMMARY:Inesp 
+LOCATION:13636
+DESCRIPTION:Inżynieria eksploatacji SP\nRodzaj zajęć: -\nProwadzący: dr inż. Tkaczuk Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T104000Z
+DTEND:20261112T121500Z
+SUMMARY:Inesp 
+LOCATION:13636
+DESCRIPTION:Inżynieria eksploatacji SP\nRodzaj zajęć: -\nProwadzący: dr inż. Tkaczuk Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T104000Z
+DTEND:20261119T121500Z
+SUMMARY:Sulo 
+LOCATION:4367
+DESCRIPTION:Systemy uzbrojenia lotniczego\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T104000Z
+DTEND:20261126T121500Z
+SUMMARY:Inesp 
+LOCATION:13636
+DESCRIPTION:Inżynieria eksploatacji SP\nRodzaj zajęć: -\nProwadzący: dr inż. Tkaczuk Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T104000Z
@@ -431,18 +788,46 @@ LOCATION:13036
 DESCRIPTION:Przetwarzanie sygnałów i przetworniki pomiarowe\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260311T104000Z
-DTEND:20260311T121500Z
+DTSTART:20261008T113000Z
+DTEND:20261008T130500Z
 SUMMARY:DGB 
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260603T094000Z
-DTEND:20260603T111500Z
-SUMMARY:DGB 
+DTSTART:20261015T113000Z
+DTEND:20261015T130500Z
+SUMMARY:Śwn 
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: -
+DESCRIPTION:Śmigła i wirniki\nRodzaj zajęć: -\nProwadzący: dr inż. Majcher Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T113000Z
+DTEND:20261022T130500Z
+SUMMARY:Śwn 
+LOCATION:
+DESCRIPTION:Śmigła i wirniki\nRodzaj zajęć: -\nProwadzący: dr inż. Majcher Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T123000Z
+DTEND:20261029T140500Z
+SUMMARY:Sulo 
+LOCATION:
+DESCRIPTION:Systemy uzbrojenia lotniczego\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T123000Z
+DTEND:20261119T140500Z
+SUMMARY:CL 
+LOCATION:
+DESCRIPTION:Czynnik ludzki\nRodzaj zajęć: -\nProwadzący: dr inż. Jaskółowski Waldemar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T123000Z
+DTEND:20261126T140500Z
+SUMMARY:CL 
+LOCATION:
+DESCRIPTION:Czynnik ludzki\nRodzaj zajęć: -\nProwadzący: dr inż. Jaskółowski Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T123000Z
@@ -487,18 +872,32 @@ LOCATION:13036
 DESCRIPTION:Przetwarzanie sygnałów i przetworniki pomiarowe\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260311T123000Z
-DTEND:20260311T140500Z
-SUMMARY:DGB 
+DTSTART:20261015T140000Z
+DTEND:20261015T153500Z
+SUMMARY:Śwn 
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: -
+DESCRIPTION:Śmigła i wirniki\nRodzaj zajęć: -\nProwadzący: dr inż. Majcher Maciej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260603T113000Z
-DTEND:20260603T130500Z
-SUMMARY:DGB 
+DTSTART:20261105T150000Z
+DTEND:20261105T163500Z
+SUMMARY:Śwn 
 LOCATION:
-DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: -
+DESCRIPTION:Śmigła i wirniki\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T150000Z
+DTEND:20261112T163500Z
+SUMMARY:Śwn 
+LOCATION:
+DESCRIPTION:Śmigła i wirniki\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T150000Z
+DTEND:20261126T163500Z
+SUMMARY:Śwn 
+LOCATION:
+DESCRIPTION:Śmigła i wirniki\nRodzaj zajęć: -\nProwadzący: dr inż. Majcher Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T150000Z
@@ -536,6 +935,55 @@ LOCATION:13036
 DESCRIPTION:Przetwarzanie sygnałów i przetworniki pomiarowe\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261009T060000Z
+DTEND:20261009T073500Z
+SUMMARY:Inesp 
+LOCATION:4663
+DESCRIPTION:Inżynieria eksploatacji SP\nRodzaj zajęć: -\nProwadzący: dr inż. Tkaczuk Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T060000Z
+DTEND:20261016T073500Z
+SUMMARY:Inesp 
+LOCATION:13636
+DESCRIPTION:Inżynieria eksploatacji SP\nRodzaj zajęć: -\nProwadzący: dr inż. Tkaczuk Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T070000Z
+DTEND:20261030T083500Z
+SUMMARY:Inesp 
+LOCATION:
+DESCRIPTION:Inżynieria eksploatacji SP\nRodzaj zajęć: -\nProwadzący: dr inż. Tkaczuk Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T070000Z
+DTEND:20261106T083500Z
+SUMMARY:REZ 
+LOCATION:
+DESCRIPTION:REZ\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T070000Z
+DTEND:20261113T083500Z
+SUMMARY:CL 
+LOCATION:
+DESCRIPTION:Czynnik ludzki\nRodzaj zajęć: -\nProwadzący: dr inż. Jaskółowski Waldemar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T070000Z
+DTEND:20261120T083500Z
+SUMMARY:Setau 
+LOCATION:
+DESCRIPTION:Specjalized English Terminology for Aircraft and UAV Systems\nRodzaj zajęć: -\nProwadzący: dr inż. Zalewski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T070000Z
+DTEND:20261127T083500Z
+SUMMARY:Psipp 
+LOCATION:
+DESCRIPTION:Przetwarzanie sygnałów i przetworniki pomiarowe\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261218T070000Z
 DTEND:20261218T083500Z
 SUMMARY:Setau 
@@ -561,21 +1009,35 @@ DTSTART:20260129T070000Z
 DTEND:20260129T083500Z
 SUMMARY:Sulo 
 LOCATION:4367
-DESCRIPTION:Systemy uzbrojenia lotniczego\nRodzaj zajęć: -\nProwadzący: por. mgr inż. Kłosiński Artur
+DESCRIPTION:Systemy uzbrojenia lotniczego\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T070000Z
 DTEND:20260305T083500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260326T070000Z
-DTEND:20260326T083500Z
-SUMMARY:WF 
+DTSTART:20261106T085000Z
+DTEND:20261106T102500Z
+SUMMARY:REZ 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:REZ\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T085000Z
+DTEND:20261113T102500Z
+SUMMARY:Inesp 
+LOCATION:
+DESCRIPTION:Inżynieria eksploatacji SP\nRodzaj zajęć: -\nProwadzący: dr inż. Tkaczuk Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T085000Z
+DTEND:20261127T102500Z
+SUMMARY:Inesp 
+LOCATION:
+DESCRIPTION:Inżynieria eksploatacji SP\nRodzaj zajęć: -\nProwadzący: dr inż. Tkaczuk Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T085000Z
@@ -631,7 +1093,28 @@ DTSTART:20260305T085000Z
 DTEND:20260305T102500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T094000Z
+DTEND:20261023T111500Z
+SUMMARY:Szn 
+LOCATION:
+DESCRIPTION:Sterowanie zespołów napędowych\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T104000Z
+DTEND:20261106T121500Z
+SUMMARY:Inesp 
+LOCATION:4663
+DESCRIPTION:Inżynieria eksploatacji SP\nRodzaj zajęć: -\nProwadzący: dr inż. Tkaczuk Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T104000Z
+DTEND:20261120T121500Z
+SUMMARY:Inesp 
+LOCATION:4663
+DESCRIPTION:Inżynieria eksploatacji SP\nRodzaj zajęć: -\nProwadzący: dr inż. Tkaczuk Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T104000Z
@@ -680,7 +1163,42 @@ DTSTART:20260305T104000Z
 DTEND:20260305T121500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T113000Z
+DTEND:20261009T130500Z
+SUMMARY:Śwn 
+LOCATION:
+DESCRIPTION:Śmigła i wirniki\nRodzaj zajęć: -\nProwadzący: dr inż. Majcher Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T123000Z
+DTEND:20261030T140500Z
+SUMMARY:Sulo 
+LOCATION:3367
+DESCRIPTION:Systemy uzbrojenia lotniczego\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261106T123000Z
+DTEND:20261106T140500Z
+SUMMARY:Szn 
+LOCATION:
+DESCRIPTION:Sterowanie zespołów napędowych\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261113T123000Z
+DTEND:20261113T140500Z
+SUMMARY:Szn 
+LOCATION:
+DESCRIPTION:Sterowanie zespołów napędowych\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T123000Z
+DTEND:20261127T140500Z
+SUMMARY:MW 
+LOCATION:2063
+DESCRIPTION:mjr dr inż. Walkowiak Marzena\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Walkowiak Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T123000Z
@@ -732,6 +1250,20 @@ LOCATION:
 DESCRIPTION:Sterowanie zespołów napędowych\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261030T150000Z
+DTEND:20261030T163500Z
+SUMMARY:Psipp 
+LOCATION:13036
+DESCRIPTION:Przetwarzanie sygnałów i przetworniki pomiarowe\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T150000Z
+DTEND:20261127T163500Z
+SUMMARY:Psipp 
+LOCATION:13036
+DESCRIPTION:Przetwarzanie sygnałów i przetworniki pomiarowe\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261204T150000Z
 DTEND:20261204T163500Z
 SUMMARY:Psipp 
@@ -767,6 +1299,13 @@ LOCATION:
 DESCRIPTION:Inżynieria eksploatacji SP\nRodzaj zajęć: -\nProwadzący: dr inż. Tkaczuk Sławomir
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261113T165000Z
+DTEND:20261113T182500Z
+SUMMARY:Inesp 
+LOCATION:4663
+DESCRIPTION:Inżynieria eksploatacji SP\nRodzaj zajęć: -\nProwadzący: dr inż. Tkaczuk Sławomir
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261204T165000Z
 DTEND:20261204T182500Z
 SUMMARY:Psipp 
@@ -781,53 +1320,165 @@ LOCATION:00436
 DESCRIPTION:Przetwarzanie sygnałów i przetworniki pomiarowe\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261003T075000Z
+DTEND:20261003T092500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T075000Z
+DTEND:20261010T092500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261017T075000Z
+DTEND:20261017T092500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T075000Z
+DTEND:20261024T092500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261031T085000Z
+DTEND:20261031T102500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261107T085000Z
+DTEND:20261107T102500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T085000Z
+DTEND:20261114T102500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T085000Z
+DTEND:20261121T102500Z
+SUMMARY:WF 
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261205T085000Z
 DTEND:20261205T102500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T085000Z
 DTEND:20261212T102500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T085000Z
 DTEND:20261219T102500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T085000Z
 DTEND:20260109T102500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T085000Z
 DTEND:20260116T102500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T085000Z
 DTEND:20260123T102500Z
 SUMMARY:Sulo 
 LOCATION:2769
-DESCRIPTION:Systemy uzbrojenia lotniczego\nRodzaj zajęć: -\nProwadzący: por. mgr inż. Kłosiński Artur
+DESCRIPTION:Systemy uzbrojenia lotniczego\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T085000Z
 DTEND:20260130T102500Z
 SUMMARY:WF 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Fiedoruk Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261003T094000Z
+DTEND:20261003T111500Z
+SUMMARY:Śwn 
+LOCATION:
+DESCRIPTION:Śmigła i wirniki\nRodzaj zajęć: -\nProwadzący: dr inż. Majcher Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T094000Z
+DTEND:20261010T111500Z
+SUMMARY:Psipp 
+LOCATION:13036
+DESCRIPTION:Przetwarzanie sygnałów i przetworniki pomiarowe\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261017T094000Z
+DTEND:20261017T111500Z
+SUMMARY:Szn 
+LOCATION:
+DESCRIPTION:Sterowanie zespołów napędowych\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T094000Z
+DTEND:20261024T111500Z
+SUMMARY:Inesp 
+LOCATION:13636
+DESCRIPTION:Inżynieria eksploatacji SP\nRodzaj zajęć: -\nProwadzący: dr inż. Tkaczuk Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261031T104000Z
+DTEND:20261031T121500Z
+SUMMARY:MW 
+LOCATION:4663
+DESCRIPTION:mjr dr inż. Walkowiak Marzena\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Walkowiak Marzena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261107T104000Z
+DTEND:20261107T121500Z
+SUMMARY:MW 
+LOCATION:4663
+DESCRIPTION:mjr dr inż. Walkowiak Marzena\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Walkowiak Marzena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T104000Z
+DTEND:20261114T121500Z
+SUMMARY:MW 
+LOCATION:4663
+DESCRIPTION:mjr dr inż. Walkowiak Marzena\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Walkowiak Marzena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T104000Z
+DTEND:20261121T121500Z
+SUMMARY:MW 
+LOCATION:4663
+DESCRIPTION:mjr dr inż. Walkowiak Marzena\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Walkowiak Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261205T104000Z
@@ -855,7 +1506,7 @@ DTSTART:20260109T104000Z
 DTEND:20260109T121500Z
 SUMMARY:Sulo 
 LOCATION:2969
-DESCRIPTION:Systemy uzbrojenia lotniczego\nRodzaj zajęć: -\nProwadzący: por. mgr inż. Kłosiński Artur
+DESCRIPTION:Systemy uzbrojenia lotniczego\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T104000Z
@@ -877,6 +1528,55 @@ DTEND:20260130T121500Z
 SUMMARY:Psipp 
 LOCATION:13036
 DESCRIPTION:Przetwarzanie sygnałów i przetworniki pomiarowe\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261003T113000Z
+DTEND:20261003T130500Z
+SUMMARY:Śwn 
+LOCATION:
+DESCRIPTION:Śmigła i wirniki\nRodzaj zajęć: -\nProwadzący: dr inż. Majcher Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T113000Z
+DTEND:20261010T130500Z
+SUMMARY:Sulo 
+LOCATION:
+DESCRIPTION:Systemy uzbrojenia lotniczego\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Jasztal Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261017T113000Z
+DTEND:20261017T130500Z
+SUMMARY:Sulo 
+LOCATION:
+DESCRIPTION:Systemy uzbrojenia lotniczego\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T113000Z
+DTEND:20261024T130500Z
+SUMMARY:Sulo 
+LOCATION:
+DESCRIPTION:Systemy uzbrojenia lotniczego\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Jasztal Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261031T123000Z
+DTEND:20261031T140500Z
+SUMMARY:Sulo 
+LOCATION:
+DESCRIPTION:Systemy uzbrojenia lotniczego\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261114T123000Z
+DTEND:20261114T140500Z
+SUMMARY:Sulo 
+LOCATION:
+DESCRIPTION:Systemy uzbrojenia lotniczego\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T123000Z
+DTEND:20261121T140500Z
+SUMMARY:Sulo 
+LOCATION:
+DESCRIPTION:Systemy uzbrojenia lotniczego\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Jasztal Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261205T123000Z
@@ -921,6 +1621,20 @@ LOCATION:
 DESCRIPTION:Sterowanie zespołów napędowych\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261010T140000Z
+DTEND:20261010T153500Z
+SUMMARY:Psipp 
+LOCATION:13036
+DESCRIPTION:Przetwarzanie sygnałów i przetworniki pomiarowe\nRodzaj zajęć: -\nProwadzący: prof. dr hab. n. mat. inż. Gawinecki Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T150000Z
+DTEND:20261121T163500Z
+SUMMARY:Inesp 
+LOCATION:4663
+DESCRIPTION:Inżynieria eksploatacji SP\nRodzaj zajęć: -\nProwadzący: dr inż. Tkaczuk Sławomir
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261212T150000Z
 DTEND:20261212T163500Z
 SUMMARY:Śwn 
@@ -933,6 +1647,62 @@ DTEND:20261219T163500Z
 SUMMARY:Inesp 
 LOCATION:4663
 DESCRIPTION:Inżynieria eksploatacji SP\nRodzaj zajęć: -\nProwadzący: dr inż. Tkaczuk Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261004T075000Z
+DTEND:20261004T092500Z
+SUMMARY:XWF 
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261011T075000Z
+DTEND:20261011T092500Z
+SUMMARY:XWF 
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261018T075000Z
+DTEND:20261018T092500Z
+SUMMARY:XWF 
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T085000Z
+DTEND:20261025T102500Z
+SUMMARY:XWF 
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261108T085000Z
+DTEND:20261108T102500Z
+SUMMARY:XWF 
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T085000Z
+DTEND:20261115T102500Z
+SUMMARY:XWF 
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T085000Z
+DTEND:20261122T102500Z
+SUMMARY:XWF 
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261129T085000Z
+DTEND:20261129T102500Z
+SUMMARY:XWF 
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261206T085000Z

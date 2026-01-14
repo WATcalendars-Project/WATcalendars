@@ -518,7 +518,7 @@ BEGIN:VEVENT
 DTSTART:20260113T085000Z
 DTEND:20260113T102500Z
 SUMMARY:IWSL (S)
-LOCATION:1a/28
+LOCATION:1.27/135
 DESCRIPTION:Inżynieria wojskowego systemu logistycznego\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
@@ -527,6 +527,13 @@ DTEND:20260127T102500Z
 SUMMARY:LZ (S)
 LOCATION:1a/28
 DESCRIPTION:Logistyka zaopatrzenia\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: płk dr inż. Zelkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T085000Z
+DTEND:20260217T102500Z
+SUMMARY:PoF (Ep)
+LOCATION:1.9/16
+DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. Kostecki Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T094000Z
@@ -597,6 +604,13 @@ DTEND:20260113T121500Z
 SUMMARY:IWSL (S)
 LOCATION:1a/28
 DESCRIPTION:Inżynieria wojskowego systemu logistycznego\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: płk dr inż. Zelkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T104000Z
+DTEND:20260203T121500Z
+SUMMARY:PoF (E)
+LOCATION:aula/135
+DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. Kostecki Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T113000Z
@@ -1239,15 +1253,8 @@ BEGIN:VEVENT
 DTSTART:20260114T165000Z
 DTEND:20260114T182500Z
 SUMMARY:PoF (ć)
-LOCATION:4.17b/135
+LOCATION:317 S
 DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/11\nProwadzący: dr hab. Kostecki Janusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260114T184000Z
-DTEND:20260114T201500Z
-SUMMARY:PoF (ć)
-LOCATION:4.17b/135
-DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: dr hab. Kostecki Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T060000Z
@@ -1297,6 +1304,20 @@ DTEND:20260122T083500Z
 SUMMARY:Ge (w)
 LOCATION:0.7/16
 DESCRIPTION:Geografia ekonomiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Woźniak Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T070000Z
+DTEND:20260205T083500Z
+SUMMARY:Za (E)
+LOCATION:1.9/16
+DESCRIPTION:Zarządzanie\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. Przychocka Iwona
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T070000Z
+DTEND:20260219T083500Z
+SUMMARY:Za (Ep)
+LOCATION:1.9/16
+DESCRIPTION:Zarządzanie\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T075000Z
@@ -1472,6 +1493,13 @@ DTEND:20260122T121500Z
 SUMMARY:Ap (ć)
 LOCATION:1a/28
 DESCRIPTION:Administracja publiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Moch Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260129T104000Z
+DTEND:20260129T121500Z
+SUMMARY:PoF (ć)
+LOCATION:0.24/135
+DESCRIPTION:Podstawy finansów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: dr hab. Kostecki Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261002T113000Z

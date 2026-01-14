@@ -29,7 +29,7 @@ DTSTART:20261124T070000Z
 DTEND:20261124T083500Z
 SUMMARY:PoMa (ć)
 LOCATION:1.16/16
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T070000Z
@@ -43,7 +43,7 @@ DTSTART:20261215T070000Z
 DTEND:20261215T083500Z
 SUMMARY:PoTe (ć)
 LOCATION:0.8/16
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T070000Z
@@ -99,14 +99,14 @@ DTSTART:20261124T085000Z
 DTEND:20261124T102500Z
 SUMMARY:PoMa (ć)
 LOCATION:1.16/16
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T085000Z
 DTEND:20261201T102500Z
 SUMMARY:PoMa (w)
 LOCATION:aula/135
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T085000Z
@@ -221,25 +221,32 @@ LOCATION:
 DESCRIPTION:WyS\nRodzaj zajęć: -\nNumer zajęć: 6/14
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260209T104000Z
+DTEND:20260209T121500Z
+SUMMARY:PoMa (E)
+LOCATION:aula/135
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261006T113000Z
 DTEND:20261006T130500Z
 SUMMARY:PoMa (w)
 LOCATION:aula/135
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T113000Z
 DTEND:20261020T130500Z
 SUMMARY:PoTe (w)
 LOCATION:aula/135
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261117T123000Z
 DTEND:20261117T140500Z
 SUMMARY:PoMa (w)
 LOCATION:aula/135
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261208T123000Z
@@ -253,14 +260,14 @@ DTSTART:20261215T123000Z
 DTEND:20261215T140500Z
 SUMMARY:PoMa (w)
 LOCATION:aula/135
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T123000Z
 DTEND:20260112T140500Z
 SUMMARY:PoTe (ć)
 LOCATION:1.27/135
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T123000Z
@@ -288,7 +295,7 @@ DTSTART:20261124T150000Z
 DTEND:20261124T163500Z
 SUMMARY:PoMa (w)
 LOCATION:aula/135
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261201T150000Z
@@ -302,7 +309,7 @@ DTSTART:20261208T150000Z
 DTEND:20261208T163500Z
 SUMMARY:PoMa (S)
 LOCATION:1.27/135
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261215T150000Z
@@ -1016,7 +1023,7 @@ DTSTART:20261112T070000Z
 DTEND:20261112T083500Z
 SUMMARY:PoTe (w)
 LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261119T070000Z
@@ -1058,7 +1065,7 @@ DTSTART:20260107T070000Z
 DTEND:20260107T083500Z
 SUMMARY:PoMa (ć)
 LOCATION:1.16/16
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T070000Z
@@ -1072,7 +1079,7 @@ DTSTART:20260121T070000Z
 DTEND:20260121T083500Z
 SUMMARY:ZaMe (w)
 LOCATION:10W
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz; kpt.mgr Nawalicki Piotr; dr hab. inż.(prof. ucz.) Gidlewski Mirosław; prof. WAT Kler Paweł; dr hab. inż.(prof. ucz.) Jackowski Jerzy; mgr inż. Radzimierski Mariusz; dr n. społ. inż. Krupnik Dorota; mgr inż. Michałowski Bogusław; dr hab. inż. Augustyn Sławomir; kpt. mgr inż. Żmuda Marcin
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz; kpt.mgr Nawalicki Piotr; dr hab. inż.(prof. ucz.) Gidlewski Mirosław; 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.; dr hab. inż.(prof. ucz.) Jackowski Jerzy; mgr inż. Radzimierski Mariusz; dr n. społ. inż. Krupnik Dorota; mgr inż. Michałowski Bogusław; dr hab. inż. Augustyn Sławomir; kpt. mgr inż. Żmuda Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T070000Z
@@ -1121,7 +1128,7 @@ DTSTART:20261119T085000Z
 DTEND:20261119T102500Z
 SUMMARY:PoMa (S)
 LOCATION:0.21/16
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261126T085000Z
@@ -1156,7 +1163,7 @@ DTSTART:20260107T085000Z
 DTEND:20260107T102500Z
 SUMMARY:PoMa (ć)
 LOCATION:1.16/16
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T085000Z
@@ -1170,7 +1177,7 @@ DTSTART:20260121T085000Z
 DTEND:20260121T102500Z
 SUMMARY:ZaMe (w)
 LOCATION:10W
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz; kpt.mgr Nawalicki Piotr; dr hab. inż.(prof. ucz.) Gidlewski Mirosław; prof. WAT Kler Paweł; dr hab. inż.(prof. ucz.) Jackowski Jerzy; mgr inż. Radzimierski Mariusz; dr n. społ. inż. Krupnik Dorota; mgr inż. Michałowski Bogusław; dr hab. inż. Augustyn Sławomir; kpt. mgr inż. Żmuda Marcin
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz; kpt.mgr Nawalicki Piotr; dr hab. inż.(prof. ucz.) Gidlewski Mirosław; 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.; dr hab. inż.(prof. ucz.) Jackowski Jerzy; mgr inż. Radzimierski Mariusz; dr n. społ. inż. Krupnik Dorota; mgr inż. Michałowski Bogusław; dr hab. inż. Augustyn Sławomir; kpt. mgr inż. Żmuda Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T085000Z
@@ -1184,7 +1191,7 @@ DTSTART:20260204T085000Z
 DTEND:20260204T102500Z
 SUMMARY:PoTe (S)
 LOCATION:
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T094000Z
@@ -1254,7 +1261,7 @@ DTSTART:20261217T104000Z
 DTEND:20261217T121500Z
 SUMMARY:PoTe (S)
 LOCATION:3.16/135
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T104000Z
@@ -1373,14 +1380,14 @@ DTSTART:20261203T150000Z
 DTEND:20261203T163500Z
 SUMMARY:PoMa (S)
 LOCATION:0.23/16
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T150000Z
 DTEND:20261210T163500Z
 SUMMARY:PoMa (ć)
 LOCATION:0.28/135
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T150000Z
@@ -1415,7 +1422,7 @@ DTSTART:20261001T155000Z
 DTEND:20261001T172500Z
 SUMMARY:PoMa (w)
 LOCATION:aula/135
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T165000Z
@@ -1583,7 +1590,7 @@ DTSTART:20261127T085000Z
 DTEND:20261127T102500Z
 SUMMARY:PoTe (w)
 LOCATION:1.9/16; 1.10/16
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T085000Z
@@ -1747,6 +1754,13 @@ LOCATION:237 K; 238 K; 235 K; 234 K; 233 K; 232 K; 231 K; 230 K; 134 K; 133 K; 1
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/30
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260205T104000Z
+DTEND:20260205T121500Z
+SUMMARY:Otn (E)
+LOCATION:aula/135
+DESCRIPTION:Organizacja i technologia napraw\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Napadłek Wojciech
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261002T113000Z
 DTEND:20261002T130500Z
 SUMMARY:Nsl* (w)
@@ -1800,7 +1814,7 @@ DTSTART:20261127T123000Z
 DTEND:20261127T140500Z
 SUMMARY:PoTe (ć)
 LOCATION:1.16/16
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261204T123000Z
@@ -1814,7 +1828,7 @@ DTSTART:20261211T123000Z
 DTEND:20261211T140500Z
 SUMMARY:PoMa (ć)
 LOCATION:
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T123000Z
@@ -1835,7 +1849,7 @@ DTSTART:20260122T123000Z
 DTEND:20260122T140500Z
 SUMMARY:PoMa (ć)
 LOCATION:
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T123000Z
@@ -1856,7 +1870,7 @@ DTSTART:20261009T140000Z
 DTEND:20261009T153500Z
 SUMMARY:PoTe (w)
 LOCATION:aula/135
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T140000Z
@@ -1912,14 +1926,14 @@ DTSTART:20260108T150000Z
 DTEND:20260108T163500Z
 SUMMARY:PoTe (S)
 LOCATION:A.1.3/135
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T150000Z
 DTEND:20260122T163500Z
 SUMMARY:PoTe (ć)
 LOCATION:1.16/16
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T150000Z
@@ -1947,14 +1961,14 @@ DTSTART:20261211T165000Z
 DTEND:20261211T182500Z
 SUMMARY:PoMa (ć)
 LOCATION:0.23/16
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T165000Z
 DTEND:20260122T182500Z
 SUMMARY:PoTe (w)
 LOCATION:301/S
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: 135. dr inż. Piotr Szurgott. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T165000Z
@@ -1982,7 +1996,7 @@ DTSTART:20261031T070000Z
 DTEND:20261031T083500Z
 SUMMARY:PoMa (w)
 LOCATION:aula/135
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261107T070000Z
@@ -1996,7 +2010,7 @@ DTSTART:20261114T070000Z
 DTEND:20261114T083500Z
 SUMMARY:PoMa (w)
 LOCATION:aula/135
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T070000Z
@@ -2010,7 +2024,7 @@ DTSTART:20261205T070000Z
 DTEND:20261205T083500Z
 SUMMARY:PoMa (ć)
 LOCATION:0.8/16
-DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T070000Z
@@ -2039,6 +2053,13 @@ DTEND:20260130T083500Z
 SUMMARY:MrBr (w)
 LOCATION:51/62
 DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T070000Z
+DTEND:20260220T083500Z
+SUMMARY:PoMa (Ep)
+LOCATION:1.9/16
+DESCRIPTION:Podsystem materiałowy\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261003T075000Z
@@ -2298,6 +2319,13 @@ DTEND:20260123T140500Z
 SUMMARY:Bśt (S)
 LOCATION:255 S
 DESCRIPTION:Budowa środków transportowych\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: mgr inż. Radzimierski Mariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T123000Z
+DTEND:20260220T140500Z
+SUMMARY:Otn (Ep)
+LOCATION:1.9/16
+DESCRIPTION:Organizacja i technologia napraw\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261010T140000Z
