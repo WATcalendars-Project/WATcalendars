@@ -547,7 +547,7 @@ DTSTART:20260120T085000Z
 DTEND:20260120T102500Z
 SUMMARY:SzS (ć)
 LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: XMrBrd(w) WLO22FZ1S0; 135. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Milian-Pogonowska Małgorzata; 16. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.; dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T085000Z
@@ -624,7 +624,7 @@ DTSTART:20260120T104000Z
 DTEND:20260120T121500Z
 SUMMARY:SzS (ć)
 LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: XMrBrd(w) WLO22FZ1S0; 135. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Milian-Pogonowska Małgorzata; 16. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.; dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T113000Z
@@ -652,7 +652,7 @@ DTSTART:20261028T123000Z
 DTEND:20261028T140500Z
 SUMMARY:SzS (ć)
 LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: XMrBrd(w) WLO22FZ1S0; 135. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Milian-Pogonowska Małgorzata; 16. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.; dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T123000Z
@@ -722,7 +722,7 @@ DTSTART:20261028T150000Z
 DTEND:20261028T163500Z
 SUMMARY:SzS (ć)
 LOCATION:1PL/8KP; 22FO; 1S; 22FO; 2S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: XMrBrd(w) WLO22FZ1S0; 135. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Milian-Pogonowska Małgorzata; 16. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.; dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T150000Z
@@ -1087,6 +1087,13 @@ DTEND:20260128T121500Z
 SUMMARY:Ja (ć)
 LOCATION:134 K; 133 K; 131 K; 128 K; 127 K; 125 K; 124 K; 122 K; 121 K; 120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T104000Z
+DTEND:20260218T121500Z
+SUMMARY:DZSŚB (Ep)
+LOCATION:1.10/16
+DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T113000Z
@@ -1586,6 +1593,13 @@ LOCATION:aula/135
 DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260205T104000Z
+DTEND:20260205T121500Z
+SUMMARY:DZSŚB (E)
+LOCATION:1.9/16
+DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Gułaj Mariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261002T113000Z
 DTEND:20261002T130500Z
 SUMMARY:BeSL (w)
@@ -1752,6 +1766,13 @@ DTEND:20261212T083500Z
 SUMMARY:BeSL (ć)
 LOCATION:1.15/16
 DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Sieczka Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T070000Z
+DTEND:20260220T083500Z
+SUMMARY:SMa (Ep)
+LOCATION:1.10/16
+DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261003T075000Z
@@ -1948,6 +1969,13 @@ DTEND:20261114T140500Z
 SUMMARY:CL. (ć)
 LOCATION:1.27/135
 DESCRIPTION:Centra logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T123000Z
+DTEND:20260206T140500Z
+SUMMARY:SMa (E)
+LOCATION:aula/135
+DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261004T060000Z
