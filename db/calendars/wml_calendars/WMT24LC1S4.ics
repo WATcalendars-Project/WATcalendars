@@ -606,6 +606,13 @@ LOCATION:1867
 DESCRIPTION:Prelp\nRodzaj zajęć: -\nProwadzący: mgr inż. Janczewski Mariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260204T085000Z
+DTEND:20260204T102500Z
+SUMMARY:Moelp 
+LOCATION:3367
+DESCRIPTION:Modelowanie elementów płatowca i zespołu napędowego\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T085000Z
 DTEND:20260304T102500Z
 SUMMARY:Zprko 
@@ -681,6 +688,13 @@ DTEND:20260121T121500Z
 SUMMARY:Ary 
 LOCATION:4367
 DESCRIPTION:Analiza ryzyka\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T104000Z
+DTEND:20260128T121500Z
+SUMMARY:Moelp 
+LOCATION:4563
+DESCRIPTION:Modelowanie elementów płatowca i zespołu napędowego\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T104000Z
@@ -849,13 +863,6 @@ DTEND:20260108T083500Z
 SUMMARY:PZ 
 LOCATION:
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260122T070000Z
-DTEND:20260122T083500Z
-SUMMARY:Moelp 
-LOCATION:
-DESCRIPTION:Modelowanie elementów płatowca i zespołu napędowego\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T070000Z

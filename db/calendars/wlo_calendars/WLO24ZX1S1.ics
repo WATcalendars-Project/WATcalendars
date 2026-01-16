@@ -172,6 +172,13 @@ LOCATION:0.19/135
 DESCRIPTION:Nowe modele biznesowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Sołek-Borowska Celina
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260203T070000Z
+DTEND:20260203T083500Z
+SUMMARY:TZ (E)
+LOCATION:0.28/135
+DESCRIPTION:Techniki zarządzania\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Wojciechowski Zdzislaw
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261007T075000Z
 DTEND:20261007T092500Z
 SUMMARY:ZsK (w)
@@ -317,13 +324,6 @@ DTEND:20260127T121500Z
 SUMMARY:Nmb (ć)
 LOCATION:aula/135
 DESCRIPTION:Nowe modele biznesowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Sołek-Borowska Celina
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260203T104000Z
-DTEND:20260203T121500Z
-SUMMARY:TZ (E)
-LOCATION:0.28/135
-DESCRIPTION:Techniki zarządzania\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Wojciechowski Zdzislaw
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T113000Z
@@ -991,6 +991,13 @@ LOCATION:4.17a/135
 DESCRIPTION:Badania marketingowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr Pawlak Katarzyna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260121T165000Z
+DTEND:20260121T182500Z
+SUMMARY:ZPr (w)
+LOCATION:3.16/135
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: prof. dr hab. inż. Zaskórski Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261112T184000Z
 DTEND:20261112T201500Z
 SUMMARY:ZPr (L)
@@ -1003,6 +1010,13 @@ DTEND:20261119T201500Z
 SUMMARY:Rf (ć)
 LOCATION:255 S
 DESCRIPTION:Rachunkowość finansowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: dr Szczerbak Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T184000Z
+DTEND:20260121T201500Z
+SUMMARY:ZPr (w)
+LOCATION:3.16/135
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: prof. dr hab. inż. Zaskórski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261023T060000Z
@@ -1586,24 +1600,10 @@ LOCATION:1.17/16
 DESCRIPTION:Nowe modele biznesowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Sołek-Borowska Celina
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260116T165000Z
-DTEND:20260116T182500Z
-SUMMARY:ZPr (w)
-LOCATION:0.8/16
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: prof. dr hab. inż. Zaskórski Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261010T174000Z
 DTEND:20261010T191500Z
 SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260116T184000Z
-DTEND:20260116T201500Z
-SUMMARY:ZPr (w)
-LOCATION:0.8/16
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: prof. dr hab. inż. Zaskórski Piotr
 END:VEVENT
 END:VCALENDAR

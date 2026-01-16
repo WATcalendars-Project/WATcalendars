@@ -60,6 +60,13 @@ LOCATION:9/158
 DESCRIPTION:SYSTEM\nRodzaj zajęć: -\nNumer zajęć: 5/44\nProwadzący: dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260126T104000Z
+DTEND:20260126T121500Z
+SUMMARY:Admin. 
+LOCATION:5.17/135
+DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 2/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261208T123000Z
 DTEND:20261208T140500Z
 SUMMARY:SYSTEM 
@@ -128,13 +135,6 @@ DTEND:20260119T182500Z
 SUMMARY:ORGANIZACJA 
 LOCATION:0.6/16
 DESCRIPTION:ORGANIZACJA\nRodzaj zajęć: -\nNumer zajęć: 4/17\nProwadzący: dr inż. Piwowarczyk Ryszard; dr Jacuch Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260119T184000Z
-DTEND:20260119T201500Z
-SUMMARY:Admin. 
-LOCATION:0.6/16
-DESCRIPTION:Admin.\nRodzaj zajęć: -\nNumer zajęć: 2/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł; dr inż. Piwowarczyk Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T060000Z
@@ -214,13 +214,6 @@ LOCATION:37/158
 DESCRIPTION:SIŁY\nRodzaj zajęć: -\nNumer zajęć: 11/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260127T085000Z
-DTEND:20260127T102500Z
-SUMMARY:SIŁY 
-LOCATION:1/22
-DESCRIPTION:SIŁY\nRodzaj zajęć: -\nNumer zajęć: 12/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260203T085000Z
 DTEND:20260203T102500Z
 SUMMARY:SYSTEM 
@@ -246,14 +239,14 @@ DTSTART:20261125T104000Z
 DTEND:20261125T121500Z
 SUMMARY:SIŁY 
 LOCATION:37/158
-DESCRIPTION:SIŁY\nRodzaj zajęć: -\nNumer zajęć: 13/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł
+DESCRIPTION:SIŁY\nRodzaj zajęć: -\nNumer zajęć: 12/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T104000Z
 DTEND:20261209T121500Z
 SUMMARY:SIŁY 
 LOCATION:255 S
-DESCRIPTION:SIŁY\nRodzaj zajęć: -\nNumer zajęć: 14/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł
+DESCRIPTION:SIŁY\nRodzaj zajęć: -\nNumer zajęć: 13/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T104000Z
@@ -267,7 +260,7 @@ DTSTART:20260127T104000Z
 DTEND:20260127T121500Z
 SUMMARY:SIŁY 
 LOCATION:1/22
-DESCRIPTION:SIŁY\nRodzaj zajęć: -\nNumer zajęć: 15/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł
+DESCRIPTION:SIŁY\nRodzaj zajęć: -\nNumer zajęć: 14/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T113000Z
@@ -295,7 +288,7 @@ DTSTART:20261209T123000Z
 DTEND:20261209T140500Z
 SUMMARY:SIŁY 
 LOCATION:255 S
-DESCRIPTION:SIŁY\nRodzaj zajęć: -\nNumer zajęć: 16/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł
+DESCRIPTION:SIŁY\nRodzaj zajęć: -\nNumer zajęć: 15/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T123000Z
@@ -309,7 +302,7 @@ DTSTART:20260127T123000Z
 DTEND:20260127T140500Z
 SUMMARY:SIŁY 
 LOCATION:1/22
-DESCRIPTION:SIŁY\nRodzaj zajęć: -\nNumer zajęć: 17/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł
+DESCRIPTION:SIŁY\nRodzaj zajęć: -\nNumer zajęć: 16/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261118T150000Z
@@ -863,6 +856,13 @@ DTEND:20260116T102500Z
 SUMMARY:MIĘDZYNARODOWE 
 LOCATION:26/158
 DESCRIPTION:MIĘDZYNARODOWE\nRodzaj zajęć: -\nNumer zajęć: 22/34\nProwadzący: dr Stawarz Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T085000Z
+DTEND:20260130T102500Z
+SUMMARY:SIŁY 
+LOCATION:1.15/16
+DESCRIPTION:SIŁY\nRodzaj zajęć: -\nNumer zajęć: 17/17\nProwadzący: dr Kostrzewa-Zorbas Grzegorz; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T085000Z

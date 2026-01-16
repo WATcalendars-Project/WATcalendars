@@ -459,13 +459,6 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 8/29
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260930T075000Z
-DTEND:20260930T092500Z
-SUMMARY:Mps. (Ep)
-LOCATION:3.16/135
-DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261007T075000Z
 DTEND:20261007T092500Z
 SUMMARY:SSW 
@@ -884,13 +877,6 @@ DTEND:20260128T083500Z
 SUMMARY:SMa (w)
 LOCATION:1.9/16; 1.10/16
 DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: ppłk dr inż. Grzelak Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260204T070000Z
-DTEND:20260204T083500Z
-SUMMARY:DZSŚB (ć)
-LOCATION:0.7/16
-DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T075000Z
@@ -1730,7 +1716,7 @@ DTSTART:20260116T070000Z
 DTEND:20260116T083500Z
 SUMMARY:DZSŚB (ć)
 LOCATION:0.8/16
-DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Gułaj Mariusz
+DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T070000Z
@@ -1955,6 +1941,13 @@ DTEND:20261205T140500Z
 SUMMARY:SMa (L)
 LOCATION:0.8/16
 DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260116T123000Z
+DTEND:20260116T140500Z
+SUMMARY:DZSŚB (ć)
+LOCATION:0.23/16
+DESCRIPTION:Działalność służby środków bojowych w czasie pokoju, kryzysu, wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T123000Z

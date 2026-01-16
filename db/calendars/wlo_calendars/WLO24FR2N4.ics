@@ -522,13 +522,6 @@ LOCATION:0.6/16
 DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260117T165000Z
-DTEND:20260117T182500Z
-SUMMARY:RwSL (ć)
-LOCATION:1.27/135
-DESCRIPTION:Ryzyko w systemach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Lewiński Ryszard
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260131T165000Z
 DTEND:20260131T182500Z
 SUMMARY:PADL (L)
@@ -555,13 +548,6 @@ DTEND:20260110T201500Z
 SUMMARY:PADL (S)
 LOCATION:0.6/16
 DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr inż. Owczarek Paulina
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260117T184000Z
-DTEND:20260117T201500Z
-SUMMARY:RwSL (ć)
-LOCATION:1.27/135
-DESCRIPTION:Ryzyko w systemach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Lewiński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T184000Z
@@ -991,10 +977,24 @@ LOCATION:0.8/16
 DESCRIPTION:Military vehicles\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Papliński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260118T150000Z
+DTEND:20260118T163500Z
+SUMMARY:RwSL (ć)
+LOCATION:1.27/135
+DESCRIPTION:Ryzyko w systemach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Lewiński Ryszard
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260201T150000Z
 DTEND:20260201T163500Z
 SUMMARY:TT (w)
 LOCATION:3.16/135
 DESCRIPTION:Technologie transportowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Głodowska Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T165000Z
+DTEND:20260118T182500Z
+SUMMARY:RwSL (ć)
+LOCATION:1.27/135
+DESCRIPTION:Ryzyko w systemach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Lewiński Ryszard
 END:VEVENT
 END:VCALENDAR

@@ -914,13 +914,6 @@ LOCATION:00336
 DESCRIPTION:Weryfikacja, operacje lotnicze finalizacja projektu bezzałogowej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260212T070000Z
-DTEND:20260212T083500Z
-SUMMARY:Werop 
-LOCATION:1867
-DESCRIPTION:Weryfikacja, operacje lotnicze finalizacja projektu bezzałogowej\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261120T085000Z
 DTEND:20261120T102500Z
 SUMMARY:Pobbs 
@@ -982,13 +975,6 @@ DTEND:20260205T102500Z
 SUMMARY:Senak 
 LOCATION:
 DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260212T085000Z
-DTEND:20260212T102500Z
-SUMMARY:Werop 
-LOCATION:1867
-DESCRIPTION:Weryfikacja, operacje lotnicze finalizacja projektu bezzałogowej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T085000Z
@@ -1250,6 +1236,13 @@ LOCATION:10463A
 DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260116T085000Z
+DTEND:20260116T102500Z
+SUMMARY:Senak 
+LOCATION:10363A
+DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260123T085000Z
 DTEND:20260123T102500Z
 SUMMARY:Ukewa 
@@ -1269,6 +1262,13 @@ DTEND:20260206T102500Z
 SUMMARY:Senak 
 LOCATION:
 DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260213T085000Z
+DTEND:20260213T102500Z
+SUMMARY:Werop 
+LOCATION:4367
+DESCRIPTION:Weryfikacja, operacje lotnicze finalizacja projektu bezzałogowej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T104000Z
@@ -1299,18 +1299,18 @@ LOCATION:00336
 DESCRIPTION:Weryfikacja, operacje lotnicze finalizacja projektu bezzałogowej\nRodzaj zajęć: -\nProwadzący: mgr inż. Djabin Jakub
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260116T104000Z
-DTEND:20260116T121500Z
-SUMMARY:Senak 
-LOCATION:1663
-DESCRIPTION:Sensory, akwizycja i analiza danych BPL w układzie wielowirnikowym\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260123T104000Z
 DTEND:20260123T121500Z
 SUMMARY:Budko 
 LOCATION:1725
 DESCRIPTION:Budko\nRodzaj zajęć: -\nProwadzący: dr inż. Sarzyński Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260213T104000Z
+DTEND:20260213T121500Z
+SUMMARY:Werop 
+LOCATION:4367
+DESCRIPTION:Weryfikacja, operacje lotnicze finalizacja projektu bezzałogowej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T123000Z

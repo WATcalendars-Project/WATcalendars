@@ -188,9 +188,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T104000Z
 DTEND:20260302T121500Z
-SUMMARY:F1 (ć)
+SUMMARY:MBIM (w)
 LOCATION:11/ 34
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: prof.dr hab.inż. Jaroszewicz Leszek
+DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T113000Z
@@ -494,6 +494,13 @@ LOCATION:aF S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: mgr Łukasik Sebastian
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260303T123000Z
+DTEND:20260303T140500Z
+SUMMARY:PTMI (w)
+LOCATION:166 S
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr inż. Zarański Zbigniew
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261028T150000Z
 DTEND:20261028T163500Z
 SUMMARY:PZiP (ć)
@@ -620,6 +627,13 @@ LOCATION:
 DESCRIPTION:Ing\nRodzaj zajęć: -\nNumer zajęć: 1/2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260304T085000Z
+DTEND:20260304T102500Z
+SUMMARY:MBIM (w)
+LOCATION:11/ 34
+DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Zasada Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261008T094000Z
 DTEND:20261008T111500Z
 SUMMARY:Ing 
@@ -639,6 +653,13 @@ DTEND:20260204T121500Z
 SUMMARY:M1 (E)
 LOCATION:aF S
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Jastrzębska Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T104000Z
+DTEND:20260304T121500Z
+SUMMARY:PTMI (w)
+LOCATION:166 S
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Zarański Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T123000Z
@@ -884,6 +905,13 @@ DTEND:20261218T083500Z
 SUMMARY:PGI (w)
 LOCATION:1 55A
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Łyszkowski Radosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T070000Z
+DTEND:20260305T083500Z
+SUMMARY:Che (w)
+LOCATION:109 24
+DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Urbańska Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261211T085000Z
@@ -1166,6 +1194,13 @@ LOCATION:aF S
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Zp.\nNumer zajęć: 1/1\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260306T070000Z
+DTEND:20260306T083500Z
+SUMMARY:WMe (L)
+LOCATION:20/ 34
+DESCRIPTION:Warsztaty mechaniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr inż. Siemiaszko Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261121T085000Z
 DTEND:20261121T102500Z
 SUMMARY:Mat2 (w)
@@ -1199,6 +1234,13 @@ DTEND:20260130T102500Z
 SUMMARY:PGI (ć)
 LOCATION:26/ 34
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr inż. Łyszkowski Radosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T085000Z
+DTEND:20260306T102500Z
+SUMMARY:WMe (L)
+LOCATION:20/ 34
+DESCRIPTION:Warsztaty mechaniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr inż. Siemiaszko Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261010T094000Z
@@ -1290,6 +1332,13 @@ DTEND:20260130T121500Z
 SUMMARY:Mat2 (w)
 LOCATION:aF S
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 17/18\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T104000Z
+DTEND:20260306T121500Z
+SUMMARY:F1 (ć)
+LOCATION:11/ 34
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: prof.dr hab.inż. Jaroszewicz Leszek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261003T113000Z

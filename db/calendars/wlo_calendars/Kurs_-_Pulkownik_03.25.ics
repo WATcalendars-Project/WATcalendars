@@ -4,13 +4,6 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Kurs_-_Pulkownik_03.25
 BEGIN:VEVENT
-DTSTART:20260929T060000Z
-DTEND:20260929T073500Z
-SUMMARY:Ćgr. (ć)
-LOCATION:5.17/135
-DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/16\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Pkzl(ć) K - PŁK 03.25 Guł 0.23; TJ 5.17
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261006T060000Z
 DTEND:20261006T073500Z
 SUMMARY:Pkzl (ć)
@@ -22,14 +15,7 @@ DTSTART:20261013T060000Z
 DTEND:20261013T073500Z
 SUMMARY:FTSZL (w)
 LOCATION:0.23/16
-DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; dr inż. Nagrabski Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260929T075000Z
-DTEND:20260929T092500Z
-SUMMARY:Ćgr. (ć)
-LOCATION:5.17/135
-DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/16\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Pkzl(ć) K - PŁK 03.25 Guł 0.23; TJ 5.17
+DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; Fpt(ć) K - PŁK 03.25 Szy.K 0.23; dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T075000Z
@@ -43,14 +29,7 @@ DTSTART:20261013T075000Z
 DTEND:20261013T092500Z
 SUMMARY:FTSZL (ć)
 LOCATION:0.23/16
-DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Spzl(ć) K - PŁK 03.25 Ka.M. 0.23
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260929T094000Z
-DTEND:20260929T111500Z
-SUMMARY:Ćgr. (ć)
-LOCATION:5.17/135
-DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/16\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Pkzl(ć) K - PŁK 03.25 Guł 0.23; TJ 5.17
+DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; Fpt(ć) K - PŁK 03.25 Szy.K 0.23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T094000Z
@@ -65,13 +44,6 @@ DTEND:20261013T111500Z
 SUMMARY:Pkzl (S)
 LOCATION:0.23/16
 DESCRIPTION:Planowanie i kierowanie zabezpieczeniem logistycznym wojsk na szczeblu taktycznym i operacyjnym\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: dr Gułaj Mariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260929T113000Z
-DTEND:20260929T130500Z
-SUMMARY:Ćgr. (ć)
-LOCATION:5.17/135
-DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/16\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Pkzl(ć) K - PŁK 03.25 Guł 0.23; TJ 5.17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T113000Z
@@ -95,53 +67,32 @@ LOCATION:
 DESCRIPTION:System planowania zasobów logistycznych i usług\nRodzaj zajęć: (sksz.)\nNumer zajęć: 1/2\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260930T060000Z
-DTEND:20260930T073500Z
-SUMMARY:Ćgr. (ć)
-LOCATION:5.17/135
-DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/16\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Pkzl(ć) K - PŁK 03.25 Guł 0.23; TJ 5.17
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261007T060000Z
 DTEND:20261007T073500Z
 SUMMARY:FTSZL (w)
 LOCATION:0.23/16
-DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; dr inż. Nagrabski Dariusz
+DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; Fpt(ć) K - PŁK 03.25 Szy.K 0.23; dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T060000Z
 DTEND:20261014T073500Z
 SUMMARY:FTSZL (S)
 LOCATION:0.23/16
-DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; dr inż. Nagrabski Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260930T075000Z
-DTEND:20260930T092500Z
-SUMMARY:Ćgr. (ć)
-LOCATION:5.17/135
-DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/16\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Pkzl(ć) K - PŁK 03.25 Guł 0.23; TJ 5.17
+DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; Fpt(ć) K - PŁK 03.25 Szy.K 0.23; dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T075000Z
 DTEND:20261007T092500Z
 SUMMARY:FTSZL (w)
 LOCATION:0.23/16
-DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; dr inż. Nagrabski Dariusz
+DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; Fpt(ć) K - PŁK 03.25 Szy.K 0.23; dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T075000Z
 DTEND:20261014T092500Z
 SUMMARY:FTSZL (S)
 LOCATION:0.23/16
-DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; dr inż. Nagrabski Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260930T094000Z
-DTEND:20260930T111500Z
-SUMMARY:Ćgr. (ć)
-LOCATION:5.17/135
-DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/16\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Pkzl(ć) K - PŁK 03.25 Guł 0.23; TJ 5.17
+DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; Fpt(ć) K - PŁK 03.25 Szy.K 0.23; dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T094000Z
@@ -155,14 +106,7 @@ DTSTART:20261014T094000Z
 DTEND:20261014T111500Z
 SUMMARY:Fpt (ć)
 LOCATION:0.23/16
-DESCRIPTION:Funkcjonowanie podsystemu transportu i ruch wojsk w procesie zabezpieczenia potrzeb transportowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; FTSZL(w) K - PŁK 03.25 DN 0.23; mgr inż. Szymański Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260930T113000Z
-DTEND:20260930T130500Z
-SUMMARY:Ćgr. (ć)
-LOCATION:5.17/135
-DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/16\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Pkzl(ć) K - PŁK 03.25 Guł 0.23; TJ 5.17
+DESCRIPTION:Funkcjonowanie podsystemu transportu i ruch wojsk w procesie zabezpieczenia potrzeb transportowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: FTSZL(w) K - PŁK 03.25 DN 0.23; FTSZL(S) K - PŁK 03.25 DN 0.23; mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261007T113000Z
@@ -183,14 +127,14 @@ DTSTART:20261001T060000Z
 DTEND:20261001T073500Z
 SUMMARY:Ćgr. (ć)
 LOCATION:5.17/135
-DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/16\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Pkzl(ć) K - PŁK 03.25 Guł 0.23; TJ 5.17
+DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: Pkzl(ć) K - PŁK 03.25 Guł 0.23; FTSZL(w) K - PŁK 03.25 DN 0.23; dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T060000Z
 DTEND:20261008T073500Z
 SUMMARY:FTSZL (w)
 LOCATION:0.23/16
-DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; dr inż. Nagrabski Dariusz
+DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; Fpt(ć) K - PŁK 03.25 Szy.K 0.23; dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T060000Z
@@ -204,14 +148,14 @@ DTSTART:20261001T075000Z
 DTEND:20261001T092500Z
 SUMMARY:Ćgr. (ć)
 LOCATION:5.17/135
-DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/16\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Pkzl(ć) K - PŁK 03.25 Guł 0.23; TJ 5.17
+DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: Pkzl(ć) K - PŁK 03.25 Guł 0.23; FTSZL(w) K - PŁK 03.25 DN 0.23; dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T075000Z
 DTEND:20261008T092500Z
 SUMMARY:FTSZL (ć)
 LOCATION:0.23/16
-DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; dr inż. Nagrabski Dariusz
+DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; Fpt(ć) K - PŁK 03.25 Szy.K 0.23; dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261015T075000Z
@@ -225,7 +169,7 @@ DTSTART:20261001T094000Z
 DTEND:20261001T111500Z
 SUMMARY:Ćgr. (ć)
 LOCATION:5.17/135
-DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/16\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Pkzl(ć) K - PŁK 03.25 Guł 0.23; TJ 5.17
+DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: Pkzl(ć) K - PŁK 03.25 Guł 0.23; FTSZL(w) K - PŁK 03.25 DN 0.23; dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T094000Z
@@ -239,14 +183,14 @@ DTSTART:20261015T094000Z
 DTEND:20261015T111500Z
 SUMMARY:FTSZL (S)
 LOCATION:0.23/16
-DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; dr inż. Nagrabski Dariusz
+DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; Fpt(ć) K - PŁK 03.25 Szy.K 0.23; dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T113000Z
 DTEND:20261001T130500Z
 SUMMARY:Ćgr. (ć)
 LOCATION:5.17/135
-DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/16\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Pkzl(ć) K - PŁK 03.25 Guł 0.23; TJ 5.17
+DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: Pkzl(ć) K - PŁK 03.25 Guł 0.23; FTSZL(w) K - PŁK 03.25 DN 0.23; dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T113000Z
@@ -267,7 +211,7 @@ DTSTART:20261002T060000Z
 DTEND:20261002T073500Z
 SUMMARY:Ćgr. (ć)
 LOCATION:5.17/135
-DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/16\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Pkzl(ć) K - PŁK 03.25 Guł 0.23; TJ 5.17
+DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: Pkzl(ć) K - PŁK 03.25 Guł 0.23; FTSZL(w) K - PŁK 03.25 DN 0.23; dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T060000Z
@@ -281,14 +225,14 @@ DTSTART:20261016T060000Z
 DTEND:20261016T073500Z
 SUMMARY:Egz. (E)
 LOCATION:1.27/135
-DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/3\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Nrk(ć) K - PŁK 03.25 Jani 19 25; TJ 5.17; dr Woźniak Jacek
+DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/3\nProwadzący: Nrk(ć) K - PŁK 03.25 Jani 19 25; dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261002T075000Z
 DTEND:20261002T092500Z
 SUMMARY:Ćgr. (ć)
 LOCATION:5.17/135
-DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/16\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Pkzl(ć) K - PŁK 03.25 Guł 0.23; TJ 5.17
+DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: Pkzl(ć) K - PŁK 03.25 Guł 0.23; FTSZL(w) K - PŁK 03.25 DN 0.23; dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T075000Z
@@ -302,14 +246,14 @@ DTSTART:20261016T075000Z
 DTEND:20261016T092500Z
 SUMMARY:Egz. (E)
 LOCATION:1.27/135
-DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/3\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Nrk(ć) K - PŁK 03.25 Jani 19 25; TJ 5.17; dr Woźniak Jacek
+DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/3\nProwadzący: Nrk(ć) K - PŁK 03.25 Jani 19 25; dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261002T094000Z
 DTEND:20261002T111500Z
 SUMMARY:Ćgr. (ć)
 LOCATION:5.17/135
-DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/16\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Pkzl(ć) K - PŁK 03.25 Guł 0.23; TJ 5.17
+DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: Pkzl(ć) K - PŁK 03.25 Guł 0.23; FTSZL(w) K - PŁK 03.25 DN 0.23; dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T094000Z
@@ -323,21 +267,21 @@ DTSTART:20261016T094000Z
 DTEND:20261016T111500Z
 SUMMARY:Egz. (E)
 LOCATION:1.27/135
-DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 3/3\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Nrk(ć) K - PŁK 03.25 Jani 19 25; TJ 5.17; dr Woźniak Jacek
+DESCRIPTION:Egzamin\nRodzaj zajęć: Egzamin\nNumer zajęć: 3/3\nProwadzący: Nrk(ć) K - PŁK 03.25 Jani 19 25; dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261002T113000Z
 DTEND:20261002T130500Z
 SUMMARY:Ćgr. (ć)
 LOCATION:5.17/135
-DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/16\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Pkzl(ć) K - PŁK 03.25 Guł 0.23; TJ 5.17
+DESCRIPTION:Ćwiczenie grupowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: Pkzl(ć) K - PŁK 03.25 Guł 0.23; FTSZL(w) K - PŁK 03.25 DN 0.23; dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261009T113000Z
 DTEND:20261009T130500Z
 SUMMARY:FTSZL (w)
 LOCATION:0.23/16
-DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: Ćgr.(ć) K - PŁK 03.25 Guł; Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; dr inż. Nagrabski Dariusz
+DESCRIPTION:Funkcjonowanie terytorialnego systemu zabezpieczenia logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: Spzl(ć) K - PŁK 03.25 Ka.M. 0.23; Fpt(ć) K - PŁK 03.25 Szy.K 0.23; dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261003T060000Z

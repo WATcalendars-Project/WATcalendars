@@ -396,13 +396,6 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1/6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260930T075000Z
-DTEND:20260930T092500Z
-SUMMARY:ZOŻW (Ep)
-LOCATION:1.15/16
-DESCRIPTION:Zasady organizacji żywienia w czasie wojny\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Spychała Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261014T075000Z
 DTEND:20261014T092500Z
 SUMMARY:ZOWO (ć)
@@ -436,6 +429,13 @@ DTEND:20260120T102500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 2/6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T085000Z
+DTEND:20260217T102500Z
+SUMMARY:ZOWO (Ep)
+LOCATION:1.10/16
+DESCRIPTION:Zasady organizacji wojskowych obiektów żywienia\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T094000Z
@@ -905,6 +905,13 @@ DTEND:20260128T121500Z
 SUMMARY:Ja (ć)
 LOCATION:134 K; 133 K; 131 K; 128 K; 127 K; 125 K; 124 K; 122 K; 121 K; 120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T104000Z
+DTEND:20260204T121500Z
+SUMMARY:ZOWO (E)
+LOCATION:1.9/16
+DESCRIPTION:Zasady organizacji wojskowych obiektów żywienia\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261008T113000Z
@@ -1502,6 +1509,13 @@ LOCATION:
 DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: ppłk dr inż. Grzelak Małgorzata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260220T070000Z
+DTEND:20260220T083500Z
+SUMMARY:SMa (Ep)
+LOCATION:1.10/16
+DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261003T075000Z
 DTEND:20261003T092500Z
 SUMMARY:WF (ć)
@@ -1761,6 +1775,13 @@ LOCATION:
 DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260206T123000Z
+DTEND:20260206T140500Z
+SUMMARY:SMa (E)
+LOCATION:aula/135
+DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Grzelak Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260109T150000Z
 DTEND:20260109T163500Z
 SUMMARY:BeSL (L)
@@ -1877,27 +1898,27 @@ DTSTART:20261011T075000Z
 DTEND:20261011T092500Z
 SUMMARY:XMrBrd (w)
 LOCATION:1.16/16. dr
-DESCRIPTION:XMechanika ruchu i bezpieczeństwo ruchu drogowego.\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: WLO22FO1S0 Sala 1.16; 16. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.; 135. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.; XMrBrd(w) WLO22FZ1S0
+DESCRIPTION:XMechanika ruchu i bezpieczeństwo ruchu drogowego.\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: WLO22FO1S0 Sala 1.10; 135. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.; XMrBrd(w) WLO22FZ1S0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261220T104000Z
 DTEND:20261220T121500Z
 SUMMARY:XMrBrd (w)
 LOCATION:4.17b/135. dr
-DESCRIPTION:XMechanika ruchu i bezpieczeństwo ruchu drogowego.\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: WLO22FO1S0 Sala 1.16; 16. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.; 135. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.; XMrBrd(w) WLO22FZ1S0
+DESCRIPTION:XMechanika ruchu i bezpieczeństwo ruchu drogowego.\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: WLO22FO1S0 Sala 1.10; 135. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.; XMrBrd(w) WLO22FZ1S0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T123000Z
 DTEND:20261025T140500Z
 SUMMARY:XMrBrd (w)
 LOCATION:1.10/135. dr
-DESCRIPTION:XMechanika ruchu i bezpieczeństwo ruchu drogowego.\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: WLO22FO1S0 Sala 1.16; 16. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.; 135. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.; XMrBrd(w) WLO22FZ1S0
+DESCRIPTION:XMechanika ruchu i bezpieczeństwo ruchu drogowego.\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: WLO22FO1S0 Sala 1.10; 135. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.; XMrBrd(w) WLO22FZ1S0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261025T150000Z
 DTEND:20261025T163500Z
 SUMMARY:XMrBrd (w)
 LOCATION:1.10/135. dr
-DESCRIPTION:XMechanika ruchu i bezpieczeństwo ruchu drogowego.\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: WLO22FO1S0 Sala 1.16; 16. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.; 135. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.; XMrBrd(w) WLO22FZ1S0
+DESCRIPTION:XMechanika ruchu i bezpieczeństwo ruchu drogowego.\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: WLO22FO1S0 Sala 1.10; 135. dr inż. Mateusz Ziubiński. Zajęcia dla osób powtarzających przedmiot.; XMrBrd(w) WLO22FZ1S0
 END:VEVENT
 END:VCALENDAR
