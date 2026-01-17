@@ -1553,9 +1553,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T085000Z
 DTEND:20260306T102500Z
-SUMMARY:Nmo 
+SUMMARY:SwSM 
 LOCATION:4663
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Fikus Bartosz
+DESCRIPTION:Sterowanie w systemach mechatronicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261003T094000Z
@@ -1614,13 +1614,6 @@ LOCATION:
 DESCRIPTION:Wprowadzenie do mechatroniki\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Bużantowicz Witold
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260306T104000Z
-DTEND:20260306T121500Z
-SUMMARY:Nmo 
-LOCATION:4663
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Fikus Bartosz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261003T113000Z
 DTEND:20261003T130500Z
 SUMMARY:Ucm 
@@ -1675,6 +1668,13 @@ DTEND:20260130T140500Z
 SUMMARY:WdM 
 LOCATION:
 DESCRIPTION:Wprowadzenie do mechatroniki\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Bużantowicz Witold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T123000Z
+DTEND:20260306T140500Z
+SUMMARY:Nmo 
+LOCATION:4663
+DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Fikus Bartosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261003T140000Z

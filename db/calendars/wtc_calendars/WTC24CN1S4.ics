@@ -53,6 +53,13 @@ LOCATION:109 24
 DESCRIPTION:Prognozowanie skutków wybuchu\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/4\nProwadzący: prof.dr hab.inż. Trzciński Waldemar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260302T070000Z
+DTEND:20260302T083500Z
+SUMMARY:Mpr (w)
+LOCATION:10 55
+DESCRIPTION:Materiały promieniotwórcze\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Oszczak-Nowińska Agata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261006T075000Z
 DTEND:20261006T092500Z
 SUMMARY:Psw (w)
@@ -139,9 +146,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T085000Z
 DTEND:20260302T102500Z
-SUMMARY:Mpr (w)
-LOCATION:10 55
-DESCRIPTION:Materiały promieniotwórcze\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Oszczak-Nowińska Agata
+SUMMARY:Sd. (S)
+LOCATION:109 24
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Dziura Aleksandra
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T094000Z
@@ -230,9 +237,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T104000Z
 DTEND:20260302T121500Z
-SUMMARY:Sd. (S)
+SUMMARY:Ldy (L)
 LOCATION:109 24
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Dziura Aleksandra
+DESCRIPTION:Laboratorium dyplomowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/1\nProwadzący: dr inż. Dziura Aleksandra
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T113000Z
@@ -317,13 +324,6 @@ DTEND:20260126T140500Z
 SUMMARY:Kry (w)
 LOCATION:2 5
 DESCRIPTION:Krystalografia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Chrunik Maciej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260302T123000Z
-DTEND:20260302T140500Z
-SUMMARY:Ldy (L)
-LOCATION:109 24
-DESCRIPTION:Laboratorium dyplomowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/1\nProwadzący: dr inż. Dziura Aleksandra
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T140000Z
@@ -802,6 +802,13 @@ LOCATION:108 24
 DESCRIPTION:Presentation of scientific and technical subjects\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: dr hab. inż. Oton Martinez Eva
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260304T070000Z
+DTEND:20260304T083500Z
+SUMMARY:Sd. (S)
+LOCATION:1 55A
+DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr hab. inż Harmata Władysław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261001T075000Z
 DTEND:20261001T092500Z
 SUMMARY:Psw (w)
@@ -982,13 +989,6 @@ DTEND:20260218T121500Z
 SUMMARY:Sch (Ep)
 LOCATION:1 55A
 DESCRIPTION:Sensory chemiczne\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Grabka Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260304T104000Z
-DTEND:20260304T121500Z
-SUMMARY:Sd. (S)
-LOCATION:1 55A
-DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr hab. inż Harmata Władysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T113000Z

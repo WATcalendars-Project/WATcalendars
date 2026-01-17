@@ -127,7 +127,7 @@ DTSTART:20260302T085000Z
 DTEND:20260302T102500Z
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: prof.dr hab.inż. Jaroszewicz Leszek
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: mgr inż. Jakubowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261006T094000Z
@@ -604,6 +604,13 @@ DTEND:20260217T121500Z
 SUMMARY:HP (Ep)
 LOCATION:19 36
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Jasiński Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T104000Z
+DTEND:20260303T121500Z
+SUMMARY:F1 (ć)
+LOCATION:166 S
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: mgr inż. Jakubowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T113000Z

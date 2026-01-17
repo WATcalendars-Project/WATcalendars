@@ -88,6 +88,13 @@ LOCATION:2PL/9KP; 21EW; 1S; 21CO; 1S; 0 ST; 1 T
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: mjr dr inż. Walkowiak Marzena; dr hab. Kożuch Artur Jacek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260929T075000Z
+DTEND:20260929T092500Z
+SUMMARY:ORW (Ep)
+LOCATION:0.6/16
+DESCRIPTION:Organizacja rachunkowości wojska\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: płk dr hab. Stańczyk Konrad
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261006T075000Z
 DTEND:20261006T092500Z
 SUMMARY:PiRP (w)
@@ -809,6 +816,13 @@ LOCATION:
 DESCRIPTION:Przemysł obronny\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260128T070000Z
+DTEND:20260128T083500Z
+SUMMARY:A.Wew. (E)
+LOCATION:1.15/16
+DESCRIPTION:Audyt wewnętrzny\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. Kożuch Artur Jacek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261001T075000Z
 DTEND:20261001T092500Z
 SUMMARY:Rzr (Ep)
@@ -891,13 +905,6 @@ DTEND:20260121T102500Z
 SUMMARY:PrzO (ć)
 LOCATION:
 DESCRIPTION:Przemysł obronny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr inż. Magierski Mieczysław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260204T085000Z
-DTEND:20260204T102500Z
-SUMMARY:Gosp.F.WOG (E)
-LOCATION:1.9/16
-DESCRIPTION:Gospodarka finansowa WOG\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: płk dr hab. Stańczyk Konrad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T094000Z
@@ -1073,13 +1080,6 @@ DTEND:20260107T140500Z
 SUMMARY:PiRP (ć)
 LOCATION:26/158
 DESCRIPTION:Podatek i rachunkowość podatkowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr hab. Przychocka Iwona
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260218T123000Z
-DTEND:20260218T140500Z
-SUMMARY:Gosp.F.WOG (Ep)
-LOCATION:1.9/16
-DESCRIPTION:Gospodarka finansowa WOG\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: płk dr hab. Stańczyk Konrad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T140000Z
@@ -1306,13 +1306,6 @@ LOCATION:0.6/16
 DESCRIPTION:Gospodarka finansowa WOG\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: płk dr hab. Stańczyk Konrad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260205T085000Z
-DTEND:20260205T102500Z
-SUMMARY:A.Wew. (E)
-LOCATION:1.9/16
-DESCRIPTION:Audyt wewnętrzny\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. Kożuch Artur Jacek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261002T094000Z
 DTEND:20261002T111500Z
 SUMMARY:Met.Bad. (w)
@@ -1530,13 +1523,6 @@ LOCATION:4.17a/135
 DESCRIPTION:Technologie informacyjne w bezpieczeństwie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr inż. Pokorski Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260219T123000Z
-DTEND:20260219T140500Z
-SUMMARY:A.Wew. (Ep)
-LOCATION:1.9/16
-DESCRIPTION:Audyt wewnętrzny\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. Kożuch Artur Jacek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261002T140000Z
 DTEND:20261002T153500Z
 SUMMARY:A.Wew. (ć)
@@ -1612,6 +1598,13 @@ DTEND:20260108T163500Z
 SUMMARY:Met.OPI (ć)
 LOCATION:0.6/16
 DESCRIPTION:Metody oceny projektów inwestycyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. Domańska-Szaruga Beata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260129T150000Z
+DTEND:20260129T163500Z
+SUMMARY:Gosp.F.WOG (E)
+LOCATION:5.17/135
+DESCRIPTION:Gospodarka finansowa WOG\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: płk dr hab. Stańczyk Konrad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261016T155000Z
