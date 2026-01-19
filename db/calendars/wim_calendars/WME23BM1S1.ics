@@ -1600,6 +1600,13 @@ LOCATION:
 DESCRIPTION:Technika mikrofalowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250128T123000Z
+DTEND:20250128T140500Z
+SUMMARY:Wdmuc (L)
+LOCATION:53/ 62
+DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Sławiński Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250204T123000Z
 DTEND:20250204T140500Z
 SUMMARY:Tmf (Zp/lab.)
@@ -1710,6 +1717,13 @@ DTEND:20250114T163500Z
 SUMMARY:Wdmsr (L)
 LOCATION:57/ 62
 DESCRIPTION:Wstęp do modelowania sprzętu rehabilitacyjnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250128T150000Z
+DTEND:20250128T163500Z
+SUMMARY:Wdmuc (L)
+LOCATION:53/ 62
+DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T165000Z
@@ -1849,14 +1863,14 @@ DTSTART:20251211T070000Z
 DTEND:20251211T083500Z
 SUMMARY:Wdmuc (L)
 LOCATION:53/ 62
-DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Sławiński Grzegorz
+DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T070000Z
 DTEND:20251218T083500Z
 SUMMARY:Wdmuc (L)
 LOCATION:53/ 62
-DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Sławiński Grzegorz
+DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T070000Z
@@ -1878,13 +1892,6 @@ DTEND:20250108T083500Z
 SUMMARY:App (L)
 LOCATION:2/ 23a
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250122T070000Z
-DTEND:20250122T083500Z
-SUMMARY:Mt 
-LOCATION:54/ 62
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 8/13\nProwadzący: dr inż. Stankiewicz Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250219T070000Z
@@ -1954,21 +1961,21 @@ DTSTART:20251204T085000Z
 DTEND:20251204T102500Z
 SUMMARY:Wdmuc (L)
 LOCATION:53/ 62
-DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Sławiński Grzegorz
+DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T085000Z
 DTEND:20251211T102500Z
 SUMMARY:Wdmuc (L)
 LOCATION:53/ 62
-DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Sławiński Grzegorz
+DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T085000Z
 DTEND:20251218T102500Z
 SUMMARY:Wdmuc (L)
 LOCATION:53/ 62
-DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Sławiński Grzegorz
+DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T085000Z
@@ -1990,13 +1997,6 @@ DTEND:20250108T102500Z
 SUMMARY:App (L)
 LOCATION:2/ 23a
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250122T085000Z
-DTEND:20250122T102500Z
-SUMMARY:Wdmuc (L)
-LOCATION:53/ 62
-DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250219T085000Z
@@ -2038,14 +2038,14 @@ DTSTART:20251106T104000Z
 DTEND:20251106T121500Z
 SUMMARY:Mt 
 LOCATION:8/ 62
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 9/13\nProwadzący: dr inż. Stankiewicz Michał
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 8/13\nProwadzący: dr inż. Stankiewicz Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T104000Z
 DTEND:20251113T121500Z
 SUMMARY:Mt 
 LOCATION:54/ 62
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 10/13\nProwadzący: dr inż. Stankiewicz Michał
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 9/13\nProwadzący: dr inż. Stankiewicz Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T104000Z
@@ -2059,14 +2059,14 @@ DTSTART:20251127T104000Z
 DTEND:20251127T121500Z
 SUMMARY:Mt 
 LOCATION:15/ 23a
-DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 11/13\nProwadzący: dr inż. Stankiewicz Michał
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 10/13\nProwadzący: dr inż. Stankiewicz Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T104000Z
 DTEND:20251204T121500Z
 SUMMARY:Wdmuc (L)
 LOCATION:53/ 62
-DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Sławiński Grzegorz
+DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Sławiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T104000Z
@@ -2106,9 +2106,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T104000Z
 DTEND:20250122T121500Z
-SUMMARY:Wdmuc (L)
-LOCATION:53/ 62
-DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Sławiński Grzegorz
+SUMMARY:Mt 
+LOCATION:54/ 62
+DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 11/13\nProwadzący: dr inż. Stankiewicz Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T104000Z
