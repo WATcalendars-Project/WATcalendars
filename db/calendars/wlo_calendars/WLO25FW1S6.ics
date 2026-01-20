@@ -74,6 +74,13 @@ LOCATION:4W
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Klimek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260119T085000Z
+DTEND:20260119T102500Z
+SUMMARY:WF (ć)
+LOCATION:6PL/KO6
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/16\nProwadzący: prof. dr hab. Pawlisiak Mieczysław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260202T085000Z
 DTEND:20260202T102500Z
 SUMMARY:BwCP (w)
@@ -151,18 +158,11 @@ LOCATION:
 DESCRIPTION:DYSP\nRodzaj zajęć: -\nNumer zajęć: 4/14
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260119T123000Z
-DTEND:20260119T140500Z
-SUMMARY:WF (ć)
-LOCATION:3PL/KO6
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/16\nProwadzący: prof. dr hab. Pawlisiak Mieczysław; dr inż. Sieczka Jarosław; ppłk mgr inż. Grądziel Grzegorz; dr Klimek Krzysztof; ppłk rez. mgr Pytlos Dariusz; płk dr Niemirka Sławomir; kpt.mgr Nawalicki Piotr; dr inż. Woźniak Robert; gen. bryg. mgr inż. Stocki Jarosław; kpt. mgr Kamela Przemysław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260126T123000Z
 DTEND:20260126T140500Z
 SUMMARY:WF (ć)
 LOCATION:3PL/KO6
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/16\nProwadzący: prof. dr hab. Pawlisiak Mieczysław; dr inż. Sieczka Jarosław; ppłk mgr inż. Grądziel Grzegorz; dr Klimek Krzysztof; ppłk rez. mgr Pytlos Dariusz; płk dr Niemirka Sławomir; kpt.mgr Nawalicki Piotr; dr inż. Woźniak Robert; gen. bryg. mgr inż. Stocki Jarosław; kpt. mgr Kamela Przemysław; dr Śledzik Waldemar; kpt. dr Karolewski Albert
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/16\nProwadzący: prof. dr hab. Pawlisiak Mieczysław; dr inż. Sieczka Jarosław; ppłk mgr inż. Grądziel Grzegorz; dr Klimek Krzysztof; ppłk rez. mgr Pytlos Dariusz; płk dr Niemirka Sławomir; gen. bryg. mgr inż. Stocki Jarosław; kpt. mgr Kamela Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260202T123000Z
@@ -900,13 +900,6 @@ LOCATION:3.16/135
 DESCRIPTION:SL\nRodzaj zajęć: -\nNumer zajęć: 4/5\nProwadzący: dr inż. Sieczka Jarosław; prof. dr hab. Pawlisiak Mieczysław; dr hab. inż. Marczyk Maciej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260225T165000Z
-DTEND:20260225T182500Z
-SUMMARY:KZL (w)
-LOCATION:3.16/135
-DESCRIPTION:Kierowanie zabezpieczeniem logistycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Żuchowski Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261211T070000Z
 DTEND:20261211T083500Z
 SUMMARY:WF (ć)
@@ -1128,7 +1121,7 @@ DTSTART:20260108T150000Z
 DTEND:20260108T163500Z
 SUMMARY:KZL (w)
 LOCATION:1.10/16; 1.9/16
-DESCRIPTION:Kierowanie zabezpieczeniem logistycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Żuchowski Dariusz
+DESCRIPTION:Kierowanie zabezpieczeniem logistycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T150000Z
@@ -1163,7 +1156,7 @@ DTSTART:20260108T165000Z
 DTEND:20260108T182500Z
 SUMMARY:KZL (w)
 LOCATION:1.10/16; 1.9/16
-DESCRIPTION:Kierowanie zabezpieczeniem logistycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Żuchowski Dariusz
+DESCRIPTION:Kierowanie zabezpieczeniem logistycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Żuchowski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260226T165000Z
@@ -1194,6 +1187,13 @@ LOCATION:0.28/135
 DESCRIPTION:Budowa i eksploatacja sprzętu logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260206T070000Z
+DTEND:20260206T083500Z
+SUMMARY:TA (w)
+LOCATION:6W
+DESCRIPTION:TAKTYKA\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260213T070000Z
 DTEND:20260213T083500Z
 SUMMARY:SL 
@@ -1219,14 +1219,14 @@ DTSTART:20261219T085000Z
 DTEND:20261219T102500Z
 SUMMARY:TA (w)
 LOCATION:1W
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
+DESCRIPTION:TAKTYKA\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T085000Z
 DTEND:20260116T102500Z
 SUMMARY:TA (w)
 LOCATION:4W
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
+DESCRIPTION:TAKTYKA\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T085000Z
@@ -1367,13 +1367,6 @@ DTEND:20260130T140500Z
 SUMMARY:PD (ć)
 LOCATION:6PL/KO6; 25FW; 1S; 6 PyD; BIBL /22 T
 DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260206T123000Z
-DTEND:20260206T140500Z
-SUMMARY:TA (w)
-LOCATION:6W
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213T123000Z

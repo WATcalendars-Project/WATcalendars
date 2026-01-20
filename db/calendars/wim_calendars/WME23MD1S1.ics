@@ -818,9 +818,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250217T085000Z
 DTEND:20250217T102500Z
-SUMMARY:PLCp (Zp.)
-LOCATION:37/ 54A
-DESCRIPTION:PLC programming\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Typiak Rafał
+SUMMARY:Pkm2 (Ep)
+LOCATION:3/ 54
+DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T094000Z
@@ -947,6 +947,13 @@ DTEND:20250210T121500Z
 SUMMARY:Brd (Zp.)
 LOCATION:15/ 23a
 DESCRIPTION:Bezpieczeństwo ruchu drogowego\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250217T104000Z
+DTEND:20250217T121500Z
+SUMMARY:PLCp (Zp.)
+LOCATION:37/ 54A
+DESCRIPTION:PLC programming\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Typiak Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T113000Z
@@ -1955,13 +1962,6 @@ DTEND:20250205T083500Z
 SUMMARY:Pkm2 (z. popr. lab.)
 LOCATION:9/ 54; 13/ 54; 120/ 54
 DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: (z. popr. lab.)\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250219T070000Z
-DTEND:20250219T083500Z
-SUMMARY:Pkm2 (Ep)
-LOCATION:3/ 54
-DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T075000Z

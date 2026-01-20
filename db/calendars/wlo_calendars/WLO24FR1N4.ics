@@ -755,9 +755,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260208T085000Z
 DTEND:20260208T102500Z
-SUMMARY:Osl (E)
+SUMMARY:PADL (E)
 LOCATION:aula/135
-DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: płk dr inż. Zelkowski Jarosław
+DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260222T085000Z
@@ -860,9 +860,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260208T104000Z
 DTEND:20260208T121500Z
-SUMMARY:PADL (E)
+SUMMARY:Osl (E)
 LOCATION:aula/135
-DESCRIPTION:Praktyczne aspekty działalności logistycznej\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Owczarek Paulina
+DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260222T104000Z
@@ -954,6 +954,13 @@ DTEND:20260201T140500Z
 SUMMARY:Zp* (ć)
 LOCATION:0.8/16
 DESCRIPTION:Zamówienia publiczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260208T123000Z
+DTEND:20260208T140500Z
+SUMMARY:Osl (E)
+LOCATION:3.16/135
+DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T140000Z
