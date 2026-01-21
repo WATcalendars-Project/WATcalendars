@@ -1789,6 +1789,13 @@ LOCATION:19 36
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 9/17\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260305T085000Z
+DTEND:20260305T102500Z
+SUMMARY:Mat3 (ć)
+LOCATION:166 S
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr Kubica Adam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261009T094000Z
 DTEND:20261009T111500Z
 SUMMARY:M1 (ć)
@@ -2265,13 +2272,6 @@ LOCATION:19 36
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 17/17\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260220T070000Z
-DTEND:20260220T083500Z
-SUMMARY:Mat2 (Ep)
-LOCATION:19 36
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Różański Jerzy
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260306T070000Z
 DTEND:20260306T083500Z
 SUMMARY:WF (ć)
@@ -2492,7 +2492,7 @@ BEGIN:VEVENT
 DTSTART:20260130T104000Z
 DTEND:20260130T121500Z
 SUMMARY:Mat2 (ć)
-LOCATION:166 S
+LOCATION:313 S
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/17\nProwadzący: dr hab. Smarzewski Ryszard
 END:VEVENT
 BEGIN:VEVENT
@@ -2634,6 +2634,13 @@ DTEND:20260130T163500Z
 SUMMARY:PGI (ć)
 LOCATION:26/ 34
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/18\nProwadzący: dr inż. Łyszkowski Radosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T150000Z
+DTEND:20260220T163500Z
+SUMMARY:Mat2 (Ep)
+LOCATION:19 36
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T085000Z

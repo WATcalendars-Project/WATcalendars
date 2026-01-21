@@ -169,7 +169,7 @@ DTSTART:20251220T070000Z
 DTEND:20251220T083500Z
 SUMMARY:EgzD (E)
 LOCATION:1/ 19
-DESCRIPTION:Egzamin dyplomowy\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/3\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
+DESCRIPTION:Egzamin dyplomowy\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/3\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250301T085000Z
@@ -337,7 +337,7 @@ DTSTART:20251220T085000Z
 DTEND:20251220T102500Z
 SUMMARY:EgzD (E)
 LOCATION:1/ 19
-DESCRIPTION:Egzamin dyplomowy\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/3\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
+DESCRIPTION:Egzamin dyplomowy\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/3\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250301T104000Z
@@ -505,7 +505,7 @@ DTSTART:20251220T104000Z
 DTEND:20251220T121500Z
 SUMMARY:EgzD (E)
 LOCATION:1/ 19
-DESCRIPTION:Egzamin dyplomowy\nRodzaj zajęć: Egzamin\nNumer zajęć: 3/3\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
+DESCRIPTION:Egzamin dyplomowy\nRodzaj zajęć: Egzamin\nNumer zajęć: 3/3\nProwadzący: dr inż. Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250301T123000Z
@@ -1516,6 +1516,13 @@ LOCATION:1/ 19
 DESCRIPTION:Gospodarka i rozliczanie środków bojowych i materiałowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251207T104000Z
+DTEND:20251207T121500Z
+SUMMARY:GiRŚBiM (E)
+LOCATION:1/ 19
+DESCRIPTION:Gospodarka i rozliczanie środków bojowych i materiałowych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: mgr inż. Szpak Roman
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250302T123000Z
 DTEND:20250302T140500Z
 SUMMARY:WiPMPS (w)
@@ -1654,6 +1661,13 @@ DTEND:20251116T140500Z
 SUMMARY:KJiNMB (S)
 LOCATION:1/ 19
 DESCRIPTION:Kontrola jakości i nowoczesne metody badań środków materiałowych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr inż. Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251207T123000Z
+DTEND:20251207T140500Z
+SUMMARY:ZZiZ (E)
+LOCATION:1/ 19
+DESCRIPTION:Zarządzanie zaopatrywaniem i zabezpieczeniem materiałowo - technicznym w procesach logistycznych środków boj. i materiał.\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250309T150000Z

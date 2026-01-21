@@ -15,7 +15,14 @@ DTSTART:20260302T085000Z
 DTEND:20260302T102500Z
 SUMMARY:Ja (ć)
 LOCATION:132 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: płk dr hab. inż. Kula Przemysław
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T104000Z
+DTEND:20260302T121500Z
+SUMMARY:50% Chf
+LOCATION:L
+DESCRIPTION:50%\nRodzaj zajęć: Chf\nNumer zajęć: 1/1\nProwadzący: mgr inż. Bakiera Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T123000Z
@@ -29,6 +36,27 @@ DTSTART:20260303T150000Z
 DTEND:20260303T163500Z
 SUMMARY:JoM (ć)
 LOCATION:235 K;234 K;233 K;232 K
-DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: płk dr hab. inż. Kula Przemysław
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T104000Z
+DTEND:20260305T121500Z
+SUMMARY:Ich (w)
+LOCATION:1 55A
+DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr inż. Jasek Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T123000Z
+DTEND:20260305T140500Z
+SUMMARY:Ich (w)
+LOCATION:1 55A
+DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Jasek Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T085000Z
+DTEND:20260306T102500Z
+SUMMARY:PTo (w)
+LOCATION:166 S
+DESCRIPTION:Podstawy toksykologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Spadło Anna
 END:VEVENT
 END:VCALENDAR

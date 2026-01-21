@@ -1859,13 +1859,6 @@ LOCATION:4.17b/135
 DESCRIPTION:Historia myśli ekonomicznej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260129T150000Z
-DTEND:20260129T163500Z
-SUMMARY:PoTe (S)
-LOCATION:1.9/16
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: dr inż. Nagrabski Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261009T155000Z
 DTEND:20261009T172500Z
 SUMMARY:HME (w)
@@ -1920,13 +1913,6 @@ DTEND:20260108T182500Z
 SUMMARY:Fip (ć)
 LOCATION:1.15/16
 DESCRIPTION:Finanse przedsiębiorstwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/11\nProwadzący: dr hab. Kożuch Artur Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260122T165000Z
-DTEND:20260122T182500Z
-SUMMARY:PoTe (w)
-LOCATION:301/S
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261127T184000Z
@@ -2277,6 +2263,20 @@ DTEND:20260116T140500Z
 SUMMARY:PrP (w)
 LOCATION:0.22/16
 DESCRIPTION:Prawo pracy\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Strychalski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T123000Z
+DTEND:20260123T140500Z
+SUMMARY:PoTe (w)
+LOCATION:
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Nagrabski Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T123000Z
+DTEND:20260130T140500Z
+SUMMARY:PoTe (S)
+LOCATION:1.15/16
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261107T150000Z

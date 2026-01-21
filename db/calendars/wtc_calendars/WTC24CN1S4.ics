@@ -32,13 +32,6 @@ LOCATION:109 24
 DESCRIPTION:Prognozowanie skutków wybuchu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Paszula Józef
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260112T070000Z
-DTEND:20260112T083500Z
-SUMMARY:Psw (ć)
-LOCATION:109 24
-DESCRIPTION:Prognozowanie skutków wybuchu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Paszula Józef
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260119T070000Z
 DTEND:20260119T083500Z
 SUMMARY:Psw (S)
@@ -211,7 +204,7 @@ DTSTART:20261208T104000Z
 DTEND:20261208T121500Z
 SUMMARY:Psw (ć)
 LOCATION:109 24
-DESCRIPTION:Prognozowanie skutków wybuchu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Paszula Józef
+DESCRIPTION:Prognozowanie skutków wybuchu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Paszula Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T104000Z
@@ -590,6 +583,13 @@ DTEND:20260113T121500Z
 SUMMARY:Cht (L)
 LOCATION:123 24
 DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Jasek Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T104000Z
+DTEND:20260127T121500Z
+SUMMARY:Psw (ć)
+LOCATION:123 24
+DESCRIPTION:Prognozowanie skutków wybuchu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Paszula Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T104000Z

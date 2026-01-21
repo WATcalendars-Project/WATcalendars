@@ -1551,13 +1551,6 @@ LOCATION:252 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260123T104000Z
-DTEND:20260123T121500Z
-SUMMARY:Ez (w)
-LOCATION:314 S
-DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260126T070000Z
 DTEND:20260126T083500Z
 SUMMARY:M II (w)
@@ -1570,6 +1563,13 @@ DTEND:20260126T102500Z
 SUMMARY:MD1 (Inne)
 LOCATION:201 65
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260126T165000Z
+DTEND:20260126T182500Z
+SUMMARY:Ez (w)
+LOCATION:314 S
+DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T085000Z
@@ -1761,6 +1761,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260312T104000Z
+DTEND:20260312T121500Z
+SUMMARY:F1 (ć)
+LOCATION:205 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260312T150000Z
 DTEND:20260312T163500Z
 SUMMARY:JoM (ć)
@@ -1787,6 +1794,13 @@ DTEND:20260318T121500Z
 SUMMARY:Md2 (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T123000Z
+DTEND:20260318T140500Z
+SUMMARY:F1 (ć)
+LOCATION:204 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T070000Z
@@ -1852,6 +1866,13 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T123000Z
+DTEND:20260325T140500Z
+SUMMARY:F1 (ć)
+LOCATION:204 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260326T070000Z
 DTEND:20260326T083500Z
 SUMMARY:F1 (w)
@@ -1894,6 +1915,13 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260401T113000Z
+DTEND:20260401T130500Z
+SUMMARY:F1 (ć)
+LOCATION:204 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260402T060000Z
 DTEND:20260402T073500Z
 SUMMARY:F1 (w)
@@ -1913,6 +1941,13 @@ DTEND:20260402T153500Z
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T075000Z
+DTEND:20260408T092500Z
+SUMMARY:F1 (ć)
+LOCATION:201 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T094000Z
@@ -1957,6 +1992,13 @@ LOCATION:239 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260414T113000Z
+DTEND:20260414T130500Z
+SUMMARY:F1 (ć)
+LOCATION:204 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260415T075000Z
 DTEND:20260415T092500Z
 SUMMARY:PEM (ć)
@@ -1969,6 +2011,13 @@ DTEND:20260415T111500Z
 SUMMARY:Md2 (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T113000Z
+DTEND:20260415T130500Z
+SUMMARY:F1 (ć)
+LOCATION:201 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T060000Z
@@ -1990,6 +2039,13 @@ DTEND:20260416T153500Z
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T075000Z
+DTEND:20260421T092500Z
+SUMMARY:F1 (ć)
+LOCATION:201 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T094000Z
@@ -2048,6 +2104,13 @@ LOCATION:239 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260428T113000Z
+DTEND:20260428T130500Z
+SUMMARY:F1 (ć)
+LOCATION:201 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260430T060000Z
 DTEND:20260430T073500Z
 SUMMARY:F1 (w)
@@ -2081,6 +2144,13 @@ DTEND:20260505T111500Z
 SUMMARY:Ja (ć)
 LOCATION:239 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T113000Z
+DTEND:20260505T130500Z
+SUMMARY:F1 (ć)
+LOCATION:204 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T060000Z
@@ -2139,6 +2209,13 @@ LOCATION:119 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260513T113000Z
+DTEND:20260513T130500Z
+SUMMARY:F1 (ć)
+LOCATION:204 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260514T060000Z
 DTEND:20260514T073500Z
 SUMMARY:F1 (w)
@@ -2186,6 +2263,13 @@ DTEND:20260520T092500Z
 SUMMARY:PEM (ć)
 LOCATION:119 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T094000Z
+DTEND:20260520T111500Z
+SUMMARY:F1 (ć)
+LOCATION:205 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T060000Z
@@ -2244,6 +2328,13 @@ LOCATION:119 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260527T094000Z
+DTEND:20260527T111500Z
+SUMMARY:F1 (ć)
+LOCATION:205 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260528T060000Z
 DTEND:20260528T073500Z
 SUMMARY:F1 (w)
@@ -2270,6 +2361,13 @@ DTEND:20260529T111500Z
 SUMMARY:PEM (ć)
 LOCATION:119 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T075000Z
+DTEND:20260602T092500Z
+SUMMARY:F1 (ć)
+LOCATION:201 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T094000Z
@@ -2312,6 +2410,13 @@ DTEND:20260612T073500Z
 SUMMARY:F1 (L)
 LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T075000Z
+DTEND:20260616T092500Z
+SUMMARY:F1 (ć)
+LOCATION:201 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T094000Z

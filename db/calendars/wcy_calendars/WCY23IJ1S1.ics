@@ -1145,13 +1145,6 @@ LOCATION:226 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260121T150000Z
-DTEND:20260121T163500Z
-SUMMARY:NET (w)
-LOCATION:308 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260122T104000Z
 DTEND:20260122T121500Z
 SUMMARY:Bpe (w)
@@ -1178,6 +1171,13 @@ DTEND:20260127T163500Z
 SUMMARY:PBI (L)
 LOCATION:106 65
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/4\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T165000Z
+DTEND:20260127T182500Z
+SUMMARY:NET (w)
+LOCATION:308 S
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T150000Z

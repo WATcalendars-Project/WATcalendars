@@ -483,7 +483,7 @@ BEGIN:VEVENT
 DTSTART:20260120T123000Z
 DTEND:20260120T140500Z
 SUMMARY:oiz (ć)
-LOCATION:27/158
+LOCATION:1.15/16
 DESCRIPTION:Organizacja i zarządzanie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
@@ -536,6 +536,13 @@ LOCATION:aula/135
 DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260127T150000Z
+DTEND:20260127T163500Z
+SUMMARY:Historyczne 
+LOCATION:0.22/16
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 3/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261104T165000Z
 DTEND:20261104T182500Z
 SUMMARY:Ek (w)
@@ -554,7 +561,7 @@ DTSTART:20260113T165000Z
 DTEND:20260113T182500Z
 SUMMARY:Historyczne 
 LOCATION:1.16/16
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 3/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 4/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T165000Z
@@ -562,6 +569,13 @@ DTEND:20260120T182500Z
 SUMMARY:NoPiP (w)
 LOCATION:aula/135
 DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Kowalski Wawrzyniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T165000Z
+DTEND:20260127T182500Z
+SUMMARY:Historyczne 
+LOCATION:0.22/16
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 5/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T184000Z
@@ -638,7 +652,7 @@ DTSTART:20261210T085000Z
 DTEND:20261210T102500Z
 SUMMARY:Historyczne 
 LOCATION:51/62
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 4/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 6/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T085000Z
@@ -673,7 +687,7 @@ DTSTART:20261210T104000Z
 DTEND:20261210T121500Z
 SUMMARY:Historyczne 
 LOCATION:51/62
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 5/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 7/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T104000Z
@@ -743,7 +757,7 @@ DTSTART:20260211T123000Z
 DTEND:20260211T140500Z
 SUMMARY:Historyczne 
 LOCATION:25Px; 4S; 25Px; 3S; 25PX; 2S; 25PX; 1S; 1 PSt
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 6/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Kowalski Wawrzyniec; mgr inż. Dobrowolski Daniel
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 8/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Kowalski Wawrzyniec; mgr inż. Dobrowolski Daniel
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261022T140000Z
@@ -883,7 +897,7 @@ DTSTART:20261126T184000Z
 DTEND:20261126T201500Z
 SUMMARY:Historyczne 
 LOCATION:301/S
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 7/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 9/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T184000Z
@@ -911,7 +925,7 @@ DTSTART:20261211T070000Z
 DTEND:20261211T083500Z
 SUMMARY:Historyczne 
 LOCATION:51/62
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 8/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 10/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T070000Z
@@ -960,7 +974,7 @@ DTSTART:20261211T085000Z
 DTEND:20261211T102500Z
 SUMMARY:Historyczne 
 LOCATION:51/62
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 9/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 11/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261218T085000Z
@@ -1002,7 +1016,7 @@ DTSTART:20261218T104000Z
 DTEND:20261218T121500Z
 SUMMARY:Historyczne 
 LOCATION:317 S
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 10/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 12/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T104000Z
@@ -1058,7 +1072,7 @@ DTSTART:20261218T123000Z
 DTEND:20261218T140500Z
 SUMMARY:Historyczne 
 LOCATION:317 S
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 11/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 13/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T123000Z
@@ -1240,7 +1254,7 @@ DTSTART:20261211T165000Z
 DTEND:20261211T182500Z
 SUMMARY:Historyczne 
 LOCATION:2.21/135
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 12/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 14/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T165000Z
@@ -1310,7 +1324,7 @@ DTSTART:20261211T184000Z
 DTEND:20261211T201500Z
 SUMMARY:Historyczne 
 LOCATION:2.21/135
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 13/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 15/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T184000Z
@@ -1352,7 +1366,7 @@ DTSTART:20261121T070000Z
 DTEND:20261121T083500Z
 SUMMARY:Historyczne 
 LOCATION:301/S
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 14/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 16/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261205T070000Z
@@ -1415,7 +1429,7 @@ DTSTART:20261107T085000Z
 DTEND:20261107T102500Z
 SUMMARY:Historyczne 
 LOCATION:aula/135
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 15/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 17/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261114T085000Z
@@ -1562,28 +1576,21 @@ DTSTART:20261212T123000Z
 DTEND:20261212T140500Z
 SUMMARY:Historyczne 
 LOCATION:1/22
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 16/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 18/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T123000Z
 DTEND:20260109T140500Z
 SUMMARY:Historyczne 
 LOCATION:1.15/16
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 17/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260116T123000Z
-DTEND:20260116T140500Z
-SUMMARY:Historyczne 
-LOCATION:1.15/16
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 18/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 19/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T123000Z
 DTEND:20260123T140500Z
 SUMMARY:Historyczne 
 LOCATION:0.6/16
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 19/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 20/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T123000Z
@@ -1597,7 +1604,7 @@ DTSTART:20260220T123000Z
 DTEND:20260220T140500Z
 SUMMARY:Historyczne 
 LOCATION:aula/135
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 20/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 21/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Stawarz Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261003T140000Z
@@ -1618,18 +1625,11 @@ DTSTART:20261212T150000Z
 DTEND:20261212T163500Z
 SUMMARY:Historyczne 
 LOCATION:1/22
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 21/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
+DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 22/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T150000Z
 DTEND:20260109T163500Z
-SUMMARY:Historyczne 
-LOCATION:1.15/16
-DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 22/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260116T150000Z
-DTEND:20260116T163500Z
 SUMMARY:Historyczne 
 LOCATION:1.15/16
 DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 23/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech

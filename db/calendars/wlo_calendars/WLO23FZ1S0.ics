@@ -1355,6 +1355,13 @@ LOCATION:4pl/24kp; 23FZ; 1S; 23BID; 0 K; 4 T
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: prof. WAT Kler Paweł; 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.; dr hab. inż.(prof. ucz.) Jackowski Jerzy; ppłk mgr inż. Grądziel Grzegorz; kpt.mgr Nawalicki Piotr; mgr inż. Michałowski Bogusław; dr hab. inż. Augustyn Sławomir; dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260128T123000Z
+DTEND:20260128T140500Z
+SUMMARY:PoTe (S)
+LOCATION:2.21/135
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261008T140000Z
 DTEND:20261008T153500Z
 SUMMARY:PŚZŻ (w)
@@ -1803,20 +1810,6 @@ LOCATION:1.16/16
 DESCRIPTION:Gospodarka sprzętem służby żywnościowej\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260122T165000Z
-DTEND:20260122T182500Z
-SUMMARY:PoTe (w)
-LOCATION:301/S
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260129T165000Z
-DTEND:20260129T182500Z
-SUMMARY:PoTe (S)
-LOCATION:3.16/135
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261002T174000Z
 DTEND:20261002T191500Z
 SUMMARY:Pmiuwl (w)
@@ -1899,6 +1892,13 @@ DTEND:20260130T083500Z
 SUMMARY:MrBr (w)
 LOCATION:51/62
 DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T070000Z
+DTEND:20260206T083500Z
+SUMMARY:GSSŻ (E)
+LOCATION:1.16/16
+DESCRIPTION:Gospodarka sprzętem służby żywnościowej\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T070000Z
@@ -2011,13 +2011,6 @@ DTEND:20260130T102500Z
 SUMMARY:Ja (ć)
 LOCATION:237 K; 238 K; 235 K; 234 K; 233 K; 232 K; 231 K; 230 K; 134 K; 133 K; 131 K; 128 K; 127 K; 125 K; 124 K; 122 K; 121 K; 120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30/30
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260206T085000Z
-DTEND:20260206T102500Z
-SUMMARY:GSSŻ (E)
-LOCATION:1.16/16
-DESCRIPTION:Gospodarka sprzętem służby żywnościowej\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261003T094000Z
@@ -2179,6 +2172,13 @@ DTEND:20260116T140500Z
 SUMMARY:MrBr (L)
 LOCATION:7/23a
 DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T123000Z
+DTEND:20260123T140500Z
+SUMMARY:PoTe (w)
+LOCATION:
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: 16. mgr. inż. Mariusz Radzimierski. Zajęcia dla osób powtarzających przedmiot.; WLO23FO1S0 Sala 1.9; xBiESTS(w) WLO23FZ1S0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T123000Z

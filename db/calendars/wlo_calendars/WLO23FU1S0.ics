@@ -1530,13 +1530,6 @@ LOCATION:0.21/16; 0.22/16
 DESCRIPTION:Projektowanie maszyn i urządzeń w logistyce\nRodzaj zajęć: Projekt\nNumer zajęć: 6/8\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260122T165000Z
-DTEND:20260122T182500Z
-SUMMARY:PoTe (w)
-LOCATION:301/S
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Nagrabski Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261002T174000Z
 DTEND:20261002T191500Z
 SUMMARY:Pmiuwl (w)
@@ -1899,6 +1892,13 @@ DTEND:20260116T140500Z
 SUMMARY:PoTe (ć)
 LOCATION:0.19/135
 DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Nagrabski Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T123000Z
+DTEND:20260123T140500Z
+SUMMARY:PoTe (w)
+LOCATION:
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261010T140000Z
