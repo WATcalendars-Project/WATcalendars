@@ -1635,6 +1635,13 @@ LOCATION:309 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/17\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260202T104000Z
+DTEND:20260202T121500Z
+SUMMARY:Mat I (Inne)
+LOCATION:317 S
+DESCRIPTION:Matematyka I\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260203T085000Z
 DTEND:20260203T102500Z
 SUMMARY:Mat I (E)
@@ -1647,6 +1654,13 @@ DTEND:20260203T121500Z
 SUMMARY:Mat I (E)
 LOCATION:314 S 316 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T085000Z
+DTEND:20260205T102500Z
+SUMMARY:M II (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T085000Z
@@ -1663,18 +1677,32 @@ LOCATION:309 S 314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260216T085000Z
+DTEND:20260216T102500Z
+SUMMARY:Mat I (Inne)
+LOCATION:317 S
+DESCRIPTION:Matematyka I\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260217T085000Z
 DTEND:20260217T102500Z
 SUMMARY:Mat I (Inne)
 LOCATION:313 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T085000Z
+DTEND:20260219T102500Z
+SUMMARY:M II (Inne)
+LOCATION:308 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T085000Z
 DTEND:20260220T102500Z
 SUMMARY:M II (Inne)
 LOCATION:316 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T104000Z

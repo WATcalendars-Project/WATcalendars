@@ -706,9 +706,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T150000Z
 DTEND:20250124T163500Z
-SUMMARY:Wpp. (ć)
-LOCATION:1/ 21
-DESCRIPTION:Wybrane problemy procesu produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
+SUMMARY:Mm. (L)
+LOCATION:14/ 54A
+DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T150000Z
@@ -813,7 +813,7 @@ DTSTART:20251213T165000Z
 DTEND:20251213T182500Z
 SUMMARY:Mm. (L)
 LOCATION:14/ 54A
-DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/14
+DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T165000Z
@@ -841,7 +841,7 @@ DTSTART:20250110T165000Z
 DTEND:20250110T182500Z
 SUMMARY:Mm. (L)
 LOCATION:14/ 54A
-DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/14
+DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250117T165000Z
@@ -855,14 +855,14 @@ DTSTART:20250124T165000Z
 DTEND:20250124T182500Z
 SUMMARY:Mm. (L)
 LOCATION:14/ 54A
-DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/14
+DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T165000Z
 DTEND:20250131T182500Z
 SUMMARY:Mm. (L)
 LOCATION:14/ 54A
-DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/14
+DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250207T165000Z
@@ -946,7 +946,7 @@ DTSTART:20251213T184000Z
 DTEND:20251213T201500Z
 SUMMARY:Mm. (L)
 LOCATION:14/ 54A
-DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/14
+DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T184000Z
@@ -974,7 +974,7 @@ DTSTART:20250110T184000Z
 DTEND:20250110T201500Z
 SUMMARY:Mm. (L)
 LOCATION:14/ 54A
-DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/14
+DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250117T184000Z
@@ -982,13 +982,6 @@ DTEND:20250117T201500Z
 SUMMARY:Zsw. (L)
 LOCATION:26/ 34
 DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr inż. Durejko Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250124T184000Z
-DTEND:20250124T201500Z
-SUMMARY:Mm. (L)
-LOCATION:14/ 54A
-DESCRIPTION:Modelowanie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T184000Z
@@ -1268,7 +1261,7 @@ DTSTART:20250118T085000Z
 DTEND:20250118T102500Z
 SUMMARY:Wpp. (ć)
 LOCATION:1/ 21
-DESCRIPTION:Wybrane problemy procesu produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
+DESCRIPTION:Wybrane problemy procesu produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250125T085000Z
@@ -1647,6 +1640,13 @@ DTEND:20250125T163500Z
 SUMMARY:Zsw. (L)
 LOCATION:26/ 34
 DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250201T150000Z
+DTEND:20250201T163500Z
+SUMMARY:Wpp. (ć)
+LOCATION:1/ 21
+DESCRIPTION:Wybrane problemy procesu produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250208T150000Z
