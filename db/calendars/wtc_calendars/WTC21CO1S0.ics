@@ -536,13 +536,6 @@ LOCATION:19 55
 DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/20\nProwadzący: mgr inż. Boczkowski Maciej; dr Oszczak-Nowińska Agata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260303T070000Z
-DTEND:20260303T083500Z
-SUMMARY:Ossi (w)
-LOCATION:123 24
-DESCRIPTION:Ocena sytuacji skażeń w oparciu o systemy informatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Fliszkiewicz Bartłomiej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260930T075000Z
 DTEND:20260930T092500Z
 SUMMARY:Pdp 
@@ -652,7 +645,7 @@ DTSTART:20260303T085000Z
 DTEND:20260303T102500Z
 SUMMARY:Ossi (w)
 LOCATION:123 24
-DESCRIPTION:Ocena sytuacji skażeń w oparciu o systemy informatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Fliszkiewicz Bartłomiej
+DESCRIPTION:Ocena sytuacji skażeń w oparciu o systemy informatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Fliszkiewicz Bartłomiej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260930T094000Z
@@ -762,9 +755,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T104000Z
 DTEND:20260303T121500Z
-SUMMARY:BesO (w)
-LOCATION:2 55A
-DESCRIPTION:Budowa i eksploatacja sprzętu OPBMR\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr hab. inż Harmata Władysław
+SUMMARY:Ossi (w)
+LOCATION:123 24
+DESCRIPTION:Ocena sytuacji skażeń w oparciu o systemy informatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Fliszkiewicz Bartłomiej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260930T113000Z
@@ -863,6 +856,13 @@ DTEND:20260127T140500Z
 SUMMARY:Bjr (w)
 LOCATION:2 55A
 DESCRIPTION:Broń jądrowa i radiologiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/17\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T123000Z
+DTEND:20260303T140500Z
+SUMMARY:BesO (w)
+LOCATION:2 55A
+DESCRIPTION:Budowa i eksploatacja sprzętu OPBMR\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr hab. inż Harmata Władysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260930T140000Z

@@ -2349,18 +2349,18 @@ LOCATION:203 65
 DESCRIPTION:Matematyka I\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr Jan Nawrocki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260203T104000Z
-DTEND:20260203T121500Z
-SUMMARY:M II (Inne)
-LOCATION:203 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr Jan Nawrocki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260204T104000Z
 DTEND:20260204T121500Z
 SUMMARY:Mat I (E)
 LOCATION:313 S 314 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Jarosław Łazuka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T085000Z
+DTEND:20260205T102500Z
+SUMMARY:M II (Inne)
+LOCATION:203 65
+DESCRIPTION:Matematyka II - (zal popr) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T123000Z
@@ -2388,7 +2388,7 @@ DTSTART:20260213T085000Z
 DTEND:20260213T102500Z
 SUMMARY:M II (Inne)
 LOCATION:203 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr Jan Nawrocki
+DESCRIPTION:Matematyka II\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: dr Jan Nawrocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T085000Z
@@ -2409,7 +2409,7 @@ DTSTART:20260219T085000Z
 DTEND:20260219T102500Z
 SUMMARY:M II (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr inż. Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/1\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T104000Z

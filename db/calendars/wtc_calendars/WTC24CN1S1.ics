@@ -25,6 +25,20 @@ LOCATION:L
 DESCRIPTION:50%\nRodzaj zajęć: Chf\nNumer zajęć: 1/1\nProwadzący: mgr inż. Bakiera Małgorzata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260303T085000Z
+DTEND:20260303T102500Z
+SUMMARY:Ops (w)
+LOCATION:10 55
+DESCRIPTION:Ochrona przed skażeniami\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. inż Harmata Władysław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T104000Z
+DTEND:20260303T121500Z
+SUMMARY:Ops (w)
+LOCATION:10 55
+DESCRIPTION:Ochrona przed skażeniami\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr hab. inż Harmata Władysław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T123000Z
 DTEND:20260303T140500Z
 SUMMARY:Cho (w)
@@ -39,6 +53,20 @@ LOCATION:235 K;234 K;233 K;232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260305T070000Z
+DTEND:20260305T083500Z
+SUMMARY:Ops (w)
+LOCATION:10 55
+DESCRIPTION:Ochrona przed skażeniami\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr hab. inż Harmata Władysław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T085000Z
+DTEND:20260305T102500Z
+SUMMARY:Ops (w)
+LOCATION:10 55
+DESCRIPTION:Ochrona przed skażeniami\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr hab. inż Harmata Władysław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T104000Z
 DTEND:20260305T121500Z
 SUMMARY:Ich (w)
@@ -51,12 +79,5 @@ DTEND:20260305T140500Z
 SUMMARY:Ich (w)
 LOCATION:1 55A
 DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Jasek Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260306T085000Z
-DTEND:20260306T102500Z
-SUMMARY:PTo (w)
-LOCATION:166 S
-DESCRIPTION:Podstawy toksykologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Spadło Anna
 END:VEVENT
 END:VCALENDAR

@@ -2041,13 +2041,6 @@ LOCATION:255 S
 DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260123T123000Z
-DTEND:20260123T140500Z
-SUMMARY:PoTe (w)
-LOCATION:
-DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Nagrabski Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260130T123000Z
 DTEND:20260130T140500Z
 SUMMARY:MrBr (L)
@@ -2109,6 +2102,13 @@ DTEND:20261121T182500Z
 SUMMARY:SLwLSZ (w)
 LOCATION:
 DESCRIPTION:Systemy informatyczne w logistyce SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: płk mgr inż. Górski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T184000Z
+DTEND:20260130T201500Z
+SUMMARY:PoTe (w)
+LOCATION:
+DESCRIPTION:Podsystem techniczny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261004T075000Z
