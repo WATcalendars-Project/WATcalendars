@@ -326,6 +326,13 @@ LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Parka Janusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250228T085000Z
+DTEND:20250228T102500Z
+SUMMARY:PKM 
+LOCATION:52/ 62
+DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251004T094000Z
 DTEND:20251004T111500Z
 SUMMARY:Tw1 (w)
@@ -601,9 +608,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T123000Z
 DTEND:20250131T140500Z
-SUMMARY:CAD (w)
-LOCATION:116/ 54
-DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Grzelak Krzysztof
+SUMMARY:Mp (L)
+LOCATION:05/ 54A
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250207T123000Z
@@ -629,9 +636,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250228T123000Z
 DTEND:20250228T140500Z
-SUMMARY:Rmob (w)
+SUMMARY:Uhip (w)
 LOCATION:09/ 54A
-DESCRIPTION:Roboty mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:Urządzenia hydrauliczne i pneumatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Łopatka Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T140000Z
@@ -783,9 +790,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250228T150000Z
 DTEND:20250228T163500Z
-SUMMARY:Tt (w)
-LOCATION:5/ 20
-DESCRIPTION:Termodynamika techniczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr inż. Koliński Kazimierz
+SUMMARY:Uhip (w)
+LOCATION:09/ 54A
+DESCRIPTION:Urządzenia hydrauliczne i pneumatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Łopatka Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T155000Z
@@ -939,7 +946,7 @@ DTSTART:20250228T165000Z
 DTEND:20250228T182500Z
 SUMMARY:Tt (w)
 LOCATION:5/ 20
-DESCRIPTION:Termodynamika techniczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Koliński Kazimierz
+DESCRIPTION:Termodynamika techniczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr inż. Koliński Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T174000Z
@@ -1049,9 +1056,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T184000Z
 DTEND:20250124T201500Z
-SUMMARY:Mp (L)
-LOCATION:05/ 54A
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
+SUMMARY:CAD (w)
+LOCATION:116/ 54
+DESCRIPTION:CAD dla mechaników\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Grzelak Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T184000Z
@@ -1080,6 +1087,13 @@ DTEND:20250221T201500Z
 SUMMARY:Tw1 (Zp. (W/Ćw.)
 LOCATION:1/ 21
 DESCRIPTION:Techniki wytwarzania 1\nRodzaj zajęć: (Zp. (W/Ćw.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Woźniak Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250228T184000Z
+DTEND:20250228T201500Z
+SUMMARY:Tt (w)
+LOCATION:5/ 20
+DESCRIPTION:Termodynamika techniczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Koliński Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251005T060000Z

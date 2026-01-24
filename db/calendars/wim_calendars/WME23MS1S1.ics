@@ -1082,13 +1082,6 @@ LOCATION:42/ 20
 DESCRIPTION:Urządzenia elektryczne pojazdów 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr inż. Trawiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250127T150000Z
-DTEND:20250127T163500Z
-SUMMARY:Pkm2 (P)
-LOCATION:109/ 54
-DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Projekt\nNumer zajęć: 6/12\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251111T165000Z
 DTEND:20251111T182500Z
 SUMMARY:I 
@@ -1479,6 +1472,13 @@ DTEND:20250121T121500Z
 SUMMARY:Dp (L)
 LOCATION:PTW/ 20
 DESCRIPTION:Diagnostyka pojazdów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250128T104000Z
+DTEND:20250128T121500Z
+SUMMARY:Pkm2 (P)
+LOCATION:109/ 54
+DESCRIPTION:Podstawy konstrukcji maszyn 2\nRodzaj zajęć: Projekt\nNumer zajęć: 6/12\nProwadzący: prof. dr hab. inż. Śnieżek Lucjan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T104000Z
