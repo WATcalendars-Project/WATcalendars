@@ -6831,16 +6831,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T104000Z
 DTEND:20260302T121500Z
-SUMMARY:PrSt (w)
-LOCATION:27 61
-DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
+SUMMARY:TeAn (w)
+LOCATION:30a 54E
+DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T070000Z
 DTEND:20260303T083500Z
 SUMMARY:TeAn (w)
 LOCATION:30a 54E
-DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
+DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T085000Z
@@ -6861,14 +6861,14 @@ DTSTART:20260304T085000Z
 DTEND:20260304T102500Z
 SUMMARY:PrSt (w)
 LOCATION:103 61
-DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
+DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T104000Z
 DTEND:20260304T121500Z
 SUMMARY:TeAn (w)
 LOCATION:30a 54E
-DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
+DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T070000Z
@@ -6966,14 +6966,14 @@ DTSTART:20260310T070000Z
 DTEND:20260310T083500Z
 SUMMARY:TeAn (w)
 LOCATION:30a 54E
-DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
+DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T085000Z
 DTEND:20260310T102500Z
 SUMMARY:PrSt (w)
 LOCATION:118 45
-DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
+DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T070000Z
@@ -6995,13 +6995,6 @@ DTEND:20260311T121500Z
 SUMMARY:ToiS (w)
 LOCATION:30a 54E
 DESCRIPTION:Technika obliczeniowa i symulacyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260311T123000Z
-DTEND:20260311T140500Z
-SUMMARY:TeAn (w)
-LOCATION:30a 54E
-DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T070000Z
@@ -7090,16 +7083,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T104000Z
 DTEND:20260316T121500Z
-SUMMARY:PrSt (w)
-LOCATION:118 45
-DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
+SUMMARY:TeAn (w)
+LOCATION:30a 54E
+DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T070000Z
 DTEND:20260317T083500Z
 SUMMARY:TeAn (w)
 LOCATION:30a 54E
-DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
+DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T085000Z
@@ -7107,6 +7100,13 @@ DTEND:20260317T102500Z
 SUMMARY:PRo (w)
 LOCATION:73b S
 DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T070000Z
+DTEND:20260318T083500Z
+SUMMARY:PrSt (w)
+LOCATION:118 45
+DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T085000Z
@@ -7121,13 +7121,6 @@ DTEND:20260318T121500Z
 SUMMARY:TeMi (w)
 LOCATION:27 61
 DESCRIPTION:Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260318T123000Z
-DTEND:20260318T140500Z
-SUMMARY:ToiS (w)
-LOCATION:30a 54E
-DESCRIPTION:Technika obliczeniowa i symulacyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T070000Z
@@ -7232,7 +7225,7 @@ DTSTART:20260324T085000Z
 DTEND:20260324T102500Z
 SUMMARY:PrSt (w)
 LOCATION:118 45
-DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
+DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T104000Z
@@ -7265,9 +7258,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T123000Z
 DTEND:20260325T140500Z
-SUMMARY:TeAn (w)
+SUMMARY:ToiS (w)
 LOCATION:30a 54E
-DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+DESCRIPTION:Technika obliczeniowa i symulacyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T070000Z
@@ -7365,13 +7358,13 @@ DTSTART:20260330T094000Z
 DTEND:20260330T111500Z
 SUMMARY:PrSt (w)
 LOCATION:27 61
-DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T060000Z
 DTEND:20260331T073500Z
 SUMMARY:SsO (w)
-LOCATION:116 45
+LOCATION:120 45
 DESCRIPTION:Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -7380,6 +7373,13 @@ DTEND:20260331T092500Z
 SUMMARY:Piab (w)
 LOCATION:117 45
 DESCRIPTION:Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T060000Z
+DTEND:20260401T073500Z
+SUMMARY:PrSt (w)
+LOCATION:27 61
+DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T075000Z

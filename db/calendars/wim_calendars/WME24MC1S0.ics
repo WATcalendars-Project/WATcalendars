@@ -1579,13 +1579,6 @@ LOCATION:
 DESCRIPTION:Fizyka 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250128T104000Z
-DTEND:20250128T121500Z
-SUMMARY:StreM1 (ć)
-LOCATION:54/ 62
-DESCRIPTION:Strength of Materials 1.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: ppłk dr inż. Kędzierski Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250204T104000Z
 DTEND:20250204T121500Z
 SUMMARY:Sinż (Zp. Ćw)
@@ -1842,7 +1835,7 @@ DTSTART:20250107T150000Z
 DTEND:20250107T163500Z
 SUMMARY:StreM1 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Strength of Materials 1.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: ppłk dr inż. Kędzierski Piotr
+DESCRIPTION:Strength of Materials 1.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: ppłk dr inż. Kędzierski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250121T150000Z
@@ -2613,6 +2606,13 @@ DTEND:20250123T083500Z
 SUMMARY:Mp (L)
 LOCATION:05/ 54A
 DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250130T070000Z
+DTEND:20250130T083500Z
+SUMMARY:StreM1 (ć)
+LOCATION:54/ 62
+DESCRIPTION:Strength of Materials 1.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: ppłk dr inż. Kędzierski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250206T070000Z

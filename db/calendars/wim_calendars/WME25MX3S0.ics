@@ -123,13 +123,6 @@ LOCATION:aula/ 135
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 4/17\nProwadzący: dr Łydka Adrian
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250202T070000Z
-DTEND:20250202T083500Z
-SUMMARY:PZiP (Zp.)
-LOCATION:15/ 23a
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr hab. Panek Joanna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250209T070000Z
 DTEND:20250209T083500Z
 SUMMARY:Owi (Zp.)
@@ -485,6 +478,13 @@ DTEND:20250202T140500Z
 SUMMARY:M1 (Zp. Ćw)
 LOCATION:55/ 62
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250209T123000Z
+DTEND:20250209T140500Z
+SUMMARY:PZiP (Zp.)
+LOCATION:301/ S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr hab. Panek Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T140000Z
