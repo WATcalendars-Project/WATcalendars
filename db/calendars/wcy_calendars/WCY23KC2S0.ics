@@ -25,6 +25,13 @@ LOCATION:317 S
 DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260302T123000Z
+DTEND:20260302T140500Z
+SUMMARY:Nsk (w)
+LOCATION:317 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260302T150000Z
 DTEND:20260302T163500Z
 SUMMARY:Asie (w)
@@ -48,9 +55,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T085000Z
 DTEND:20260303T102500Z
-SUMMARY:Nsk (w)
-LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+SUMMARY:Est (w)
+LOCATION:307 S
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T104000Z
+DTEND:20260303T121500Z
+SUMMARY:htm (w)
+LOCATION:307 S
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T123000Z
+DTEND:20260303T140500Z
+SUMMARY:htm (w)
+LOCATION:307 S
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T104000Z
@@ -177,6 +198,27 @@ DTEND:20260310T083500Z
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T085000Z
+DTEND:20260310T102500Z
+SUMMARY:Est (w)
+LOCATION:307 S
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T104000Z
+DTEND:20260310T121500Z
+SUMMARY:htm (w)
+LOCATION:307 S
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T123000Z
+DTEND:20260310T140500Z
+SUMMARY:htm (w)
+LOCATION:307 S
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T070000Z
@@ -466,6 +508,27 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T123000Z
+DTEND:20260325T140500Z
+SUMMARY:htm (w)
+LOCATION:309 S
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T150000Z
+DTEND:20260325T163500Z
+SUMMARY:htm (w)
+LOCATION:309 S
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T085000Z
+DTEND:20260326T102500Z
+SUMMARY:Est (w)
+LOCATION:308 S
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260326T104000Z
 DTEND:20260326T121500Z
 SUMMARY:Oni (w)
@@ -543,6 +606,13 @@ LOCATION:309 S
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260330T113000Z
+DTEND:20260330T130500Z
+SUMMARY:htm (w)
+LOCATION:317 S
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260331T060000Z
 DTEND:20260331T073500Z
 SUMMARY:Ja (ć)
@@ -599,6 +669,13 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T075000Z
+DTEND:20260402T092500Z
+SUMMARY:Est (w)
+LOCATION:308 S
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260408T094000Z
 DTEND:20260408T111500Z
 SUMMARY:WF (ć)
@@ -618,6 +695,13 @@ DTEND:20260409T073500Z
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T075000Z
+DTEND:20260409T092500Z
+SUMMARY:Est (w)
+LOCATION:308 S
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T113000Z
@@ -851,6 +935,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260423T075000Z
+DTEND:20260423T092500Z
+SUMMARY:Est (w)
+LOCATION:308 S
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260423T113000Z
 DTEND:20260423T130500Z
 SUMMARY:JEt (w)
@@ -891,6 +982,13 @@ DTEND:20260430T073500Z
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T075000Z
+DTEND:20260430T092500Z
+SUMMARY:Est (w)
+LOCATION:308 S
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T140000Z

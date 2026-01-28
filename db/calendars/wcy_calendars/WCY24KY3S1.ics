@@ -3714,6 +3714,13 @@ LOCATION:316 S 317 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260217T104000Z
+DTEND:20260217T121500Z
+SUMMARY:Sm (Inne)
+LOCATION:078 S
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260218T104000Z
 DTEND:20260218T121500Z
 SUMMARY:SO (Inne)
@@ -3725,7 +3732,7 @@ DTSTART:20260218T123000Z
 DTEND:20260218T140500Z
 SUMMARY:Sm (Inne)
 LOCATION:314 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T104000Z
@@ -3742,6 +3749,34 @@ LOCATION:316 S 317 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260302T085000Z
+DTEND:20260302T102500Z
+SUMMARY:PO (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T070000Z
+DTEND:20260303T083500Z
+SUMMARY:Pnak (w)
+LOCATION:313 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T085000Z
+DTEND:20260303T102500Z
+SUMMARY:Pnak (w)
+LOCATION:313 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T104000Z
+DTEND:20260303T121500Z
+SUMMARY:IK (w)
+LOCATION:313 S
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T123000Z
 DTEND:20260303T140500Z
 SUMMARY:Ja (ć)
@@ -3756,11 +3791,32 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 31/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260304T085000Z
+DTEND:20260304T102500Z
+SUMMARY:Wek (w)
+LOCATION:317 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T104000Z
 DTEND:20260304T121500Z
 SUMMARY:IO (w)
 LOCATION:307 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T070000Z
+DTEND:20260305T083500Z
+SUMMARY:Sck (w)
+LOCATION:316 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/14\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T085000Z
+DTEND:20260305T102500Z
+SUMMARY:Sck (w)
+LOCATION:316 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/14\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T104000Z
@@ -3791,6 +3847,48 @@ LOCATION:307 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260306T104000Z
+DTEND:20260306T121500Z
+SUMMARY:PO (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T123000Z
+DTEND:20260306T140500Z
+SUMMARY:PO (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260309T104000Z
+DTEND:20260309T121500Z
+SUMMARY:Wek (w)
+LOCATION:313 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T070000Z
+DTEND:20260310T083500Z
+SUMMARY:Pnak (w)
+LOCATION:313 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T085000Z
+DTEND:20260310T102500Z
+SUMMARY:Pnak (w)
+LOCATION:313 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T104000Z
+DTEND:20260310T121500Z
+SUMMARY:IK (w)
+LOCATION:313 S
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T123000Z
 DTEND:20260310T140500Z
 SUMMARY:Ja (ć)
@@ -3805,11 +3903,32 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 32/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260311T070000Z
+DTEND:20260311T083500Z
+SUMMARY:Sck (w)
+LOCATION:317 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/14\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T085000Z
+DTEND:20260311T102500Z
+SUMMARY:Sck (w)
+LOCATION:317 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/14\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260311T104000Z
 DTEND:20260311T121500Z
 SUMMARY:IO (w)
 LOCATION:307 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T070000Z
+DTEND:20260312T083500Z
+SUMMARY:Pk (w)
+LOCATION:317 S
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T085000Z
@@ -3840,6 +3959,55 @@ LOCATION:307 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260313T104000Z
+DTEND:20260313T121500Z
+SUMMARY:PO (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T123000Z
+DTEND:20260313T140500Z
+SUMMARY:PO (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T104000Z
+DTEND:20260316T121500Z
+SUMMARY:PO (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T123000Z
+DTEND:20260316T140500Z
+SUMMARY:PO (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260317T070000Z
+DTEND:20260317T083500Z
+SUMMARY:Pnak (w)
+LOCATION:316 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260317T085000Z
+DTEND:20260317T102500Z
+SUMMARY:Pnak (w)
+LOCATION:316 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260317T104000Z
+DTEND:20260317T121500Z
+SUMMARY:IK (w)
+LOCATION:317 S
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260317T123000Z
 DTEND:20260317T140500Z
 SUMMARY:Ja (ć)
@@ -3854,11 +4022,32 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 33/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260318T085000Z
+DTEND:20260318T102500Z
+SUMMARY:Sck (w)
+LOCATION:316 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/14\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T104000Z
+DTEND:20260318T121500Z
+SUMMARY:Sck (w)
+LOCATION:316 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/14\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260318T150000Z
 DTEND:20260318T163500Z
 SUMMARY:Etl (w)
 LOCATION:314 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T070000Z
+DTEND:20260319T083500Z
+SUMMARY:Pk (w)
+LOCATION:317 S
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T123000Z
@@ -3868,11 +4057,39 @@ LOCATION:314 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260320T070000Z
+DTEND:20260320T083500Z
+SUMMARY:Wek (w)
+LOCATION:313 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260323T104000Z
 DTEND:20260323T121500Z
 SUMMARY:Zkst (w)
 LOCATION:313 S
 DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T070000Z
+DTEND:20260324T083500Z
+SUMMARY:Sck (w)
+LOCATION:317 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/14\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T085000Z
+DTEND:20260324T102500Z
+SUMMARY:Sck (w)
+LOCATION:317 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 8/14\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T104000Z
+DTEND:20260324T121500Z
+SUMMARY:Pnak (w)
+LOCATION:317 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T123000Z
@@ -3903,6 +4120,13 @@ LOCATION:228 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/14\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260326T070000Z
+DTEND:20260326T083500Z
+SUMMARY:Pk (w)
+LOCATION:317 S
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260326T123000Z
 DTEND:20260326T140500Z
 SUMMARY:MM (w)
@@ -3910,11 +4134,25 @@ LOCATION:314 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260330T075000Z
+DTEND:20260330T092500Z
+SUMMARY:Wek (w)
+LOCATION:313 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260330T094000Z
 DTEND:20260330T111500Z
 SUMMARY:Zkst (w)
 LOCATION:313 S
 DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T060000Z
+DTEND:20260331T073500Z
+SUMMARY:IK (w)
+LOCATION:313 S
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T113000Z
@@ -3931,11 +4169,46 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 35/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260401T094000Z
+DTEND:20260401T111500Z
+SUMMARY:Sck (w)
+LOCATION:317 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 9/14\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T113000Z
+DTEND:20260401T130500Z
+SUMMARY:Sck (w)
+LOCATION:317 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 10/14\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T060000Z
+DTEND:20260402T073500Z
+SUMMARY:Pk (w)
+LOCATION:317 S
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260402T113000Z
 DTEND:20260402T130500Z
 SUMMARY:MM (w)
 LOCATION:314 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T060000Z
+DTEND:20260408T073500Z
+SUMMARY:Wek (w)
+LOCATION:313 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T060000Z
+DTEND:20260409T073500Z
+SUMMARY:Pk (w)
+LOCATION:317 S
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T075000Z
@@ -3966,11 +4239,32 @@ LOCATION:314 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260413T060000Z
+DTEND:20260413T073500Z
+SUMMARY:Sck (w)
+LOCATION:316 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 11/14\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T075000Z
+DTEND:20260413T092500Z
+SUMMARY:Sck (w)
+LOCATION:316 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 12/14\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260413T094000Z
 DTEND:20260413T111500Z
 SUMMARY:Zkst (w)
-LOCATION:313 S
+LOCATION:317 S
 DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T060000Z
+DTEND:20260414T073500Z
+SUMMARY:IK (w)
+LOCATION:313 S
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T113000Z
@@ -3987,6 +4281,13 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 36/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260415T060000Z
+DTEND:20260415T073500Z
+SUMMARY:Wek (w)
+LOCATION:317 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260416T113000Z
 DTEND:20260416T130500Z
 SUMMARY:MM (w)
@@ -3999,6 +4300,27 @@ DTEND:20260416T153500Z
 SUMMARY:Etl (w)
 LOCATION:314 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T060000Z
+DTEND:20260420T073500Z
+SUMMARY:Sck (w)
+LOCATION:316 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 13/14\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T075000Z
+DTEND:20260420T092500Z
+SUMMARY:Sck (w)
+LOCATION:316 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 14/14\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T060000Z
+DTEND:20260421T073500Z
+SUMMARY:IK (w)
+LOCATION:313 S
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T113000Z
@@ -4015,6 +4337,13 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 37/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260422T060000Z
+DTEND:20260422T073500Z
+SUMMARY:Wek (w)
+LOCATION:313 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260422T075000Z
 DTEND:20260422T092500Z
 SUMMARY:IO (L)
@@ -4029,11 +4358,32 @@ LOCATION:228 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/14\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260423T060000Z
+DTEND:20260423T073500Z
+SUMMARY:Pk (w)
+LOCATION:314 S
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260423T140000Z
 DTEND:20260423T153500Z
 SUMMARY:Etl (w)
 LOCATION:314 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T060000Z
+DTEND:20260427T073500Z
+SUMMARY:Wek (w)
+LOCATION:316 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T060000Z
+DTEND:20260428T073500Z
+SUMMARY:IK (w)
+LOCATION:313 S
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T113000Z
@@ -4050,11 +4400,32 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 38/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260430T060000Z
+DTEND:20260430T073500Z
+SUMMARY:Pk (w)
+LOCATION:314 S
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260430T113000Z
 DTEND:20260430T130500Z
 SUMMARY:Etl (w)
 LOCATION:314 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T060000Z
+DTEND:20260504T073500Z
+SUMMARY:Wek (w)
+LOCATION:316 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T060000Z
+DTEND:20260505T073500Z
+SUMMARY:IK (w)
+LOCATION:313 S
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T113000Z
@@ -4069,6 +4440,13 @@ DTEND:20260505T153500Z
 SUMMARY:JoM (ć)
 LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 39/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T060000Z
+DTEND:20260507T073500Z
+SUMMARY:Pk (w)
+LOCATION:314 S
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T075000Z
@@ -4104,6 +4482,13 @@ DTEND:20260512T153500Z
 SUMMARY:JoM (ć)
 LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 40/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T094000Z
+DTEND:20260518T111500Z
+SUMMARY:Wek (w)
+LOCATION:313 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T113000Z

@@ -11,6 +11,13 @@ LOCATION:307 S
 DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260302T123000Z
+DTEND:20260302T140500Z
+SUMMARY:Nsk (w)
+LOCATION:317 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T070000Z
 DTEND:20260303T083500Z
 SUMMARY:Ja (ć)
@@ -20,9 +27,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T085000Z
 DTEND:20260303T102500Z
-SUMMARY:Nsk (w)
-LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+SUMMARY:Ajf (w)
+LOCATION:308 S
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T104000Z
+DTEND:20260303T121500Z
+SUMMARY:Ajf (w)
+LOCATION:308 S
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T085000Z
@@ -130,6 +144,13 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260310T104000Z
+DTEND:20260310T121500Z
+SUMMARY:Ajf (w)
+LOCATION:308 S
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260312T070000Z
 DTEND:20260312T083500Z
 SUMMARY:Ja (ć)
@@ -224,7 +245,7 @@ BEGIN:VEVENT
 DTSTART:20260318T085000Z
 DTEND:20260318T102500Z
 SUMMARY:Pjf (w)
-LOCATION:309 S
+LOCATION:317 S
 DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
@@ -620,6 +641,13 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260414T094000Z
+DTEND:20260414T111500Z
+SUMMARY:Ajf (w)
+LOCATION:307 S
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260415T075000Z
 DTEND:20260415T092500Z
 SUMMARY:Pjf (w)
@@ -802,6 +830,13 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260428T075000Z
+DTEND:20260428T092500Z
+SUMMARY:Ajf (w)
+LOCATION:307 S
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260429T075000Z
 DTEND:20260429T092500Z
 SUMMARY:Pjf (w)
@@ -947,6 +982,13 @@ DTEND:20260512T073500Z
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T094000Z
+DTEND:20260512T111500Z
+SUMMARY:Ajf (w)
+LOCATION:307 S
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T094000Z

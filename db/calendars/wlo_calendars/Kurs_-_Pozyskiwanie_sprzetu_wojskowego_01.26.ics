@@ -228,13 +228,6 @@ LOCATION:26 Le
 DESCRIPTION:SPSpW\nRodzaj zajęć: -\nNumer zajęć: 8/19\nProwadzący: dr Milian-Pogonowska Małgorzata; dr Zamelek Paulina; płk prof.dr hab. Mitkow Szymon; dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260204T070000Z
-DTEND:20260204T083500Z
-SUMMARY:Wnjk (w)
-LOCATION:1.10/16
-DESCRIPTION:Wymagania normalizacji, jakości i kodyfikacji SpW\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr n. społ. inż. Krupnik Dorota
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260211T070000Z
 DTEND:20260211T083500Z
 SUMMARY:Zlps (ć)
@@ -440,23 +433,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T070000Z
 DTEND:20260123T083500Z
-SUMMARY:Zwsp (w)
+SUMMARY:Wnjk (w)
 LOCATION:1.10/16
-DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Wymagania normalizacji, jakości i kodyfikacji SpW\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr n. społ. inż. Krupnik Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T070000Z
 DTEND:20260130T083500Z
 SUMMARY:Zwsp (w)
 LOCATION:1.10/16
-DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T070000Z
 DTEND:20260206T083500Z
-SUMMARY:Wnjk (w)
+SUMMARY:SPSpW 
 LOCATION:1.10/16
-DESCRIPTION:Wymagania normalizacji, jakości i kodyfikacji SpW\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr n. społ. inż. Krupnik Dorota
+DESCRIPTION:SPSpW\nRodzaj zajęć: -\nNumer zajęć: 19/19\nProwadzący: dr Milian-Pogonowska Małgorzata; dr Zamelek Paulina; płk prof.dr hab. Mitkow Szymon; dr hab. inż. Augustyn Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213T070000Z
@@ -466,11 +459,18 @@ LOCATION:1.10/16
 DESCRIPTION:Zakończenie Kursu\nRodzaj zajęć: (i)\nNumer zajęć: 1/1\nProwadzący: dr n. społ. inż. Krupnik Dorota
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260227T070000Z
+DTEND:20260227T083500Z
+SUMMARY:Wnjk (w)
+LOCATION:1.10/16
+DESCRIPTION:Wymagania normalizacji, jakości i kodyfikacji SpW\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr n. społ. inż. Krupnik Dorota
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260123T085000Z
 DTEND:20260123T102500Z
-SUMMARY:Zwsp (w)
+SUMMARY:Wnjk (ć)
 LOCATION:1.10/16
-DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Wymagania normalizacji, jakości i kodyfikacji SpW\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr n. społ. inż. Krupnik Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T085000Z
@@ -482,15 +482,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T085000Z
 DTEND:20260206T102500Z
-SUMMARY:Wnjk (ć)
+SUMMARY:Zwsp (w)
 LOCATION:1.10/16
-DESCRIPTION:Wymagania normalizacji, jakości i kodyfikacji SpW\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr n. społ. inż. Krupnik Dorota
+DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T104000Z
 DTEND:20260206T121500Z
-SUMMARY:SPSpW 
+SUMMARY:Zwsp (w)
 LOCATION:1.10/16
-DESCRIPTION:SPSpW\nRodzaj zajęć: -\nNumer zajęć: 19/19\nProwadzący: dr Milian-Pogonowska Małgorzata; dr Zamelek Paulina; płk prof.dr hab. Mitkow Szymon; dr hab. inż. Augustyn Sławomir
+DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 END:VCALENDAR

@@ -1229,11 +1229,158 @@ LOCATION:307 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260302T070000Z
+DTEND:20260302T083500Z
+SUMMARY:PWSI (w)
+LOCATION:308 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T123000Z
+DTEND:20260303T140500Z
+SUMMARY:Jtp (w)
+LOCATION:308 S
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T150000Z
+DTEND:20260303T163500Z
+SUMMARY:Jtp (w)
+LOCATION:308 S
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T070000Z
+DTEND:20260305T083500Z
+SUMMARY:SQL (w)
+LOCATION:309 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T085000Z
+DTEND:20260305T102500Z
+SUMMARY:SQL (w)
+LOCATION:309 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260309T070000Z
+DTEND:20260309T083500Z
+SUMMARY:PWSI (w)
+LOCATION:308 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260309T085000Z
+DTEND:20260309T102500Z
+SUMMARY:kck (w)
+LOCATION:203 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T123000Z
+DTEND:20260310T140500Z
+SUMMARY:Jtp (w)
+LOCATION:317 S
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T070000Z
+DTEND:20260311T083500Z
+SUMMARY:Sn (w)
+LOCATION:308 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T085000Z
+DTEND:20260311T102500Z
+SUMMARY:Sn (w)
+LOCATION:308 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T070000Z
+DTEND:20260312T083500Z
+SUMMARY:SQL (w)
+LOCATION:309 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T085000Z
+DTEND:20260312T102500Z
+SUMMARY:SQL (w)
+LOCATION:309 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T070000Z
+DTEND:20260316T083500Z
+SUMMARY:PWSI (w)
+LOCATION:203 65
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T085000Z
+DTEND:20260316T102500Z
+SUMMARY:kck (w)
+LOCATION:203 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T070000Z
+DTEND:20260318T083500Z
+SUMMARY:Sn (w)
+LOCATION:309 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T085000Z
+DTEND:20260318T102500Z
+SUMMARY:Sn (w)
+LOCATION:309 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T104000Z
+DTEND:20260318T121500Z
+SUMMARY:Sn (w)
+LOCATION:309 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260318T123000Z
 DTEND:20260318T140500Z
 SUMMARY:Awd (w)
 LOCATION:307 S
 DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T070000Z
+DTEND:20260319T083500Z
+SUMMARY:SQL (w)
+LOCATION:309 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T085000Z
+DTEND:20260319T102500Z
+SUMMARY:SQL (w)
+LOCATION:309 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T070000Z
+DTEND:20260323T083500Z
+SUMMARY:PWSI (w)
+LOCATION:308 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T085000Z
+DTEND:20260323T102500Z
+SUMMARY:kck (w)
+LOCATION:203 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T123000Z
@@ -1243,11 +1390,74 @@ LOCATION:307 S
 DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260330T060000Z
+DTEND:20260330T073500Z
+SUMMARY:PWSI (w)
+LOCATION:203 65
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T075000Z
+DTEND:20260330T092500Z
+SUMMARY:kck (w)
+LOCATION:203 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260401T113000Z
 DTEND:20260401T130500Z
 SUMMARY:Awd (w)
 LOCATION:307 S
 DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T060000Z
+DTEND:20260413T073500Z
+SUMMARY:PWSI (w)
+LOCATION:203 65
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T113000Z
+DTEND:20260414T130500Z
+SUMMARY:Jtp (w)
+LOCATION:307 S
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T060000Z
+DTEND:20260415T073500Z
+SUMMARY:kck (w)
+LOCATION:203 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T060000Z
+DTEND:20260420T073500Z
+SUMMARY:PWSI (w)
+LOCATION:309 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T060000Z
+DTEND:20260422T073500Z
+SUMMARY:kck (w)
+LOCATION:203 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T094000Z
+DTEND:20260428T111500Z
+SUMMARY:Jtp (w)
+LOCATION:307 S
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T060000Z
+DTEND:20260429T073500Z
+SUMMARY:kck (w)
+LOCATION:203 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T113000Z
@@ -1262,6 +1472,20 @@ DTEND:20260610T130500Z
 SUMMARY:Awd (w)
 LOCATION:307 S
 DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T060000Z
+DTEND:20260618T073500Z
+SUMMARY:SQL (w)
+LOCATION:314 S
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T075000Z
+DTEND:20260618T092500Z
+SUMMARY:Sn (w)
+LOCATION:314 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T094000Z

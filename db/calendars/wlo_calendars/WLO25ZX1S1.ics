@@ -774,13 +774,6 @@ LOCATION:1.9/16
 DESCRIPTION:Podstawy marketingu\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: dr Pawlak Katarzyna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260211T104000Z
-DTEND:20260211T121500Z
-SUMMARY:Pmr (E)
-LOCATION:aula/135
-DESCRIPTION:Podstawy marketingu\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Pawlak Katarzyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261008T113000Z
 DTEND:20261008T130500Z
 SUMMARY:P. (w)
@@ -1297,6 +1290,20 @@ DTEND:20260130T102500Z
 SUMMARY:Pi (L)
 LOCATION:233 S
 DESCRIPTION:Podstawy informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T085000Z
+DTEND:20260206T102500Z
+SUMMARY:Pmr (E)
+LOCATION:0.24/135
+DESCRIPTION:Podstawy marketingu\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Pawlak Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T085000Z
+DTEND:20260220T102500Z
+SUMMARY:Pmr (Ep)
+LOCATION:0.24/135
+DESCRIPTION:Podstawy marketingu\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Pawlak Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261024T094000Z

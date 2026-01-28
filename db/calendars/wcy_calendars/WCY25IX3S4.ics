@@ -410,11 +410,32 @@ LOCATION:106 65
 DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 2/4\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260415T140000Z
+DTEND:20260415T153500Z
+SUMMARY:Soc (ć)
+LOCATION:308 S
+DESCRIPTION:Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260416T075000Z
 DTEND:20260416T092500Z
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T094000Z
+DTEND:20260416T111500Z
+SUMMARY:SBD (L)
+LOCATION:223 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T113000Z
+DTEND:20260416T130500Z
+SUMMARY:SBD (L)
+LOCATION:223 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T060000Z
@@ -501,6 +522,13 @@ LOCATION:223 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260429T094000Z
+DTEND:20260429T111500Z
+SUMMARY:Soc (ć)
+LOCATION:317 S
+DESCRIPTION:Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260430T060000Z
 DTEND:20260430T073500Z
 SUMMARY:Soc (w)
@@ -569,6 +597,13 @@ DTEND:20260506T092500Z
 SUMMARY:Ek (ć)
 LOCATION:308 S
 DESCRIPTION:Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T094000Z
+DTEND:20260506T111500Z
+SUMMARY:Nmtz (ć)
+LOCATION:308 S
+DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T140000Z
@@ -669,6 +704,13 @@ LOCATION:226 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260520T094000Z
+DTEND:20260520T111500Z
+SUMMARY:Soc (ć)
+LOCATION:255 S
+DESCRIPTION:Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260521T075000Z
 DTEND:20260521T092500Z
 SUMMARY:Ja (ć)
@@ -704,6 +746,20 @@ LOCATION:226 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260522T094000Z
+DTEND:20260522T111500Z
+SUMMARY:SBD (L)
+LOCATION:223 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T113000Z
+DTEND:20260522T130500Z
+SUMMARY:SBD (L)
+LOCATION:223 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260526T060000Z
 DTEND:20260526T073500Z
 SUMMARY:Msk. (L)
@@ -716,6 +772,13 @@ DTEND:20260526T092500Z
 SUMMARY:Tal (P)
 LOCATION:223 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 4/6\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T094000Z
+DTEND:20260527T111500Z
+SUMMARY:Nmtz (ć)
+LOCATION:309 S
+DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T113000Z
@@ -744,6 +807,27 @@ DTEND:20260528T111500Z
 SUMMARY:Ps (ć)
 LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T113000Z
+DTEND:20260528T130500Z
+SUMMARY:SBD (L)
+LOCATION:224 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T140000Z
+DTEND:20260528T153500Z
+SUMMARY:SBD (L)
+LOCATION:224 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T060000Z
+DTEND:20260602T073500Z
+SUMMARY:Nmtz (ć)
+LOCATION:308 S
+DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T075000Z
@@ -821,5 +905,19 @@ DTEND:20260619T092500Z
 SUMMARY:Msk. (L)
 LOCATION:226 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T094000Z
+DTEND:20260619T111500Z
+SUMMARY:SBD (L)
+LOCATION:224 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T113000Z
+DTEND:20260619T130500Z
+SUMMARY:SBD (L)
+LOCATION:224 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 END:VCALENDAR
