@@ -1215,6 +1215,20 @@ LOCATION:307 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260204T123000Z
+DTEND:20260204T140500Z
+SUMMARY:Nsk (Inne)
+LOCATION:314 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T165000Z
+DTEND:20260206T182500Z
+SUMMARY:Pjf (Inne)
+LOCATION:239 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260216T085000Z
 DTEND:20260216T102500Z
 SUMMARY:Med (Inne)
@@ -1248,6 +1262,20 @@ DTEND:20260303T163500Z
 SUMMARY:Jtp (w)
 LOCATION:308 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T150000Z
+DTEND:20260304T163500Z
+SUMMARY:AM (w)
+LOCATION:307 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T165000Z
+DTEND:20260304T182500Z
+SUMMARY:TAI (w)
+LOCATION:307 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T070000Z
@@ -1376,6 +1404,20 @@ LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T150000Z
+DTEND:20260325T163500Z
+SUMMARY:AM (w)
+LOCATION:307 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T165000Z
+DTEND:20260325T182500Z
+SUMMARY:TAI (w)
+LOCATION:307 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260330T060000Z
 DTEND:20260330T073500Z
 SUMMARY:PWSI (w)
@@ -1388,6 +1430,20 @@ DTEND:20260330T092500Z
 SUMMARY:kck (w)
 LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T140000Z
+DTEND:20260408T153500Z
+SUMMARY:AM (w)
+LOCATION:308 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T155000Z
+DTEND:20260408T172500Z
+SUMMARY:TAI (w)
+LOCATION:308 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T060000Z
@@ -1425,11 +1481,18 @@ LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260428T094000Z
-DTEND:20260428T111500Z
-SUMMARY:Jtp (w)
+DTSTART:20260422T140000Z
+DTEND:20260422T153500Z
+SUMMARY:AM (w)
 LOCATION:307 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T155000Z
+DTEND:20260422T172500Z
+SUMMARY:TAI (w)
+LOCATION:307 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T060000Z
@@ -1437,6 +1500,55 @@ DTEND:20260429T073500Z
 SUMMARY:kck (w)
 LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T094000Z
+DTEND:20260430T111500Z
+SUMMARY:Jtp (w)
+LOCATION:313 S
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T140000Z
+DTEND:20260506T153500Z
+SUMMARY:AM (w)
+LOCATION:307 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T155000Z
+DTEND:20260506T172500Z
+SUMMARY:TAI (w)
+LOCATION:307 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T140000Z
+DTEND:20260520T153500Z
+SUMMARY:AM (w)
+LOCATION:307 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T155000Z
+DTEND:20260520T172500Z
+SUMMARY:TAI (w)
+LOCATION:307 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T140000Z
+DTEND:20260603T153500Z
+SUMMARY:AM (w)
+LOCATION:307 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T155000Z
+DTEND:20260603T172500Z
+SUMMARY:TAI (w)
+LOCATION:307 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T060000Z

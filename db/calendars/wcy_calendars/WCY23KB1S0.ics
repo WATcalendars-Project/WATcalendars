@@ -39,6 +39,13 @@ LOCATION:308 S
 DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260303T123000Z
+DTEND:20260303T140500Z
+SUMMARY:MPR (w)
+LOCATION:317 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T085000Z
 DTEND:20260304T102500Z
 SUMMARY:Pjf (w)
@@ -242,6 +249,13 @@ LOCATION:313 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260317T123000Z
+DTEND:20260317T140500Z
+SUMMARY:MPR (w)
+LOCATION:317 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260318T085000Z
 DTEND:20260318T102500Z
 SUMMARY:Pjf (w)
@@ -375,6 +389,13 @@ LOCATION:313 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260324T123000Z
+DTEND:20260324T140500Z
+SUMMARY:MPR (w)
+LOCATION:313 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T104000Z
 DTEND:20260325T121500Z
 SUMMARY:WF (w)
@@ -478,6 +499,13 @@ DTEND:20260331T111500Z
 SUMMARY:Nsk (w)
 LOCATION:313 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T113000Z
+DTEND:20260331T130500Z
+SUMMARY:MPR (w)
+LOCATION:316 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T075000Z
@@ -648,6 +676,13 @@ LOCATION:307 S
 DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260414T113000Z
+DTEND:20260414T130500Z
+SUMMARY:MPR (w)
+LOCATION:308 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260415T075000Z
 DTEND:20260415T092500Z
 SUMMARY:Pjf (w)
@@ -730,6 +765,13 @@ DTEND:20260420T111500Z
 SUMMARY:Hd (w)
 LOCATION:307 S
 DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T113000Z
+DTEND:20260420T130500Z
+SUMMARY:MPR (w)
+LOCATION:313 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T075000Z
@@ -832,9 +874,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T075000Z
 DTEND:20260428T092500Z
-SUMMARY:Ajf (w)
+SUMMARY:MPR (w)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T075000Z
@@ -856,6 +898,13 @@ DTEND:20260430T073500Z
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T075000Z
+DTEND:20260430T092500Z
+SUMMARY:Ajf (w)
+LOCATION:307 S
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T140000Z
@@ -984,13 +1033,6 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260512T094000Z
-DTEND:20260512T111500Z
-SUMMARY:Ajf (w)
-LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr hab. Piotr Kosiuczenko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
 SUMMARY:WF (w)
@@ -1003,6 +1045,13 @@ DTEND:20260514T073500Z
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T094000Z
+DTEND:20260514T111500Z
+SUMMARY:Ajf (w)
+LOCATION:307 S
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T060000Z

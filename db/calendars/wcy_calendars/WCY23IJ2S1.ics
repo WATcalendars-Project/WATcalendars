@@ -1215,6 +1215,20 @@ LOCATION:307 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260204T123000Z
+DTEND:20260204T140500Z
+SUMMARY:Nsk (Inne)
+LOCATION:314 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T165000Z
+DTEND:20260206T182500Z
+SUMMARY:Pjf (Inne)
+LOCATION:239 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260216T085000Z
 DTEND:20260216T102500Z
 SUMMARY:Med (Inne)
@@ -1297,6 +1311,13 @@ DTEND:20260311T102500Z
 SUMMARY:Sn (w)
 LOCATION:308 S
 DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T104000Z
+DTEND:20260311T121500Z
+SUMMARY:Muma (w)
+LOCATION:308 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T070000Z
@@ -1383,6 +1404,13 @@ LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T104000Z
+DTEND:20260325T121500Z
+SUMMARY:Muma (w)
+LOCATION:309 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T123000Z
 DTEND:20260325T140500Z
 SUMMARY:Awd (w)
@@ -1402,6 +1430,13 @@ DTEND:20260330T092500Z
 SUMMARY:kck (w)
 LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T094000Z
+DTEND:20260401T111500Z
+SUMMARY:Muma (w)
+LOCATION:307 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T113000Z
@@ -1432,6 +1467,13 @@ LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260415T075000Z
+DTEND:20260415T092500Z
+SUMMARY:Muma (w)
+LOCATION:313 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260420T060000Z
 DTEND:20260420T073500Z
 SUMMARY:PWSI (w)
@@ -1446,11 +1488,11 @@ LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260428T094000Z
-DTEND:20260428T111500Z
-SUMMARY:Jtp (w)
-LOCATION:307 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. Piotr Kosiuczenko
+DTSTART:20260422T075000Z
+DTEND:20260422T092500Z
+SUMMARY:Muma (w)
+LOCATION:309 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T060000Z
@@ -1458,6 +1500,13 @@ DTEND:20260429T073500Z
 SUMMARY:kck (w)
 LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T094000Z
+DTEND:20260430T111500Z
+SUMMARY:Jtp (w)
+LOCATION:313 S
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T113000Z
@@ -1472,6 +1521,20 @@ DTEND:20260610T130500Z
 SUMMARY:Awd (w)
 LOCATION:307 S
 DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T060000Z
+DTEND:20260617T073500Z
+SUMMARY:Muma (w)
+LOCATION:313 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T075000Z
+DTEND:20260617T092500Z
+SUMMARY:Muma (w)
+LOCATION:313 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T060000Z

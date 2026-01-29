@@ -20,9 +20,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260202T070000Z
 DTEND:20260202T083500Z
-SUMMARY:Zwsp (ć)
+SUMMARY:Zwsp (w)
 LOCATION:1.10/16
-DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260209T070000Z
@@ -48,9 +48,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260202T085000Z
 DTEND:20260202T102500Z
-SUMMARY:Zlps (w)
+SUMMARY:Zwsp (w)
 LOCATION:1.10/16
-DESCRIPTION:Zabezpieczenie logistyczne pozyskanego SW\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Nagrabski Dariusz
+DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260209T085000Z
@@ -78,14 +78,14 @@ DTSTART:20260202T104000Z
 DTEND:20260202T121500Z
 SUMMARY:Zlps (w)
 LOCATION:1.10/16
-DESCRIPTION:Zabezpieczenie logistyczne pozyskanego SW\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Nagrabski Dariusz
+DESCRIPTION:Zabezpieczenie logistyczne pozyskanego SW\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260209T104000Z
 DTEND:20260209T121500Z
 SUMMARY:Zwsp (ć)
 LOCATION:1.10/16
-DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T123000Z
@@ -93,6 +93,13 @@ DTEND:20260126T140500Z
 SUMMARY:NTiBN (ć)
 LOCATION:1.10/16
 DESCRIPTION:Nowoczesne technologie i badania naukowe w systemie pozyskiwania SpW\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Milian-Pogonowska Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T123000Z
+DTEND:20260202T140500Z
+SUMMARY:Zlps (w)
+LOCATION:1.10/16
+DESCRIPTION:Zabezpieczenie logistyczne pozyskanego SW\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260209T123000Z
@@ -107,6 +114,13 @@ DTEND:20260120T083500Z
 SUMMARY:Aru (w)
 LOCATION:1.10/16
 DESCRIPTION:Analiza rynku uzbrojenia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Zamelek Paulina
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T070000Z
+DTEND:20260127T083500Z
+SUMMARY:Wnjk (w)
+LOCATION:5.17/135
+DESCRIPTION:Wymagania normalizacji, jakości i kodyfikacji SpW\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr n. społ. inż. Krupnik Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T070000Z
@@ -155,14 +169,14 @@ DTSTART:20260120T104000Z
 DTEND:20260120T121500Z
 SUMMARY:Zwsp (w)
 LOCATION:1.10/16
-DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T104000Z
 DTEND:20260127T121500Z
 SUMMARY:Zwsp (w)
 LOCATION:1.10/16
-DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T104000Z
@@ -183,35 +197,42 @@ DTSTART:20260120T123000Z
 DTEND:20260120T140500Z
 SUMMARY:Zwsp (w)
 LOCATION:1.10/16
-DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T123000Z
 DTEND:20260127T140500Z
 SUMMARY:Zwsp (w)
 LOCATION:1.10/16
-DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T123000Z
 DTEND:20260203T140500Z
 SUMMARY:Zwsp (ć)
 LOCATION:1.10/16
-DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260210T123000Z
 DTEND:20260210T140500Z
 SUMMARY:Zwsp (ć)
 LOCATION:1.10/16
-DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T150000Z
 DTEND:20260127T163500Z
 SUMMARY:Zwsp (w)
 LOCATION:1.10/16
-DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Kalwasiński Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T150000Z
+DTEND:20260203T163500Z
+SUMMARY:Zwsp (ć)
+LOCATION:1.10/16
+DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T070000Z
@@ -224,8 +245,15 @@ BEGIN:VEVENT
 DTSTART:20260128T070000Z
 DTEND:20260128T083500Z
 SUMMARY:SPSpW 
-LOCATION:26 Le
-DESCRIPTION:SPSpW\nRodzaj zajęć: -\nNumer zajęć: 8/19\nProwadzący: dr Milian-Pogonowska Małgorzata; dr Zamelek Paulina; płk prof.dr hab. Mitkow Szymon; dr hab. inż. Augustyn Sławomir
+LOCATION:0.8/16
+DESCRIPTION:SPSpW\nRodzaj zajęć: -\nNumer zajęć: 8/19\nProwadzący: dr Milian-Pogonowska Małgorzata; dr Zamelek Paulina; płk prof.dr hab. Mitkow Szymon; dr inż. Lewiński Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T070000Z
+DTEND:20260204T083500Z
+SUMMARY:NTiBN (ć)
+LOCATION:1.10/16
+DESCRIPTION:Nowoczesne technologie i badania naukowe w systemie pozyskiwania SpW\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Milian-Pogonowska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260211T070000Z
@@ -245,8 +273,8 @@ BEGIN:VEVENT
 DTSTART:20260128T085000Z
 DTEND:20260128T102500Z
 SUMMARY:SPSpW 
-LOCATION:26 Le
-DESCRIPTION:SPSpW\nRodzaj zajęć: -\nNumer zajęć: 9/19\nProwadzący: dr Milian-Pogonowska Małgorzata; dr Zamelek Paulina; płk prof.dr hab. Mitkow Szymon; dr hab. inż. Augustyn Sławomir
+LOCATION:0.8/16
+DESCRIPTION:SPSpW\nRodzaj zajęć: -\nNumer zajęć: 9/19\nProwadzący: dr Milian-Pogonowska Małgorzata; dr Zamelek Paulina; płk prof.dr hab. Mitkow Szymon; dr inż. Lewiński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T085000Z
@@ -267,7 +295,7 @@ DTSTART:20260121T104000Z
 DTEND:20260121T121500Z
 SUMMARY:NTiBN (ć)
 LOCATION:1.10/16
-DESCRIPTION:Nowoczesne technologie i badania naukowe w systemie pozyskiwania SpW\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Milian-Pogonowska Małgorzata
+DESCRIPTION:Nowoczesne technologie i badania naukowe w systemie pozyskiwania SpW\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Milian-Pogonowska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T104000Z
@@ -295,7 +323,7 @@ DTSTART:20260121T123000Z
 DTEND:20260121T140500Z
 SUMMARY:NTiBN (ć)
 LOCATION:1.10/16
-DESCRIPTION:Nowoczesne technologie i badania naukowe w systemie pozyskiwania SpW\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Milian-Pogonowska Małgorzata
+DESCRIPTION:Nowoczesne technologie i badania naukowe w systemie pozyskiwania SpW\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr Milian-Pogonowska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T123000Z
@@ -317,13 +345,6 @@ DTEND:20260211T140500Z
 SUMMARY:SPSpW 
 LOCATION:1.10/16
 DESCRIPTION:SPSpW\nRodzaj zajęć: -\nNumer zajęć: 12/19\nProwadzący: dr Zamelek Paulina; dr Milian-Pogonowska Małgorzata; dr inż. Lewiński Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260128T150000Z
-DTEND:20260128T163500Z
-SUMMARY:NTiBN (ć)
-LOCATION:1.10/16
-DESCRIPTION:Nowoczesne technologie i badania naukowe w systemie pozyskiwania SpW\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr Milian-Pogonowska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T070000Z
@@ -435,14 +456,14 @@ DTSTART:20260123T070000Z
 DTEND:20260123T083500Z
 SUMMARY:Wnjk (w)
 LOCATION:1.10/16
-DESCRIPTION:Wymagania normalizacji, jakości i kodyfikacji SpW\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr n. społ. inż. Krupnik Dorota
+DESCRIPTION:Wymagania normalizacji, jakości i kodyfikacji SpW\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr n. społ. inż. Krupnik Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T070000Z
 DTEND:20260130T083500Z
 SUMMARY:Zwsp (w)
 LOCATION:1.10/16
-DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Kalwasiński Marek
+DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T070000Z
@@ -459,13 +480,6 @@ LOCATION:1.10/16
 DESCRIPTION:Zakończenie Kursu\nRodzaj zajęć: (i)\nNumer zajęć: 1/1\nProwadzący: dr n. społ. inż. Krupnik Dorota
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260227T070000Z
-DTEND:20260227T083500Z
-SUMMARY:Wnjk (w)
-LOCATION:1.10/16
-DESCRIPTION:Wymagania normalizacji, jakości i kodyfikacji SpW\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr n. społ. inż. Krupnik Dorota
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260123T085000Z
 DTEND:20260123T102500Z
 SUMMARY:Wnjk (ć)
@@ -478,19 +492,5 @@ DTEND:20260130T102500Z
 SUMMARY:NTiBN (w)
 LOCATION:1.10/16
 DESCRIPTION:Nowoczesne technologie i badania naukowe w systemie pozyskiwania SpW\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Milian-Pogonowska Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260206T085000Z
-DTEND:20260206T102500Z
-SUMMARY:Zwsp (w)
-LOCATION:1.10/16
-DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Kalwasiński Marek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260206T104000Z
-DTEND:20260206T121500Z
-SUMMARY:Zwsp (w)
-LOCATION:1.10/16
-DESCRIPTION:Zamówienia w systemie pozyskiwania sprzętu wojskowego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 END:VCALENDAR
