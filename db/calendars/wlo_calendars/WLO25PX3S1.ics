@@ -270,13 +270,6 @@ LOCATION:315 S
 DESCRIPTION:Etyka zawodowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260203T070000Z
-DTEND:20260203T083500Z
-SUMMARY:NoPiP (E)
-LOCATION:aula/135
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Kowalski Wawrzyniec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261007T075000Z
 DTEND:20261007T092500Z
 SUMMARY:WF (ć)
@@ -562,6 +555,13 @@ DTEND:20260127T182500Z
 SUMMARY:Podst.teorii 
 LOCATION:0.7/16
 DESCRIPTION:Podst.teorii\nRodzaj zajęć: -\nNumer zajęć: 12/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech; dr Stawarz Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T165000Z
+DTEND:20260203T182500Z
+SUMMARY:NoPiP (E)
+LOCATION:aula/135
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T184000Z

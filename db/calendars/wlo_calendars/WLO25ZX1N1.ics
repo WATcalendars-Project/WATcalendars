@@ -63,7 +63,7 @@ BEGIN:VEVENT
 DTSTART:20260207T070000Z
 DTEND:20260207T083500Z
 SUMMARY:Mi (E)
-LOCATION:1.9/16
+LOCATION:4.17a/135
 DESCRIPTION:Mikroekonomia\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. Przychocka Iwona
 END:VEVENT
 BEGIN:VEVENT
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 DTSTART:20260207T104000Z
 DTEND:20260207T121500Z
 SUMMARY:Pz (E)
-LOCATION:1.9/16
+LOCATION:0.24/135
 DESCRIPTION:Podstawy zarządzania\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr (prof. WAT) Gonciarski Wiesław
 END:VEVENT
 BEGIN:VEVENT
@@ -576,6 +576,13 @@ DTEND:20260201T102500Z
 SUMMARY:Pmr (ć)
 LOCATION:4.17a/135
 DESCRIPTION:Podstawy marketingu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Pawlak Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260208T085000Z
+DTEND:20260208T102500Z
+SUMMARY:Pmr (E)
+LOCATION:0.8/16
+DESCRIPTION:Podstawy marketingu\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Pawlak Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260222T085000Z

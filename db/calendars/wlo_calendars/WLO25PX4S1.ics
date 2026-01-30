@@ -284,13 +284,6 @@ LOCATION:57/62
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260203T070000Z
-DTEND:20260203T083500Z
-SUMMARY:NoPiP (E)
-LOCATION:aula/135
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Kowalski Wawrzyniec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261007T075000Z
 DTEND:20261007T092500Z
 SUMMARY:WF (ć)
@@ -576,6 +569,13 @@ DTEND:20260127T182500Z
 SUMMARY:Historyczne 
 LOCATION:0.22/16
 DESCRIPTION:Historyczne\nRodzaj zajęć: -\nNumer zajęć: 5/24\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; prof. dr hab. Kościelecki Lech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T165000Z
+DTEND:20260203T182500Z
+SUMMARY:NoPiP (E)
+LOCATION:aula/135
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T184000Z

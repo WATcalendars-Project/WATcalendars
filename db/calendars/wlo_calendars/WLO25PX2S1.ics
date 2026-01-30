@@ -403,13 +403,6 @@ LOCATION:4.17b/135
 DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260203T070000Z
-DTEND:20260203T083500Z
-SUMMARY:NoPiP (E)
-LOCATION:aula/135
-DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Kowalski Wawrzyniec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261007T075000Z
 DTEND:20261007T092500Z
 SUMMARY:WF (ć)
@@ -611,6 +604,13 @@ DTEND:20260120T182500Z
 SUMMARY:NoPiP (w)
 LOCATION:aula/135
 DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Kowalski Wawrzyniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T165000Z
+DTEND:20260203T182500Z
+SUMMARY:NoPiP (E)
+LOCATION:aula/135
+DESCRIPTION:Nauka o państwie i prawie\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Kowalski Wawrzyniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261104T184000Z
