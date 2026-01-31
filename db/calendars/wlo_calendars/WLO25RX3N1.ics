@@ -120,7 +120,7 @@ DTSTART:20260117T085000Z
 DTEND:20260117T102500Z
 SUMMARY:PPb (ć)
 LOCATION:0.6/16
-DESCRIPTION:Prawne podstawy bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3
+DESCRIPTION:Prawne podstawy bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T085000Z
@@ -183,7 +183,7 @@ DTSTART:20260117T104000Z
 DTEND:20260117T121500Z
 SUMMARY:PPb (ć)
 LOCATION:0.6/16
-DESCRIPTION:Prawne podstawy bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
+DESCRIPTION:Prawne podstawy bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T104000Z
@@ -331,6 +331,13 @@ DTEND:20260117T163500Z
 SUMMARY:PTb (ć)
 LOCATION:0.21/16
 DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T150000Z
+DTEND:20260131T163500Z
+SUMMARY:PPb (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Prawne podstawy bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260228T150000Z
@@ -508,13 +515,6 @@ LOCATION:0.19/135
 DESCRIPTION:Wiedza o państwie i prawie\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Gocalski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260301T070000Z
-DTEND:20260301T083500Z
-SUMMARY:HP (w)
-LOCATION:3.16/135
-DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Wójciuk Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261005T075000Z
 DTEND:20261005T092500Z
 SUMMARY:PPb (w)
@@ -606,109 +606,95 @@ LOCATION:0.19/135
 DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. Filipek Agnieszka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260301T085000Z
-DTEND:20260301T102500Z
-SUMMARY:HP (w)
-LOCATION:3.16/135
-DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Wójciuk Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261005T094000Z
 DTEND:20261005T111500Z
 SUMMARY:Jo (ć)
 LOCATION:134 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/16\nProwadzący: mgr Zeneli Andi
+DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: mgr Zeneli Andi
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T094000Z
 DTEND:20261012T111500Z
 SUMMARY:Jo (ć)
 LOCATION:134 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/16\nProwadzący: mgr Zeneli Andi
+DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: mgr Zeneli Andi
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T104000Z
 DTEND:20261026T121500Z
 SUMMARY:Jo (ć)
 LOCATION:134 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/16\nProwadzący: mgr Zeneli Andi
+DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: mgr Zeneli Andi
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261109T104000Z
 DTEND:20261109T121500Z
 SUMMARY:Jo (ć)
 LOCATION:134 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/16\nProwadzący: mgr Zeneli Andi
+DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: mgr Zeneli Andi
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T104000Z
 DTEND:20261116T121500Z
 SUMMARY:Jo (ć)
 LOCATION:134 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/16\nProwadzący: mgr Zeneli Andi
+DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: mgr Zeneli Andi
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261123T104000Z
 DTEND:20261123T121500Z
 SUMMARY:Jo (ć)
 LOCATION:134 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/16\nProwadzący: mgr Zeneli Andi
+DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: mgr Zeneli Andi
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T104000Z
 DTEND:20261207T121500Z
 SUMMARY:Jo (ć)
 LOCATION:134 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/16\nProwadzący: mgr Zeneli Andi
+DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: mgr Zeneli Andi
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261214T104000Z
 DTEND:20261214T121500Z
 SUMMARY:Jo (ć)
 LOCATION:134 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/16\nProwadzący: mgr Zeneli Andi
+DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: mgr Zeneli Andi
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T104000Z
 DTEND:20261221T121500Z
 SUMMARY:Jo (ć)
 LOCATION:134 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/16\nProwadzący: mgr Zeneli Andi
+DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: mgr Zeneli Andi
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T104000Z
 DTEND:20260111T121500Z
 SUMMARY:Jo (ć)
 LOCATION:134 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/16\nProwadzący: mgr Zeneli Andi
+DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: mgr Zeneli Andi
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T104000Z
 DTEND:20260118T121500Z
 SUMMARY:Jo (ć)
 LOCATION:134 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/16\nProwadzący: mgr Zeneli Andi
+DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: mgr Zeneli Andi
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260125T104000Z
 DTEND:20260125T121500Z
 SUMMARY:Jo (ć)
 LOCATION:134 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/16\nProwadzący: mgr Zeneli Andi
+DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: mgr Zeneli Andi
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260201T104000Z
 DTEND:20260201T121500Z
 SUMMARY:Jo (ć)
 LOCATION:134 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/16\nProwadzący: mgr Zeneli Andi
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260301T104000Z
-DTEND:20260301T121500Z
-SUMMARY:Jo (ć)
-LOCATION:134 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/16
+DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: mgr Zeneli Andi
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T113000Z
@@ -750,7 +736,7 @@ DTSTART:20261207T123000Z
 DTEND:20261207T140500Z
 SUMMARY:PPb (ć)
 LOCATION:0.22/16
-DESCRIPTION:Prawne podstawy bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
+DESCRIPTION:Prawne podstawy bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T123000Z
@@ -785,7 +771,7 @@ DTSTART:20261109T150000Z
 DTEND:20261109T163500Z
 SUMMARY:Jo (ć)
 LOCATION:134 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/16\nProwadzący: mgr Zeneli Andi
+DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: mgr Zeneli Andi
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261116T150000Z
@@ -799,7 +785,7 @@ DTSTART:20261214T150000Z
 DTEND:20261214T163500Z
 SUMMARY:Jo (ć)
 LOCATION:134 K
-DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/16\nProwadzący: mgr Zeneli Andi
+DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: mgr Zeneli Andi
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T150000Z

@@ -711,13 +711,6 @@ LOCATION:52/ 62
 DESCRIPTION:Infrastruktura logistyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250210T070000Z
-DTEND:20250210T083500Z
-SUMMARY:Ilog (Zp.)
-LOCATION:52/ 62
-DESCRIPTION:Infrastruktura logistyczna\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Orłowski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251007T075000Z
 DTEND:20251007T092500Z
 SUMMARY:Is (w)
@@ -1043,7 +1036,7 @@ BEGIN:VEVENT
 DTSTART:20250210T123000Z
 DTEND:20250210T140500Z
 SUMMARY:PLm (Zp.)
-LOCATION:52/ 62
+LOCATION:301/ S
 DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -1409,6 +1402,13 @@ DTEND:20250204T102500Z
 SUMMARY:Is (E)
 LOCATION:116/ 54
 DESCRIPTION:Inżynieria systemów i analiza systemowa\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof. dr. hab. inż. Brzeziński Marian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250211T085000Z
+DTEND:20250211T102500Z
+SUMMARY:Ilog (Zp.)
+LOCATION:301/ S
+DESCRIPTION:Infrastruktura logistyczna\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250218T085000Z

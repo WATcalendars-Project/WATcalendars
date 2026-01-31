@@ -480,13 +480,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/30\nProwadzący: mgr Gulan Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250202T123000Z
-DTEND:20250202T140500Z
-SUMMARY:PGI (Zp. Ćw)
-LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250209T123000Z
 DTEND:20250209T140500Z
 SUMMARY:PZiP (Zp.)
@@ -982,13 +975,6 @@ DTEND:20250203T121500Z
 SUMMARY:M1 (Zp. Ćw)
 LOCATION:9/ 62
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250210T104000Z
-DTEND:20250210T121500Z
-SUMMARY:PGI (Zp.)
-LOCATION:3/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250217T104000Z
@@ -1803,6 +1789,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 66/140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250211T150000Z
+DTEND:20250211T163500Z
+SUMMARY:PGI (Zp. Ćw)
+LOCATION:116/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251001T155000Z
 DTEND:20251001T172500Z
 SUMMARY:REZ 
@@ -1822,6 +1815,13 @@ DTEND:20251231T182500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 68/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250211T165000Z
+DTEND:20250211T182500Z
+SUMMARY:PGI (Zp.)
+LOCATION:116/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T174000Z

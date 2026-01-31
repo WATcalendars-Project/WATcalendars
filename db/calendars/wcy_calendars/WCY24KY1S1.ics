@@ -3784,6 +3784,13 @@ LOCATION:121 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260218T085000Z
+DTEND:20260218T102500Z
+SUMMARY:Tik (Inne)
+LOCATION:204 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260218T104000Z
 DTEND:20260218T121500Z
 SUMMARY:SO (Inne)
@@ -4085,20 +4092,6 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 33/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260318T085000Z
-DTEND:20260318T102500Z
-SUMMARY:Sck (w)
-LOCATION:316 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/14\nProwadzący: dr hab. inż. Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260318T104000Z
-DTEND:20260318T121500Z
-SUMMARY:Sck (w)
-LOCATION:316 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/14\nProwadzący: dr hab. inż. Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260318T150000Z
 DTEND:20260318T163500Z
 SUMMARY:Etl (w)
@@ -4152,14 +4145,14 @@ DTSTART:20260324T070000Z
 DTEND:20260324T083500Z
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/14\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T085000Z
 DTEND:20260324T102500Z
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 8/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/14\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T104000Z
@@ -4236,14 +4229,14 @@ DTSTART:20260401T094000Z
 DTEND:20260401T111500Z
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 9/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/14\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T113000Z
 DTEND:20260401T130500Z
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 10/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 8/14\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T060000Z
@@ -4306,14 +4299,14 @@ DTSTART:20260413T060000Z
 DTEND:20260413T073500Z
 SUMMARY:Sck (w)
 LOCATION:316 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 11/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 9/14\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T075000Z
 DTEND:20260413T092500Z
 SUMMARY:Sck (w)
 LOCATION:316 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 12/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 10/14\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T094000Z
@@ -4349,6 +4342,20 @@ DTEND:20260415T073500Z
 SUMMARY:Wek (w)
 LOCATION:317 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T075000Z
+DTEND:20260415T092500Z
+SUMMARY:Sck (w)
+LOCATION:317 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 11/14\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T094000Z
+DTEND:20260415T111500Z
+SUMMARY:Sck (w)
+LOCATION:317 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 12/14\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T075000Z

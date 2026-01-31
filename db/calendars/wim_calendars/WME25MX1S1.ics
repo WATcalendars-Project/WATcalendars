@@ -1600,13 +1600,6 @@ LOCATION:1/ 21
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr hab. Panek Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250211T123000Z
-DTEND:20250211T140500Z
-SUMMARY:PGI (Zp.)
-LOCATION:3/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251224T150000Z
 DTEND:20251224T163500Z
 SUMMARY:I 
@@ -1626,6 +1619,13 @@ DTEND:20250114T163500Z
 SUMMARY:Wzp (ć)
 LOCATION:52/ 62
 DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr Kobielski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250211T150000Z
+DTEND:20250211T163500Z
+SUMMARY:PGI (Zp. Ćw)
+LOCATION:116/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/2\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T165000Z
@@ -1800,7 +1800,7 @@ DTSTART:20250205T104000Z
 DTEND:20250205T121500Z
 SUMMARY:PGI (Zp. Ćw)
 LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 2/2\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250219T104000Z

@@ -2772,7 +2772,7 @@ BEGIN:VEVENT
 DTSTART:20260302T085000Z
 DTEND:20260302T102500Z
 SUMMARY:Fil (w)
-LOCATION:301/ S
+LOCATION:aula/ 135
 DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2816,6 +2816,13 @@ DTEND:20260304T140500Z
 SUMMARY:PEM (w)
 LOCATION:313 S
 DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T150000Z
+DTEND:20260304T163500Z
+SUMMARY:Fil (w)
+LOCATION:aula/ 135
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T085000Z
@@ -2893,13 +2900,6 @@ DTEND:20260309T083500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/29\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260309T085000Z
-DTEND:20260309T102500Z
-SUMMARY:Fil (w)
-LOCATION:301/ S
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T104000Z
@@ -3052,7 +3052,7 @@ BEGIN:VEVENT
 DTSTART:20260316T085000Z
 DTEND:20260316T102500Z
 SUMMARY:Fil (w)
-LOCATION:301/ S
+LOCATION:aula/ 135
 DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3213,7 +3213,7 @@ BEGIN:VEVENT
 DTSTART:20260323T085000Z
 DTEND:20260323T102500Z
 SUMMARY:Fil (w)
-LOCATION:301/ S
+LOCATION:aula/ 135
 DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3381,7 +3381,7 @@ BEGIN:VEVENT
 DTSTART:20260330T075000Z
 DTEND:20260330T092500Z
 SUMMARY:Fil (w)
-LOCATION:301/ S
+LOCATION:aula/ 135
 DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3672,6 +3672,13 @@ LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260409T075000Z
+DTEND:20260409T092500Z
+SUMMARY:Fil (ć)
+LOCATION:2.21/ 135
+DESCRIPTION:Filozofia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260409T113000Z
 DTEND:20260409T130500Z
 SUMMARY:F1 (ć)
@@ -3742,13 +3749,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/29\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260413T075000Z
-DTEND:20260413T092500Z
-SUMMARY:Fil (w)
-LOCATION:301/ S
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260413T094000Z
 DTEND:20260413T111500Z
 SUMMARY:WdP (w)
@@ -3761,6 +3761,13 @@ DTEND:20260413T130500Z
 SUMMARY:Bwg (w)
 LOCATION:301/ S
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T140000Z
+DTEND:20260413T153500Z
+SUMMARY:Fil (w)
+LOCATION:aula/ 135
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T060000Z
@@ -3810,6 +3817,13 @@ DTEND:20260415T172500Z
 SUMMARY:JoM (ć)
 LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T075000Z
+DTEND:20260416T092500Z
+SUMMARY:Fil (ć)
+LOCATION:2.21/ 135
+DESCRIPTION:Filozofia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T140000Z
@@ -3878,7 +3892,7 @@ BEGIN:VEVENT
 DTSTART:20260420T075000Z
 DTEND:20260420T092500Z
 SUMMARY:Fil (w)
-LOCATION:301/ S
+LOCATION:aula/ 135
 DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3943,6 +3957,13 @@ DTEND:20260422T172500Z
 SUMMARY:JoM (ć)
 LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T075000Z
+DTEND:20260423T092500Z
+SUMMARY:Fil (ć)
+LOCATION:2.21/ 135
+DESCRIPTION:Filozofia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T094000Z
@@ -4025,7 +4046,7 @@ BEGIN:VEVENT
 DTSTART:20260427T075000Z
 DTEND:20260427T092500Z
 SUMMARY:Fil (w)
-LOCATION:301/ S
+LOCATION:aula/ 135
 DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4111,6 +4132,13 @@ DTEND:20260429T172500Z
 SUMMARY:JoM (ć)
 LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T075000Z
+DTEND:20260430T092500Z
+SUMMARY:Fil (ć)
+LOCATION:2.21/ 135
+DESCRIPTION:Filozofia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T140000Z
@@ -4211,6 +4239,20 @@ LOCATION:9/ 62
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260505T094000Z
+DTEND:20260505T111500Z
+SUMMARY:Ppu. (L)
+LOCATION:11/ 23
+DESCRIPTION:Podstawy projektowania uniwersalnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T113000Z
+DTEND:20260505T130500Z
+SUMMARY:Ppu. (L)
+LOCATION:11/ 23
+DESCRIPTION:Podstawy projektowania uniwersalnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T060000Z
 DTEND:20260506T073500Z
 SUMMARY:F1 (w)
@@ -4246,6 +4288,13 @@ LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260507T075000Z
+DTEND:20260507T092500Z
+SUMMARY:Fil (ć)
+LOCATION:2.21/ 135
+DESCRIPTION:Filozofia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260507T113000Z
 DTEND:20260507T130500Z
 SUMMARY:F1 (ć)
@@ -4269,44 +4318,44 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T075000Z
 DTEND:20260508T092500Z
-SUMMARY:- (Inne)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 246/1\nProwadzący: -
+SUMMARY:Ppu. (L)
+LOCATION:11/ 23
+DESCRIPTION:Podstawy projektowania uniwersalnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T094000Z
 DTEND:20260508T111500Z
-SUMMARY:- (Inne)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 247/1\nProwadzący: -
+SUMMARY:Ppu. (L)
+LOCATION:11/ 23
+DESCRIPTION:Podstawy projektowania uniwersalnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T113000Z
 DTEND:20260508T130500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 248/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 246/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T140000Z
 DTEND:20260508T153500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 249/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 247/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T155000Z
 DTEND:20260508T172500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 250/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 248/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T174000Z
 DTEND:20260508T191500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 251/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 249/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T060000Z
@@ -4414,6 +4463,13 @@ LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260514T075000Z
+DTEND:20260514T092500Z
+SUMMARY:Fil (ć)
+LOCATION:2.21/ 135
+DESCRIPTION:Filozofia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260514T113000Z
 DTEND:20260514T130500Z
 SUMMARY:F1 (ć)
@@ -4432,49 +4488,49 @@ DTSTART:20260515T060000Z
 DTEND:20260515T073500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 252/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 250/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T075000Z
 DTEND:20260515T092500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 253/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 251/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T094000Z
 DTEND:20260515T111500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 254/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 252/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T113000Z
 DTEND:20260515T130500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 255/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 253/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T140000Z
 DTEND:20260515T153500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 256/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 254/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T155000Z
 DTEND:20260515T172500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 257/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 255/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T174000Z
 DTEND:20260515T191500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 258/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 256/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T060000Z
@@ -4607,21 +4663,21 @@ DTSTART:20260522T060000Z
 DTEND:20260522T073500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 259/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 257/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T075000Z
 DTEND:20260522T092500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 260/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 258/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T094000Z
 DTEND:20260522T111500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 261/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 259/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T113000Z
@@ -4635,21 +4691,21 @@ DTSTART:20260522T140000Z
 DTEND:20260522T153500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 262/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 260/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T155000Z
 DTEND:20260522T172500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 263/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 261/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T174000Z
 DTEND:20260522T191500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 264/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 262/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T060000Z
@@ -4736,6 +4792,20 @@ LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260528T060000Z
+DTEND:20260528T073500Z
+SUMMARY:Ppu. (L)
+LOCATION:11/ 23
+DESCRIPTION:Podstawy projektowania uniwersalnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T075000Z
+DTEND:20260528T092500Z
+SUMMARY:Fil (ć)
+LOCATION:2.21/ 135
+DESCRIPTION:Filozofia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260528T113000Z
 DTEND:20260528T130500Z
 SUMMARY:F1 (ć)
@@ -4754,21 +4824,21 @@ DTSTART:20260529T060000Z
 DTEND:20260529T073500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 265/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 263/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T075000Z
 DTEND:20260529T092500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 266/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 264/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T094000Z
 DTEND:20260529T111500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 267/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 265/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T113000Z
@@ -4782,21 +4852,21 @@ DTSTART:20260529T140000Z
 DTEND:20260529T153500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 268/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 266/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T155000Z
 DTEND:20260529T172500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 269/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 267/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T174000Z
 DTEND:20260529T191500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 270/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 268/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T060000Z
@@ -4841,6 +4911,13 @@ LOCATION:9/ 62
 DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260603T113000Z
+DTEND:20260603T130500Z
+SUMMARY:Ppu. (L)
+LOCATION:11/ 23
+DESCRIPTION:Podstawy projektowania uniwersalnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260603T155000Z
 DTEND:20260603T172500Z
 SUMMARY:JoM (ć)
@@ -4852,98 +4929,98 @@ DTSTART:20260604T060000Z
 DTEND:20260604T073500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 271/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 269/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260604T075000Z
 DTEND:20260604T092500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 272/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 270/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260604T094000Z
 DTEND:20260604T111500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 273/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 271/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260604T113000Z
 DTEND:20260604T130500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 274/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 272/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260604T140000Z
 DTEND:20260604T153500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 275/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 273/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260604T155000Z
 DTEND:20260604T172500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 276/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 274/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260604T174000Z
 DTEND:20260604T191500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 277/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 275/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260605T060000Z
 DTEND:20260605T073500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 278/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 276/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260605T075000Z
 DTEND:20260605T092500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 279/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 277/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260605T094000Z
 DTEND:20260605T111500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 280/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 278/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260605T113000Z
 DTEND:20260605T130500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 281/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 279/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260605T140000Z
 DTEND:20260605T153500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 282/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 280/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260605T155000Z
 DTEND:20260605T172500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 283/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 281/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260605T174000Z
 DTEND:20260605T191500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 284/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 282/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T060000Z
@@ -5020,21 +5097,21 @@ DTSTART:20260612T060000Z
 DTEND:20260612T073500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 285/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 283/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T075000Z
 DTEND:20260612T092500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 286/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 284/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T094000Z
 DTEND:20260612T111500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 287/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 285/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T113000Z
@@ -5048,21 +5125,21 @@ DTSTART:20260612T140000Z
 DTEND:20260612T153500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 288/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 286/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T155000Z
 DTEND:20260612T172500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 289/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 287/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T174000Z
 DTEND:20260612T191500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 290/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 288/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T060000Z
@@ -5153,49 +5230,49 @@ DTSTART:20260619T060000Z
 DTEND:20260619T073500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 291/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 289/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T075000Z
 DTEND:20260619T092500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 292/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 290/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T094000Z
 DTEND:20260619T111500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 293/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 291/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T113000Z
 DTEND:20260619T130500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 294/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 292/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T140000Z
 DTEND:20260619T153500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 295/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 293/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T155000Z
 DTEND:20260619T172500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 296/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 294/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T174000Z
 DTEND:20260619T191500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 297/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 295/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260622T075000Z
@@ -5219,6 +5296,13 @@ LOCATION:301/ S
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260625T075000Z
+DTEND:20260625T092500Z
+SUMMARY:Fil (Inne)
+LOCATION:4.17b/ 135 La
+DESCRIPTION:Filozofia - (Zp. Ćw) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260625T094000Z
 DTEND:20260625T111500Z
 SUMMARY:HP (Inne)
@@ -5226,11 +5310,18 @@ LOCATION:109/ 54
 DESCRIPTION:Historia Polski - (Zp. Ćw) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260625T113000Z
+DTEND:20260625T130500Z
+SUMMARY:Ppu. (Inne)
+LOCATION:11/ 23
+DESCRIPTION:Podstawy projektowania uniwersalnego - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260629T060000Z
 DTEND:20260629T073500Z
 SUMMARY:Fil (Inne)
-LOCATION:301/ S
-DESCRIPTION:Filozofia - (Zaliczenie poprawkowe.) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
+LOCATION:aula/ 135
+DESCRIPTION:Filozofia - (Zaliczenie poprawkowe.) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260629T075000Z
@@ -5258,7 +5349,7 @@ DTSTART:20260630T113000Z
 DTEND:20260630T130500Z
 SUMMARY:Ppu. (Inne)
 LOCATION:3/ 54
-DESCRIPTION:Podstawy projektowania uniwersalnego - (Zaliczenie poprawkowe.) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Podstawy projektowania uniwersalnego - (Zaliczenie poprawkowe.) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260701T060000Z

@@ -970,13 +970,6 @@ LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/30
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250210T104000Z
-DTEND:20250210T121500Z
-SUMMARY:PGI (Zp.)
-LOCATION:3/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250217T104000Z
 DTEND:20250217T121500Z
 SUMMARY:M1 (Ep)
@@ -1857,6 +1850,13 @@ DTEND:20251231T182500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 68/140
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250211T165000Z
+DTEND:20250211T182500Z
+SUMMARY:PGI (Zp.)
+LOCATION:116/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T174000Z
