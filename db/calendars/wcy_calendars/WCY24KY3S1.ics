@@ -3809,7 +3809,7 @@ DTSTART:20260304T104000Z
 DTEND:20260304T121500Z
 SUMMARY:IO (w)
 LOCATION:307 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T070000Z
@@ -3828,13 +3828,20 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T104000Z
 DTEND:20260305T121500Z
+SUMMARY:IO (w)
+LOCATION:307 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T123000Z
+DTEND:20260305T140500Z
 SUMMARY:MM (w)
 LOCATION:314 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260305T123000Z
-DTEND:20260305T140500Z
+DTSTART:20260305T150000Z
+DTEND:20260305T163500Z
 SUMMARY:Etl (w)
 LOCATION:314 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr Robert Dryło
@@ -3851,7 +3858,7 @@ DTSTART:20260306T085000Z
 DTEND:20260306T102500Z
 SUMMARY:IO (w)
 LOCATION:307 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T104000Z
@@ -3928,7 +3935,7 @@ DTSTART:20260311T104000Z
 DTEND:20260311T121500Z
 SUMMARY:IO (w)
 LOCATION:307 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T070000Z
@@ -3938,18 +3945,25 @@ LOCATION:317 S
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260312T085000Z
-DTEND:20260312T102500Z
-SUMMARY:Etl (w)
-LOCATION:314 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr Robert Dryło
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260312T104000Z
 DTEND:20260312T121500Z
+SUMMARY:IO (w)
+LOCATION:307 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T123000Z
+DTEND:20260312T140500Z
 SUMMARY:MM (w)
 LOCATION:314 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T150000Z
+DTEND:20260312T163500Z
+SUMMARY:Etl (w)
+LOCATION:314 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T070000Z
@@ -3963,7 +3977,7 @@ DTSTART:20260313T085000Z
 DTEND:20260313T102500Z
 SUMMARY:IO (w)
 LOCATION:307 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T104000Z

@@ -4428,18 +4428,18 @@ LOCATION:19 36
 DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260305T104000Z
-DTEND:20260305T121500Z
-SUMMARY:dsk (w)
-LOCATION:307 S
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260306T104000Z
 DTEND:20260306T121500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 62/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T123000Z
+DTEND:20260306T140500Z
+SUMMARY:dsk (w)
+LOCATION:307 S
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T070000Z
@@ -4484,10 +4484,10 @@ LOCATION:239 K 120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 65/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260312T104000Z
-DTEND:20260312T121500Z
+DTSTART:20260312T123000Z
+DTEND:20260312T140500Z
 SUMMARY:dsk (w)
-LOCATION:307 S
+LOCATION:317 S
 DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -4666,6 +4666,20 @@ LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260324T070000Z
+DTEND:20260324T083500Z
+SUMMARY:Pwst (L)
+LOCATION:09 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T085000Z
+DTEND:20260324T102500Z
+SUMMARY:Pwst (L)
+LOCATION:09 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260324T104000Z
 DTEND:20260324T121500Z
 SUMMARY:WF (ć)
@@ -4736,6 +4750,20 @@ LOCATION:308 S
 DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260331T060000Z
+DTEND:20260331T073500Z
+SUMMARY:Pwst (P)
+LOCATION:09 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/2\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T075000Z
+DTEND:20260331T092500Z
+SUMMARY:Pwst (P)
+LOCATION:09 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260331T094000Z
 DTEND:20260331T111500Z
 SUMMARY:WF (ć)
@@ -4776,6 +4804,20 @@ DTEND:20260401T153500Z
 SUMMARY:Sss (w)
 LOCATION:203 65
 DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T060000Z
+DTEND:20260402T073500Z
+SUMMARY:Pwst (L)
+LOCATION:09 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T075000Z
+DTEND:20260402T092500Z
+SUMMARY:Pwst (L)
+LOCATION:09 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T075000Z
@@ -5079,6 +5121,20 @@ LOCATION:313 S
 DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260423T140000Z
+DTEND:20260423T153500Z
+SUMMARY:Pwst (L)
+LOCATION:106 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T155000Z
+DTEND:20260423T172500Z
+SUMMARY:Pwst (L)
+LOCATION:106 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260427T060000Z
 DTEND:20260427T073500Z
 SUMMARY:Ja (ć)
@@ -5212,6 +5268,20 @@ LOCATION:313 S
 DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260504T140000Z
+DTEND:20260504T153500Z
+SUMMARY:Sss (L)
+LOCATION:011 65
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T155000Z
+DTEND:20260504T172500Z
+SUMMARY:Sss (L)
+LOCATION:011 65
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260505T060000Z
 DTEND:20260505T073500Z
 SUMMARY:TeIP (L)
@@ -5287,6 +5357,20 @@ DTEND:20260507T092500Z
 SUMMARY:Syt (w)
 LOCATION:101 65
 DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T094000Z
+DTEND:20260507T111500Z
+SUMMARY:Pwst (L)
+LOCATION:09 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T113000Z
+DTEND:20260507T130500Z
+SUMMARY:Pwst (L)
+LOCATION:09 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T094000Z
@@ -5427,6 +5511,34 @@ DTEND:20260518T130500Z
 SUMMARY:Dn (ć)
 LOCATION:309 S
 DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T140000Z
+DTEND:20260518T153500Z
+SUMMARY:Sss (L)
+LOCATION:011 65
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T155000Z
+DTEND:20260518T172500Z
+SUMMARY:Sss (L)
+LOCATION:011 65
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T060000Z
+DTEND:20260519T073500Z
+SUMMARY:Pwst (L)
+LOCATION:09 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T075000Z
+DTEND:20260519T092500Z
+SUMMARY:Pwst (L)
+LOCATION:09 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T094000Z
@@ -5576,6 +5688,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 83/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260529T094000Z
+DTEND:20260529T111500Z
+SUMMARY:Sss (L)
+LOCATION:011 65
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T113000Z
+DTEND:20260529T130500Z
+SUMMARY:Sss (L)
+LOCATION:011 65
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260601T060000Z
 DTEND:20260601T073500Z
 SUMMARY:Ja (ć)
@@ -5604,11 +5730,39 @@ LOCATION:121 65
 DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260601T140000Z
+DTEND:20260601T153500Z
+SUMMARY:Pwst (L)
+LOCATION:011 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T155000Z
+DTEND:20260601T172500Z
+SUMMARY:Pwst (L)
+LOCATION:011 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260602T094000Z
 DTEND:20260602T111500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 84/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T140000Z
+DTEND:20260602T153500Z
+SUMMARY:Sss (L)
+LOCATION:011 65
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T155000Z
+DTEND:20260602T172500Z
+SUMMARY:Sss (L)
+LOCATION:011 65
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T060000Z
