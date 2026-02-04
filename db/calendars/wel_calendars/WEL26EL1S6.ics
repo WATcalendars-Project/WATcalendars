@@ -39,13 +39,6 @@ LOCATION:
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Jurzysta Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260216T085000Z
-DTEND:20260216T102500Z
-SUMMARY:OIN 
-LOCATION:
-DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260112T104000Z
 DTEND:20260112T121500Z
 SUMMARY:DYSP 
@@ -277,6 +270,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: mgr Landowski Karol
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260224T165000Z
+DTEND:20260224T182500Z
+SUMMARY:ZINŻ 
+LOCATION:
+DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Jurzysta Paweł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260128T070000Z
 DTEND:20260128T083500Z
 SUMMARY:PD 
@@ -293,9 +293,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260211T070000Z
 DTEND:20260211T083500Z
-SUMMARY:ZINŻ 
+SUMMARY:OIN 
 LOCATION:
-DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Jurzysta Paweł
+DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T070000Z

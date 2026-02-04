@@ -487,46 +487,53 @@ LOCATION:106 65
 DESCRIPTION:Kompresja danych multimedialnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T070000Z
+DTEND:20260325T083500Z
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T085000Z
 DTEND:20260325T102500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T104000Z
 DTEND:20260325T121500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T123000Z
 DTEND:20260325T140500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T150000Z
 DTEND:20260325T163500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T165000Z
 DTEND:20260325T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 6/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T184000Z
 DTEND:20260325T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 6/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 7/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T070000Z
@@ -568,14 +575,14 @@ DTSTART:20260326T165000Z
 DTEND:20260326T182500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 7/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 8/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T184000Z
 DTEND:20260326T201500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 8/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 9/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T085000Z
@@ -662,11 +669,25 @@ LOCATION:101 65
 DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260331T094000Z
+DTEND:20260331T111500Z
+SUMMARY:kck (L)
+LOCATION:09 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260331T113000Z
 DTEND:20260331T130500Z
 SUMMARY:JEt (w)
 LOCATION:307 S
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T140000Z
+DTEND:20260331T153500Z
+SUMMARY:sd (L)
+LOCATION:09 65
+DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T060000Z
@@ -893,6 +914,27 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260415T113000Z
+DTEND:20260415T130500Z
+SUMMARY:JEt (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T140000Z
+DTEND:20260415T153500Z
+SUMMARY:JEt (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T060000Z
+DTEND:20260416T073500Z
+SUMMARY:kck (L)
+LOCATION:09 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260416T075000Z
 DTEND:20260416T092500Z
 SUMMARY:kck (w)
@@ -1026,6 +1068,20 @@ LOCATION:205 65
 DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260421T140000Z
+DTEND:20260421T153500Z
+SUMMARY:kck (L)
+LOCATION:106 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T155000Z
+DTEND:20260421T172500Z
+SUMMARY:kck (L)
+LOCATION:106 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260422T075000Z
 DTEND:20260422T092500Z
 SUMMARY:sd (w)
@@ -1129,6 +1185,27 @@ DTEND:20260430T073500Z
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T075000Z
+DTEND:20260430T092500Z
+SUMMARY:sd (L)
+LOCATION:011 65
+DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T094000Z
+DTEND:20260430T111500Z
+SUMMARY:JEt (L)
+LOCATION:106 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T113000Z
+DTEND:20260430T130500Z
+SUMMARY:JEt (L)
+LOCATION:106 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T140000Z
@@ -1369,6 +1446,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260512T140000Z
+DTEND:20260512T153500Z
+SUMMARY:kck (L)
+LOCATION:011 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T155000Z
+DTEND:20260512T172500Z
+SUMMARY:kck (L)
+LOCATION:011 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260513T060000Z
 DTEND:20260513T073500Z
 SUMMARY:Rou (L)
@@ -1388,6 +1479,20 @@ DTEND:20260513T111500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T113000Z
+DTEND:20260513T130500Z
+SUMMARY:sd (L)
+LOCATION:125 65
+DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T140000Z
+DTEND:20260513T153500Z
+SUMMARY:sd (L)
+LOCATION:125 65
+DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T060000Z
@@ -1537,6 +1642,20 @@ LOCATION:011 65
 DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260520T094000Z
+DTEND:20260520T111500Z
+SUMMARY:JEt (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T113000Z
+DTEND:20260520T130500Z
+SUMMARY:JEt (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260521T060000Z
 DTEND:20260521T073500Z
 SUMMARY:Ja (ć)
@@ -1628,6 +1747,20 @@ LOCATION:106 65
 DESCRIPTION:Kompresja danych multimedialnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260525T140000Z
+DTEND:20260525T153500Z
+SUMMARY:kck (L)
+LOCATION:011 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T155000Z
+DTEND:20260525T172500Z
+SUMMARY:kck (L)
+LOCATION:011 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260526T060000Z
 DTEND:20260526T073500Z
 SUMMARY:Ja (ć)
@@ -1656,11 +1789,39 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260527T113000Z
+DTEND:20260527T130500Z
+SUMMARY:sd (L)
+LOCATION:125 65
+DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T140000Z
+DTEND:20260527T153500Z
+SUMMARY:sd (L)
+LOCATION:125 65
+DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260528T060000Z
 DTEND:20260528T073500Z
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T094000Z
+DTEND:20260528T111500Z
+SUMMARY:JEt (L)
+LOCATION:011 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T113000Z
+DTEND:20260528T130500Z
+SUMMARY:JEt (L)
+LOCATION:011 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T140000Z
@@ -1775,11 +1936,39 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260608T094000Z
+DTEND:20260608T111500Z
+SUMMARY:JEt (L)
+LOCATION:011 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T113000Z
+DTEND:20260608T130500Z
+SUMMARY:JEt (L)
+LOCATION:011 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260609T060000Z
 DTEND:20260609T073500Z
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T075000Z
+DTEND:20260609T092500Z
+SUMMARY:sd (L)
+LOCATION:125 65
+DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T094000Z
+DTEND:20260609T111500Z
+SUMMARY:sd (L)
+LOCATION:125 65
+DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T060000Z

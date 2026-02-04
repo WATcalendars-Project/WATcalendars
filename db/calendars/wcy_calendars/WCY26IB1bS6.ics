@@ -525,7 +525,7 @@ BEGIN:VEVENT
 DTSTART:20260204T104000Z
 DTEND:20260204T121500Z
 SUMMARY:DSiSM (ć)
-LOCATION:PĆT2
+LOCATION:AW 4
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -658,7 +658,7 @@ BEGIN:VEVENT
 DTSTART:20260209T104000Z
 DTEND:20260209T121500Z
 SUMMARY:DSiSM (ć)
-LOCATION:ST.nr 1(DS)
+LOCATION:AW 3/043
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -713,9 +713,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260211T070000Z
 DTEND:20260211T083500Z
-SUMMARY:ZINŻ (w)
-LOCATION:AW 4
-DESCRIPTION:Zabezpieczenie inżynieryjne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: -
+SUMMARY:OIN (w)
+LOCATION:AW 1
+DESCRIPTION:Ochrona informacji niejawnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260211T085000Z
@@ -728,7 +728,7 @@ BEGIN:VEVENT
 DTSTART:20260211T104000Z
 DTEND:20260211T121500Z
 SUMMARY:OPW (w)
-LOCATION:AW 3/038
+LOCATION:AW 1
 DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -828,13 +828,6 @@ DTEND:20260216T083500Z
 SUMMARY:SO (w)
 LOCATION:203 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260216T085000Z
-DTEND:20260216T102500Z
-SUMMARY:OIN (w)
-LOCATION:AW 1
-DESCRIPTION:Ochrona informacji niejawnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T104000Z
@@ -1052,6 +1045,13 @@ DTEND:20260224T163500Z
 SUMMARY:Pwd (w)
 LOCATION:aula/ 135
 DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260224T165000Z
+DTEND:20260224T182500Z
+SUMMARY:ZINŻ (w)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie inżynieryjne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260225T070000Z

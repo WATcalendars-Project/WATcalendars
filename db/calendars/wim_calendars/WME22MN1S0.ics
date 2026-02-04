@@ -452,13 +452,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 16/140
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250209T123000Z
-DTEND:20250209T140500Z
-SUMMARY:BPiE (Zp.)
-LOCATION:5/ 23a
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Wieczorek Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251110T150000Z
 DTEND:20251110T163500Z
 SUMMARY:I 
@@ -765,6 +758,13 @@ DTEND:20250127T102500Z
 SUMMARY:SUiN (L)
 LOCATION:10/ 19; 11/ 19; 16/ 19; 17/ 19
 DESCRIPTION:System utrzymania i nadzoru nad jakością mps\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr inż. Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250210T085000Z
+DTEND:20250210T102500Z
+SUMMARY:BPiE (Zp.)
+LOCATION:5/ 23a
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250217T085000Z

@@ -4596,6 +4596,13 @@ LOCATION:aula/ 135
 DESCRIPTION:Fizyka 2 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260211T085000Z
+DTEND:20260211T102500Z
+SUMMARY:Pwd (E)
+LOCATION:314 S
+DESCRIPTION:Przywództwo w dowodzeniu - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260217T070000Z
 DTEND:20260217T083500Z
 SUMMARY:Aok (Inne)
@@ -4629,6 +4636,13 @@ DTEND:20260218T140500Z
 SUMMARY:Sm (Inne)
 LOCATION:314 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T150000Z
+DTEND:20260218T163500Z
+SUMMARY:Pwd (Inne)
+LOCATION:314 S
+DESCRIPTION:Przywództwo w dowodzeniu - (Egzamin poprawkowy) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T104000Z
@@ -5429,6 +5443,20 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 76/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260427T094000Z
+DTEND:20260427T111500Z
+SUMMARY:Bpe (L)
+LOCATION:09 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T113000Z
+DTEND:20260427T130500Z
+SUMMARY:Bpe (L)
+LOCATION:09 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260428T060000Z
 DTEND:20260428T073500Z
 SUMMARY:TA (ć)
@@ -5758,6 +5786,20 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 85/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260525T094000Z
+DTEND:20260525T111500Z
+SUMMARY:Bpe (L)
+LOCATION:09 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T113000Z
+DTEND:20260525T130500Z
+SUMMARY:Bpe (L)
+LOCATION:09 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260526T113000Z
 DTEND:20260526T130500Z
 SUMMARY:WF (ć)
@@ -5884,22 +5926,22 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 87/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260608T094000Z
-DTEND:20260608T111500Z
+DTSTART:20260608T113000Z
+DTEND:20260608T130500Z
 SUMMARY:SO (L)
 LOCATION:125 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/13\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260608T113000Z
-DTEND:20260608T130500Z
+DTSTART:20260608T140000Z
+DTEND:20260608T153500Z
 SUMMARY:SO (L)
 LOCATION:125 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/13\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260608T140000Z
-DTEND:20260608T153500Z
+DTSTART:20260608T155000Z
+DTEND:20260608T172500Z
 SUMMARY:SO (L)
 LOCATION:125 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/13\nProwadzący: mgr inż. Grzegorz Kropiewnicki

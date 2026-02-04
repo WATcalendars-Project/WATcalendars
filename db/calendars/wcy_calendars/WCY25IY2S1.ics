@@ -1894,6 +1894,20 @@ LOCATION:314 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260313T150000Z
+DTEND:20260313T163500Z
+SUMMARY:PTk (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T165000Z
+DTEND:20260313T182500Z
+SUMMARY:PTk (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260316T070000Z
 DTEND:20260316T083500Z
 SUMMARY:Amt (w)
@@ -2146,6 +2160,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T094000Z
+DTEND:20260402T111500Z
+SUMMARY:ppk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T113000Z
+DTEND:20260402T130500Z
+SUMMARY:ppk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260402T140000Z
 DTEND:20260402T153500Z
 SUMMARY:JoM (ć)
@@ -2377,13 +2405,6 @@ LOCATION:316 S
 DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260422T094000Z
-DTEND:20260422T111500Z
-SUMMARY:ppk (w)
-LOCATION:314 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Jan Chudzikiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260423T060000Z
 DTEND:20260423T073500Z
 SUMMARY:F1 (w)
@@ -2456,6 +2477,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T075000Z
 DTEND:20260429T092500Z
+SUMMARY:ppk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T094000Z
+DTEND:20260429T111500Z
 SUMMARY:Rp (w)
 LOCATION:314 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
@@ -2571,6 +2599,34 @@ DTEND:20260507T153500Z
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T094000Z
+DTEND:20260508T111500Z
+SUMMARY:ppk (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T113000Z
+DTEND:20260508T130500Z
+SUMMARY:ppk (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T140000Z
+DTEND:20260508T153500Z
+SUMMARY:PTk (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T155000Z
+DTEND:20260508T172500Z
+SUMMARY:PTk (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T060000Z
@@ -2734,6 +2790,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260521T094000Z
+DTEND:20260521T111500Z
+SUMMARY:ppk (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T113000Z
+DTEND:20260521T130500Z
+SUMMARY:ppk (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260521T140000Z
 DTEND:20260521T153500Z
 SUMMARY:JoM (ć)
@@ -2753,6 +2823,20 @@ DTEND:20260522T111500Z
 SUMMARY:PEM (ć)
 LOCATION:119 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T140000Z
+DTEND:20260522T153500Z
+SUMMARY:PTk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T155000Z
+DTEND:20260522T172500Z
+SUMMARY:PTk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T075000Z
@@ -2853,6 +2937,20 @@ LOCATION:317 S
 DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260603T094000Z
+DTEND:20260603T111500Z
+SUMMARY:ppk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T113000Z
+DTEND:20260603T130500Z
+SUMMARY:ppk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260609T094000Z
 DTEND:20260609T111500Z
 SUMMARY:Ja (ć)
@@ -2921,5 +3019,19 @@ DTEND:20260618T153500Z
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T094000Z
+DTEND:20260619T111500Z
+SUMMARY:PTk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T113000Z
+DTEND:20260619T130500Z
+SUMMARY:PTk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr Maciej Lis
 END:VEVENT
 END:VCALENDAR

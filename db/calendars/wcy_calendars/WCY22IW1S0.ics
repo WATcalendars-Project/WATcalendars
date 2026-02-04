@@ -4386,6 +4386,20 @@ LOCATION:19 36
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260302T123000Z
+DTEND:20260302T140500Z
+SUMMARY:dsk (P)
+LOCATION:101 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNumer zajęć: 1/8\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T150000Z
+DTEND:20260302T163500Z
+SUMMARY:dsk (P)
+LOCATION:101 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNumer zajęć: 2/8\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T085000Z
 DTEND:20260303T102500Z
 SUMMARY:OPBMR (w)
@@ -4491,6 +4505,20 @@ LOCATION:317 S
 DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260312T150000Z
+DTEND:20260312T163500Z
+SUMMARY:Sa. (L)
+LOCATION:09 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T165000Z
+DTEND:20260312T182500Z
+SUMMARY:Sa. (L)
+LOCATION:09 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260313T104000Z
 DTEND:20260313T121500Z
 SUMMARY:WF (ć)
@@ -4524,6 +4552,20 @@ DTEND:20260316T121500Z
 SUMMARY:Pwst (w)
 LOCATION:313 S
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T123000Z
+DTEND:20260316T140500Z
+SUMMARY:dsk (P)
+LOCATION:101 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNumer zajęć: 3/8\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T150000Z
+DTEND:20260316T163500Z
+SUMMARY:dsk (P)
+LOCATION:101 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNumer zajęć: 4/8\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T070000Z
@@ -4820,6 +4862,20 @@ LOCATION:09 65
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T140000Z
+DTEND:20260402T153500Z
+SUMMARY:Sa. (L)
+LOCATION:09 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T155000Z
+DTEND:20260402T172500Z
+SUMMARY:Sa. (L)
+LOCATION:09 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260408T075000Z
 DTEND:20260408T092500Z
 SUMMARY:Zt (w)
@@ -4855,6 +4911,13 @@ LOCATION:121 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNumer zajęć: 1/5\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260409T113000Z
+DTEND:20260409T130500Z
+SUMMARY:Syt (w)
+LOCATION:101 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260410T075000Z
 DTEND:20260410T092500Z
 SUMMARY:DWiPD (ć)
@@ -4887,7 +4950,7 @@ DTSTART:20260413T075000Z
 DTEND:20260413T092500Z
 SUMMARY:Syt (w)
 LOCATION:101 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T113000Z
@@ -5104,7 +5167,7 @@ DTSTART:20260423T075000Z
 DTEND:20260423T092500Z
 SUMMARY:Syt (w)
 LOCATION:101 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T094000Z
@@ -5247,6 +5310,20 @@ LOCATION:313 S
 DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260430T140000Z
+DTEND:20260430T153500Z
+SUMMARY:Sa. (L)
+LOCATION:09 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T155000Z
+DTEND:20260430T172500Z
+SUMMARY:Sa. (L)
+LOCATION:09 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260504T060000Z
 DTEND:20260504T073500Z
 SUMMARY:Ja (ć)
@@ -5352,11 +5429,32 @@ LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 79/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260506T113000Z
+DTEND:20260506T130500Z
+SUMMARY:dsk (P)
+LOCATION:101 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNumer zajęć: 5/8\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T140000Z
+DTEND:20260506T153500Z
+SUMMARY:dsk (P)
+LOCATION:101 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNumer zajęć: 6/8\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T060000Z
+DTEND:20260507T073500Z
+SUMMARY:Syt (L)
+LOCATION:09 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260507T075000Z
 DTEND:20260507T092500Z
-SUMMARY:Syt (w)
-LOCATION:101 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: mgr inż. Tomasz Żentara
+SUMMARY:Syt (L)
+LOCATION:09 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T094000Z
@@ -5371,6 +5469,13 @@ DTEND:20260507T130500Z
 SUMMARY:Pwst (L)
 LOCATION:09 65
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T075000Z
+DTEND:20260508T092500Z
+SUMMARY:Syt (w)
+LOCATION:101 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T094000Z
@@ -5478,11 +5583,18 @@ LOCATION:19 36
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260514T060000Z
+DTEND:20260514T073500Z
+SUMMARY:Syt (L)
+LOCATION:011 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260514T075000Z
 DTEND:20260514T092500Z
-SUMMARY:Syt (w)
-LOCATION:101 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: mgr inż. Tomasz Żentara
+SUMMARY:Syt (L)
+LOCATION:011 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T094000Z
@@ -5490,6 +5602,13 @@ DTEND:20260514T111500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 76/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T075000Z
+DTEND:20260515T092500Z
+SUMMARY:Syt (w)
+LOCATION:101 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T094000Z
@@ -5569,11 +5688,18 @@ LOCATION:19 36
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260521T060000Z
+DTEND:20260521T073500Z
+SUMMARY:Syt (L)
+LOCATION:011 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260521T075000Z
 DTEND:20260521T092500Z
-SUMMARY:Syt (w)
-LOCATION:101 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: mgr inż. Tomasz Żentara
+SUMMARY:Syt (L)
+LOCATION:011 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T094000Z
@@ -5630,6 +5756,20 @@ DTEND:20260525T130500Z
 SUMMARY:Zt (L)
 LOCATION:121 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T140000Z
+DTEND:20260525T153500Z
+SUMMARY:Sa. (L)
+LOCATION:09 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T155000Z
+DTEND:20260525T172500Z
+SUMMARY:Sa. (L)
+LOCATION:09 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T060000Z
@@ -5744,6 +5884,20 @@ LOCATION:011 65
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260602T060000Z
+DTEND:20260602T073500Z
+SUMMARY:Syt (L)
+LOCATION:011 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T075000Z
+DTEND:20260602T092500Z
+SUMMARY:Syt (L)
+LOCATION:011 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260602T094000Z
 DTEND:20260602T111500Z
 SUMMARY:WF (ć)
@@ -5821,6 +5975,20 @@ LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 88/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260610T113000Z
+DTEND:20260610T130500Z
+SUMMARY:dsk (P)
+LOCATION:101 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNumer zajęć: 7/8\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T140000Z
+DTEND:20260610T153500Z
+SUMMARY:dsk (P)
+LOCATION:101 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNumer zajęć: 8/8\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260611T060000Z
 DTEND:20260611T073500Z
 SUMMARY:Zt (P)
@@ -5875,6 +6043,20 @@ DTEND:20260615T111500Z
 SUMMARY:Pwst (w)
 LOCATION:106 65
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 12/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T060000Z
+DTEND:20260616T073500Z
+SUMMARY:Syt (L)
+LOCATION:09 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T075000Z
+DTEND:20260616T092500Z
+SUMMARY:Syt (L)
+LOCATION:09 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T094000Z

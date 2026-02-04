@@ -767,13 +767,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260408T113000Z
-DTEND:20260408T130500Z
-SUMMARY:Oni (w)
-LOCATION:317 S
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Adam Patkowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260408T140000Z
 DTEND:20260408T153500Z
 SUMMARY:Asie (L)
@@ -800,6 +793,13 @@ DTEND:20260409T092500Z
 SUMMARY:Est (w)
 LOCATION:308 S
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T094000Z
+DTEND:20260409T111500Z
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNumer zajęć: 1/8\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T113000Z
@@ -898,6 +898,27 @@ DTEND:20260414T073500Z
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T075000Z
+DTEND:20260414T092500Z
+SUMMARY:JEt (L)
+LOCATION:011 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T094000Z
+DTEND:20260414T111500Z
+SUMMARY:JEt (L)
+LOCATION:011 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T113000Z
+DTEND:20260414T130500Z
+SUMMARY:Oni (w)
+LOCATION:317 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T060000Z
@@ -1047,6 +1068,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 14/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260420T060000Z
+DTEND:20260420T073500Z
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNumer zajęć: 2/8\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T075000Z
+DTEND:20260420T092500Z
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNumer zajęć: 3/8\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260420T094000Z
 DTEND:20260420T111500Z
 SUMMARY:htm (L)
@@ -1080,6 +1115,13 @@ DTEND:20260422T111500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T113000Z
+DTEND:20260422T130500Z
+SUMMARY:Oni (L)
+LOCATION:236 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T140000Z
@@ -1124,6 +1166,20 @@ LOCATION:307 S
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260427T140000Z
+DTEND:20260427T153500Z
+SUMMARY:JEt (L)
+LOCATION:120 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T155000Z
+DTEND:20260427T172500Z
+SUMMARY:JEt (L)
+LOCATION:120 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260428T060000Z
 DTEND:20260428T073500Z
 SUMMARY:Ja (ć)
@@ -1143,6 +1199,20 @@ DTEND:20260428T130500Z
 SUMMARY:Est (L)
 LOCATION:125 65
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T060000Z
+DTEND:20260429T073500Z
+SUMMARY:Oni (L)
+LOCATION:236 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T075000Z
+DTEND:20260429T092500Z
+SUMMARY:Oni (L)
+LOCATION:236 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T094000Z
@@ -1346,6 +1416,48 @@ DTEND:20260508T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 15/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T060000Z
+DTEND:20260511T073500Z
+SUMMARY:Oni (L)
+LOCATION:236 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T075000Z
+DTEND:20260511T092500Z
+SUMMARY:Oni (L)
+LOCATION:236 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T094000Z
+DTEND:20260511T111500Z
+SUMMARY:JEt (L)
+LOCATION:09 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T113000Z
+DTEND:20260511T130500Z
+SUMMARY:JEt (L)
+LOCATION:09 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T140000Z
+DTEND:20260511T153500Z
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNumer zajęć: 4/8\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T155000Z
+DTEND:20260511T172500Z
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNumer zajęć: 5/8\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T060000Z
@@ -1565,6 +1677,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 19/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260525T075000Z
+DTEND:20260525T092500Z
+SUMMARY:JEt (L)
+LOCATION:011 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T094000Z
+DTEND:20260525T111500Z
+SUMMARY:JEt (L)
+LOCATION:011 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260525T113000Z
 DTEND:20260525T130500Z
 SUMMARY:WF (ć)
@@ -1684,6 +1810,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 22/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260601T060000Z
+DTEND:20260601T073500Z
+SUMMARY:Oni (L)
+LOCATION:236 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T075000Z
+DTEND:20260601T092500Z
+SUMMARY:Oni (L)
+LOCATION:236 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260601T113000Z
 DTEND:20260601T130500Z
 SUMMARY:WF (ć)
@@ -1712,6 +1852,27 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260608T060000Z
+DTEND:20260608T073500Z
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNumer zajęć: 6/8\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T075000Z
+DTEND:20260608T092500Z
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNumer zajęć: 7/8\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T094000Z
+DTEND:20260608T111500Z
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNumer zajęć: 8/8\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260608T113000Z
 DTEND:20260608T130500Z
 SUMMARY:WF (ć)
@@ -1724,6 +1885,20 @@ DTEND:20260609T073500Z
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T075000Z
+DTEND:20260609T092500Z
+SUMMARY:JEt (L)
+LOCATION:011 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T094000Z
+DTEND:20260609T111500Z
+SUMMARY:JEt (L)
+LOCATION:011 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T094000Z

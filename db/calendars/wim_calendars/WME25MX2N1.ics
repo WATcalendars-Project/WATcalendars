@@ -4,6 +4,13 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WME25MX2N1
 BEGIN:VEVENT
+DTSTART:20250220T165000Z
+DTEND:20250220T182500Z
+SUMMARY:WdS (Zp.)
+LOCATION:
+DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr Łakoma Ewa
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251004T060000Z
 DTEND:20251004T073500Z
 SUMMARY:Ja (ć)
@@ -1238,9 +1245,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250222T085000Z
 DTEND:20250222T102500Z
-SUMMARY:WdS (Zp.)
+SUMMARY:WDM (Zp.)
 LOCATION:51/ 62
-DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr Łakoma Ewa
+DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251005T094000Z
@@ -1451,13 +1458,6 @@ DTEND:20250215T140500Z
 SUMMARY:PGI (Zp. Ćw)
 LOCATION:108/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250222T123000Z
-DTEND:20250222T140500Z
-SUMMARY:WDM (Zp.)
-LOCATION:51/ 62
-DESCRIPTION:Wprowadzenie do metrologii\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251102T150000Z
