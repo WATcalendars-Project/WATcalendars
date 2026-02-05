@@ -2020,20 +2020,6 @@ LOCATION:314 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260323T104000Z
-DTEND:20260323T121500Z
-SUMMARY:ppk (L)
-LOCATION:106 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260323T123000Z
-DTEND:20260323T140500Z
-SUMMARY:ppk (L)
-LOCATION:106 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260323T150000Z
 DTEND:20260323T163500Z
 SUMMARY:Tpi (w)
@@ -2265,6 +2251,13 @@ LOCATION:314 S
 DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260413T094000Z
+DTEND:20260413T111500Z
+SUMMARY:PTk (ć)
+LOCATION:101 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260414T094000Z
 DTEND:20260414T111500Z
 SUMMARY:Md2 (w)
@@ -2346,14 +2339,14 @@ DTSTART:20260420T060000Z
 DTEND:20260420T073500Z
 SUMMARY:ppk (L)
 LOCATION:125 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T075000Z
 DTEND:20260420T092500Z
 SUMMARY:ppk (L)
 LOCATION:125 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T075000Z
@@ -2451,14 +2444,14 @@ DTSTART:20260427T094000Z
 DTEND:20260427T111500Z
 SUMMARY:ppk (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T113000Z
 DTEND:20260427T130500Z
 SUMMARY:ppk (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T060000Z
@@ -2529,6 +2522,13 @@ DTEND:20260430T153500Z
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T094000Z
+DTEND:20260504T111500Z
+SUMMARY:PTk (ć)
+LOCATION:101 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: Jozef Turczyn
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T113000Z
@@ -2692,6 +2692,41 @@ LOCATION:313 S
 DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260515T094000Z
+DTEND:20260515T111500Z
+SUMMARY:PTk (ć)
+LOCATION:201 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T113000Z
+DTEND:20260515T130500Z
+SUMMARY:PTk (L)
+LOCATION:125 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T140000Z
+DTEND:20260515T153500Z
+SUMMARY:PTk (L)
+LOCATION:125 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T094000Z
+DTEND:20260518T111500Z
+SUMMARY:ppk (L)
+LOCATION:236 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T113000Z
+DTEND:20260518T130500Z
+SUMMARY:ppk (L)
+LOCATION:236 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260519T075000Z
 DTEND:20260519T092500Z
 SUMMARY:F1 (ć)
@@ -2774,6 +2809,20 @@ DTEND:20260522T111500Z
 SUMMARY:PEM (ć)
 LOCATION:119 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T113000Z
+DTEND:20260522T130500Z
+SUMMARY:PTk (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T140000Z
+DTEND:20260522T153500Z
+SUMMARY:PTk (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T094000Z
@@ -2881,6 +2930,20 @@ LOCATION:125 65
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260602T060000Z
+DTEND:20260602T073500Z
+SUMMARY:PTk (L)
+LOCATION:125 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T075000Z
+DTEND:20260602T092500Z
+SUMMARY:PTk (L)
+LOCATION:125 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260602T094000Z
 DTEND:20260602T111500Z
 SUMMARY:F1 (w)
@@ -2914,6 +2977,13 @@ DTEND:20260609T111500Z
 SUMMARY:F1 (ć)
 LOCATION:205 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T113000Z
+DTEND:20260609T130500Z
+SUMMARY:PTk (ć)
+LOCATION:201 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: Jozef Turczyn
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T155000Z
@@ -2963,6 +3033,20 @@ DTEND:20260615T092500Z
 SUMMARY:F1 (ć)
 LOCATION:205 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T060000Z
+DTEND:20260617T073500Z
+SUMMARY:PTk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T075000Z
+DTEND:20260617T092500Z
+SUMMARY:PTk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T113000Z

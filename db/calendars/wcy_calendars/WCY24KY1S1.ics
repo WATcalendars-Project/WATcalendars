@@ -4204,6 +4204,20 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 34/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T104000Z
+DTEND:20260325T121500Z
+SUMMARY:IK (L)
+LOCATION:120 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T123000Z
+DTEND:20260325T140500Z
+SUMMARY:IK (L)
+LOCATION:120 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260326T070000Z
 DTEND:20260326T083500Z
 SUMMARY:Pk (w)
@@ -4321,6 +4335,20 @@ DTEND:20260409T073500Z
 SUMMARY:Pk (w)
 LOCATION:317 S
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T075000Z
+DTEND:20260409T092500Z
+SUMMARY:Pnak (L)
+LOCATION:236 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T094000Z
+DTEND:20260409T111500Z
+SUMMARY:Pnak (L)
+LOCATION:236 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T113000Z
@@ -4484,11 +4512,39 @@ LOCATION:313 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260422T075000Z
+DTEND:20260422T092500Z
+SUMMARY:IK (L)
+LOCATION:125 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T094000Z
+DTEND:20260422T111500Z
+SUMMARY:IK (L)
+LOCATION:125 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260423T060000Z
 DTEND:20260423T073500Z
 SUMMARY:Pk (w)
 LOCATION:314 S
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T094000Z
+DTEND:20260423T111500Z
+SUMMARY:Pnak (L)
+LOCATION:236 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T113000Z
+DTEND:20260423T130500Z
+SUMMARY:Pnak (L)
+LOCATION:236 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T140000Z
@@ -4610,6 +4666,34 @@ LOCATION:314 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260508T094000Z
+DTEND:20260508T111500Z
+SUMMARY:Pnak (L)
+LOCATION:236 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T113000Z
+DTEND:20260508T130500Z
+SUMMARY:Pnak (L)
+LOCATION:236 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T094000Z
+DTEND:20260511T111500Z
+SUMMARY:Pnak (L)
+LOCATION:236 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T113000Z
+DTEND:20260511T130500Z
+SUMMARY:Pnak (L)
+LOCATION:236 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260512T113000Z
 DTEND:20260512T130500Z
 SUMMARY:Ja (ć)
@@ -4636,6 +4720,20 @@ DTEND:20260514T111500Z
 SUMMARY:IO (L)
 LOCATION:228 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T075000Z
+DTEND:20260515T092500Z
+SUMMARY:IK (L)
+LOCATION:125 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T094000Z
+DTEND:20260515T111500Z
+SUMMARY:IK (L)
+LOCATION:125 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T094000Z
@@ -4687,6 +4785,13 @@ LOCATION:121 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260525T094000Z
+DTEND:20260525T111500Z
+SUMMARY:IK (ć)
+LOCATION:201 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260526T113000Z
 DTEND:20260526T130500Z
 SUMMARY:Ja (ć)
@@ -4715,6 +4820,20 @@ LOCATION:228 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260528T094000Z
+DTEND:20260528T111500Z
+SUMMARY:IK (L)
+LOCATION:125 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T113000Z
+DTEND:20260528T130500Z
+SUMMARY:IK (L)
+LOCATION:125 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260602T113000Z
 DTEND:20260602T130500Z
 SUMMARY:Ja (ć)
@@ -4729,6 +4848,20 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 43/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260603T094000Z
+DTEND:20260603T111500Z
+SUMMARY:IK (L)
+LOCATION:125 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T113000Z
+DTEND:20260603T130500Z
+SUMMARY:IK (L)
+LOCATION:125 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260609T113000Z
 DTEND:20260609T130500Z
 SUMMARY:Ja (ć)
@@ -4741,6 +4874,13 @@ DTEND:20260609T153500Z
 SUMMARY:JoM (ć)
 LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 44/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T075000Z
+DTEND:20260610T092500Z
+SUMMARY:IK (ć)
+LOCATION:201 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: Jozef Turczyn
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T075000Z

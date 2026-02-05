@@ -1390,6 +1390,13 @@ LOCATION:314 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260205T123000Z
+DTEND:20260205T140500Z
+SUMMARY:PSy (Inne)
+LOCATION:316 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260205T150000Z
 DTEND:20260205T163500Z
 SUMMARY:Est (Inne)
@@ -1635,6 +1642,20 @@ LOCATION:308 S
 DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260323T104000Z
+DTEND:20260323T121500Z
+SUMMARY:TpsT (L)
+LOCATION:106 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T123000Z
+DTEND:20260323T140500Z
+SUMMARY:TpsT (L)
+LOCATION:106 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260323T150000Z
 DTEND:20260323T163500Z
 SUMMARY:Asie (w)
@@ -1656,6 +1677,20 @@ LOCATION:203 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T070000Z
+DTEND:20260325T083500Z
+SUMMARY:Ppz (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T085000Z
+DTEND:20260325T102500Z
+SUMMARY:Ppz (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T104000Z
 DTEND:20260325T121500Z
 SUMMARY:zsw (L)
@@ -1668,6 +1703,20 @@ DTEND:20260325T140500Z
 SUMMARY:zsw (L)
 LOCATION:125 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T150000Z
+DTEND:20260325T163500Z
+SUMMARY:Asie (L)
+LOCATION:121 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/14\nProwadzący: Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T165000Z
+DTEND:20260325T182500Z
+SUMMARY:Asie (L)
+LOCATION:121 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/14\nProwadzący: Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T070000Z
@@ -1796,6 +1845,20 @@ LOCATION:101 65
 DESCRIPTION:Seminarium przeddyplomowe - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260408T094000Z
+DTEND:20260408T111500Z
+SUMMARY:Ppz (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T113000Z
+DTEND:20260408T130500Z
+SUMMARY:Ppz (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260408T140000Z
 DTEND:20260408T153500Z
 SUMMARY:Sp (Inne)
@@ -1822,6 +1885,20 @@ DTEND:20260409T092500Z
 SUMMARY:Sbs (w)
 LOCATION:203 65
 DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T094000Z
+DTEND:20260409T111500Z
+SUMMARY:TpsT (L)
+LOCATION:09 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T113000Z
+DTEND:20260409T130500Z
+SUMMARY:TpsT (L)
+LOCATION:09 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T140000Z
@@ -1915,6 +1992,20 @@ LOCATION:120 65
 DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260415T140000Z
+DTEND:20260415T153500Z
+SUMMARY:Asie (L)
+LOCATION:106 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/14\nProwadzący: Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T155000Z
+DTEND:20260415T172500Z
+SUMMARY:Asie (L)
+LOCATION:106 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/14\nProwadzący: Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260416T060000Z
 DTEND:20260416T073500Z
 SUMMARY:Bsbp (w)
@@ -1941,6 +2032,20 @@ DTEND:20260416T130500Z
 SUMMARY:zsw (L)
 LOCATION:125 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T060000Z
+DTEND:20260420T073500Z
+SUMMARY:TpsT (L)
+LOCATION:121 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T075000Z
+DTEND:20260420T092500Z
+SUMMARY:TpsT (L)
+LOCATION:121 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T094000Z
@@ -2034,6 +2139,20 @@ LOCATION:106 65
 DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNumer zajęć: 1/8\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260429T140000Z
+DTEND:20260429T153500Z
+SUMMARY:Asie (L)
+LOCATION:121 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/14\nProwadzący: Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T155000Z
+DTEND:20260429T172500Z
+SUMMARY:Asie (L)
+LOCATION:121 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/14\nProwadzący: Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260430T060000Z
 DTEND:20260430T073500Z
 SUMMARY:SKII (L)
@@ -2074,6 +2193,48 @@ DTEND:20260506T130500Z
 SUMMARY:Oni (L)
 LOCATION:106 65
 DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T140000Z
+DTEND:20260506T153500Z
+SUMMARY:TpsT (L)
+LOCATION:09 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T155000Z
+DTEND:20260506T172500Z
+SUMMARY:TpsT (L)
+LOCATION:09 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T075000Z
+DTEND:20260508T092500Z
+SUMMARY:Ppz (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T094000Z
+DTEND:20260508T111500Z
+SUMMARY:Ppz (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T140000Z
+DTEND:20260511T153500Z
+SUMMARY:Asie (L)
+LOCATION:121 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/14\nProwadzący: Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T155000Z
+DTEND:20260511T172500Z
+SUMMARY:Asie (L)
+LOCATION:121 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14\nProwadzący: Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T060000Z
@@ -2160,6 +2321,48 @@ LOCATION:125 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/15\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260519T094000Z
+DTEND:20260519T111500Z
+SUMMARY:TpsT (L)
+LOCATION:09 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T113000Z
+DTEND:20260519T130500Z
+SUMMARY:TpsT (L)
+LOCATION:09 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T094000Z
+DTEND:20260521T111500Z
+SUMMARY:Ppz (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T113000Z
+DTEND:20260521T130500Z
+SUMMARY:Ppz (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T140000Z
+DTEND:20260521T153500Z
+SUMMARY:Asie (L)
+LOCATION:121 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/14\nProwadzący: Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T155000Z
+DTEND:20260521T172500Z
+SUMMARY:Asie (L)
+LOCATION:121 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260525T060000Z
 DTEND:20260525T073500Z
 SUMMARY:Oni (L)
@@ -2209,6 +2412,20 @@ LOCATION:120 65
 DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260527T140000Z
+DTEND:20260527T153500Z
+SUMMARY:Asie (L)
+LOCATION:121 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T155000Z
+DTEND:20260527T172500Z
+SUMMARY:Asie (L)
+LOCATION:121 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260529T075000Z
 DTEND:20260529T092500Z
 SUMMARY:Oni (P)
@@ -2228,6 +2445,48 @@ DTEND:20260602T073500Z
 SUMMARY:Bsbp (w)
 LOCATION:203 65
 DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T060000Z
+DTEND:20260603T073500Z
+SUMMARY:TpsT (L)
+LOCATION:011 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T075000Z
+DTEND:20260603T092500Z
+SUMMARY:TpsT (L)
+LOCATION:011 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T140000Z
+DTEND:20260610T153500Z
+SUMMARY:Asie (L)
+LOCATION:121 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14\nProwadzący: Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T155000Z
+DTEND:20260610T172500Z
+SUMMARY:Asie (L)
+LOCATION:121 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T075000Z
+DTEND:20260612T092500Z
+SUMMARY:Ppz (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T094000Z
+DTEND:20260612T111500Z
+SUMMARY:Ppz (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T140000Z

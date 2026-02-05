@@ -4,6 +4,41 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WTC23NI1S1
 BEGIN:VEVENT
+DTSTART:20260511T060000Z
+DTEND:20260511T073500Z
+SUMMARY:NMI (L)
+LOCATION:15/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Komorek Zenon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T060000Z
+DTEND:20260518T073500Z
+SUMMARY:Bwm (L)
+LOCATION:15/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: dr inż. Komorek Zenon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T060000Z
+DTEND:20260525T073500Z
+SUMMARY:Bwm (L)
+LOCATION:15/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: dr inż. Przygucka Dominika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T060000Z
+DTEND:20260608T073500Z
+SUMMARY:Bwm (L)
+LOCATION:15/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Przygucka Dominika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T060000Z
+DTEND:20260615T073500Z
+SUMMARY:Bwm (L)
+LOCATION:15/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Komorek Zenon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260202T085000Z
 DTEND:20260202T102500Z
 SUMMARY:KSŻ (E)
@@ -25,32 +60,221 @@ LOCATION:11/ 34
 DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: płk dr hab. inż. Jóźwik Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T070000Z
-DTEND:20261125T083500Z
-SUMMARY:Mnm (ć)
+DTSTART:20260427T075000Z
+DTEND:20260427T092500Z
+SUMMARY:TechP (ć)
 LOCATION:26/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Dworecka-Wójcik Julita
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T085000Z
-DTEND:20261125T102500Z
-SUMMARY:Mnm (w)
+DTSTART:20260511T075000Z
+DTEND:20260511T092500Z
+SUMMARY:NMI (L)
+LOCATION:15/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Komorek Zenon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T075000Z
+DTEND:20260518T092500Z
+SUMMARY:Bwm (L)
+LOCATION:15/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr inż. Komorek Zenon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T075000Z
+DTEND:20260525T092500Z
+SUMMARY:Bwm (L)
+LOCATION:15/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr inż. Przygucka Dominika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T075000Z
+DTEND:20260601T092500Z
+SUMMARY:Efme (S)
 LOCATION:11/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/18\nProwadzący: płk dr hab. inż. Jóźwik Paweł
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T104000Z
-DTEND:20261125T121500Z
-SUMMARY:Bn (L)
-LOCATION:14/ 34
-DESCRIPTION:Badania nieniszczące\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Antolak-Dudka Anna
+DTSTART:20260608T075000Z
+DTEND:20260608T092500Z
+SUMMARY:Bwm (L)
+LOCATION:15/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr inż. Przygucka Dominika
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261216T104000Z
-DTEND:20261216T121500Z
-SUMMARY:MeP (L)
-LOCATION:17/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Siemiaszko Dariusz
+DTSTART:20260615T075000Z
+DTEND:20260615T092500Z
+SUMMARY:Bwm (L)
+LOCATION:15/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Komorek Zenon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T094000Z
+DTEND:20260427T111500Z
+SUMMARY:TechP (ć)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T094000Z
+DTEND:20260511T111500Z
+SUMMARY:Efme (S)
+LOCATION:11/ 34
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/15\nProwadzący: mgr Varghese Georgy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T094000Z
+DTEND:20260518T111500Z
+SUMMARY:Efme (S)
+LOCATION:11/ 34
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/15\nProwadzący: mgr Varghese Georgy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T094000Z
+DTEND:20260525T111500Z
+SUMMARY:TechP (L)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Antolak-Dudka Anna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T094000Z
+DTEND:20260601T111500Z
+SUMMARY:Bwm (L)
+LOCATION:15/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Przygucka Dominika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T094000Z
+DTEND:20260608T111500Z
+SUMMARY:PPT (S)
+LOCATION:26/ 34
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/12\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T094000Z
+DTEND:20260615T111500Z
+SUMMARY:TechP (L)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Antolak-Dudka Anna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T113000Z
+DTEND:20260427T130500Z
+SUMMARY:TechP (ć)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T113000Z
+DTEND:20260525T130500Z
+SUMMARY:TechP (L)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Antolak-Dudka Anna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T113000Z
+DTEND:20260601T130500Z
+SUMMARY:Bwm (L)
+LOCATION:15/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Przygucka Dominika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T113000Z
+DTEND:20260615T130500Z
+SUMMARY:TechP (L)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Antolak-Dudka Anna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T140000Z
+DTEND:20260427T153500Z
+SUMMARY:TechP (ć)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T070000Z
+DTEND:20260324T083500Z
+SUMMARY:Eksm (P)
+LOCATION:15/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Projekt\nNumer zajęć: 1/12\nProwadzący: dr inż. Komorek Zenon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T060000Z
+DTEND:20260421T073500Z
+SUMMARY:Eksm (L)
+LOCATION:15/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: dr inż. Zasada Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T060000Z
+DTEND:20260512T073500Z
+SUMMARY:TechP (ć)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T060000Z
+DTEND:20260519T073500Z
+SUMMARY:TechP (L)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T085000Z
+DTEND:20260324T102500Z
+SUMMARY:Eksm (P)
+LOCATION:15/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Projekt\nNumer zajęć: 2/12\nProwadzący: dr inż. Komorek Zenon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T075000Z
+DTEND:20260421T092500Z
+SUMMARY:Eksm (L)
+LOCATION:15/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: dr inż. Zasada Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T075000Z
+DTEND:20260428T092500Z
+SUMMARY:WMe II (L)
+LOCATION:20/ 34
+DESCRIPTION:Warsztaty Mechaniczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/15\nProwadzący: dr inż. Zachman Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T075000Z
+DTEND:20260505T092500Z
+SUMMARY:WMe II (L)
+LOCATION:20/ 34
+DESCRIPTION:Warsztaty Mechaniczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/15\nProwadzący: dr inż. Zachman Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T075000Z
+DTEND:20260512T092500Z
+SUMMARY:TechP (ć)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T075000Z
+DTEND:20260519T092500Z
+SUMMARY:TechP (L)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T075000Z
+DTEND:20260526T092500Z
+SUMMARY:Efme (S)
+LOCATION:166 S
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T075000Z
+DTEND:20260602T092500Z
+SUMMARY:Efme (S)
+LOCATION:11/ 34
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T104000Z
@@ -60,214 +284,284 @@ LOCATION:11/ 34
 DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261125T123000Z
-DTEND:20261125T140500Z
+DTSTART:20260324T104000Z
+DTEND:20260324T121500Z
+SUMMARY:WMe II (L)
+LOCATION:20/ 34
+DESCRIPTION:Warsztaty Mechaniczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/15\nProwadzący: dr inż. Zachman Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T094000Z
+DTEND:20260414T111500Z
+SUMMARY:WMe II (L)
+LOCATION:20/ 34
+DESCRIPTION:Warsztaty Mechaniczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/15\nProwadzący: dr inż. Łyszkowski Radosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T094000Z
+DTEND:20260421T111500Z
+SUMMARY:Bwm (w)
+LOCATION:11/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T094000Z
+DTEND:20260428T111500Z
+SUMMARY:WMe II (L)
+LOCATION:20/ 34
+DESCRIPTION:Warsztaty Mechaniczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/15\nProwadzący: dr inż. Zachman Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T094000Z
+DTEND:20260505T111500Z
+SUMMARY:WMe II (L)
+LOCATION:20/ 34
+DESCRIPTION:Warsztaty Mechaniczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/15\nProwadzący: dr inż. Zachman Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T094000Z
+DTEND:20260512T111500Z
 SUMMARY:SzMKiTW (S)
-LOCATION:166 S
-DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/16\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261216T123000Z
-DTEND:20261216T140500Z
-SUMMARY:MeP (L)
-LOCATION:17/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Siemiaszko Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T060000Z
-DTEND:20261015T073500Z
-SUMMARY:SMNŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T060000Z
-DTEND:20261022T073500Z
-SUMMARY:SMNŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T070000Z
-DTEND:20261029T083500Z
-SUMMARY:SMNŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T070000Z
-DTEND:20261105T083500Z
-SUMMARY:SMNŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T070000Z
-DTEND:20261112T083500Z
-SUMMARY:SMNŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261119T070000Z
-DTEND:20261119T083500Z
-SUMMARY:SMNŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261126T070000Z
-DTEND:20261126T083500Z
-SUMMARY:SMNŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261203T070000Z
-DTEND:20261203T083500Z
-SUMMARY:SMNŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261210T070000Z
-DTEND:20261210T083500Z
-SUMMARY:SMNŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261217T070000Z
-DTEND:20261217T083500Z
-SUMMARY:SMNŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260107T070000Z
-DTEND:20260107T083500Z
-SUMMARY:SMNŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260114T070000Z
-DTEND:20260114T083500Z
-SUMMARY:SMNŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260121T070000Z
-DTEND:20260121T083500Z
-SUMMARY:SMNŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260128T070000Z
-DTEND:20260128T083500Z
-SUMMARY:SMNŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261015T075000Z
-DTEND:20261015T092500Z
-SUMMARY:Efme (S)
-LOCATION:26/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T075000Z
-DTEND:20261022T092500Z
-SUMMARY:Efme (S)
-LOCATION:26/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T085000Z
-DTEND:20261029T102500Z
-SUMMARY:Efme (S)
 LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261105T085000Z
-DTEND:20261105T102500Z
-SUMMARY:Efme (S)
-LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T085000Z
-DTEND:20261112T102500Z
-SUMMARY:Efme (S)
-LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261119T085000Z
-DTEND:20261119T102500Z
-SUMMARY:Efme (S)
+DTSTART:20260519T094000Z
+DTEND:20260519T111500Z
+SUMMARY:TechP (L)
 LOCATION:26/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T085000Z
-DTEND:20261126T102500Z
-SUMMARY:Efme (S)
+DTSTART:20260526T094000Z
+DTEND:20260526T111500Z
+SUMMARY:SzMKiTW (S)
 LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T085000Z
-DTEND:20261203T102500Z
-SUMMARY:KSŻ (w)
+DTSTART:20260602T094000Z
+DTEND:20260602T111500Z
+SUMMARY:SzMKiTW (S)
+LOCATION:11/ 34
+DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T123000Z
+DTEND:20260324T140500Z
+SUMMARY:PPT (S)
 LOCATION:26/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T085000Z
-DTEND:20261210T102500Z
-SUMMARY:Efme (S)
-LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DTSTART:20260414T113000Z
+DTEND:20260414T130500Z
+SUMMARY:PPT (S)
+LOCATION:26/ 34
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261217T085000Z
-DTEND:20261217T102500Z
-SUMMARY:Efme (S)
-LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DTSTART:20260421T113000Z
+DTEND:20260421T130500Z
+SUMMARY:PPT (S)
+LOCATION:26/ 34
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260107T085000Z
-DTEND:20260107T102500Z
-SUMMARY:Efme (S)
-LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DTSTART:20260428T113000Z
+DTEND:20260428T130500Z
+SUMMARY:PPT (S)
+LOCATION:26/ 34
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260114T085000Z
-DTEND:20260114T102500Z
-SUMMARY:Efme (S)
-LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DTSTART:20260505T113000Z
+DTEND:20260505T130500Z
+SUMMARY:PPT (S)
+LOCATION:26/ 34
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260121T085000Z
-DTEND:20260121T102500Z
-SUMMARY:Efme (S)
-LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 12/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DTSTART:20260512T113000Z
+DTEND:20260512T130500Z
+SUMMARY:PPT (S)
+LOCATION:26/ 34
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260128T085000Z
-DTEND:20260128T102500Z
-SUMMARY:Efme (S)
+DTSTART:20260519T113000Z
+DTEND:20260519T130500Z
+SUMMARY:PPT (S)
+LOCATION:26/ 34
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/12\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T113000Z
+DTEND:20260526T130500Z
+SUMMARY:PPT (S)
+LOCATION:26/ 34
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/12\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T113000Z
+DTEND:20260602T130500Z
+SUMMARY:PPT (S)
+LOCATION:26/ 34
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/12\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T150000Z
+DTEND:20260324T163500Z
+SUMMARY:PPT (w)
+LOCATION:26/ 34
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T140000Z
+DTEND:20260414T153500Z
+SUMMARY:WMe II (L)
+LOCATION:20/ 34
+DESCRIPTION:Warsztaty Mechaniczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/15\nProwadzący: dr inż. Zachman Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T140000Z
+DTEND:20260421T153500Z
+SUMMARY:TechP (ć)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: dr inż. Antolak-Dudka Anna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T140000Z
+DTEND:20260428T153500Z
+SUMMARY:TechP (ć)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T140000Z
+DTEND:20260505T153500Z
+SUMMARY:TechP (ć)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T140000Z
+DTEND:20260512T153500Z
+SUMMARY:WMe II (L)
+LOCATION:20/ 34
+DESCRIPTION:Warsztaty Mechaniczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/15\nProwadzący: dr inż. Zachman Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T140000Z
+DTEND:20260519T153500Z
+SUMMARY:WMe II (L)
+LOCATION:20/ 34
+DESCRIPTION:Warsztaty Mechaniczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/15\nProwadzący: dr inż. Zachman Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T155000Z
+DTEND:20260414T172500Z
+SUMMARY:WMe II (L)
+LOCATION:20/ 34
+DESCRIPTION:Warsztaty Mechaniczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/15\nProwadzący: dr inż. Zachman Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T155000Z
+DTEND:20260421T172500Z
+SUMMARY:TechP (ć)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr inż. Antolak-Dudka Anna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T155000Z
+DTEND:20260428T172500Z
+SUMMARY:TechP (ć)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T155000Z
+DTEND:20260505T172500Z
+SUMMARY:TechP (ć)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/12\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T155000Z
+DTEND:20260512T172500Z
+SUMMARY:WMe II (L)
+LOCATION:20/ 34
+DESCRIPTION:Warsztaty Mechaniczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/15\nProwadzący: dr inż. Zachman Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T155000Z
+DTEND:20260519T172500Z
+SUMMARY:WMe II (L)
+LOCATION:20/ 34
+DESCRIPTION:Warsztaty Mechaniczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/15\nProwadzący: dr inż. Zachman Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T070000Z
+DTEND:20260318T083500Z
+SUMMARY:PPT (w)
+LOCATION:26/ 34
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T070000Z
+DTEND:20260325T083500Z
+SUMMARY:TechP (w)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Antolak-Dudka Anna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T060000Z
+DTEND:20260401T073500Z
+SUMMARY:Bwm (w)
 LOCATION:11/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 13/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T060000Z
+DTEND:20260408T073500Z
+SUMMARY:Bwm (w)
+LOCATION:11/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T060000Z
+DTEND:20260415T073500Z
+SUMMARY:Bwm (w)
+LOCATION:11/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T060000Z
+DTEND:20260422T073500Z
+SUMMARY:Eksm (P)
+LOCATION:14/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Projekt\nNumer zajęć: 3/12\nProwadzący: dr inż. Zasada Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T060000Z
+DTEND:20260429T073500Z
+SUMMARY:Eksm (P)
+LOCATION:15/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Projekt\nNumer zajęć: 4/12\nProwadzący: dr inż. Komorek Zenon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T060000Z
+DTEND:20260506T073500Z
+SUMMARY:Bwm (w)
+LOCATION:11/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T060000Z
+DTEND:20260520T073500Z
+SUMMARY:Eksm (P)
+LOCATION:14/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Projekt\nNumer zajęć: 5/12\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T085000Z
@@ -288,979 +582,615 @@ DTSTART:20260304T085000Z
 DTEND:20260304T102500Z
 SUMMARY:Bwm (w)
 LOCATION:26/ 34
-DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261015T094000Z
-DTEND:20261015T111500Z
-SUMMARY:Mnm (w)
-LOCATION:11/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/18\nProwadzący: płk dr hab. inż. Jóźwik Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261022T094000Z
-DTEND:20261022T111500Z
-SUMMARY:Mnm (w)
-LOCATION:11/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/18\nProwadzący: płk dr hab. inż. Jóźwik Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261029T104000Z
-DTEND:20261029T121500Z
-SUMMARY:Mnm (w)
-LOCATION:11/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/18\nProwadzący: płk dr hab. inż. Jóźwik Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261105T104000Z
-DTEND:20261105T121500Z
-SUMMARY:Mnm (w)
-LOCATION:11/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/18\nProwadzący: płk dr hab. inż. Jóźwik Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261112T104000Z
-DTEND:20261112T121500Z
-SUMMARY:Mnm (w)
+DTSTART:20260318T085000Z
+DTEND:20260318T102500Z
+SUMMARY:TechP (w)
 LOCATION:26/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/18\nProwadzący: płk dr hab. inż. Jóźwik Paweł
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261119T104000Z
-DTEND:20261119T121500Z
-SUMMARY:KSŻ (w)
+DTSTART:20260325T085000Z
+DTEND:20260325T102500Z
+SUMMARY:NMI (w)
 LOCATION:26/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261126T104000Z
-DTEND:20261126T121500Z
-SUMMARY:KSŻ (w)
+DTSTART:20260401T075000Z
+DTEND:20260401T092500Z
+SUMMARY:NMI (w)
 LOCATION:26/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261203T104000Z
-DTEND:20261203T121500Z
-SUMMARY:Efme (S)
+DTSTART:20260408T075000Z
+DTEND:20260408T092500Z
+SUMMARY:NMI (w)
 LOCATION:26/ 34
-DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 14/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261210T104000Z
-DTEND:20261210T121500Z
-SUMMARY:KSŻ (w)
+DTSTART:20260415T075000Z
+DTEND:20260415T092500Z
+SUMMARY:NMI (w)
 LOCATION:26/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261217T104000Z
-DTEND:20261217T121500Z
-SUMMARY:KSŻ (w)
+DTSTART:20260422T075000Z
+DTEND:20260422T092500Z
+SUMMARY:Eksm (P)
+LOCATION:14/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Projekt\nNumer zajęć: 6/12\nProwadzący: dr inż. Zasada Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T075000Z
+DTEND:20260429T092500Z
+SUMMARY:Eksm (P)
+LOCATION:15/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Projekt\nNumer zajęć: 7/12\nProwadzący: dr inż. Komorek Zenon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T075000Z
+DTEND:20260506T092500Z
+SUMMARY:NMI (w)
 LOCATION:26/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260107T104000Z
-DTEND:20260107T121500Z
-SUMMARY:SzMKiTW (S)
-LOCATION:166 S
-DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/16\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260114T104000Z
-DTEND:20260114T121500Z
-SUMMARY:KSŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Wykład\nNumer zajęć: 6/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260121T104000Z
-DTEND:20260121T121500Z
-SUMMARY:KSŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Wykład\nNumer zajęć: 7/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260128T104000Z
-DTEND:20260128T121500Z
-SUMMARY:KSŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
+DTSTART:20260520T075000Z
+DTEND:20260520T092500Z
+SUMMARY:Eksm (P)
+LOCATION:14/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Projekt\nNumer zajęć: 8/12\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T104000Z
 DTEND:20260304T121500Z
 SUMMARY:PPT (w)
 LOCATION:26/ 34
-DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261022T113000Z
-DTEND:20261022T130500Z
-SUMMARY:SzMKiTW (S)
-LOCATION:165 S
-DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/16\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
+DTSTART:20260318T104000Z
+DTEND:20260318T121500Z
+SUMMARY:NMI (w)
+LOCATION:26/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261112T123000Z
-DTEND:20261112T140500Z
-SUMMARY:SzMKiTW (S)
-LOCATION:165 S
-DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/16\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260107T123000Z
-DTEND:20260107T140500Z
-SUMMARY:SMNŻ (L)
-LOCATION:14/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Przygucka Dominika
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260114T123000Z
-DTEND:20260114T140500Z
-SUMMARY:Bn (L)
+DTSTART:20260325T104000Z
+DTEND:20260325T121500Z
+SUMMARY:Eksm (L)
 LOCATION:15/ 34
-DESCRIPTION:Badania nieniszczące\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Komorek Zenon
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260121T123000Z
-DTEND:20260121T140500Z
-SUMMARY:SzMKiTW (S)
-LOCATION:165 S
-DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/16\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
+DTSTART:20260401T094000Z
+DTEND:20260401T111500Z
+SUMMARY:Eksm (L)
+LOCATION:15/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Komorek Zenon
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260128T123000Z
-DTEND:20260128T140500Z
-SUMMARY:SzMKiTW (S)
-LOCATION:165 S
-DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/16\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
+DTSTART:20260408T094000Z
+DTEND:20260408T111500Z
+SUMMARY:Eksm (P)
+LOCATION:15/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Projekt\nNumer zajęć: 9/12\nProwadzący: dr inż. Komorek Zenon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T094000Z
+DTEND:20260415T111500Z
+SUMMARY:Bwm (w)
+LOCATION:11/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T094000Z
+DTEND:20260422T111500Z
+SUMMARY:Bwm (w)
+LOCATION:11/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T094000Z
+DTEND:20260429T111500Z
+SUMMARY:NMI (w)
+LOCATION:26/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 7/15\nProwadzący: dr inż. Zasada Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T094000Z
+DTEND:20260506T111500Z
+SUMMARY:Eksm (P)
+LOCATION:14/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Projekt\nNumer zajęć: 10/12\nProwadzący: dr inż. Zasada Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T094000Z
+DTEND:20260520T111500Z
+SUMMARY:TechP (L)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T123000Z
 DTEND:20260304T140500Z
 SUMMARY:SzMKiTW (S)
 LOCATION:11/ 34
-DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/16\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
+DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260107T150000Z
-DTEND:20260107T163500Z
-SUMMARY:SMNŻ (L)
+DTSTART:20260311T123000Z
+DTEND:20260311T140500Z
+SUMMARY:Bwm (w)
+LOCATION:11/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T123000Z
+DTEND:20260318T140500Z
+SUMMARY:Bwm (w)
+LOCATION:11/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T123000Z
+DTEND:20260325T140500Z
+SUMMARY:Eksm (L)
+LOCATION:15/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr inż. Komorek Zenon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T113000Z
+DTEND:20260401T130500Z
+SUMMARY:Eksm (L)
+LOCATION:15/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr inż. Komorek Zenon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T113000Z
+DTEND:20260408T130500Z
+SUMMARY:Eksm (P)
+LOCATION:15/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Projekt\nNumer zajęć: 11/12\nProwadzący: dr inż. Komorek Zenon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T113000Z
+DTEND:20260415T130500Z
+SUMMARY:Efme (S)
+LOCATION:11/ 34
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T113000Z
+DTEND:20260422T130500Z
+SUMMARY:NMI (w)
+LOCATION:26/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: dr inż. Zasada Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T113000Z
+DTEND:20260429T130500Z
+SUMMARY:Efme (S)
+LOCATION:11/ 34
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T113000Z
+DTEND:20260506T130500Z
+SUMMARY:Eksm (P)
 LOCATION:14/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Przygucka Dominika
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Projekt\nNumer zajęć: 12/12\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260121T150000Z
-DTEND:20260121T163500Z
-SUMMARY:SzMKiTW (S)
-LOCATION:165 S
-DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/16\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260128T150000Z
-DTEND:20260128T163500Z
-SUMMARY:Ipo (L)
-LOCATION:14/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Zasada Dariusz
+DTSTART:20260520T113000Z
+DTEND:20260520T130500Z
+SUMMARY:Efme (S)
+LOCATION:11/ 34
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T150000Z
 DTEND:20260304T163500Z
 SUMMARY:WMe II (L)
 LOCATION:20/ 34
-DESCRIPTION:Warsztaty Mechaniczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/1\nProwadzący: dr inż. Zachman Marcin
+DESCRIPTION:Warsztaty Mechaniczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/15\nProwadzący: dr inż. Zachman Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260107T165000Z
-DTEND:20260107T182500Z
-SUMMARY:Mnm (ć)
-LOCATION:26/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. Dworecka-Wójcik Julita
+DTSTART:20260311T150000Z
+DTEND:20260311T163500Z
+SUMMARY:WMe II (L)
+LOCATION:20/ 34
+DESCRIPTION:Warsztaty Mechaniczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/15\nProwadzący: dr inż. Zachman Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260128T165000Z
-DTEND:20260128T182500Z
-SUMMARY:Ipo (L)
-LOCATION:14/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Zasada Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261120T070000Z
-DTEND:20261120T083500Z
+DTSTART:20260325T150000Z
+DTEND:20260325T163500Z
 SUMMARY:SzMKiTW (S)
-LOCATION:166 S
-DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/16\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
+LOCATION:11/ 34
+DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261204T070000Z
-DTEND:20261204T083500Z
+DTSTART:20260408T140000Z
+DTEND:20260408T153500Z
 SUMMARY:SzMKiTW (S)
-LOCATION:166 S
-DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/16\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
+LOCATION:11/ 34
+DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261218T070000Z
-DTEND:20261218T083500Z
+DTSTART:20260422T140000Z
+DTEND:20260422T153500Z
 SUMMARY:SzMKiTW (S)
-LOCATION:166 S
-DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/16\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
+LOCATION:11/ 34
+DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260122T070000Z
-DTEND:20260122T083500Z
+DTSTART:20260506T140000Z
+DTEND:20260506T153500Z
 SUMMARY:SzMKiTW (S)
-LOCATION:166 S
-DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 12/16\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261002T075000Z
-DTEND:20261002T092500Z
-SUMMARY:SMNŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261009T075000Z
-DTEND:20261009T092500Z
-SUMMARY:Mnm (w)
 LOCATION:11/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/18\nProwadzący: płk dr hab. inż. Jóźwik Paweł
+DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261016T075000Z
-DTEND:20261016T092500Z
-SUMMARY:Mnm (w)
+DTSTART:20260520T140000Z
+DTEND:20260520T153500Z
+SUMMARY:SzMKiTW (S)
 LOCATION:11/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 8/18\nProwadzący: płk dr hab. inż. Jóźwik Paweł
+DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261023T075000Z
-DTEND:20261023T092500Z
-SUMMARY:Mnm (w)
+DTSTART:20260311T165000Z
+DTEND:20260311T182500Z
+SUMMARY:WMe II (L)
+LOCATION:20/ 34
+DESCRIPTION:Warsztaty Mechaniczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/15\nProwadzący: dr inż. Zachman Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T075000Z
+DTEND:20260409T092500Z
+SUMMARY:SzMKiTW (S)
 LOCATION:11/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 9/18\nProwadzący: płk dr hab. inż. Jóźwik Paweł
+DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261030T085000Z
-DTEND:20261030T102500Z
-SUMMARY:Mnm (w)
-LOCATION:26/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 10/18\nProwadzący: płk dr hab. inż. Jóźwik Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261106T085000Z
-DTEND:20261106T102500Z
-SUMMARY:MeP (ć)
-LOCATION:26/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. Siemiaszko Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261120T085000Z
-DTEND:20261120T102500Z
-SUMMARY:MeP (ć)
-LOCATION:26/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Siemiaszko Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261127T085000Z
-DTEND:20261127T102500Z
-SUMMARY:Mnm (w)
+DTSTART:20260416T075000Z
+DTEND:20260416T092500Z
+SUMMARY:SzMKiTW (S)
 LOCATION:11/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 11/18\nProwadzący: płk dr hab. inż. Jóźwik Paweł
+DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261211T085000Z
-DTEND:20261211T102500Z
-SUMMARY:Ipo (L)
-LOCATION:14/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Łyszkowski Radosław
+DTSTART:20260423T075000Z
+DTEND:20260423T092500Z
+SUMMARY:SzMKiTW (S)
+LOCATION:11/ 34
+DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 12/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261218T085000Z
-DTEND:20261218T102500Z
-SUMMARY:Ipo (L)
-LOCATION:14/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Radziwonko Agata
+DTSTART:20260430T075000Z
+DTEND:20260430T092500Z
+SUMMARY:SzMKiTW (S)
+LOCATION:11/ 34
+DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 13/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260108T085000Z
-DTEND:20260108T102500Z
-SUMMARY:Mnm (L)
-LOCATION:14/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Dworecka-Wójcik Julita
+DTSTART:20260507T075000Z
+DTEND:20260507T092500Z
+SUMMARY:SzMKiTW (S)
+LOCATION:11/ 34
+DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 14/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260115T085000Z
-DTEND:20260115T102500Z
-SUMMARY:Mnm (L)
-LOCATION:15/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Łyszkowski Radosław
+DTSTART:20260514T075000Z
+DTEND:20260514T092500Z
+SUMMARY:SzMKiTW (S)
+LOCATION:11/ 34
+DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 15/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260122T085000Z
-DTEND:20260122T102500Z
-SUMMARY:SMNŻ (L)
-LOCATION:15/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Komorek Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261009T094000Z
-DTEND:20261009T111500Z
-SUMMARY:MeP (w)
-LOCATION:26/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Siemiaszko Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261016T094000Z
-DTEND:20261016T111500Z
-SUMMARY:MeP (w)
-LOCATION:26/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Siemiaszko Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261023T094000Z
-DTEND:20261023T111500Z
-SUMMARY:MeP (w)
-LOCATION:26/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Siemiaszko Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261030T104000Z
-DTEND:20261030T121500Z
-SUMMARY:KSŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261106T104000Z
-DTEND:20261106T121500Z
-SUMMARY:MeP (ć)
-LOCATION:26/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Siemiaszko Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261120T104000Z
-DTEND:20261120T121500Z
-SUMMARY:MeP (ć)
-LOCATION:26/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Siemiaszko Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261127T104000Z
-DTEND:20261127T121500Z
-SUMMARY:MeP (L)
-LOCATION:17/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Siemiaszko Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261211T104000Z
-DTEND:20261211T121500Z
-SUMMARY:Ipo (L)
-LOCATION:14/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Łyszkowski Radosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261218T104000Z
-DTEND:20261218T121500Z
-SUMMARY:Ipo (L)
-LOCATION:14/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Radziwonko Agata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260108T104000Z
-DTEND:20260108T121500Z
-SUMMARY:Mnm (L)
-LOCATION:14/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Dworecka-Wójcik Julita
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260115T104000Z
-DTEND:20260115T121500Z
-SUMMARY:Mnm (L)
-LOCATION:15/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Łyszkowski Radosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260122T104000Z
-DTEND:20260122T121500Z
-SUMMARY:SMNŻ (L)
-LOCATION:15/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Komorek Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261009T113000Z
-DTEND:20261009T130500Z
-SUMMARY:Ipo (w)
-LOCATION:26/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Zasada Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261016T113000Z
-DTEND:20261016T130500Z
-SUMMARY:Mnm (w)
-LOCATION:26/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 12/18\nProwadzący: płk dr hab. inż. Jóźwik Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261030T123000Z
-DTEND:20261030T140500Z
-SUMMARY:Bn (w)
-LOCATION:26/ 34
-DESCRIPTION:Badania nieniszczące\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr inż. Komorek Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261106T123000Z
-DTEND:20261106T140500Z
-SUMMARY:Ipo (ć)
-LOCATION:14/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. Komorek Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261113T123000Z
-DTEND:20261113T140500Z
-SUMMARY:Ipo (ć)
-LOCATION:14/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Łyszkowski Radosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261120T123000Z
-DTEND:20261120T140500Z
-SUMMARY:Ipo (ć)
-LOCATION:14/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Komorek Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261127T123000Z
-DTEND:20261127T140500Z
-SUMMARY:MeP (L)
-LOCATION:17/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Siemiaszko Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261211T123000Z
-DTEND:20261211T140500Z
-SUMMARY:MeP (L)
-LOCATION:17/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Siemiaszko Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261218T123000Z
-DTEND:20261218T140500Z
-SUMMARY:Bn (L)
-LOCATION:15/ 34
-DESCRIPTION:Badania nieniszczące\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Komorek Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260108T123000Z
-DTEND:20260108T140500Z
-SUMMARY:Bn (L)
-LOCATION:15/ 34
-DESCRIPTION:Badania nieniszczące\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Komorek Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260115T123000Z
-DTEND:20260115T140500Z
+DTSTART:20260528T075000Z
+DTEND:20260528T092500Z
 SUMMARY:Efme (S)
-LOCATION:26/ 34
+LOCATION:11/ 34
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T075000Z
+DTEND:20260618T092500Z
+SUMMARY:Efme (S)
+LOCATION:11/ 34
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T094000Z
+DTEND:20260409T111500Z
+SUMMARY:Efme (S)
+LOCATION:11/ 34
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T094000Z
+DTEND:20260416T111500Z
+SUMMARY:Efme (S)
+LOCATION:11/ 34
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 12/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T094000Z
+DTEND:20260423T111500Z
+SUMMARY:Efme (S)
+LOCATION:11/ 34
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 13/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T094000Z
+DTEND:20260430T111500Z
+SUMMARY:Efme (S)
+LOCATION:11/ 34
+DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 14/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T094000Z
+DTEND:20260507T111500Z
+SUMMARY:Efme (S)
+LOCATION:11/ 34
 DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 15/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260122T123000Z
-DTEND:20260122T140500Z
-SUMMARY:Bn (L)
-LOCATION:19/ 34
-DESCRIPTION:Badania nieniszczące\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Antolak-Dudka Anna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261016T140000Z
-DTEND:20261016T153500Z
-SUMMARY:Ipo (w)
-LOCATION:26/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Zasada Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261106T150000Z
-DTEND:20261106T163500Z
-SUMMARY:Ipo (ć)
-LOCATION:14/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Komorek Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261113T150000Z
-DTEND:20261113T163500Z
-SUMMARY:Ipo (ć)
-LOCATION:14/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Łyszkowski Radosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261120T150000Z
-DTEND:20261120T163500Z
-SUMMARY:Ipo (ć)
-LOCATION:14/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Komorek Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261211T150000Z
-DTEND:20261211T163500Z
-SUMMARY:MeP (L)
-LOCATION:17/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Siemiaszko Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261003T060000Z
-DTEND:20261003T073500Z
-SUMMARY:Bn (w)
-LOCATION:11/ 34
-DESCRIPTION:Badania nieniszczące\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr inż. Komorek Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261010T060000Z
-DTEND:20261010T073500Z
-SUMMARY:KSŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261017T060000Z
-DTEND:20261017T073500Z
-SUMMARY:Mnm (w)
-LOCATION:11/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 13/18\nProwadzący: płk dr hab. inż. Jóźwik Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261024T060000Z
-DTEND:20261024T073500Z
-SUMMARY:Mnm (w)
-LOCATION:11/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 14/18\nProwadzący: płk dr hab. inż. Jóźwik Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261107T070000Z
-DTEND:20261107T083500Z
-SUMMARY:Mnm (w)
-LOCATION:11/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 15/18\nProwadzący: płk dr hab. inż. Jóźwik Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261114T070000Z
-DTEND:20261114T083500Z
-SUMMARY:KSŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261121T070000Z
-DTEND:20261121T083500Z
-SUMMARY:Mnm (w)
-LOCATION:11/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 16/18\nProwadzący: płk dr hab. inż. Jóźwik Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261205T070000Z
-DTEND:20261205T083500Z
-SUMMARY:SzMKiTW (S)
-LOCATION:166 S
-DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 13/16\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261219T070000Z
-DTEND:20261219T083500Z
-SUMMARY:SzMKiTW (S)
-LOCATION:166 S
-DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 14/16\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260109T070000Z
-DTEND:20260109T083500Z
-SUMMARY:SzMKiTW (S)
-LOCATION:166 S
-DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 15/16\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260116T070000Z
-DTEND:20260116T083500Z
-SUMMARY:KSŻ (L)
+DTSTART:20260514T094000Z
+DTEND:20260514T111500Z
+SUMMARY:Bwm (L)
 LOCATION:15/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Komorek Zenon
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr inż. Przygucka Dominika
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260123T070000Z
-DTEND:20260123T083500Z
-SUMMARY:Mnm (L)
-LOCATION:14/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Dworecka-Wójcik Julita
+DTSTART:20260528T094000Z
+DTEND:20260528T111500Z
+SUMMARY:NMI (L)
+LOCATION:15/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260130T070000Z
-DTEND:20260130T083500Z
-SUMMARY:KSŻ (L)
-LOCATION:14/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Antolak-Dudka Anna
+DTSTART:20260618T094000Z
+DTEND:20260618T111500Z
+SUMMARY:NMI (L)
+LOCATION:15/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Komorek Zenon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T113000Z
+DTEND:20260514T130500Z
+SUMMARY:Bwm (L)
+LOCATION:15/ 34
+DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Przygucka Dominika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T113000Z
+DTEND:20260528T130500Z
+SUMMARY:NMI (L)
+LOCATION:15/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Zasada Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T113000Z
+DTEND:20260618T130500Z
+SUMMARY:NMI (L)
+LOCATION:15/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Komorek Zenon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T070000Z
 DTEND:20260306T083500Z
 SUMMARY:NMI (w)
 LOCATION:11/ 34
-DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr inż. Zasada Dariusz
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261003T075000Z
-DTEND:20261003T092500Z
-SUMMARY:KSŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
+DTSTART:20260313T070000Z
+DTEND:20260313T083500Z
+SUMMARY:NMI (w)
+LOCATION:11/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261010T075000Z
-DTEND:20261010T092500Z
-SUMMARY:Ipo (w)
-LOCATION:26/ 34
-DESCRIPTION:Inżynieria powierzchni\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Zasada Dariusz
+DTSTART:20260320T070000Z
+DTEND:20260320T083500Z
+SUMMARY:NMI (w)
+LOCATION:11/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261017T075000Z
-DTEND:20261017T092500Z
-SUMMARY:KSŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261024T075000Z
-DTEND:20261024T092500Z
-SUMMARY:KSŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261107T085000Z
-DTEND:20261107T102500Z
-SUMMARY:Mnm (w)
-LOCATION:26/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 17/18\nProwadzący: płk dr hab. inż. Jóźwik Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261114T085000Z
-DTEND:20261114T102500Z
-SUMMARY:KSŻ (w)
-LOCATION:26/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261121T085000Z
-DTEND:20261121T102500Z
-SUMMARY:SzMKiTW (S)
-LOCATION:166 S
-DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 16/16\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261205T085000Z
-DTEND:20261205T102500Z
-SUMMARY:Bn (L)
+DTSTART:20260410T060000Z
+DTEND:20260410T073500Z
+SUMMARY:Eksm (L)
 LOCATION:15/ 34
-DESCRIPTION:Badania nieniszczące\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Komorek Zenon
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261212T085000Z
-DTEND:20261212T102500Z
-SUMMARY:Mnm (w)
-LOCATION:Jóź.P.
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 18/18
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261219T085000Z
-DTEND:20261219T102500Z
-SUMMARY:Mnm (L)
+DTSTART:20260417T060000Z
+DTEND:20260417T073500Z
+SUMMARY:Eksm (L)
 LOCATION:15/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Dworecka-Wójcik Julita
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260109T085000Z
-DTEND:20260109T102500Z
-SUMMARY:KSŻ (L)
-LOCATION:14/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Przygucka Dominika
+DTSTART:20260508T060000Z
+DTEND:20260508T073500Z
+SUMMARY:NMI (w)
+LOCATION:11/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260116T085000Z
-DTEND:20260116T102500Z
-SUMMARY:KSŻ (L)
-LOCATION:15/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Komorek Zenon
+DTSTART:20260612T060000Z
+DTEND:20260612T073500Z
+SUMMARY:NMI (L)
+LOCATION:26/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260123T085000Z
-DTEND:20260123T102500Z
-SUMMARY:Mnm (L)
-LOCATION:14/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Dworecka-Wójcik Julita
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260130T085000Z
-DTEND:20260130T102500Z
-SUMMARY:KSŻ (L)
-LOCATION:14/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Antolak-Dudka Anna
+DTSTART:20260619T060000Z
+DTEND:20260619T073500Z
+SUMMARY:Eksm (S)
+LOCATION:26/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: płk dr hab. inż. Jóźwik Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T085000Z
 DTEND:20260306T102500Z
 SUMMARY:Eksm (w)
 LOCATION:26/ 34
-DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: płk dr hab. inż. Jóźwik Paweł
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: płk dr hab. inż. Jóźwik Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261010T094000Z
-DTEND:20261010T111500Z
-SUMMARY:Bn (w)
-LOCATION:11/ 34
-DESCRIPTION:Badania nieniszczące\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr inż. Komorek Zenon
+DTSTART:20260313T085000Z
+DTEND:20260313T102500Z
+SUMMARY:Eksm (w)
+LOCATION:26/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: płk dr hab. inż. Jóźwik Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261017T094000Z
-DTEND:20261017T111500Z
-SUMMARY:Bn (w)
-LOCATION:11/ 34
-DESCRIPTION:Badania nieniszczące\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr inż. Komorek Zenon
+DTSTART:20260320T085000Z
+DTEND:20260320T102500Z
+SUMMARY:TechP (w)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261024T094000Z
-DTEND:20261024T111500Z
-SUMMARY:Bn (w)
-LOCATION:11/ 34
-DESCRIPTION:Badania nieniszczące\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr inż. Komorek Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261107T104000Z
-DTEND:20261107T121500Z
-SUMMARY:Bn (w)
-LOCATION:11/ 34
-DESCRIPTION:Badania nieniszczące\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr inż. Komorek Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261114T104000Z
-DTEND:20261114T121500Z
-SUMMARY:Bn (w)
-LOCATION:11/ 34
-DESCRIPTION:Badania nieniszczące\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr inż. Komorek Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261121T104000Z
-DTEND:20261121T121500Z
-SUMMARY:Bn (w)
-LOCATION:11/ 34
-DESCRIPTION:Badania nieniszczące\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. Komorek Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261205T104000Z
-DTEND:20261205T121500Z
-SUMMARY:Bn (w)
-LOCATION:11/ 34
-DESCRIPTION:Badania nieniszczące\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr inż. Komorek Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261219T104000Z
-DTEND:20261219T121500Z
-SUMMARY:Mnm (L)
+DTSTART:20260410T075000Z
+DTEND:20260410T092500Z
+SUMMARY:Eksm (L)
 LOCATION:15/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Dworecka-Wójcik Julita
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260109T104000Z
-DTEND:20260109T121500Z
-SUMMARY:KSŻ (L)
-LOCATION:14/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Przygucka Dominika
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260116T104000Z
-DTEND:20260116T121500Z
-SUMMARY:SMNŻ (L)
+DTSTART:20260417T075000Z
+DTEND:20260417T092500Z
+SUMMARY:Eksm (L)
 LOCATION:15/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Komorek Zenon
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260123T104000Z
-DTEND:20260123T121500Z
-SUMMARY:KSŻ (L)
+DTSTART:20260508T075000Z
+DTEND:20260508T092500Z
+SUMMARY:Eksm (L)
 LOCATION:15/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Komorek Zenon
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260130T104000Z
-DTEND:20260130T121500Z
-SUMMARY:SMNŻ (L)
-LOCATION:14/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Przygucka Dominika
+DTSTART:20260612T075000Z
+DTEND:20260612T092500Z
+SUMMARY:NMI (L)
+LOCATION:26/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Zasada Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T075000Z
+DTEND:20260619T092500Z
+SUMMARY:Eksm (S)
+LOCATION:26/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: płk dr hab. inż. Jóźwik Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T104000Z
 DTEND:20260306T121500Z
 SUMMARY:TechP (w)
 LOCATION:26/ 34
-DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261212T123000Z
-DTEND:20261212T140500Z
-SUMMARY:MeP (ć)
+DTSTART:20260313T104000Z
+DTEND:20260313T121500Z
+SUMMARY:TechP (w)
 LOCATION:26/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Siemiaszko Dariusz
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261219T123000Z
-DTEND:20261219T140500Z
-SUMMARY:Mnm (ć)
+DTSTART:20260320T104000Z
+DTEND:20260320T121500Z
+SUMMARY:Eksm (w)
 LOCATION:26/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Dworecka-Wójcik Julita
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: płk dr hab. inż. Jóźwik Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260109T123000Z
-DTEND:20260109T140500Z
-SUMMARY:Mnm (ć)
+DTSTART:20260410T094000Z
+DTEND:20260410T111500Z
+SUMMARY:NMI (w)
 LOCATION:26/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. Stępniowski Wojciech
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260116T123000Z
-DTEND:20260116T140500Z
-SUMMARY:SMNŻ (L)
+DTSTART:20260417T094000Z
+DTEND:20260417T111500Z
+SUMMARY:TechP (w)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Antolak-Dudka Anna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T094000Z
+DTEND:20260508T111500Z
+SUMMARY:Eksm (L)
 LOCATION:15/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Komorek Zenon
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260123T123000Z
-DTEND:20260123T140500Z
-SUMMARY:KSŻ (L)
-LOCATION:15/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Komorek Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260130T123000Z
-DTEND:20260130T140500Z
-SUMMARY:SMNŻ (L)
-LOCATION:14/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Przygucka Dominika
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261212T150000Z
-DTEND:20261212T163500Z
-SUMMARY:MeP (ć)
+DTSTART:20260612T094000Z
+DTEND:20260612T111500Z
+SUMMARY:TechP (L)
 LOCATION:26/ 34
-DESCRIPTION:Metalurgia proszków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Siemiaszko Dariusz
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261108T104000Z
-DTEND:20261108T121500Z
-SUMMARY:XFiz2 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+DTSTART:20260619T094000Z
+DTEND:20260619T111500Z
+SUMMARY:TechP (L)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261115T104000Z
-DTEND:20261115T121500Z
-SUMMARY:XFiz2 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+DTSTART:20260320T123000Z
+DTEND:20260320T140500Z
+SUMMARY:NMI (w)
+LOCATION:26/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261206T104000Z
-DTEND:20261206T121500Z
-SUMMARY:XFiz2 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+DTSTART:20260410T113000Z
+DTEND:20260410T130500Z
+SUMMARY:TechP (w)
+LOCATION:26/ 34
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261213T104000Z
-DTEND:20261213T121500Z
-SUMMARY:XFiz2 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+DTSTART:20260417T113000Z
+DTEND:20260417T130500Z
+SUMMARY:NMI (w)
+LOCATION:26/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261220T104000Z
-DTEND:20261220T121500Z
-SUMMARY:XFiz2 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+DTSTART:20260508T113000Z
+DTEND:20260508T130500Z
+SUMMARY:Eksm (S)
+LOCATION:26/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: płk dr hab. inż. Jóźwik Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261108T123000Z
-DTEND:20261108T140500Z
-SUMMARY:XFiz2 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+DTSTART:20260612T113000Z
+DTEND:20260612T130500Z
+SUMMARY:PPT (S)
+LOCATION:26/ 34
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261115T123000Z
-DTEND:20261115T140500Z
-SUMMARY:XFiz2 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261206T123000Z
-DTEND:20261206T140500Z
-SUMMARY:XFiz2 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261213T123000Z
-DTEND:20261213T140500Z
-SUMMARY:XFiz2 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261123T070000Z
-DTEND:20261123T083500Z
-SUMMARY:XFiz2 (ć)
-LOCATION:aF S
-DESCRIPTION:XFizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Chodorow Urszula
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261207T070000Z
-DTEND:20261207T083500Z
-SUMMARY:XFiz2 (ć)
-LOCATION:aF S;19 36
-DESCRIPTION:XFizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr Chodorow Urszula
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261221T070000Z
-DTEND:20261221T083500Z
-SUMMARY:XFiz2 (ć)
-LOCATION:aF S;19 36
-DESCRIPTION:XFizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Chodorow Urszula
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261123T085000Z
-DTEND:20261123T102500Z
-SUMMARY:XFiz2 (ć)
-LOCATION:aF S
-DESCRIPTION:XFizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Chodorow Urszula
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261207T085000Z
-DTEND:20261207T102500Z
-SUMMARY:XFiz2 (ć)
-LOCATION:aF S;19 36
-DESCRIPTION:XFizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Chodorow Urszula
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261221T085000Z
-DTEND:20261221T102500Z
-SUMMARY:XFiz2 (ć)
-LOCATION:aF S;19 36
-DESCRIPTION:XFizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Chodorow Urszula
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260111T085000Z
-DTEND:20260111T102500Z
-SUMMARY:XFiz2 (ć)
-LOCATION:aF S;19 36
-DESCRIPTION:XFizyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Chodorow Urszula
+DTSTART:20260619T113000Z
+DTEND:20260619T130500Z
+SUMMARY:PPT (S)
+LOCATION:26/ 34
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 12/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 END:VCALENDAR

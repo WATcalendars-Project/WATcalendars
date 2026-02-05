@@ -2832,18 +2832,18 @@ LOCATION:314 S
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260316T123000Z
+DTEND:20260316T140500Z
+SUMMARY:TA (w)
+LOCATION:AW 3/038
+DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260316T150000Z
 DTEND:20260316T163500Z
 SUMMARY:Tpi (w)
 LOCATION:314 S
 DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260317T070000Z
-DTEND:20260317T083500Z
-SUMMARY:ZLDT-1 (w)
-LOCATION:aula/ 135
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T085000Z
@@ -2904,30 +2904,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T123000Z
 DTEND:20260319T140500Z
-SUMMARY:TA (w)
-LOCATION:AW 3/038
-DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 42/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T150000Z
 DTEND:20260319T163500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 42/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 43/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T165000Z
 DTEND:20260319T182500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 43/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 44/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T184000Z
 DTEND:20260319T201500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 44/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 45/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T070000Z
@@ -2956,6 +2956,13 @@ DTEND:20260320T140500Z
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 36/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T150000Z
+DTEND:20260320T163500Z
+SUMMARY:ZLDT-1 (w)
+LOCATION:aula/ 135
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T085000Z
@@ -3046,21 +3053,21 @@ DTSTART:20260326T150000Z
 DTEND:20260326T163500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 45/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 46/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T165000Z
 DTEND:20260326T182500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 46/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 47/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T184000Z
 DTEND:20260326T201500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 47/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 48/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T075000Z
@@ -3165,28 +3172,28 @@ DTSTART:20260402T113000Z
 DTEND:20260402T130500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 48/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 49/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T140000Z
 DTEND:20260402T153500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 49/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 50/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T155000Z
 DTEND:20260402T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 50/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 51/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T174000Z
 DTEND:20260402T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 51/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 52/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T060000Z
@@ -3201,6 +3208,20 @@ DTEND:20260408T092500Z
 SUMMARY:F1 (L)
 LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T094000Z
+DTEND:20260408T111500Z
+SUMMARY:PTk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T113000Z
+DTEND:20260408T130500Z
+SUMMARY:PTk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T140000Z
@@ -3235,14 +3256,14 @@ DTSTART:20260409T155000Z
 DTEND:20260409T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 52/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 53/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T174000Z
 DTEND:20260409T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 53/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 54/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T094000Z
@@ -3315,6 +3336,20 @@ LOCATION:314 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr Jan Nawrocki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260415T060000Z
+DTEND:20260415T073500Z
+SUMMARY:PTk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T075000Z
+DTEND:20260415T092500Z
+SUMMARY:PTk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260415T113000Z
 DTEND:20260415T130500Z
 SUMMARY:F1 (L)
@@ -3354,28 +3389,28 @@ DTSTART:20260416T113000Z
 DTEND:20260416T130500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 54/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 55/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T140000Z
 DTEND:20260416T153500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 55/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 56/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T155000Z
 DTEND:20260416T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 56/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 57/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T174000Z
 DTEND:20260416T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 57/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 58/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T060000Z
@@ -3515,21 +3550,21 @@ DTSTART:20260423T140000Z
 DTEND:20260423T153500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 58/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 59/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T155000Z
 DTEND:20260423T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 59/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 60/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T174000Z
 DTEND:20260423T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 60/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 61/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T113000Z
@@ -3544,6 +3579,20 @@ DTEND:20260425T153500Z
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PW)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T060000Z
+DTEND:20260427T073500Z
+SUMMARY:PTk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T075000Z
+DTEND:20260427T092500Z
+SUMMARY:PTk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T113000Z
@@ -3623,39 +3672,25 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 44/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260430T094000Z
-DTEND:20260430T111500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 61/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T113000Z
-DTEND:20260430T130500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 62/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T140000Z
-DTEND:20260430T153500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 63/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T155000Z
-DTEND:20260430T172500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 64/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260504T075000Z
 DTEND:20260504T092500Z
 SUMMARY:F1 (ć)
 LOCATION:201 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T094000Z
+DTEND:20260504T111500Z
+SUMMARY:PTk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T113000Z
+DTEND:20260504T130500Z
+SUMMARY:PTk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T060000Z
@@ -3760,14 +3795,14 @@ DTSTART:20260507T155000Z
 DTEND:20260507T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 65/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 62/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T174000Z
 DTEND:20260507T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 66/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 63/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T094000Z
@@ -3787,7 +3822,7 @@ BEGIN:VEVENT
 DTSTART:20260511T075000Z
 DTEND:20260511T092500Z
 SUMMARY:F1 (ć)
-LOCATION:201 65
+LOCATION:203 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3879,7 +3914,7 @@ DTSTART:20260514T113000Z
 DTEND:20260514T130500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 67/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 64/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T140000Z
@@ -3893,14 +3928,14 @@ DTSTART:20260514T155000Z
 DTEND:20260514T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 68/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 65/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T174000Z
 DTEND:20260514T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 69/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 66/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T094000Z
@@ -3934,7 +3969,7 @@ BEGIN:VEVENT
 DTSTART:20260518T075000Z
 DTEND:20260518T092500Z
 SUMMARY:F1 (ć)
-LOCATION:201 65
+LOCATION:205 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4040,21 +4075,21 @@ DTSTART:20260521T140000Z
 DTEND:20260521T153500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 70/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 67/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T155000Z
 DTEND:20260521T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 71/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 68/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T174000Z
 DTEND:20260521T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 72/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 69/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T113000Z
@@ -4081,7 +4116,7 @@ BEGIN:VEVENT
 DTSTART:20260525T075000Z
 DTEND:20260525T092500Z
 SUMMARY:F1 (ć)
-LOCATION:201 65
+LOCATION:203 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4166,14 +4201,14 @@ DTSTART:20260528T155000Z
 DTEND:20260528T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 73/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 70/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T174000Z
 DTEND:20260528T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 74/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 71/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T094000Z
@@ -4200,7 +4235,7 @@ BEGIN:VEVENT
 DTSTART:20260601T075000Z
 DTEND:20260601T092500Z
 SUMMARY:F1 (ć)
-LOCATION:201 65
+LOCATION:203 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4228,7 +4263,7 @@ BEGIN:VEVENT
 DTSTART:20260608T075000Z
 DTEND:20260608T092500Z
 SUMMARY:F1 (ć)
-LOCATION:201 65
+LOCATION:203 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4278,7 +4313,7 @@ DTSTART:20260611T094000Z
 DTEND:20260611T111500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 75/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 72/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T113000Z
@@ -4292,21 +4327,21 @@ DTSTART:20260611T140000Z
 DTEND:20260611T153500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 76/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 73/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T155000Z
 DTEND:20260611T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 77/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 74/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T174000Z
 DTEND:20260611T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 78/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 75/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T094000Z
@@ -4397,7 +4432,7 @@ DTSTART:20260618T113000Z
 DTEND:20260618T130500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 79/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 76/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T140000Z
@@ -4411,14 +4446,14 @@ DTSTART:20260618T155000Z
 DTEND:20260618T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 80/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 77/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T174000Z
 DTEND:20260618T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 81/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 78/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T094000Z

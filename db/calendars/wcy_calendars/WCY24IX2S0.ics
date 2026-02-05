@@ -4610,6 +4610,13 @@ LOCATION:314 S
 DESCRIPTION:Przywództwo w dowodzeniu - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260216T150000Z
+DTEND:20260216T163500Z
+SUMMARY:Tgs (Inne)
+LOCATION:316 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260217T085000Z
 DTEND:20260217T102500Z
 SUMMARY:Als (Inne)
@@ -4622,6 +4629,13 @@ DTEND:20260217T121500Z
 SUMMARY:Sm (Inne)
 LOCATION:218 65
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T123000Z
+DTEND:20260217T140500Z
+SUMMARY:Pnak (Inne)
+LOCATION:106 65
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T085000Z
@@ -5775,7 +5789,7 @@ BEGIN:VEVENT
 DTSTART:20260430T113000Z
 DTEND:20260430T130500Z
 SUMMARY:Hsw (ć)
-LOCATION:201 65
+LOCATION:203 65
 DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5873,7 +5887,7 @@ BEGIN:VEVENT
 DTSTART:20260507T113000Z
 DTEND:20260507T130500Z
 SUMMARY:Hsw (ć)
-LOCATION:201 65
+LOCATION:203 65
 DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6006,7 +6020,7 @@ BEGIN:VEVENT
 DTSTART:20260514T113000Z
 DTEND:20260514T130500Z
 SUMMARY:Hsw (ć)
-LOCATION:201 65
+LOCATION:205 65
 DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6237,7 +6251,7 @@ BEGIN:VEVENT
 DTSTART:20260611T113000Z
 DTEND:20260611T130500Z
 SUMMARY:Hsw (ć)
-LOCATION:201 65
+LOCATION:203 65
 DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT

@@ -1222,6 +1222,13 @@ LOCATION:314 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260205T123000Z
+DTEND:20260205T140500Z
+SUMMARY:PSy (Inne)
+LOCATION:316 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260206T165000Z
 DTEND:20260206T182500Z
 SUMMARY:Pjf (Inne)
@@ -1299,6 +1306,13 @@ LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260309T104000Z
+DTEND:20260309T121500Z
+SUMMARY:Sp (Inne)
+LOCATION:317 S
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/10\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T123000Z
 DTEND:20260310T140500Z
 SUMMARY:Jtp (w)
@@ -1353,6 +1367,13 @@ DTEND:20260316T102500Z
 SUMMARY:kck (w)
 LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T104000Z
+DTEND:20260316T121500Z
+SUMMARY:kck (L)
+LOCATION:09 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T070000Z
@@ -1411,6 +1432,13 @@ LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260323T104000Z
+DTEND:20260323T121500Z
+SUMMARY:kck (L)
+LOCATION:09 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T104000Z
 DTEND:20260325T121500Z
 SUMMARY:Muma (w)
@@ -1439,6 +1467,20 @@ LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260331T060000Z
+DTEND:20260331T073500Z
+SUMMARY:kck (L)
+LOCATION:011 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T075000Z
+DTEND:20260331T092500Z
+SUMMARY:kck (L)
+LOCATION:011 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260401T094000Z
 DTEND:20260401T111500Z
 SUMMARY:Muma (w)
@@ -1451,6 +1493,20 @@ DTEND:20260401T130500Z
 SUMMARY:Awd (w)
 LOCATION:307 S
 DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T060000Z
+DTEND:20260409T073500Z
+SUMMARY:kck (L)
+LOCATION:011 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T075000Z
+DTEND:20260409T092500Z
+SUMMARY:kck (L)
+LOCATION:011 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T060000Z
@@ -1488,6 +1544,34 @@ LOCATION:309 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260421T060000Z
+DTEND:20260421T073500Z
+SUMMARY:Sp (Inne)
+LOCATION:307 S
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/10\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T075000Z
+DTEND:20260421T092500Z
+SUMMARY:Sp (Inne)
+LOCATION:307 S
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/10\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T094000Z
+DTEND:20260421T111500Z
+SUMMARY:Sp (Inne)
+LOCATION:307 S
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/10\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T113000Z
+DTEND:20260421T130500Z
+SUMMARY:Sp (Inne)
+LOCATION:307 S
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/10\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260422T060000Z
 DTEND:20260422T073500Z
 SUMMARY:kck (w)
@@ -1502,6 +1586,20 @@ LOCATION:309 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260423T060000Z
+DTEND:20260423T073500Z
+SUMMARY:kck (L)
+LOCATION:125 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T075000Z
+DTEND:20260423T092500Z
+SUMMARY:kck (L)
+LOCATION:125 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260429T060000Z
 DTEND:20260429T073500Z
 SUMMARY:kck (w)
@@ -1514,6 +1612,41 @@ DTEND:20260430T111500Z
 SUMMARY:Jtp (w)
 LOCATION:313 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T060000Z
+DTEND:20260526T073500Z
+SUMMARY:Sp (Inne)
+LOCATION:317 S
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 6/10\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T075000Z
+DTEND:20260526T092500Z
+SUMMARY:Sp (Inne)
+LOCATION:317 S
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 7/10\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T094000Z
+DTEND:20260526T111500Z
+SUMMARY:Sp (Inne)
+LOCATION:317 S
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 8/10\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T113000Z
+DTEND:20260526T130500Z
+SUMMARY:Sp (Inne)
+LOCATION:317 S
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 9/10\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T140000Z
+DTEND:20260526T153500Z
+SUMMARY:Sp (Inne)
+LOCATION:317 S
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 10/10\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T113000Z

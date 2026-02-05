@@ -3627,7 +3627,7 @@ DTSTART:20260217T070000Z
 DTEND:20260217T083500Z
 SUMMARY:Aok (Inne)
 LOCATION:316 S 317 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T104000Z
@@ -3635,6 +3635,20 @@ DTEND:20260217T121500Z
 SUMMARY:Sm (Inne)
 LOCATION:078 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T150000Z
+DTEND:20260217T163500Z
+SUMMARY:Aok (Inne)
+LOCATION:125 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T165000Z
+DTEND:20260217T182500Z
+SUMMARY:Aok (Inne)
+LOCATION:125 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T085000Z
@@ -4001,6 +4015,20 @@ LOCATION:313 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260320T085000Z
+DTEND:20260320T102500Z
+SUMMARY:IK (L)
+LOCATION:121 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T104000Z
+DTEND:20260320T121500Z
+SUMMARY:IK (L)
+LOCATION:121 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260323T104000Z
 DTEND:20260323T121500Z
 SUMMARY:Zkst (w)
@@ -4092,6 +4120,20 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 35/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260401T060000Z
+DTEND:20260401T073500Z
+SUMMARY:Pnak (L)
+LOCATION:236 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T075000Z
+DTEND:20260401T092500Z
+SUMMARY:Pnak (L)
+LOCATION:236 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260401T094000Z
 DTEND:20260401T111500Z
 SUMMARY:Sck (w)
@@ -4162,6 +4204,20 @@ LOCATION:314 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260410T075000Z
+DTEND:20260410T092500Z
+SUMMARY:IK (L)
+LOCATION:121 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T094000Z
+DTEND:20260410T111500Z
+SUMMARY:IK (L)
+LOCATION:121 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260413T060000Z
 DTEND:20260413T073500Z
 SUMMARY:Sck (w)
@@ -4188,6 +4244,20 @@ DTEND:20260414T073500Z
 SUMMARY:IK (w)
 LOCATION:313 S
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T075000Z
+DTEND:20260414T092500Z
+SUMMARY:Pnak (L)
+LOCATION:236 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T094000Z
+DTEND:20260414T111500Z
+SUMMARY:Pnak (L)
+LOCATION:236 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T113000Z
@@ -4309,11 +4379,32 @@ LOCATION:313 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260422T075000Z
+DTEND:20260422T092500Z
+SUMMARY:IK (ć)
+LOCATION:201 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260423T060000Z
 DTEND:20260423T073500Z
 SUMMARY:Pk (w)
 LOCATION:314 S
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T094000Z
+DTEND:20260423T111500Z
+SUMMARY:IK (L)
+LOCATION:09 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T113000Z
+DTEND:20260423T130500Z
+SUMMARY:IK (L)
+LOCATION:09 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T140000Z
@@ -4328,6 +4419,20 @@ DTEND:20260427T073500Z
 SUMMARY:Wek (w)
 LOCATION:316 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T094000Z
+DTEND:20260427T111500Z
+SUMMARY:Pnak (L)
+LOCATION:236 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T113000Z
+DTEND:20260427T130500Z
+SUMMARY:Pnak (L)
+LOCATION:236 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T060000Z
@@ -4463,6 +4568,20 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 40/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260513T060000Z
+DTEND:20260513T073500Z
+SUMMARY:Pnak (L)
+LOCATION:236 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T075000Z
+DTEND:20260513T092500Z
+SUMMARY:Pnak (L)
+LOCATION:236 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260515T075000Z
 DTEND:20260515T092500Z
 SUMMARY:IO (L)
@@ -4510,6 +4629,27 @@ DTEND:20260521T092500Z
 SUMMARY:Sck (L)
 LOCATION:120 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T075000Z
+DTEND:20260522T092500Z
+SUMMARY:IK (L)
+LOCATION:125 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T094000Z
+DTEND:20260522T111500Z
+SUMMARY:IK (L)
+LOCATION:125 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T113000Z
+DTEND:20260525T130500Z
+SUMMARY:IK (ć)
+LOCATION:201 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: Jozef Turczyn
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T113000Z
@@ -4580,6 +4720,20 @@ DTEND:20260609T153500Z
 SUMMARY:JoM (ć)
 LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 44/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T094000Z
+DTEND:20260610T111500Z
+SUMMARY:IK (L)
+LOCATION:125 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T113000Z
+DTEND:20260610T130500Z
+SUMMARY:IK (L)
+LOCATION:125 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T075000Z

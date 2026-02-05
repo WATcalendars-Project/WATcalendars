@@ -2125,6 +2125,20 @@ LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260408T060000Z
+DTEND:20260408T073500Z
+SUMMARY:ppk (L)
+LOCATION:236 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T075000Z
+DTEND:20260408T092500Z
+SUMMARY:ppk (L)
+LOCATION:236 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260408T094000Z
 DTEND:20260408T111500Z
 SUMMARY:Md2 (w)
@@ -2221,6 +2235,20 @@ DTEND:20260413T111500Z
 SUMMARY:Tgs (w)
 LOCATION:314 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T140000Z
+DTEND:20260413T153500Z
+SUMMARY:PTk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Marcin Goluch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T155000Z
+DTEND:20260413T172500Z
+SUMMARY:PTk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T060000Z
@@ -2349,13 +2377,6 @@ LOCATION:239 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260422T094000Z
-DTEND:20260422T111500Z
-SUMMARY:ppk (w)
-LOCATION:314 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Jan Chudzikiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260423T060000Z
 DTEND:20260423T073500Z
 SUMMARY:F1 (w)
@@ -2428,9 +2449,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T075000Z
 DTEND:20260429T092500Z
+SUMMARY:ppk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T094000Z
+DTEND:20260429T111500Z
 SUMMARY:Rp (w)
 LOCATION:314 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T140000Z
+DTEND:20260429T153500Z
+SUMMARY:PTk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Marcin Goluch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T155000Z
+DTEND:20260429T172500Z
+SUMMARY:PTk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T060000Z
@@ -2538,6 +2580,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260507T113000Z
+DTEND:20260507T130500Z
+SUMMARY:PTk (ć)
+LOCATION:201 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260507T140000Z
 DTEND:20260507T153500Z
 SUMMARY:JoM (ć)
@@ -2557,6 +2606,20 @@ DTEND:20260511T073500Z
 SUMMARY:Amt (w)
 LOCATION:314 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T140000Z
+DTEND:20260511T153500Z
+SUMMARY:PTk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Marcin Goluch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T155000Z
+DTEND:20260511T172500Z
+SUMMARY:PTk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T075000Z
@@ -2585,6 +2648,20 @@ DTEND:20260513T073500Z
 SUMMARY:Rp (w)
 LOCATION:314 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T094000Z
+DTEND:20260513T111500Z
+SUMMARY:ppk (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T113000Z
+DTEND:20260513T130500Z
+SUMMARY:ppk (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T060000Z
@@ -2678,11 +2755,32 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260521T113000Z
+DTEND:20260521T130500Z
+SUMMARY:PTk (ć)
+LOCATION:101 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260521T140000Z
 DTEND:20260521T153500Z
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T060000Z
+DTEND:20260525T073500Z
+SUMMARY:ppk (L)
+LOCATION:125 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T075000Z
+DTEND:20260525T092500Z
+SUMMARY:ppk (L)
+LOCATION:125 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T075000Z
@@ -2706,6 +2804,20 @@ LOCATION:205 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260527T140000Z
+DTEND:20260527T153500Z
+SUMMARY:PTk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Marcin Goluch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T155000Z
+DTEND:20260527T172500Z
+SUMMARY:PTk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Marcin Goluch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260528T060000Z
 DTEND:20260528T073500Z
 SUMMARY:F1 (w)
@@ -2725,6 +2837,13 @@ DTEND:20260528T153500Z
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T075000Z
+DTEND:20260529T092500Z
+SUMMARY:PTk (ć)
+LOCATION:201 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: Jozef Turczyn
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T075000Z
@@ -2755,6 +2874,20 @@ LOCATION:239 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 29/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260610T094000Z
+DTEND:20260610T111500Z
+SUMMARY:ppk (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T113000Z
+DTEND:20260610T130500Z
+SUMMARY:ppk (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260611T060000Z
 DTEND:20260611T073500Z
 SUMMARY:F1 (w)
@@ -2781,6 +2914,13 @@ DTEND:20260612T073500Z
 SUMMARY:F1 (L)
 LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T094000Z
+DTEND:20260612T111500Z
+SUMMARY:PTk (ć)
+LOCATION:201 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: Jozef Turczyn
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T094000Z

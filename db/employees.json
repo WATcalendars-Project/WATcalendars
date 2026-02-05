@@ -792,6 +792,11 @@
     },
     {
       "degree": "dr hab.",
+      "is_new": true,
+      "name": "Barbara Kaczmarczyk [NEW]"
+    },
+    {
+      "degree": "dr hab.",
       "is_new": false,
       "name": "Beata Domańska-Szaruga"
     },
@@ -1094,6 +1099,11 @@
       "degree": "dr hab. inż.",
       "is_new": false,
       "name": "Jarosław Siwiński"
+    },
+    {
+      "degree": "dr hab. inż.",
+      "is_new": true,
+      "name": "Jarosław Ziółkowski [NEW]"
     },
     {
       "degree": "dr hab. inż.",
@@ -2864,6 +2874,11 @@
       "degree": "dr inż.",
       "is_new": false,
       "name": "Paweł Moszczyński"
+    },
+    {
+      "degree": "dr inż.",
+      "is_new": true,
+      "name": "Paweł Płatek [NEW]"
     },
     {
       "degree": "dr inż.",
@@ -5702,10 +5717,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-03T02:18:26.925851",
-    "last_updated_readable": "2026-02-03 02:18:26",
-    "new_employees_count": 0,
+    "last_updated": "2026-02-05T02:10:47.472574",
+    "last_updated_readable": "2026-02-05 02:10:47",
+    "new_employees_count": 3,
     "scraper_version": "1.0",
-    "total_employees": 1140
+    "total_employees": 1143
   }
 }
