@@ -1803,6 +1803,20 @@ LOCATION:314 S
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260306T085000Z
+DTEND:20260306T102500Z
+SUMMARY:HP (w)
+LOCATION:316 S
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T104000Z
+DTEND:20260306T121500Z
+SUMMARY:HP (w)
+LOCATION:316 S
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260306T150000Z
 DTEND:20260306T163500Z
 SUMMARY:Tgs (w)
@@ -1870,14 +1884,14 @@ DTSTART:20260312T085000Z
 DTEND:20260312T102500Z
 SUMMARY:HP (w)
 LOCATION:313 S
-DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: -
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T104000Z
 DTEND:20260312T121500Z
 SUMMARY:HP (w)
 LOCATION:313 S
-DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T123000Z
@@ -1899,6 +1913,13 @@ DTEND:20260313T102500Z
 SUMMARY:F1 (L)
 LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T123000Z
+DTEND:20260313T140500Z
+SUMMARY:HP (ć)
+LOCATION:205 65
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T150000Z
@@ -1948,6 +1969,13 @@ DTEND:20260318T140500Z
 SUMMARY:F1 (ć)
 LOCATION:201 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T150000Z
+DTEND:20260318T163500Z
+SUMMARY:Rp (w)
+LOCATION:316 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T165000Z
@@ -2045,7 +2073,7 @@ DTSTART:20260325T070000Z
 DTEND:20260325T083500Z
 SUMMARY:Rp (w)
 LOCATION:314 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T165000Z
@@ -2094,7 +2122,14 @@ DTSTART:20260401T075000Z
 DTEND:20260401T092500Z
 SUMMARY:Rp (w)
 LOCATION:314 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T113000Z
+DTEND:20260401T130500Z
+SUMMARY:Md2 (w)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T155000Z
@@ -2164,7 +2199,7 @@ DTSTART:20260408T113000Z
 DTEND:20260408T130500Z
 SUMMARY:Rp (w)
 LOCATION:314 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T155000Z
@@ -2202,6 +2237,20 @@ LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260410T075000Z
+DTEND:20260410T092500Z
+SUMMARY:PTk (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/14\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T094000Z
+DTEND:20260410T111500Z
+SUMMARY:PTk (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 8/14\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260410T113000Z
 DTEND:20260410T130500Z
 SUMMARY:WdP (w)
@@ -2234,7 +2283,7 @@ DTSTART:20260414T094000Z
 DTEND:20260414T111500Z
 SUMMARY:Md2 (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T060000Z
@@ -2314,53 +2363,25 @@ LOCATION:205 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260421T075000Z
-DTEND:20260421T092500Z
-SUMMARY:Amt (w)
-LOCATION:314 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260421T094000Z
-DTEND:20260421T111500Z
-SUMMARY:Md2 (w)
-LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DTSTART:20260421T060000Z
+DTEND:20260421T073500Z
+SUMMARY:HP (w)
+LOCATION:317 S
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T140000Z
 DTEND:20260421T153500Z
-SUMMARY:Tgs (w)
-LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+SUMMARY:HP (ć)
+LOCATION:313 S
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260421T155000Z
-DTEND:20260421T172500Z
-SUMMARY:Tgs (w)
-LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260422T060000Z
-DTEND:20260422T073500Z
-SUMMARY:PTk (w)
-LOCATION:314 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/14\nProwadzący: dr inż. Krzysztof Murawski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260422T075000Z
-DTEND:20260422T092500Z
-SUMMARY:PTk (w)
-LOCATION:314 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 8/14\nProwadzący: dr inż. Krzysztof Murawski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260422T113000Z
-DTEND:20260422T130500Z
-SUMMARY:Rp (w)
-LOCATION:314 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DTSTART:20260422T094000Z
+DTEND:20260422T111500Z
+SUMMARY:HP (ć)
+LOCATION:308 S
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T155000Z
@@ -2396,13 +2417,6 @@ DTEND:20260423T153500Z
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260423T155000Z
-DTEND:20260423T172500Z
-SUMMARY:HP (w)
-LOCATION:313 S
-DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T060000Z
@@ -2445,6 +2459,20 @@ DTEND:20260428T111500Z
 SUMMARY:Md2 (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T140000Z
+DTEND:20260428T153500Z
+SUMMARY:Tgs (w)
+LOCATION:314 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T155000Z
+DTEND:20260428T172500Z
+SUMMARY:Tgs (w)
+LOCATION:314 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T075000Z
@@ -2556,7 +2584,7 @@ DTSTART:20260507T094000Z
 DTEND:20260507T111500Z
 SUMMARY:Amt (w)
 LOCATION:314 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T113000Z
@@ -2599,6 +2627,13 @@ DTEND:20260511T153500Z
 SUMMARY:F1 (L)
 LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T060000Z
+DTEND:20260512T073500Z
+SUMMARY:Amt (w)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T094000Z
@@ -2657,13 +2692,6 @@ LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260515T075000Z
-DTEND:20260515T092500Z
-SUMMARY:HP (w)
-LOCATION:313 S
-DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260515T113000Z
 DTEND:20260515T130500Z
 SUMMARY:PTk (ć)
@@ -2720,6 +2748,20 @@ LOCATION:314 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260520T113000Z
+DTEND:20260520T130500Z
+SUMMARY:HP (w)
+LOCATION:313 S
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T140000Z
+DTEND:20260520T153500Z
+SUMMARY:HP (ć)
+LOCATION:308 S
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260520T155000Z
 DTEND:20260520T172500Z
 SUMMARY:Ja (ć)
@@ -2748,11 +2790,11 @@ LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260522T075000Z
-DTEND:20260522T092500Z
-SUMMARY:HP (w)
-LOCATION:313 S
-DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: -
+DTSTART:20260522T060000Z
+DTEND:20260522T073500Z
+SUMMARY:HP (ć)
+LOCATION:308 S
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T113000Z
@@ -2909,6 +2951,13 @@ LOCATION:236 S
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260610T094000Z
+DTEND:20260610T111500Z
+SUMMARY:HP (ć)
+LOCATION:308 S
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260610T155000Z
 DTEND:20260610T172500Z
 SUMMARY:Ja (ć)
@@ -2923,13 +2972,6 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 19/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260611T094000Z
-DTEND:20260611T111500Z
-SUMMARY:HP (w)
-LOCATION:313 S
-DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260611T113000Z
 DTEND:20260611T130500Z
 SUMMARY:WF (w)
@@ -2942,6 +2984,13 @@ DTEND:20260611T153500Z
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 29/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T113000Z
+DTEND:20260612T130500Z
+SUMMARY:HP (ć)
+LOCATION:307 S
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T060000Z

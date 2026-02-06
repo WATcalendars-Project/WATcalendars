@@ -4617,13 +4617,6 @@ LOCATION:121 65
 DESCRIPTION:Sieci IPv6\nRodzaj zajęć: Projekt\nNumer zajęć: 2/7\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260306T123000Z
-DTEND:20260306T140500Z
-SUMMARY:WIT (P)
-LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 1/4\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260306T150000Z
 DTEND:20260306T163500Z
 SUMMARY:v6 (L)
@@ -4649,7 +4642,7 @@ DTSTART:20260309T085000Z
 DTEND:20260309T102500Z
 SUMMARY:WIT (P)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 2/4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 1/4\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T104000Z
@@ -4698,14 +4691,14 @@ DTSTART:20260311T150000Z
 DTEND:20260311T163500Z
 SUMMARY:WIT (P)
 LOCATION:125 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 3/4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 2/4\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T165000Z
 DTEND:20260311T182500Z
 SUMMARY:WIT (P)
 LOCATION:125 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 4/4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 3/4\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T070000Z
@@ -4734,6 +4727,13 @@ DTEND:20260312T182500Z
 SUMMARY:WIT (L)
 LOCATION:125 65
 DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T085000Z
+DTEND:20260313T102500Z
+SUMMARY:WIT (P)
+LOCATION:09 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 4/4\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T123000Z

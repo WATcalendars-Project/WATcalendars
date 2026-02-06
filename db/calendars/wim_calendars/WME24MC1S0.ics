@@ -480,13 +480,6 @@ LOCATION:14/ 34; 15/ 34; 24/ 34
 DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 2\nRodzaj zajęć: (z. popr. lab.)\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250209T123000Z
-DTEND:20250209T140500Z
-SUMMARY:StreM1 (Zp.)
-LOCATION:01/ 54A
-DESCRIPTION:Strength of Materials 1.\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Kędzierski Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251006T140000Z
 DTEND:20251006T153500Z
 SUMMARY:SŁiŚD-z.wyr (w)
@@ -1339,6 +1332,13 @@ DTEND:20250114T083500Z
 SUMMARY:ZŻWAT (i)
 LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: (i)\nNumer zajęć: 4/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250211T070000Z
+DTEND:20250211T083500Z
+SUMMARY:StreM1 (Zp.)
+LOCATION:01/ 54A
+DESCRIPTION:Strength of Materials 1.\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Kędzierski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T075000Z

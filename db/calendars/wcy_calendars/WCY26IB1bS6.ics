@@ -581,7 +581,7 @@ BEGIN:VEVENT
 DTSTART:20260206T085000Z
 DTEND:20260206T102500Z
 SUMMARY:DSiSM (ć)
-LOCATION:PĆT2
+LOCATION:AW 4
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -590,13 +590,6 @@ DTEND:20260206T121500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 10/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260206T123000Z
-DTEND:20260206T140500Z
-SUMMARY:Sck (w)
-LOCATION:309 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T150000Z
@@ -687,7 +680,7 @@ DTSTART:20260210T085000Z
 DTEND:20260210T102500Z
 SUMMARY:Sck (w)
 LOCATION:203 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260210T104000Z
@@ -828,6 +821,13 @@ DTEND:20260216T083500Z
 SUMMARY:SO (w)
 LOCATION:203 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T085000Z
+DTEND:20260216T102500Z
+SUMMARY:Sck (w)
+LOCATION:203 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T104000Z
@@ -1050,7 +1050,7 @@ BEGIN:VEVENT
 DTSTART:20260224T165000Z
 DTEND:20260224T182500Z
 SUMMARY:ZINŻ (w)
-LOCATION:AW 4
+LOCATION:AW 3/038
 DESCRIPTION:Zabezpieczenie inżynieryjne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT

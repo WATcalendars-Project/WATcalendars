@@ -1425,11 +1425,46 @@ LOCATION:308 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260411T113000Z
+DTEND:20260411T130500Z
+SUMMARY:PTk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260411T140000Z
+DTEND:20260411T153500Z
+SUMMARY:PTk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260411T155000Z
 DTEND:20260411T172500Z
 SUMMARY:Rp (L)
 LOCATION:218 65
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260411T174000Z
+DTEND:20260411T191500Z
+SUMMARY:Tpi (ć)
+LOCATION:308 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: mgr inż. Arkadiusz Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260412T060000Z
+DTEND:20260412T073500Z
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260412T075000Z
+DTEND:20260412T092500Z
+SUMMARY:ppk (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260412T113000Z
@@ -1551,6 +1586,27 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260425T155000Z
+DTEND:20260425T172500Z
+SUMMARY:Tpi (L)
+LOCATION:226 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/1\nProwadzący: mgr inż. Arkadiusz Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T060000Z
+DTEND:20260426T073500Z
+SUMMARY:Tgs (ć)
+LOCATION:309 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T075000Z
+DTEND:20260426T092500Z
+SUMMARY:Tgs (ć)
+LOCATION:309 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260426T094000Z
 DTEND:20260426T111500Z
 SUMMARY:PTk (w)
@@ -1563,6 +1619,13 @@ DTEND:20260426T130500Z
 SUMMARY:PTk (w)
 LOCATION:317 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T140000Z
+DTEND:20260426T153500Z
+SUMMARY:Tpi (ć)
+LOCATION:224 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T075000Z
@@ -1605,6 +1668,41 @@ DTEND:20260510T073500Z
 SUMMARY:HP (w)
 LOCATION:317 S
 DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T075000Z
+DTEND:20260510T092500Z
+SUMMARY:Md2 (ć)
+LOCATION:204 65
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Krzysztof Pszczoła
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T094000Z
+DTEND:20260510T111500Z
+SUMMARY:WdP (L)
+LOCATION:226 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T113000Z
+DTEND:20260510T130500Z
+SUMMARY:WdP (L)
+LOCATION:226 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T140000Z
+DTEND:20260510T153500Z
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T155000Z
+DTEND:20260510T172500Z
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T060000Z
@@ -1656,6 +1754,13 @@ LOCATION:317 S
 DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260517T075000Z
+DTEND:20260517T092500Z
+SUMMARY:Tpi (ć)
+LOCATION:308 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: mgr inż. Arkadiusz Kowalski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260517T094000Z
 DTEND:20260517T111500Z
 SUMMARY:HP (ć)
@@ -1663,11 +1768,39 @@ LOCATION:317 S
 DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260517T113000Z
+DTEND:20260517T130500Z
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260517T140000Z
+DTEND:20260517T153500Z
+SUMMARY:Tgs (ć)
+LOCATION:309 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260517T155000Z
+DTEND:20260517T172500Z
+SUMMARY:Tgs (ć)
+LOCATION:309 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260523T060000Z
 DTEND:20260523T073500Z
-SUMMARY:HP (w)
-LOCATION:317 S
-DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: -
+SUMMARY:PTk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260523T075000Z
+DTEND:20260523T092500Z
+SUMMARY:PTk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260523T094000Z
@@ -1691,6 +1824,13 @@ LOCATION:218 65
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260523T155000Z
+DTEND:20260523T172500Z
+SUMMARY:Md2 (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. Krzysztof Pszczoła
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260524T060000Z
 DTEND:20260524T073500Z
 SUMMARY:F1 (L)
@@ -1705,11 +1845,39 @@ LOCATION:141 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260524T094000Z
+DTEND:20260524T111500Z
+SUMMARY:Md2 (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Krzysztof Pszczoła
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260524T113000Z
 DTEND:20260524T130500Z
 SUMMARY:HP (ć)
 LOCATION:317 S
 DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260524T140000Z
+DTEND:20260524T153500Z
+SUMMARY:WdP (L)
+LOCATION:226 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260524T155000Z
+DTEND:20260524T172500Z
+SUMMARY:WdP (L)
+LOCATION:226 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T060000Z
+DTEND:20260530T073500Z
+SUMMARY:HP (w)
+LOCATION:317 S
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260530T075000Z
@@ -1719,11 +1887,39 @@ LOCATION:237 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260530T094000Z
+DTEND:20260530T111500Z
+SUMMARY:ppk (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T113000Z
+DTEND:20260530T130500Z
+SUMMARY:ppk (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T140000Z
+DTEND:20260530T153500Z
+SUMMARY:Tgs (ć)
+LOCATION:307 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260530T155000Z
 DTEND:20260530T172500Z
 SUMMARY:Rp (ć)
 LOCATION:218 65
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T174000Z
+DTEND:20260530T191500Z
+SUMMARY:Tpi (ć)
+LOCATION:308 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260531T060000Z
@@ -1747,6 +1943,34 @@ LOCATION:317 S
 DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260531T113000Z
+DTEND:20260531T130500Z
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260531T140000Z
+DTEND:20260531T153500Z
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260531T155000Z
+DTEND:20260531T172500Z
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260531T174000Z
+DTEND:20260531T191500Z
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260613T075000Z
 DTEND:20260613T092500Z
 SUMMARY:Ja (ć)
@@ -1768,6 +1992,20 @@ LOCATION:309 S
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260613T140000Z
+DTEND:20260613T153500Z
+SUMMARY:PTk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260613T155000Z
+DTEND:20260613T172500Z
+SUMMARY:PTk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260614T075000Z
 DTEND:20260614T092500Z
 SUMMARY:HP (ć)
@@ -1775,11 +2013,32 @@ LOCATION:317 S
 DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260614T094000Z
+DTEND:20260614T111500Z
+SUMMARY:Md2 (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Krzysztof Pszczoła
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260614T113000Z
 DTEND:20260614T130500Z
 SUMMARY:F1 (L)
 LOCATION:141 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260614T140000Z
+DTEND:20260614T153500Z
+SUMMARY:WdP (L)
+LOCATION:226 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260614T155000Z
+DTEND:20260614T172500Z
+SUMMARY:WdP (L)
+LOCATION:226 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260620T075000Z
@@ -1810,10 +2069,38 @@ LOCATION:219 65
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260621T060000Z
+DTEND:20260621T073500Z
+SUMMARY:ppk (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260621T075000Z
+DTEND:20260621T092500Z
+SUMMARY:ppk (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260621T094000Z
 DTEND:20260621T111500Z
 SUMMARY:Tpi (w)
 LOCATION:317 S
 DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260621T113000Z
+DTEND:20260621T130500Z
+SUMMARY:PTk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260621T140000Z
+DTEND:20260621T153500Z
+SUMMARY:PTk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr Maciej Lis
 END:VEVENT
 END:VCALENDAR

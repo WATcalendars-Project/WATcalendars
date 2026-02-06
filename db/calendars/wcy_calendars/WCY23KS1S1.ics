@@ -1355,10 +1355,10 @@ LOCATION:085 S
 DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260205T123000Z
-DTEND:20260205T140500Z
+DTSTART:20260206T085000Z
+DTEND:20260206T102500Z
 SUMMARY:PSy (Inne)
-LOCATION:316 S
+LOCATION:317 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
@@ -1516,6 +1516,20 @@ LOCATION:085 S
 DESCRIPTION:Narzędzia kryptoanalizy\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Michał Wroński
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260324T104000Z
+DTEND:20260324T121500Z
+SUMMARY:Pkuc (L)
+LOCATION:085 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/20\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T123000Z
+DTEND:20260324T140500Z
+SUMMARY:Pkuc (L)
+LOCATION:085 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/20\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T085000Z
 DTEND:20260325T102500Z
 SUMMARY:SA (w)
@@ -1556,6 +1570,20 @@ DTEND:20260331T092500Z
 SUMMARY:NK (w)
 LOCATION:085 S
 DESCRIPTION:Narzędzia kryptoanalizy\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Michał Wroński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T094000Z
+DTEND:20260331T111500Z
+SUMMARY:Pkuc (L)
+LOCATION:085 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/20\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T113000Z
+DTEND:20260331T130500Z
+SUMMARY:Pkuc (L)
+LOCATION:085 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/20\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T060000Z
@@ -1605,6 +1633,20 @@ DTEND:20260409T111500Z
 SUMMARY:Fbk (w)
 LOCATION:085 S
 DESCRIPTION:Funkcje boolowskie w kryptol.\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T060000Z
+DTEND:20260413T073500Z
+SUMMARY:Pkuc (L)
+LOCATION:085 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/20\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T075000Z
+DTEND:20260413T092500Z
+SUMMARY:Pkuc (L)
+LOCATION:085 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/20\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T075000Z
@@ -1684,6 +1726,20 @@ LOCATION:309 S
 DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260427T094000Z
+DTEND:20260427T111500Z
+SUMMARY:Pkuc (L)
+LOCATION:078 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/20\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T113000Z
+DTEND:20260427T130500Z
+SUMMARY:Pkuc (L)
+LOCATION:078 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/20\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260428T075000Z
 DTEND:20260428T092500Z
 SUMMARY:NK (w)
@@ -1696,6 +1752,20 @@ DTEND:20260430T092500Z
 SUMMARY:Fbk (w)
 LOCATION:078 S
 DESCRIPTION:Funkcje boolowskie w kryptol.\nRodzaj zajęć: Wykład\nNumer zajęć: 10/12\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T094000Z
+DTEND:20260504T111500Z
+SUMMARY:Pkuc (L)
+LOCATION:078 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/20\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T113000Z
+DTEND:20260504T130500Z
+SUMMARY:Pkuc (L)
+LOCATION:078 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/20\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T075000Z
@@ -1733,6 +1803,48 @@ LOCATION:309 S
 DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260518T094000Z
+DTEND:20260518T111500Z
+SUMMARY:Pkuc (L)
+LOCATION:078 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/20\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T113000Z
+DTEND:20260518T130500Z
+SUMMARY:Pkuc (L)
+LOCATION:078 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/20\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T094000Z
+DTEND:20260525T111500Z
+SUMMARY:Pkuc (L)
+LOCATION:078 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/20\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T113000Z
+DTEND:20260525T130500Z
+SUMMARY:Pkuc (L)
+LOCATION:078 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/20\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T155000Z
+DTEND:20260526T172500Z
+SUMMARY:NK (L)
+LOCATION:078 S
+DESCRIPTION:Narzędzia kryptoanalizy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Michał Wroński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T174000Z
+DTEND:20260526T191500Z
+SUMMARY:NK (L)
+LOCATION:078 S
+DESCRIPTION:Narzędzia kryptoanalizy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Michał Wroński
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260527T060000Z
 DTEND:20260527T073500Z
 SUMMARY:Sp (Inne)
@@ -1766,5 +1878,89 @@ DTEND:20260527T153500Z
 SUMMARY:Sp (Inne)
 LOCATION:317 S
 DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 10/10\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T094000Z
+DTEND:20260601T111500Z
+SUMMARY:Pkuc (L)
+LOCATION:078 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/20\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T113000Z
+DTEND:20260601T130500Z
+SUMMARY:Pkuc (L)
+LOCATION:078 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/20\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T155000Z
+DTEND:20260602T172500Z
+SUMMARY:NK (L)
+LOCATION:078 S
+DESCRIPTION:Narzędzia kryptoanalizy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Michał Wroński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T174000Z
+DTEND:20260602T191500Z
+SUMMARY:NK (L)
+LOCATION:078 S
+DESCRIPTION:Narzędzia kryptoanalizy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Michał Wroński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T094000Z
+DTEND:20260608T111500Z
+SUMMARY:Pkuc (L)
+LOCATION:078 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 17/20\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T113000Z
+DTEND:20260608T130500Z
+SUMMARY:Pkuc (L)
+LOCATION:078 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 18/20\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T155000Z
+DTEND:20260609T172500Z
+SUMMARY:NK (L)
+LOCATION:078 S
+DESCRIPTION:Narzędzia kryptoanalizy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Michał Wroński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T174000Z
+DTEND:20260609T191500Z
+SUMMARY:NK (L)
+LOCATION:078 S
+DESCRIPTION:Narzędzia kryptoanalizy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Michał Wroński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T094000Z
+DTEND:20260615T111500Z
+SUMMARY:Pkuc (L)
+LOCATION:078 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 19/20\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T113000Z
+DTEND:20260615T130500Z
+SUMMARY:Pkuc (L)
+LOCATION:078 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 20/20\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T155000Z
+DTEND:20260616T172500Z
+SUMMARY:NK (L)
+LOCATION:078 S
+DESCRIPTION:Narzędzia kryptoanalizy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Michał Wroński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T174000Z
+DTEND:20260616T191500Z
+SUMMARY:NK (L)
+LOCATION:078 S
+DESCRIPTION:Narzędzia kryptoanalizy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Michał Wroński
 END:VEVENT
 END:VCALENDAR
