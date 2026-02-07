@@ -739,6 +739,20 @@ LOCATION:106 65
 DESCRIPTION:Kompresja danych multimedialnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T140000Z
+DTEND:20260402T153500Z
+SUMMARY:SBD (L)
+LOCATION:224 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T155000Z
+DTEND:20260402T172500Z
+SUMMARY:SBD (L)
+LOCATION:224 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260408T060000Z
 DTEND:20260408T073500Z
 SUMMARY:Rou (w)
@@ -1108,6 +1122,20 @@ DTEND:20260423T130500Z
 SUMMARY:JEt (w)
 LOCATION:307 S
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T140000Z
+DTEND:20260423T153500Z
+SUMMARY:SBD (L)
+LOCATION:223 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T155000Z
+DTEND:20260423T172500Z
+SUMMARY:SBD (L)
+LOCATION:223 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T060000Z
@@ -1544,39 +1572,11 @@ LOCATION:20 69
 DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260515T094000Z
-DTEND:20260515T111500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 24/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T113000Z
-DTEND:20260515T130500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 25/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T140000Z
-DTEND:20260515T153500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 26/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T155000Z
-DTEND:20260515T172500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 27/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260515T174000Z
 DTEND:20260515T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 28/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 24/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T060000Z
@@ -1677,25 +1677,25 @@ LOCATION:125 65
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/20\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260521T140000Z
+DTEND:20260521T153500Z
+SUMMARY:SBD (L)
+LOCATION:223 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T155000Z
+DTEND:20260521T172500Z
+SUMMARY:SBD (L)
+LOCATION:223 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260522T060000Z
 DTEND:20260522T073500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260522T075000Z
-DTEND:20260522T092500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 29/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260522T094000Z
-DTEND:20260522T111500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 30/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T113000Z
@@ -1709,21 +1709,21 @@ DTSTART:20260522T140000Z
 DTEND:20260522T153500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 31/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 25/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T155000Z
 DTEND:20260522T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 32/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 26/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T174000Z
 DTEND:20260522T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 33/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 27/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T075000Z
@@ -1877,14 +1877,14 @@ DTSTART:20260529T155000Z
 DTEND:20260529T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 34/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 28/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T174000Z
 DTEND:20260529T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 35/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 29/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T075000Z
@@ -2020,6 +2020,20 @@ LOCATION:120 65
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260611T140000Z
+DTEND:20260611T153500Z
+SUMMARY:SBD (L)
+LOCATION:223 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T155000Z
+DTEND:20260611T172500Z
+SUMMARY:SBD (L)
+LOCATION:223 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260612T060000Z
 DTEND:20260612T073500Z
 SUMMARY:WF (ć)
@@ -2045,7 +2059,7 @@ DTSTART:20260612T113000Z
 DTEND:20260612T130500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 36/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 30/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T140000Z
@@ -2059,14 +2073,14 @@ DTSTART:20260612T155000Z
 DTEND:20260612T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 37/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 31/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T174000Z
 DTEND:20260612T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 38/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 32/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T075000Z
@@ -2143,7 +2157,7 @@ DTSTART:20260619T094000Z
 DTEND:20260619T111500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 39/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 33/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T113000Z
@@ -2164,13 +2178,13 @@ DTSTART:20260619T155000Z
 DTEND:20260619T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 40/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 34/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T174000Z
 DTEND:20260619T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 41/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 35/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

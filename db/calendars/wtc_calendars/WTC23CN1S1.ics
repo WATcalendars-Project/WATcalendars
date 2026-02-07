@@ -315,21 +315,21 @@ BEGIN:VEVENT
 DTSTART:20260302T123000Z
 DTEND:20260302T140500Z
 SUMMARY:Bchm (w)
-LOCATION:109 24
+LOCATION:110/ 14
 DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 5/17\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T123000Z
 DTEND:20260309T140500Z
 SUMMARY:Bchm (w)
-LOCATION:109 24
+LOCATION:110/ 14
 DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/17\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T123000Z
 DTEND:20260316T140500Z
 SUMMARY:Bchm (w)
-LOCATION:109 24
+LOCATION:110/ 14
 DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 7/17\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
@@ -399,7 +399,7 @@ BEGIN:VEVENT
 DTSTART:20260414T060000Z
 DTEND:20260414T073500Z
 SUMMARY:Bchm (w)
-LOCATION:109 24
+LOCATION:110/ 14
 DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 8/17\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
@@ -413,7 +413,7 @@ BEGIN:VEVENT
 DTSTART:20260428T060000Z
 DTEND:20260428T073500Z
 SUMMARY:Bchm (w)
-LOCATION:109 24
+LOCATION:110/ 14
 DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 9/17\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
@@ -588,7 +588,7 @@ BEGIN:VEVENT
 DTSTART:20260331T113000Z
 DTEND:20260331T130500Z
 SUMMARY:Bchm (w)
-LOCATION:109 24
+LOCATION:108 24
 DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 10/17\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
@@ -1015,14 +1015,14 @@ BEGIN:VEVENT
 DTSTART:20260305T104000Z
 DTEND:20260305T121500Z
 SUMMARY:Bchm (w)
-LOCATION:109 24
+LOCATION:108 24
 DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 11/17\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T104000Z
 DTEND:20260312T121500Z
 SUMMARY:Bchm (w)
-LOCATION:109 24
+LOCATION:110/ 14
 DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 12/17\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
@@ -1057,7 +1057,7 @@ BEGIN:VEVENT
 DTSTART:20260416T094000Z
 DTEND:20260416T111500Z
 SUMMARY:Bchm (w)
-LOCATION:109 24
+LOCATION:110/ 14
 DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 16/17\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
@@ -1162,7 +1162,7 @@ BEGIN:VEVENT
 DTSTART:20260416T113000Z
 DTEND:20260416T130500Z
 SUMMARY:Bchm (S)
-LOCATION:108 24
+LOCATION:110/ 14
 DESCRIPTION:Biochemia\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/5\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
@@ -1176,7 +1176,7 @@ BEGIN:VEVENT
 DTSTART:20260430T113000Z
 DTEND:20260430T130500Z
 SUMMARY:Bchm (w)
-LOCATION:109 24
+LOCATION:110/ 14
 DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 17/17\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
@@ -1236,25 +1236,18 @@ LOCATION:027 24
 DESCRIPTION:History of Chemistry\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/5\nProwadzący: dr inż. Szala Mateusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260515T060000Z
-DTEND:20260515T073500Z
-SUMMARY:Hofc (S)
-LOCATION:027 24
-DESCRIPTION:History of Chemistry\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/5\nProwadzący: dr inż. Szala Mateusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260522T060000Z
 DTEND:20260522T073500Z
 SUMMARY:Hofc (S)
 LOCATION:027 24
-DESCRIPTION:History of Chemistry\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/5\nProwadzący: dr inż. Szala Mateusz
+DESCRIPTION:History of Chemistry\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/5\nProwadzący: dr inż. Szala Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T060000Z
 DTEND:20260529T073500Z
 SUMMARY:Hofc (S)
 LOCATION:027 24
-DESCRIPTION:History of Chemistry\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/5\nProwadzący: dr inż. Szala Mateusz
+DESCRIPTION:History of Chemistry\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/5\nProwadzący: dr inż. Szala Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T060000Z
@@ -1332,6 +1325,13 @@ DTEND:20260612T111500Z
 SUMMARY:Rch (L)
 LOCATION:7 55A
 DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: kpt. mgr inż Kuligowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T113000Z
+DTEND:20260417T130500Z
+SUMMARY:Hofc (S)
+LOCATION:027 24
+DESCRIPTION:History of Chemistry\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/5\nProwadzący: dr inż. Szala Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T113000Z

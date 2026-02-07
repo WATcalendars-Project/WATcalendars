@@ -1593,13 +1593,6 @@ LOCATION:
 DESCRIPTION:Pomiary elektryczne i elektroniczne\nRodzaj zajęć: -\nProwadzący: mgr inż. Pustkowski Remigiusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260219T104000Z
-DTEND:20260219T121500Z
-SUMMARY:Poee 
-LOCATION:
-DESCRIPTION:Pomiary elektryczne i elektroniczne\nRodzaj zajęć: -\nProwadzący: mgr inż. Pustkowski Remigiusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261002T113000Z
 DTEND:20261002T130500Z
 SUMMARY:Beur 
@@ -1814,7 +1807,7 @@ DTSTART:20260220T070000Z
 DTEND:20260220T083500Z
 SUMMARY:Beur 
 LOCATION:10163A
-DESCRIPTION:Budowa i eksploatacja urządzeń radiolokacyjnych Wisła\nRodzaj zajęć: -
+DESCRIPTION:Budowa i eksploatacja urządzeń radiolokacyjnych Wisła\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Karpiński Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261003T075000Z
@@ -1976,5 +1969,12 @@ DTEND:20260206T121500Z
 SUMMARY:Wzee 
 LOCATION:
 DESCRIPTION:Wybrane zagadnienia  elektroniki i elektrotechniki\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Karpiński Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260213T104000Z
+DTEND:20260213T121500Z
+SUMMARY:Poee 
+LOCATION:
+DESCRIPTION:Pomiary elektryczne i elektroniczne\nRodzaj zajęć: -\nProwadzący: mgr inż. Pustkowski Remigiusz
 END:VEVENT
 END:VCALENDAR

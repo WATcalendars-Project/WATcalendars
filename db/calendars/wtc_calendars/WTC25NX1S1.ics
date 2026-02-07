@@ -98,7 +98,7 @@ BEGIN:VEVENT
 DTSTART:20260608T060000Z
 DTEND:20260608T073500Z
 SUMMARY:Che (w)
-LOCATION:109 24
+LOCATION:110/ 14
 DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr hab. inż. Urbańska Magdalena
 END:VEVENT
 BEGIN:VEVENT
@@ -149,13 +149,6 @@ DTEND:20260420T092500Z
 SUMMARY:F1 (w)
 LOCATION:aF S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/20\nProwadzący: mgr inż. Jankowski Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260427T075000Z
-DTEND:20260427T092500Z
-SUMMARY:Che (w)
-LOCATION:109 24
-DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr hab. inż. Urbańska Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T075000Z
@@ -211,7 +204,7 @@ DTSTART:20260309T104000Z
 DTEND:20260309T121500Z
 SUMMARY:MBIM (w)
 LOCATION:11/ 34
-DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: ppłk dr inż. Karczewski Krzysztof
+DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr inż. Dworecka-Wójcik Julita
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T104000Z
@@ -239,7 +232,7 @@ DTSTART:20260413T094000Z
 DTEND:20260413T111500Z
 SUMMARY:Che (w)
 LOCATION:110/ 14
-DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr hab. inż. Urbańska Magdalena
+DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr hab. inż. Urbańska Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T094000Z
@@ -307,9 +300,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T123000Z
 DTEND:20260302T140500Z
-SUMMARY:PTMI (w)
-LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 1/18\nProwadzący: dr inż. Antolak-Dudka Anna
+SUMMARY:MBIM (w)
+LOCATION:11/ 34
+DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: ppłk dr inż. Karczewski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T123000Z
@@ -323,14 +316,14 @@ DTSTART:20260316T123000Z
 DTEND:20260316T140500Z
 SUMMARY:MBIM (w)
 LOCATION:11/ 34
-DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr inż. Dworecka-Wójcik Julita
+DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: ppłk dr inż. Karczewski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T123000Z
 DTEND:20260323T140500Z
 SUMMARY:MBIM (w)
 LOCATION:11/ 34
-DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: płk dr hab. inż. Jóźwik Paweł
+DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: płk dr hab. inż. Jóźwik Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T113000Z
@@ -452,18 +445,11 @@ LOCATION:14/ 34
 DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/44\nProwadzący: ppłk dr inż. Karczewski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260310T070000Z
-DTEND:20260310T083500Z
-SUMMARY:Che (w)
-LOCATION:109 24
-DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr hab. inż. Urbańska Magdalena
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260317T070000Z
 DTEND:20260317T083500Z
 SUMMARY:Che (w)
-LOCATION:109 24
-DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab. inż. Urbańska Magdalena
+LOCATION:110/ 14
+DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr hab. inż. Urbańska Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T070000Z
@@ -599,11 +585,18 @@ LOCATION:166 S
 DESCRIPTION:Warsztaty inżynierii materiałów fotonicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr hab. inż. Piecek Wiktor
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260421T094000Z
-DTEND:20260421T111500Z
+DTSTART:20260331T094000Z
+DTEND:20260331T111500Z
 SUMMARY:Che (w)
-LOCATION:109 24
-DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr hab. inż. Urbańska Magdalena
+LOCATION:110/ 14
+DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr hab. inż. Urbańska Magdalena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T094000Z
+DTEND:20260414T111500Z
+SUMMARY:Che (w)
+LOCATION:110/ 14
+DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab. inż. Urbańska Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T094000Z
@@ -624,49 +617,49 @@ DTSTART:20260310T123000Z
 DTEND:20260310T140500Z
 SUMMARY:PTMI (w)
 LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 2/18\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 1/18\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T123000Z
 DTEND:20260317T140500Z
 SUMMARY:PTMI (w)
 LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 3/18\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 2/18\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T123000Z
 DTEND:20260324T140500Z
 SUMMARY:PTMI (w)
 LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 4/18\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 3/18\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T113000Z
 DTEND:20260331T130500Z
 SUMMARY:PTMI (w)
 LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 5/18\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 4/18\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T113000Z
 DTEND:20260414T130500Z
 SUMMARY:PTMI (w)
 LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 6/18\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 5/18\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T113000Z
 DTEND:20260421T130500Z
 SUMMARY:PTMI (w)
 LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 7/18\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 6/18\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T113000Z
 DTEND:20260428T130500Z
 SUMMARY:PTMI (w)
 LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 8/18\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 7/18\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T113000Z
@@ -701,7 +694,14 @@ DTSTART:20260325T070000Z
 DTEND:20260325T083500Z
 SUMMARY:Che (w)
 LOCATION:110/ 14
-DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab. inż. Urbańska Magdalena
+DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr hab. inż. Urbańska Magdalena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T060000Z
+DTEND:20260401T073500Z
+SUMMARY:MBIM (w)
+LOCATION:26/ 34
+DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: ppłk dr inż. Karczewski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T060000Z
@@ -739,18 +739,11 @@ LOCATION:13/ 34
 DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 18/44\nProwadzący: dr inż. Dworecka-Wójcik Julita
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260304T085000Z
-DTEND:20260304T102500Z
-SUMMARY:MBIM (w)
-LOCATION:11/ 34
-DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: ppłk dr inż. Karczewski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260311T085000Z
 DTEND:20260311T102500Z
-SUMMARY:MBIM (w)
-LOCATION:11/ 34
-DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: ppłk dr inż. Karczewski Krzysztof
+SUMMARY:Che (w)
+LOCATION:110/ 14
+DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr hab. inż. Urbańska Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T085000Z
@@ -855,70 +848,70 @@ DTSTART:20260304T104000Z
 DTEND:20260304T121500Z
 SUMMARY:PTMI (w)
 LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 9/18\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 8/18\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T104000Z
 DTEND:20260311T121500Z
 SUMMARY:PTMI (w)
 LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 10/18\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 9/18\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T104000Z
 DTEND:20260318T121500Z
 SUMMARY:PTMI (w)
 LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 11/18\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 10/18\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T104000Z
 DTEND:20260325T121500Z
 SUMMARY:PTMI (w)
 LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 12/18\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 11/18\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T094000Z
 DTEND:20260401T111500Z
 SUMMARY:PTMI (w)
 LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 13/18\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 12/18\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T094000Z
 DTEND:20260408T111500Z
 SUMMARY:PTMI (w)
 LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 14/18\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 13/18\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T094000Z
 DTEND:20260415T111500Z
 SUMMARY:PTMI (w)
 LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 15/18\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 14/18\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T094000Z
 DTEND:20260422T111500Z
 SUMMARY:PTMI (w)
 LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 16/18\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 15/18\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T094000Z
 DTEND:20260429T111500Z
 SUMMARY:PTMI (w)
 LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 17/18\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 16/18\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T094000Z
 DTEND:20260506T111500Z
 SUMMARY:PTMI (w)
 LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 18/18\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 17/18\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T094000Z
@@ -956,6 +949,13 @@ LOCATION:26/ 34
 DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr inż. Łyszkowski Radosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260304T123000Z
+DTEND:20260304T140500Z
+SUMMARY:PTMI (w)
+LOCATION:166 S
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 18/18\nProwadzący: dr inż. Antolak-Dudka Anna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260311T123000Z
 DTEND:20260311T140500Z
 SUMMARY:50% WIMF
@@ -970,13 +970,6 @@ LOCATION:2 5
 DESCRIPTION:Warsztaty inżynierii materiałów fotonicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr hab. inż. Marć Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260325T123000Z
-DTEND:20260325T140500Z
-SUMMARY:Che (L)
-LOCATION:127A/ 14
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260401T113000Z
 DTEND:20260401T130500Z
 SUMMARY:PTMI (ć)
@@ -988,7 +981,7 @@ DTSTART:20260408T113000Z
 DTEND:20260408T130500Z
 SUMMARY:Che (L)
 LOCATION:127A/ 14
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T113000Z
@@ -1000,9 +993,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T113000Z
 DTEND:20260422T130500Z
-SUMMARY:Che (L)
-LOCATION:127A/ 14
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
+SUMMARY:Che (ć)
+LOCATION:110/ 14
+DESCRIPTION:Chemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T113000Z
@@ -1016,7 +1009,7 @@ DTSTART:20260506T113000Z
 DTEND:20260506T130500Z
 SUMMARY:Che (L)
 LOCATION:127A/ 14
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T113000Z
@@ -1061,13 +1054,6 @@ LOCATION:166 S
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: prof. dr hab. Peradzyński Zbigniew
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260325T150000Z
-DTEND:20260325T163500Z
-SUMMARY:Che (L)
-LOCATION:127A/ 14
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260401T140000Z
 DTEND:20260401T153500Z
 SUMMARY:PTMI (ć)
@@ -1079,7 +1065,7 @@ DTSTART:20260408T140000Z
 DTEND:20260408T153500Z
 SUMMARY:Che (L)
 LOCATION:127A/ 14
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T140000Z
@@ -1087,13 +1073,6 @@ DTEND:20260415T153500Z
 SUMMARY:PTMI (ć)
 LOCATION:26/ 34
 DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Antolak-Dudka Anna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260422T140000Z
-DTEND:20260422T153500Z
-SUMMARY:Che (L)
-LOCATION:127A/ 14
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T140000Z
@@ -1107,7 +1086,7 @@ DTSTART:20260506T140000Z
 DTEND:20260506T153500Z
 SUMMARY:Che (L)
 LOCATION:127A/ 14
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T140000Z
@@ -1253,29 +1232,29 @@ BEGIN:VEVENT
 DTSTART:20260402T060000Z
 DTEND:20260402T073500Z
 SUMMARY:Che (w)
-LOCATION:109 24
+LOCATION:110/ 14
 DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. inż. Urbańska Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T060000Z
 DTEND:20260416T073500Z
 SUMMARY:Che (w)
-LOCATION:109 24
+LOCATION:110/ 14
 DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab. inż. Urbańska Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T060000Z
 DTEND:20260430T073500Z
-SUMMARY:Che (w)
-LOCATION:109 24
-DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr hab. inż. Urbańska Magdalena
+SUMMARY:Che (L)
+LOCATION:127A/ 14
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T075000Z
 DTEND:20260402T092500Z
 SUMMARY:Che (ć)
 LOCATION:109 24
-DESCRIPTION:Chemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Strzeżysz Olga
+DESCRIPTION:Chemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T075000Z
@@ -1289,7 +1268,7 @@ DTSTART:20260416T075000Z
 DTEND:20260416T092500Z
 SUMMARY:Che (ć)
 LOCATION:109 24
-DESCRIPTION:Chemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Strzeżysz Olga
+DESCRIPTION:Chemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T075000Z
@@ -1301,9 +1280,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T075000Z
 DTEND:20260430T092500Z
-SUMMARY:Che (ć)
-LOCATION:109 24
-DESCRIPTION:Chemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Strzeżysz Olga
+SUMMARY:Che (L)
+LOCATION:127A/ 14
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T075000Z
@@ -1327,11 +1306,25 @@ LOCATION:166 S
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: prof. dr hab. Peradzyński Zbigniew
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260312T104000Z
+DTEND:20260312T121500Z
+SUMMARY:Che (L)
+LOCATION:127A/ 14
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260319T104000Z
 DTEND:20260319T121500Z
 SUMMARY:Mat3 (ć)
 LOCATION:166 S
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: prof. dr hab. Peradzyński Zbigniew
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T104000Z
+DTEND:20260326T121500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: kpt. mgr Włoch Mariola
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T094000Z
@@ -1388,6 +1381,34 @@ DTEND:20260521T111500Z
 SUMMARY:MBIM (L)
 LOCATION:14/ 34
 DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 38/44\nProwadzący: dr inż. Dworecka-Wójcik Julita
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T094000Z
+DTEND:20260528T111500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: kpt. mgr Włoch Mariola
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T094000Z
+DTEND:20260611T111500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: kpt. mgr Włoch Mariola
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T094000Z
+DTEND:20260618T111500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: kpt. mgr Włoch Mariola
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T123000Z
+DTEND:20260312T140500Z
+SUMMARY:Che (L)
+LOCATION:127A/ 14
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T113000Z
@@ -1759,6 +1780,13 @@ DTEND:20260612T111500Z
 SUMMARY:F1 (L)
 LOCATION:141 S;139 S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: mgr inż. Jankowski Tomasz; prof.dr hab.inż. Jaroszewicz Leszek; mgr inż. Kosturek Rafał; dr inż. Korec-Kosturek Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T094000Z
+DTEND:20260619T111500Z
+SUMMARY:Che (w)
+LOCATION:110/ 14
+DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr hab. inż. Urbańska Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T123000Z
