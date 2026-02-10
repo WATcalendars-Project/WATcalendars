@@ -1313,6 +1313,20 @@ LOCATION:314 S
 DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/10\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260305T150000Z
+DTEND:20260305T163500Z
+SUMMARY:AM (L)
+LOCATION:223 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T165000Z
+DTEND:20260305T182500Z
+SUMMARY:AM (L)
+LOCATION:223 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260309T070000Z
 DTEND:20260309T083500Z
 SUMMARY:PWSI (w)
@@ -1332,6 +1346,27 @@ DTEND:20260310T140500Z
 SUMMARY:Jtp (w)
 LOCATION:317 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T150000Z
+DTEND:20260310T163500Z
+SUMMARY:PZ (P)
+LOCATION:223 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 1/22\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T165000Z
+DTEND:20260310T182500Z
+SUMMARY:PZ (P)
+LOCATION:223 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 2/22\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T184000Z
+DTEND:20260310T201500Z
+SUMMARY:PZ (P)
+LOCATION:223 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 3/22\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T070000Z
@@ -1390,6 +1425,20 @@ LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260316T104000Z
+DTEND:20260316T121500Z
+SUMMARY:TAI (L)
+LOCATION:228 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T123000Z
+DTEND:20260316T140500Z
+SUMMARY:TAI (L)
+LOCATION:228 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260318T070000Z
 DTEND:20260318T083500Z
 SUMMARY:Sn (w)
@@ -1425,6 +1474,20 @@ LOCATION:309 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260319T104000Z
+DTEND:20260319T121500Z
+SUMMARY:PWSI (L)
+LOCATION:236 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T123000Z
+DTEND:20260319T140500Z
+SUMMARY:PWSI (L)
+LOCATION:236 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260323T070000Z
 DTEND:20260323T083500Z
 SUMMARY:PWSI (w)
@@ -1437,6 +1500,41 @@ DTEND:20260323T102500Z
 SUMMARY:kck (w)
 LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T104000Z
+DTEND:20260323T121500Z
+SUMMARY:TAI (L)
+LOCATION:228 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T123000Z
+DTEND:20260323T140500Z
+SUMMARY:TAI (L)
+LOCATION:228 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T150000Z
+DTEND:20260324T163500Z
+SUMMARY:PZ (P)
+LOCATION:223 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 4/22\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T165000Z
+DTEND:20260324T182500Z
+SUMMARY:PZ (P)
+LOCATION:223 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 5/22\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T184000Z
+DTEND:20260324T201500Z
+SUMMARY:PZ (P)
+LOCATION:223 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 6/22\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T150000Z
@@ -1453,6 +1551,34 @@ LOCATION:307 S
 DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260326T070000Z
+DTEND:20260326T083500Z
+SUMMARY:Sn (L)
+LOCATION:233 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T085000Z
+DTEND:20260326T102500Z
+SUMMARY:Sn (L)
+LOCATION:233 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T104000Z
+DTEND:20260326T121500Z
+SUMMARY:PWSI (P)
+LOCATION:252 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/15\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T123000Z
+DTEND:20260326T140500Z
+SUMMARY:PWSI (P)
+LOCATION:252 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/15\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260330T060000Z
 DTEND:20260330T073500Z
 SUMMARY:PWSI (w)
@@ -1465,6 +1591,34 @@ DTEND:20260330T092500Z
 SUMMARY:kck (w)
 LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T094000Z
+DTEND:20260330T111500Z
+SUMMARY:TAI (L)
+LOCATION:228 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T113000Z
+DTEND:20260330T130500Z
+SUMMARY:TAI (L)
+LOCATION:228 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T060000Z
+DTEND:20260401T073500Z
+SUMMARY:PWSI (P)
+LOCATION:239 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/15\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T075000Z
+DTEND:20260401T092500Z
+SUMMARY:PWSI (P)
+LOCATION:239 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/15\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T094000Z
@@ -1481,6 +1635,20 @@ LOCATION:313 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T060000Z
+DTEND:20260402T073500Z
+SUMMARY:Sn (L)
+LOCATION:233 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T075000Z
+DTEND:20260402T092500Z
+SUMMARY:Sn (L)
+LOCATION:233 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260402T094000Z
 DTEND:20260402T111500Z
 SUMMARY:SQL (L)
@@ -1493,6 +1661,20 @@ DTEND:20260402T130500Z
 SUMMARY:SQL (L)
 LOCATION:224 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T094000Z
+DTEND:20260408T111500Z
+SUMMARY:PWSI (L)
+LOCATION:236 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T113000Z
+DTEND:20260408T130500Z
+SUMMARY:PWSI (L)
+LOCATION:236 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T140000Z
@@ -1509,11 +1691,81 @@ LOCATION:308 S
 DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260409T060000Z
+DTEND:20260409T073500Z
+SUMMARY:Sn (L)
+LOCATION:233 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T075000Z
+DTEND:20260409T092500Z
+SUMMARY:Sn (L)
+LOCATION:233 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T140000Z
+DTEND:20260409T153500Z
+SUMMARY:PZ (P)
+LOCATION:226 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 7/22\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T155000Z
+DTEND:20260409T172500Z
+SUMMARY:PZ (P)
+LOCATION:226 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 8/22\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T174000Z
+DTEND:20260409T191500Z
+SUMMARY:PZ (P)
+LOCATION:226 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 9/22\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260413T060000Z
 DTEND:20260413T073500Z
 SUMMARY:PWSI (w)
 LOCATION:203 65
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T075000Z
+DTEND:20260413T092500Z
+SUMMARY:Sn (L)
+LOCATION:227 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T094000Z
+DTEND:20260413T111500Z
+SUMMARY:Sn (L)
+LOCATION:227 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T113000Z
+DTEND:20260413T130500Z
+SUMMARY:Sn (L)
+LOCATION:227 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T060000Z
+DTEND:20260414T073500Z
+SUMMARY:PWSI (P)
+LOCATION:252 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5/15\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T075000Z
+DTEND:20260414T092500Z
+SUMMARY:PWSI (P)
+LOCATION:252 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 6/15\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T113000Z
@@ -1563,6 +1815,41 @@ DTEND:20260420T073500Z
 SUMMARY:PWSI (w)
 LOCATION:309 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T075000Z
+DTEND:20260420T092500Z
+SUMMARY:PWSI (P)
+LOCATION:233 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 7/15\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T094000Z
+DTEND:20260420T111500Z
+SUMMARY:PWSI (P)
+LOCATION:233 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 8/15\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T140000Z
+DTEND:20260421T153500Z
+SUMMARY:PZ (P)
+LOCATION:236 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 10/22\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T155000Z
+DTEND:20260421T172500Z
+SUMMARY:PZ (P)
+LOCATION:236 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 11/22\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T174000Z
+DTEND:20260421T191500Z
+SUMMARY:PZ (P)
+LOCATION:236 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 12/22\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T060000Z
@@ -1635,11 +1922,46 @@ LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260430T060000Z
+DTEND:20260430T073500Z
+SUMMARY:PWSI (P)
+LOCATION:227 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 9/15\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T075000Z
+DTEND:20260430T092500Z
+SUMMARY:PWSI (P)
+LOCATION:227 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 10/15\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260430T094000Z
 DTEND:20260430T111500Z
 SUMMARY:Jtp (w)
 LOCATION:313 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T140000Z
+DTEND:20260504T153500Z
+SUMMARY:PZ (P)
+LOCATION:226 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 13/22\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T155000Z
+DTEND:20260504T172500Z
+SUMMARY:PZ (P)
+LOCATION:226 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 14/22\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T174000Z
+DTEND:20260504T191500Z
+SUMMARY:PZ (P)
+LOCATION:226 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 15/22\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T094000Z
@@ -1670,6 +1992,20 @@ LOCATION:307 S
 DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260507T060000Z
+DTEND:20260507T073500Z
+SUMMARY:PWSI (L)
+LOCATION:227 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T075000Z
+DTEND:20260507T092500Z
+SUMMARY:PWSI (L)
+LOCATION:227 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260508T060000Z
 DTEND:20260508T073500Z
 SUMMARY:SQL (L)
@@ -1698,6 +2034,34 @@ LOCATION:307 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260514T060000Z
+DTEND:20260514T073500Z
+SUMMARY:PWSI (P)
+LOCATION:227 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 11/15\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T075000Z
+DTEND:20260514T092500Z
+SUMMARY:PWSI (P)
+LOCATION:227 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 12/15\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T140000Z
+DTEND:20260519T153500Z
+SUMMARY:AM (L)
+LOCATION:233 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T155000Z
+DTEND:20260519T172500Z
+SUMMARY:AM (L)
+LOCATION:233 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260520T140000Z
 DTEND:20260520T153500Z
 SUMMARY:AM (w)
@@ -1724,6 +2088,55 @@ DTEND:20260521T092500Z
 SUMMARY:SQL (L)
 LOCATION:226 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T094000Z
+DTEND:20260521T111500Z
+SUMMARY:PWSI (P)
+LOCATION:237 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 13/15\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T113000Z
+DTEND:20260521T130500Z
+SUMMARY:PWSI (P)
+LOCATION:237 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 14/15\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T140000Z
+DTEND:20260525T153500Z
+SUMMARY:PZ (P)
+LOCATION:227 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 16/22\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T155000Z
+DTEND:20260525T172500Z
+SUMMARY:PZ (P)
+LOCATION:227 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 17/22\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T174000Z
+DTEND:20260525T191500Z
+SUMMARY:PZ (P)
+LOCATION:227 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 18/22\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T060000Z
+DTEND:20260526T073500Z
+SUMMARY:PWSI (L)
+LOCATION:233 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T075000Z
+DTEND:20260526T092500Z
+SUMMARY:PWSI (L)
+LOCATION:233 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T060000Z
@@ -1761,6 +2174,20 @@ LOCATION:317 S
 DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 10/10\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260602T140000Z
+DTEND:20260602T153500Z
+SUMMARY:AM (L)
+LOCATION:233 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T155000Z
+DTEND:20260602T172500Z
+SUMMARY:AM (L)
+LOCATION:233 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260603T140000Z
 DTEND:20260603T153500Z
 SUMMARY:AM (w)
@@ -1775,6 +2202,55 @@ LOCATION:307 S
 DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260608T140000Z
+DTEND:20260608T153500Z
+SUMMARY:PZ (P)
+LOCATION:228 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 19/22\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T155000Z
+DTEND:20260608T172500Z
+SUMMARY:PZ (P)
+LOCATION:228 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 20/22\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T113000Z
+DTEND:20260610T130500Z
+SUMMARY:PWSI (P)
+LOCATION:226 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 15/15\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T140000Z
+DTEND:20260615T153500Z
+SUMMARY:PZ (P)
+LOCATION:228 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 21/22\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T155000Z
+DTEND:20260615T172500Z
+SUMMARY:PZ (P)
+LOCATION:228 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 22/22\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T140000Z
+DTEND:20260616T153500Z
+SUMMARY:AM (L)
+LOCATION:233 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T155000Z
+DTEND:20260616T172500Z
+SUMMARY:AM (L)
+LOCATION:233 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260618T060000Z
 DTEND:20260618T073500Z
 SUMMARY:SQL (w)
@@ -1787,5 +2263,19 @@ DTEND:20260618T092500Z
 SUMMARY:Sn (w)
 LOCATION:314 S
 DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T094000Z
+DTEND:20260618T111500Z
+SUMMARY:TAI (L)
+LOCATION:224 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T113000Z
+DTEND:20260618T130500Z
+SUMMARY:TAI (L)
+LOCATION:224 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 END:VCALENDAR

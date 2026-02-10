@@ -2974,9 +2974,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T155000Z
 DTEND:20260411T172500Z
-SUMMARY:Tik (w)
-LOCATION:201 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Leszek Grad
+SUMMARY:Tik (ć)
+LOCATION:120 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260412T060000Z
@@ -3032,14 +3032,14 @@ DTSTART:20260418T113000Z
 DTEND:20260418T130500Z
 SUMMARY:Tik (w)
 LOCATION:201 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T140000Z
 DTEND:20260418T153500Z
 SUMMARY:Tik (w)
 LOCATION:201 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T155000Z
@@ -3052,7 +3052,7 @@ BEGIN:VEVENT
 DTSTART:20260419T075000Z
 DTEND:20260419T092500Z
 SUMMARY:SI (w)
-LOCATION:308 S
+LOCATION:309 S
 DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
@@ -3061,6 +3061,13 @@ DTEND:20260419T111500Z
 SUMMARY:IK (ć)
 LOCATION:201 65
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260419T113000Z
+DTEND:20260419T130500Z
+SUMMARY:WdA (L)
+LOCATION:120 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260419T155000Z
@@ -3084,11 +3091,25 @@ LOCATION:235 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260425T155000Z
+DTEND:20260425T172500Z
+SUMMARY:Tik (L)
+LOCATION:106 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260426T094000Z
 DTEND:20260426T111500Z
 SUMMARY:MM (ć)
 LOCATION:308 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T113000Z
+DTEND:20260426T130500Z
+SUMMARY:WdA (L)
+LOCATION:106 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T060000Z
@@ -3105,11 +3126,46 @@ LOCATION:235 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260509T113000Z
+DTEND:20260509T130500Z
+SUMMARY:Tik (w)
+LOCATION:201 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260509T140000Z
+DTEND:20260509T153500Z
+SUMMARY:Tik (ć)
+LOCATION:120 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260509T155000Z
+DTEND:20260509T172500Z
+SUMMARY:Tik (L)
+LOCATION:106 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T113000Z
+DTEND:20260510T130500Z
+SUMMARY:WdA (L)
+LOCATION:120 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260516T075000Z
 DTEND:20260516T092500Z
 SUMMARY:Ja (ć)
 LOCATION:235 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T155000Z
+DTEND:20260516T172500Z
+SUMMARY:Tik (L)
+LOCATION:106 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260517T060000Z
@@ -3140,11 +3196,32 @@ LOCATION:308 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260523T155000Z
+DTEND:20260523T172500Z
+SUMMARY:Tik (L)
+LOCATION:106 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260524T113000Z
+DTEND:20260524T130500Z
+SUMMARY:WdA (L)
+LOCATION:120 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260530T075000Z
 DTEND:20260530T092500Z
 SUMMARY:PO (ć)
 LOCATION:309 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T155000Z
+DTEND:20260530T172500Z
+SUMMARY:Tik (L)
+LOCATION:106 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260613T075000Z
@@ -3159,6 +3236,13 @@ DTEND:20260613T111500Z
 SUMMARY:PO (ć)
 LOCATION:308 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260614T113000Z
+DTEND:20260614T130500Z
+SUMMARY:WdA (L)
+LOCATION:106 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260614T140000Z
@@ -3180,6 +3264,13 @@ DTEND:20260621T073500Z
 SUMMARY:PO (ć)
 LOCATION:308 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260621T075000Z
+DTEND:20260621T092500Z
+SUMMARY:Tik (L)
+LOCATION:120 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260621T155000Z

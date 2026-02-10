@@ -4484,6 +4484,13 @@ LOCATION:19 36
 DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260309T123000Z
+DTEND:20260309T140500Z
+SUMMARY:dsk (L)
+LOCATION:125 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T104000Z
 DTEND:20260310T121500Z
 SUMMARY:WF (ć)
@@ -4503,6 +4510,13 @@ DTEND:20260311T182500Z
 SUMMARY:Ja (ć)
 LOCATION:239 K 120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 65/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T085000Z
+DTEND:20260312T102500Z
+SUMMARY:Pwst (P)
+LOCATION:011 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/6\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T123000Z
@@ -4545,6 +4559,13 @@ DTEND:20260313T163500Z
 SUMMARY:Pwst (w)
 LOCATION:316 S
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T070000Z
+DTEND:20260316T083500Z
+SUMMARY:ESI (w)
+LOCATION:308 S
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T085000Z
@@ -4673,11 +4694,11 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 14/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260319T104000Z
-DTEND:20260319T121500Z
-SUMMARY:ESI (w)
-LOCATION:316 S
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Andrzej Stasiak
+DTSTART:20260319T085000Z
+DTEND:20260319T102500Z
+SUMMARY:ESI (L)
+LOCATION:120 65
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T085000Z
@@ -4736,6 +4757,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 66/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T070000Z
+DTEND:20260325T083500Z
+SUMMARY:dsk (L)
+LOCATION:106 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T085000Z
 DTEND:20260325T102500Z
 SUMMARY:Zt (w)
@@ -4771,6 +4799,13 @@ LOCATION:307 S
 DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260326T123000Z
+DTEND:20260326T140500Z
+SUMMARY:ESI (L)
+LOCATION:011 65
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260330T060000Z
 DTEND:20260330T073500Z
 SUMMARY:Ja (ć)
@@ -4803,14 +4838,14 @@ DTSTART:20260331T060000Z
 DTEND:20260331T073500Z
 SUMMARY:Pwst (P)
 LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/2\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/6\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T075000Z
 DTEND:20260331T092500Z
 SUMMARY:Pwst (P)
 LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/6\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T094000Z
@@ -4883,6 +4918,13 @@ LOCATION:09 65
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T094000Z
+DTEND:20260402T111500Z
+SUMMARY:ESI (L)
+LOCATION:011 65
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260402T140000Z
 DTEND:20260402T153500Z
 SUMMARY:Sa. (L)
@@ -4923,6 +4965,13 @@ DTEND:20260408T153500Z
 SUMMARY:Sss (w)
 LOCATION:203 65
 DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T060000Z
+DTEND:20260409T073500Z
+SUMMARY:ESI (L)
+LOCATION:125 65
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T094000Z
@@ -4972,6 +5021,13 @@ DTEND:20260413T092500Z
 SUMMARY:Syt (w)
 LOCATION:101 65
 DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T094000Z
+DTEND:20260413T111500Z
+SUMMARY:dsk (L)
+LOCATION:125 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T113000Z
@@ -5079,6 +5135,13 @@ LOCATION:313 S
 DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260416T140000Z
+DTEND:20260416T153500Z
+SUMMARY:ESI (L)
+LOCATION:121 65
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260417T075000Z
 DTEND:20260417T092500Z
 SUMMARY:TeIP (w)
@@ -5119,6 +5182,13 @@ DTEND:20260420T130500Z
 SUMMARY:Dn (ć)
 LOCATION:309 S
 DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T140000Z
+DTEND:20260420T153500Z
+SUMMARY:ESI (L)
+LOCATION:011 65
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T060000Z
@@ -5280,6 +5350,13 @@ DTEND:20260428T111500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 72/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T140000Z
+DTEND:20260428T153500Z
+SUMMARY:dsk (L)
+LOCATION:125 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T060000Z
@@ -5506,6 +5583,13 @@ LOCATION:09 65
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260507T140000Z
+DTEND:20260507T153500Z
+SUMMARY:ESI (L)
+LOCATION:011 65
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260508T075000Z
 DTEND:20260508T092500Z
 SUMMARY:Syt (w)
@@ -5653,6 +5737,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 76/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260514T113000Z
+DTEND:20260514T130500Z
+SUMMARY:Pwst (P)
+LOCATION:09 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/6\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260515T075000Z
 DTEND:20260515T092500Z
 SUMMARY:Syt (w)
@@ -5728,6 +5819,13 @@ DTEND:20260520T111500Z
 SUMMARY:Ja (ć)
 LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 83/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T113000Z
+DTEND:20260520T130500Z
+SUMMARY:dsk (L)
+LOCATION:106 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T140000Z
@@ -5856,6 +5954,13 @@ LOCATION:121 65
 DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260526T140000Z
+DTEND:20260526T153500Z
+SUMMARY:ESI (L)
+LOCATION:121 65
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260527T060000Z
 DTEND:20260527T073500Z
 SUMMARY:MPH (w)
@@ -5889,6 +5994,13 @@ DTEND:20260528T111500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 83/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T075000Z
+DTEND:20260529T092500Z
+SUMMARY:Pwst (P)
+LOCATION:09 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5/6\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T094000Z
@@ -5980,6 +6092,13 @@ DTEND:20260602T172500Z
 SUMMARY:Sss (L)
 LOCATION:011 65
 DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T140000Z
+DTEND:20260603T153500Z
+SUMMARY:dsk (L)
+LOCATION:011 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T060000Z
@@ -6141,6 +6260,13 @@ DTEND:20260616T111500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 88/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T075000Z
+DTEND:20260617T092500Z
+SUMMARY:Pwst (P)
+LOCATION:121 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 6/6\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T094000Z
