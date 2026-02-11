@@ -1680,14 +1680,14 @@ BEGIN:VEVENT
 DTSTART:20260211T104000Z
 DTEND:20260211T121500Z
 SUMMARY:WdI (Inne)
-LOCATION:226 S
+LOCATION:227 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260216T085000Z
-DTEND:20260216T102500Z
+DTSTART:20260213T085000Z
+DTEND:20260213T102500Z
 SUMMARY:Mat I (Inne)
-LOCATION:317 S
+LOCATION:313 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
@@ -1698,11 +1698,18 @@ LOCATION:313 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260219T085000Z
-DTEND:20260219T102500Z
+DTSTART:20260218T123000Z
+DTEND:20260218T140500Z
 SUMMARY:M II (Inne)
-LOCATION:308 S
+LOCATION:317 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T150000Z
+DTEND:20260219T163500Z
+SUMMARY:MD1 (Inne)
+LOCATION:203 65
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T085000Z
@@ -1716,7 +1723,7 @@ DTSTART:20260220T104000Z
 DTEND:20260220T121500Z
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T104000Z
@@ -2447,6 +2454,13 @@ LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260417T075000Z
+DTEND:20260417T092500Z
+SUMMARY:PTk (ć)
+LOCATION:101 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260417T094000Z
 DTEND:20260417T111500Z
 SUMMARY:Amt (ć)
@@ -2480,6 +2494,13 @@ DTEND:20260421T092500Z
 SUMMARY:HP (ć)
 LOCATION:313 S
 DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T094000Z
+DTEND:20260421T111500Z
+SUMMARY:PTk (ć)
+LOCATION:101 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T060000Z
@@ -2528,7 +2549,7 @@ DTSTART:20260423T094000Z
 DTEND:20260423T111500Z
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T113000Z
@@ -2678,6 +2699,13 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260505T113000Z
+DTEND:20260505T130500Z
+SUMMARY:PTk (ć)
+LOCATION:201 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T060000Z
 DTEND:20260506T073500Z
 SUMMARY:PTk (w)
@@ -2781,6 +2809,13 @@ DTEND:20260512T073500Z
 SUMMARY:Amt (w)
 LOCATION:314 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T075000Z
+DTEND:20260512T092500Z
+SUMMARY:PTk (ć)
+LOCATION:203 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T094000Z

@@ -1096,13 +1096,6 @@ LOCATION:106 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260422T075000Z
-DTEND:20260422T092500Z
-SUMMARY:sd (w)
-LOCATION:205 65
-DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260422T094000Z
 DTEND:20260422T111500Z
 SUMMARY:WF (ć)
@@ -1115,6 +1108,13 @@ DTEND:20260423T092500Z
 SUMMARY:kck (w)
 LOCATION:205 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T094000Z
+DTEND:20260423T111500Z
+SUMMARY:sd (w)
+LOCATION:205 65
+DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T113000Z

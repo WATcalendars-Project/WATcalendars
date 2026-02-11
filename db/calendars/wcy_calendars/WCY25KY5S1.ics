@@ -1677,10 +1677,10 @@ LOCATION:309 S 314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260216T085000Z
-DTEND:20260216T102500Z
+DTSTART:20260213T085000Z
+DTEND:20260213T102500Z
 SUMMARY:Mat I (Inne)
-LOCATION:317 S
+LOCATION:313 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
@@ -1698,11 +1698,18 @@ LOCATION:313 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260219T085000Z
-DTEND:20260219T102500Z
+DTSTART:20260218T123000Z
+DTEND:20260218T140500Z
 SUMMARY:M II (Inne)
-LOCATION:308 S
+LOCATION:317 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T150000Z
+DTEND:20260219T163500Z
+SUMMARY:MD1 (Inne)
+LOCATION:203 65
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T085000Z
@@ -1716,7 +1723,7 @@ DTSTART:20260220T104000Z
 DTEND:20260220T121500Z
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T104000Z
@@ -2181,6 +2188,13 @@ LOCATION:201 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260330T113000Z
+DTEND:20260330T130500Z
+SUMMARY:PTk (ć)
+LOCATION:205 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260331T113000Z
 DTEND:20260331T130500Z
 SUMMARY:PEM (w)
@@ -2549,7 +2563,7 @@ DTSTART:20260423T094000Z
 DTEND:20260423T111500Z
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T113000Z
@@ -2571,6 +2585,13 @@ DTEND:20260427T111500Z
 SUMMARY:F1 (ć)
 LOCATION:201 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T113000Z
+DTEND:20260427T130500Z
+SUMMARY:PTk (ć)
+LOCATION:204 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T060000Z
@@ -2797,6 +2818,13 @@ LOCATION:314 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 12/14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260511T113000Z
+DTEND:20260511T130500Z
+SUMMARY:PTk (ć)
+LOCATION:204 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260512T060000Z
 DTEND:20260512T073500Z
 SUMMARY:Amt (w)
@@ -2998,6 +3026,13 @@ DTEND:20260522T111500Z
 SUMMARY:PEM (ć)
 LOCATION:119 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T094000Z
+DTEND:20260525T111500Z
+SUMMARY:PTk (ć)
+LOCATION:101 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T060000Z

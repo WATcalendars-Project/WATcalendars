@@ -3591,7 +3591,7 @@ BEGIN:VEVENT
 DTSTART:20260212T123000Z
 DTEND:20260212T140500Z
 SUMMARY:BD (Inne)
-LOCATION:313 S 226 S
+LOCATION:313 S 228 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/4\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
@@ -4036,6 +4036,13 @@ LOCATION:313 S
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260319T085000Z
+DTEND:20260319T102500Z
+SUMMARY:WdA (L)
+LOCATION:121 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260319T104000Z
 DTEND:20260319T121500Z
 SUMMARY:MM (w)
@@ -4274,6 +4281,13 @@ LOCATION:313 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T113000Z
+DTEND:20260402T130500Z
+SUMMARY:WdA (L)
+LOCATION:09 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260408T060000Z
 DTEND:20260408T073500Z
 SUMMARY:Sck (w)
@@ -4321,6 +4335,13 @@ DTEND:20260409T111500Z
 SUMMARY:MM (w)
 LOCATION:313 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T140000Z
+DTEND:20260409T153500Z
+SUMMARY:WdA (L)
+LOCATION:125 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T075000Z
@@ -4673,6 +4694,20 @@ LOCATION:313 S
 DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260506T140000Z
+DTEND:20260506T153500Z
+SUMMARY:WdA (L)
+LOCATION:121 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T155000Z
+DTEND:20260506T172500Z
+SUMMARY:WdA (Inne)
+LOCATION:101 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260507T060000Z
 DTEND:20260507T073500Z
 SUMMARY:Pnak (L)
@@ -4720,6 +4755,13 @@ DTEND:20260511T172500Z
 SUMMARY:Sck (L)
 LOCATION:125 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T060000Z
+DTEND:20260512T073500Z
+SUMMARY:WdA (L)
+LOCATION:011 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T075000Z
@@ -4783,6 +4825,13 @@ DTEND:20260519T153500Z
 SUMMARY:JoM (ć)
 LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 41/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T060000Z
+DTEND:20260520T073500Z
+SUMMARY:WdA (L)
+LOCATION:106 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T060000Z
@@ -4869,6 +4918,13 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 42/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260528T060000Z
+DTEND:20260528T073500Z
+SUMMARY:WdA (L)
+LOCATION:09 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260602T075000Z
 DTEND:20260602T092500Z
 SUMMARY:Tik (ć)
@@ -4944,6 +5000,13 @@ DTEND:20260611T130500Z
 SUMMARY:IK (L)
 LOCATION:121 65
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T140000Z
+DTEND:20260611T153500Z
+SUMMARY:WdA (L)
+LOCATION:121 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T094000Z

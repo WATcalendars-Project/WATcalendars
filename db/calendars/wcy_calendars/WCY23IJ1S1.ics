@@ -1219,7 +1219,7 @@ DTSTART:20260204T123000Z
 DTEND:20260204T140500Z
 SUMMARY:Nsk (Inne)
 LOCATION:314 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T085000Z
@@ -1248,6 +1248,13 @@ DTEND:20260218T102500Z
 SUMMARY:Gk (Inne)
 LOCATION:307 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T123000Z
+DTEND:20260218T140500Z
+SUMMARY:Nsk (Inne)
+LOCATION:313 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T165000Z
@@ -1537,6 +1544,13 @@ LOCATION:223 S
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 6/22\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T123000Z
+DTEND:20260325T140500Z
+SUMMARY:kck (L)
+LOCATION:106 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T150000Z
 DTEND:20260325T163500Z
 SUMMARY:AM (w)
@@ -1605,6 +1619,13 @@ DTEND:20260330T130500Z
 SUMMARY:TAI (L)
 LOCATION:228 S
 DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T140000Z
+DTEND:20260330T153500Z
+SUMMARY:kck (L)
+LOCATION:121 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T060000Z
@@ -1726,6 +1747,13 @@ LOCATION:226 S
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 9/22\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260410T075000Z
+DTEND:20260410T092500Z
+SUMMARY:kck (L)
+LOCATION:125 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260413T060000Z
 DTEND:20260413T073500Z
 SUMMARY:PWSI (w)
@@ -1752,6 +1780,13 @@ DTEND:20260413T130500Z
 SUMMARY:Sn (L)
 LOCATION:227 S
 DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T140000Z
+DTEND:20260413T153500Z
+SUMMARY:kck (L)
+LOCATION:011 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T060000Z
@@ -1922,6 +1957,13 @@ LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260429T094000Z
+DTEND:20260429T111500Z
+SUMMARY:kck (L)
+LOCATION:011 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260430T060000Z
 DTEND:20260430T073500Z
 SUMMARY:PWSI (P)
@@ -2020,6 +2062,13 @@ LOCATION:224 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260508T094000Z
+DTEND:20260508T111500Z
+SUMMARY:kck (L)
+LOCATION:09 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260512T140000Z
 DTEND:20260512T153500Z
 SUMMARY:Jtp (L)
@@ -2104,6 +2153,13 @@ LOCATION:237 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 14/15\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260521T140000Z
+DTEND:20260521T153500Z
+SUMMARY:kck (L)
+LOCATION:011 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260525T140000Z
 DTEND:20260525T153500Z
 SUMMARY:PZ (P)
@@ -2186,6 +2242,13 @@ DTEND:20260602T172500Z
 SUMMARY:AM (L)
 LOCATION:233 S
 DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T113000Z
+DTEND:20260603T130500Z
+SUMMARY:kck (L)
+LOCATION:106 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T140000Z

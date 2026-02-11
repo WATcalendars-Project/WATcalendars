@@ -1677,10 +1677,10 @@ LOCATION:309 S 314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260216T085000Z
-DTEND:20260216T102500Z
+DTSTART:20260213T085000Z
+DTEND:20260213T102500Z
 SUMMARY:Mat I (Inne)
-LOCATION:317 S
+LOCATION:313 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
@@ -1698,11 +1698,18 @@ LOCATION:313 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260219T085000Z
-DTEND:20260219T102500Z
+DTSTART:20260218T123000Z
+DTEND:20260218T140500Z
 SUMMARY:M II (Inne)
-LOCATION:308 S
+LOCATION:317 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T150000Z
+DTEND:20260219T163500Z
+SUMMARY:MD1 (Inne)
+LOCATION:203 65
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T085000Z
@@ -1716,7 +1723,7 @@ DTSTART:20260220T104000Z
 DTEND:20260220T121500Z
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T104000Z
@@ -2458,7 +2465,7 @@ DTSTART:20260423T094000Z
 DTEND:20260423T111500Z
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T113000Z
