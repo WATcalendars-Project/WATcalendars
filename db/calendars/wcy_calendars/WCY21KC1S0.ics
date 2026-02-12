@@ -4288,11 +4288,18 @@ LOCATION:121 65
 DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/1\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260217T123000Z
+DTEND:20260217T140500Z
+SUMMARY:Dtu (Inne)
+LOCATION:125 65
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260218T123000Z
 DTEND:20260218T140500Z
 SUMMARY:Dtu (Inne)
 LOCATION:316 S
-DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T150000Z
@@ -4531,6 +4538,13 @@ DTEND:20260318T182500Z
 SUMMARY:WIT (L)
 LOCATION:125 65
 DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T123000Z
+DTEND:20260320T140500Z
+SUMMARY:Dtu (Inne)
+LOCATION:125 65
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T150000Z

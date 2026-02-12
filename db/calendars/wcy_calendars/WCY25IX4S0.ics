@@ -2860,6 +2860,13 @@ LOCATION:314 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260318T085000Z
+DTEND:20260318T102500Z
+SUMMARY:Rp (ć)
+LOCATION:085 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: mgr inż. Krzysztof Mańk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260318T123000Z
 DTEND:20260318T140500Z
 SUMMARY:Amt (w)
@@ -2886,6 +2893,13 @@ DTEND:20260319T121500Z
 SUMMARY:ZaMe (w)
 LOCATION:103 K
 DESCRIPTION:Zabezpieczenie medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T123000Z
+DTEND:20260319T140500Z
+SUMMARY:Md2 (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T150000Z
@@ -3000,6 +3014,13 @@ LOCATION:239 S
 DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T104000Z
+DTEND:20260325T121500Z
+SUMMARY:Rp (L)
+LOCATION:085 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: mgr inż. Krzysztof Mańk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T123000Z
 DTEND:20260325T140500Z
 SUMMARY:PTk (w)
@@ -3054,6 +3075,13 @@ DTEND:20260330T092500Z
 SUMMARY:WdP (L)
 LOCATION:227 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T094000Z
+DTEND:20260330T111500Z
+SUMMARY:Rp (ć)
+LOCATION:085 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T113000Z
@@ -3161,6 +3189,13 @@ LOCATION:AW 3/043
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T113000Z
+DTEND:20260402T130500Z
+SUMMARY:Md2 (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260402T174000Z
 DTEND:20260402T191500Z
 SUMMARY:- (S.Sz.W.)
@@ -3189,6 +3224,13 @@ LOCATION:204 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260408T113000Z
+DTEND:20260408T130500Z
+SUMMARY:Rp (L)
+LOCATION:085 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: mgr inż. Krzysztof Mańk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260408T140000Z
 DTEND:20260408T153500Z
 SUMMARY:Rp (w)
@@ -3215,6 +3257,13 @@ DTEND:20260409T111500Z
 SUMMARY:ZINŻ (ć)
 LOCATION:PĆT3
 DESCRIPTION:Zabezpieczenie inżynieryjne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T113000Z
+DTEND:20260409T130500Z
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T174000Z
@@ -3362,6 +3411,13 @@ DTEND:20260416T111500Z
 SUMMARY:DSiSM (ć)
 LOCATION:BIBL /22
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T113000Z
+DTEND:20260416T130500Z
+SUMMARY:Md2 (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T174000Z
@@ -3721,6 +3777,20 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260505T140000Z
+DTEND:20260505T153500Z
+SUMMARY:Md2 (ć)
+LOCATION:201 65
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T060000Z
+DTEND:20260506T073500Z
+SUMMARY:Rp (L)
+LOCATION:078 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: mgr inż. Krzysztof Mańk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T075000Z
 DTEND:20260506T092500Z
 SUMMARY:WF (ć)
@@ -4029,6 +4099,13 @@ LOCATION:aula/ 135
 DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260519T113000Z
+DTEND:20260519T130500Z
+SUMMARY:Md2 (ć)
+LOCATION:203 65
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260519T140000Z
 DTEND:20260519T153500Z
 SUMMARY:Ja (ć)
@@ -4295,6 +4372,13 @@ LOCATION:205 65
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260601T094000Z
+DTEND:20260601T111500Z
+SUMMARY:Rp (L)
+LOCATION:085 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: mgr inż. Krzysztof Mańk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260602T060000Z
 DTEND:20260602T073500Z
 SUMMARY:RiAIP (w)
@@ -4314,6 +4398,13 @@ DTEND:20260602T111500Z
 SUMMARY:F1 (w)
 LOCATION:19 36
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 16/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T113000Z
+DTEND:20260602T130500Z
+SUMMARY:Md2 (ć)
+LOCATION:313 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T113000Z
@@ -4428,6 +4519,13 @@ LOCATION:AW 3/038
 DESCRIPTION:Zabezpieczenie inżynieryjne - (repetytorium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260615T075000Z
+DTEND:20260615T092500Z
+SUMMARY:Rp (L)
+LOCATION:085 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: mgr inż. Krzysztof Mańk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260615T094000Z
 DTEND:20260615T111500Z
 SUMMARY:WF (ć)
@@ -4461,6 +4559,13 @@ DTEND:20260616T111500Z
 SUMMARY:F1 (w)
 LOCATION:19 36
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 19/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T113000Z
+DTEND:20260616T130500Z
+SUMMARY:Md2 (ć)
+LOCATION:313 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T075000Z
