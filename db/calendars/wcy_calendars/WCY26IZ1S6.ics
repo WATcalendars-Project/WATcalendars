@@ -25,13 +25,6 @@ LOCATION:101 65
 DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260216T123000Z
-DTEND:20260216T140500Z
-SUMMARY:Rou (w)
-LOCATION:101 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260217T085000Z
 DTEND:20260217T102500Z
 SUMMARY:zsw (w)
@@ -46,22 +39,29 @@ LOCATION:101 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260218T070000Z
-DTEND:20260218T083500Z
+DTSTART:20260217T150000Z
+DTEND:20260217T163500Z
+SUMMARY:Rou (w)
+LOCATION:101 65
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T165000Z
+DTEND:20260217T182500Z
 SUMMARY:Rou (w)
 LOCATION:101 65
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260218T085000Z
-DTEND:20260218T102500Z
+DTSTART:20260218T165000Z
+DTEND:20260218T182500Z
 SUMMARY:Rou (L)
 LOCATION:120 65
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260218T104000Z
-DTEND:20260218T121500Z
+DTSTART:20260218T184000Z
+DTEND:20260218T201500Z
 SUMMARY:Rou (L)
 LOCATION:120 65
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: mgr inż. Łukasz Skibniewski
@@ -118,13 +118,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260223T104000Z
 DTEND:20260223T121500Z
-SUMMARY:Rou (w)
-LOCATION:101 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260223T123000Z
-DTEND:20260223T140500Z
 SUMMARY:zsl (w)
 LOCATION:-
 DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Sławomir Machowski
@@ -151,20 +144,6 @@ LOCATION:120 65
 DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260225T070000Z
-DTEND:20260225T083500Z
-SUMMARY:Rou (L)
-LOCATION:120 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260225T085000Z
-DTEND:20260225T102500Z
-SUMMARY:Rou (L)
-LOCATION:120 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260225T104000Z
 DTEND:20260225T121500Z
 SUMMARY:zsw (L)
@@ -179,6 +158,20 @@ LOCATION:106 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260225T150000Z
+DTEND:20260225T163500Z
+SUMMARY:Rou (L)
+LOCATION:120 65
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260225T165000Z
+DTEND:20260225T182500Z
+SUMMARY:Rou (L)
+LOCATION:120 65
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260226T104000Z
 DTEND:20260226T121500Z
 SUMMARY:zsl (L)
@@ -191,6 +184,13 @@ DTEND:20260226T140500Z
 SUMMARY:zsl (L)
 LOCATION:120 65
 DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260226T150000Z
+DTEND:20260226T163500Z
+SUMMARY:Rou (w)
+LOCATION:101 65
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T085000Z

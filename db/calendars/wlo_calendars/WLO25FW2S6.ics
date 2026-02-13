@@ -578,6 +578,13 @@ LOCATION:3.16/135
 DESCRIPTION:Transport i ruch wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260217T150000Z
+DTEND:20260217T163500Z
+SUMMARY:PKSt (w)
+LOCATION:5W
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Skulska Joanna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260224T150000Z
 DTEND:20260224T163500Z
 SUMMARY:SIwL (ć)
@@ -673,7 +680,7 @@ DTSTART:20260225T070000Z
 DTEND:20260225T083500Z
 SUMMARY:PKSt (w)
 LOCATION:7W
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Skulska Joanna
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T085000Z
@@ -1359,7 +1366,7 @@ DTSTART:20261219T104000Z
 DTEND:20261219T121500Z
 SUMMARY:PKSt (w)
 LOCATION:2W
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Skulska Joanna
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T104000Z
@@ -1500,12 +1507,5 @@ DTEND:20260214T140500Z
 SUMMARY:SzS (ć)
 LOCATION:3PL/KO6 ST; 1 T
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: kpt. mgr Dwojewski Damian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260214T150000Z
-DTEND:20260214T163500Z
-SUMMARY:PKSt (w)
-LOCATION:5W
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Skulska Joanna
 END:VEVENT
 END:VCALENDAR
