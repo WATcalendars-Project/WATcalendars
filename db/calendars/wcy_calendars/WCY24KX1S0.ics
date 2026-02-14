@@ -4953,13 +4953,6 @@ LOCATION:313 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260319T104000Z
-DTEND:20260319T121500Z
-SUMMARY:Zkst (L)
-LOCATION:078 S
-DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: mgr inż. Kamila Dzieł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260319T123000Z
 DTEND:20260319T140500Z
 SUMMARY:MM (w)
@@ -5063,6 +5056,13 @@ DTEND:20260324T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 65/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T150000Z
+DTEND:20260324T163500Z
+SUMMARY:Zkst (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: mgr inż. Kamila Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T184000Z

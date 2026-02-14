@@ -1124,11 +1124,11 @@ LOCATION:307 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Krzysztof Pszczoła
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260307T070000Z
-DTEND:20260307T083500Z
-SUMMARY:HP (w)
-LOCATION:317 S
-DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: -
+DTSTART:20260221T165000Z
+DTEND:20260221T182500Z
+SUMMARY:Wpp (Inne)
+LOCATION:228 S
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260307T085000Z
@@ -1185,6 +1185,20 @@ DTEND:20260308T140500Z
 SUMMARY:PTk (w)
 LOCATION:317 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260308T150000Z
+DTEND:20260308T163500Z
+SUMMARY:HP (w)
+LOCATION:317 S
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260308T165000Z
+DTEND:20260308T182500Z
+SUMMARY:HP (w)
+LOCATION:317 S
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260314T070000Z
@@ -1257,11 +1271,18 @@ LOCATION:317 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260321T070000Z
-DTEND:20260321T083500Z
+DTSTART:20260315T150000Z
+DTEND:20260315T163500Z
 SUMMARY:HP (w)
 LOCATION:317 S
-DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: -
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260315T165000Z
+DTEND:20260315T182500Z
+SUMMARY:HP (w)
+LOCATION:317 S
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260321T085000Z
@@ -1402,13 +1423,6 @@ DTEND:20260329T172500Z
 SUMMARY:Amt (ć)
 LOCATION:204 65
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260411T060000Z
-DTEND:20260411T073500Z
-SUMMARY:HP (w)
-LOCATION:317 S
-DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T075000Z
@@ -1688,7 +1702,7 @@ DTSTART:20260510T060000Z
 DTEND:20260510T073500Z
 SUMMARY:HP (w)
 LOCATION:317 S
-DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: -
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260510T075000Z
@@ -1765,7 +1779,7 @@ DTSTART:20260517T060000Z
 DTEND:20260517T073500Z
 SUMMARY:HP (w)
 LOCATION:317 S
-DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: -
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260517T075000Z
@@ -1885,13 +1899,6 @@ DTEND:20260524T153500Z
 SUMMARY:PTk (L)
 LOCATION:011 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr Maciej Lis
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260530T060000Z
-DTEND:20260530T073500Z
-SUMMARY:HP (w)
-LOCATION:317 S
-DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260530T075000Z

@@ -4967,6 +4967,13 @@ LOCATION:313 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260319T104000Z
+DTEND:20260319T121500Z
+SUMMARY:Zkst (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: mgr inż. Kamila Dzieł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260319T123000Z
 DTEND:20260319T140500Z
 SUMMARY:MM (w)
@@ -5230,7 +5237,7 @@ DTSTART:20260401T060000Z
 DTEND:20260401T073500Z
 SUMMARY:Zkst (L)
 LOCATION:085 S
-DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: mgr inż. Kamila Dzieł
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: mgr inż. Kamila Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T094000Z
@@ -5419,7 +5426,7 @@ DTSTART:20260415T075000Z
 DTEND:20260415T092500Z
 SUMMARY:Zkst (L)
 LOCATION:085 S
-DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: mgr inż. Kamila Dzieł
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: mgr inż. Kamila Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T094000Z
@@ -5560,13 +5567,6 @@ DTEND:20260421T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 51/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260422T075000Z
-DTEND:20260422T092500Z
-SUMMARY:Zkst (L)
-LOCATION:078 S
-DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: mgr inż. Kamila Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T113000Z
@@ -5821,18 +5821,18 @@ LOCATION:313 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260507T094000Z
-DTEND:20260507T111500Z
-SUMMARY:Zkst (L)
-LOCATION:078 S
-DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: mgr inż. Kamila Dzieł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260507T113000Z
 DTEND:20260507T130500Z
 SUMMARY:Etl (w)
 LOCATION:314 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T155000Z
+DTEND:20260507T172500Z
+SUMMARY:Zkst (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: mgr inż. Kamila Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T060000Z
@@ -5877,6 +5877,13 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 80/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260511T140000Z
+DTEND:20260511T153500Z
+SUMMARY:Zkst (L)
+LOCATION:085 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Kamila Dzieł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260512T060000Z
 DTEND:20260512T073500Z
 SUMMARY:Hsw (ć)
@@ -5903,13 +5910,6 @@ DTEND:20260512T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 56/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260513T060000Z
-DTEND:20260513T073500Z
-SUMMARY:Zkst (L)
-LOCATION:078 S
-DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Kamila Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T094000Z
@@ -6115,10 +6115,10 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 58/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260527T075000Z
-DTEND:20260527T092500Z
+DTSTART:20260527T060000Z
+DTEND:20260527T073500Z
 SUMMARY:Zkst (L)
-LOCATION:085 S
+LOCATION:078 S
 DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: mgr inż. Kamila Dzieł
 END:VEVENT
 BEGIN:VEVENT
@@ -6402,13 +6402,6 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 89/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260615T094000Z
-DTEND:20260615T111500Z
-SUMMARY:Zkst (L)
-LOCATION:085 S
-DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: mgr inż. Kamila Dzieł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260616T060000Z
 DTEND:20260616T073500Z
 SUMMARY:- (S.Sz.W.)
@@ -6484,6 +6477,13 @@ DTEND:20260618T130500Z
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 11/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T140000Z
+DTEND:20260618T153500Z
+SUMMARY:Zkst (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: mgr inż. Kamila Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T060000Z

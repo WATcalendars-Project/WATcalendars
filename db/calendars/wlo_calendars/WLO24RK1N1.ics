@@ -20,8 +20,22 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260228T104000Z
 DTEND:20260228T121500Z
-SUMMARY:NwSK (w)
+SUMMARY:Kraj.Sys.Obr.p.BMR (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Krajowy System Obrony Przed B.M.R.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr inż. Kleszcz Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T123000Z
+DTEND:20260228T140500Z
+SUMMARY:Bku (w)
 LOCATION:0.19/135
-DESCRIPTION:Negocjacje w sytuacjach kryzysowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr Krysowaty Aneta
+DESCRIPTION:Bezpieczeństwo kulturowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: Prof. dr hab. Cieślarczyk Marian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T150000Z
+DTEND:20260228T163500Z
+SUMMARY:Bku (w)
+LOCATION:0.19/135
+DESCRIPTION:Bezpieczeństwo kulturowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 END:VCALENDAR

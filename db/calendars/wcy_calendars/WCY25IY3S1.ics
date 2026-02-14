@@ -2041,13 +2041,6 @@ LOCATION:301/ S
 DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260324T184000Z
-DTEND:20260324T201500Z
-SUMMARY:Tpi (L)
-LOCATION:252 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr inż. Piotr Marciniak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260325T070000Z
 DTEND:20260325T083500Z
 SUMMARY:HP (w)
@@ -2095,6 +2088,13 @@ DTEND:20260326T102500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T104000Z
+DTEND:20260326T121500Z
+SUMMARY:Tpi (L)
+LOCATION:252 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T123000Z
