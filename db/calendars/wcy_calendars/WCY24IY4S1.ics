@@ -3640,14 +3640,14 @@ BEGIN:VEVENT
 DTSTART:20260217T150000Z
 DTEND:20260217T163500Z
 SUMMARY:Aok (Inne)
-LOCATION:125 65
+LOCATION:120 65
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T165000Z
 DTEND:20260217T182500Z
 SUMMARY:Aok (Inne)
-LOCATION:125 65
+LOCATION:120 65
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
@@ -3791,6 +3791,13 @@ LOCATION:314 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260305T104000Z
+DTEND:20260305T121500Z
+SUMMARY:Pw (L)
+LOCATION:223 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T123000Z
 DTEND:20260305T140500Z
 SUMMARY:F2 (Inne)
@@ -3931,6 +3938,13 @@ LOCATION:314 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260312T104000Z
+DTEND:20260312T121500Z
+SUMMARY:Pw (L)
+LOCATION:224 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260313T070000Z
 DTEND:20260313T083500Z
 SUMMARY:PO (w)
@@ -3964,6 +3978,13 @@ DTEND:20260316T102500Z
 SUMMARY:Tik (w)
 LOCATION:317 S
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T104000Z
+DTEND:20260316T121500Z
+SUMMARY:Pw (L)
+LOCATION:224 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T123000Z
@@ -4085,6 +4106,13 @@ LOCATION:121 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260324T104000Z
+DTEND:20260324T121500Z
+SUMMARY:Pw (L)
+LOCATION:224 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260324T123000Z
 DTEND:20260324T140500Z
 SUMMARY:Ja (ć)
@@ -4111,6 +4139,13 @@ DTEND:20260325T102500Z
 SUMMARY:Sck (w)
 LOCATION:317 S
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/14\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T104000Z
+DTEND:20260325T121500Z
+SUMMARY:Pw (P)
+LOCATION:227 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 1/5\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T070000Z
@@ -4174,6 +4209,13 @@ DTEND:20260330T130500Z
 SUMMARY:Wkr (w)
 LOCATION:316 S
 DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T060000Z
+DTEND:20260331T073500Z
+SUMMARY:Pw (L)
+LOCATION:223 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T075000Z
@@ -4330,6 +4372,13 @@ LOCATION:078 S
 DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260410T094000Z
+DTEND:20260410T111500Z
+SUMMARY:Pw (P)
+LOCATION:224 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 2/5\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260413T060000Z
 DTEND:20260413T073500Z
 SUMMARY:IK (w)
@@ -4384,6 +4433,13 @@ DTEND:20260415T073500Z
 SUMMARY:Pw (w)
 LOCATION:313 S
 DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T075000Z
+DTEND:20260415T092500Z
+SUMMARY:Pw (L)
+LOCATION:224 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T094000Z
@@ -4540,6 +4596,13 @@ LOCATION:314 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260423T094000Z
+DTEND:20260423T111500Z
+SUMMARY:Pw (L)
+LOCATION:227 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260423T113000Z
 DTEND:20260423T130500Z
 SUMMARY:IO (L)
@@ -4624,6 +4687,13 @@ LOCATION:120 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260430T060000Z
+DTEND:20260430T073500Z
+SUMMARY:Pw (P)
+LOCATION:226 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 3/5\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260430T075000Z
 DTEND:20260430T092500Z
 SUMMARY:Pnak (L)
@@ -4706,6 +4776,13 @@ DTEND:20260505T153500Z
 SUMMARY:JoM (ć)
 LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 39/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T075000Z
+DTEND:20260506T092500Z
+SUMMARY:Pw (L)
+LOCATION:239 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T094000Z
@@ -4806,6 +4883,13 @@ LOCATION:125 65
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260514T060000Z
+DTEND:20260514T073500Z
+SUMMARY:Pw (P)
+LOCATION:224 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 4/5\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260514T075000Z
 DTEND:20260514T092500Z
 SUMMARY:Tik (ć)
@@ -4888,6 +4972,13 @@ DTEND:20260520T111500Z
 SUMMARY:PO (ć)
 LOCATION:317 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T113000Z
+DTEND:20260520T130500Z
+SUMMARY:Pw (L)
+LOCATION:239 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T140000Z
@@ -5072,6 +5163,13 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 44/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260610T094000Z
+DTEND:20260610T111500Z
+SUMMARY:Pw (P)
+LOCATION:236 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 5/5\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260610T113000Z
 DTEND:20260610T130500Z
 SUMMARY:SI (w)
@@ -5084,6 +5182,13 @@ DTEND:20260611T073500Z
 SUMMARY:WdA (L)
 LOCATION:09 65
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T094000Z
+DTEND:20260611T111500Z
+SUMMARY:Pw (L)
+LOCATION:233 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T113000Z
