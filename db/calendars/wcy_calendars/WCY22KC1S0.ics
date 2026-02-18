@@ -4578,8 +4578,15 @@ BEGIN:VEVENT
 DTSTART:20260219T070000Z
 DTEND:20260219T083500Z
 SUMMARY:AsU (Inne)
-LOCATION:237 S
+LOCATION:121 65
 DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/3\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T085000Z
+DTEND:20260219T102500Z
+SUMMARY:Wpp (Inne)
+LOCATION:121 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 6/3\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T070000Z
@@ -4659,6 +4666,13 @@ LOCATION:09 65
 DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260310T070000Z
+DTEND:20260310T083500Z
+SUMMARY:Pwst (w)
+LOCATION:317 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T085000Z
 DTEND:20260310T102500Z
 SUMMARY:Tds (w)
@@ -4712,14 +4726,14 @@ DTSTART:20260313T123000Z
 DTEND:20260313T140500Z
 SUMMARY:Pwst (w)
 LOCATION:316 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T150000Z
 DTEND:20260313T163500Z
 SUMMARY:Pwst (w)
 LOCATION:316 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T070000Z
@@ -4733,14 +4747,14 @@ DTSTART:20260316T085000Z
 DTEND:20260316T102500Z
 SUMMARY:Pwst (w)
 LOCATION:313 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T104000Z
 DTEND:20260316T121500Z
 SUMMARY:Pwst (w)
 LOCATION:313 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T123000Z
@@ -5020,7 +5034,7 @@ DTSTART:20260401T060000Z
 DTEND:20260401T073500Z
 SUMMARY:Pwst (w)
 LOCATION:316 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T075000Z
@@ -5091,20 +5105,6 @@ DTEND:20260408T153500Z
 SUMMARY:MPH (w)
 LOCATION:19 36
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260409T060000Z
-DTEND:20260409T073500Z
-SUMMARY:Pwst (L)
-LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260409T075000Z
-DTEND:20260409T092500Z
-SUMMARY:Pwst (L)
-LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T094000Z
@@ -5219,13 +5219,6 @@ LOCATION:09 65
 DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260415T060000Z
-DTEND:20260415T073500Z
-SUMMARY:Pwst (w)
-LOCATION:316 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260415T075000Z
 DTEND:20260415T092500Z
 SUMMARY:MeSK (w)
@@ -5328,14 +5321,14 @@ DTSTART:20260421T094000Z
 DTEND:20260421T111500Z
 SUMMARY:Pwst (L)
 LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T113000Z
 DTEND:20260421T130500Z
 SUMMARY:Pwst (L)
 LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T075000Z
@@ -5573,14 +5566,14 @@ DTSTART:20260505T094000Z
 DTEND:20260505T111500Z
 SUMMARY:Pwst (L)
 LOCATION:121 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T113000Z
 DTEND:20260505T130500Z
 SUMMARY:Pwst (L)
 LOCATION:121 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T060000Z
@@ -5965,14 +5958,14 @@ DTSTART:20260521T060000Z
 DTEND:20260521T073500Z
 SUMMARY:Pwst (L)
 LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T075000Z
 DTEND:20260521T092500Z
 SUMMARY:Pwst (L)
 LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T094000Z
@@ -6189,14 +6182,14 @@ DTSTART:20260602T060000Z
 DTEND:20260602T073500Z
 SUMMARY:Pwst (L)
 LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T075000Z
 DTEND:20260602T092500Z
 SUMMARY:Pwst (L)
 LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T094000Z
@@ -6288,6 +6281,20 @@ DTEND:20260610T130500Z
 SUMMARY:MPH (w)
 LOCATION:19 36
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T140000Z
+DTEND:20260610T153500Z
+SUMMARY:Pwst (L)
+LOCATION:011 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T155000Z
+DTEND:20260610T172500Z
+SUMMARY:Pwst (L)
+LOCATION:011 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T075000Z

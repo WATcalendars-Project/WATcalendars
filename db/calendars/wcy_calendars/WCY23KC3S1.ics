@@ -1428,7 +1428,7 @@ BEGIN:VEVENT
 DTSTART:20260218T085000Z
 DTEND:20260218T102500Z
 SUMMARY:Swb (Inne)
-LOCATION:308 S
+LOCATION:224 S
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
@@ -1915,27 +1915,6 @@ LOCATION:203 65
 DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260409T094000Z
-DTEND:20260409T111500Z
-SUMMARY:TpsT (L)
-LOCATION:09 65
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260409T113000Z
-DTEND:20260409T130500Z
-SUMMARY:TpsT (L)
-LOCATION:09 65
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260410T094000Z
-DTEND:20260410T111500Z
-SUMMARY:TpsT (ć)
-LOCATION:101 65
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260410T140000Z
 DTEND:20260410T153500Z
 SUMMARY:Sp (Inne)
@@ -2073,21 +2052,21 @@ DTSTART:20260420T060000Z
 DTEND:20260420T073500Z
 SUMMARY:TpsT (L)
 LOCATION:121 65
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T075000Z
 DTEND:20260420T092500Z
 SUMMARY:TpsT (L)
 LOCATION:121 65
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T094000Z
 DTEND:20260420T111500Z
 SUMMARY:TpsT (ć)
 LOCATION:203 65
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T094000Z
@@ -2174,6 +2153,13 @@ LOCATION:203 65
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260429T075000Z
+DTEND:20260429T092500Z
+SUMMARY:TpsT (ć)
+LOCATION:101 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260429T094000Z
 DTEND:20260429T111500Z
 SUMMARY:Oni (P)
@@ -2241,14 +2227,14 @@ DTSTART:20260506T140000Z
 DTEND:20260506T153500Z
 SUMMARY:TpsT (L)
 LOCATION:09 65
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T155000Z
 DTEND:20260506T172500Z
 SUMMARY:TpsT (L)
 LOCATION:09 65
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T075000Z
@@ -2305,6 +2291,20 @@ DTEND:20260512T130500Z
 SUMMARY:zsw (L)
 LOCATION:125 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T140000Z
+DTEND:20260512T153500Z
+SUMMARY:TpsT (L)
+LOCATION:09 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T155000Z
+DTEND:20260512T172500Z
+SUMMARY:TpsT (L)
+LOCATION:09 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T094000Z

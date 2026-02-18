@@ -903,7 +903,7 @@ BEGIN:VEVENT
 DTSTART:20260219T070000Z
 DTEND:20260219T083500Z
 SUMMARY:BwCP (ć)
-LOCATION:308 S
+LOCATION:307 S
 DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
@@ -1180,6 +1180,13 @@ LOCATION:255 S
 DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260302T150000Z
+DTEND:20260302T163500Z
+SUMMARY:MWDS (w)
+LOCATION:309 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T070000Z
 DTEND:20260303T083500Z
 SUMMARY:Pwo (ć)
@@ -1271,11 +1278,18 @@ LOCATION:AW 4
 DESCRIPTION:TAKTYKA - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260305T150000Z
+DTEND:20260305T163500Z
+SUMMARY:MWDS (L)
+LOCATION:224 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T165000Z
 DTEND:20260305T182500Z
-SUMMARY:MWDS (w)
-LOCATION:308 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: Dawid Maślanik
+SUMMARY:MWDS (L)
+LOCATION:224 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Dawid Maślanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T070000Z
@@ -1304,20 +1318,6 @@ DTEND:20260306T140500Z
 SUMMARY:SO (w)
 LOCATION:203 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260306T150000Z
-DTEND:20260306T163500Z
-SUMMARY:MWDS (L)
-LOCATION:224 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: Dawid Maślanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260306T165000Z
-DTEND:20260306T182500Z
-SUMMARY:MWDS (L)
-LOCATION:224 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Dawid Maślanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T070000Z

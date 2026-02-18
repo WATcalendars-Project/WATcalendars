@@ -4848,18 +4848,18 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 61/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260305T150000Z
+DTEND:20260305T163500Z
+SUMMARY:MM (w)
+LOCATION:307 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T165000Z
 DTEND:20260305T182500Z
 SUMMARY:TA (w)
 LOCATION:103 K
 DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260306T070000Z
-DTEND:20260306T083500Z
-SUMMARY:MM (w)
-LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T085000Z
@@ -4981,6 +4981,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 61/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260311T150000Z
+DTEND:20260311T163500Z
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/16\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T165000Z
+DTEND:20260311T182500Z
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/16\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260312T070000Z
 DTEND:20260312T083500Z
 SUMMARY:WF (ć)
@@ -4995,22 +5009,8 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 62/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260312T123000Z
-DTEND:20260312T140500Z
-SUMMARY:Po (L)
-LOCATION:228 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/16\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260312T150000Z
 DTEND:20260312T163500Z
-SUMMARY:Po (L)
-LOCATION:228 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/16\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260313T070000Z
-DTEND:20260313T083500Z
 SUMMARY:MM (w)
 LOCATION:307 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr hab. inż. Andrzej Chojnacki

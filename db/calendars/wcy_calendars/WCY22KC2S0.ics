@@ -4669,8 +4669,15 @@ BEGIN:VEVENT
 DTSTART:20260219T070000Z
 DTEND:20260219T083500Z
 SUMMARY:AsU (Inne)
-LOCATION:237 S
+LOCATION:121 65
 DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/3\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T085000Z
+DTEND:20260219T102500Z
+SUMMARY:Wpp (Inne)
+LOCATION:121 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 6/3\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T070000Z
@@ -4750,6 +4757,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 62/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260310T070000Z
+DTEND:20260310T083500Z
+SUMMARY:Pwst (w)
+LOCATION:317 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T085000Z
 DTEND:20260310T102500Z
 SUMMARY:Tds (w)
@@ -4803,14 +4817,14 @@ DTSTART:20260313T123000Z
 DTEND:20260313T140500Z
 SUMMARY:Pwst (w)
 LOCATION:316 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T150000Z
 DTEND:20260313T163500Z
 SUMMARY:Pwst (w)
 LOCATION:316 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T070000Z
@@ -4824,14 +4838,14 @@ DTSTART:20260316T085000Z
 DTEND:20260316T102500Z
 SUMMARY:Pwst (w)
 LOCATION:313 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T104000Z
 DTEND:20260316T121500Z
 SUMMARY:Pwst (w)
 LOCATION:313 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T123000Z
@@ -5118,7 +5132,7 @@ DTSTART:20260401T060000Z
 DTEND:20260401T073500Z
 SUMMARY:Pwst (w)
 LOCATION:316 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T075000Z
@@ -5240,20 +5254,6 @@ LOCATION:203 65
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260410T113000Z
-DTEND:20260410T130500Z
-SUMMARY:Pwst (L)
-LOCATION:106 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260410T140000Z
-DTEND:20260410T153500Z
-SUMMARY:Pwst (L)
-LOCATION:106 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260413T060000Z
 DTEND:20260413T073500Z
 SUMMARY:Ja (ć)
@@ -5294,13 +5294,6 @@ DTEND:20260414T130500Z
 SUMMARY:Zt (L)
 LOCATION:121 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260415T060000Z
-DTEND:20260415T073500Z
-SUMMARY:Pwst (w)
-LOCATION:316 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T075000Z
@@ -5475,14 +5468,14 @@ DTSTART:20260423T060000Z
 DTEND:20260423T073500Z
 SUMMARY:Pwst (L)
 LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T075000Z
 DTEND:20260423T092500Z
 SUMMARY:Pwst (L)
 LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T094000Z
@@ -5700,6 +5693,20 @@ DTEND:20260505T130500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
 DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/15\nProwadzący: Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T140000Z
+DTEND:20260505T153500Z
+SUMMARY:Pwst (L)
+LOCATION:09 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T155000Z
+DTEND:20260505T172500Z
+SUMMARY:Pwst (L)
+LOCATION:09 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T060000Z

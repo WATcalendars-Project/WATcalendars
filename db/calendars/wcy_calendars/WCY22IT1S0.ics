@@ -4508,7 +4508,7 @@ BEGIN:VEVENT
 DTSTART:20260219T070000Z
 DTEND:20260219T083500Z
 SUMMARY:AsU (Inne)
-LOCATION:237 S
+LOCATION:121 65
 DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/3\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
@@ -4645,6 +4645,13 @@ LOCATION:19 36
 DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260310T070000Z
+DTEND:20260310T083500Z
+SUMMARY:Pwst (w)
+LOCATION:317 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T085000Z
 DTEND:20260310T102500Z
 SUMMARY:dsk (L)
@@ -4726,14 +4733,14 @@ DTSTART:20260313T123000Z
 DTEND:20260313T140500Z
 SUMMARY:Pwst (w)
 LOCATION:316 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T150000Z
 DTEND:20260313T163500Z
 SUMMARY:Pwst (w)
 LOCATION:316 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T070000Z
@@ -4747,14 +4754,14 @@ DTSTART:20260316T085000Z
 DTEND:20260316T102500Z
 SUMMARY:Pwst (w)
 LOCATION:313 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T104000Z
 DTEND:20260316T121500Z
 SUMMARY:Pwst (w)
 LOCATION:313 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T070000Z
@@ -4867,6 +4874,13 @@ DTEND:20260319T121500Z
 SUMMARY:ESI (L)
 LOCATION:011 65
 DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T123000Z
+DTEND:20260319T140500Z
+SUMMARY:ESI (w)
+LOCATION:316 S
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T150000Z
@@ -5062,7 +5076,7 @@ DTSTART:20260330T113000Z
 DTEND:20260330T130500Z
 SUMMARY:ESI (w)
 LOCATION:308 S
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T140000Z
@@ -5104,7 +5118,7 @@ DTSTART:20260401T060000Z
 DTEND:20260401T073500Z
 SUMMARY:Pwst (w)
 LOCATION:316 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T075000Z
@@ -5352,13 +5366,6 @@ LOCATION:125 65
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/6\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260415T060000Z
-DTEND:20260415T073500Z
-SUMMARY:Pwst (w)
-LOCATION:316 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260415T075000Z
 DTEND:20260415T092500Z
 SUMMARY:MeSK (w)
@@ -5399,13 +5406,6 @@ DTEND:20260416T111500Z
 SUMMARY:dsk (w)
 LOCATION:307 S
 DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T113000Z
-DTEND:20260416T130500Z
-SUMMARY:ESI (w)
-LOCATION:313 S
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T140000Z
