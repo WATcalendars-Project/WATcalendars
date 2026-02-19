@@ -81,13 +81,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260304T123000Z
-DTEND:20260304T140500Z
-SUMMARY:JEt (w)
-LOCATION:307 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260305T070000Z
 DTEND:20260305T083500Z
 SUMMARY:Ja (ć)
@@ -310,6 +303,13 @@ DTEND:20260316T121500Z
 SUMMARY:Est (P)
 LOCATION:120 65
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/5\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T123000Z
+DTEND:20260316T140500Z
+SUMMARY:JEt (w)
+LOCATION:307 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T150000Z

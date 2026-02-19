@@ -4043,13 +4043,6 @@ LOCATION:313 S
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260319T085000Z
-DTEND:20260319T102500Z
-SUMMARY:WdA (L)
-LOCATION:121 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260319T104000Z
 DTEND:20260319T121500Z
 SUMMARY:MM (w)
@@ -4302,13 +4295,6 @@ LOCATION:313 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260402T113000Z
-DTEND:20260402T130500Z
-SUMMARY:WdA (L)
-LOCATION:09 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260408T060000Z
 DTEND:20260408T073500Z
 SUMMARY:Sck (w)
@@ -4376,7 +4362,7 @@ DTSTART:20260409T140000Z
 DTEND:20260409T153500Z
 SUMMARY:WdA (L)
 LOCATION:125 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: -
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T075000Z
@@ -4440,6 +4426,13 @@ DTEND:20260413T153500Z
 SUMMARY:Wkr (L)
 LOCATION:085 S
 DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T155000Z
+DTEND:20260413T172500Z
+SUMMARY:WdA (L)
+LOCATION:120 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T060000Z
@@ -4601,6 +4594,13 @@ DTEND:20260421T153500Z
 SUMMARY:JoM (ć)
 LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 37/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T155000Z
+DTEND:20260421T172500Z
+SUMMARY:WdA (L)
+LOCATION:121 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T060000Z
@@ -4788,7 +4788,7 @@ BEGIN:VEVENT
 DTSTART:20260506T155000Z
 DTEND:20260506T172500Z
 SUMMARY:WdA (Inne)
-LOCATION:101 65
+LOCATION:121 65
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5058,13 +5058,6 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 42/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260528T060000Z
-DTEND:20260528T073500Z
-SUMMARY:WdA (L)
-LOCATION:09 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260528T075000Z
 DTEND:20260528T092500Z
 SUMMARY:Wkr (L)
@@ -5098,6 +5091,13 @@ DTEND:20260602T153500Z
 SUMMARY:JoM (ć)
 LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 43/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T155000Z
+DTEND:20260602T172500Z
+SUMMARY:WdA (L)
+LOCATION:121 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T075000Z

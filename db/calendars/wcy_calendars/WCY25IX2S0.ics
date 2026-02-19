@@ -3105,13 +3105,6 @@ LOCATION:PL.MUSZ1
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260402T094000Z
-DTEND:20260402T111500Z
-SUMMARY:Tpi (L)
-LOCATION:226 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: mgr inż. Arkadiusz Kowalski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260402T113000Z
 DTEND:20260402T130500Z
 SUMMARY:DSiSM (w)
@@ -3551,6 +3544,13 @@ DTEND:20260429T073500Z
 SUMMARY:WdP (w)
 LOCATION:314 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T075000Z
+DTEND:20260429T092500Z
+SUMMARY:Tpi (L)
+LOCATION:239 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T140000Z

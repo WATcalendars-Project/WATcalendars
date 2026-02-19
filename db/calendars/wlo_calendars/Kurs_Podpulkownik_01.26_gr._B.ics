@@ -176,7 +176,7 @@ DTSTART:20260202T150000Z
 DTEND:20260202T163500Z
 SUMMARY:PaSZ (w)
 LOCATION:0.24/135
-DESCRIPTION:Public affairs w SZRP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: WF(ć) K - PPŁK 01.26 gr. A; K - PPŁK 01.26 gr. B RGoławski; dr inż. Magierski Mieczysław
+DESCRIPTION:Public affairs w SZRP\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: WF(ć) K - PPŁK 01.26 gr. A; K - PPŁK 01.26 gr. B RGoławski; WF(ć) K - PPŁK 01.26 gr. B RGoławski; dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260209T150000Z
@@ -226,6 +226,13 @@ DTEND:20260217T083500Z
 SUMMARY:ZfSZ (w)
 LOCATION:0.24/135
 DESCRIPTION:Zasady funkcjonowania SZRP - Taktyka i sztuka operacyjna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260224T070000Z
+DTEND:20260224T083500Z
+SUMMARY:ZTiRW (w)
+LOCATION:0.24/135
+DESCRIPTION:Zabezpieczenie transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T085000Z
@@ -372,7 +379,7 @@ DTSTART:20260120T150000Z
 DTEND:20260120T163500Z
 SUMMARY:PaSZ (w)
 LOCATION:0.24/135
-DESCRIPTION:Public affairs w SZRP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: WF(ć) K - PPŁK 01.26 gr. A; K - PPŁK 01.26 gr. B RGoławski; dr inż. Magierski Mieczysław
+DESCRIPTION:Public affairs w SZRP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: WF(ć) K - PPŁK 01.26 gr. A; K - PPŁK 01.26 gr. B RGoławski; WF(ć) K - PPŁK 01.26 gr. B RGoławski; dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T150000Z
@@ -407,7 +414,7 @@ DTSTART:20260120T165000Z
 DTEND:20260120T182500Z
 SUMMARY:PaSZ (S)
 LOCATION:0.24/135
-DESCRIPTION:Public affairs w SZRP\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: WF(ć) K - PPŁK 01.26 gr. A; K - PPŁK 01.26 gr. B RGoławski; dr inż. Magierski Mieczysław
+DESCRIPTION:Public affairs w SZRP\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: WF(ć) K - PPŁK 01.26 gr. A; K - PPŁK 01.26 gr. B RGoławski; WF(ć) K - PPŁK 01.26 gr. B RGoławski; dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T070000Z
@@ -749,7 +756,7 @@ BEGIN:VEVENT
 DTSTART:20260219T123000Z
 DTEND:20260219T140500Z
 SUMMARY:WF (ć)
-LOCATION:26 gr; 26 gr
+LOCATION:26 gr
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: ppłk mgr Ryś Paweł
 END:VEVENT
 BEGIN:VEVENT

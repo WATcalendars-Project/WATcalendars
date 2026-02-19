@@ -4155,13 +4155,6 @@ LOCATION:313 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260319T123000Z
-DTEND:20260319T140500Z
-SUMMARY:WdA (L)
-LOCATION:09 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260320T070000Z
 DTEND:20260320T083500Z
 SUMMARY:PO (w)
@@ -4274,13 +4267,6 @@ LOCATION:313 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260326T123000Z
-DTEND:20260326T140500Z
-SUMMARY:WdA (L)
-LOCATION:121 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260330T060000Z
 DTEND:20260330T073500Z
 SUMMARY:IK (w)
@@ -4313,7 +4299,7 @@ DTSTART:20260331T060000Z
 DTEND:20260331T073500Z
 SUMMARY:WdA (L)
 LOCATION:121 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: -
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T075000Z
@@ -4470,6 +4456,13 @@ LOCATION:121 65
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260410T060000Z
+DTEND:20260410T073500Z
+SUMMARY:WdA (L)
+LOCATION:121 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260410T075000Z
 DTEND:20260410T092500Z
 SUMMARY:Sck (L)
@@ -4608,6 +4601,13 @@ DTEND:20260416T111500Z
 SUMMARY:MM (w)
 LOCATION:313 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T140000Z
+DTEND:20260416T153500Z
+SUMMARY:WdA (L)
+LOCATION:121 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T075000Z
@@ -4932,6 +4932,20 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 40/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260513T060000Z
+DTEND:20260513T073500Z
+SUMMARY:WdA (L)
+LOCATION:121 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T075000Z
+DTEND:20260513T092500Z
+SUMMARY:WdA (Inne)
+LOCATION:121 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
 SUMMARY:Pw (L)
@@ -4958,20 +4972,6 @@ DTEND:20260513T172500Z
 SUMMARY:IO (L)
 LOCATION:228 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: mgr inż. Radosław Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260514T060000Z
-DTEND:20260514T073500Z
-SUMMARY:WdA (L)
-LOCATION:09 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260514T075000Z
-DTEND:20260514T092500Z
-SUMMARY:WdA (Inne)
-LOCATION:201 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T094000Z
@@ -5261,6 +5261,13 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 44/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260609T155000Z
+DTEND:20260609T172500Z
+SUMMARY:WdA (L)
+LOCATION:121 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260610T075000Z
 DTEND:20260610T092500Z
 SUMMARY:Sck (L)
@@ -5294,13 +5301,6 @@ DTEND:20260610T172500Z
 SUMMARY:IO (L)
 LOCATION:224 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: mgr inż. Radosław Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260611T113000Z
-DTEND:20260611T130500Z
-SUMMARY:WdA (L)
-LOCATION:09 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T140000Z
@@ -5338,10 +5338,10 @@ LOCATION:106 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260616T060000Z
-DTEND:20260616T073500Z
+DTSTART:20260615T155000Z
+DTEND:20260615T172500Z
 SUMMARY:WdA (L)
-LOCATION:011 65
+LOCATION:121 65
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT

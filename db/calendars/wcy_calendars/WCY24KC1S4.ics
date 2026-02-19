@@ -1250,11 +1250,18 @@ LOCATION:101 65
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260310T070000Z
+DTEND:20260310T083500Z
+SUMMARY:IRz (w)
+LOCATION:201 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T085000Z
 DTEND:20260310T102500Z
 SUMMARY:IRz (w)
 LOCATION:201 65
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T104000Z
@@ -1275,7 +1282,7 @@ DTSTART:20260311T085000Z
 DTEND:20260311T102500Z
 SUMMARY:IRz (w)
 LOCATION:101 65
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T104000Z
@@ -1313,13 +1320,6 @@ LOCATION:201 65
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260318T085000Z
-DTEND:20260318T102500Z
-SUMMARY:IRz (w)
-LOCATION:101 65
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260318T104000Z
 DTEND:20260318T121500Z
 SUMMARY:Wcy (w)
@@ -1332,13 +1332,6 @@ DTEND:20260318T140500Z
 SUMMARY:Wcy (w)
 LOCATION:101 65
 DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Adam Patkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260319T104000Z
-DTEND:20260319T121500Z
-SUMMARY:IRz (w)
-LOCATION:101 65
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T123000Z
@@ -1359,7 +1352,7 @@ DTSTART:20260325T085000Z
 DTEND:20260325T102500Z
 SUMMARY:IRz (w)
 LOCATION:101 65
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T104000Z
@@ -1416,6 +1409,13 @@ DTEND:20260326T182500Z
 SUMMARY:Wcy (L)
 LOCATION:106 65
 DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T075000Z
+DTEND:20260401T092500Z
+SUMMARY:IRz (w)
+LOCATION:218 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T094000Z
