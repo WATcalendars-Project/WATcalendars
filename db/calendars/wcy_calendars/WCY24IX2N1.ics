@@ -2608,13 +2608,6 @@ LOCATION:203 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260221T165000Z
-DTEND:20260221T182500Z
-SUMMARY:Wpp (Inne)
-LOCATION:228 S
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Tomasz Derski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260222T070000Z
 DTEND:20260222T083500Z
 SUMMARY:Aok (Inne)
@@ -2641,5 +2634,12 @@ DTEND:20260222T140500Z
 SUMMARY:BD (Inne)
 LOCATION:308 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260222T150000Z
+DTEND:20260222T163500Z
+SUMMARY:Wpp (Inne)
+LOCATION:228 S
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 END:VCALENDAR

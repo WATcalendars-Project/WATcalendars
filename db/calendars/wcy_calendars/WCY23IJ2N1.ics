@@ -1257,13 +1257,6 @@ LOCATION:308 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260307T104000Z
-DTEND:20260307T121500Z
-SUMMARY:Muma (w)
-LOCATION:307 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Jarosław Olejniczak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260307T123000Z
 DTEND:20260307T140500Z
 SUMMARY:kck (w)
@@ -1289,14 +1282,14 @@ DTSTART:20260308T070000Z
 DTEND:20260308T083500Z
 SUMMARY:AM (w)
 LOCATION:307 S
-DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260308T085000Z
 DTEND:20260308T102500Z
 SUMMARY:AM (w)
 LOCATION:307 S
-DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260308T104000Z
@@ -1355,13 +1348,6 @@ LOCATION:233 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260314T150000Z
-DTEND:20260314T163500Z
-SUMMARY:Sp (Inne)
-LOCATION:226 S
-DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/5\nProwadzący: dr inż. Wiesław Barcikowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260315T070000Z
 DTEND:20260315T083500Z
 SUMMARY:Sn (L)
@@ -1392,16 +1378,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260321T070000Z
 DTEND:20260321T083500Z
-SUMMARY:Muma (w)
-LOCATION:309 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Jarosław Olejniczak
+SUMMARY:kck (w)
+LOCATION:204 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260321T085000Z
 DTEND:20260321T102500Z
 SUMMARY:kck (w)
 LOCATION:204 65
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260322T070000Z
@@ -1439,18 +1425,11 @@ LOCATION:236 S
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 5/15\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260328T070000Z
-DTEND:20260328T083500Z
-SUMMARY:Muma (w)
-LOCATION:309 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Jarosław Olejniczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260328T085000Z
-DTEND:20260328T102500Z
-SUMMARY:kck (w)
-LOCATION:204 65
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Tomasz Pałys
+DTSTART:20260322T165000Z
+DTEND:20260322T182500Z
+SUMMARY:Sp (Inne)
+LOCATION:226 S
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/5\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260328T104000Z
@@ -1551,6 +1530,20 @@ LOCATION:228 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/10\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260418T113000Z
+DTEND:20260418T130500Z
+SUMMARY:Muma (w)
+LOCATION:309 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T140000Z
+DTEND:20260418T153500Z
+SUMMARY:Muma (w)
+LOCATION:309 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260419T140000Z
 DTEND:20260419T153500Z
 SUMMARY:TAI (w)
@@ -1639,14 +1632,14 @@ DTSTART:20260510T060000Z
 DTEND:20260510T073500Z
 SUMMARY:AM (w)
 LOCATION:307 S
-DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260510T075000Z
 DTEND:20260510T092500Z
 SUMMARY:AM (w)
 LOCATION:307 S
-DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T060000Z
@@ -1682,6 +1675,13 @@ DTEND:20260516T153500Z
 SUMMARY:kck (L)
 LOCATION:106 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T155000Z
+DTEND:20260516T172500Z
+SUMMARY:Muma (w)
+LOCATION:317 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260523T060000Z
@@ -1723,14 +1723,14 @@ DTSTART:20260524T094000Z
 DTEND:20260524T111500Z
 SUMMARY:AM (L)
 LOCATION:223 S
-DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: mgr inż. Tomasz Derski
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260524T113000Z
 DTEND:20260524T130500Z
 SUMMARY:AM (L)
 LOCATION:223 S
-DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: mgr inż. Tomasz Derski
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260524T140000Z
@@ -1738,6 +1738,13 @@ DTEND:20260524T153500Z
 SUMMARY:TAI (w)
 LOCATION:309 S
 DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260524T155000Z
+DTEND:20260524T172500Z
+SUMMARY:AM (w)
+LOCATION:309 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260530T060000Z
@@ -1835,14 +1842,14 @@ DTSTART:20260614T060000Z
 DTEND:20260614T073500Z
 SUMMARY:AM (L)
 LOCATION:223 S
-DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: mgr inż. Tomasz Derski
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260614T075000Z
 DTEND:20260614T092500Z
 SUMMARY:AM (L)
 LOCATION:223 S
-DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: mgr inż. Tomasz Derski
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260614T094000Z
@@ -1922,18 +1929,11 @@ LOCATION:236 S
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 15/15\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260621T060000Z
-DTEND:20260621T073500Z
-SUMMARY:AM (w)
-LOCATION:307 S
-DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260621T075000Z
-DTEND:20260621T092500Z
-SUMMARY:AM (w)
-LOCATION:307 S
-DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Mariusz Chmielewski
+DTSTART:20260621T094000Z
+DTEND:20260621T111500Z
+SUMMARY:AM (L)
+LOCATION:223 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260621T113000Z

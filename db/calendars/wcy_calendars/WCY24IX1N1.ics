@@ -2622,13 +2622,6 @@ LOCATION:121 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260221T165000Z
-DTEND:20260221T182500Z
-SUMMARY:Wpp (Inne)
-LOCATION:228 S
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: mgr inż. Tomasz Derski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260222T070000Z
 DTEND:20260222T083500Z
 SUMMARY:Aok (Inne)
@@ -2655,6 +2648,13 @@ DTEND:20260222T140500Z
 SUMMARY:BD (Inne)
 LOCATION:308 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260222T150000Z
+DTEND:20260222T163500Z
+SUMMARY:Wpp (Inne)
+LOCATION:228 S
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260307T070000Z

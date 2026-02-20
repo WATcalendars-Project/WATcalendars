@@ -1292,13 +1292,6 @@ LOCATION:308 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260303T150000Z
-DTEND:20260303T163500Z
-SUMMARY:Jtp (w)
-LOCATION:308 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. Piotr Kosiuczenko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260305T070000Z
 DTEND:20260305T083500Z
 SUMMARY:SQL (w)
@@ -1359,7 +1352,7 @@ DTSTART:20260310T123000Z
 DTEND:20260310T140500Z
 SUMMARY:Jtp (w)
 LOCATION:317 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T070000Z
@@ -1381,6 +1374,13 @@ DTEND:20260311T121500Z
 SUMMARY:Muma (w)
 LOCATION:308 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T123000Z
+DTEND:20260311T140500Z
+SUMMARY:Jtp (w)
+LOCATION:309 S
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T150000Z

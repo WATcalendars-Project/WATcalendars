@@ -3259,20 +3259,6 @@ LOCATION:201 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: Jozef Turczyn
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260610T060000Z
-DTEND:20260610T073500Z
-SUMMARY:ppk (L)
-LOCATION:236 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260610T075000Z
-DTEND:20260610T092500Z
-SUMMARY:ppk (L)
-LOCATION:236 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260610T094000Z
 DTEND:20260610T111500Z
 SUMMARY:HP (ć)
@@ -3411,5 +3397,19 @@ DTEND:20260618T153500Z
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T060000Z
+DTEND:20260619T073500Z
+SUMMARY:ppk (L)
+LOCATION:125 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T075000Z
+DTEND:20260619T092500Z
+SUMMARY:ppk (L)
+LOCATION:125 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 END:VCALENDAR

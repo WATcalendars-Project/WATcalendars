@@ -2916,6 +2916,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 176/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260309T070000Z
+DTEND:20260309T083500Z
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260309T104000Z
 DTEND:20260309T121500Z
 SUMMARY:WdP (w)
@@ -2928,13 +2935,6 @@ DTEND:20260309T140500Z
 SUMMARY:Acz. (w)
 LOCATION:301/ S
 DESCRIPTION:Anatomia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/14\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260310T070000Z
-DTEND:20260310T083500Z
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T123000Z
@@ -3224,6 +3224,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 189/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260323T070000Z
+DTEND:20260323T083500Z
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260323T085000Z
 DTEND:20260323T102500Z
 SUMMARY:Fil (w)
@@ -3389,7 +3396,7 @@ DTSTART:20260330T060000Z
 DTEND:20260330T073500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T075000Z
@@ -3418,13 +3425,6 @@ DTEND:20260330T153500Z
 SUMMARY:F1 (L)
 LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260331T060000Z
-DTEND:20260331T073500Z
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T075000Z
@@ -3826,6 +3826,13 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 11/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260415T075000Z
+DTEND:20260415T092500Z
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260415T094000Z
 DTEND:20260415T111500Z
 SUMMARY:HP (w)
@@ -3928,7 +3935,7 @@ DTSTART:20260420T060000Z
 DTEND:20260420T073500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T075000Z
@@ -3957,13 +3964,6 @@ DTEND:20260420T153500Z
 SUMMARY:F1 (L)
 LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260421T060000Z
-DTEND:20260421T073500Z
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T075000Z
@@ -4186,14 +4186,14 @@ BEGIN:VEVENT
 DTSTART:20260428T113000Z
 DTEND:20260428T130500Z
 SUMMARY:Ppu. (L)
-LOCATION:11/ 23
+LOCATION:2.38/ 54A
 DESCRIPTION:Podstawy projektowania uniwersalnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T140000Z
 DTEND:20260428T153500Z
 SUMMARY:Ppu. (L)
-LOCATION:11/ 23
+LOCATION:2.38/ 54A
 DESCRIPTION:Podstawy projektowania uniwersalnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4214,14 +4214,14 @@ BEGIN:VEVENT
 DTSTART:20260429T094000Z
 DTEND:20260429T111500Z
 SUMMARY:Ppu. (L)
-LOCATION:11/ 23
+LOCATION:2.38/ 54A
 DESCRIPTION:Podstawy projektowania uniwersalnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T113000Z
 DTEND:20260429T130500Z
 SUMMARY:Ppu. (L)
-LOCATION:11/ 23
+LOCATION:2.38/ 54A
 DESCRIPTION:Podstawy projektowania uniwersalnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4900,7 +4900,7 @@ BEGIN:VEVENT
 DTSTART:20260526T140000Z
 DTEND:20260526T153500Z
 SUMMARY:Ppu. (L)
-LOCATION:11/ 23
+LOCATION:2.38/ 54A
 DESCRIPTION:Podstawy projektowania uniwersalnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5047,7 +5047,7 @@ BEGIN:VEVENT
 DTSTART:20260602T094000Z
 DTEND:20260602T111500Z
 SUMMARY:Ppu. (L)
-LOCATION:11/ 23
+LOCATION:2.38/ 54A
 DESCRIPTION:Podstawy projektowania uniwersalnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5509,7 +5509,7 @@ BEGIN:VEVENT
 DTSTART:20260623T094000Z
 DTEND:20260623T111500Z
 SUMMARY:Ppu. (Inne)
-LOCATION:11/ 23
+LOCATION:2.38/ 54A
 DESCRIPTION:Podstawy projektowania uniwersalnego - (zaliczenie poprawkowe lab.) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT

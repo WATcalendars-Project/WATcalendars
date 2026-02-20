@@ -4274,18 +4274,18 @@ LOCATION:078 S
 DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych II\nRodzaj zajęć: Wykład\nNumer zajęć: 4/12\nProwadzący: dr inż. Michał Wroński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260304T070000Z
-DTEND:20260304T083500Z
-SUMMARY:tcs (w)
-LOCATION:307 S
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr Łukasz Matysiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260304T104000Z
 DTEND:20260304T121500Z
 SUMMARY:Ja (ć)
 LOCATION:127 K 125 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 62/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T123000Z
+DTEND:20260304T140500Z
+SUMMARY:tcs (w)
+LOCATION:307 S
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T070000Z
@@ -5968,13 +5968,6 @@ LOCATION:078 S
 DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 20/18\nProwadzący: dr inż. Michał Wroński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260519T155000Z
-DTEND:20260519T172500Z
-SUMMARY:tcs (ć)
-LOCATION:307 S
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Łukasz Matysiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260520T075000Z
 DTEND:20260520T092500Z
 SUMMARY:Gtl (ć)
@@ -6001,6 +5994,13 @@ DTEND:20260520T130500Z
 SUMMARY:MPH (w)
 LOCATION:19 36
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T140000Z
+DTEND:20260520T153500Z
+SUMMARY:tcs (ć)
+LOCATION:317 S
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T060000Z
