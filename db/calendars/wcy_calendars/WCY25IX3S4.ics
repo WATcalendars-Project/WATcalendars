@@ -284,13 +284,6 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260330T060000Z
-DTEND:20260330T073500Z
-SUMMARY:Tal (w)
-LOCATION:316 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260331T060000Z
 DTEND:20260331T073500Z
 SUMMARY:Ps (w)
@@ -373,6 +366,13 @@ DTEND:20260408T111500Z
 SUMMARY:Sme. (ć)
 LOCATION:224 S
 DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T060000Z
+DTEND:20260409T073500Z
+SUMMARY:Tal (w)
+LOCATION:316 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T075000Z

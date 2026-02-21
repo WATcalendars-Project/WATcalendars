@@ -1733,6 +1733,20 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260302T070000Z
+DTEND:20260302T083500Z
+SUMMARY:Tgs (w)
+LOCATION:316 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T085000Z
+DTEND:20260302T102500Z
+SUMMARY:Tgs (w)
+LOCATION:316 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260302T104000Z
 DTEND:20260302T121500Z
 SUMMARY:WdP (w)
@@ -1752,6 +1766,13 @@ DTEND:20260303T121500Z
 SUMMARY:Md2 (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T085000Z
+DTEND:20260304T102500Z
+SUMMARY:Tgs (w)
+LOCATION:317 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T104000Z
@@ -1829,20 +1850,6 @@ DTEND:20260306T121500Z
 SUMMARY:HP (w)
 LOCATION:316 S
 DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260306T150000Z
-DTEND:20260306T163500Z
-SUMMARY:Tgs (w)
-LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260306T165000Z
-DTEND:20260306T182500Z
-SUMMARY:Tgs (w)
-LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T085000Z
@@ -2071,13 +2078,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T150000Z
 DTEND:20260320T163500Z
-SUMMARY:Tgs (w)
-LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260320T165000Z
-DTEND:20260320T182500Z
 SUMMARY:Tgs (w)
 LOCATION:314 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
@@ -3411,5 +3411,47 @@ DTEND:20260619T092500Z
 SUMMARY:ppk (L)
 LOCATION:125 65
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260623T075000Z
+DTEND:20260623T092500Z
+SUMMARY:F1 (E)
+LOCATION:aF S
+DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260623T094000Z
+DTEND:20260623T111500Z
+SUMMARY:F1 (E)
+LOCATION:aF S
+DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260623T113000Z
+DTEND:20260623T130500Z
+SUMMARY:F1 (E)
+LOCATION:aF S
+DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260710T075000Z
+DTEND:20260710T092500Z
+SUMMARY:F1 (Inne)
+LOCATION:313 S
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260710T094000Z
+DTEND:20260710T111500Z
+SUMMARY:F1 (Inne)
+LOCATION:313 S
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260710T113000Z
+DTEND:20260710T130500Z
+SUMMARY:F1 (Inne)
+LOCATION:313 S
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/3\nProwadzący: -
 END:VEVENT
 END:VCALENDAR
