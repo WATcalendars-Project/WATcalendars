@@ -669,6 +669,13 @@ LOCATION:0.6/16; 0.21/16
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260301T070000Z
+DTEND:20260301T083500Z
+SUMMARY:Che (w)
+LOCATION:aula/135
+DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr inż. Garbat Katarzyna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261005T075000Z
 DTEND:20261005T092500Z
 SUMMARY:M1 (w)
@@ -753,6 +760,13 @@ LOCATION:0.6/16
 DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260301T085000Z
+DTEND:20260301T102500Z
+SUMMARY:BiEWTM (w)
+LOCATION:1.9/16
+DESCRIPTION:Budowa i eksploatacja wyposażenia technicznego magazynów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr inż. Sieczka Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261012T094000Z
 DTEND:20261012T111500Z
 SUMMARY:PZiP (w)
@@ -830,6 +844,13 @@ LOCATION:313 S
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260301T104000Z
+DTEND:20260301T121500Z
+SUMMARY:BiEWTM (w)
+LOCATION:1.9/16
+DESCRIPTION:Budowa i eksploatacja wyposażenia technicznego magazynów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Sieczka Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261012T113000Z
 DTEND:20261012T130500Z
 SUMMARY:Ez (w)
@@ -879,10 +900,24 @@ LOCATION:aula/135
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260301T123000Z
+DTEND:20260301T140500Z
+SUMMARY:Mbl. (w)
+LOCATION:0.28/135
+DESCRIPTION:Metodyka badań w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: płk dr inż. Zelkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261109T150000Z
 DTEND:20261109T163500Z
 SUMMARY:M1 (ć)
 LOCATION:0.28/135
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/12\nProwadzący: dr Gdula Agnieszka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260301T150000Z
+DTEND:20260301T163500Z
+SUMMARY:Mbl. (w)
+LOCATION:0.28/135
+DESCRIPTION:Metodyka badań w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 END:VCALENDAR

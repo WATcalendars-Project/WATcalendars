@@ -4582,13 +4582,6 @@ LOCATION:128 K 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 62/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260304T123000Z
-DTEND:20260304T140500Z
-SUMMARY:Dn (w)
-LOCATION:19 36
-DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260304T150000Z
 DTEND:20260304T163500Z
 SUMMARY:Zt (L)
@@ -4649,7 +4642,7 @@ DTSTART:20260309T104000Z
 DTEND:20260309T121500Z
 SUMMARY:Dn (w)
 LOCATION:19 36
-DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T070000Z
@@ -4685,6 +4678,13 @@ DTEND:20260310T163500Z
 SUMMARY:dsk (P)
 LOCATION:203 65
 DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNumer zajęć: 2/8\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T165000Z
+DTEND:20260310T182500Z
+SUMMARY:Dn (w)
+LOCATION:315 S
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T150000Z
