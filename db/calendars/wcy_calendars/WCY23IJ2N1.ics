@@ -1327,13 +1327,6 @@ LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260314T085000Z
-DTEND:20260314T102500Z
-SUMMARY:Jtp (w)
-LOCATION:307 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr hab. Piotr Kosiuczenko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260314T104000Z
 DTEND:20260314T121500Z
 SUMMARY:Jtp (L)
@@ -1390,6 +1383,20 @@ LOCATION:204 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260321T104000Z
+DTEND:20260321T121500Z
+SUMMARY:PWSI (L)
+LOCATION:228 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260321T123000Z
+DTEND:20260321T140500Z
+SUMMARY:PWSI (L)
+LOCATION:228 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260322T070000Z
 DTEND:20260322T083500Z
 SUMMARY:Sn (L)
@@ -1430,20 +1437,6 @@ DTEND:20260322T182500Z
 SUMMARY:Sp (Inne)
 LOCATION:226 S
 DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/5\nProwadzący: dr inż. Wiesław Barcikowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260328T104000Z
-DTEND:20260328T121500Z
-SUMMARY:PWSI (L)
-LOCATION:228 S
-DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: mgr inż. Tomasz Gumowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260328T123000Z
-DTEND:20260328T140500Z
-SUMMARY:PWSI (L)
-LOCATION:228 S
-DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260329T140000Z
@@ -1518,27 +1511,34 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T075000Z
 DTEND:20260418T092500Z
-SUMMARY:PWSI (P)
-LOCATION:228 S
-DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/10\nProwadzący: mgr inż. Tomasz Gumowski
+SUMMARY:Jtp (w)
+LOCATION:307 S
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T094000Z
 DTEND:20260418T111500Z
 SUMMARY:PWSI (P)
 LOCATION:228 S
-DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/10\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/10\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T113000Z
 DTEND:20260418T130500Z
+SUMMARY:PWSI (P)
+LOCATION:228 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/10\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T140000Z
+DTEND:20260418T153500Z
 SUMMARY:Muma (w)
 LOCATION:309 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260418T140000Z
-DTEND:20260418T153500Z
+DTSTART:20260418T155000Z
+DTEND:20260418T172500Z
 SUMMARY:Muma (w)
 LOCATION:309 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Jarosław Olejniczak

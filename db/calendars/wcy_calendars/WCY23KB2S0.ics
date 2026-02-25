@@ -46,6 +46,20 @@ LOCATION:317 S
 DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260303T150000Z
+DTEND:20260303T163500Z
+SUMMARY:Ajf (L)
+LOCATION:307 S
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T165000Z
+DTEND:20260303T182500Z
+SUMMARY:Ajf (L)
+LOCATION:307 S
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T085000Z
 DTEND:20260304T102500Z
 SUMMARY:Pjf (w)
@@ -197,14 +211,14 @@ DTSTART:20260312T104000Z
 DTEND:20260312T121500Z
 SUMMARY:Ajf (L)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T123000Z
 DTEND:20260312T140500Z
 SUMMARY:Ajf (L)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T070000Z
@@ -410,6 +424,13 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260323T070000Z
+DTEND:20260323T083500Z
+SUMMARY:PESW (ć)
+LOCATION:33 67
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260323T104000Z
 DTEND:20260323T121500Z
 SUMMARY:Hd (w)
@@ -499,13 +520,6 @@ DTEND:20260326T140500Z
 SUMMARY:Awd (L)
 LOCATION:227 S
 DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr Jarosław Olejniczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260327T070000Z
-DTEND:20260327T083500Z
-SUMMARY:PESW (ć)
-LOCATION:20 69
-DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T104000Z
@@ -631,14 +645,14 @@ DTSTART:20260401T140000Z
 DTEND:20260401T153500Z
 SUMMARY:Ajf (L)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T155000Z
 DTEND:20260401T172500Z
 SUMMARY:Ajf (L)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T060000Z
@@ -709,6 +723,20 @@ DTEND:20260409T130500Z
 SUMMARY:Mn (L)
 LOCATION:236 S
 DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T140000Z
+DTEND:20260409T153500Z
+SUMMARY:Ajf (w)
+LOCATION:308 S
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T155000Z
+DTEND:20260409T172500Z
+SUMMARY:Ajf (w)
+LOCATION:308 S
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T060000Z
@@ -800,13 +828,6 @@ DTEND:20260414T092500Z
 SUMMARY:Tal (P)
 LOCATION:226 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 1/6\nProwadzący: mgr inż. Piotr Stąpor
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260414T094000Z
-DTEND:20260414T111500Z
-SUMMARY:Ajf (w)
-LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T113000Z
@@ -1107,14 +1128,14 @@ DTSTART:20260428T140000Z
 DTEND:20260428T153500Z
 SUMMARY:Ajf (L)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T155000Z
 DTEND:20260428T172500Z
 SUMMARY:Ajf (L)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T075000Z
@@ -1150,13 +1171,6 @@ DTEND:20260430T073500Z
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T075000Z
-DTEND:20260430T092500Z
-SUMMARY:Ajf (w)
-LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T094000Z
@@ -1395,20 +1409,6 @@ DTEND:20260512T073500Z
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260512T094000Z
-DTEND:20260512T111500Z
-SUMMARY:Ajf (L)
-LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr hab. Piotr Kosiuczenko
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260512T113000Z
-DTEND:20260512T130500Z
-SUMMARY:Ajf (L)
-LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T060000Z

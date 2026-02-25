@@ -1327,13 +1327,6 @@ LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260314T085000Z
-DTEND:20260314T102500Z
-SUMMARY:Jtp (w)
-LOCATION:307 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr hab. Piotr Kosiuczenko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260314T104000Z
 DTEND:20260314T121500Z
 SUMMARY:PWSI (L)
@@ -1518,27 +1511,34 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T075000Z
 DTEND:20260418T092500Z
-SUMMARY:Jtp (L)
-LOCATION:233 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: dr hab. Piotr Kosiuczenko
+SUMMARY:Jtp (w)
+LOCATION:307 S
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T094000Z
 DTEND:20260418T111500Z
 SUMMARY:Jtp (L)
-LOCATION:233 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: dr hab. Piotr Kosiuczenko
+LOCATION:-
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T113000Z
 DTEND:20260418T130500Z
+SUMMARY:Jtp (L)
+LOCATION:-
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T140000Z
+DTEND:20260418T153500Z
 SUMMARY:Muma (w)
 LOCATION:309 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260418T140000Z
-DTEND:20260418T153500Z
+DTSTART:20260418T155000Z
+DTEND:20260418T172500Z
 SUMMARY:Muma (w)
 LOCATION:309 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Jarosław Olejniczak

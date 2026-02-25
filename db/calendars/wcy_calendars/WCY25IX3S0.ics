@@ -2587,6 +2587,13 @@ LOCATION:314 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260304T085000Z
+DTEND:20260304T102500Z
+SUMMARY:RiAIP (w)
+LOCATION:AW 4
+DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T123000Z
 DTEND:20260304T140500Z
 SUMMARY:Amt (w)
@@ -3063,13 +3070,6 @@ LOCATION:PL.MUSZ1
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260326T123000Z
-DTEND:20260326T140500Z
-SUMMARY:RiAIP (w)
-LOCATION:AW 1
-DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260326T150000Z
 DTEND:20260326T163500Z
 SUMMARY:Tpi (ć)
@@ -3082,6 +3082,20 @@ DTEND:20260326T201500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 43/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T070000Z
+DTEND:20260327T083500Z
+SUMMARY:ZINŻ (ć)
+LOCATION:PĆT3
+DESCRIPTION:Zabezpieczenie inżynieryjne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T085000Z
+DTEND:20260327T102500Z
+SUMMARY:ZINŻ (ć)
+LOCATION:PĆT3
+DESCRIPTION:Zabezpieczenie inżynieryjne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T075000Z
@@ -3257,20 +3271,6 @@ DTEND:20260409T073500Z
 SUMMARY:REG (ć)
 LOCATION:PL.MUSZ1
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260409T075000Z
-DTEND:20260409T092500Z
-SUMMARY:ZINŻ (ć)
-LOCATION:PĆT3
-DESCRIPTION:Zabezpieczenie inżynieryjne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260409T094000Z
-DTEND:20260409T111500Z
-SUMMARY:ZINŻ (ć)
-LOCATION:PĆT3
-DESCRIPTION:Zabezpieczenie inżynieryjne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T113000Z
@@ -3586,13 +3586,6 @@ DTEND:20260423T111500Z
 SUMMARY:REG (ć)
 LOCATION:AW 1
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260423T113000Z
-DTEND:20260423T130500Z
-SUMMARY:PD (ć)
-LOCATION:AW 7
-DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T140000Z
@@ -4034,6 +4027,13 @@ DTEND:20260514T111500Z
 SUMMARY:DSiSM (Inne)
 LOCATION:BIBL /22
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (repetytorium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T113000Z
+DTEND:20260514T130500Z
+SUMMARY:PD (ć)
+LOCATION:AW 3/038
+DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T140000Z
