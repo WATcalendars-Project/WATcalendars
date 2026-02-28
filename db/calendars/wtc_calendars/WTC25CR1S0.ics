@@ -865,13 +865,6 @@ LOCATION:34/ 14
 DESCRIPTION:Laboratorium z chemii ogólnej i nieorganicznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/60\nProwadzący: dr inż. Dyjak Sławomir; mgr inż. Kapusta Adam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260331T113000Z
-DTEND:20260331T130500Z
-SUMMARY:DSiSM (w)
-LOCATION:AW 3/038
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz; mjr mgr Wójcik Paweł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260421T113000Z
 DTEND:20260421T130500Z
 SUMMARY:LCOiN (L)
@@ -2410,6 +2403,13 @@ DTEND:20260206T121500Z
 SUMMARY:Mat2 (E)
 LOCATION:19 36
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Różański Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T104000Z
+DTEND:20260313T121500Z
+SUMMARY:DSiSM (w)
+LOCATION:AW 3/038
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz; mjr mgr Wójcik Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T104000Z

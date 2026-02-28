@@ -844,13 +844,6 @@ LOCATION:166 S
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr hab. Panek Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260610T060000Z
-DTEND:20260610T073500Z
-SUMMARY:CHo (ć)
-LOCATION:108 24
-DESCRIPTION:Chemia organiczna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr inż. Harmata Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260617T060000Z
 DTEND:20260617T073500Z
 SUMMARY:Con2 (L)
@@ -940,13 +933,6 @@ DTEND:20260527T092500Z
 SUMMARY:Ek (ć)
 LOCATION:166 S
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr hab. Panek Joanna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260610T075000Z
-DTEND:20260610T092500Z
-SUMMARY:CHo (ć)
-LOCATION:108 24
-DESCRIPTION:Chemia organiczna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr inż. Harmata Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T075000Z
@@ -1583,7 +1569,7 @@ DTSTART:20260515T094000Z
 DTEND:20260515T111500Z
 SUMMARY:CHo (ć)
 LOCATION:108 24
-DESCRIPTION:Chemia organiczna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr inż. Harmata Piotr
+DESCRIPTION:Chemia organiczna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr inż. Harmata Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T094000Z
@@ -1621,6 +1607,13 @@ LOCATION:34/ 14;127A/ 14
 DESCRIPTION:Chemia ogólna i nieorganiczna II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Hara Marcin; dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260612T113000Z
+DTEND:20260612T130500Z
+SUMMARY:CHo (ć)
+LOCATION:108 24
+DESCRIPTION:Chemia organiczna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr inż. Harmata Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260522T140000Z
 DTEND:20260522T153500Z
 SUMMARY:Con2 (L)
@@ -1633,5 +1626,12 @@ DTEND:20260529T153500Z
 SUMMARY:Con2 (L)
 LOCATION:34/ 14;127A/ 14
 DESCRIPTION:Chemia ogólna i nieorganiczna II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: dr inż. Hara Marcin; dr inż. Węgłowska Dorota
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T140000Z
+DTEND:20260612T153500Z
+SUMMARY:CHo (ć)
+LOCATION:108 24
+DESCRIPTION:Chemia organiczna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr inż. Harmata Piotr
 END:VEVENT
 END:VCALENDAR
