@@ -5,7 +5,11 @@ from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeo
 from playwright.async_api import async_playwright, TimeoutError as AsyncPlaywrightTimeoutError
 
 # --- DODANY IMPORT WTYCZKI STEALTH ---
-from playwright_stealth import stealth_sync
+try:
+    from playwright_stealth import stealth_sync
+except ImportError:  # optional dependency
+    def stealth_sync(page):  # type: ignore[no-redef]
+        return None
 # -------------------------------------
 
 def scrape_html(url, user_agent=None, timeout=25000, logs=None):
@@ -17,7 +21,7 @@ def scrape_html(url, user_agent=None, timeout=25000, logs=None):
     def scrape_html_with_logs():
         html = None
         with sync_playwright() as p:
-            browser = p.firefox.launch(
+            browser = p.chromium.launch(
                 headless=True,
                 args=[
                     "--no-sandbox",
@@ -32,16 +36,8 @@ def scrape_html(url, user_agent=None, timeout=25000, logs=None):
                     user_agent=user_agent
                     or "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
                 )
-<<<<<<< HEAD
-                logs.append(f"Navigating to URL: {url}"); print(f"Navigating to URL: {url}")
-=======
-                
-                # --- AKTYWACJA TRYBU STEALTH DLA TEJ ZAKŁADKI ---
                 stealth_sync(page)
-                # ------------------------------------------------
-                
-                log_entry(f"Navigating to URL: {url}", logs)
->>>>>>> 74e6fbc8b06e65c6efda561090ce412ba9ea3b05
+                logs.append(f"Navigating to URL: {url}"); print(f"Navigating to URL: {url}")
                 t0 = time.monotonic()
                 
                 # Czekamy na załadowanie wszystkich skryptów przeciw botom
@@ -82,7 +78,6 @@ def scrape_html(url, user_agent=None, timeout=25000, logs=None):
     # Poprawka: Obliczanie długości
     html_length = len(html) if html else 0
     if html_length > 0:
-<<<<<<< HEAD
         print(f"[SUCCESS] Scraped {url} ({html_length} bytes)")
         
         # Opcjonalny DEBUG, jeśli wciąż widać dziwnie mały rozmiar pliku (<1000 bajtów).
@@ -91,9 +86,6 @@ def scrape_html(url, user_agent=None, timeout=25000, logs=None):
         #     print("\n--- DEBUG POBRANEGO PLIKU ---")
         #     print(html[:500])
         #     print("-----------------------------\n")
-=======
-        print(f"{SUCCESS} Scraped {url} ({html_length} bytes)")
->>>>>>> 74e6fbc8b06e65c6efda561090ce412ba9ea3b05
     else:
         print(f"[ERROR] Failed to scrape {url}")
         
