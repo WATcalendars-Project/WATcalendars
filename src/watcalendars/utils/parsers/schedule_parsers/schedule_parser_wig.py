@@ -1,7 +1,6 @@
 from datetime import datetime, timedelta
 import os
 from docx import Document
-from watcalendars.utils.logutils import log_entry, log, ERROR, OK
 from watcalendars.utils.config import BLOCK_TIMES, ROMAN_MONTH, DATE_TOKEN_RE, TYPE_FULL_MAP
 import re
 
@@ -72,7 +71,7 @@ def parse_wig_docx(filepath):
         try:
             doc = Document(filepath)
         except Exception as e:
-            log_entry(f"{ERROR} Failed to open DOCX: {e}", logs)
+            logs.append(f"[ERROR] Failed to open DOCX: {e}"); print(f"[ERROR] Failed to open DOCX: {e}")
             return []
 
         base_year = _pick_base_year(doc, filepath)
@@ -87,7 +86,7 @@ def parse_wig_docx(filepath):
             if doc.tables:
                 main_table = doc.tables[0]
             else:
-                log_entry(f"{ERROR} No tables in DOCX", logs)
+                logs.append(f"[ERROR] No tables in DOCX"); print(f"[ERROR] No tables in DOCX")
                 return []
 
         subject_legend_full: dict[str, str] = {}
@@ -227,7 +226,7 @@ def parse_wig_docx(filepath):
                     "lecturer": ""
                 })
 
-        log_entry(f"{OK} Parsed {len(lessons)} lessons from DOCX.", logs)
+        logs.append(f"[OK] Parsed {len(lessons)} lessons from DOCX."); print(f"[OK] Parsed {len(lessons)} lessons from DOCX.")
         return lessons
 
-    return log(f"Parsing WIG DOCX: {filepath}", parse_log)
+    return (print(f"Parsing WIG DOCX: {filepath}"), parse_log())[1]

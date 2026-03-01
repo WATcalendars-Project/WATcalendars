@@ -7,7 +7,6 @@ import os
 from typing import Dict
 
 from watcalendars import DB_DIR
-from watcalendars.utils.logutils import WARNING as W, ERROR as E
 
 
 def load_employees() -> Dict[str, str]:
@@ -21,7 +20,7 @@ def load_employees() -> Dict[str, str]:
     filename = os.path.join(DB_DIR, "employees.json")
     
     if not os.path.exists(filename):
-        print(f"{W} Employees file not found: {filename}")
+        print(f"[WARNING] Employees file not found: {filename}")
         return {}
     
     try:
@@ -43,10 +42,10 @@ def load_employees() -> Dict[str, str]:
         return employees_dict
         
     except json.JSONDecodeError as e:
-        print(f"{E} Invalid JSON in employees file: {e}")
+        print(f"[ERROR] Invalid JSON in employees file: {e}")
         return {}
     except Exception as e:
-        print(f"{E} Error loading employees: {e}")
+        print(f"[ERROR] Error loading employees: {e}")
         return {}
 
 

@@ -1,4 +1,3 @@
-from watcalendars.utils.logutils import log_entry, log, SUCCESS, WARNING, ERROR, OK
 from bs4 import BeautifulSoup
 
 def parse_wig_groups_from_subcategory(html, logs=None):
@@ -11,13 +10,13 @@ def parse_wig_groups_from_subcategory(html, logs=None):
     def parse_wig_groups_log():
         logs = []
         if not html:
-            log_entry(f"{ERROR} No HTML retrieved.", logs)
+            logs.append(f"[ERROR] No HTML retrieved."); print(f"[ERROR] No HTML retrieved.")
             return {}
 
         soup = BeautifulSoup(html, "html.parser")
         
         float_divs = soup.find_all("div", class_="pd-float")
-        log_entry(f"{OK} Found {len(float_divs)} pd-float divs.", logs)
+        logs.append(f"[OK] Found {len(float_divs)} pd-float divs."); print(f"[OK] Found {len(float_divs)} pd-float divs.")
         
         groups = {}
         for div in float_divs:
@@ -38,8 +37,8 @@ def parse_wig_groups_from_subcategory(html, logs=None):
                 if group_name:
                     groups[group_name] = full_url
         
-        log_entry(f"Parsed {len(groups)} groups.", logs)
+        logs.append(f"Parsed {len(groups)} groups."); print(f"Parsed {len(groups)} groups.")
         return groups
 
-    groups = log("Parsing HTML content for WIG groups...", parse_wig_groups_log)
+    groups = (print("Parsing HTML content for WIG groups..."), parse_wig_groups_log())[1]
     return groups

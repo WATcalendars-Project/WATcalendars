@@ -3,7 +3,6 @@ import time
 import re
 import requests
 from playwright.sync_api import sync_playwright
-from watcalendars.utils.logutils import OK, ERROR, SUCCESS, WARNING, log_entry
 
 def download_schedule_file(url, output_dir, filename, logs=None):
     """
@@ -46,7 +45,7 @@ def download_schedule_file(url, output_dir, filename, logs=None):
             with open(filepath, 'wb') as f:
                 f.write(r.content)
             size_kb = len(r.content) / 1024
-            log_entry(f"{SUCCESS} Downloaded {filename} via HTTP ({size_kb:.1f} KB)", logs)
+            logs.append(f"[SUCCESS] Downloaded {filename} via HTTP ({size_kb:.1f} KB)"); print(f"[SUCCESS] Downloaded {filename} via HTTP ({size_kb:.1f} KB)")
             return filepath
         except Exception:
             pass
@@ -81,27 +80,27 @@ def download_schedule_file(url, output_dir, filename, logs=None):
                     
                     if os.path.exists(filepath):
                         size_kb = os.path.getsize(filepath) / 1024
-                        log_entry(f"{SUCCESS} Downloaded {filename} ({size_kb:.1f} KB)", logs)
+                        logs.append(f"[SUCCESS] Downloaded {filename} ({size_kb:.1f} KB)"); print(f"[SUCCESS] Downloaded {filename} ({size_kb:.1f} KB)")
                         context.close()
                         browser.close()
                         return filepath
                     else:
-                        log_entry(f"{ERROR} File not saved: {filename}", logs)
+                        logs.append(f"[ERROR] File not saved: {filename}"); print(f"[ERROR] File not saved: {filename}")
                         context.close()
                         browser.close()
                         return None
                 else:
-                    log_entry(f"{ERROR} Download did not start for: {filename}", logs)
+                    logs.append(f"[ERROR] Download did not start for: {filename}"); print(f"[ERROR] Download did not start for: {filename}")
                     context.close()
                     browser.close()
                     return None
                     
             except Exception as e:
-                log_entry(f"{ERROR} Failed to download {filename}: {str(e)[:100]}", logs)
+                logs.append(f"[ERROR] Failed to download {filename}: {str(e)[:100]}"); print(f"[ERROR] Failed to download {filename}: {str(e)[:100]}")
                 context.close()
                 browser.close()
                 return None
         
     except Exception as e:
-        log_entry(f"{ERROR} Error downloading {filename}: {str(e)[:100]}", logs)
+        logs.append(f"[ERROR] Error downloading {filename}: {str(e)[:100]}"); print(f"[ERROR] Error downloading {filename}: {str(e)[:100]}")
         return None

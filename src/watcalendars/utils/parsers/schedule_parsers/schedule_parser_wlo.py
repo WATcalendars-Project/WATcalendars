@@ -8,7 +8,6 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 from watcalendars.utils.config import BLOCK_TIMES, ROMAN_MONTH, DATE_TOKEN_RE, TYPE_FULL_MAP, DAY_ALIASES, TYPE_SYMBOLS
 from watcalendars.utils.employees_loader import load_employees
-from watcalendars.utils.logutils import log_parsing, WARNING as W, log_entry, OK, ERROR, SUCCESS
 
 
 def extract_legend(soup: BeautifulSoup) -> list[tuple[str, str, list[str]]]:
@@ -302,16 +301,16 @@ def parse_schedules(html_map):
         for group_id, html in html_map.items():
             lessons = parse_schedule(html)
             schedules[group_id] = lessons
-            log_entry(f"Parsing {group_id} completed.")
+            print(f"Parsing {group_id} completed.")
             events_done += len(lessons)
             groups_done += 1
         return schedules
         
-    schedules = log_parsing("Parsing schedules", log_parse_schedule, progress_fn=progress)
+    schedules = (print("Parsing schedules"), log_parse_schedule())[1]
     parsed_total = sum(len(lessons or []) for lessons in schedules.values())
     if parsed_total > 0:
-        print(f"{SUCCESS} Summary: Parsed events: {parsed_total} across {len(schedules)} groups")
+        print(f"[SUCCESS] Summary: Parsed events: {parsed_total} across {len(schedules)} groups")
     else:
-        print(f"{ERROR} No events parsed.")
+        print(f"[ERROR] No events parsed.")
     return schedules
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

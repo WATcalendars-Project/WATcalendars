@@ -1,20 +1,8 @@
 import os
 import time
 import asyncio
-from watcalendars.utils.logutils import (
-    log_entry,
-    log,
-    SUCCESS,
-    WARNING,
-    ERROR,
-    OK,
-    start_spinner,
-    spinner_progress,
-    log_parsing,
-)
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 from playwright.async_api import async_playwright, TimeoutError as AsyncPlaywrightTimeoutError
-from watcalendars.utils.writers.screenshot_writer import save_screenshot_async, get_target_dir
 
 
 def scrape_html(url, user_agent=None, timeout=25000, logs=None):
@@ -26,7 +14,7 @@ def scrape_html(url, user_agent=None, timeout=25000, logs=None):
     def scrape_html_with_logs():
         html = None
         with sync_playwright() as p:
-            browser = p.chromium.launch(
+            browser = p.firefox.launch(
                 headless=True,
                 args=[
                     "--no-sandbox",
@@ -36,21 +24,18 @@ def scrape_html(url, user_agent=None, timeout=25000, logs=None):
                 ],
             )
             try:
-                log_entry("Browser launched (chromium, headless=True).", logs)
+                logs.append("Browser launched (chromium, headless=True)."); print("Browser launched (chromium, headless=True).")
                 page = browser.new_page(
                     user_agent=user_agent
                     or "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
                 )
-                log_entry(f"Navigating to URL: {url}", logs)
+                logs.append(f"Navigating to URL: {url}"); print(f"Navigating to URL: {url}")
                 t0 = time.monotonic()
                 resp = page.goto(url, timeout=timeout)
                 elapsed_ms = int((time.monotonic() - t0) * 1000)
                 status = resp.status if resp else None
                 ok = getattr(resp, "ok", None) if resp else None
-                log_entry(
-                    f"Navigation done: status={status}, ok={ok}, elapsed_ms={elapsed_ms}",
-                    logs,
-                )
+                logs.append(f"Navigation done: status={status}, ok={ok}, elapsed_ms={elapsed_ms}"); print(f"Navigation done: status={status}, ok={ok}, elapsed_ms={elapsed_ms}")
                 
                 # --- KLUCZOWA ZMIANA: Obsługa surowych bajtów (odpowiedź XML/JSON z polskim kodowaniem) ---
                 if resp:
@@ -58,31 +43,31 @@ def scrape_html(url, user_agent=None, timeout=25000, logs=None):
                         # Próbujemy odczytać bezpośrednio bajty i wymuszamy dekodowanie windows-1250 (używane na WAT)
                         html = resp.body().decode('windows-1250', errors='replace')
                     except Exception as e:
-                        log_entry(f"{WARNING} Failed to decode body (falling back to content): {e}", logs)
+                        logs.append(f"[WARNING] Failed to decode body (falling back to content): {e}"); print(f"[WARNING] Failed to decode body (falling back to content): {e}")
                         html = page.content()
                 else:
                     html = page.content()
                 # -----------------------
 
-                log_entry("Getting page content.", logs)
+                logs.append("Getting page content."); print("Getting page content.")
             except PlaywrightTimeoutError as e:
-                log_entry(f"{WARNING} Timeout navigating to {url}: {e}", logs)
+                logs.append(f"[WARNING] Timeout navigating to {url}: {e}"); print(f"[WARNING] Timeout navigating to {url}: {e}")
                 raise
             except Exception as e:
-                log_entry(f"{ERROR} Unhandled error while scraping {url}: {e}", logs)
+                logs.append(f"[ERROR] Unhandled error while scraping {url}: {e}"); print(f"[ERROR] Unhandled error while scraping {url}: {e}")
                 raise
             finally:
                 browser.close()
-                log_entry("Closing browser.", logs)
+                logs.append("Closing browser."); print("Closing browser.")
         return html, logs
 
     # Wypakowujemy wyniki z dekoratora logów
-    html, logs = log("Scraping...", scrape_html_with_logs)
+    html, logs = (print("Scraping..."), scrape_html_with_logs())[1]
     
     # Poprawka: Obliczanie długości
     html_length = len(html) if html else 0
     if html_length > 0:
-        print(f"{SUCCESS} Scraped {url} ({html_length} bytes)")
+        print(f"[SUCCESS] Scraped {url} ({html_length} bytes)")
         
         # Opcjonalny DEBUG, jeśli wciąż widać dziwnie mały rozmiar pliku (<1000 bajtów).
         # Odkomentuj 3 linijki poniżej, jeśli scraper nie znajdzie grup, by zobaczyć co naprawdę pobrał.
@@ -91,14 +76,14 @@ def scrape_html(url, user_agent=None, timeout=25000, logs=None):
         #     print(html[:500])
         #     print("-----------------------------\n")
     else:
-        print(f"{ERROR} Failed to scrape {url}")
+        print(f"[ERROR] Failed to scrape {url}")
         
     return html, logs
 
 
 def fetch_group_html(browser, idx, total, group, url, faculty_prefix="", logs=None, timeout=25000, wait_timeout=5000):
     """
-    Sync scraper for a single group with retries and screenshot saving (success/fail).
+    Sync scraper for a single group with retries.
     Optimized for speed with configurable timeouts.
 
     Args:
@@ -141,20 +126,19 @@ def fetch_group_html(browser, idx, total, group, url, faculty_prefix="", logs=No
             if len(html) < 200:  
                 raise Exception("Page content too short")
             
-            log_entry(f"{SUCCESS} Scraping {group} completed.", logs)
+            logs.append(f"[SUCCESS] Scraping {group} completed."); print(f"[SUCCESS] Scraping {group} completed.")
             
-            # (Uwaga: upewnij się, że masz zdefiniowaną funkcję save_screenshot, w importach widać save_screenshot_async)
-            # save_screenshot(page, group, faculty_prefix) 
+             
             break
             
         except PlaywrightTimeoutError as e:
             retry_count += 1
-            log_entry(f"{WARNING} Timeout for {group} (retry {retry_count}/{max_retries})", logs)
+            logs.append(f"[WARNING] Timeout for {group} (retry {retry_count}/{max_retries})"); print(f"[WARNING] Timeout for {group} (retry {retry_count}/{max_retries})")
             if retry_count < max_retries:
                 time.sleep(2)  
         except Exception as e:
             retry_count += 1
-            log_entry(f"{WARNING} Error for {group} (retry {retry_count}/{max_retries}): {str(e)[:50]}...", logs)
+            logs.append(f"[WARNING] Error for {group} (retry {retry_count}/{max_retries}): {str(e)[:50]}..."); print(f"[WARNING] Error for {group} (retry {retry_count}/{max_retries}): {str(e)[:50]}...")
             if retry_count < max_retries:
                 time.sleep(1)  
             
@@ -165,12 +149,9 @@ def fetch_group_html(browser, idx, total, group, url, faculty_prefix="", logs=No
                 pass  
                 
         if retry_count >= max_retries:
-            log_entry(f"{ERROR} Failed to scrape group {group} after {max_retries} attempts", logs)
-            try:
-                if 'page' in locals() and page:
-                    # save_screenshot(page, group, faculty_prefix)
-                    pass
-            except Exception:
-                print(f"{ERROR} Failed to save screenshot for {group}")
+            logs.append(f"[ERROR] Failed to scrape group {group} after {max_retries} attempts"); print(f"[ERROR] Failed to scrape group {group} after {max_retries} attempts")
+            
                 
     return html
+
+

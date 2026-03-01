@@ -1,6 +1,5 @@
 import os
 import json
-from watcalendars.utils.logutils import OK, ERROR, log, log_entry, SUCCESS
 from watcalendars.utils.url_loader import load_url_from_config
 
 def save_groups_json(groups, groups_dir, filename_prefix, url_config_path, schedule_key, schedule_type):
@@ -18,24 +17,24 @@ def save_groups_json(groups, groups_dir, filename_prefix, url_config_path, sched
     def save_groups_json_log():
         logs = []
         filename = os.path.join(groups_dir, f"{filename_prefix}_groups_url.json")
-        log_entry(f"Making file for saving groups. ", logs)
+        logs.append(f"Making file for saving groups. "); print(f"Making file for saving groups. ")
         url_template, _ = load_url_from_config(url_config_path, schedule_key, schedule_type)
-        log_entry(f"Loading url for groups.", logs)
+        logs.append(f"Loading url for groups."); print(f"Loading url for groups.")
         if not url_template:
-            log_entry(f"{ERROR} Cannot get URL template for {schedule_key}/{schedule_type}", logs)
+            logs.append(f"[ERROR] Cannot get URL template for {schedule_key}/{schedule_type}"); print(f"[ERROR] Cannot get URL template for {schedule_key}/{schedule_type}")
             return
 
         groups_dict = {g: url_template.replace("{group}", g) for g in sorted(groups)}
         try:
-            log_entry(f"Open file for writing.", logs)
+            logs.append(f"Open file for writing."); print(f"Open file for writing.")
             with open(filename, 'w', encoding='utf-8') as f:
                 json.dump(groups_dict, f, indent=2, ensure_ascii=False)
         except Exception as e:
-            print(f"{ERROR} {e}")
+            print(f"[ERROR] {e}")
         return groups_dict, filename, logs
 
-    groups_dict, filename, logs = log("Saving groups...", save_groups_json_log)
+    groups_dict, filename, logs = (print("Saving groups..."), save_groups_json_log())[1]
     if os.path.exists(os.path.join(groups_dir, f"{filename_prefix}_groups_url.json")):
-        log_entry(f"{SUCCESS} Saved {len(groups_dict)} {filename_prefix.upper()} group/url pairs to '{os.path.abspath(filename)}'.", logs)  
+        logs.append(f"[SUCCESS] Saved {len(groups_dict)} {filename_prefix.upper()} group/url pairs to '{os.path.abspath(filename)}'."); print(f"[SUCCESS] Saved {len(groups_dict)} {filename_prefix.upper()} group/url pairs to '{os.path.abspath(filename)}'.")  
     else:
-        log_entry(f"{ERROR} Failed to save {filename_prefix.upper()} groups to '{os.path.abspath(filename)}'.", logs)
+        logs.append(f"[ERROR] Failed to save {filename_prefix.upper()} groups to '{os.path.abspath(filename)}'."); print(f"[ERROR] Failed to save {filename_prefix.upper()} groups to '{os.path.abspath(filename)}'.")

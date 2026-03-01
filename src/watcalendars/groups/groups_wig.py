@@ -4,7 +4,6 @@ import json
 from datetime import datetime
 
 from watcalendars import DB_DIR, GROUPS_DIR, GROUPS_CONFIG
-from watcalendars.utils.logutils import OK, ERROR, SUCCESS, WARNING
 from watcalendars.utils.connection import test_connection_with_monitoring
 from watcalendars.utils.url_loader import load_url_from_config
 from watcalendars.utils.scraper import scrape_html
@@ -24,7 +23,7 @@ if __name__ == '__main__':
     )
     
     if not url:
-        print(f"{ERROR} Failed to load URL from config.")
+        print(f"[ERROR] Failed to load URL from config.")
         exit(1)
     
     test_connection_with_monitoring(url, description)
@@ -37,7 +36,7 @@ if __name__ == '__main__':
 
         print(f"Parsing {len(html)} bytes of HTML:")
         subcategories = parse_wig_subcategories(html, logs)
-        print(f"{SUCCESS} Collected {len(subcategories)} WIG subcategories.")
+        print(f"[SUCCESS] Collected {len(subcategories)} WIG subcategories.")
         print("")
 
         if subcategories:
@@ -66,18 +65,18 @@ if __name__ == '__main__':
                     groups = parse_wig_groups_from_subcategory(sub_html, sub_logs)
                     
                     if groups:
-                        print(f"    {SUCCESS} Found {len(groups)} groups")
+                        print(f"    [SUCCESS] Found {len(groups)} groups")
                         
                         for group_name, download_url in groups.items():
                             all_groups[group_name] = download_url
                         
                         print("")
                     else:
-                        print(f"    {WARNING} No groups found in this subcategory")
+                        print(f"    [WARNING] No groups found in this subcategory")
                         print("")
                         
                 except Exception as e:
-                    print(f"    {ERROR} Failed to process subcategory: {e}")
+                    print(f"    [ERROR] Failed to process subcategory: {e}")
                     print("")
                     continue
             
@@ -90,14 +89,14 @@ if __name__ == '__main__':
             with open(groups_json_path, 'w', encoding='utf-8') as f:
                 json.dump(all_groups, f, indent=2, ensure_ascii=False)
             
-            print(f"{SUCCESS} Saved {len(all_groups)} groups to '{groups_json_path}'")
+            print(f"[SUCCESS] Saved {len(all_groups)} groups to '{groups_json_path}'")
             print("")
             
         else:
-            print(f"{ERROR} No subcategories to process.")
+            print(f"[ERROR] No subcategories to process.")
             
     except Exception as e:
-        print(f"{ERROR} {e}")
+        print(f"[ERROR] {e}")
         import traceback
         traceback.print_exc()
     print("")

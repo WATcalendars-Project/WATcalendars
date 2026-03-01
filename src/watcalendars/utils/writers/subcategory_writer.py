@@ -1,6 +1,5 @@
 import os
 import json
-from watcalendars.utils.logutils import OK, ERROR, log, log_entry, SUCCESS
 
 def save_subcategories_json(subcategories, output_dir, filename):
     """
@@ -15,27 +14,27 @@ def save_subcategories_json(subcategories, output_dir, filename):
         logs = []
         
         os.makedirs(output_dir, exist_ok=True)
-        log_entry(f"Ensuring output directory exists: {output_dir}", logs)
+        logs.append(f"Ensuring output directory exists: {output_dir}"); print(f"Ensuring output directory exists: {output_dir}")
         
         full_path = os.path.join(output_dir, filename)
-        log_entry(f"Preparing to save to file: {full_path}", logs)
+        logs.append(f"Preparing to save to file: {full_path}"); print(f"Preparing to save to file: {full_path}")
         
         try:
-            log_entry(f"Opening file for writing.", logs)
+            logs.append(f"Opening file for writing."); print(f"Opening file for writing.")
             with open(full_path, 'w', encoding='utf-8') as f:
                 json.dump(subcategories, f, indent=2, ensure_ascii=False)
-            log_entry(f"{SUCCESS} Saved {len(subcategories)} subcategory/url pairs.", logs)
+            logs.append(f"[SUCCESS] Saved {len(subcategories)} subcategory/url pairs."); print(f"[SUCCESS] Saved {len(subcategories)} subcategory/url pairs.")
         except Exception as e:
-            log_entry(f"{ERROR} {e}", logs)
+            logs.append(f"[ERROR] {e}"); print(f"[ERROR] {e}")
             raise
         
         return full_path, logs
 
-    full_path, logs = log("Saving subcategories...", save_subcategories_json_log)
+    full_path, logs = (print("Saving subcategories..."), save_subcategories_json_log())[1]
     
     if os.path.exists(full_path):
-        log_entry(f"{SUCCESS} File successfully saved to '{os.path.abspath(full_path)}'.", logs)  
+        logs.append(f"[SUCCESS] File successfully saved to '{os.path.abspath(full_path)}'."); print(f"[SUCCESS] File successfully saved to '{os.path.abspath(full_path)}'.")  
     else:
-        log_entry(f"{ERROR} Failed to save file to '{os.path.abspath(full_path)}'.", logs)
+        logs.append(f"[ERROR] Failed to save file to '{os.path.abspath(full_path)}'."); print(f"[ERROR] Failed to save file to '{os.path.abspath(full_path)}'.")
     
     return full_path

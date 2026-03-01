@@ -4,7 +4,6 @@ Universal asynchronous web scraper for all WAT departments
 import asyncio
 import time
 from playwright.async_api import async_playwright
-from watcalendars.utils.logutils import OK, WARNING, ERROR, log_entry, start_spinner
 
 
 class AsyncScraper:
@@ -59,19 +58,19 @@ class AsyncScraper:
                 html = await page.content()
                 
                 if retry_count == 0:
-                    log_entry(f"{OK} Scraping {identifier} completed.", logs)
+                    logs.append(f"[OK] Scraping {identifier} completed."); print(f"[OK] Scraping {identifier} completed.")
                 else:
-                    log_entry(f"{OK} Scraping {identifier} completed after {retry_count} retries.", logs)
+                    logs.append(f"[OK] Scraping {identifier} completed after {retry_count} retries."); print(f"[OK] Scraping {identifier} completed after {retry_count} retries.")
                 break
                 
             except Exception as e:
                 retry_count += 1
-                log_entry(f"{WARNING} Timeout for {identifier} (retry {retry_count}/{max_retries})", logs)
+                logs.append(f"[WARNING] Timeout for {identifier} (retry {retry_count}/{max_retries})"); print(f"[WARNING] Timeout for {identifier} (retry {retry_count}/{max_retries})")
                 
                 if retry_count < max_retries:
                     await asyncio.sleep(2)
                 else:
-                    log_entry(f"{ERROR} Failed to scrape {identifier} after {max_retries} attempts: {e}", logs)
+                    logs.append(f"[ERROR] Failed to scrape {identifier} after {max_retries} attempts: {e}"); print(f"[ERROR] Failed to scrape {identifier} after {max_retries} attempts: {e}")
         
         return html, logs
 
@@ -97,15 +96,10 @@ class AsyncScraper:
         all_logs = []
 
         async with async_playwright() as p:
-            browser = await p.chromium.launch(headless=True, args=self.browser_args)
+            browser = await p.firefox.launch(headless=True, args=self.browser_args)
             context = await browser.new_context()
 
-            stop_event, spinner_task = start_spinner(
-                f"{progress_label} groups for", 
-                len(url_pairs), 
-                lambda: done, 
-                interval=0.2
-            )
+            print(f"{progress_label} groups for ({len(url_pairs)} items)...")
 
             async def worker(idx_pair):
                 nonlocal done
@@ -127,7 +121,7 @@ class AsyncScraper:
                             try:
                                 await screenshot_callback(page, identifier)
                             except Exception as e:
-                                print(f"{WARNING} Failed to save screenshot for {identifier}: {e}")
+                                print(f"[WARNING] Failed to save screenshot for {identifier}: {e}")
 
                     finally:
                         await page.close()
@@ -137,10 +131,7 @@ class AsyncScraper:
             try:
                 await asyncio.gather(*[worker(item) for item in enumerate(url_pairs)])
             
-            finally:
-                stop_event.set()
-                await spinner_task
-                await browser.close()
+            finally:                await browser.close()
 
         return results
 
@@ -163,15 +154,9 @@ class AsyncScraper:
         done_lock = asyncio.Lock()
 
         async with async_playwright() as p:
-            browser = await p.chromium.launch(headless=True, args=self.browser_args)
+            browser = await p.firefox.launch(headless=True, args=self.browser_args)
             context = await browser.new_context()
-
-            stop_event, spinner_task = start_spinner(
-                progress_label, 
-                len(url_pairs), 
-                lambda: done, 
-                interval=0.2
-            )
+            print(f"{progress_label} ({len(url_pairs)} items)...")
 
             async def worker(idx_pair):
                 nonlocal done
@@ -192,10 +177,7 @@ class AsyncScraper:
             try:
                 await asyncio.gather(*[worker(item) for item in enumerate(url_pairs)])
             
-            finally:
-                stop_event.set()
-                await spinner_task
-                await browser.close()
+            finally:                await browser.close()
 
         return results
 
@@ -222,3 +204,4 @@ async def scrape_urls_async(url_pairs, concurrency: int = 10, progress_label: st
         save_screenshots=save_screenshots,
         screenshot_callback=screenshot_callback
     )
+

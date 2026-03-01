@@ -10,6 +10,11 @@
 				"$eslint-stylish"
 			],
 			"group": "build"
+		},
+		{
+			"label": "Run groups_wlo.py",
+			"type": "shell",
+			"command": "$env:PYTHONPATH=\"src\"; .venv/Scripts/python.exe -m watcalendars.groups.groups_wlo"
 		}
 	]
 }

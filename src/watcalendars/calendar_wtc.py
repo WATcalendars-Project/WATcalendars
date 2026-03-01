@@ -10,7 +10,6 @@ from watcalendars import DB_DIR, GROUPS_CONFIG, SCHEDULES_CONFIG
 from watcalendars.utils.async_scraper import scrape_urls_async
 from watcalendars.utils.parsers.schedule_parsers.schedule_parser_wtc import parse_schedules
 from watcalendars.utils.writers.ics_writer import save_all_schedules, normalize_lesson_data
-from watcalendars.utils.writers.screenshot_writer import save_screenshot_async
 from watcalendars.utils.connection import test_connection_with_monitoring
 from watcalendars.utils.url_loader import load_url_from_config
 from watcalendars.utils.groups_loader import load_groups
@@ -37,9 +36,6 @@ def get_wtc_group_urls():
     return result
 
 
-async def screenshot_callback(page, identifier):
-    """Save screenshot for a group."""
-    await save_screenshot_async(page, identifier, "wtc")
 
 
 async def main():
@@ -53,12 +49,12 @@ async def main():
         config_file=GROUPS_CONFIG, key="wtc_groups", url_type="url"
     )
     print(f"URL: {url}")
-    test_connection_with_monitoring(url, description)
+    await asyncio.to_thread(test_connection_with_monitoring, url, description)
     print("")
     
     pairs = get_wtc_group_urls()
     if not pairs:
-        print("==> ERROR: No WTC groups found.")
+        print("[ERROR] No WTC groups found.")
         return
 
     print("Scraping group URLs:")
@@ -70,10 +66,7 @@ async def main():
     
     html_results = await scrape_urls_async(
         pairs, 
-        progress_label="Scraping groups for wtc groups for groups for",
-        save_screenshots=True,
-        screenshot_callback=screenshot_callback
-    )
+        progress_label="Scraping groups for wtc groups for groups for")
     print("")
     
     schedules = parse_schedules(html_results)

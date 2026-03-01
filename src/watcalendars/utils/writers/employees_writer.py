@@ -9,7 +9,6 @@ from datetime import datetime
 from typing import List, Tuple
 
 from watcalendars import DB_DIR
-from watcalendars.utils.logutils import OK, WARNING as W, ERROR as E, log_entry, log, SUCCESS
 
 
 def save_employees_to_json(employees: List[Tuple[str, str]]) -> None:
@@ -42,13 +41,13 @@ def save_employees_to_json(employees: List[Tuple[str, str]]) -> None:
                             name = emp["name"].replace(" [NEW]", "").strip()
                             existing_employees.add((emp["degree"], name))
                 
-                log_entry(f"Reading existing employees... Done.", logs)
-                log_entry(f"Existing employees loaded: {len(existing_employees)}", logs)
+                logs.append(f"Reading existing employees... Done."); print(f"Reading existing employees... Done.")
+                logs.append(f"Existing employees loaded: {len(existing_employees)}"); print(f"Existing employees loaded: {len(existing_employees)}")
             except (json.JSONDecodeError, KeyError) as e:
-                log_entry(f"{W} Error reading existing data, starting fresh: {e}", logs)
+                logs.append(f"[WARNING] Error reading existing data, starting fresh: {e}"); print(f"[WARNING] Error reading existing data, starting fresh: {e}")
                 existing_data = {}
             except Exception as e:
-                log_entry(f"{E} Unexpected error reading file: {e}", logs)
+                logs.append(f"[ERROR] Unexpected error reading file: {e}"); print(f"[ERROR] Unexpected error reading file: {e}")
                 existing_data = {}
 
         normalized_employees = set()
@@ -58,13 +57,13 @@ def save_employees_to_json(employees: List[Tuple[str, str]]) -> None:
             if normalized_degree and normalized_name:
                 normalized_employees.add((normalized_degree, normalized_name))
         
-        log_entry(f"Normalizing employee data.", logs)
-        log_entry(f"Current employees to save: {len(normalized_employees)}", logs)
+        logs.append(f"Normalizing employee data."); print(f"Normalizing employee data.")
+        logs.append(f"Current employees to save: {len(normalized_employees)}"); print(f"Current employees to save: {len(normalized_employees)}")
         
         new_employees = normalized_employees - existing_employees
         all_employees = existing_employees | normalized_employees
         
-        log_entry(f"New employees detected: {len(new_employees)}", logs)
+        logs.append(f"New employees detected: {len(new_employees)}"); print(f"New employees detected: {len(new_employees)}")
         
         employee_list = []
         for degree, full_name in sorted(all_employees):
@@ -91,19 +90,19 @@ def save_employees_to_json(employees: List[Tuple[str, str]]) -> None:
         
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(json_data, f, ensure_ascii=False, indent=2, sort_keys=True)
-            log_entry(f"Writing JSON data to '{os.path.abspath(filename)}'... Done.", logs)
+            logs.append(f"Writing JSON data to '{os.path.abspath(filename)}'... Done."); print(f"Writing JSON data to '{os.path.abspath(filename)}'... Done.")
         
         return len(new_employees), len(all_employees)
 
     try:
-        new_count, total_count = log(f"Saving employees...", save_log)
+        new_count, total_count = (print(f"Saving employees..."), save_log())[1]
         
         if new_count > 0:
-            print(f"{SUCCESS} Summary: Saved {new_count} new employees (marked with [NEW]) in '{os.path.abspath(filename)}'.")
+            print(f"[SUCCESS] Summary: Saved {new_count} new employees (marked with [NEW]) in '{os.path.abspath(filename)}'.")
         else:
-            print(f"{SUCCESS} Summary: No new employees found since last run.")
+            print(f"[SUCCESS] Summary: No new employees found since last run.")
         
         print(f"Total employees in '{os.path.abspath(filename)}' ({total_count})")
         
     except Exception as e:
-        print(f"{E} Error saving employees: {e}")
+        print(f"[ERROR] Error saving employees: {e}")

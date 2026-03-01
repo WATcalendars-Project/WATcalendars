@@ -1,4 +1,3 @@
-from watcalendars.utils.logutils import log_entry, log, SUCCESS, WARNING, ERROR, OK
 from bs4 import BeautifulSoup
 
 def parse_wig_subcategories(html, logs=None):
@@ -11,14 +10,14 @@ def parse_wig_subcategories(html, logs=None):
     def parse_wig_subcategories_log():
         logs = []
         if not html:
-            log_entry(f"{ERROR} No HTML retrieved.", logs)
+            logs.append(f"[ERROR] No HTML retrieved."); print(f"[ERROR] No HTML retrieved.")
             return {}
 
         soup = BeautifulSoup(html, "html.parser")
         
         # Find all span elements with class="pd-subcategory"
         subcategory_spans = soup.find_all("span", class_="pd-subcategory")
-        log_entry(f"{OK} Found {len(subcategory_spans)} subcategory elements.", logs)
+        logs.append(f"[OK] Found {len(subcategory_spans)} subcategory elements."); print(f"[OK] Found {len(subcategory_spans)} subcategory elements.")
         
         subcategories = {}
         for span in subcategory_spans:
@@ -43,8 +42,8 @@ def parse_wig_subcategories(html, logs=None):
                     if name:
                         subcategories[name] = full_url
         
-        log_entry(f"Parsed {len(subcategories)} subcategories.", logs)
+        logs.append(f"Parsed {len(subcategories)} subcategories."); print(f"Parsed {len(subcategories)} subcategories.")
         return subcategories
 
-    subcategories = log("Parsing HTML content for WIG subcategories...", parse_wig_subcategories_log)
+    subcategories = (print("Parsing HTML content for WIG subcategories..."), parse_wig_subcategories_log())[1]
     return subcategories

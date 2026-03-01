@@ -3,7 +3,6 @@ import time
 from datetime import datetime
 
 from watcalendars import DB_DIR, GROUPS_DIR, GROUPS_CONFIG, SCHEDULES_CONFIG
-from watcalendars.utils.logutils import OK, ERROR, SUCCESS
 from watcalendars.utils.connection import test_connection_with_monitoring
 from watcalendars.utils.url_loader import load_url_from_config
 from watcalendars.utils.scraper import scrape_html
@@ -30,7 +29,7 @@ if __name__ == '__main__':
 
         print(f"Parsing {len(html)} bytes of HTML:")
         groups = parse_wlo_groups(html, logs)
-        print(f"{SUCCESS} Collected {len(groups)} WLO groups.")
+        print(f"[SUCCESS] Collected {len(groups)} WLO groups.")
         print("")
 
         if groups:
@@ -43,9 +42,9 @@ if __name__ == '__main__':
                 schedule_type="url_lato"
             )
         else:
-            print(f"{ERROR} No data to save.")
+            print(f"[ERROR] No data to save.")
     except Exception as e:
-        print(f"{ERROR} {e}")
+        print(f"[ERROR] {e}")
     print("")
 
     duration = time.time() - start_time
