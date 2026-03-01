@@ -43,7 +43,13 @@ def scrape_html(url, user_agent=None, timeout=25000, logs=None):
                 )
                 log_entry(f"Navigating to URL: {url}", logs)
                 t0 = time.monotonic()
-                resp = page.goto(url, timeout=timeout)
+                
+                # Czekamy na załadowanie wszystkich skryptów przeciw botom
+                resp = page.goto(url, timeout=timeout, wait_until="networkidle")
+                
+                # Dajemy Incapsuli czas na ustawienie ciastek i przeładowanie ukrytej ramki/strony
+                page.wait_for_timeout(3500) 
+
                 elapsed_ms = int((time.monotonic() - t0) * 1000)
                 status = resp.status if resp else None
                 ok = getattr(resp, "ok", None) if resp else None
@@ -52,17 +58,14 @@ def scrape_html(url, user_agent=None, timeout=25000, logs=None):
                     logs,
                 )
                 
-                # --- KLUCZOWA ZMIANA: Obsługa surowych bajtów (odpowiedź XML/JSON z polskim kodowaniem) ---
                 if resp:
                     try:
-                        # Próbujemy odczytać bezpośrednio bajty i wymuszamy dekodowanie windows-1250 (używane na WAT)
                         html = resp.body().decode('windows-1250', errors='replace')
                     except Exception as e:
                         log_entry(f"{WARNING} Failed to decode body (falling back to content): {e}", logs)
                         html = page.content()
                 else:
                     html = page.content()
-                # -----------------------
 
                 log_entry("Getting page content.", logs)
             except PlaywrightTimeoutError as e:
