@@ -12,7 +12,7 @@ except ImportError:  # optional dependency
         return None
 # -------------------------------------
 
-def scrape_html(url, user_agent=None, timeout=25000, logs=None):
+def scrape_html(url, user_agent=None, timeout=60000, logs=None):
     """
     Synchronous fallback scraper (chromium headless).
     """
@@ -41,7 +41,7 @@ def scrape_html(url, user_agent=None, timeout=25000, logs=None):
                 t0 = time.monotonic()
                 
                 # Czekamy na załadowanie wszystkich skryptów przeciw botom
-                resp = page.goto(url, timeout=timeout, wait_until="networkidle")
+                resp = page.goto(url, timeout=timeout, wait_until="load")
                 
                 # Dajemy Incapsuli czas na ustawienie ciastek i przeładowanie ukrytej ramki/strony
                 page.wait_for_timeout(3500) 

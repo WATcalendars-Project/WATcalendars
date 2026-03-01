@@ -54,6 +54,7 @@ if __name__ == '__main__':
             print("")
             
             all_groups = {}
+            groups_by_subcategory = {}
             
             for idx, (subcategory_name, subcategory_url) in enumerate(subcategories.items(), 1):
                 print(f"[{idx}/{len(subcategories)}] Processing: {subcategory_name}")
@@ -66,6 +67,9 @@ if __name__ == '__main__':
                     
                     if groups:
                         print(f"    [SUCCESS] Found {len(groups)} groups")
+                        
+                        # Store groups under their subcategory
+                        groups_by_subcategory[subcategory_name] = groups
                         
                         for group_name, download_url in groups.items():
                             all_groups[group_name] = download_url
@@ -85,11 +89,29 @@ if __name__ == '__main__':
             print(f"{'='*80}")
             print("")
             
+            # --- Save all groups to a single file ---
             groups_json_path = os.path.join(GROUPS_DIR, "wig_groups_url.json")
             with open(groups_json_path, 'w', encoding='utf-8') as f:
                 json.dump(all_groups, f, indent=2, ensure_ascii=False)
             
             print(f"[SUCCESS] Saved {len(all_groups)} groups to '{groups_json_path}'")
+            print("")
+
+            # --- Save groups by subcategory ---
+            wig_groups_dir = os.path.join(GROUPS_DIR, "wig_groups_url")
+            if not os.path.exists(wig_groups_dir):
+                os.makedirs(wig_groups_dir)
+
+            for subcategory_name, groups in groups_by_subcategory.items():
+                # Sanitize subcategory_name to be a valid filename
+                safe_filename = "".join(c for c in subcategory_name if c.isalnum() or c in (' ', '_')).rstrip()
+                safe_filename = safe_filename.replace(' ', '_') + "_url.json"
+                
+                subcategory_json_path = os.path.join(wig_groups_dir, safe_filename)
+                with open(subcategory_json_path, 'w', encoding='utf-8') as f:
+                    json.dump(groups, f, indent=2, ensure_ascii=False)
+                print(f"[SUCCESS] Saved {len(groups)} groups for subcategory '{subcategory_name}' to '{subcategory_json_path}'")
+
             print("")
             
         else:

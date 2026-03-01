@@ -28,6 +28,12 @@ def parse_wlo_groups(html, logs=None):
         logs.append(f"[OK] Found {len(gro_tags)} <gro>/<pod>/<a> elements."); print(f"[OK] Found {len(gro_tags)} <gro>/<pod>/<a> elements.")
 
         groups = set()
+        
+        # Pattern to identify and exclude teachers
+        teacher_pattern = r'^_?(mgr|dr|prof|plk|pplk|mjr|kpt|por|inz|chor|ml\._chor)\b'
+        # Pattern to identify and exclude rooms/locations
+        room_pattern = r'^(s\d+|n\d+|aula|bibl|hala|sala|\d{1,3}[a-zA-Z]?_S$)'
+
         for gro in gro_tags:
             href = gro.get('href', '')
             if not href.lower().endswith(('.htm', '.html')):
@@ -38,9 +44,8 @@ def parse_wlo_groups(html, logs=None):
             if not base_no_ext:
                 continue
                 
-            # Odsianie linków bezpośrenio do planów wykładowców (zwykle n<liczba>.htm) i sal (s<liczba>.htm)
-            # W przypadku tagów <a> mogą się pojawić, dlatego trzeba uważać
-            if gro.name == 'a' and re.match(r'^[ns]\d+$', base_no_ext, re.IGNORECASE):
+            # Exclude links directly to teacher or room schedules
+            if re.match(teacher_pattern, base_no_ext, re.IGNORECASE) or re.match(room_pattern, base_no_ext, re.IGNORECASE):
                 continue
                 
             token = '_'.join(base_no_ext.split())
