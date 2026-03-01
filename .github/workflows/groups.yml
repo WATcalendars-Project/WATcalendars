@@ -24,6 +24,7 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install -e .
+          pip install playwright-stealth
       
       - name: Install Playwright browsers
         run: |
