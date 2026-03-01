@@ -52,13 +52,13 @@ def scrape_html(url, user_agent=None, timeout=25000, logs=None):
                     logs,
                 )
                 
-                # --- KLUCZOWA ZMIANA ---
-                # Jeśli to odpowiedź z serwera (np. plik XML/JSON), pobieramy czysty tekst z sieci.
-                # page.content() używamy tylko jako ostateczności dla czystego HTML.
+                # --- KLUCZOWA ZMIANA: Obsługa surowych bajtów (odpowiedź XML/JSON z polskim kodowaniem) ---
                 if resp:
                     try:
-                        html = resp.text()
-                    except:
+                        # Próbujemy odczytać bezpośrednio bajty i wymuszamy dekodowanie windows-1250 (używane na WAT)
+                        html = resp.body().decode('windows-1250', errors='replace')
+                    except Exception as e:
+                        log_entry(f"{WARNING} Failed to decode body (falling back to content): {e}", logs)
                         html = page.content()
                 else:
                     html = page.content()
@@ -76,14 +76,101 @@ def scrape_html(url, user_agent=None, timeout=25000, logs=None):
                 log_entry("Closing browser.", logs)
         return html, logs
 
-    # Wypakowujemy wyniki z dekoratora
+    # Wypakowujemy wyniki z dekoratora logów
     html, logs = log("Scraping...", scrape_html_with_logs)
     
-    # POPRAWKA: Usunięto nawiasy klamrowe, które tworzyły zbiór (set)
+    # Poprawka: Obliczanie długości
     html_length = len(html) if html else 0
     if html_length > 0:
         print(f"{SUCCESS} Scraped {url} ({html_length} bytes)")
+        
+        # Opcjonalny DEBUG, jeśli wciąż widać dziwnie mały rozmiar pliku (<1000 bajtów).
+        # Odkomentuj 3 linijki poniżej, jeśli scraper nie znajdzie grup, by zobaczyć co naprawdę pobrał.
+        # if html_length < 2000:
+        #     print("\n--- DEBUG POBRANEGO PLIKU ---")
+        #     print(html[:500])
+        #     print("-----------------------------\n")
     else:
         print(f"{ERROR} Failed to scrape {url}")
         
     return html, logs
+
+
+def fetch_group_html(browser, idx, total, group, url, faculty_prefix="", logs=None, timeout=25000, wait_timeout=5000):
+    """
+    Sync scraper for a single group with retries and screenshot saving (success/fail).
+    Optimized for speed with configurable timeouts.
+
+    Args:
+        timeout: Page load timeout (default: 25s)
+        wait_timeout: Timeout for waiting on elements (default: 5s)
+    """
+    max_retries = 3  
+    retry_count = 0
+    html = None
+    logs = logs or []
+
+    while retry_count < max_retries:
+        page = browser.new_page()
+        try:
+            page.set_default_timeout(timeout)
+            
+            if "wcy.wat.edu.pl" in url:
+                response = page.goto(url, wait_until="load", timeout=timeout)
+                try:
+                    page.wait_for_selector(".rozklad, table, .schedule", timeout=wait_timeout)
+                except:
+                    try:
+                        page.wait_for_load_state("networkidle", timeout=8000)
+                    except:
+                        time.sleep(2)  
+            else:
+                response = page.goto(url, wait_until="domcontentloaded", timeout=timeout)
+                try:
+                    page.wait_for_selector("table, .content, body", timeout=wait_timeout)
+                except:
+                    try:
+                        page.wait_for_load_state("networkidle", timeout=5000)
+                    except:
+                        pass
+            
+            if not response or not response.ok:
+                raise Exception(f"HTTP {response.status if response else 'No response'}")
+            
+            html = page.content()
+            if len(html) < 200:  
+                raise Exception("Page content too short")
+            
+            log_entry(f"{SUCCESS} Scraping {group} completed.", logs)
+            
+            # (Uwaga: upewnij się, że masz zdefiniowaną funkcję save_screenshot, w importach widać save_screenshot_async)
+            # save_screenshot(page, group, faculty_prefix) 
+            break
+            
+        except PlaywrightTimeoutError as e:
+            retry_count += 1
+            log_entry(f"{WARNING} Timeout for {group} (retry {retry_count}/{max_retries})", logs)
+            if retry_count < max_retries:
+                time.sleep(2)  
+        except Exception as e:
+            retry_count += 1
+            log_entry(f"{WARNING} Error for {group} (retry {retry_count}/{max_retries}): {str(e)[:50]}...", logs)
+            if retry_count < max_retries:
+                time.sleep(1)  
+            
+        finally:
+            try:
+                page.close()
+            except:
+                pass  
+                
+        if retry_count >= max_retries:
+            log_entry(f"{ERROR} Failed to scrape group {group} after {max_retries} attempts", logs)
+            try:
+                if 'page' in locals() and page:
+                    # save_screenshot(page, group, faculty_prefix)
+                    pass
+            except Exception:
+                print(f"{ERROR} Failed to save screenshot for {group}")
+                
+    return html
