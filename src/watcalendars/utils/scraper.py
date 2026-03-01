@@ -16,6 +16,9 @@ from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeo
 from playwright.async_api import async_playwright, TimeoutError as AsyncPlaywrightTimeoutError
 from watcalendars.utils.writers.screenshot_writer import save_screenshot_async, get_target_dir
 
+# --- DODANY IMPORT WTYCZKI STEALTH ---
+from playwright_stealth import stealth_sync
+# -------------------------------------
 
 def scrape_html(url, user_agent=None, timeout=25000, logs=None):
     """
@@ -41,6 +44,11 @@ def scrape_html(url, user_agent=None, timeout=25000, logs=None):
                     user_agent=user_agent
                     or "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
                 )
+                
+                # --- AKTYWACJA TRYBU STEALTH DLA TEJ ZAKŁADKI ---
+                stealth_sync(page)
+                # ------------------------------------------------
+                
                 log_entry(f"Navigating to URL: {url}", logs)
                 t0 = time.monotonic()
                 
@@ -86,13 +94,6 @@ def scrape_html(url, user_agent=None, timeout=25000, logs=None):
     html_length = len(html) if html else 0
     if html_length > 0:
         print(f"{SUCCESS} Scraped {url} ({html_length} bytes)")
-        
-        # Opcjonalny DEBUG, jeśli wciąż widać dziwnie mały rozmiar pliku (<1000 bajtów).
-        # Odkomentuj 3 linijki poniżej, jeśli scraper nie znajdzie grup, by zobaczyć co naprawdę pobrał.
-        # if html_length < 2000:
-        #     print("\n--- DEBUG POBRANEGO PLIKU ---")
-        #     print(html[:500])
-        #     print("-----------------------------\n")
     else:
         print(f"{ERROR} Failed to scrape {url}")
         
@@ -115,6 +116,11 @@ def fetch_group_html(browser, idx, total, group, url, faculty_prefix="", logs=No
 
     while retry_count < max_retries:
         page = browser.new_page()
+        
+        # --- AKTYWACJA TRYBU STEALTH TAKŻE DLA POBIERANIA KONKRETNEJ GRUPY ---
+        stealth_sync(page)
+        # ---------------------------------------------------------------------
+        
         try:
             page.set_default_timeout(timeout)
             
