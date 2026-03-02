@@ -1,0 +1,72 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "WATcalendars"
+version = "0.3.0"
+description = "WAT university calendar scraper for multiple faculties"
+authors = [
+    {name = "Dominik Serafin", email = "serafin652002@gmail.com"}
+]
+maintainers = [
+    {name = "Dominik Serafin", email = "serafin652002@gmail.com"}
+]
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.8"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Students",
+    "Topic :: Education",
+    "Topic :: Internet :: WWW/HTTP :: Indexing/Search",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+]
+keywords = [
+    "scraping", "calendar", "education", "university", "wat", 
+    "ics", "playwright", "beautifulsoup"
+]
+dependencies = [
+    "beautifulsoup4>=4.12.0",
+    "playwright>=1.40.0",
+    "python-docx>=1.1.2",
+    "requests>=2.31.0",
+    "backports.zoneinfo; python_version < '3.9'",
+]
+
+[project.urls]
+Homepage = "https://github.com/dominikserafin/WATcalendars"
+Repository = "https://github.com/dominikserafin/WATcalendars"
+Issues = "https://github.com/dominikserafin/WATcalendars/issues"
+
+[project.scripts]
+# Employee scraper
+watcalendars-employees = "watcalendars.watemployees:main"
+
+# Group scrapers for each faculty (script modules)
+watcalendars-groups-ioe = "watcalendars.groups.groups_ioe:main"
+watcalendars-groups-wcy = "watcalendars.groups.groups_wcy:main"
+watcalendars-groups-wel = "watcalendars.groups.groups_wel:main"
+watcalendars-groups-wig = "watcalendars.groups.groups_wig:main"
+watcalendars-groups-wim = "watcalendars.groups.groups_wim:main"
+watcalendars-groups-wlo = "watcalendars.groups.groups_wlo:main"
+watcalendars-groups-wml = "watcalendars.groups.groups_wml:main"
+watcalendars-groups-wtc = "watcalendars.groups.groups_wtc:main"
+
+# Calendar scrapers for each faculty (async modules)
+# To use it /WATcalendars/db/groups_url can't be empty
+watcalendars-calendar-ioe = "watcalendars.calendar_ioe:main"
+watcalendars-calendar-wcy = "watcalendars.calendar_wcy:main"
+watcalendars-calendar-wel = "watcalendars.calendar_wel:main"
+watcalendars-calendar-wig = "watcalendars.calendar_wig:main"
+watcalendars-calendar-wim = "watcalendars.calendar_wim:main"
+watcalendars-calendar-wlo = "watcalendars.calendar_wlo:main"
+watcalendars-calendar-wml = "watcalendars.calendar_wml:main"
+watcalendars-calendar-wtc = "watcalendars.calendar_wtc:main"
