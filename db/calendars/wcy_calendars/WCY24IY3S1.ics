@@ -3599,7 +3599,7 @@ DTSTART:20260213T085000Z
 DTEND:20260213T102500Z
 SUMMARY:Als (Inne)
 LOCATION:227 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T104000Z
@@ -3641,7 +3641,7 @@ DTSTART:20260217T104000Z
 DTEND:20260217T121500Z
 SUMMARY:Als (Inne)
 LOCATION:316 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T150000Z
@@ -3845,6 +3845,13 @@ DTEND:20260306T140500Z
 SUMMARY:Pw (w)
 LOCATION:316 S
 DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T150000Z
+DTEND:20260306T163500Z
+SUMMARY:Als (Inne)
+LOCATION:223 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T070000Z
@@ -5051,20 +5058,6 @@ LOCATION:120 65
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260528T060000Z
-DTEND:20260528T073500Z
-SUMMARY:Sck (L)
-LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: Sebastian Łeska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260528T075000Z
-DTEND:20260528T092500Z
-SUMMARY:Sck (L)
-LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: Sebastian Łeska
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260528T094000Z
 DTEND:20260528T111500Z
 SUMMARY:Pw (P)
@@ -5118,14 +5111,14 @@ DTSTART:20260603T060000Z
 DTEND:20260603T073500Z
 SUMMARY:Sck (L)
 LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: Sebastian Łeska
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T075000Z
 DTEND:20260603T092500Z
 SUMMARY:Sck (L)
 LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: Sebastian Łeska
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T094000Z
@@ -5168,6 +5161,20 @@ DTEND:20260608T130500Z
 SUMMARY:Tik (L)
 LOCATION:106 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T060000Z
+DTEND:20260609T073500Z
+SUMMARY:Sck (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T075000Z
+DTEND:20260609T092500Z
+SUMMARY:Sck (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T094000Z

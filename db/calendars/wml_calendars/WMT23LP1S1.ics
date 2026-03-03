@@ -1299,27 +1299,6 @@ LOCATION:
 DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260507T075000Z
-DTEND:20260507T092500Z
-SUMMARY:Tsl 
-LOCATION:
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260514T075000Z
-DTEND:20260514T092500Z
-SUMMARY:Tsl 
-LOCATION:
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260521T075000Z
-DTEND:20260521T092500Z
-SUMMARY:Tsl 
-LOCATION:
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260528T075000Z
 DTEND:20260528T092500Z
 SUMMARY:Zlsp 
@@ -1390,11 +1369,11 @@ LOCATION:
 DESCRIPTION:Aerosprężystość\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Rogólski Robert
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260514T094000Z
-DTEND:20260514T111500Z
-SUMMARY:Tsl 
+DTSTART:20260507T094000Z
+DTEND:20260507T111500Z
+SUMMARY:Lzn 
 LOCATION:
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
+DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T094000Z
@@ -1425,34 +1404,6 @@ LOCATION:
 DESCRIPTION:Zintegrowane laboratorium statków powietrznych\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Arkuszyńska Angelika
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260312T123000Z
-DTEND:20260312T140500Z
-SUMMARY:Tsl 
-LOCATION:
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260326T123000Z
-DTEND:20260326T140500Z
-SUMMARY:Tsl 
-LOCATION:
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260402T113000Z
-DTEND:20260402T130500Z
-SUMMARY:Tsl 
-LOCATION:
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260409T113000Z
-DTEND:20260409T130500Z
-SUMMARY:Tsl 
-LOCATION:
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260416T113000Z
 DTEND:20260416T130500Z
 SUMMARY:Tpł 
@@ -1467,13 +1418,6 @@ LOCATION:
 DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260430T113000Z
-DTEND:20260430T130500Z
-SUMMARY:Tsl 
-LOCATION:
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260514T113000Z
 DTEND:20260514T130500Z
 SUMMARY:Lzn 
@@ -1486,27 +1430,6 @@ DTEND:20260521T130500Z
 SUMMARY:Lzn 
 LOCATION:
 DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260611T113000Z
-DTEND:20260611T130500Z
-SUMMARY:Tsl 
-LOCATION:
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260618T113000Z
-DTEND:20260618T130500Z
-SUMMARY:Tsl 
-LOCATION:
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260312T150000Z
-DTEND:20260312T163500Z
-SUMMARY:Tsl 
-LOCATION:
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T140000Z
@@ -1642,6 +1565,13 @@ LOCATION:3367
 DESCRIPTION:Aerosprężystość\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Rogólski Robert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260522T075000Z
+DTEND:20260522T092500Z
+SUMMARY:Mlot 
+LOCATION:4167
+DESCRIPTION:Mechanika lotu\nRodzaj zajęć: -\nProwadzący: dr inż. Frant Michał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260529T075000Z
 DTEND:20260529T092500Z
 SUMMARY:Aer 
@@ -1677,46 +1607,11 @@ LOCATION:13636
 DESCRIPTION:Systemy awioniczne\nRodzaj zajęć: -\nProwadzący: płk mgr inż. Hanc Damian
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260320T104000Z
-DTEND:20260320T121500Z
-SUMMARY:Tsl 
-LOCATION:
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260410T094000Z
 DTEND:20260410T111500Z
 SUMMARY:Sh 
 LOCATION:
 DESCRIPTION:Systemy hydropneumatyczne\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Arkuszyńska Angelika
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260508T094000Z
-DTEND:20260508T111500Z
-SUMMARY:Tsl 
-LOCATION:
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T094000Z
-DTEND:20260515T111500Z
-SUMMARY:Tsl 
-LOCATION:
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260522T094000Z
-DTEND:20260522T111500Z
-SUMMARY:Tsl 
-LOCATION:
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260529T094000Z
-DTEND:20260529T111500Z
-SUMMARY:Tsl 
-LOCATION:
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T094000Z
@@ -1733,32 +1628,11 @@ LOCATION:3367
 DESCRIPTION:Konstrukcja statków powietrznych\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260508T113000Z
-DTEND:20260508T130500Z
-SUMMARY:Lzn 
-LOCATION:
-DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: -\nProwadzący: dr hab. inż Chachurski Ryszard
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260515T113000Z
 DTEND:20260515T130500Z
 SUMMARY:Ksp 
 LOCATION:3367
 DESCRIPTION:Konstrukcja statków powietrznych\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260522T113000Z
-DTEND:20260522T130500Z
-SUMMARY:Mlot 
-LOCATION:4167
-DESCRIPTION:Mechanika lotu\nRodzaj zajęć: -\nProwadzący: dr inż. Frant Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260529T113000Z
-DTEND:20260529T130500Z
-SUMMARY:Tsl 
-LOCATION:
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T113000Z

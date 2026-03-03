@@ -494,13 +494,6 @@ LOCATION:166 S
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Ratyński Mateusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260310T085000Z
-DTEND:20260310T102500Z
-SUMMARY:HP (w)
-LOCATION:166 S
-DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Ratyński Mateusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260317T085000Z
 DTEND:20260317T102500Z
 SUMMARY:WIMF (L)
@@ -548,27 +541,6 @@ DTEND:20260505T092500Z
 SUMMARY:HP (ć)
 LOCATION:166 S
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Ratyński Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260512T075000Z
-DTEND:20260512T092500Z
-SUMMARY:HP (ć)
-LOCATION:166 S
-DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Ratyński Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260217T104000Z
-DTEND:20260217T121500Z
-SUMMARY:M1 (Ep)
-LOCATION:aF S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Jastrzębska Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260310T104000Z
-DTEND:20260310T121500Z
-SUMMARY:HP (w)
-LOCATION:166 S
-DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Ratyński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T104000Z
@@ -732,6 +704,13 @@ LOCATION:13/ 34
 DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 18/44\nProwadzący: dr inż. Dworecka-Wójcik Julita
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260513T060000Z
+DTEND:20260513T073500Z
+SUMMARY:HP (ć)
+LOCATION:166 S
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Ratyński Mateusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260311T085000Z
 DTEND:20260311T102500Z
 SUMMARY:Che (w)
@@ -828,13 +807,6 @@ DTEND:20260610T092500Z
 SUMMARY:PTMI (L)
 LOCATION:26/ 34
 DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Łyszkowski Radosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260204T104000Z
-DTEND:20260204T121500Z
-SUMMARY:M1 (E)
-LOCATION:aF S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Jastrzębska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T104000Z
@@ -1045,6 +1017,13 @@ DTEND:20260311T163500Z
 SUMMARY:Mat3 (ć)
 LOCATION:166 S
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: prof. dr hab. Peradzyński Zbigniew
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T150000Z
+DTEND:20260318T163500Z
+SUMMARY:HP (w)
+LOCATION:166 S
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Ratyński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T140000Z
@@ -1572,11 +1551,11 @@ LOCATION:232 K;231 K;230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260206T070000Z
-DTEND:20260206T083500Z
-SUMMARY:Wzp Zp.
-LOCATION:aF S
-DESCRIPTION:Wybrane zagadnienia prawa\nRodzaj zajęć: Zp.\nNumer zajęć: 1/1\nProwadzący: dr Małecka Magdalena
+DTSTART:20260313T070000Z
+DTEND:20260313T083500Z
+SUMMARY:HP (w)
+LOCATION:166 S
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Ratyński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T070000Z
@@ -1787,20 +1766,6 @@ DTEND:20260619T111500Z
 SUMMARY:Che (w)
 LOCATION:110/ 14
 DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr hab. inż. Urbańska Magdalena
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260206T123000Z
-DTEND:20260206T140500Z
-SUMMARY:Mat2 (E)
-LOCATION:315 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Klepczarek Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260220T123000Z
-DTEND:20260220T140500Z
-SUMMARY:Mat2 (Ep)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Klepczarek Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T123000Z

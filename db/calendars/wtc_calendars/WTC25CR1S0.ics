@@ -60,13 +60,6 @@ LOCATION:109 24
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: mgr inż. Jakubowska Iwona
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260518T060000Z
-DTEND:20260518T073500Z
-SUMMARY:Mat3 (ć)
-LOCATION:204 65
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Kubica Adam
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260525T060000Z
 DTEND:20260525T073500Z
 SUMMARY:F1 (L)
@@ -200,13 +193,6 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/20\nProwadzący: mgr inż. Jakubowska Iwona
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260202T104000Z
-DTEND:20260202T121500Z
-SUMMARY:M1 (E)
-LOCATION:19 36
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Różański Jerzy
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260302T104000Z
 DTEND:20260302T121500Z
 SUMMARY:Ja (ć)
@@ -310,13 +296,6 @@ DTEND:20260615T111500Z
 SUMMARY:Ja (ć)
 LOCATION:238 K;237 K;235 K;234 K;233 K;232 K;231 K;230 K;134 K;133 K;131 K;128 K;127 K;125 K;124 K;122 K;121
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/30
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260202T123000Z
-DTEND:20260202T140500Z
-SUMMARY:M1 (E)
-LOCATION:19 36
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T123000Z
@@ -508,13 +487,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: kpt. mgr Włoch Mariola
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260217T070000Z
-DTEND:20260217T083500Z
-SUMMARY:M1 ćw zal
-LOCATION:166 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: ćw zal\nNumer zajęć: 1/2\nProwadzący: mgr Salamon Alicja
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260303T070000Z
 DTEND:20260303T083500Z
 SUMMARY:Coo (w)
@@ -613,13 +585,6 @@ LOCATION:110/ 14
 DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 12/30\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260203T085000Z
-DTEND:20260203T102500Z
-SUMMARY:HP (E)
-LOCATION:19 36
-DESCRIPTION:Historia Polski\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Jasiński Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260303T085000Z
 DTEND:20260303T102500Z
 SUMMARY:Mat3 (w)
@@ -716,20 +681,6 @@ DTEND:20260616T092500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/25\nProwadzący: kpt. mgr Włoch Mariola
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260203T104000Z
-DTEND:20260203T121500Z
-SUMMARY:M1 ćw zal
-LOCATION:166 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: ćw zal\nNumer zajęć: 2/2\nProwadzący: mgr Salamon Alicja
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260217T104000Z
-DTEND:20260217T121500Z
-SUMMARY:HP (Ep)
-LOCATION:19 36
-DESCRIPTION:Historia Polski\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Jasiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T104000Z
@@ -841,7 +792,7 @@ DTSTART:20260303T123000Z
 DTEND:20260303T140500Z
 SUMMARY:ZaMe (w)
 LOCATION:103 K
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: płk dr hab. inż. Parczewski Rafał
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: płk dr hab. inż. Parczewski Rafał; ppor. mgr Szwed Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T123000Z
@@ -1285,13 +1236,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/25\nProwadzący: kpt. mgr Włoch Mariola
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260218T104000Z
-DTEND:20260218T121500Z
-SUMMARY:M1 (Ep)
-LOCATION:19 36
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Różański Jerzy
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260304T104000Z
 DTEND:20260304T121500Z
 SUMMARY:REG (ć)
@@ -1520,7 +1464,7 @@ DTSTART:20260311T150000Z
 DTEND:20260311T163500Z
 SUMMARY:ZaMe (w)
 LOCATION:103 K
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: płk dr hab. inż. Parczewski Rafał
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: płk dr hab. inż. Parczewski Rafał; ppor. mgr Szwed Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T150000Z
@@ -1940,7 +1884,7 @@ DTSTART:20260305T085000Z
 DTEND:20260305T102500Z
 SUMMARY:Mat3 (ć)
 LOCATION:166 S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T085000Z
@@ -1961,7 +1905,7 @@ DTSTART:20260326T085000Z
 DTEND:20260326T102500Z
 SUMMARY:Mat3 (ć)
 LOCATION:110/ 14
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T075000Z
@@ -2032,13 +1976,6 @@ DTEND:20260618T092500Z
 SUMMARY:LCOiN (L)
 LOCATION:34/ 14
 DESCRIPTION:Laboratorium z chemii ogólnej i nieorganicznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 50/60\nProwadzący: dr inż. Dyjak Sławomir; mgr inż. Kapusta Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260212T104000Z
-DTEND:20260212T121500Z
-SUMMARY:Mat2 Zp.
-LOCATION:166 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Zp.\nNumer zajęć: 1/1\nProwadzący: dr hab. Smarzewski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T104000Z
@@ -2244,6 +2181,13 @@ LOCATION:238 K;237 K;235 K;234 K;233 K;232 K;231 K;230 K;134 K;133 K;131 K;128 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30/30
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260312T150000Z
+DTEND:20260312T163500Z
+SUMMARY:Mat3 (ć)
+LOCATION:204 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Kubica Adam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260319T150000Z
 DTEND:20260319T163500Z
 SUMMARY:Mat3 (ć)
@@ -2398,13 +2342,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/25\nProwadzący: kpt. mgr Włoch Mariola
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260206T104000Z
-DTEND:20260206T121500Z
-SUMMARY:Mat2 (E)
-LOCATION:19 36
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Różański Jerzy
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260313T104000Z
 DTEND:20260313T121500Z
 SUMMARY:DSiSM (w)
@@ -2475,13 +2412,6 @@ LOCATION:109 24
 DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260206T123000Z
-DTEND:20260206T140500Z
-SUMMARY:Mat2 (E)
-LOCATION:19 36
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Różański Jerzy
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260515T113000Z
 DTEND:20260515T130500Z
 SUMMARY:Mat3 (ć)
@@ -2501,13 +2431,6 @@ DTEND:20260619T130500Z
 SUMMARY:Mat3 (L)
 LOCATION:219 65
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Różański Jerzy
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260220T150000Z
-DTEND:20260220T163500Z
-SUMMARY:Mat2 (Ep)
-LOCATION:19 36
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T150000Z

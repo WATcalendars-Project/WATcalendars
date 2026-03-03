@@ -5044,20 +5044,6 @@ LOCATION:309 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260528T094000Z
-DTEND:20260528T111500Z
-SUMMARY:Sck (L)
-LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: Sebastian Łeska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260528T113000Z
-DTEND:20260528T130500Z
-SUMMARY:Sck (L)
-LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: Sebastian Łeska
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260529T060000Z
 DTEND:20260529T073500Z
 SUMMARY:Zkst (L)
@@ -5111,14 +5097,14 @@ DTSTART:20260603T094000Z
 DTEND:20260603T111500Z
 SUMMARY:Sck (L)
 LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: Sebastian Łeska
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T113000Z
 DTEND:20260603T130500Z
 SUMMARY:Sck (L)
 LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: Sebastian Łeska
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T140000Z
@@ -5161,6 +5147,20 @@ DTEND:20260610T092500Z
 SUMMARY:Pk (L)
 LOCATION:233 S
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T094000Z
+DTEND:20260610T111500Z
+SUMMARY:Sck (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T113000Z
+DTEND:20260610T130500Z
+SUMMARY:Sck (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T060000Z

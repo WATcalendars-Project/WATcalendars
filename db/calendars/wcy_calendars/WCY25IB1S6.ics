@@ -4326,8 +4326,15 @@ BEGIN:VEVENT
 DTSTART:20260325T070000Z
 DTEND:20260325T083500Z
 SUMMARY:Sck (w)
-LOCATION:101 65
+LOCATION:125 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 17/18\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T085000Z
+DTEND:20260325T102500Z
+SUMMARY:Sck (w)
+LOCATION:125 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 18/18\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T104000Z
@@ -4750,13 +4757,6 @@ LOCATION:218 65
 DESCRIPTION:Kryptologia współczesna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260408T060000Z
-DTEND:20260408T073500Z
-SUMMARY:Sck (w)
-LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 18/18\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260408T094000Z
 DTEND:20260408T111500Z
 SUMMARY:- (S.Sz.W.)
@@ -4960,20 +4960,6 @@ LOCATION:A  59
 DESCRIPTION:Ochrona środowiska - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260417T060000Z
-DTEND:20260417T073500Z
-SUMMARY:wzbnim (w)
-LOCATION:aula/ 135
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260417T075000Z
-DTEND:20260417T092500Z
-SUMMARY:wzbnim (w)
-LOCATION:aula/ 135
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260417T094000Z
 DTEND:20260417T111500Z
 SUMMARY:SO (L)
@@ -4986,6 +4972,20 @@ DTEND:20260417T130500Z
 SUMMARY:SO (L)
 LOCATION:106 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 23/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T140000Z
+DTEND:20260418T153500Z
+SUMMARY:wzbnim (w)
+LOCATION:aula/ 135
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T155000Z
+DTEND:20260418T172500Z
+SUMMARY:wzbnim (w)
+LOCATION:aula/ 135
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T060000Z

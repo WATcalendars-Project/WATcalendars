@@ -1562,7 +1562,7 @@ DTSTART:20260127T085000Z
 DTEND:20260127T102500Z
 SUMMARY:WdI (Inne)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T104000Z
@@ -1681,7 +1681,7 @@ DTSTART:20260217T070000Z
 DTEND:20260217T083500Z
 SUMMARY:WdI (Inne)
 LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: mgr inż. Sławomir Wysocki
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Sławomir Wysocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T085000Z
@@ -1695,7 +1695,7 @@ DTSTART:20260219T085000Z
 DTEND:20260219T102500Z
 SUMMARY:WdI (Inne)
 LOCATION:224 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/1\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T150000Z
@@ -1883,7 +1883,7 @@ BEGIN:VEVENT
 DTSTART:20260310T123000Z
 DTEND:20260310T140500Z
 SUMMARY:PEM (w)
-LOCATION:313 S
+LOCATION:301/ S
 DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1971,6 +1971,13 @@ LOCATION:314 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260316T070000Z
+DTEND:20260316T083500Z
+SUMMARY:WdI (Inne)
+LOCATION:252 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/2\nProwadzący: mgr inż. Sławomir Wysocki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260316T085000Z
 DTEND:20260316T102500Z
 SUMMARY:WdP (w)
@@ -2003,7 +2010,7 @@ DTSTART:20260317T150000Z
 DTEND:20260317T163500Z
 SUMMARY:Md2 (ć)
 LOCATION:308 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: Anna Cichocka
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: mgr Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T165000Z
@@ -2226,7 +2233,7 @@ BEGIN:VEVENT
 DTSTART:20260331T113000Z
 DTEND:20260331T130500Z
 SUMMARY:PEM (w)
-LOCATION:313 S
+LOCATION:301/ S
 DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2332,7 +2339,7 @@ DTSTART:20260408T094000Z
 DTEND:20260408T111500Z
 SUMMARY:Md2 (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: Anna Cichocka
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: mgr Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T113000Z
@@ -2563,7 +2570,7 @@ DTSTART:20260421T155000Z
 DTEND:20260421T172500Z
 SUMMARY:Md2 (ć)
 LOCATION:316 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: Anna Cichocka
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: mgr Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T174000Z
@@ -2745,7 +2752,7 @@ DTSTART:20260430T094000Z
 DTEND:20260430T111500Z
 SUMMARY:Md2 (ć)
 LOCATION:205 65
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: Anna Cichocka
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: mgr Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T113000Z
@@ -3067,7 +3074,7 @@ DTSTART:20260519T140000Z
 DTEND:20260519T153500Z
 SUMMARY:Md2 (ć)
 LOCATION:307 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: Anna Cichocka
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: mgr Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T060000Z
@@ -3354,7 +3361,7 @@ DTSTART:20260609T140000Z
 DTEND:20260609T153500Z
 SUMMARY:Md2 (ć)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: Anna Cichocka
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T174000Z
@@ -3445,7 +3452,7 @@ DTSTART:20260616T075000Z
 DTEND:20260616T092500Z
 SUMMARY:Md2 (ć)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: Anna Cichocka
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: mgr Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T113000Z

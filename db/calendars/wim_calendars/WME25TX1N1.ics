@@ -2043,9 +2043,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T094000Z
 DTEND:20250411T111500Z
-SUMMARY:Plog (ć)
+SUMMARY:Plog (w)
 LOCATION:54/ 62
-DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Kalbarczyk Ewa
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250418T094000Z
@@ -2283,7 +2283,7 @@ DTSTART:20250307T150000Z
 DTEND:20250307T163500Z
 SUMMARY:Plog (w)
 LOCATION:8/ 62
-DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr Kalbarczyk Ewa
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T150000Z
@@ -2409,14 +2409,14 @@ DTSTART:20250228T165000Z
 DTEND:20250228T182500Z
 SUMMARY:Plog (w)
 LOCATION:8/ 62
-DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr Kalbarczyk Ewa
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T165000Z
 DTEND:20250307T182500Z
-SUMMARY:Plog (ć)
+SUMMARY:Plog (w)
 LOCATION:8/ 62
-DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Kalbarczyk Ewa
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T165000Z
@@ -2522,6 +2522,13 @@ DTEND:20250627T172500Z
 SUMMARY:Ppu. (L)
 LOCATION:38/ 54A
 DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250307T184000Z
+DTEND:20250307T201500Z
+SUMMARY:Plog (ć)
+LOCATION:8/ 62
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T184000Z
@@ -2755,13 +2762,6 @@ LOCATION:28/ 135
 DESCRIPTION:Filozofia\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr hab. Świniarski Janusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250301T085000Z
-DTEND:20250301T102500Z
-SUMMARY:Plog (w)
-LOCATION:54/ 62
-DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr Kalbarczyk Ewa
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250308T085000Z
 DTEND:20250308T102500Z
 SUMMARY:Mas (ć)
@@ -2888,13 +2888,6 @@ LOCATION:51/ 62
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250301T104000Z
-DTEND:20250301T121500Z
-SUMMARY:Plog (ć)
-LOCATION:54/ 62
-DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Kalbarczyk Ewa
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250308T104000Z
 DTEND:20250308T121500Z
 SUMMARY:Met (w)
@@ -3007,18 +3000,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 51/70
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250322T123000Z
-DTEND:20250322T140500Z
-SUMMARY:Plog (w)
-LOCATION:8/ 62
-DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr Kalbarczyk Ewa
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250329T123000Z
 DTEND:20250329T140500Z
 SUMMARY:Plog (w)
-LOCATION:8/ 62
-DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr Kalbarczyk Ewa
+LOCATION:
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250405T113000Z
@@ -3038,15 +3024,15 @@ BEGIN:VEVENT
 DTSTART:20250419T113000Z
 DTEND:20250419T130500Z
 SUMMARY:Plog (w)
-LOCATION:8/ 62
-DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr Kalbarczyk Ewa
+LOCATION:19/ 135
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T113000Z
 DTEND:20250426T130500Z
 SUMMARY:Plog (ć)
 LOCATION:8/ 62
-DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Kalbarczyk Ewa
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250503T113000Z
@@ -3126,6 +3112,13 @@ LOCATION:15/ 23a
 DESCRIPTION:Spotkanie z opiekunem rocznika\nRodzaj zajęć: (i)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Gajda Olga
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250329T150000Z
+DTEND:20250329T163500Z
+SUMMARY:Plog (ć)
+LOCATION:
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Kalbarczyk Ewa
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250405T140000Z
 DTEND:20250405T153500Z
 SUMMARY:I 
@@ -3133,11 +3126,25 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 57/70
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250419T140000Z
+DTEND:20250419T153500Z
+SUMMARY:Plog (w)
+LOCATION:19/ 135
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Kalbarczyk Ewa
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250503T140000Z
 DTEND:20250503T153500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 58/70
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250510T140000Z
+DTEND:20250510T153500Z
+SUMMARY:Plog (ć)
+LOCATION:19/ 135
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T140000Z

@@ -193,13 +193,6 @@ LOCATION:238 K;237 K;235 K;234 K;233 K;232 K;231 K;230 K;134 K;133 K;131 K;128 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/30
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260223T104000Z
-DTEND:20260223T121500Z
-SUMMARY:F2 (E)
-LOCATION:aF S
-DESCRIPTION:Fizyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof.dr hab.inż. Jaroszewicz Leszek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260302T104000Z
 DTEND:20260302T121500Z
 SUMMARY:F2 (Ep)
@@ -564,13 +557,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/30\nProwadzący: mgr Pszczoła Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260217T104000Z
-DTEND:20260217T121500Z
-SUMMARY:Chf (E)
-LOCATION:110/ 14
-DESCRIPTION:Chemia fizyczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Czerwiński Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260303T104000Z
 DTEND:20260303T121500Z
 SUMMARY:Chf (Ep)
@@ -793,13 +779,6 @@ DTEND:20260617T073500Z
 SUMMARY:ZŻWAT i
 LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: i\nNumer zajęć: 4/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260225T085000Z
-DTEND:20260225T102500Z
-SUMMARY:Cho (E)
-LOCATION:110/ 14
-DESCRIPTION:Chemia organiczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: płk dr hab. inż. Kula Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T085000Z
@@ -1248,20 +1227,6 @@ DTEND:20260610T172500Z
 SUMMARY:Bhp (w)
 LOCATION:166 S
 DESCRIPTION:BHP i ergonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr hab. inż. Spadło Anna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260219T070000Z
-DTEND:20260219T083500Z
-SUMMARY:Cha (E)
-LOCATION:110/ 14
-DESCRIPTION:Chemia analityczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Czubaszek Marzena
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260226T070000Z
-DTEND:20260226T083500Z
-SUMMARY:Cha (Ep)
-LOCATION:110/ 14
-DESCRIPTION:Chemia analityczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Czubaszek Marzena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T070000Z
@@ -1733,13 +1698,6 @@ LOCATION:ST.nr 1
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: ppłk mgr inż. Świętochowski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260220T123000Z
-DTEND:20260220T140500Z
-SUMMARY:Pwd (Ep)
-LOCATION:315 S
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Załoga Wiesława
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260306T123000Z
 DTEND:20260306T140500Z
 SUMMARY:SSW 
@@ -1822,13 +1780,6 @@ DTEND:20260619T130500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 21/55
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260206T150000Z
-DTEND:20260206T163500Z
-SUMMARY:Pwd (E)
-LOCATION:19 36
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Załoga Wiesława
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T150000Z
@@ -2090,13 +2041,6 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 55/55
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260221T070000Z
-DTEND:20260221T083500Z
-SUMMARY:XMat1 (Ep)
-LOCATION:314 S
-DESCRIPTION:XMatematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr inż. Falkiewicz Ewa
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260307T070000Z
 DTEND:20260307T083500Z
 SUMMARY:XWF (ć)
@@ -2188,13 +2132,6 @@ LOCATION:
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260221T085000Z
-DTEND:20260221T102500Z
-SUMMARY:XMat2 (Ep)
-LOCATION:314 S
-DESCRIPTION:XMatematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Gdula Agnieszka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260411T075000Z
 DTEND:20260411T092500Z
 SUMMARY:PODS.SUR. (ć)
@@ -2202,25 +2139,11 @@ LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/11\nProwadzący: kpt. mgr Kamela Przemysław; kmdr ppor. mgr inż. Kordus Wojciech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260207T104000Z
-DTEND:20260207T121500Z
-SUMMARY:XMat2 (E)
-LOCATION:314 S
-DESCRIPTION:XMatematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Gdula Agnieszka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260411T094000Z
 DTEND:20260411T111500Z
 SUMMARY:PODS.SUR. (ć)
 LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: kpt. mgr Kamela Przemysław; kmdr ppor. mgr inż. Kordus Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260207T123000Z
-DTEND:20260207T140500Z
-SUMMARY:XMat2 (E)
-LOCATION:314 S
-DESCRIPTION:XMatematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T113000Z
