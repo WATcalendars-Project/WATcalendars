@@ -1341,13 +1341,6 @@ LOCATION:0.6/16
 DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260613T075000Z
-DTEND:20260613T092500Z
-SUMMARY:PeUT (ć)
-LOCATION:5.17/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260620T075000Z
 DTEND:20260620T092500Z
 SUMMARY:Sp* (w)
@@ -1401,13 +1394,13 @@ DTSTART:20260425T094000Z
 DTEND:20260425T111500Z
 SUMMARY:PeUT (ć)
 LOCATION:4.23/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T094000Z
 DTEND:20260509T111500Z
 SUMMARY:PKM (ć)
-LOCATION:
+LOCATION:0.22/16
 DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
@@ -1415,7 +1408,7 @@ DTSTART:20260516T094000Z
 DTEND:20260516T111500Z
 SUMMARY:PeUT (ć)
 LOCATION:4.23/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260613T094000Z
@@ -1526,7 +1519,7 @@ BEGIN:VEVENT
 DTSTART:20260321T150000Z
 DTEND:20260321T163500Z
 SUMMARY:Wm (w)
-LOCATION:0.28/135
+LOCATION:301/S
 DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr
 END:VEVENT
 BEGIN:VEVENT
@@ -1596,7 +1589,7 @@ BEGIN:VEVENT
 DTSTART:20260321T165000Z
 DTEND:20260321T182500Z
 SUMMARY:Wm (w)
-LOCATION:0.28/135
+LOCATION:301/S
 DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr
 END:VEVENT
 BEGIN:VEVENT
@@ -1730,14 +1723,14 @@ DTSTART:20260412T075000Z
 DTEND:20260412T092500Z
 SUMMARY:PeUT (ć)
 LOCATION:
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260419T075000Z
 DTEND:20260419T092500Z
 SUMMARY:PeUT (ć)
 LOCATION:4.23/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260517T075000Z
@@ -1745,6 +1738,13 @@ DTEND:20260517T092500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/19; 3d/19
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260531T075000Z
+DTEND:20260531T092500Z
+SUMMARY:PeUT (ć)
+LOCATION:5.17/135
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260621T075000Z

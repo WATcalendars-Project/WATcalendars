@@ -1642,6 +1642,13 @@ LOCATION:17b/21; 15/21; 10/21; 9/21; 1/21 WLO; 24FX; 1S
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/15\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260330T060000Z
+DTEND:20260330T073500Z
+SUMMARY:Płe (ć)
+LOCATION:1/19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260427T060000Z
 DTEND:20260427T073500Z
 SUMMARY:Ilog (w)
@@ -1712,6 +1719,13 @@ LOCATION:31/158
 DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260427T075000Z
+DTEND:20260427T092500Z
+SUMMARY:Płe (L)
+LOCATION:16/19; 17/19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260504T075000Z
 DTEND:20260504T092500Z
 SUMMARY:PeUT (ć)
@@ -1780,6 +1794,13 @@ DTEND:20260420T111500Z
 SUMMARY:Wm (w)
 LOCATION:aula/135
 DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T094000Z
+DTEND:20260427T111500Z
+SUMMARY:Płe (L)
+LOCATION:16/19; 17/19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T094000Z
@@ -2209,6 +2230,13 @@ LOCATION:0.8/16
 DESCRIPTION:Infrastruktura logistyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260505T113000Z
+DTEND:20260505T130500Z
+SUMMARY:Płe (L)
+LOCATION:16/19; 17/19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260512T113000Z
 DTEND:20260512T130500Z
 SUMMARY:PPL (P)
@@ -2377,11 +2405,32 @@ LOCATION:301/S
 DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260415T075000Z
+DTEND:20260415T092500Z
+SUMMARY:PKM (ć)
+LOCATION:108/54; 109/54
+DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. Torzewski Janusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260429T075000Z
 DTEND:20260429T092500Z
 SUMMARY:PPL (P)
 LOCATION:0.8/16
 DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 6/10\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T075000Z
+DTEND:20260506T092500Z
+SUMMARY:PKM (ć)
+LOCATION:108/54; 109/54
+DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Torzewski Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T075000Z
+DTEND:20260520T092500Z
+SUMMARY:Płe (L)
+LOCATION:16/19; 17/19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T075000Z
@@ -2398,6 +2447,13 @@ LOCATION:aula/135
 DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260408T094000Z
+DTEND:20260408T111500Z
+SUMMARY:PKM (ć)
+LOCATION:108/54; 109/54
+DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Torzewski Janusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T094000Z
 DTEND:20260506T111500Z
 SUMMARY:Sp* (L)
@@ -2405,11 +2461,25 @@ LOCATION:38/20 WLO; 24FX; 1S
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/15
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260520T094000Z
+DTEND:20260520T111500Z
+SUMMARY:Płe (L)
+LOCATION:16/19; 17/19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260311T123000Z
 DTEND:20260311T140500Z
 SUMMARY:Płe (w)
 LOCATION:51/62
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T113000Z
+DTEND:20260401T130500Z
+SUMMARY:PKM (ć)
+LOCATION:108/54; 109/54
+DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T113000Z
@@ -2482,6 +2552,13 @@ LOCATION:301/S
 DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T060000Z
+DTEND:20260402T073500Z
+SUMMARY:Płe (L)
+LOCATION:16/19; 17/19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260409T060000Z
 DTEND:20260409T073500Z
 SUMMARY:Ptr (w)
@@ -2524,6 +2601,13 @@ LOCATION:1.9/16
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260528T060000Z
+DTEND:20260528T073500Z
+SUMMARY:PKM (ć)
+LOCATION:108/54; 109/54
+DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Torzewski Janusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260604T060000Z
 DTEND:20260604T073500Z
 SUMMARY:Sp* (w)
@@ -2543,6 +2627,34 @@ DTEND:20260618T073500Z
 SUMMARY:Sp* (w)
 LOCATION:1.9/16
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr inż. Woźniak Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T085000Z
+DTEND:20260319T102500Z
+SUMMARY:Płe (ć)
+LOCATION:6/23a
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T075000Z
+DTEND:20260402T092500Z
+SUMMARY:Płe (L)
+LOCATION:16/19; 17/19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T075000Z
+DTEND:20260423T092500Z
+SUMMARY:PKM (ć)
+LOCATION:108/54; 109/54
+DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Torzewski Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T075000Z
+DTEND:20260514T092500Z
+SUMMARY:PKM (ć)
+LOCATION:108/54; 109/54
+DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260604T075000Z
@@ -2601,11 +2713,25 @@ LOCATION:4.23/135
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260515T060000Z
+DTEND:20260515T073500Z
+SUMMARY:Płe (L)
+LOCATION:16/19; 17/19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260327T085000Z
 DTEND:20260327T102500Z
 SUMMARY:Wm (w)
 LOCATION:aula/135
 DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T075000Z
+DTEND:20260515T092500Z
+SUMMARY:Płe (L)
+LOCATION:16/19; 17/19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T104000Z
@@ -2634,6 +2760,13 @@ DTEND:20260424T111500Z
 SUMMARY:PeUT (w)
 LOCATION:aula/135
 DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T094000Z
+DTEND:20260522T111500Z
+SUMMARY:Płe (L)
+LOCATION:16/19; 17/19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T123000Z

@@ -326,6 +326,13 @@ LOCATION:0.22/16
 DESCRIPTION:Seminarium Dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/15\nProwadzący: dr Krysowaty Aneta
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260324T104000Z
+DTEND:20260324T121500Z
+SUMMARY:Teoria 
+LOCATION:aula/135
+DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 1/8\nProwadzący: Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; dr inż. Magierski Mieczysław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260505T094000Z
 DTEND:20260505T111500Z
 SUMMARY:Polityka 
@@ -373,6 +380,13 @@ DTEND:20260317T140500Z
 SUMMARY:BkI (w)
 LOCATION:3.16/135
 DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Szwarc Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T123000Z
+DTEND:20260324T140500Z
+SUMMARY:Teoria 
+LOCATION:aula/135
+DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 2/8\nProwadzący: Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T113000Z
@@ -550,18 +564,11 @@ LOCATION:238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260303T165000Z
-DTEND:20260303T182500Z
-SUMMARY:Teoria 
-LOCATION:aula/135
-DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 1/8\nProwadzący: Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; dr inż. Magierski Mieczysław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260310T165000Z
 DTEND:20260310T182500Z
 SUMMARY:Teoria 
 LOCATION:aula/135
-DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 2/8\nProwadzący: Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; dr inż. Magierski Mieczysław
+DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 3/8\nProwadzący: Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T165000Z
@@ -597,13 +604,6 @@ DTEND:20260505T172500Z
 SUMMARY:KSOpBMR (ć)
 LOCATION:4.23/135
 DESCRIPTION:Krajowy system obronny przed Bronią Masowego Rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr inż. Kleszcz Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260303T184000Z
-DTEND:20260303T201500Z
-SUMMARY:Teoria 
-LOCATION:aula/135
-DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 3/8\nProwadzący: Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T184000Z

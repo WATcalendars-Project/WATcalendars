@@ -1264,6 +1264,13 @@ LOCATION:1.10/16
 DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260308T070000Z
+DTEND:20260308T083500Z
+SUMMARY:PLm (w)
+LOCATION:
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Nyszk Łukasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260322T070000Z
 DTEND:20260322T083500Z
 SUMMARY:Pmlo (w)
@@ -1285,13 +1292,6 @@ LOCATION:4.23/135
 DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260419T060000Z
-DTEND:20260419T073500Z
-SUMMARY:PLm (w)
-LOCATION:
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Nyszk Łukasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260426T060000Z
 DTEND:20260426T073500Z
 SUMMARY:ZSdL (ć)
@@ -1299,11 +1299,18 @@ LOCATION:0.7/16
 DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260517T060000Z
-DTEND:20260517T073500Z
+DTSTART:20260510T060000Z
+DTEND:20260510T073500Z
 SUMMARY:ZSdL (ć)
 LOCATION:0.7/16
 DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr Oziębło Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260517T060000Z
+DTEND:20260517T073500Z
+SUMMARY:PlM (w)
+LOCATION:0.19/135
+DESCRIPTION:Podstawy logistyki międzynarodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Nyszk Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260531T060000Z
@@ -1334,6 +1341,20 @@ LOCATION:0.7/16
 DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260308T085000Z
+DTEND:20260308T102500Z
+SUMMARY:PLm (ć)
+LOCATION:
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr Nyszk Łukasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260322T085000Z
+DTEND:20260322T102500Z
+SUMMARY:PLm (w)
+LOCATION:
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Nyszk Łukasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260329T075000Z
 DTEND:20260329T092500Z
 SUMMARY:SMa (w)
@@ -1345,7 +1366,7 @@ DTSTART:20260412T075000Z
 DTEND:20260412T092500Z
 SUMMARY:PlM (w)
 LOCATION:0.22/16
-DESCRIPTION:Podstawy logistyki międzynarodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr Nyszk Łukasz
+DESCRIPTION:Podstawy logistyki międzynarodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr Nyszk Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260419T075000Z
@@ -1366,28 +1387,28 @@ DTSTART:20260510T075000Z
 DTEND:20260510T092500Z
 SUMMARY:PLm (w)
 LOCATION:
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Nyszk Łukasz
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Nyszk Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260517T075000Z
 DTEND:20260517T092500Z
-SUMMARY:PlM (w)
+SUMMARY:PlM (ć)
 LOCATION:0.21/16
-DESCRIPTION:Podstawy logistyki międzynarodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr Nyszk Łukasz
+DESCRIPTION:Podstawy logistyki międzynarodowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr Nyszk Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260531T075000Z
 DTEND:20260531T092500Z
-SUMMARY:PLm (w)
-LOCATION:
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Nyszk Łukasz
+SUMMARY:PlM (w)
+LOCATION:0.8/16
+DESCRIPTION:Podstawy logistyki międzynarodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Nyszk Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260614T075000Z
 DTEND:20260614T092500Z
 SUMMARY:PLm (ć)
 LOCATION:
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr Nyszk Łukasz
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr Nyszk Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260621T075000Z
@@ -1415,7 +1436,7 @@ DTSTART:20260412T094000Z
 DTEND:20260412T111500Z
 SUMMARY:PlM (ć)
 LOCATION:0.23/16
-DESCRIPTION:Podstawy logistyki międzynarodowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr Nyszk Łukasz
+DESCRIPTION:Podstawy logistyki międzynarodowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr Nyszk Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260419T094000Z
@@ -1436,14 +1457,21 @@ DTSTART:20260510T094000Z
 DTEND:20260510T111500Z
 SUMMARY:PLm (ć)
 LOCATION:
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr Nyszk Łukasz
+DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr Nyszk Łukasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260517T094000Z
+DTEND:20260517T111500Z
+SUMMARY:PlM (L)
+LOCATION:0.23/16
+DESCRIPTION:Podstawy logistyki międzynarodowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3\nProwadzący: dr Nyszk Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260531T094000Z
 DTEND:20260531T111500Z
-SUMMARY:PLm (ć)
-LOCATION:
-DESCRIPTION:Podstawy logistyki miejskiej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr Nyszk Łukasz
+SUMMARY:PlM (ć)
+LOCATION:0.23/16
+DESCRIPTION:Podstawy logistyki międzynarodowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr Nyszk Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260614T094000Z
@@ -1462,9 +1490,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260412T113000Z
 DTEND:20260412T130500Z
-SUMMARY:PlM (ć)
-LOCATION:
-DESCRIPTION:Podstawy logistyki międzynarodowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr Nyszk Łukasz
+SUMMARY:PlM (L)
+LOCATION:0.23/16
+DESCRIPTION:Podstawy logistyki międzynarodowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3\nProwadzący: dr Nyszk Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260426T113000Z
@@ -1474,17 +1502,17 @@ LOCATION:3.16/135
 DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Głodowska Katarzyna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260531T113000Z
+DTEND:20260531T130500Z
+SUMMARY:PlM (L)
+LOCATION:0.23/16
+DESCRIPTION:Podstawy logistyki międzynarodowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3\nProwadzący: dr Nyszk Łukasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260614T113000Z
 DTEND:20260614T130500Z
 SUMMARY:UrM (L)
 LOCATION:15/21; 38/20 WLO; 23FP; 1N; 23FP; 1N; 23FP; 1N
 DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260531T155000Z
-DTEND:20260531T172500Z
-SUMMARY:PlM (w)
-LOCATION:0.21/16
-DESCRIPTION:Podstawy logistyki międzynarodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr Nyszk Łukasz
 END:VEVENT
 END:VCALENDAR

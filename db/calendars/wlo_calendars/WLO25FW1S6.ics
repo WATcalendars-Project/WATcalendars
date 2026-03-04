@@ -1667,7 +1667,7 @@ DTSTART:20260330T094000Z
 DTEND:20260330T111500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1/12
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260406T094000Z
@@ -2031,7 +2031,7 @@ DTSTART:20260303T085000Z
 DTEND:20260303T102500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 2/12
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 2/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T085000Z
@@ -2136,7 +2136,7 @@ DTSTART:20260407T094000Z
 DTEND:20260407T111500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3/12
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T094000Z
@@ -2346,7 +2346,7 @@ DTSTART:20260407T155000Z
 DTEND:20260407T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 4/12
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 4/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T155000Z
@@ -2412,13 +2412,6 @@ LOCATION:6W
 DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260311T070000Z
-DTEND:20260311T083500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 5/12
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260318T070000Z
 DTEND:20260318T083500Z
 SUMMARY:SzCS (i)
@@ -2468,13 +2461,6 @@ LOCATION:3PL/KO6
 DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć: (i)\nNumer zajęć: 30/77\nProwadzący: prof. dr hab. Pawlisiak Mieczysław; kpt.mgr Nawalicki Piotr; ppłk mgr inż. Grądziel Grzegorz; mjr mgr Wójcik Paweł; dr Pulik Paweł; dr Klimek Krzysztof; por. mgr inż. Filipow Mateusz; dr inż. Woźniak Robert; por. mgr inż. Mikulski Erik; dr Tomaszewski Jarosław; kpt. dr Karolewski Albert; gen. bryg. mgr inż. Stocki Jarosław; kpt. mgr Kamela Przemysław; dr hab. Byłeń Slawomir; dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260311T085000Z
-DTEND:20260311T102500Z
-SUMMARY:DSiSM (ć)
-LOCATION:6PL/KO6; 25FW; 1S; 6 PaW
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: kpt.mgr Nawalicki Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260318T085000Z
 DTEND:20260318T102500Z
 SUMMARY:SzCS (i)
@@ -2522,13 +2508,6 @@ DTEND:20260701T092500Z
 SUMMARY:P.doProm. (i)
 LOCATION:3PL/KO6
 DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć: (i)\nNumer zajęć: 32/77\nProwadzący: prof. dr hab. Pawlisiak Mieczysław; kpt.mgr Nawalicki Piotr; ppłk mgr inż. Grądziel Grzegorz; mjr mgr Wójcik Paweł; dr Pulik Paweł; dr Klimek Krzysztof; por. mgr inż. Filipow Mateusz; dr inż. Woźniak Robert; por. mgr inż. Mikulski Erik; dr Tomaszewski Jarosław; kpt. dr Karolewski Albert; gen. bryg. mgr inż. Stocki Jarosław; kpt. mgr Kamela Przemysław; dr hab. Byłeń Slawomir; dr inż. Kalwasiński Marek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260311T104000Z
-DTEND:20260311T121500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 6/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T104000Z
@@ -2619,7 +2598,7 @@ DTSTART:20260408T113000Z
 DTEND:20260408T130500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 7/12
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 5/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T113000Z
@@ -2818,6 +2797,13 @@ LOCATION:2W
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: mjr dr inż. Walkowiak Marzena
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260409T060000Z
+DTEND:20260409T073500Z
+SUMMARY:DSiSM (ć)
+LOCATION:6PL/KO6; 25FW; 1S; 6 PaW
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: kpt.mgr Nawalicki Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260416T060000Z
 DTEND:20260416T073500Z
 SUMMARY:Dpl (ć)
@@ -2879,6 +2865,13 @@ DTEND:20260402T092500Z
 SUMMARY:wzbnim (w)
 LOCATION:2W
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: mjr dr inż. Walkowiak Marzena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T075000Z
+DTEND:20260409T092500Z
+SUMMARY:SSW 
+LOCATION:
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 6/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T075000Z
@@ -2955,7 +2948,7 @@ DTSTART:20260423T094000Z
 DTEND:20260423T111500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 8/12
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 7/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T094000Z
@@ -3347,7 +3340,7 @@ DTSTART:20260403T094000Z
 DTEND:20260403T111500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 9/12
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 8/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T094000Z
@@ -3655,7 +3648,7 @@ DTSTART:20260418T075000Z
 DTEND:20260418T092500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 10/12
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 9/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260627T075000Z
@@ -3697,7 +3690,7 @@ DTSTART:20260411T094000Z
 DTEND:20260411T111500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 11/12
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 10/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T094000Z
@@ -3788,7 +3781,7 @@ DTSTART:20260418T140000Z
 DTEND:20260418T153500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 12/12
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 11/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260627T140000Z
