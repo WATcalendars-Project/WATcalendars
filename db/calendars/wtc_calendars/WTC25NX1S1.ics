@@ -914,6 +914,13 @@ LOCATION:26/ 34
 DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr inż. Łyszkowski Radosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260617T094000Z
+DTEND:20260617T111500Z
+SUMMARY:Che (L)
+LOCATION:127A/ 14
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T123000Z
 DTEND:20260304T140500Z
 SUMMARY:PTMI (w)
@@ -946,7 +953,7 @@ DTSTART:20260408T113000Z
 DTEND:20260408T130500Z
 SUMMARY:Che (L)
 LOCATION:127A/ 14
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T113000Z
@@ -968,13 +975,6 @@ DTEND:20260429T130500Z
 SUMMARY:PTMI (ć)
 LOCATION:26/ 34
 DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Łyszkowski Radosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260506T113000Z
-DTEND:20260506T130500Z
-SUMMARY:Che (L)
-LOCATION:127A/ 14
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T113000Z
@@ -1012,11 +1012,11 @@ LOCATION:15/ 34
 DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 29/44\nProwadzący: ppłk dr inż. Karczewski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260311T150000Z
-DTEND:20260311T163500Z
-SUMMARY:Mat3 (ć)
-LOCATION:166 S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: prof. dr hab. Peradzyński Zbigniew
+DTSTART:20260617T113000Z
+DTEND:20260617T130500Z
+SUMMARY:Che (L)
+LOCATION:127A/ 14
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T150000Z
@@ -1024,6 +1024,13 @@ DTEND:20260318T163500Z
 SUMMARY:HP (w)
 LOCATION:166 S
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Ratyński Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T150000Z
+DTEND:20260325T163500Z
+SUMMARY:Mat3 (ć)
+LOCATION:166 S
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: prof. dr hab. Peradzyński Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T140000Z
@@ -1037,7 +1044,7 @@ DTSTART:20260408T140000Z
 DTEND:20260408T153500Z
 SUMMARY:Che (L)
 LOCATION:127A/ 14
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T140000Z
@@ -1052,13 +1059,6 @@ DTEND:20260429T153500Z
 SUMMARY:PTMI (ć)
 LOCATION:26/ 34
 DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Łyszkowski Radosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260506T140000Z
-DTEND:20260506T153500Z
-SUMMARY:Che (L)
-LOCATION:127A/ 14
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T140000Z
@@ -1709,14 +1709,14 @@ DTSTART:20260320T104000Z
 DTEND:20260320T121500Z
 SUMMARY:F1 (L)
 LOCATION:141 S;139 S
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: mgr inż. Jankowski Tomasz; prof.dr hab.inż. Jaroszewicz Leszek; mgr inż. Kosturek Rafał; dr inż. Korec-Kosturek Joanna
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: mgr inż. Jankowski Tomasz; mgr inż. Kosturek Rafał; dr inż. Korec-Kosturek Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T094000Z
 DTEND:20260410T111500Z
 SUMMARY:F1 (L)
 LOCATION:141 S;139 S
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: mgr inż. Jankowski Tomasz; prof.dr hab.inż. Jaroszewicz Leszek; mgr inż. Kosturek Rafał; dr inż. Korec-Kosturek Joanna
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: mgr inż. Jankowski Tomasz; mgr inż. Kosturek Rafał; dr inż. Korec-Kosturek Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T094000Z
@@ -1730,7 +1730,7 @@ DTSTART:20260508T094000Z
 DTEND:20260508T111500Z
 SUMMARY:F1 (L)
 LOCATION:141 S;139 S
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: mgr inż. Jankowski Tomasz; prof.dr hab.inż. Jaroszewicz Leszek; mgr inż. Kosturek Rafał; dr inż. Korec-Kosturek Joanna
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: mgr inż. Jankowski Tomasz; mgr inż. Kosturek Rafał; dr inż. Korec-Kosturek Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T094000Z
@@ -1751,14 +1751,14 @@ DTSTART:20260529T094000Z
 DTEND:20260529T111500Z
 SUMMARY:F1 (L)
 LOCATION:141 S;139 S
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: mgr inż. Jankowski Tomasz; prof.dr hab.inż. Jaroszewicz Leszek; mgr inż. Kosturek Rafał; dr inż. Korec-Kosturek Joanna
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: mgr inż. Jankowski Tomasz; mgr inż. Kosturek Rafał; dr inż. Korec-Kosturek Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T094000Z
 DTEND:20260612T111500Z
 SUMMARY:F1 (L)
 LOCATION:141 S;139 S
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: mgr inż. Jankowski Tomasz; prof.dr hab.inż. Jaroszewicz Leszek; mgr inż. Kosturek Rafał; dr inż. Korec-Kosturek Joanna
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: mgr inż. Jankowski Tomasz; mgr inż. Kosturek Rafał; dr inż. Korec-Kosturek Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T094000Z

@@ -2538,18 +2538,18 @@ LOCATION:301/S
 DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260504T060000Z
-DTEND:20260504T073500Z
-SUMMARY:ZdSZ (w)
-LOCATION:
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260601T060000Z
 DTEND:20260601T073500Z
 SUMMARY:BiEWTM (L)
 LOCATION:
 DESCRIPTION:Budowa i eksploatacja wyposażenia technicznego magazynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr inż. Sieczka Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T060000Z
+DTEND:20260615T073500Z
+SUMMARY:ZdSZ (ć)
+LOCATION:0.8/16
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T085000Z
@@ -2913,7 +2913,7 @@ DTSTART:20260324T104000Z
 DTEND:20260324T121500Z
 SUMMARY:Mat3 (ć)
 LOCATION:2.21/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T094000Z
@@ -2927,7 +2927,7 @@ DTSTART:20260414T094000Z
 DTEND:20260414T111500Z
 SUMMARY:Mat3 (ć)
 LOCATION:5.17/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T094000Z
@@ -2949,6 +2949,13 @@ DTEND:20260602T111500Z
 SUMMARY:F1 (ć)
 LOCATION:0.19/135
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T094000Z
+DTEND:20260616T111500Z
+SUMMARY:ZdSZ (S)
+LOCATION:0.21/16
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T123000Z
@@ -3063,13 +3070,6 @@ LOCATION:
 DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: (Zp)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Miktus Artur
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260407T140000Z
-DTEND:20260407T153500Z
-SUMMARY:ZdSZ (w)
-LOCATION:aula/135
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260414T140000Z
 DTEND:20260414T153500Z
 SUMMARY:Mas (w)
@@ -3088,7 +3088,7 @@ DTSTART:20260602T140000Z
 DTEND:20260602T153500Z
 SUMMARY:Mat3 (L)
 LOCATION:
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T165000Z
@@ -3110,13 +3110,6 @@ DTEND:20260331T172500Z
 SUMMARY:BiEWTM (w)
 LOCATION:aula/135
 DESCRIPTION:Budowa i eksploatacja wyposażenia technicznego magazynów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Sieczka Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260407T155000Z
-DTEND:20260407T172500Z
-SUMMARY:ZdSZ (w)
-LOCATION:aula/135
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T155000Z
@@ -3165,21 +3158,21 @@ DTSTART:20260401T060000Z
 DTEND:20260401T073500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 1/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 1/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T060000Z
 DTEND:20260408T073500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T060000Z
 DTEND:20260415T073500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T060000Z
@@ -3221,7 +3214,7 @@ DTSTART:20260527T060000Z
 DTEND:20260527T073500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T060000Z
@@ -3263,7 +3256,7 @@ DTSTART:20260325T085000Z
 DTEND:20260325T102500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T075000Z
@@ -3368,7 +3361,7 @@ DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T094000Z
@@ -3396,14 +3389,14 @@ DTSTART:20260701T094000Z
 DTEND:20260701T111500Z
 SUMMARY:Mat3 (E)
 LOCATION:301/S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260708T094000Z
 DTEND:20260708T111500Z
 SUMMARY:Mat3 (Ep)
 LOCATION:301/S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T123000Z
@@ -3434,6 +3427,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/30\nProwadzący: mgr Gąsiński Michał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260520T113000Z
+DTEND:20260520T130500Z
+SUMMARY:ZdSZ (ć)
+LOCATION:1.16/16
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260527T113000Z
 DTEND:20260527T130500Z
 SUMMARY:BiEWTM (ć)
@@ -3452,7 +3452,7 @@ DTSTART:20260617T113000Z
 DTEND:20260617T130500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T150000Z
@@ -3513,9 +3513,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T140000Z
 DTEND:20260520T153500Z
-SUMMARY:ZdSZ (w)
-LOCATION:0.24/135
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Tomaszewski Jarosław
+SUMMARY:ZdSZ (ć)
+LOCATION:1.16/16
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T165000Z
@@ -3523,6 +3523,34 @@ DTEND:20260304T182500Z
 SUMMARY:BiEWTM (w)
 LOCATION:aula/135
 DESCRIPTION:Budowa i eksploatacja wyposażenia technicznego magazynów\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Sieczka Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T165000Z
+DTEND:20260318T182500Z
+SUMMARY:ZdSZ (w)
+LOCATION:aula/135
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T165000Z
+DTEND:20260325T182500Z
+SUMMARY:ZdSZ (w)
+LOCATION:aula/135
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T155000Z
+DTEND:20260401T172500Z
+SUMMARY:ZdSZ (w)
+LOCATION:0.24/135
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T155000Z
+DTEND:20260408T172500Z
+SUMMARY:ZdSZ (w)
+LOCATION:0.24/135
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T155000Z
@@ -3546,18 +3574,18 @@ LOCATION:0.24/135
 DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260520T155000Z
-DTEND:20260520T172500Z
-SUMMARY:ZdSZ (w)
-LOCATION:0.24/135
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Tomaszewski Jarosław
+DTSTART:20260513T155000Z
+DTEND:20260513T172500Z
+SUMMARY:ZdSZ (ć)
+LOCATION:
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260527T155000Z
-DTEND:20260527T172500Z
-SUMMARY:ZdSZ (w)
-LOCATION:0.24/135
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr Tomaszewski Jarosław
+DTSTART:20260520T155000Z
+DTEND:20260520T172500Z
+SUMMARY:ZdSZ (ć)
+LOCATION:1.16/16
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T155000Z
@@ -3732,7 +3760,7 @@ DTSTART:20260507T075000Z
 DTEND:20260507T092500Z
 SUMMARY:SzS (ć)
 LOCATION:2PL/20KP; 3PL/20KP; 2pl/29kp; 1pl/29kp; 25SW; 1S; 25KX; 3S; 25IX; 1S; 25IX; 2S; 25MX; 3S; 25FW; 4S; 25MX; 1S; 25MX; 2S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: płk prof.dr hab. Mitkow Szymon; płk dr Niemirka Sławomir; dr Kowal Robert; mjr mgr Wójcik Paweł; mjr mgr inż. Wróbel Mateusz; prof. dr hab. inż. Jóźwikowski Krzysztof; dr Czuba Beata; dr Miszczak Marta
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Tomaszewska Justyna; płk dr Niemirka Sławomir; dr Kowal Robert; mjr mgr Wójcik Paweł; mjr mgr inż. Wróbel Mateusz; prof. dr hab. inż. Jóźwikowski Krzysztof; dr Czuba Beata; dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T075000Z
@@ -3882,6 +3910,13 @@ LOCATION:4S
 DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: ppłk dr Waszkiewicz Grzegorz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260618T094000Z
+DTEND:20260618T111500Z
+SUMMARY:ZdSZ (S)
+LOCATION:0.8/16
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T123000Z
 DTEND:20260305T140500Z
 SUMMARY:SSW 
@@ -3921,7 +3956,7 @@ DTSTART:20260409T113000Z
 DTEND:20260409T130500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T113000Z
@@ -3980,6 +4015,13 @@ LOCATION:10R
 DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: (r)\nNumer zajęć: 1/1\nProwadzący: mjr mgr Zawadzki Filip
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260618T113000Z
+DTEND:20260618T130500Z
+SUMMARY:ZdSZ (S)
+LOCATION:0.8/16
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T150000Z
 DTEND:20260305T163500Z
 SUMMARY:SSW 
@@ -3998,7 +4040,7 @@ DTSTART:20260326T150000Z
 DTEND:20260326T163500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T140000Z
@@ -4292,7 +4334,7 @@ DTSTART:20260417T060000Z
 DTEND:20260417T073500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T060000Z
@@ -4306,7 +4348,7 @@ DTSTART:20260515T060000Z
 DTEND:20260515T073500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T060000Z
@@ -4320,21 +4362,21 @@ DTSTART:20260529T060000Z
 DTEND:20260529T073500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T060000Z
 DTEND:20260612T073500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T085000Z
 DTEND:20260306T102500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T085000Z
@@ -4418,7 +4460,7 @@ DTSTART:20260313T104000Z
 DTEND:20260313T121500Z
 SUMMARY:Mat3 (ć)
 LOCATION:31/158
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T104000Z
@@ -4460,7 +4502,7 @@ DTSTART:20260515T094000Z
 DTEND:20260515T111500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T094000Z
@@ -4593,14 +4635,14 @@ DTSTART:20260313T150000Z
 DTEND:20260313T163500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T150000Z
 DTEND:20260320T163500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T140000Z
@@ -4614,7 +4656,7 @@ DTSTART:20260417T140000Z
 DTEND:20260417T153500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260424T140000Z
@@ -4635,7 +4677,7 @@ DTSTART:20260522T140000Z
 DTEND:20260522T153500Z
 SUMMARY:Mat3 (L)
 LOCATION:
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T140000Z
@@ -4643,6 +4685,13 @@ DTEND:20260529T153500Z
 SUMMARY:F1 (L)
 LOCATION:142 S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260605T140000Z
+DTEND:20260605T153500Z
+SUMMARY:ZdSZ (ć)
+LOCATION:4.23/135
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T140000Z
@@ -4687,6 +4736,13 @@ LOCATION:aula/135
 DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260411T060000Z
+DTEND:20260411T073500Z
+SUMMARY:ZdSZ (w)
+LOCATION:aula/135
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260516T060000Z
 DTEND:20260516T073500Z
 SUMMARY:SzS (ć)
@@ -4694,11 +4750,18 @@ LOCATION:4PL/20KP; 2pl/29kp; 25IX; 3S; 25IX; 4S; 25MX; 3S; 25FW; 4S; 0 ST
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: płk dr Niemirka Sławomir; mjr mgr inż. Wróbel Mateusz; mjr mgr Wójcik Paweł; dr Czuba Beata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260411T075000Z
+DTEND:20260411T092500Z
+SUMMARY:ZdSZ (w)
+LOCATION:aula/135
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260425T075000Z
 DTEND:20260425T092500Z
 SUMMARY:SzS (ć)
 LOCATION:2PL/20KP; 3PL/20KP; 2pl/29kp; 1pl/29kp; 25SW; 1S; 25KX; 3S; 25IX; 1S; 25IX; 2S; 25MX; 3S; 25FW; 4S; 25MX; 1S; 25MX; 2S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: płk prof.dr hab. Mitkow Szymon; płk dr Niemirka Sławomir; dr Kowal Robert; mjr mgr Wójcik Paweł; mjr mgr inż. Wróbel Mateusz; prof. dr hab. inż. Jóźwikowski Krzysztof; dr Czuba Beata; dr Miszczak Marta
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Tomaszewska Justyna; płk dr Niemirka Sławomir; dr Kowal Robert; mjr mgr Wójcik Paweł; mjr mgr inż. Wróbel Mateusz; prof. dr hab. inż. Jóźwikowski Krzysztof; dr Czuba Beata; dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T075000Z

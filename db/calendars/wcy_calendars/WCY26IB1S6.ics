@@ -893,13 +893,6 @@ LOCATION:AW 3/038
 DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260218T123000Z
-DTEND:20260218T140500Z
-SUMMARY:SBD (L)
-LOCATION:224 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: Marcin Sirant
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260219T070000Z
 DTEND:20260219T083500Z
 SUMMARY:BwCP (ć)
@@ -1212,14 +1205,14 @@ DTSTART:20260303T150000Z
 DTEND:20260303T163500Z
 SUMMARY:SBD (L)
 LOCATION:224 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: Marcin Sirant
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: Marcin Sirant
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T165000Z
 DTEND:20260303T182500Z
 SUMMARY:SBD (L)
 LOCATION:224 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: Marcin Sirant
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: Marcin Sirant
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T070000Z
@@ -1276,13 +1269,6 @@ DTEND:20260305T102500Z
 SUMMARY:MPH (w)
 LOCATION:5.17/ 135
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260305T104000Z
-DTEND:20260305T121500Z
-SUMMARY:RiAIP (w)
-LOCATION:BIBL /22
-DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T150000Z
@@ -1353,6 +1339,13 @@ DTEND:20260309T140500Z
 SUMMARY:SO (L)
 LOCATION:218 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260309T150000Z
+DTEND:20260309T163500Z
+SUMMARY:SBD (L)
+LOCATION:228 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: Marcin Sirant
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T070000Z
@@ -1640,6 +1633,13 @@ DTEND:20260319T121500Z
 SUMMARY:TA (w)
 LOCATION:AW 3/043
 DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T123000Z
+DTEND:20260319T140500Z
+SUMMARY:RiAIP (w)
+LOCATION:AW 3/038
+DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T070000Z

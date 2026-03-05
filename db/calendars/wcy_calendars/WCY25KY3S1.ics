@@ -1852,6 +1852,13 @@ LOCATION:313 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260309T104000Z
+DTEND:20260309T121500Z
+SUMMARY:Tgs (w)
+LOCATION:313 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260309T123000Z
 DTEND:20260309T140500Z
 SUMMARY:Tpi (w)
@@ -1889,9 +1896,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T070000Z
 DTEND:20260311T083500Z
-SUMMARY:Rp (w)
+SUMMARY:Tgs (w)
 LOCATION:314 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T085000Z
@@ -1910,9 +1917,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T070000Z
 DTEND:20260312T083500Z
-SUMMARY:Amt (w)
+SUMMARY:Tgs (w)
 LOCATION:314 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T085000Z
@@ -1985,6 +1992,13 @@ LOCATION:314 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260316T150000Z
+DTEND:20260316T163500Z
+SUMMARY:Rp (w)
+LOCATION:317 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260317T085000Z
 DTEND:20260317T102500Z
 SUMMARY:Tpi (w)
@@ -2045,7 +2059,7 @@ DTSTART:20260319T070000Z
 DTEND:20260319T083500Z
 SUMMARY:Amt (w)
 LOCATION:314 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T085000Z
@@ -2104,13 +2118,6 @@ LOCATION:307 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12\nProwadzący: prof. dr hab. Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260320T150000Z
-DTEND:20260320T163500Z
-SUMMARY:Tgs (w)
-LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260323T150000Z
 DTEND:20260323T163500Z
 SUMMARY:Tpi (w)
@@ -2148,9 +2155,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T070000Z
 DTEND:20260325T083500Z
-SUMMARY:Rp (w)
+SUMMARY:Tgs (w)
 LOCATION:314 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T085000Z
@@ -2192,7 +2199,7 @@ DTSTART:20260326T104000Z
 DTEND:20260326T121500Z
 SUMMARY:Amt (w)
 LOCATION:314 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T123000Z
@@ -2221,6 +2228,13 @@ DTEND:20260330T092500Z
 SUMMARY:WdP (L)
 LOCATION:252 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: mgr inż. Sławomir Wysocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T140000Z
+DTEND:20260330T153500Z
+SUMMARY:Rp (w)
+LOCATION:316 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T094000Z
@@ -2374,7 +2388,7 @@ DTSTART:20260409T094000Z
 DTEND:20260409T111500Z
 SUMMARY:Amt (w)
 LOCATION:314 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T113000Z
@@ -2486,7 +2500,7 @@ DTSTART:20260416T094000Z
 DTEND:20260416T111500Z
 SUMMARY:Amt (w)
 LOCATION:314 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T113000Z
@@ -2521,14 +2535,7 @@ DTSTART:20260417T113000Z
 DTEND:20260417T130500Z
 SUMMARY:Tgs (w)
 LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260417T140000Z
-DTEND:20260417T153500Z
-SUMMARY:Tgs (w)
-LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T060000Z
@@ -2683,20 +2690,6 @@ DTEND:20260428T130500Z
 SUMMARY:Tgs (ć)
 LOCATION:252 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260428T140000Z
-DTEND:20260428T153500Z
-SUMMARY:Tgs (w)
-LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260428T155000Z
-DTEND:20260428T172500Z
-SUMMARY:Tgs (w)
-LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T060000Z
@@ -2864,7 +2857,7 @@ DTSTART:20260507T094000Z
 DTEND:20260507T111500Z
 SUMMARY:Amt (w)
 LOCATION:314 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T113000Z
@@ -2913,7 +2906,7 @@ DTSTART:20260512T060000Z
 DTEND:20260512T073500Z
 SUMMARY:Amt (w)
 LOCATION:314 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T094000Z
@@ -2969,7 +2962,7 @@ DTSTART:20260514T094000Z
 DTEND:20260514T111500Z
 SUMMARY:Amt (w)
 LOCATION:314 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T113000Z
@@ -3089,6 +3082,13 @@ DTEND:20260520T092500Z
 SUMMARY:PEM (ć)
 LOCATION:119 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T094000Z
+DTEND:20260520T111500Z
+SUMMARY:Amt (w)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T113000Z

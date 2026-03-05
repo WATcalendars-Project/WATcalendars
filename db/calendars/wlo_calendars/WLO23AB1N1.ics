@@ -949,11 +949,18 @@ LOCATION:2/22
 DESCRIPTION:ADMINISTROWANIE\nRodzaj zajęć: -\nNumer zajęć: 9/9\nProwadzący: mgr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260418T140000Z
+DTEND:20260418T153500Z
+SUMMARY:SZKOLENIE 
+LOCATION:23AB; 1N; 1 KT
+DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 1/11\nProwadzący: mgr Krawczyk Mateusz; prof. dr hab. Kaczmarek Waldemar
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260425T140000Z
 DTEND:20260425T153500Z
 SUMMARY:SZKOLENIE 
 LOCATION:31/158
-DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 1/11\nProwadzący: mgr Krawczyk Mateusz
+DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 2/11\nProwadzący: mgr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260307T165000Z
@@ -970,6 +977,13 @@ LOCATION:0.6/16
 DESCRIPTION:ORGANY\nRodzaj zajęć: -\nNumer zajęć: 5/9\nProwadzący: dr Moch Natalia; dr Szczegielniak Michał; mgr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260418T155000Z
+DTEND:20260418T172500Z
+SUMMARY:SZKOLENIE 
+LOCATION:23AB; 1N; 1 KT
+DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 3/11\nProwadzący: mgr Krawczyk Mateusz; prof. dr hab. Kaczmarek Waldemar
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260412T060000Z
 DTEND:20260412T073500Z
 SUMMARY:S.D. (S)
@@ -984,25 +998,18 @@ LOCATION:1.15/16
 DESCRIPTION:ORGANIZOWANIE\nRodzaj zajęć: -\nNumer zajęć: 8/9\nProwadzący: mgr Krawczyk Mateusz; dr Szczegielniak Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260426T060000Z
-DTEND:20260426T073500Z
-SUMMARY:SZKOLENIE 
-LOCATION:37/158
-DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 2/11\nProwadzący: mgr Krawczyk Mateusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260322T085000Z
 DTEND:20260322T102500Z
 SUMMARY:SZKOLENIE 
 LOCATION:37/158
-DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 3/11\nProwadzący: mgr Krawczyk Mateusz; dr inż. Kubaczyk Tadeusz
+DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 4/11\nProwadzący: mgr Krawczyk Mateusz; dr inż. Kubaczyk Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260329T075000Z
 DTEND:20260329T092500Z
 SUMMARY:SZKOLENIE 
 LOCATION:37/158
-DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 4/11\nProwadzący: mgr Krawczyk Mateusz; dr inż. Kubaczyk Tadeusz
+DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 5/11\nProwadzący: mgr Krawczyk Mateusz; dr inż. Kubaczyk Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260412T075000Z
@@ -1023,7 +1030,7 @@ DTSTART:20260426T075000Z
 DTEND:20260426T092500Z
 SUMMARY:SZKOLENIE 
 LOCATION:37/158
-DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 5/11\nProwadzący: mgr Krawczyk Mateusz
+DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 6/11\nProwadzący: mgr Krawczyk Mateusz; dr inż. Kubaczyk Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260301T104000Z
@@ -1051,21 +1058,21 @@ DTSTART:20260329T094000Z
 DTEND:20260329T111500Z
 SUMMARY:SZKOLENIE 
 LOCATION:37/158
-DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 6/11\nProwadzący: mgr Krawczyk Mateusz; dr inż. Kubaczyk Tadeusz
+DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 7/11\nProwadzący: mgr Krawczyk Mateusz; dr inż. Kubaczyk Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260412T094000Z
 DTEND:20260412T111500Z
 SUMMARY:SZKOLENIE 
 LOCATION:5.21/135
-DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 7/11\nProwadzący: mgr Krawczyk Mateusz
+DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 8/11\nProwadzący: mgr Krawczyk Mateusz; dr inż. Kubaczyk Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260419T094000Z
 DTEND:20260419T111500Z
 SUMMARY:SZKOLENIE 
 LOCATION:31/158
-DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 8/11\nProwadzący: mgr Krawczyk Mateusz
+DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 9/11\nProwadzący: mgr Krawczyk Mateusz; dr inż. Kubaczyk Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260426T094000Z
@@ -1079,7 +1086,7 @@ DTSTART:20260301T123000Z
 DTEND:20260301T140500Z
 SUMMARY:SZKOLENIE 
 LOCATION:37/158
-DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 9/11\nProwadzący: mgr Krawczyk Mateusz; dr inż. Kubaczyk Tadeusz
+DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 10/11\nProwadzący: mgr Krawczyk Mateusz; dr inż. Kubaczyk Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260308T123000Z
@@ -1107,14 +1114,7 @@ DTSTART:20260412T113000Z
 DTEND:20260412T130500Z
 SUMMARY:SZKOLENIE 
 LOCATION:5.21/135
-DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 10/11\nProwadzący: mgr Krawczyk Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260419T113000Z
-DTEND:20260419T130500Z
-SUMMARY:SZKOLENIE 
-LOCATION:31/158
-DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 11/11\nProwadzący: mgr Krawczyk Mateusz
+DESCRIPTION:SZKOLENIE\nRodzaj zajęć: -\nNumer zajęć: 11/11\nProwadzący: mgr Krawczyk Mateusz; dr inż. Kubaczyk Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260426T113000Z

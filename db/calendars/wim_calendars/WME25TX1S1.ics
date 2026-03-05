@@ -3094,14 +3094,14 @@ BEGIN:VEVENT
 DTSTART:20250629T113000Z
 DTEND:20250629T130500Z
 SUMMARY:Plog (E)
-LOCATION:3/ 54
+LOCATION:51/ 62
 DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250914T113000Z
 DTEND:20250914T130500Z
 SUMMARY:Plog (Ep)
-LOCATION:3/ 54
+LOCATION:51/ 62
 DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
@@ -3686,13 +3686,6 @@ LOCATION:42/ 54A; PMI/ 54
 DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr inż. Przybysz Mirosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250624T075000Z
-DTEND:20250624T092500Z
-SUMMARY:Met (Zp. Ćw)
-LOCATION:6/ 23a
-DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250701T075000Z
 DTEND:20250701T092500Z
 SUMMARY:Mat3 (E)
@@ -4111,6 +4104,13 @@ DTEND:20250618T092500Z
 SUMMARY:Mat3 (L)
 LOCATION:
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Prusińska Agnieszka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250625T075000Z
+DTEND:20250625T092500Z
+SUMMARY:Met (Zp. Ćw)
+LOCATION:116/ 54
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T075000Z

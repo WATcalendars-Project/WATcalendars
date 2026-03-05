@@ -2370,13 +2370,6 @@ LOCATION:aula/135
 DESCRIPTION:Standaryzacja i interoperacyjność logistyczna w NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr n.społ. inż. Rogowski Bogusław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260504T060000Z
-DTEND:20260504T073500Z
-SUMMARY:ZwWSL (ć)
-LOCATION:0.23/16
-DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260511T060000Z
 DTEND:20260511T073500Z
 SUMMARY:WF (ć)
@@ -2447,6 +2440,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/30\nProwadzący: mgr Kubajka Marek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260518T075000Z
+DTEND:20260518T092500Z
+SUMMARY:ZLWwC (ć)
+LOCATION:0.23/16
+DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Nagrabski Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260525T075000Z
 DTEND:20260525T092500Z
 SUMMARY:ZSdL (ć)
@@ -2459,6 +2459,13 @@ DTEND:20260601T092500Z
 SUMMARY:ZSdL (ć)
 LOCATION:0.7/16; 0.6/16
 DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Oziębło Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T075000Z
+DTEND:20260608T092500Z
+SUMMARY:ZLWwC (ć)
+LOCATION:0.23/16
+DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T075000Z
@@ -2524,6 +2531,13 @@ LOCATION:1.15/16
 DESCRIPTION:Standaryzacja i interoperacyjność logistyczna w NATO\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr n.społ. inż. Rogowski Bogusław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260525T094000Z
+DTEND:20260525T111500Z
+SUMMARY:ZLWwC (ć)
+LOCATION:1.16/16
+DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Nagrabski Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260608T094000Z
 DTEND:20260608T111500Z
 SUMMARY:ZSdL (ć)
@@ -2535,7 +2549,7 @@ DTSTART:20260316T123000Z
 DTEND:20260316T140500Z
 SUMMARY:ZwWSL (ć)
 LOCATION:1.16/16
-DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
+DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T113000Z
@@ -2580,18 +2594,18 @@ LOCATION:17/19; 16/19
 DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260504T140000Z
-DTEND:20260504T153500Z
-SUMMARY:PTiRW (ć)
-LOCATION:0.21/16
-DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr inż. Szymański Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260511T140000Z
 DTEND:20260511T153500Z
 SUMMARY:SiIL (ć)
 LOCATION:1.15/16
 DESCRIPTION:Standaryzacja i interoperacyjność logistyczna w NATO\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr n.społ. inż. Rogowski Bogusław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T140000Z
+DTEND:20260525T153500Z
+SUMMARY:PTiRW (ć)
+LOCATION:1.16/16
+DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T155000Z
@@ -3382,7 +3396,7 @@ DTSTART:20260408T060000Z
 DTEND:20260408T073500Z
 SUMMARY:ZwWSL (ć)
 LOCATION:1.16/16
-DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
+DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T060000Z
@@ -3403,7 +3417,7 @@ DTSTART:20260429T060000Z
 DTEND:20260429T073500Z
 SUMMARY:ZwWSL (ć)
 LOCATION:0.23/16
-DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
+DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T060000Z
@@ -3452,14 +3466,14 @@ DTSTART:20260422T075000Z
 DTEND:20260422T092500Z
 SUMMARY:ZwWSL (ć)
 LOCATION:5.17/135
-DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
+DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T075000Z
 DTEND:20260506T092500Z
 SUMMARY:ZwWSL (ć)
 LOCATION:5.21/135
-DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
+DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T075000Z
@@ -3522,7 +3536,7 @@ DTSTART:20260415T094000Z
 DTEND:20260415T111500Z
 SUMMARY:ZwWSL (ć)
 LOCATION:
-DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
+DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T094000Z
@@ -3777,6 +3791,13 @@ LOCATION:0.7/16; 0.6/16
 DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260611T060000Z
+DTEND:20260611T073500Z
+SUMMARY:ZLWwC (S)
+LOCATION:0.23/16
+DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/5\nProwadzący: dr inż. Nagrabski Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260618T060000Z
 DTEND:20260618T073500Z
 SUMMARY:PTiRW (S)
@@ -3805,6 +3826,13 @@ LOCATION:301/S
 DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: XPłe(w) WLO23FO2S0 powtarzanie przedmiotu - prow. dr inż. Piotr Szczawiński - sala 1.10 bud. 16
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T075000Z
+DTEND:20260402T092500Z
+SUMMARY:ZLWwC (S)
+LOCATION:255 S
+DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/5\nProwadzący: dr inż. Nagrabski Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260416T075000Z
 DTEND:20260416T092500Z
 SUMMARY:ZLWwC (w)
@@ -3817,6 +3845,20 @@ DTEND:20260514T092500Z
 SUMMARY:Mps. (L)
 LOCATION:17/19; 16/19
 DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T075000Z
+DTEND:20260521T092500Z
+SUMMARY:ZLWwC (S)
+LOCATION:9/158
+DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/5\nProwadzący: dr inż. Nagrabski Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T075000Z
+DTEND:20260611T092500Z
+SUMMARY:ZLWwC (S)
+LOCATION:0.23/16
+DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T104000Z
@@ -3875,6 +3917,13 @@ LOCATION:237 K; 235 K; 234 K; 233 K; 232 K; 231 K; 230 K; 134 K; 133 K; 131 K; 1
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/30
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260514T094000Z
+DTEND:20260514T111500Z
+SUMMARY:ZLWwC (S)
+LOCATION:0.8/16
+DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/5\nProwadzący: dr inż. Nagrabski Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260521T094000Z
 DTEND:20260521T111500Z
 SUMMARY:Ja (ć)
@@ -3914,7 +3963,7 @@ DTSTART:20260319T123000Z
 DTEND:20260319T140500Z
 SUMMARY:ZwWSL (ć)
 LOCATION:0.23/16
-DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
+DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T113000Z
@@ -3943,6 +3992,13 @@ DTEND:20260423T130500Z
 SUMMARY:Mps. (L)
 LOCATION:17/19; 16/19
 DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T113000Z
+DTEND:20260521T130500Z
+SUMMARY:ZwWSL (ć)
+LOCATION:37/158
+DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T113000Z
@@ -3987,13 +4043,6 @@ LOCATION:17/19; 16/19
 DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260507T140000Z
-DTEND:20260507T153500Z
-SUMMARY:PTiRW (w)
-LOCATION:301/S
-DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: mgr inż. Szymański Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260305T165000Z
 DTEND:20260305T182500Z
 SUMMARY:Ja (ć)
@@ -4013,6 +4062,13 @@ DTEND:20260319T182500Z
 SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T165000Z
+DTEND:20260326T182500Z
+SUMMARY:PTiRW (w)
+LOCATION:aula/135
+DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T155000Z
@@ -4071,11 +4127,25 @@ LOCATION:
 DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260515T060000Z
+DTEND:20260515T073500Z
+SUMMARY:ZLWwC (ć)
+LOCATION:9/158
+DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Nagrabski Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260522T060000Z
 DTEND:20260522T073500Z
 SUMMARY:Wog (ć)
 LOCATION:255 S
 DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: XPłe(w) WLO23FO2S0 powtarzanie przedmiotu - prow. dr inż. Piotr Szczawiński - sala 1.10 bud. 16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T060000Z
+DTEND:20260529T073500Z
+SUMMARY:ZLWwC (ć)
+LOCATION:9/158
+DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260605T060000Z
@@ -4295,11 +4365,18 @@ LOCATION:17/19; 16/19
 DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260619T113000Z
+DTEND:20260619T130500Z
+SUMMARY:PTiRW (w)
+LOCATION:aula/135
+DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: mgr inż. Szymański Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260327T150000Z
 DTEND:20260327T163500Z
 SUMMARY:PTiRW (w)
 LOCATION:aula/135
-DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: mgr inż. Szymański Krzysztof
+DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T140000Z
@@ -4307,13 +4384,6 @@ DTEND:20260410T153500Z
 SUMMARY:ZLWwC (w)
 LOCATION:301/S
 DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: dr inż. Nagrabski Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260424T140000Z
-DTEND:20260424T153500Z
-SUMMARY:PTiRW (w)
-LOCATION:aula/135
-DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T140000Z

@@ -2769,18 +2769,11 @@ LOCATION:0.22/16
 DESCRIPTION:Makroekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr Antczak Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260310T085000Z
-DTEND:20260310T102500Z
-SUMMARY:PKL (ć)
-LOCATION:0.6/16
-DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Gułaj Mariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260324T085000Z
 DTEND:20260324T102500Z
 SUMMARY:PKL (ć)
 LOCATION:0.6/16
-DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Gułaj Mariusz
+DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T075000Z
@@ -2892,7 +2885,7 @@ DTSTART:20260505T113000Z
 DTEND:20260505T130500Z
 SUMMARY:PKL (ć)
 LOCATION:5.17/135
-DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Gułaj Mariusz
+DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T113000Z
@@ -2900,6 +2893,13 @@ DTEND:20260519T130500Z
 SUMMARY:Bop (ć)
 LOCATION:4.23/135
 DESCRIPTION:Badania operacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Górny Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T113000Z
+DTEND:20260526T130500Z
+SUMMARY:PKL (ć)
+LOCATION:0.22/16
+DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T113000Z
@@ -2949,6 +2949,13 @@ DTEND:20260311T083500Z
 SUMMARY:ZŻWAT (i)
 LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: (i)\nNumer zajęć: 1/4\nProwadzący: dr Fijałkowska Sylwia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T060000Z
+DTEND:20260408T073500Z
+SUMMARY:PrFi (w)
+LOCATION:9/158
+DESCRIPTION:Prawo Finansowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T060000Z
@@ -3012,6 +3019,20 @@ DTEND:20260318T102500Z
 SUMMARY:SzS (ć)
 LOCATION:1PL/27KP; 5PL/27KP; 24EW; 1S; 24GM; 1S; 24GR; 1S; 24GR; 2S; 24BJO; 0 ST; 1 T
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr Milian-Pogonowska Małgorzata; mjr mgr Lubkiewicz Tomasz; prof. dr hab. Włodarkiewicz Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T075000Z
+DTEND:20260401T092500Z
+SUMMARY:PrFi (w)
+LOCATION:A.1.3/135
+DESCRIPTION:Prawo Finansowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Małecka Magdalena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T075000Z
+DTEND:20260408T092500Z
+SUMMARY:PrFi (w)
+LOCATION:9/158
+DESCRIPTION:Prawo Finansowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T075000Z
@@ -3256,7 +3277,7 @@ DTSTART:20260520T140000Z
 DTEND:20260520T153500Z
 SUMMARY:PrFi (w)
 LOCATION:5.17/135
-DESCRIPTION:Prawo Finansowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Małecka Magdalena
+DESCRIPTION:Prawo Finansowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T140000Z
@@ -3347,7 +3368,7 @@ DTSTART:20260520T155000Z
 DTEND:20260520T172500Z
 SUMMARY:PrFi (w)
 LOCATION:5.17/135
-DESCRIPTION:Prawo Finansowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Małecka Magdalena
+DESCRIPTION:Prawo Finansowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T155000Z
@@ -3462,11 +3483,25 @@ LOCATION:5PL/27KP; 24EW; 1S; 24BJO; 0 W
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: dr Milian-Pogonowska Małgorzata; mjr mgr Lubkiewicz Tomasz; dr hab. Domańska-Szaruga Beata; dr Kasperski Marian; ppłk mgr Misiejuk Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260618T060000Z
+DTEND:20260618T073500Z
+SUMMARY:Twl (ć)
+LOCATION:5.17/135
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T085000Z
 DTEND:20260305T102500Z
 SUMMARY:Psy (w)
 LOCATION:A.1.3/135
 DESCRIPTION:Psychologia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Fijałkowska Sylwia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T075000Z
+DTEND:20260528T092500Z
+SUMMARY:Twl (ć)
+LOCATION:1.16/16
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T075000Z
@@ -3669,14 +3704,14 @@ DTSTART:20260521T140000Z
 DTEND:20260521T153500Z
 SUMMARY:Twl (ć)
 LOCATION:5.17/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr Tomaszewski Jarosław
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T140000Z
 DTEND:20260528T153500Z
 SUMMARY:Twl (ć)
 LOCATION:5.17/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: dr Tomaszewski Jarosław
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T140000Z
@@ -3690,7 +3725,7 @@ DTSTART:20260618T140000Z
 DTEND:20260618T153500Z
 SUMMARY:Twl (ć)
 LOCATION:5.17/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: dr Tomaszewski Jarosław
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T165000Z
@@ -3767,14 +3802,14 @@ DTSTART:20260521T155000Z
 DTEND:20260521T172500Z
 SUMMARY:Twl (ć)
 LOCATION:5.17/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: dr Tomaszewski Jarosław
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T155000Z
 DTEND:20260528T172500Z
 SUMMARY:Twl (ć)
 LOCATION:5.17/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr Tomaszewski Jarosław
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T155000Z
@@ -3788,20 +3823,6 @@ DTSTART:20260618T155000Z
 DTEND:20260618T172500Z
 SUMMARY:Twl (ć)
 LOCATION:5.17/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260521T174000Z
-DTEND:20260521T191500Z
-SUMMARY:Twl (ć)
-LOCATION:5.17/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260528T174000Z
-DTEND:20260528T191500Z
-SUMMARY:Twl (ć)
-LOCATION:5.17/135
 DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
@@ -3812,25 +3833,11 @@ LOCATION:5PL/27KP; 24EW; 1S; 24BJO; 0 W
 DESCRIPTION:Podstawy survivalu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11\nProwadzący: dr Milian-Pogonowska Małgorzata; mjr mgr Lubkiewicz Tomasz; dr hab. Domańska-Szaruga Beata; dr Kasperski Marian; ppłk mgr Misiejuk Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260618T174000Z
-DTEND:20260618T191500Z
-SUMMARY:Twl (ć)
-LOCATION:5.17/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/12\nProwadzący: dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260306T070000Z
 DTEND:20260306T083500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1/34
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260403T060000Z
-DTEND:20260403T073500Z
-SUMMARY:PrFi (w)
-LOCATION:3.16/135
-DESCRIPTION:Prawo Finansowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T060000Z
@@ -3880,13 +3887,6 @@ DTEND:20260320T102500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3/34
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260403T075000Z
-DTEND:20260403T092500Z
-SUMMARY:PrFi (w)
-LOCATION:3.16/135
-DESCRIPTION:Prawo Finansowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T075000Z
@@ -3950,13 +3950,6 @@ DTEND:20260320T121500Z
 SUMMARY:TA (ć)
 LOCATION:5PL/27KP; 24EW; 1S; 24BJO; 0 StJ; 3/043 T
 DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: mjr mgr Stępień Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260403T094000Z
-DTEND:20260403T111500Z
-SUMMARY:PrFi (w)
-LOCATION:5.17/135
-DESCRIPTION:Prawo Finansowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T094000Z
@@ -4111,6 +4104,13 @@ DTEND:20260508T153500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 13/34
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T140000Z
+DTEND:20260515T153500Z
+SUMMARY:Twl (ć)
+LOCATION:1.16/16
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/12\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T140000Z

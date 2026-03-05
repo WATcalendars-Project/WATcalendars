@@ -3865,7 +3865,7 @@ DTSTART:20250629T094000Z
 DTEND:20250629T111500Z
 SUMMARY:Gin (E)
 LOCATION:3/ 54
-DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250706T094000Z
@@ -3971,6 +3971,13 @@ DTEND:20250622T130500Z
 SUMMARY:Mkm1 (z. popr. lab.)
 LOCATION:13/ 34; 14/ 34; 15/ 34
 DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 1\nRodzaj zajęć: (z. popr. lab.)\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250629T113000Z
+DTEND:20250629T130500Z
+SUMMARY:Gin (E)
+LOCATION:3/ 54
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250302T150000Z
@@ -4453,7 +4460,7 @@ DTSTART:20250623T094000Z
 DTEND:20250623T111500Z
 SUMMARY:Mat3 (Zp. Ćw)
 LOCATION:54/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T123000Z
@@ -4607,7 +4614,7 @@ DTSTART:20250428T140000Z
 DTEND:20250428T153500Z
 SUMMARY:Mat3 (ć)
 LOCATION:54/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T140000Z
@@ -4628,7 +4635,7 @@ DTSTART:20250602T140000Z
 DTEND:20250602T153500Z
 SUMMARY:Mat3 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T155000Z
@@ -4698,21 +4705,21 @@ DTSTART:20250401T060000Z
 DTEND:20250401T073500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 1/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 1/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T060000Z
 DTEND:20250408T073500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T060000Z
 DTEND:20250415T073500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250422T060000Z
@@ -4754,7 +4761,7 @@ DTSTART:20250527T060000Z
 DTEND:20250527T073500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T060000Z
@@ -4796,7 +4803,7 @@ DTSTART:20250325T085000Z
 DTEND:20250325T102500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T075000Z
@@ -5006,14 +5013,14 @@ DTSTART:20250701T094000Z
 DTEND:20250701T111500Z
 SUMMARY:Mat3 (E)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250708T094000Z
 DTEND:20250708T111500Z
 SUMMARY:Mat3 (Ep)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T123000Z
@@ -5286,7 +5293,7 @@ DTSTART:20250409T075000Z
 DTEND:20250409T092500Z
 SUMMARY:Mat3 (ć)
 LOCATION:54/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T075000Z
@@ -5300,7 +5307,7 @@ DTSTART:20250423T075000Z
 DTEND:20250423T092500Z
 SUMMARY:Mat3 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T075000Z
@@ -5517,7 +5524,7 @@ DTSTART:20250430T113000Z
 DTEND:20250430T130500Z
 SUMMARY:Mat3 (ć)
 LOCATION:54/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T113000Z
@@ -5594,7 +5601,7 @@ DTSTART:20250326T150000Z
 DTEND:20250326T163500Z
 SUMMARY:Mat3 (ć)
 LOCATION:54/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T140000Z
@@ -5615,7 +5622,7 @@ DTSTART:20250416T140000Z
 DTEND:20250416T153500Z
 SUMMARY:Mat3 (ć)
 LOCATION:54/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T140000Z
@@ -5643,14 +5650,14 @@ DTSTART:20250514T140000Z
 DTEND:20250514T153500Z
 SUMMARY:Mat3 (ć)
 LOCATION:54/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T140000Z
 DTEND:20250521T153500Z
 SUMMARY:Mat3 (ć)
 LOCATION:54/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T140000Z
@@ -5944,7 +5951,7 @@ DTSTART:20250417T060000Z
 DTEND:20250417T073500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T060000Z
@@ -5972,7 +5979,7 @@ DTSTART:20250515T060000Z
 DTEND:20250515T073500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T060000Z
@@ -5986,7 +5993,7 @@ DTSTART:20250529T060000Z
 DTEND:20250529T073500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T060000Z
@@ -6000,21 +6007,21 @@ DTSTART:20250612T060000Z
 DTEND:20250612T073500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250619T060000Z
 DTEND:20250619T073500Z
 SUMMARY:Mat3 (L)
 LOCATION:
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T085000Z
 DTEND:20250306T102500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T085000Z
@@ -6273,7 +6280,7 @@ DTSTART:20250320T123000Z
 DTEND:20250320T140500Z
 SUMMARY:Mat3 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T123000Z
@@ -6371,7 +6378,7 @@ DTSTART:20250313T150000Z
 DTEND:20250313T163500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T150000Z
@@ -6413,7 +6420,7 @@ DTSTART:20250529T140000Z
 DTEND:20250529T153500Z
 SUMMARY:Mat3 (L)
 LOCATION:
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T140000Z

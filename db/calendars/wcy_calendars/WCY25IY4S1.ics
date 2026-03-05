@@ -1929,13 +1929,6 @@ LOCATION:204 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260317T150000Z
-DTEND:20260317T163500Z
-SUMMARY:Tgs (w)
-LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260318T104000Z
 DTEND:20260318T121500Z
 SUMMARY:Md2 (w)
@@ -2004,6 +1997,13 @@ DTEND:20260320T163500Z
 SUMMARY:SzOR (Inne)
 LOCATION:316 S
 DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T104000Z
+DTEND:20260323T121500Z
+SUMMARY:Tgs (w)
+LOCATION:316 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T070000Z
