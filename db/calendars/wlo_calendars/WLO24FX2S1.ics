@@ -1646,14 +1646,14 @@ DTSTART:20260518T075000Z
 DTEND:20260518T092500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/20
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T075000Z
 DTEND:20260525T092500Z
 SUMMARY:Ptr (L)
-LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/20
+LOCATION:3d/19; 4c/19
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T075000Z
@@ -1686,20 +1686,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T094000Z
 DTEND:20260330T111500Z
-SUMMARY:PPL (w)
-LOCATION:aula/135
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260413T094000Z
-DTEND:20260413T111500Z
 SUMMARY:Wm (w)
 LOCATION:aula/135
 DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260420T094000Z
-DTEND:20260420T111500Z
+DTSTART:20260413T094000Z
+DTEND:20260413T111500Z
 SUMMARY:Wm (w)
 LOCATION:aula/135
 DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr
@@ -1723,14 +1716,14 @@ DTSTART:20260511T094000Z
 DTEND:20260511T111500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/20
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T094000Z
 DTEND:20260518T111500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/20
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T094000Z
@@ -1765,7 +1758,7 @@ DTSTART:20260511T113000Z
 DTEND:20260511T130500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/20
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T113000Z
@@ -1801,6 +1794,13 @@ DTEND:20260330T153500Z
 SUMMARY:Sp* (w)
 LOCATION:1.10/16
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr inż. Woźniak Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T140000Z
+DTEND:20260413T153500Z
+SUMMARY:PPL (w)
+LOCATION:0.24/135
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T140000Z
@@ -2013,18 +2013,11 @@ LOCATION:aula/135
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260428T075000Z
-DTEND:20260428T092500Z
-SUMMARY:Ptr (L)
-LOCATION:3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/20\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260505T075000Z
-DTEND:20260505T092500Z
-SUMMARY:Ptr (L)
-LOCATION:3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/20\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+DTSTART:20260512T075000Z
+DTEND:20260512T092500Z
+SUMMARY:Ptr (S)
+LOCATION:5.21/135
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T075000Z
@@ -2174,20 +2167,6 @@ LOCATION:38/20 WLO; 24FX; 2S
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260602T113000Z
-DTEND:20260602T130500Z
-SUMMARY:Ptr (L)
-LOCATION:3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/20\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260609T113000Z
-DTEND:20260609T130500Z
-SUMMARY:Ptr (L)
-LOCATION:3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/20\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260324T150000Z
 DTEND:20260324T163500Z
 SUMMARY:Sp* (L)
@@ -2207,20 +2186,6 @@ DTEND:20260526T153500Z
 SUMMARY:PKM (ć)
 LOCATION:108/54; 109/54
 DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Torzewski Janusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260602T140000Z
-DTEND:20260602T153500Z
-SUMMARY:Ptr (L)
-LOCATION:3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/20\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260609T140000Z
-DTEND:20260609T153500Z
-SUMMARY:Ptr (L)
-LOCATION:3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/20\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T165000Z
@@ -2457,36 +2422,22 @@ BEGIN:VEVENT
 DTSTART:20260422T113000Z
 DTEND:20260422T130500Z
 SUMMARY:Ptr (L)
-LOCATION:4c/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/20\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260429T113000Z
-DTEND:20260429T130500Z
-SUMMARY:Ptr (L)
-LOCATION:4c/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/20\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+LOCATION:4c/19; 3d/19
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T113000Z
 DTEND:20260506T130500Z
 SUMMARY:Ptr (L)
-LOCATION:4c/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/20\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260513T113000Z
-DTEND:20260513T130500Z
-SUMMARY:Ptr (L)
-LOCATION:4c/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/20\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+LOCATION:4c/19; 3d/19
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T113000Z
 DTEND:20260527T130500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/20
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T113000Z
@@ -2508,13 +2459,6 @@ DTEND:20260401T153500Z
 SUMMARY:Ptr (w)
 LOCATION:aula/135
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260422T140000Z
-DTEND:20260422T153500Z
-SUMMARY:Ptr (S)
-LOCATION:0.24/135
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T140000Z
@@ -2542,7 +2486,7 @@ DTSTART:20260527T140000Z
 DTEND:20260527T153500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 17/20
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T165000Z
@@ -2755,27 +2699,6 @@ LOCATION:17b/21; 15/21; 10/21; 9/21; 1/21 WLO; 24FX; 2S
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260508T060000Z
-DTEND:20260508T073500Z
-SUMMARY:Ptr (L)
-LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 18/20
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T060000Z
-DTEND:20260515T073500Z
-SUMMARY:Ptr (L)
-LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 19/20
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260529T060000Z
-DTEND:20260529T073500Z
-SUMMARY:Ptr (L)
-LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 20/20
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260327T085000Z
 DTEND:20260327T102500Z
 SUMMARY:Wm (w)
@@ -2919,98 +2842,98 @@ BEGIN:VEVENT
 DTSTART:20260411T094000Z
 DTEND:20260411T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/13\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+LOCATION:1a; 1b; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 23EC; 1S; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 1S; 24EX; 2S; 24EX; 3S; 24EX; 4S; 24EX; 5S; 24EX; 6S; 24EX; 7S; 24EY; 1S; 24EY; 3S; 24EY; 4S; 24EY; 6S; 24EY; 7S; 0 K
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T094000Z
 DTEND:20260418T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/13\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+LOCATION:1a; 1b; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 23EC; 1S; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 1S; 24EX; 2S; 24EX; 3S; 24EX; 4S; 24EX; 5S; 24EX; 6S; 24EX; 7S; 24EY; 1S; 24EY; 3S; 24EY; 4S; 24EY; 6S; 24EY; 7S; 0 K
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T094000Z
 DTEND:20260425T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/13\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+LOCATION:1a; 1b; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 23EC; 1S; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 1S; 24EX; 2S; 24EX; 3S; 24EX; 4S; 24EX; 5S; 24EX; 6S; 24EX; 7S; 24EY; 1S; 24EY; 3S; 24EY; 4S; 24EY; 6S; 24EY; 7S; 0 K
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T094000Z
 DTEND:20260509T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+LOCATION:1a; 1b; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 23EC; 1S; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 1S; 24EX; 2S; 24EX; 3S; 24EX; 4S; 24EX; 5S; 24EX; 6S; 24EX; 7S; 24EY; 1S; 24EY; 3S; 24EY; 4S; 24EY; 6S; 24EY; 7S; 0 K
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T094000Z
 DTEND:20260516T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+LOCATION:1a; 1b; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 23EC; 1S; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 1S; 24EX; 2S; 24EX; 3S; 24EX; 4S; 24EX; 5S; 24EX; 6S; 24EX; 7S; 24EY; 1S; 24EY; 3S; 24EY; 4S; 24EY; 6S; 24EY; 7S; 0 K
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260523T094000Z
 DTEND:20260523T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+LOCATION:1a; 1b; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 23EC; 1S; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 1S; 24EX; 2S; 24EX; 3S; 24EX; 4S; 24EX; 5S; 24EX; 6S; 24EX; 7S; 24EY; 1S; 24EY; 3S; 24EY; 4S; 24EY; 6S; 24EY; 7S; 0 K
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260530T094000Z
 DTEND:20260530T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+LOCATION:1a; 1b; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 23EC; 1S; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 1S; 24EX; 2S; 24EX; 3S; 24EX; 4S; 24EX; 5S; 24EX; 6S; 24EX; 7S; 24EY; 1S; 24EY; 3S; 24EY; 4S; 24EY; 6S; 24EY; 7S; 0 K
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T113000Z
 DTEND:20260411T130500Z
 SUMMARY:XFiz1 (w)
-LOCATION:
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+LOCATION:1a; 1b; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 23EC; 1S; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 1S; 24EX; 2S; 24EX; 3S; 24EX; 4S; 24EX; 5S; 24EX; 6S; 24EX; 7S; 24EY; 1S; 24EY; 3S; 24EY; 4S; 24EY; 6S; 24EY; 7S; 0 K
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T113000Z
 DTEND:20260418T130500Z
 SUMMARY:XFiz1 (w)
-LOCATION:
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+LOCATION:1a; 1b; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 23EC; 1S; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 1S; 24EX; 2S; 24EX; 3S; 24EX; 4S; 24EX; 5S; 24EX; 6S; 24EX; 7S; 24EY; 1S; 24EY; 3S; 24EY; 4S; 24EY; 6S; 24EY; 7S; 0 K
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T113000Z
 DTEND:20260425T130500Z
 SUMMARY:XFiz1 (w)
-LOCATION:
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+LOCATION:1a; 1b; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 23EC; 1S; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 1S; 24EX; 2S; 24EX; 3S; 24EX; 4S; 24EX; 5S; 24EX; 6S; 24EX; 7S; 24EY; 1S; 24EY; 3S; 24EY; 4S; 24EY; 6S; 24EY; 7S; 0 K
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T113000Z
 DTEND:20260509T130500Z
 SUMMARY:XFiz1 (w)
-LOCATION:
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 11/13\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+LOCATION:1a; 1b; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 23EC; 1S; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 1S; 24EX; 2S; 24EX; 3S; 24EX; 4S; 24EX; 5S; 24EX; 6S; 24EX; 7S; 24EY; 1S; 24EY; 3S; 24EY; 4S; 24EY; 6S; 24EY; 7S; 0 K
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 11/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T113000Z
 DTEND:20260516T130500Z
 SUMMARY:XFiz1 (w)
-LOCATION:
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+LOCATION:1a; 1b; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 23EC; 1S; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 1S; 24EX; 2S; 24EX; 3S; 24EX; 4S; 24EX; 5S; 24EX; 6S; 24EX; 7S; 24EY; 1S; 24EY; 3S; 24EY; 4S; 24EY; 6S; 24EY; 7S; 0 K
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260523T113000Z
 DTEND:20260523T130500Z
 SUMMARY:XFiz1 (w)
-LOCATION:
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 13/13\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+LOCATION:1a; 1b; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 23EC; 1S; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 1S; 24EX; 2S; 24EX; 3S; 24EX; 4S; 24EX; 5S; 24EX; 6S; 24EX; 7S; 24EY; 1S; 24EY; 3S; 24EY; 4S; 24EY; 6S; 24EY; 7S; 0 K
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 13/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260530T113000Z
 DTEND:20260530T130500Z
 SUMMARY:XFiz1 (ć)
-LOCATION:
+LOCATION:1a; 1b; 1c; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 5S; 24EX; 6S; 24EY; 3S; 24EY; 4S; 24EY; 7S; 0 CiR
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
@@ -3052,63 +2975,63 @@ BEGIN:VEVENT
 DTSTART:20260412T060000Z
 DTEND:20260412T073500Z
 SUMMARY:XFiz1 (ć)
-LOCATION:
+LOCATION:1a; 1b; 1c; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 5S; 24EX; 6S; 24EY; 3S; 24EY; 4S; 24EY; 7S; 0 CiR
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260426T060000Z
 DTEND:20260426T073500Z
 SUMMARY:XFiz1 (ć)
-LOCATION:
+LOCATION:1a; 1b; 1c; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 5S; 24EX; 6S; 24EY; 3S; 24EY; 4S; 24EY; 7S; 0 CiR
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260510T060000Z
 DTEND:20260510T073500Z
 SUMMARY:XFiz1 (ć)
-LOCATION:
+LOCATION:1a; 1b; 1c; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 5S; 24EX; 6S; 24EY; 3S; 24EY; 4S; 24EY; 7S; 0 CiR
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260531T060000Z
 DTEND:20260531T073500Z
 SUMMARY:XFiz1 (ć)
-LOCATION:
+LOCATION:1a; 1b; 1c; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 5S; 24EX; 6S; 24EY; 3S; 24EY; 4S; 24EY; 7S; 0 CiR
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260614T060000Z
 DTEND:20260614T073500Z
 SUMMARY:XFiz1 (ć)
-LOCATION:
+LOCATION:1a; 1b; 1c; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 5S; 24EX; 6S; 24EY; 3S; 24EY; 4S; 24EY; 7S; 0 CiR
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260412T075000Z
 DTEND:20260412T092500Z
 SUMMARY:XFiz1 (ć)
-LOCATION:
+LOCATION:1a; 1b; 1c; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 5S; 24EX; 6S; 24EY; 3S; 24EY; 4S; 24EY; 7S; 0 CiR
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260426T075000Z
 DTEND:20260426T092500Z
 SUMMARY:XFiz1 (ć)
-LOCATION:
+LOCATION:1a; 1b; 1c; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 5S; 24EX; 6S; 24EY; 3S; 24EY; 4S; 24EY; 7S; 0 CiR
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260510T075000Z
 DTEND:20260510T092500Z
 SUMMARY:XFiz1 (ć)
-LOCATION:
+LOCATION:1a; 1b; 1c; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 5S; 24EX; 6S; 24EY; 3S; 24EY; 4S; 24EY; 7S; 0 CiR
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260531T075000Z
 DTEND:20260531T092500Z
 SUMMARY:XFiz1 (ć)
-LOCATION:
+LOCATION:1a; 1b; 1c; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 5S; 24EX; 6S; 24EY; 3S; 24EY; 4S; 24EY; 7S; 0 CiR
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 END:VCALENDAR

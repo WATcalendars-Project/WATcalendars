@@ -308,7 +308,7 @@ BEGIN:VEVENT
 DTSTART:20250427T094000Z
 DTEND:20250427T111500Z
 SUMMARY:Rkd. (ć)
-LOCATION:3/ 23a
+LOCATION:54/ 62
 DESCRIPTION:Rachunek kosztów działań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Milian-Pogonowska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
@@ -436,6 +436,13 @@ DTEND:20250420T130500Z
 SUMMARY:Rkd. (w)
 LOCATION:120/ 54
 DESCRIPTION:Rachunek kosztów działań\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Milian-Pogonowska Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250427T113000Z
+DTEND:20250427T130500Z
+SUMMARY:Elo (w)
+LOCATION:54/ 62
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250504T113000Z
@@ -1149,7 +1156,7 @@ DTSTART:20250408T075000Z
 DTEND:20250408T092500Z
 SUMMARY:Elo (w)
 LOCATION:1/ 19
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T075000Z
@@ -1261,7 +1268,7 @@ DTSTART:20250325T104000Z
 DTEND:20250325T121500Z
 SUMMARY:Elo (w)
 LOCATION:1/ 21
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T094000Z
@@ -1301,9 +1308,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T094000Z
 DTEND:20250506T111500Z
-SUMMARY:Elo (ć)
-LOCATION:5/ 20
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: inż. Kochański Tomasz
+SUMMARY:Elo (w)
+LOCATION:52/ 62
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T094000Z
@@ -1352,28 +1359,21 @@ DTSTART:20250311T123000Z
 DTEND:20250311T140500Z
 SUMMARY:Elo (w)
 LOCATION:2/ 23a
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T123000Z
 DTEND:20250318T140500Z
 SUMMARY:Elo (w)
 LOCATION:2/ 23a
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T123000Z
 DTEND:20250325T140500Z
 SUMMARY:Elo (ć)
 LOCATION:1/ 21
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: inż. Kochański Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250401T113000Z
-DTEND:20250401T130500Z
-SUMMARY:Elo (w)
-LOCATION:15/ 23a
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T113000Z
@@ -1383,17 +1383,17 @@ LOCATION:1/ 21
 DESCRIPTION:Rachunek kosztów działań\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr Milian-Pogonowska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250415T113000Z
-DTEND:20250415T130500Z
-SUMMARY:Elo (w)
-LOCATION:1/ 19
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: inż. Kochański Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250429T113000Z
 DTEND:20250429T130500Z
 SUMMARY:Elo (ć)
 LOCATION:15/ 23a
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: inż. Kochański Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250506T113000Z
+DTEND:20250506T130500Z
+SUMMARY:Elo (ć)
+LOCATION:52/ 62
 DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
