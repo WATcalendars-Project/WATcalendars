@@ -48,9 +48,11 @@ Issues = "https://github.com/dominikserafin/WATcalendars/issues"
 
 [project.scripts]
 # Employee scraper
+# To use it file /WATcalendars/db/url_for_employees can't be empty
 watcalendars-employees = "watcalendars.watemployees:main"
 
 # Group scrapers for each faculty (script modules)
+# To use it file /WATcalendars/db/url_for_group can't be empty
 watcalendars-groups-ioe = "watcalendars.groups.groups_ioe:main"
 watcalendars-groups-wcy = "watcalendars.groups.groups_wcy:main"
 watcalendars-groups-wel = "watcalendars.groups.groups_wel:main"
@@ -61,7 +63,8 @@ watcalendars-groups-wml = "watcalendars.groups.groups_wml:main"
 watcalendars-groups-wtc = "watcalendars.groups.groups_wtc:main"
 
 # Calendar scrapers for each faculty (async modules)
-# To use it /WATcalendars/db/groups_url can't be empty
+# To use it /WATcalendars/db/groups_url
+# and /WATcalendars/db/url_for_schedules can't be empty
 watcalendars-calendar-ioe = "watcalendars.calendar_ioe:main"
 watcalendars-calendar-wcy = "watcalendars.calendar_wcy:main"
 watcalendars-calendar-wel = "watcalendars.calendar_wel:main"
