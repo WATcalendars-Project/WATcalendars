@@ -45,10 +45,11 @@ jobs:
             python "$f"
           done
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'Github Actions Bot'
-          git config --global user.email 'actions@github.com'
-          git add db/employees.json db/groups_url/*.json db/schedules/*/*.docx db/calendars/*/*.ics
-          git commit -m "Automated daily scrape" || echo "No changes to commit"
-          git push || echo "No changes to push"
+      - name: Deploy data to WATcalendars-data branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./db
+          publish_branch: WATcalendars-data
+          commit_message: "Automated daily scrape"
+          force_orphan: false
