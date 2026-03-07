@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 
 from watcalendars.utils.employees_loader import load_employees
 from watcalendars.utils.config import BLOCK_TIMES, TYPE_FULL_MAP
+from watcalendars.utils.log import OK, ERROR, INFO, SUCCESS, WARNING, CHANGED, UNCHANGED, ADDED
 
 
 def parse_schedule(html, employees):
@@ -129,7 +130,7 @@ def parse_schedule(html, employees):
             })
 
         except Exception as e:
-            print(f"[WARNING] Error parsing lesson: {e}")
+            print(f"{ERROR} Error parsing lesson: {e}")
     
     return lessons
 
@@ -150,15 +151,15 @@ def parse_schedules(html_map):
         for group_id, html in html_map.items():
             lessons = parse_schedule(html, employees)
             schedules[group_id] = lessons
-            print(f"Parsing {group_id} completed.")
+            print(f"{OK} Parsing {group_id} completed. (items: {len(lessons)})")
             events_done += len(lessons)
             groups_done += 1
         return schedules
         
-    schedules = (print("Parsing schedules"), log_parse_schedule())[1]
+    schedules = (print(f"{INFO} Parsing schedules"), log_parse_schedule())[1]
     parsed_total = sum(len(lessons or []) for lessons in schedules.values())
     if parsed_total > 0:
-        print(f"[SUCCESS] Summary: Parsed events: {parsed_total} across {len(schedules)} groups")
+        print(f"{SUCCESS} Summary: Parsed events: {parsed_total} across {len(schedules)} groups")
     else:
-        print(f"[ERROR] No events parsed.")
+        print(f"{ERROR} No events parsed.")
     return schedules

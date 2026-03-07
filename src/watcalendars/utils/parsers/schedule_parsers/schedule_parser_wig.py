@@ -2,6 +2,7 @@ from datetime import datetime, timedelta
 import os
 from docx import Document
 from watcalendars.utils.config import BLOCK_TIMES, ROMAN_MONTH, DATE_TOKEN_RE, TYPE_FULL_MAP
+from watcalendars.utils.log import OK, ERROR, INFO, SUCCESS, WARNING, CHANGED, UNCHANGED, ADDED
 import re
 
 TIME_RE = re.compile(r"(\d{1,2}):(\d{2})")
@@ -71,7 +72,7 @@ def parse_wig_docx(filepath):
         try:
             doc = Document(filepath)
         except Exception as e:
-            logs.append(f"[ERROR] Failed to open DOCX: {e}"); print(f"[ERROR] Failed to open DOCX: {e}")
+            logs.append(f"{ERROR} Failed to open DOCX: {e}"); print(f"{ERROR} Failed to open DOCX: {e}")
             return []
 
         base_year = _pick_base_year(doc, filepath)
@@ -86,7 +87,7 @@ def parse_wig_docx(filepath):
             if doc.tables:
                 main_table = doc.tables[0]
             else:
-                logs.append(f"[ERROR] No tables in DOCX"); print(f"[ERROR] No tables in DOCX")
+                logs.append(f"{ERROR} No tables in DOCX"); print(f"{ERROR} No tables in DOCX")
                 return []
 
         subject_legend_full: dict[str, str] = {}
@@ -226,7 +227,7 @@ def parse_wig_docx(filepath):
                     "lecturer": ""
                 })
 
-        logs.append(f"[OK] Parsed {len(lessons)} lessons from DOCX."); print(f"[OK] Parsed {len(lessons)} lessons from DOCX.")
+        logs.append(f"{SUCCESS} Parsed {len(lessons)} lessons from DOCX. (items: {len(lessons)})"); print(f"{OK} Parsed {len(lessons)} lessons from DOCX. (items: {len(lessons)})")
         return lessons
 
     return (print(f"Parsing WIG DOCX: {filepath}"), parse_log())[1]

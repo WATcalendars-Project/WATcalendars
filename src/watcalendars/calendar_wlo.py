@@ -16,7 +16,8 @@ from watcalendars.utils.groups_loader import load_groups
 from watcalendars.utils.parsers.schedule_parsers.schedule_parser_wlo import parse_schedules
 from watcalendars.utils.writers.ics_writer import save_all_schedules, normalize_lesson_data
 from watcalendars.utils.connection import test_connection_with_monitoring
-
+from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
+from watcalendars.utils.config import get_current_semester
 
 def get_wlo_group_urls(base_url: str):
     """Generate WLO group URLs for given base_url template."""
@@ -30,67 +31,53 @@ def get_wlo_group_urls(base_url: str):
     return result
 
 
-
-
 async def main():
     """Main async function for WLO scraper."""
     start_time = time.time()
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Start WLO schedule scraper:")
+    print(f"\n------[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Start WLO schedule scraper:------\n")
+    
+    current_month = datetime.now().month
+    current_semester = get_current_semester()
+    season = f"url_{current_semester}"
+    season_suffix = f"_{current_semester}"
+
+    print(f"{INFO} Current month is: {current_month}. According to the schedule, the selected semester is: {current_semester.upper()}")
+    print(f"Processing season: {season}...")
     print("")
-    # Zbieramy plan z obu semestrów (zima + lato) do jednego ICS na grupę.
-    combined_schedules = {}
-    base_pairs = None  # pary z pierwszego udanego sezonu jako lista grup do zapisu ICS
 
-    for season_key in ["url_zima", "url_lato"]:
-        print(f"\n--- Processing season: {season_key} ---")
+    url, description = load_url_from_config(
+        config_file=GROUPS_CONFIG,
+        key="wlo_groups",
+        url_type=season
+    )
 
-        # Sprawdzenie połączenia do indeksu dla danego semestru
-        url, description = load_url_from_config(
-            config_file=GROUPS_CONFIG, key="wlo_groups", url_type=season_key
-        )
-        await asyncio.to_thread(test_connection_with_monitoring, url, description)
-        print("")
+    await asyncio.to_thread(test_connection_with_monitoring, url, description)
+    print("")
 
-        # Szablon URL do konkretnych grup dla tego semestru
-        base_url, _ = load_url_from_config(
-            config_file=SCHEDULES_CONFIG, key="wlo_schedule", url_type=season_key
-        )
+    base_url, description = load_url_from_config(
+        config_file=SCHEDULES_CONFIG,
+        key="wlo_schedule",
+        url_type=season
+    )
+    pairs = get_wlo_group_urls(base_url)
+    if not pairs:
+        print(f"{ERROR} No groups found.")
+        sys.exit(1)
 
-        pairs = get_wlo_group_urls(base_url)
-        if not pairs:
-            print(f"[ERROR] No groups found for season {season_key}.")
-            continue
+    print(f"{INFO} Groups to scrape: {len(pairs)} (using async scraper for better performance)")
+    print(f"URL: {base_url}")
 
-        if base_pairs is None:
-            base_pairs = pairs
+    html_results = await scrape_urls_async(
+        pairs,
+        progress_label=f"Scraping groups for wlo ({season})",
+        concurrency=10
+    )
+    print("")
 
-        print(f"Groups to scrape ({season_key}): {len(pairs)} (using async scraper for better performance)")
-        print(f"URL: {base_url}")
+    schedules = parse_schedules(html_results)
+    print("")
 
-        url_pairs = [(group_id, url) for group_id, url in pairs]
-
-        html_results = await scrape_urls_async(
-            url_pairs=url_pairs,
-            progress_label=f"Scraping groups for wlo ({season_key})",
-            concurrency=10
-        )
-        print("")
-
-        season_schedules = parse_schedules(html_results)
-        print("")
-
-        # Normalizacja i dołączenie lekcji z tego semestru do wspólnej mapy
-        for group_id, lessons in season_schedules.items():
-            if not lessons:
-                continue
-            normalized = [normalize_lesson_data(lesson) for lesson in lessons]
-            combined_schedules.setdefault(group_id, []).extend(normalized)
-
-    if not combined_schedules or not base_pairs:
-        print("[ERROR] No schedules collected for WLO (both seasons).")
-        return
-
-    save_all_schedules(combined_schedules, base_pairs, faculty_prefix="wlo")
+    save_all_schedules(schedules, pairs, faculty_prefix="wlo")
     print("")
 
     duration = time.time() - start_time

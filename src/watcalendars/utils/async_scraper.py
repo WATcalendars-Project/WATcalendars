@@ -4,6 +4,7 @@ Universal asynchronous web scraper for all WAT departments
 import asyncio
 import time
 from playwright.async_api import async_playwright
+from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
 
 
 class AsyncScraper:
@@ -58,19 +59,19 @@ class AsyncScraper:
                 html = await page.content()
                 
                 if retry_count == 0:
-                    logs.append(f"[OK] Scraping {identifier} completed."); print(f"[OK] Scraping {identifier} completed.")
+                    logs.append(f"{OK} Scraping {identifier} completed. (bytes {len(html)})")
                 else:
-                    logs.append(f"[OK] Scraping {identifier} completed after {retry_count} retries."); print(f"[OK] Scraping {identifier} completed after {retry_count} retries.")
+                    logs.append(f"{OK} Scraping {identifier} completed after {retry_count} retries. (bytes {len(html)})"); print(f"{OK} Scraping {identifier} completed after {retry_count} retries. (bytes {len(html)})")
                 break
                 
             except Exception as e:
                 retry_count += 1
-                logs.append(f"[WARNING] Timeout for {identifier} (retry {retry_count}/{max_retries})"); print(f"[WARNING] Timeout for {identifier} (retry {retry_count}/{max_retries})")
+                logs.append(f"{WARNING} Timeout for {identifier} (retry {retry_count}/{max_retries})"); print(f"{WARNING} Timeout for {identifier} (retry {retry_count}/{max_retries})")
                 
                 if retry_count < max_retries:
                     await asyncio.sleep(2)
                 else:
-                    logs.append(f"[ERROR] Failed to scrape {identifier} after {max_retries} attempts: {e}"); print(f"[ERROR] Failed to scrape {identifier} after {max_retries} attempts: {e}")
+                    logs.append(f"{ERROR} Failed to scrape {identifier} after {max_retries} attempts: {e}"); print(f"{ERROR} Failed to scrape {identifier} after {max_retries} attempts: {e}")
         
         return html, logs
 
@@ -121,7 +122,7 @@ class AsyncScraper:
                             try:
                                 await screenshot_callback(page, identifier)
                             except Exception as e:
-                                print(f"[WARNING] Failed to save screenshot for {identifier}: {e}")
+                                print(f"{WARNING} Failed to save screenshot for {identifier}: {e}")
 
                     finally:
                         await page.close()

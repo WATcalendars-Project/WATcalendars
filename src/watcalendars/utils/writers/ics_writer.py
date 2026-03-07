@@ -1,7 +1,8 @@
 import os
 from datetime import datetime, timezone, timedelta
 from watcalendars import CALENDARS_DIR
-from watcalendars.utils.config import sanitize_filename
+from watcalendars.utils.config import sanitize_filename, get_current_semester
+from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS, CHANGED, UNCHANGED, ADDED
 
 def _last_sunday(year: int, month: int) -> int:
     """Return day-of-month for the last Sunday in given month/year."""
@@ -39,9 +40,10 @@ def _format_dt_utc(dt):
     return (utc_dt if isinstance(utc_dt, datetime) else dt).strftime("%Y%m%dT%H%M%SZ")
 
 def get_target_dir(faculty_prefix=""):
+    semester_suffix = get_current_semester()
     if faculty_prefix:
-        return os.path.join(CALENDARS_DIR, f"{faculty_prefix}_calendars")
-    return CALENDARS_DIR
+        return os.path.join(CALENDARS_DIR, f"{faculty_prefix}_calendars", f"{faculty_prefix}_calendars_{semester_suffix}")
+    return os.path.join(CALENDARS_DIR, f"calendars_{semester_suffix}")
 
 def normalize_lesson_data(lesson):
     """Normalize lesson data to common format for different faculties"""
@@ -137,9 +139,11 @@ def save_schedule_to_ICS(group_id, lessons, faculty_prefix=""):
     return status
 
 def save_all_schedules(schedules, pairs, faculty_prefix=""):
-    print("Saving all schedules:")
 
     def save_and_log():
+        semester = get_current_semester()
+        print(f"{INFO} Selected semester: {semester.upper()} based on current date.")
+        
         target_dir = get_target_dir(faculty_prefix)
         if not os.path.exists(target_dir):
             [].append(f"Create calendars directory '{target_dir}'"); print(f"Create calendars directory '{target_dir}'")
@@ -152,22 +156,22 @@ def save_all_schedules(schedules, pairs, faculty_prefix=""):
         for g, _ in pairs:
             lessons = schedules.get(g) or []
             if len(lessons) == 0:
-                [].append(f"[WARNING] No lessons found for {g}  |  Skipping"); print(f"[WARNING] No lessons found for {g}  |  Skipping")
+                [].append(f"{WARNING} No lessons found for {g}  |  Skipping"); print(f"{WARNING} No lessons found for {g}  |  Skipping")
                 continue
             status = save_schedule_to_ICS(g, lessons, faculty_prefix)
             summary[status].append(g)
             if status == "added":
-                [].append(f"[SUCCESS] Finished saving {g}: {status}"); print(f"[SUCCESS] Finished saving {g}: {status}")
+                [].append(f"{SUCCESS} Finished saving {g}: {ADDED}"); print(f"{SUCCESS} Finished saving {g}: {ADDED}")
             elif status == "changed":
-                [].append(f"[WARNING] Finished saving {g}: {status}"); print(f"[WARNING] Finished saving {g}: {status}")
+                [].append(f"{WARNING} Finished saving {g}: {CHANGED}"); print(f"{WARNING} Finished saving {g}: {CHANGED}")
             else:
-                [].append(f"[OK] Finished saving {g}: {status}"); print(f"[OK] Finished saving {g}: {status}")
+                [].append(f"{OK} Finished saving {g}: {UNCHANGED}"); print(f"{OK} Finished saving {g}: {UNCHANGED}")
             saved += 1
         if saved > 0:
-            [].append(f"[SUCCESS] Summary: ICS files ({saved})"); print(f"[SUCCESS] Summary: ICS files ({saved})")
-            [].append(f"added: {len(summary['added'])} changed: {len(summary['changed'])} unchanged: {len(summary['unchanged'])}"); print(f"added: {len(summary['added'])} changed: {len(summary['changed'])} unchanged: {len(summary['unchanged'])}")
+            [].append(f"{SUCCESS} Summary: ICS files ({saved})"); print(f"{SUCCESS} Summary: ICS files ({saved})")
+            [].append(f"added: \033[93m{len(summary['added'])}\033[0m changed: \033[93m{len(summary['changed'])}\033[0m unchanged: \033[92m{len(summary['unchanged'])}\033[0m"); print(f"added: \033[93m{len(summary['added'])}\033[0m changed: \033[93m{len(summary['changed'])}\033[0m unchanged: \033[92m{len(summary['unchanged'])}\033[0m")
         else:
-            [].append(f"[ERROR] No ICS files saved."); print(f"[ERROR] No ICS files saved.")
+            [].append(f"{ERROR} No ICS files saved."); print(f"{ERROR} No ICS files saved.")
         return saved
 
-    return (print("Saving ICS calendars..."), save_and_log())[1]
+    return (print(f"{INFO} Saving ICS calendars..."), save_and_log())[1]

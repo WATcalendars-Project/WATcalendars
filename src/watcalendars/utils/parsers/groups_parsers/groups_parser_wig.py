@@ -25,7 +25,6 @@ def parse_wig_groups_from_subcategory(html, logs=None):
             if link and link.get("href"):
                 href = link.get("href")
                 group_name = link.text.strip()
-                # Fix incorrect encoding from Playwright resolving Win-1250 dynamically as UTF-8
                 group_name = group_name.encode('windows-1250', 'replace').decode('utf-8', 'replace')
 
                 if href.startswith("/"):

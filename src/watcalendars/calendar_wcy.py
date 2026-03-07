@@ -15,6 +15,7 @@ from watcalendars.utils.groups_loader import load_groups
 from watcalendars.utils.async_scraper import scrape_urls_async
 from watcalendars.utils.parsers.schedule_parsers.schedule_parser_wcy import parse_schedules
 from watcalendars.utils.writers.ics_writer import save_all_schedules
+from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
 
 
 def get_wcy_group_urls(base_url):
@@ -27,13 +28,10 @@ def get_wcy_group_urls(base_url):
     return result
 
 
-
-
 async def main():
     """Main async function for WCY scraper"""
     start_time = time.time()
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Start WCY schedule scraper:")
-    print("")
+    print(f"\n------[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Start WCY schedule scraper:------\n")
 
     url, description = load_url_from_config(
         config_file=GROUPS_CONFIG, key="wcy_groups", url_type="url"
@@ -46,10 +44,10 @@ async def main():
     )
     pairs = get_wcy_group_urls(base_url)
     if not pairs:
-        print(f"[ERROR] No groups found.")
+        print(f"{ERROR} No groups found.")
         sys.exit(1)
 
-    print(f"Groups to scrape: {len(pairs)} (using async scraper for better performance)")
+    print(f"{INFO} Groups to scrape: {len(pairs)} (using async scraper for better performance)")
     print(f"URL: {base_url}")
     
     html_map = await scrape_urls_async(
@@ -76,8 +74,8 @@ async def main():
     else:
         HH_MM_SS = f"{seconds:02}s"
 
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] WCY schedules scraper finished (duration: {HH_MM_SS})")
-
+    print(f"{INFO} [{datetime.now().strftime('%Y-%m-%d %H:%M')}] WCY schedules scraper finished (duration: {HH_MM_SS})")
+    print("")
 
 if __name__ == "__main__":
     asyncio.run(main())

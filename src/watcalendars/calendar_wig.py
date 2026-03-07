@@ -5,10 +5,13 @@ import json
 import asyncio
 from datetime import datetime
 
-from watcalendars import GROUPS_DIR, SCHEDULES_DIR
+from watcalendars import GROUPS_CONFIG, GROUPS_DIR, SCHEDULES_DIR
+from watcalendars.utils.connection import test_connection_with_monitoring
 from watcalendars.utils.parsers.schedule_parsers.schedule_parser_wig import parse_wig_docx
 from watcalendars.utils.downloader import download_schedule_file
+from watcalendars.utils.url_loader import load_url_from_config
 from watcalendars.utils.writers.ics_writer import save_all_schedules
+from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
 
 GROUPS_FILE = os.path.join(GROUPS_DIR, "wig_groups_url.json")
 GROUPS_SUBDIR = os.path.join(GROUPS_DIR, "wig_groups_url")
@@ -23,13 +26,11 @@ def _load_wig_groups_map():
 	"""
 	groups_map = {}
 
-	# 1) Stary, płaski plik (jeśli istnieje)
 	if os.path.exists(GROUPS_FILE):
 		with open(GROUPS_FILE, 'r', encoding='utf-8') as f:
 			groups_map = json.load(f)
 		return groups_map
 
-	# 2) Nowa struktura: wiele plików w katalogu wig_groups_url/
 	if not os.path.isdir(GROUPS_SUBDIR):
 		raise FileNotFoundError(
 			f"No WIG groups data found. Expected {GROUPS_FILE} or directory {GROUPS_SUBDIR}"
@@ -50,19 +51,18 @@ def _load_wig_groups_map():
 			with open(path, 'r', encoding='utf-8') as f:
 				data = json.load(f)
 		except Exception as e:
-			print(f"[WARNING] Failed to load {path}: {e}")
+			print(f"{WARNING} Failed to load {path}: {e}")
 			continue
 
 		if not isinstance(data, dict):
-			print(f"[WARNING] Unexpected JSON structure in {path} (expected object)")
+			print(f"{WARNING} Unexpected JSON structure in {path} (expected object)")
 			continue
 
 		for group_name, url in data.items():
-			# Jeśli grupa już istnieje i URL jest ten sam – ignorujemy dubel.
 			if group_name in groups_map:
 				if groups_map[group_name] != url:
 					print(
-						f"[WARNING] Duplicate group '{group_name}' with different URLs;"
+						f"{WARNING} Duplicate group '{group_name}' with different URLs;"
 						f" keeping first, skipping from {name}"
 					)
 				continue
@@ -72,49 +72,57 @@ def _load_wig_groups_map():
 
 async def async_main():
 	start_time = time.time()
-	print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Start WIG schedule (DOCX) parser:")
+	print(f"\n------[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Start WIG schedule (DOCX) downloader and parser:------\n")
+
+	url, description = load_url_from_config(
+		config_file=GROUPS_CONFIG, key="wig_groups", url_type="url_podkategoria"
+	)
+	await asyncio.to_thread(test_connection_with_monitoring, url, description)
 	print("")
 
 	try:
 		groups_map = _load_wig_groups_map()
 	except FileNotFoundError as e:
-		print(f"[ERROR] {e}")
+		print(f"{ERROR} {e}")
 		sys.exit(1)
 
 	if not groups_map:
-		print(f"[ERROR] No WIG groups loaded from db/groups_url.")
+		print(f"{ERROR} No WIG groups loaded from db/groups_url.")
 		return
 
 	pairs = list(groups_map.items())
-	print(f"Groups to process: {len(pairs)}")
+	print(f"{INFO} Groups to process: {len(pairs)}")
 
-	downloads_dir = os.path.join(SCHEDULES_DIR, "wig_docx")
+	downloads_dir = os.path.join(GROUPS_DIR, "wig_groups_url", "wig_docx")
 	os.makedirs(downloads_dir, exist_ok=True)
 	schedules = {}
 	processed = 0
 
 	for group_name, download_url in pairs:
-		print(f"Downloading: {group_name}")
+		print(f"Downloading {group_name}...")
 		path = download_schedule_file(download_url, downloads_dir, group_name)
 		if not path or not os.path.exists(path):
-			print(f"[WARNING] Skipping {group_name}: download failed")
+			print(f"{WARNING} Skipping {group_name}: download failed")
 			continue
 		lessons = parse_wig_docx(path)
 		if not lessons:
-			print(f"[WARNING] Skipping {group_name}: no lessons parsed")
+			print(f"{WARNING} Skipping {group_name}: no lessons parsed")
 			continue
 		schedules[group_name] = lessons
 		processed += 1
 
 	if processed == 0:
-		print(f"[ERROR] No WIG schedules parsed.")
+		print(f"{ERROR} No WIG schedules parsed.")
 		return
+	print("")
 
 	writer_pairs = [(g, groups_map[g]) for g in schedules.keys()]
 	save_all_schedules(schedules, writer_pairs, faculty_prefix="wig")
+	print("")
 
 	duration = time.time() - start_time
-	print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] WIG schedule processing finished | duration: {duration:.2f}s")
+	print(f"{INFO} WIG schedule processing finished | duration: {duration:.2f}s")
+	print("")
 
 def main():
 	return asyncio.run(async_main())

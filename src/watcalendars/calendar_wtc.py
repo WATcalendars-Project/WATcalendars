@@ -14,6 +14,7 @@ from watcalendars.utils.connection import test_connection_with_monitoring
 from watcalendars.utils.url_loader import load_url_from_config
 from watcalendars.utils.groups_loader import load_groups
 from urllib.parse import quote
+from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
 
 
 def get_wtc_group_urls():
@@ -41,8 +42,7 @@ def get_wtc_group_urls():
 async def main():
     """Main async function for WTC schedule scraping."""
     start_time = time.time()
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Start WTC schedule scraper:")
-    print("")
+    print(f"\n------[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Start WTC schedule scraper:------\n")
 
     print("Check connection:")
     url, description = load_url_from_config(
@@ -51,17 +51,17 @@ async def main():
     print(f"URL: {url}")
     await asyncio.to_thread(test_connection_with_monitoring, url, description)
     print("")
-    
+    print(f"Connection test completed.")
     pairs = get_wtc_group_urls()
     if not pairs:
-        print("[ERROR] No WTC groups found.")
+        print(f"{ERROR} No WTC groups found.")
         return
 
     print("Scraping group URLs:")
     base_url, _ = load_url_from_config(
         config_file=SCHEDULES_CONFIG, key="wtc_schedule", url_type="url"
     )
-    print(f"Groups to scrape: {len(pairs)} (using async scraper for better performance)")
+    print(f"{INFO} Groups to scrape: {len(pairs)} (using async scraper for better performance)")
     print(f"URL: {base_url}")
     
     html_results = await scrape_urls_async(
@@ -90,8 +90,8 @@ async def main():
     else:
         HH_MM_SS = f"{seconds:02}s"
     
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] WTC schedules scraper finished (duration: {HH_MM_SS})")
-
+    print(f"{INFO} [{datetime.now().strftime('%Y-%m-%d %H:%M')}] WTC schedules scraper finished (duration: {HH_MM_SS})")
+    print("")
 
 if __name__ == "__main__":
     asyncio.run(main())

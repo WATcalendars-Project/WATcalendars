@@ -3,6 +3,7 @@ import unicodedata
 from datetime import datetime
 from bs4 import BeautifulSoup
 from watcalendars.utils.config import BLOCK_TIMES, ROMAN_MONTH, DATE_TOKEN_RE, TYPE_FULL_MAP, DAY_ALIASES, TYPE_SYMBOLS
+from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
 
 def extract_legend(soup: BeautifulSoup, logs=None) -> list[tuple[str, str, list[str]]]:
     logs = logs if logs is not None else []
@@ -60,13 +61,13 @@ def extract_legend(soup: BeautifulSoup, logs=None) -> list[tuple[str, str, list[
 def parse_schedule(html: str, logs=None) -> list[dict]:
     logs = logs if logs is not None else []
     if not html:
-        logs.append(f"[ERROR] No HTML for parsing."); print(f"[ERROR] No HTML for parsing.")
+        logs.append(f"{ERROR} No HTML for parsing."); print(f"{ERROR} No HTML for parsing.")
         return []
 
     soup = BeautifulSoup(html, 'html.parser')
     table = soup.find('table') or (soup.find_all('table')[0] if soup.find_all('table') else None)
     if not table:
-        logs.append(f"[ERROR] No table in HTML."); print(f"[ERROR] No table in HTML.")
+        logs.append(f"{ERROR} No table in HTML."); print(f"{ERROR} No table in HTML.")
         return []
 
     txt = re.sub(r"\s+", " ", soup.get_text(" ").strip())
@@ -304,13 +305,13 @@ def parse_schedules(html_map: dict) -> dict:
         for group_id, html in html_map.items():
             lessons = parse_schedule(html, logs)
             schedules[group_id] = lessons
-            print(f"Parsing {group_id} completed.")
+            print(f"{OK} Parsing {group_id} completed. (items: {len(lessons)})")
             done[0] += 1
         return schedules
-    schedules = (print("Parsing schedules"), parse_all())[1]
+    schedules = (print(f"{INFO} Parsing schedules..."), parse_all())[1]
     parsed_total = sum(len(lessons or []) for lessons in schedules.values())
     if parsed_total > 0:
-        print(f"[SUCCESS] Summary: Parsed events: {parsed_total} across {len(schedules)} groups")
+        print(f"{SUCCESS} Summary: Parsed events: {parsed_total} across {len(schedules)} groups")
     else:
-        print(f"[ERROR] No events parsed.")
+        print(f"{ERROR} No events parsed.")
     return schedules
