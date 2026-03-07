@@ -1670,13 +1670,6 @@ LOCATION:aula/135
 DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260420T094000Z
-DTEND:20260420T111500Z
-SUMMARY:Ptr (L)
-LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260504T094000Z
 DTEND:20260504T111500Z
 SUMMARY:PeUT (w)
@@ -2146,6 +2139,13 @@ LOCATION:108/54; 109/54
 DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260526T140000Z
+DTEND:20260526T153500Z
+SUMMARY:Ptr (L)
+LOCATION:3d/19; 4c/19
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260505T155000Z
 DTEND:20260505T172500Z
 SUMMARY:Płe (L)
@@ -2307,6 +2307,13 @@ LOCATION:16/19; 17/19
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260520T075000Z
+DTEND:20260520T092500Z
+SUMMARY:Ptr (L)
+LOCATION:4d/19; 3d/19
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260527T075000Z
 DTEND:20260527T092500Z
 SUMMARY:Sp* (L)
@@ -2335,18 +2342,11 @@ LOCATION:38/20 WLO; 24FX; 3S
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/15\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260408T094000Z
-DTEND:20260408T111500Z
-SUMMARY:Ptr (L)
-LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260520T094000Z
 DTEND:20260520T111500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T094000Z
@@ -2549,7 +2549,7 @@ DTSTART:20260514T075000Z
 DTEND:20260514T092500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/19; 4c/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T075000Z
@@ -2562,8 +2562,8 @@ BEGIN:VEVENT
 DTSTART:20260611T075000Z
 DTEND:20260611T092500Z
 SUMMARY:PPL (P)
-LOCATION:0.8/16
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/10\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
+LOCATION:0.7/16
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T104000Z
@@ -2598,14 +2598,14 @@ DTSTART:20260521T094000Z
 DTEND:20260521T111500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T094000Z
 DTEND:20260611T111500Z
 SUMMARY:PPL (P)
-LOCATION:1.10/16
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/10\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
+LOCATION:0.7/16
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T113000Z
@@ -2633,7 +2633,7 @@ DTSTART:20260521T113000Z
 DTEND:20260521T130500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T113000Z
@@ -2703,7 +2703,7 @@ DTSTART:20260522T060000Z
 DTEND:20260522T073500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T060000Z
@@ -2724,14 +2724,14 @@ DTSTART:20260515T075000Z
 DTEND:20260515T092500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/19; 4c/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260605T075000Z
-DTEND:20260605T092500Z
-SUMMARY:PPL (P)
-LOCATION:0.8/16
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 7/10\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
+DTSTART:20260522T075000Z
+DTEND:20260522T092500Z
+SUMMARY:Ptr (L)
+LOCATION:4d/19; 3d/19
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T104000Z
@@ -2759,7 +2759,7 @@ DTSTART:20260327T104000Z
 DTEND:20260327T121500Z
 SUMMARY:PPL (P)
 LOCATION:0.8/16
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 8/10\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 7/10\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260424T094000Z
@@ -2780,14 +2780,21 @@ DTSTART:20260522T094000Z
 DTEND:20260522T111500Z
 SUMMARY:PPL (P)
 LOCATION:
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 9/10\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 8/10\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260605T094000Z
-DTEND:20260605T111500Z
+DTSTART:20260612T094000Z
+DTEND:20260612T111500Z
 SUMMARY:PPL (P)
-LOCATION:0.8/16
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 10/10\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
+LOCATION:0.7/16
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 9/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T094000Z
+DTEND:20260619T111500Z
+SUMMARY:PPL (P)
+LOCATION:0.7/16
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 10/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T123000Z

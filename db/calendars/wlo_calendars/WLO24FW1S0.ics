@@ -3158,14 +3158,14 @@ DTSTART:20260505T060000Z
 DTEND:20260505T073500Z
 SUMMARY:Płe (L)
 LOCATION:17/19; 16/19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/11
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T060000Z
 DTEND:20260512T073500Z
 SUMMARY:Płe (L)
 LOCATION:17/19; 16/19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T060000Z
@@ -3193,14 +3193,14 @@ DTSTART:20260505T075000Z
 DTEND:20260505T092500Z
 SUMMARY:Płe (L)
 LOCATION:17/19; 16/19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T075000Z
 DTEND:20260512T092500Z
 SUMMARY:Płe (L)
 LOCATION:17/19; 16/19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T075000Z
@@ -3256,7 +3256,7 @@ DTSTART:20260512T094000Z
 DTEND:20260512T111500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/19; 4c/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T094000Z
@@ -3264,13 +3264,6 @@ DTEND:20260526T111500Z
 SUMMARY:Wm (ć)
 LOCATION:0.22/16
 DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260602T094000Z
-DTEND:20260602T111500Z
-SUMMARY:Twl (ć)
-LOCATION:5.17/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T094000Z
@@ -3298,7 +3291,7 @@ DTSTART:20260505T113000Z
 DTEND:20260505T130500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/19; 4c/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T113000Z
@@ -3306,20 +3299,6 @@ DTEND:20260512T130500Z
 SUMMARY:PKM (ć)
 LOCATION:108/54; 109/54
 DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. Torzewski Janusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260526T113000Z
-DTEND:20260526T130500Z
-SUMMARY:Ptr (L)
-LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260602T113000Z
-DTEND:20260602T130500Z
-SUMMARY:Twl (ć)
-LOCATION:5.17/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T113000Z
@@ -3343,11 +3322,46 @@ LOCATION:1/19
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260519T140000Z
+DTEND:20260519T153500Z
+SUMMARY:Twl (ć)
+LOCATION:9/158
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260505T155000Z
 DTEND:20260505T172500Z
 SUMMARY:Płe (ć)
 LOCATION:1/19
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T155000Z
+DTEND:20260519T172500Z
+SUMMARY:Twl (ć)
+LOCATION:9/158
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T155000Z
+DTEND:20260526T172500Z
+SUMMARY:Płe (L)
+LOCATION:17/19; 16/19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T174000Z
+DTEND:20260519T191500Z
+SUMMARY:Twl (ć)
+LOCATION:9/158
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T174000Z
+DTEND:20260526T191500Z
+SUMMARY:Płe (L)
+LOCATION:17/19; 16/19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T070000Z
@@ -3369,6 +3383,13 @@ DTEND:20260401T073500Z
 SUMMARY:PPL (P)
 LOCATION:0.8/16
 DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 6/10\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T060000Z
+DTEND:20260415T073500Z
+SUMMARY:Ptr (L)
+LOCATION:4d/19; 3d/19
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T060000Z
@@ -3396,7 +3417,7 @@ DTSTART:20260527T060000Z
 DTEND:20260527T073500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/19; 4d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T060000Z
@@ -3445,21 +3466,21 @@ DTSTART:20260415T075000Z
 DTEND:20260415T092500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T075000Z
 DTEND:20260429T092500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/19; 4c/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T075000Z
 DTEND:20260527T092500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/19; 4d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T075000Z
@@ -3679,25 +3700,25 @@ LOCATION:aula/135
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260415T140000Z
+DTEND:20260415T153500Z
+SUMMARY:Twl (ć)
+LOCATION:26/158
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T140000Z
 DTEND:20260506T153500Z
 SUMMARY:Płe (L)
 LOCATION:17/19; 16/19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260527T140000Z
-DTEND:20260527T153500Z
-SUMMARY:Twl (ć)
-LOCATION:5.21/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: dr Tomaszewski Jarosław
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T140000Z
 DTEND:20260603T153500Z
 SUMMARY:Twl (ć)
-LOCATION:5.17/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr Tomaszewski Jarosław
+LOCATION:26/158
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T165000Z
@@ -3728,25 +3749,32 @@ LOCATION:aula/135
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260415T155000Z
+DTEND:20260415T172500Z
+SUMMARY:Twl (ć)
+LOCATION:26/158
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T155000Z
+DTEND:20260429T172500Z
+SUMMARY:Płe (L)
+LOCATION:17/19; 16/19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T155000Z
 DTEND:20260506T172500Z
 SUMMARY:Płe (L)
 LOCATION:17/19; 16/19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260527T155000Z
-DTEND:20260527T172500Z
-SUMMARY:Twl (ć)
-LOCATION:5.21/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: dr Tomaszewski Jarosław
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T155000Z
 DTEND:20260603T172500Z
 SUMMARY:Twl (ć)
-LOCATION:5.17/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: dr Tomaszewski Jarosław
+LOCATION:26/158
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T184000Z
@@ -3754,6 +3782,27 @@ DTEND:20260318T201500Z
 SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T174000Z
+DTEND:20260415T191500Z
+SUMMARY:Twl (ć)
+LOCATION:26/158
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T174000Z
+DTEND:20260429T191500Z
+SUMMARY:Płe (L)
+LOCATION:17/19; 16/19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T174000Z
+DTEND:20260603T191500Z
+SUMMARY:Twl (ć)
+LOCATION:26/158
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T070000Z
@@ -3791,11 +3840,11 @@ LOCATION:aula/135
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260514T060000Z
-DTEND:20260514T073500Z
-SUMMARY:Twl (ć)
-LOCATION:5.17/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: dr Tomaszewski Jarosław
+DTSTART:20260416T060000Z
+DTEND:20260416T073500Z
+SUMMARY:Ptr (L)
+LOCATION:4d/19; 3d/19
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T060000Z
@@ -3830,7 +3879,7 @@ DTSTART:20260416T075000Z
 DTEND:20260416T092500Z
 SUMMARY:Ptr (L)
 LOCATION:4d/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T075000Z
@@ -3852,13 +3901,6 @@ DTEND:20260507T092500Z
 SUMMARY:Hsw (ć)
 LOCATION:0.19/135
 DESCRIPTION:Historia sztuki wojennej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: prof. dr hab. Włodarkiewicz Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260514T075000Z
-DTEND:20260514T092500Z
-SUMMARY:Twl (ć)
-LOCATION:5.17/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T075000Z
@@ -4085,6 +4127,20 @@ LOCATION:1.9/16
 DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T140000Z
+DTEND:20260402T153500Z
+SUMMARY:Twl (w)
+LOCATION:0.24/135
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T140000Z
+DTEND:20260409T153500Z
+SUMMARY:Twl (w)
+LOCATION:0.24/135
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260423T140000Z
 DTEND:20260423T153500Z
 SUMMARY:Płe (S)
@@ -4095,8 +4151,8 @@ BEGIN:VEVENT
 DTSTART:20260514T140000Z
 DTEND:20260514T153500Z
 SUMMARY:Twl (ć)
-LOCATION:5.17/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr Tomaszewski Jarosław
+LOCATION:9/158
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T140000Z
@@ -4124,7 +4180,7 @@ DTSTART:20260305T165000Z
 DTEND:20260305T182500Z
 SUMMARY:Twl (w)
 LOCATION:0.24/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Tomaszewski Jarosław
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T165000Z
@@ -4136,20 +4192,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T165000Z
 DTEND:20260326T182500Z
-SUMMARY:Twl (w)
-LOCATION:0.24/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260402T155000Z
-DTEND:20260402T172500Z
-SUMMARY:Twl (w)
-LOCATION:0.24/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260409T155000Z
-DTEND:20260409T172500Z
 SUMMARY:Twl (w)
 LOCATION:0.24/135
 DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr Tomaszewski Jarosław
@@ -4186,8 +4228,8 @@ BEGIN:VEVENT
 DTSTART:20260514T155000Z
 DTEND:20260514T172500Z
 SUMMARY:Twl (ć)
-LOCATION:5.17/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr Tomaszewski Jarosław
+LOCATION:9/158
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T155000Z
@@ -4202,6 +4244,13 @@ DTEND:20260611T172500Z
 SUMMARY:Płe (w)
 LOCATION:1.9/16
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T174000Z
+DTEND:20260514T191500Z
+SUMMARY:Twl (ć)
+LOCATION:9/158
+DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/12\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T070000Z
@@ -4428,13 +4477,6 @@ LOCATION:6W
 DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr Misiejuk Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260515T094000Z
-DTEND:20260515T111500Z
-SUMMARY:Twl (ć)
-LOCATION:5.17/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12\nProwadzący: dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260522T094000Z
 DTEND:20260522T111500Z
 SUMMARY:SSW 
@@ -4510,13 +4552,6 @@ DTEND:20260508T130500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 12/46
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T113000Z
-DTEND:20260515T130500Z
-SUMMARY:Twl (ć)
-LOCATION:5.17/135
-DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/12\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T113000Z
@@ -4869,13 +4904,6 @@ LOCATION:
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/13
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260606T075000Z
-DTEND:20260606T092500Z
-SUMMARY:Płe (L)
-LOCATION:17/19; 16/19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260411T094000Z
 DTEND:20260411T111500Z
 SUMMARY:XFiz1 (w)
@@ -4923,13 +4951,6 @@ DTEND:20260530T111500Z
 SUMMARY:XFiz1 (w)
 LOCATION:1a; 1b; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 23EC; 1S; 24DX; 1S; 24EQ; 1S; 24EQ; 2S; 24EQ; 3S; 24EX; 1S; 24EX; 2S; 24EX; 3S; 24EX; 4S; 24EX; 5S; 24EX; 6S; 24EX; 7S; 24EY; 1S; 24EY; 3S; 24EY; 4S; 24EY; 6S; 24EY; 7S; 0 K
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260606T094000Z
-DTEND:20260606T111500Z
-SUMMARY:Płe (L)
-LOCATION:17/19; 16/19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T113000Z
@@ -4981,13 +5002,6 @@ LOCATION:1a; 1b; 1c; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S;
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260606T113000Z
-DTEND:20260606T130500Z
-SUMMARY:Płe (L)
-LOCATION:17/19; 16/19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260411T140000Z
 DTEND:20260411T153500Z
 SUMMARY:XFiz1 (L)
@@ -5009,13 +5023,6 @@ LOCATION:139 S; 141 S; 142 S
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260530T140000Z
-DTEND:20260530T153500Z
-SUMMARY:Płe (L)
-LOCATION:17/19; 16/19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260411T155000Z
 DTEND:20260411T172500Z
 SUMMARY:XFiz1 (L)
@@ -5028,13 +5035,6 @@ DTEND:20260425T172500Z
 SUMMARY:XFiz1 (L)
 LOCATION:139 S; 141 S; 142 S
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260530T155000Z
-DTEND:20260530T172500Z
-SUMMARY:Płe (L)
-LOCATION:17/19; 16/19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260412T060000Z
