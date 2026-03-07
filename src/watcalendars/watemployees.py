@@ -7,6 +7,7 @@ import os
 import sys
 from datetime import datetime
 
+from watcalendars.utils.log import OK, ERROR, WARNING, INFO
 from watcalendars.utils.url_loader import load_url_from_config
 from watcalendars.utils.connection import test_connection_with_monitoring
 from watcalendars.utils.parsers.employee_parser import detect_total_pages, parse_employees_page, scrape_employees_html

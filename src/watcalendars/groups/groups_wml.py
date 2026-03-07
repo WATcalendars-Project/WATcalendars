@@ -1,11 +1,14 @@
 import os
 import time
+import re
 from datetime import datetime
 
 from watcalendars import DB_DIR, GROUPS_DIR, GROUPS_CONFIG, SCHEDULES_CONFIG
 from watcalendars.utils.connection import test_connection_with_monitoring
 from watcalendars.utils.url_loader import load_url_from_config
 from watcalendars.utils.scraper import scrape_html
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin
 from watcalendars.utils.parsers.groups_parsers.groups_parser_wml import parse_wml_groups
 from watcalendars.utils.writers.groups_url_writer import save_groups_json
 
@@ -28,7 +31,54 @@ if __name__ == '__main__':
         print("")
         
         print(f"Parsing {len(html)} bytes of HTML:")
-        groups = parse_wml_groups(html, logs)
+
+        # Some faculties embed an index.xml (with actual group links) inside the page.
+        # Try to find a link to index.xml and fetch it (like WLO does).
+        index_xml_url = None
+        try:
+            soup = BeautifulSoup(html, 'html.parser')
+            for a in soup.find_all(['a', 'iframe'], href=True):
+                href = a.get('href') or a.get('src')
+                if href and 'index.xml' in href:
+                    index_xml_url = urljoin(url, href)
+                    break
+        except Exception:
+            index_xml_url = None
+
+        if index_xml_url:
+            print(f"Found index.xml at {index_xml_url}, fetching and parsing it.")
+            xml_html, xml_logs = scrape_html(index_xml_url)
+            groups = parse_wml_groups(xml_html, logs)
+        else:
+            # As a last resort, check the scraper logs for a fetched index.xml URL
+            found = False
+            if logs:
+                for entry in logs:
+                    if isinstance(entry, str) and 'index.xml' in entry:
+                        m = re.search(r'(https?://[^\s\]]*index\.xml)', entry)
+                        if m:
+                            index_xml_url = m.group(1)
+                            found = True
+                            break
+            if found and index_xml_url:
+                print(f"Found index.xml in scraper logs at {index_xml_url}, fetching and parsing it.")
+                xml_html, xml_logs = scrape_html(index_xml_url)
+                groups = parse_wml_groups(xml_html, logs)
+            else:
+                # Try to locate index.xml by regex inside the HTML itself
+                if 'index.xml' in html:
+                    m = re.search(r'(https?://[^"\'\s>]+index\.xml)', html)
+                    if not m:
+                        m = re.search(r'["\']([^"\']*index\.xml)["\']', html)
+                    if m:
+                        index_xml_url = urljoin(url, m.group(1) if m.group(1).startswith('http') else m.group(1))
+                        print(f"Found index.xml (regex) at {index_xml_url}, fetching and parsing it.")
+                        xml_html, xml_logs = scrape_html(index_xml_url)
+                        groups = parse_wml_groups(xml_html, logs)
+                    else:
+                        groups = parse_wml_groups(html, logs)
+                else:
+                    groups = parse_wml_groups(html, logs)
         print(f"[SUCCESS] Collected {len(groups)} WML groups.")
         print("")
 
