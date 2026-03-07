@@ -4281,13 +4281,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 8/56
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250414T060000Z
-DTEND:20250414T073500Z
-SUMMARY:Pse* (w)
-LOCATION:42/ 20
-DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250421T060000Z
 DTEND:20250421T073500Z
 SUMMARY:Utz (w)
@@ -4397,7 +4390,7 @@ DTSTART:20250324T104000Z
 DTEND:20250324T121500Z
 SUMMARY:Pse* (w)
 LOCATION:42/ 20
-DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T094000Z
@@ -4488,14 +4481,14 @@ DTSTART:20250324T123000Z
 DTEND:20250324T140500Z
 SUMMARY:Pse* (w)
 LOCATION:42/ 20
-DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T113000Z
 DTEND:20250331T130500Z
 SUMMARY:Pse* (w)
 LOCATION:42/ 20
-DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T113000Z
@@ -4509,7 +4502,7 @@ DTSTART:20250421T113000Z
 DTEND:20250421T130500Z
 SUMMARY:Pse* (w)
 LOCATION:42/ 20
-DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T113000Z
@@ -4589,6 +4582,13 @@ LOCATION:42/ 20
 DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250602T140000Z
+DTEND:20250602T153500Z
+SUMMARY:LM. (ć)
+LOCATION:9/ 62
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: płk dr inż. Goliasz Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250407T155000Z
 DTEND:20250407T172500Z
 SUMMARY:I 
@@ -4607,7 +4607,7 @@ DTSTART:20250311T070000Z
 DTEND:20250311T083500Z
 SUMMARY:Pse* (w)
 LOCATION:42/ 20
-DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T070000Z
@@ -4684,7 +4684,14 @@ DTSTART:20250311T085000Z
 DTEND:20250311T102500Z
 SUMMARY:Pse* (w)
 LOCATION:42/ 20
-DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250318T085000Z
+DTEND:20250318T102500Z
+SUMMARY:Utz (w)
+LOCATION:9/ 62
+DESCRIPTION:Urządzenia transportu zewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: mgr inż. Radzimierski Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T085000Z
@@ -4797,6 +4804,13 @@ DTEND:20250318T121500Z
 SUMMARY:Utw (w)
 LOCATION:2/ 23a
 DESCRIPTION:Urządzenia transportu wewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Pankiewicz Bolesław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250325T104000Z
+DTEND:20250325T121500Z
+SUMMARY:Pse* (w)
+LOCATION:42/ 20
+DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T094000Z
@@ -4971,35 +4985,35 @@ DTSTART:20250415T140000Z
 DTEND:20250415T153500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T140000Z
 DTEND:20250429T153500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T140000Z
 DTEND:20250506T153500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T140000Z
 DTEND:20250513T153500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T140000Z
 DTEND:20250520T153500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T140000Z
@@ -5020,32 +5034,25 @@ DTSTART:20250429T155000Z
 DTEND:20250429T172500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T155000Z
 DTEND:20250506T172500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T155000Z
 DTEND:20250513T172500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T155000Z
 DTEND:20250520T172500Z
-SUMMARY:LM. (ć)
-LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: płk dr inż. Goliasz Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250603T155000Z
-DTEND:20250603T172500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
 DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: płk dr inż. Goliasz Tomasz
@@ -5055,7 +5062,7 @@ DTSTART:20250305T070000Z
 DTEND:20250305T083500Z
 SUMMARY:Utz (w)
 LOCATION:9/ 62
-DESCRIPTION:Urządzenia transportu zewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: mgr inż. Radzimierski Mariusz
+DESCRIPTION:Urządzenia transportu zewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: mgr inż. Radzimierski Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T070000Z
@@ -5245,13 +5252,6 @@ DTEND:20250305T121500Z
 SUMMARY:Pse* (w)
 LOCATION:42/ 20
 DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250312T104000Z
-DTEND:20250312T121500Z
-SUMMARY:Utz (w)
-LOCATION:9/ 62
-DESCRIPTION:Urządzenia transportu zewnętrznego\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: mgr inż. Radzimierski Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T104000Z

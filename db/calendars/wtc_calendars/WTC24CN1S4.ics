@@ -190,7 +190,7 @@ DTSTART:20260309T123000Z
 DTEND:20260309T140500Z
 SUMMARY:50% Sd.
 LOCATION:S
-DESCRIPTION:50%\nRodzaj zajęć: Sd.\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Piecek Wiktor
+DESCRIPTION:50%\nRodzaj zajęć: Sd.\nNumer zajęć: 2/2\nProwadzący: dr inż. Budzyńska Edyta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T123000Z
@@ -242,32 +242,11 @@ LOCATION:108 24
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/22\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260217T085000Z
-DTEND:20260217T102500Z
-SUMMARY:Cht (E)
-LOCATION:aF S
-DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Piecek Wiktor
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260303T085000Z
 DTEND:20260303T102500Z
 SUMMARY:Ldy (L)
 LOCATION:108 24
 DESCRIPTION:Laboratorium dyplomowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/1\nProwadzący: dr inż. Dziura Aleksandra
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260203T104000Z
-DTEND:20260203T121500Z
-SUMMARY:Sch (E)
-LOCATION:2 55A
-DESCRIPTION:Sensory chemiczne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Grabka Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260210T104000Z
-DTEND:20260210T121500Z
-SUMMARY:Cht (E)
-LOCATION:aF S
-DESCRIPTION:Chemia teoretyczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Piecek Wiktor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T104000Z
@@ -368,13 +347,6 @@ LOCATION:2 55A
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 13/22\nProwadzący: dr inż. Dziura Aleksandra
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260218T104000Z
-DTEND:20260218T121500Z
-SUMMARY:Sch (Ep)
-LOCATION:1 55A
-DESCRIPTION:Sensory chemiczne\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Grabka Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260304T104000Z
 DTEND:20260304T121500Z
 SUMMARY:Mpr (ć)
@@ -443,19 +415,5 @@ DTEND:20260617T111500Z
 SUMMARY:Sd. (S)
 LOCATION:2 55A
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 22/22\nProwadzący: dr inż. Dziura Aleksandra
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260205T085000Z
-DTEND:20260205T102500Z
-SUMMARY:Psw (E)
-LOCATION:108 24
-DESCRIPTION:Prognozowanie skutków wybuchu\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof.dr hab.inż. Trzciński Waldemar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260219T085000Z
-DTEND:20260219T102500Z
-SUMMARY:Psw (Ep)
-LOCATION:108 24
-DESCRIPTION:Prognozowanie skutków wybuchu\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof.dr hab.inż. Trzciński Waldemar
 END:VEVENT
 END:VCALENDAR

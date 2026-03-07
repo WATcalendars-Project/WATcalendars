@@ -14,8 +14,8 @@ BEGIN:VEVENT
 DTSTART:20260323T070000Z
 DTEND:20260323T083500Z
 SUMMARY:F1 (L)
-LOCATION:139 S
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: mgr inż. Jakubowska Iwona; dr inż. Moś Joanna
+LOCATION:139 S;142 S
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Jakubowska Iwona; mgr inż. Kosturek Rafał; prof.dr hab.inż. Jaroszewicz Leszek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T060000Z
@@ -29,7 +29,7 @@ DTSTART:20260413T060000Z
 DTEND:20260413T073500Z
 SUMMARY:F1 (L)
 LOCATION:139 S
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: mgr inż. Jakubowska Iwona; dr inż. Moś Joanna
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Jakubowska Iwona; mgr inż. Kosturek Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T060000Z
@@ -50,7 +50,7 @@ DTSTART:20260504T060000Z
 DTEND:20260504T073500Z
 SUMMARY:F1 (L)
 LOCATION:139 S
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: mgr inż. Jakubowska Iwona; dr inż. Moś Joanna
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Jakubowska Iwona; mgr inż. Kosturek Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T060000Z
@@ -62,16 +62,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T060000Z
 DTEND:20260518T073500Z
-SUMMARY:Mat3 (ć)
-LOCATION:204 65
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Kubica Adam
+SUMMARY:F1 (L)
+LOCATION:142 S
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Jakubowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T060000Z
 DTEND:20260525T073500Z
 SUMMARY:F1 (L)
 LOCATION:139 S
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: mgr inż. Jakubowska Iwona; dr inż. Moś Joanna
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Jakubowska Iwona; mgr inż. Kosturek Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T060000Z
@@ -84,8 +84,8 @@ BEGIN:VEVENT
 DTSTART:20260608T060000Z
 DTEND:20260608T073500Z
 SUMMARY:F1 (L)
-LOCATION:139 S
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: mgr inż. Jakubowska Iwona; dr inż. Moś Joanna
+LOCATION:139 S;142 S
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Jakubowska Iwona; mgr inż. Kosturek Rafał; prof.dr hab.inż. Jaroszewicz Leszek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T060000Z
@@ -200,13 +200,6 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/20\nProwadzący: mgr inż. Jakubowska Iwona
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260202T104000Z
-DTEND:20260202T121500Z
-SUMMARY:M1 (E)
-LOCATION:19 36
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Różański Jerzy
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260302T104000Z
 DTEND:20260302T121500Z
 SUMMARY:Ja (ć)
@@ -310,13 +303,6 @@ DTEND:20260615T111500Z
 SUMMARY:Ja (ć)
 LOCATION:238 K;237 K;235 K;234 K;233 K;232 K;231 K;230 K;134 K;133 K;131 K;128 K;127 K;125 K;124 K;122 K;121
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/30
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260202T123000Z
-DTEND:20260202T140500Z
-SUMMARY:M1 (E)
-LOCATION:19 36
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T123000Z
@@ -508,13 +494,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: kpt. mgr Włoch Mariola
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260217T070000Z
-DTEND:20260217T083500Z
-SUMMARY:M1 ćw zal
-LOCATION:166 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: ćw zal\nNumer zajęć: 1/2\nProwadzący: mgr Salamon Alicja
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260303T070000Z
 DTEND:20260303T083500Z
 SUMMARY:Coo (w)
@@ -564,13 +543,6 @@ LOCATION:19 36
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260505T060000Z
-DTEND:20260505T073500Z
-SUMMARY:Coo (ć)
-LOCATION:109 24
-DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260512T060000Z
 DTEND:20260512T073500Z
 SUMMARY:PD (ć)
@@ -589,21 +561,21 @@ DTSTART:20260526T060000Z
 DTEND:20260526T073500Z
 SUMMARY:Coo (ć)
 LOCATION:109 24
-DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
+DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T060000Z
 DTEND:20260602T073500Z
 SUMMARY:Coo (ć)
 LOCATION:109 24
-DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
+DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T060000Z
 DTEND:20260609T073500Z
 SUMMARY:Coo (ć)
 LOCATION:109 24
-DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
+DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T060000Z
@@ -611,13 +583,6 @@ DTEND:20260616T073500Z
 SUMMARY:Coo (w)
 LOCATION:110/ 14
 DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 12/30\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260203T085000Z
-DTEND:20260203T102500Z
-SUMMARY:HP (E)
-LOCATION:19 36
-DESCRIPTION:Historia Polski\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Jasiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T085000Z
@@ -669,6 +634,13 @@ LOCATION:110/ 14
 DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 15/30\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260428T075000Z
+DTEND:20260428T092500Z
+SUMMARY:Coo (ć)
+LOCATION:2 55A
+DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260505T075000Z
 DTEND:20260505T092500Z
 SUMMARY:Coo (w)
@@ -716,20 +688,6 @@ DTEND:20260616T092500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/25\nProwadzący: kpt. mgr Włoch Mariola
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260203T104000Z
-DTEND:20260203T121500Z
-SUMMARY:M1 ćw zal
-LOCATION:166 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: ćw zal\nNumer zajęć: 2/2\nProwadzący: mgr Salamon Alicja
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260217T104000Z
-DTEND:20260217T121500Z
-SUMMARY:HP (Ep)
-LOCATION:19 36
-DESCRIPTION:Historia Polski\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Jasiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T104000Z
@@ -841,7 +799,7 @@ DTSTART:20260303T123000Z
 DTEND:20260303T140500Z
 SUMMARY:ZaMe (w)
 LOCATION:103 K
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: płk dr hab. inż. Parczewski Rafał
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: płk dr hab. inż. Parczewski Rafał; ppor. mgr Szwed Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T123000Z
@@ -1285,13 +1243,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/25\nProwadzący: kpt. mgr Włoch Mariola
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260218T104000Z
-DTEND:20260218T121500Z
-SUMMARY:M1 (Ep)
-LOCATION:19 36
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Różański Jerzy
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260304T104000Z
 DTEND:20260304T121500Z
 SUMMARY:REG (ć)
@@ -1432,6 +1383,13 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 4/38
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260401T113000Z
+DTEND:20260401T130500Z
+SUMMARY:Coo (ć)
+LOCATION:108 24
+DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260408T113000Z
 DTEND:20260408T130500Z
 SUMMARY:REG (ć)
@@ -1520,7 +1478,7 @@ DTSTART:20260311T150000Z
 DTEND:20260311T163500Z
 SUMMARY:ZaMe (w)
 LOCATION:103 K
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: płk dr hab. inż. Parczewski Rafał
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: płk dr hab. inż. Parczewski Rafał; ppor. mgr Szwed Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T150000Z
@@ -1940,7 +1898,7 @@ DTSTART:20260305T085000Z
 DTEND:20260305T102500Z
 SUMMARY:Mat3 (ć)
 LOCATION:166 S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T085000Z
@@ -1961,7 +1919,7 @@ DTSTART:20260326T085000Z
 DTEND:20260326T102500Z
 SUMMARY:Mat3 (ć)
 LOCATION:110/ 14
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T075000Z
@@ -2034,13 +1992,6 @@ LOCATION:34/ 14
 DESCRIPTION:Laboratorium z chemii ogólnej i nieorganicznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 50/60\nProwadzący: dr inż. Dyjak Sławomir; mgr inż. Kapusta Adam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260212T104000Z
-DTEND:20260212T121500Z
-SUMMARY:Mat2 Zp.
-LOCATION:166 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Zp.\nNumer zajęć: 1/1\nProwadzący: dr hab. Smarzewski Ryszard
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260305T104000Z
 DTEND:20260305T121500Z
 SUMMARY:Coo (w)
@@ -2095,6 +2046,13 @@ DTEND:20260423T111500Z
 SUMMARY:LCOiN (L)
 LOCATION:34/ 14
 DESCRIPTION:Laboratorium z chemii ogólnej i nieorganicznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 54/60\nProwadzący: dr inż. Dyjak Sławomir; mgr inż. Kapusta Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T094000Z
+DTEND:20260430T111500Z
+SUMMARY:F1 (L)
+LOCATION:142 S
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Jakubowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T094000Z
@@ -2244,6 +2202,13 @@ LOCATION:238 K;237 K;235 K;234 K;233 K;232 K;231 K;230 K;134 K;133 K;131 K;128 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30/30
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260312T150000Z
+DTEND:20260312T163500Z
+SUMMARY:Mat3 (ć)
+LOCATION:204 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Kubica Adam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260319T150000Z
 DTEND:20260319T163500Z
 SUMMARY:Mat3 (ć)
@@ -2312,6 +2277,13 @@ DTEND:20260320T083500Z
 SUMMARY:REG (ć)
 LOCATION:PL.MUSZ2
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: ppłk rez. Jęcek Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T060000Z
+DTEND:20260522T073500Z
+SUMMARY:F1 (L)
+LOCATION:142 S
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Jakubowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T060000Z
@@ -2398,13 +2370,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/25\nProwadzący: kpt. mgr Włoch Mariola
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260206T104000Z
-DTEND:20260206T121500Z
-SUMMARY:Mat2 (E)
-LOCATION:19 36
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Różański Jerzy
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260313T104000Z
 DTEND:20260313T121500Z
 SUMMARY:DSiSM (w)
@@ -2423,63 +2388,49 @@ DTSTART:20260410T094000Z
 DTEND:20260410T111500Z
 SUMMARY:Coo (ć)
 LOCATION:109 24
-DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260417T094000Z
-DTEND:20260417T111500Z
-SUMMARY:Coo (ć)
-LOCATION:109 24
 DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260508T094000Z
-DTEND:20260508T111500Z
-SUMMARY:Coo (ć)
-LOCATION:109 24
-DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T094000Z
 DTEND:20260515T111500Z
 SUMMARY:Coo (ć)
 LOCATION:109 24
-DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
+DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T094000Z
 DTEND:20260522T111500Z
 SUMMARY:Coo (ć)
 LOCATION:109 24
-DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
+DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T094000Z
 DTEND:20260529T111500Z
 SUMMARY:Coo (ć)
 LOCATION:109 24
-DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
+DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T094000Z
 DTEND:20260612T111500Z
 SUMMARY:Coo (ć)
 LOCATION:109 24
-DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
+DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T094000Z
 DTEND:20260619T111500Z
 SUMMARY:Coo (ć)
 LOCATION:109 24
-DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
+DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260206T123000Z
-DTEND:20260206T140500Z
-SUMMARY:Mat2 (E)
-LOCATION:19 36
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Różański Jerzy
+DTSTART:20260320T123000Z
+DTEND:20260320T140500Z
+SUMMARY:Coo (ć)
+LOCATION:2 55A
+DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T113000Z
@@ -2501,13 +2452,6 @@ DTEND:20260619T130500Z
 SUMMARY:Mat3 (L)
 LOCATION:219 65
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Różański Jerzy
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260220T150000Z
-DTEND:20260220T163500Z
-SUMMARY:Mat2 (Ep)
-LOCATION:19 36
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T150000Z

@@ -599,8 +599,22 @@ LOCATION:1725
 DESCRIPTION:Komputerowe wspomaganie wytwarzania\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Majewski Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260616T094000Z
+DTEND:20260616T111500Z
+SUMMARY:Pome 
+LOCATION:1725
+DESCRIPTION:Projektowanie obiektów mechatronicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Grązka Michał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T123000Z
 DTEND:20260303T140500Z
+SUMMARY:Pome 
+LOCATION:
+DESCRIPTION:Projektowanie obiektów mechatronicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Grązka Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T123000Z
+DTEND:20260310T140500Z
 SUMMARY:Pome 
 LOCATION:
 DESCRIPTION:Projektowanie obiektów mechatronicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Grązka Michał
@@ -970,13 +984,6 @@ LOCATION:1725
 DESCRIPTION:Komputerowe wspomaganie eksploatacji\nRodzaj zajęć: -\nProwadzący: dr inż. Piechna Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260610T113000Z
-DTEND:20260610T130500Z
-SUMMARY:Apo 
-LOCATION:4367
-DESCRIPTION:Automatyzacja pomiarów\nRodzaj zajęć: -\nProwadzący: mgr inż.. Kowalski Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260617T113000Z
 DTEND:20260617T130500Z
 SUMMARY:Apo 
@@ -1213,6 +1220,13 @@ DTEND:20260528T130500Z
 SUMMARY:Kww 
 LOCATION:1725
 DESCRIPTION:Komputerowe wspomaganie wytwarzania\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Majewski Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T113000Z
+DTEND:20260611T130500Z
+SUMMARY:Apo 
+LOCATION:4367
+DESCRIPTION:Automatyzacja pomiarów\nRodzaj zajęć: -\nProwadzący: mgr inż.. Kowalski Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T113000Z

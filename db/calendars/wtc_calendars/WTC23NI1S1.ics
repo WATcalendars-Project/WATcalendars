@@ -4,13 +4,6 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WTC23NI1S1
 BEGIN:VEVENT
-DTSTART:20260216T070000Z
-DTEND:20260216T083500Z
-SUMMARY:Mnm (Ep)
-LOCATION:11/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: płk dr hab. inż. Jóźwik Paweł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260511T060000Z
 DTEND:20260511T073500Z
 SUMMARY:NMI (L)
@@ -44,20 +37,6 @@ DTEND:20260615T073500Z
 SUMMARY:Bwm (L)
 LOCATION:15/ 34
 DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Komorek Zenon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260202T085000Z
-DTEND:20260202T102500Z
-SUMMARY:KSŻ (E)
-LOCATION:11/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260209T085000Z
-DTEND:20260209T102500Z
-SUMMARY:Mnm (E)
-LOCATION:11/ 34
-DESCRIPTION:Mechanizmy niszczenia materiałów\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: płk dr hab. inż. Jóźwik Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T075000Z
@@ -275,13 +254,6 @@ DTEND:20260602T092500Z
 SUMMARY:Efme (S)
 LOCATION:11/ 34
 DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260217T104000Z
-DTEND:20260217T121500Z
-SUMMARY:KSŻ (Ep)
-LOCATION:11/ 34
-DESCRIPTION:Konstrukcyjne stopy żelaza\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T104000Z
@@ -562,20 +534,6 @@ DTEND:20260520T073500Z
 SUMMARY:Eksm (P)
 LOCATION:14/ 34
 DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Projekt\nNumer zajęć: 5/12\nProwadzący: dr inż. Zasada Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260204T085000Z
-DTEND:20260204T102500Z
-SUMMARY:SMNŻ (E)
-LOCATION:11/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260218T085000Z
-DTEND:20260218T102500Z
-SUMMARY:SMNŻ (Ep)
-LOCATION:11/ 34
-DESCRIPTION:Stopy metali nieżelaznych\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Jóźwiak Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T085000Z
@@ -1049,23 +1007,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T085000Z
 DTEND:20260306T102500Z
-SUMMARY:Eksm (w)
+SUMMARY:TechP (w)
 LOCATION:26/ 34
-DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: płk dr hab. inż. Jóźwik Paweł
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T085000Z
 DTEND:20260313T102500Z
 SUMMARY:Eksm (w)
 LOCATION:26/ 34
-DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: płk dr hab. inż. Jóźwik Paweł
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: płk dr hab. inż. Jóźwik Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T085000Z
 DTEND:20260320T102500Z
 SUMMARY:TechP (w)
 LOCATION:26/ 34
-DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T075000Z
@@ -1107,14 +1065,14 @@ DTSTART:20260306T104000Z
 DTEND:20260306T121500Z
 SUMMARY:TechP (w)
 LOCATION:26/ 34
-DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T104000Z
 DTEND:20260313T121500Z
-SUMMARY:TechP (w)
+SUMMARY:Eksm (w)
 LOCATION:26/ 34
-DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: płk dr hab. inż. Jóźwik Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T104000Z

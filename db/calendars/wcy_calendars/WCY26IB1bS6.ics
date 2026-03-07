@@ -1166,13 +1166,6 @@ LOCATION:226 S
 DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: Marcin Sirant
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260302T070000Z
-DTEND:20260302T083500Z
-SUMMARY:TA (w)
-LOCATION:AW 4
-DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260302T085000Z
 DTEND:20260302T102500Z
 SUMMARY:DSiSM (Inne)
@@ -1285,11 +1278,18 @@ LOCATION:5.17/ 135
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260305T104000Z
-DTEND:20260305T121500Z
-SUMMARY:RiAIP (w)
-LOCATION:BIBL /22
-DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: -
+DTSTART:20260305T123000Z
+DTEND:20260305T140500Z
+SUMMARY:SO (L)
+LOCATION:120 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T150000Z
+DTEND:20260305T163500Z
+SUMMARY:SO (L)
+LOCATION:120 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T070000Z
@@ -1318,20 +1318,6 @@ DTEND:20260306T140500Z
 SUMMARY:SO (w)
 LOCATION:203 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260306T150000Z
-DTEND:20260306T163500Z
-SUMMARY:SO (L)
-LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: Sławomir Matusiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260306T165000Z
-DTEND:20260306T182500Z
-SUMMARY:SO (L)
-LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T070000Z
@@ -1450,7 +1436,7 @@ DTSTART:20260312T070000Z
 DTEND:20260312T083500Z
 SUMMARY:TA (w)
 LOCATION:AW 3/038
-DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T085000Z
@@ -1479,6 +1465,13 @@ DTEND:20260312T163500Z
 SUMMARY:SBD (L)
 LOCATION:226 S
 DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T184000Z
+DTEND:20260312T201500Z
+SUMMARY:TA (w)
+LOCATION:AW 3/038
+DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T070000Z
@@ -1514,13 +1507,6 @@ DTEND:20260313T163500Z
 SUMMARY:Sck (L)
 LOCATION:120 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260313T165000Z
-DTEND:20260313T182500Z
-SUMMARY:TA (w)
-LOCATION:AW 3/038
-DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T070000Z
@@ -1654,6 +1640,20 @@ DTEND:20260319T102500Z
 SUMMARY:PD (ć)
 LOCATION:AW 4
 DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T104000Z
+DTEND:20260319T121500Z
+SUMMARY:TA (w)
+LOCATION:AW 3/043
+DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T123000Z
+DTEND:20260319T140500Z
+SUMMARY:RiAIP (w)
+LOCATION:AW 3/038
+DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T070000Z

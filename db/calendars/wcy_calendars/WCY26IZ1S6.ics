@@ -70,14 +70,14 @@ BEGIN:VEVENT
 DTSTART:20260219T085000Z
 DTEND:20260219T102500Z
 SUMMARY:zsl (w)
-LOCATION:-
+LOCATION:101 65
 DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T104000Z
 DTEND:20260219T121500Z
 SUMMARY:zsl (w)
-LOCATION:-
+LOCATION:101 65
 DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
@@ -114,13 +114,6 @@ DTEND:20260223T102500Z
 SUMMARY:Lan (w)
 LOCATION:101 65
 DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Tomasz Malinowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260223T104000Z
-DTEND:20260223T121500Z
-SUMMARY:zsl (w)
-LOCATION:-
-DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260224T085000Z
@@ -238,8 +231,8 @@ BEGIN:VEVENT
 DTSTART:20260302T123000Z
 DTEND:20260302T140500Z
 SUMMARY:zsl (w)
-LOCATION:-
-DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Sławomir Machowski
+LOCATION:204 65
+DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T070000Z
@@ -343,7 +336,14 @@ BEGIN:VEVENT
 DTSTART:20260309T104000Z
 DTEND:20260309T121500Z
 SUMMARY:zsl (w)
-LOCATION:-
+LOCATION:101 65
+DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260309T123000Z
+DTEND:20260309T140500Z
+SUMMARY:zsl (w)
+LOCATION:101 65
 DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT

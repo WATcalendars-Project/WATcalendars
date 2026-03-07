@@ -102,13 +102,6 @@ LOCATION:2146
 DESCRIPTION:Podstawy optyki\nRodzaj zajęć: -\nProwadzący: prof. dr hab. inż. Jabczyński Jan
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260316T123000Z
-DTEND:20260316T140500Z
-SUMMARY:PTL 
-LOCATION:1246
-DESCRIPTION:Podstawy techniki laserowej\nRodzaj zajęć: -\nProwadzący: dr inż. Skórczakowski Marek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260323T123000Z
 DTEND:20260323T140500Z
 SUMMARY:POT 
@@ -148,6 +141,13 @@ DTSTART:20260310T085000Z
 DTEND:20260310T102500Z
 SUMMARY:PTL 
 LOCATION:2146
+DESCRIPTION:Podstawy techniki laserowej\nRodzaj zajęć: -\nProwadzący: dr inż. Skórczakowski Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260317T085000Z
+DTEND:20260317T102500Z
+SUMMARY:PTL 
+LOCATION:
 DESCRIPTION:Podstawy techniki laserowej\nRodzaj zajęć: -\nProwadzący: dr inż. Skórczakowski Marek
 END:VEVENT
 BEGIN:VEVENT
@@ -382,13 +382,6 @@ LOCATION:2146
 DESCRIPTION:Podstawy techniki laserowej\nRodzaj zajęć: -\nProwadzący: dr inż. Skórczakowski Marek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260429T075000Z
-DTEND:20260429T092500Z
-SUMMARY:POT 
-LOCATION:1246
-DESCRIPTION:Podstawy optyki\nRodzaj zajęć: -\nProwadzący: prof. dr hab. inż. Jabczyński Jan
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260506T075000Z
 DTEND:20260506T092500Z
 SUMMARY:POT 
@@ -410,6 +403,20 @@ LOCATION:2146
 DESCRIPTION:Podstawy optyki\nRodzaj zajęć: -\nProwadzący: prof. dr hab. inż. Jabczyński Jan
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T104000Z
+DTEND:20260325T121500Z
+SUMMARY:POT 
+LOCATION:1246
+DESCRIPTION:Podstawy optyki\nRodzaj zajęć: -\nProwadzący: prof. dr hab. inż. Jabczyński Jan
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T094000Z
+DTEND:20260408T111500Z
+SUMMARY:PTL 
+LOCATION:2046
+DESCRIPTION:Podstawy techniki laserowej\nRodzaj zajęć: -\nProwadzący: dr inż. Skórczakowski Marek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260415T094000Z
 DTEND:20260415T111500Z
 SUMMARY:PTL 
@@ -419,6 +426,20 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T094000Z
 DTEND:20260422T111500Z
+SUMMARY:PTL 
+LOCATION:
+DESCRIPTION:Podstawy techniki laserowej\nRodzaj zajęć: -\nProwadzący: dr inż. Skórczakowski Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T094000Z
+DTEND:20260429T111500Z
+SUMMARY:ZPE 
+LOCATION:
+DESCRIPTION:Źródła promieniowania EM\nRodzaj zajęć: -\nProwadzący: prof. dr hab. inż. Zając Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T094000Z
+DTEND:20260506T111500Z
 SUMMARY:PTL 
 LOCATION:
 DESCRIPTION:Podstawy techniki laserowej\nRodzaj zajęć: -\nProwadzący: dr inż. Skórczakowski Marek
@@ -438,27 +459,6 @@ LOCATION:2146
 DESCRIPTION:Podstawy optyki\nRodzaj zajęć: -\nProwadzący: prof. dr hab. inż. Jabczyński Jan
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260325T123000Z
-DTEND:20260325T140500Z
-SUMMARY:POT 
-LOCATION:2146
-DESCRIPTION:Podstawy optyki\nRodzaj zajęć: -\nProwadzący: prof. dr hab. inż. Jabczyński Jan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260408T113000Z
-DTEND:20260408T130500Z
-SUMMARY:PTL 
-LOCATION:1246
-DESCRIPTION:Podstawy techniki laserowej\nRodzaj zajęć: -\nProwadzący: dr inż. Skórczakowski Marek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260415T113000Z
-DTEND:20260415T130500Z
-SUMMARY:PTL 
-LOCATION:1246
-DESCRIPTION:Podstawy techniki laserowej\nRodzaj zajęć: -\nProwadzący: dr inż. Skórczakowski Marek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260422T113000Z
 DTEND:20260422T130500Z
 SUMMARY:ZPE 
@@ -468,9 +468,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T113000Z
 DTEND:20260429T130500Z
-SUMMARY:ZPE 
+SUMMARY:POT 
 LOCATION:
-DESCRIPTION:Źródła promieniowania EM\nRodzaj zajęć: -\nProwadzący: prof. dr hab. inż. Zając Andrzej
+DESCRIPTION:Podstawy optyki\nRodzaj zajęć: -\nProwadzący: prof. dr hab. inż. Jabczyński Jan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T113000Z

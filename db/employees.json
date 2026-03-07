@@ -4342,6 +4342,11 @@
     },
     {
       "degree": "mgr inż.",
+      "is_new": true,
+      "name": "Dariusz Kalinko [NEW]"
+    },
+    {
+      "degree": "mgr inż.",
       "is_new": false,
       "name": "Dariusz Kalinko"
     },
@@ -5797,9 +5802,15 @@
     }
   ],
   "metadata": {
+<<<<<<< HEAD
     "last_updated": "2026-03-07T12:17:07.266611",
     "last_updated_readable": "2026-03-07 12:17:07",
     "new_employees_count": 0,
+=======
+    "last_updated": "2026-03-07T02:02:37.071680",
+    "last_updated_readable": "2026-03-07 02:02:37",
+    "new_employees_count": 1,
+>>>>>>> ab3c9da76a66b006b030d394d9be107a8332f538
     "scraper_version": "1.0",
     "total_employees": 1159
   }

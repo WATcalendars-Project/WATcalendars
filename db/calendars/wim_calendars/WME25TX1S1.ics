@@ -2734,6 +2734,13 @@ LOCATION:01/ 54A
 DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr inż. Przybysz Mirosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250525T060000Z
+DTEND:20250525T073500Z
+SUMMARY:Met (ć)
+LOCATION:3/ 23a
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250615T060000Z
 DTEND:20250615T073500Z
 SUMMARY:Ppu. (L)
@@ -3087,14 +3094,14 @@ BEGIN:VEVENT
 DTSTART:20250629T113000Z
 DTEND:20250629T130500Z
 SUMMARY:Plog (E)
-LOCATION:3/ 54
+LOCATION:51/ 62
 DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250914T113000Z
 DTEND:20250914T130500Z
 SUMMARY:Plog (Ep)
-LOCATION:3/ 54
+LOCATION:51/ 62
 DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
@@ -3424,7 +3431,7 @@ DTSTART:20250602T094000Z
 DTEND:20250602T111500Z
 SUMMARY:Met (ć)
 LOCATION:5/ 23a
-DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T094000Z
@@ -3641,7 +3648,7 @@ DTSTART:20250415T075000Z
 DTEND:20250415T092500Z
 SUMMARY:Met (ć)
 LOCATION:2/ 23a
-DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250422T075000Z
@@ -3655,14 +3662,14 @@ DTSTART:20250429T075000Z
 DTEND:20250429T092500Z
 SUMMARY:Met (ć)
 LOCATION:3/ 23a
-DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T075000Z
 DTEND:20250506T092500Z
 SUMMARY:Met (ć)
 LOCATION:2/ 23a
-DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T075000Z
@@ -3672,32 +3679,11 @@ LOCATION:
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250527T075000Z
-DTEND:20250527T092500Z
-SUMMARY:Met (ć)
-LOCATION:2/ 23a
-DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250603T075000Z
 DTEND:20250603T092500Z
 SUMMARY:Mas (L)
 LOCATION:42/ 54A; PMI/ 54
 DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr inż. Przybysz Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250617T075000Z
-DTEND:20250617T092500Z
-SUMMARY:Met (ć)
-LOCATION:6/ 23a
-DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250624T075000Z
-DTEND:20250624T092500Z
-SUMMARY:Met (Zp. Ćw)
-LOCATION:6/ 23a
-DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T075000Z
@@ -3732,14 +3718,14 @@ DTSTART:20250325T104000Z
 DTEND:20250325T121500Z
 SUMMARY:Met (ć)
 LOCATION:3/ 23a
-DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T094000Z
 DTEND:20250401T111500Z
 SUMMARY:Met (ć)
 LOCATION:2/ 23a
-DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T094000Z
@@ -3781,7 +3767,7 @@ DTSTART:20250520T094000Z
 DTEND:20250520T111500Z
 SUMMARY:Met (ć)
 LOCATION:2/ 23a
-DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T123000Z
@@ -4005,7 +3991,7 @@ DTSTART:20250423T060000Z
 DTEND:20250423T073500Z
 SUMMARY:Met (ć)
 LOCATION:2/ 23a
-DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T060000Z
@@ -4013,6 +3999,13 @@ DTEND:20250604T073500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 15/49
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T060000Z
+DTEND:20250618T073500Z
+SUMMARY:Met (ć)
+LOCATION:2/ 23a
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T085000Z
@@ -4111,6 +4104,13 @@ DTEND:20250618T092500Z
 SUMMARY:Mat3 (L)
 LOCATION:
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Prusińska Agnieszka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250625T075000Z
+DTEND:20250625T092500Z
+SUMMARY:Met (Zp. Ćw)
+LOCATION:116/ 54
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T075000Z

@@ -2741,6 +2741,13 @@ LOCATION:3/ 54
 DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250629T060000Z
+DTEND:20250629T073500Z
+SUMMARY:Gin (E)
+LOCATION:3/ 54
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250302T085000Z
 DTEND:20250302T102500Z
 SUMMARY:Mt 
@@ -2864,7 +2871,7 @@ DTSTART:20250629T075000Z
 DTEND:20250629T092500Z
 SUMMARY:Gin (E)
 LOCATION:3/ 54
-DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250914T075000Z
@@ -3192,7 +3199,7 @@ BEGIN:VEVENT
 DTSTART:20250609T060000Z
 DTEND:20250609T073500Z
 SUMMARY:Gin (ć)
-LOCATION:120/ 54
+LOCATION:29/ 54; 30/ 54
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/22
 END:VEVENT
 BEGIN:VEVENT
@@ -3305,14 +3312,14 @@ DTSTART:20250602T075000Z
 DTEND:20250602T092500Z
 SUMMARY:Bp. (ć)
 LOCATION:1/ 21; 22/ 21
-DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T075000Z
 DTEND:20250609T092500Z
 SUMMARY:Bp. (ć)
 LOCATION:55/ 62
-DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T075000Z
@@ -3375,7 +3382,7 @@ DTSTART:20250414T094000Z
 DTEND:20250414T111500Z
 SUMMARY:Bp. (ć)
 LOCATION:55/ 62
-DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250421T094000Z
@@ -3444,7 +3451,7 @@ BEGIN:VEVENT
 DTSTART:20250310T123000Z
 DTEND:20250310T140500Z
 SUMMARY:PEM (w)
-LOCATION:
+LOCATION:301/ S
 DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr Korczago Joanna
 END:VEVENT
 BEGIN:VEVENT
@@ -3465,7 +3472,7 @@ BEGIN:VEVENT
 DTSTART:20250331T113000Z
 DTEND:20250331T130500Z
 SUMMARY:PEM (w)
-LOCATION:
+LOCATION:301/ S
 DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr Korczago Joanna
 END:VEVENT
 BEGIN:VEVENT
@@ -3501,7 +3508,7 @@ DTSTART:20250505T113000Z
 DTEND:20250505T130500Z
 SUMMARY:Bp. (ć)
 LOCATION:54/ 62
-DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T113000Z
@@ -3536,7 +3543,7 @@ DTSTART:20250609T113000Z
 DTEND:20250609T130500Z
 SUMMARY:Bp. (ć)
 LOCATION:54/ 62
-DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T113000Z
@@ -3620,7 +3627,7 @@ DTSTART:20250422T060000Z
 DTEND:20250422T073500Z
 SUMMARY:Bp. (ć)
 LOCATION:55/ 62
-DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T060000Z
@@ -3704,7 +3711,7 @@ DTSTART:20250429T075000Z
 DTEND:20250429T092500Z
 SUMMARY:Bp. (ć)
 LOCATION:54/ 62
-DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T075000Z
@@ -3712,13 +3719,6 @@ DTEND:20250513T092500Z
 SUMMARY:Ppu. (L)
 LOCATION:38/ 54A
 DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250527T075000Z
-DTEND:20250527T092500Z
-SUMMARY:Bp. (ć)
-LOCATION:8/ 62
-DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T075000Z
@@ -3739,7 +3739,7 @@ DTSTART:20250617T075000Z
 DTEND:20250617T092500Z
 SUMMARY:Bp. (ć)
 LOCATION:1/ 21; 22/ 21
-DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T075000Z
@@ -4810,7 +4810,7 @@ DTSTART:20250410T094000Z
 DTEND:20250410T111500Z
 SUMMARY:Bp. (ć)
 LOCATION:1/ 21; 22/ 21
-DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T094000Z
