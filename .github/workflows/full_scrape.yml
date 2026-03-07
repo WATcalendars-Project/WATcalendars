@@ -29,78 +29,68 @@ jobs:
         run: |
           playwright install
 
+      - name: Prepare log file and clear (14days) logs
+        run: |
+          mkdir -p logs
+          find logs -name "*.txt" -type f -mtime +14 -delete
+          
+          echo "LOG_PATH=logs/scrape_$(date +'%Y-%m-%d_%H-%M').txt" >> $GITHUB_ENV
+
       - name: Run employees scraper
-        run: |
-          python src/watcalendars/watemployees.py
+        run: python src/watcalendars/watemployees.py >> ${{ env.LOG_PATH }} 2>&1
 
-      - name: Run IOE groups scraper
-        run: |
-          python src/watcalendars/groups/groups_ioe.py
+      - name: Run GROUPS scraper - IOE
+        run: python src/watcalendars/groups/groups_ioe.py >> ${{ env.LOG_PATH }} 2>&1
 
-      - name: Run WCY groups scraper
-        run: |
-          python src/watcalendars/groups/groups_wcy.py
+      - name: Run GROUPS scraper - WCY
+        run: python src/watcalendars/groups/groups_wcy.py >> ${{ env.LOG_PATH }} 2>&1
         
-      - name: Run WEL groups scraper
-        run: |
-          python src/watcalendars/groups/groups_wel.py
+      - name: Run GROUPS scraper - WEL
+        run: python src/watcalendars/groups/groups_wel.py >> ${{ env.LOG_PATH }} 2>&1
 
-      - name: Run WIG groups scraper
-        run: |
-          python src/watcalendars/groups/groups_wig.py
+      - name: Run GROUPS scraper - WIG
+        run: python src/watcalendars/groups/groups_wig.py >> ${{ env.LOG_PATH }} 2>&1
 
-      - name: Run WIM groups scraper
-        run: |
-          python src/watcalendars/groups/groups_wim.py
+      - name: Run GROUPS scraper - WIM
+        run: python src/watcalendars/groups/groups_wim.py >> ${{ env.LOG_PATH }} 2>&1
 
-      - name: Run WLO groups scraper
-        run: |
-          python src/watcalendars/groups/groups_wlo.py
+      - name: Run GROUPS scraper - WLO
+        run: python src/watcalendars/groups/groups_wlo.py >> ${{ env.LOG_PATH }} 2>&1
 
-      - name: Run WML groups scraper
-        run: |
-          python src/watcalendars/groups/groups_wml.py
+      - name: Run GROUPS scraper - WML
+        run: python src/watcalendars/groups/groups_wml.py >> ${{ env.LOG_PATH }} 2>&1
       
-      - name: Run WTC groups scraper
-        run: |
-          python src/watcalendars/groups/groups_wtc.py
+      - name: Run GROUPS scraper - WTC
+        run: python src/watcalendars/groups/groups_wtc.py >> ${{ env.LOG_PATH }} 2>&1
 
-      - name: Run IOE schedule scraper
-        run: |
-          python src/watcalendars/calendar_ioe.py
+      - name: Run SCHEDULE scraper - IOE
+        run: python src/watcalendars/calendar_ioe.py >> ${{ env.LOG_PATH }} 2>&1
 
-      - name: Run WCY schedule scraper
-        run: |
-          python src/watcalendars/calendar_wcy.py
+      - name: Run SCHEDULE scraper - WCY
+        run: python src/watcalendars/calendar_wcy.py >> ${{ env.LOG_PATH }} 2>&1
 
-      - name: Run WEL schedule scraper
-        run: |
-          python src/watcalendars/calendar_wel.py
+      - name: Run SCHEDULE scraper - WEL
+        run: python src/watcalendars/calendar_wel.py >> ${{ env.LOG_PATH }} 2>&1
 
-      - name: Run WIG schedule scraper
-        run: |
-          python src/watcalendars/calendar_wig.py
+      - name: Run SCHEDULE scraper - WIG
+        run: python src/watcalendars/calendar_wig.py >> ${{ env.LOG_PATH }} 2>&1
 
-      - name: Run WIM schedule scraper
-        run: |
-          python src/watcalendars/calendar_wim.py
+      - name: Run SCHEDULE scraper - WIM
+        run: python src/watcalendars/calendar_wim.py >> ${{ env.LOG_PATH }} 2>&1
 
-      - name: Run WLO schedule scraper
-        run: |
-          python src/watcalendars/calendar_wlo.py
+      - name: Run SCHEDULE scraper - WLO
+        run: python src/watcalendars/calendar_wlo.py >> ${{ env.LOG_PATH }} 2>&1
 
-      - name: Run WML schedule scraper
-        run: |
-          python src/watcalendars/calendar_wml.py
+      - name: Run SCHEDULE scraper - WML
+        run: python src/watcalendars/calendar_wml.py >> ${{ env.LOG_PATH }} 2>&1
 
-      - name: Run WTC schedule scraper
-        run: |
-          python src/watcalendars/calendar_wtc.py
+      - name: Run SCHEDULE scraper - WTC
+        run: python src/watcalendars/calendar_wtc.py >> ${{ env.LOG_PATH }} 2>&1
 
       - name: Commit and push changes
         run: |
           git config --global user.name 'Github Actions Bot'
           git config --global user.email 'actions@github.com'
-          git add db/employees.json db/groups_url/*.json db/schedules/*/*.docx db/calendars/*/*.ics
-          git commit -m "Automated daily scrape" || echo "No changes to commit"
+          git add db/employees.json db/groups_url/* db/calendars/* logs/*
+          git commit -m "Automated daily scrape - logs updated" || echo "No changes to commit"
           git push || echo "No changes to push"
