@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
 
 def parse_wig_subcategories(html, logs=None):
     """
@@ -10,14 +11,14 @@ def parse_wig_subcategories(html, logs=None):
     def parse_wig_subcategories_log():
         logs = []
         if not html:
-            logs.append(f"[ERROR] No HTML retrieved."); print(f"[ERROR] No HTML retrieved.")
+            logs.append(f"{ERROR} No HTML retrieved."); print(f"{ERROR} No HTML retrieved.")
             return {}
 
         soup = BeautifulSoup(html, "html.parser")
         
         # Find all span elements with class="pd-subcategory"
         subcategory_spans = soup.find_all("span", class_="pd-subcategory")
-        logs.append(f"[OK] Found {len(subcategory_spans)} subcategory elements."); print(f"[OK] Found {len(subcategory_spans)} subcategory elements.")
+        logs.append(f"{OK} Found {len(subcategory_spans)} subcategory elements."); print(f"{OK} Found {len(subcategory_spans)} subcategory elements.")
         
         subcategories = {}
         for span in subcategory_spans:
@@ -28,7 +29,9 @@ def parse_wig_subcategories(html, logs=None):
                 if link and link.get("href"):
                     href = link.get("href")
                     name = link.text.strip()
-                    
+                    # Fix incorrect encoding from Playwright resolving Win-1250 dynamically as UTF-8
+                    name = name.encode('windows-1250', 'replace').decode('utf-8', 'replace')
+
                     # Build full URL if relative
                     if href.startswith("/"):
                         base_url = "https://www.wig.wat.edu.pl"
@@ -42,8 +45,8 @@ def parse_wig_subcategories(html, logs=None):
                     if name:
                         subcategories[name] = full_url
         
-        logs.append(f"Parsed {len(subcategories)} subcategories."); print(f"Parsed {len(subcategories)} subcategories.")
+        logs.append(f"{SUCCESS} Parsed {len(subcategories)} subcategories."); print(f"{SUCCESS} Parsed {len(subcategories)} subcategories.")
         return subcategories
 
-    subcategories = (print("Parsing HTML content for WIG subcategories..."), parse_wig_subcategories_log())[1]
+    subcategories = (print(f"{INFO} Parsing HTML content for WIG subcategories..."), parse_wig_subcategories_log())[1]
     return subcategories

@@ -54,3 +54,10 @@ TYPE_SYMBOLS = set(TYPE_FULL_MAP.keys())
 
 def sanitize_filename(filename):
     return re.sub(r'[<>:"\\|?*]', "_", filename)
+from datetime import datetime
+
+def get_current_semester() -> str:
+    current_month = datetime.now().month
+    if current_month >= 9 or current_month <= 2:
+        return "zima"
+    return "lato"

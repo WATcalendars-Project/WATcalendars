@@ -61,7 +61,7 @@ def test_connection_with_monitoring(url: str, description: str = None):
                 browser.close()
                 raise e
     try:
-        duration = (print(f"{INFO}:\nChecking connection to ({display_name})..."), perform_connection_test())[1]
+        duration = (print(f"{INFO}: Checking connection to ({display_name})..."), perform_connection_test())[1]
         if total_bytes > 1024 * 1024:
             total_size_str = f"{total_bytes / (1024 * 1024):.1f} MB"
         elif total_bytes > 1024:

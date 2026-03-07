@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
 
 def parse_wig_groups_from_subcategory(html, logs=None):
     """
@@ -10,13 +11,13 @@ def parse_wig_groups_from_subcategory(html, logs=None):
     def parse_wig_groups_log():
         logs = []
         if not html:
-            logs.append(f"[ERROR] No HTML retrieved."); print(f"[ERROR] No HTML retrieved.")
+            logs.append(f"{ERROR} No HTML retrieved."); print(f"{ERROR} No HTML retrieved.")
             return {}
 
         soup = BeautifulSoup(html, "html.parser")
         
         float_divs = soup.find_all("div", class_="pd-float")
-        logs.append(f"[OK] Found {len(float_divs)} pd-float divs."); print(f"[OK] Found {len(float_divs)} pd-float divs.")
+        logs.append(f"{OK} Found {len(float_divs)} pd-float divs."); print(f"{OK} Found {len(float_divs)} pd-float divs.")
         
         groups = {}
         for div in float_divs:
@@ -24,7 +25,9 @@ def parse_wig_groups_from_subcategory(html, logs=None):
             if link and link.get("href"):
                 href = link.get("href")
                 group_name = link.text.strip()
-                
+                # Fix incorrect encoding from Playwright resolving Win-1250 dynamically as UTF-8
+                group_name = group_name.encode('windows-1250', 'replace').decode('utf-8', 'replace')
+
                 if href.startswith("/"):
                     base_url = "https://www.wig.wat.edu.pl"
                     full_url = base_url + href
@@ -37,8 +40,8 @@ def parse_wig_groups_from_subcategory(html, logs=None):
                 if group_name:
                     groups[group_name] = full_url
         
-        logs.append(f"Parsed {len(groups)} groups."); print(f"Parsed {len(groups)} groups.")
+        logs.append(f"{OK} Parsed {len(groups)} groups."); print(f"{OK} Parsed {len(groups)} groups.")
         return groups
 
-    groups = (print("Parsing HTML content for WIG groups..."), parse_wig_groups_log())[1]
+    groups = (print(f"{INFO} Parsing HTML content for WIG groups..."), parse_wig_groups_log())[1]
     return groups

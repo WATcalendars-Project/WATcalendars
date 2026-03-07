@@ -8,11 +8,11 @@ from watcalendars.utils.url_loader import load_url_from_config
 from watcalendars.utils.scraper import scrape_html
 from watcalendars.utils.parsers.groups_parsers.groups_parser_wtc import parse_wtc_groups
 from watcalendars.utils.writers.groups_url_writer import save_groups_json
+from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
 
 if __name__ == '__main__':
     start_time = time.time()
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Start of WTC groups scraper:")
-    print("")
+    print(f"\n------[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Start of WTC groups scraper:------\n")
 
     url, description = load_url_from_config(
         config_file=GROUPS_CONFIG,
@@ -23,13 +23,13 @@ if __name__ == '__main__':
     print("")
 
     try:
-        print(f"Scraping groups from URL:\n{url}")
+        print(f"{INFO} Scraping groups from URL:\n{url}")
         html, logs = scrape_html(url)
         print("")
         
-        print(f"Parsing {len(html)} bytes of HTML:")
+        print(f"{INFO} Parsing {len(html)} bytes of HTML:")
         groups = parse_wtc_groups(html, logs)
-        print(f"[SUCCESS] Collected {len(groups)} WTC groups.")
+        print(f"{SUCCESS} Collected {len(groups)} WTC groups.")
         print("")
 
         if groups:
@@ -42,10 +42,11 @@ if __name__ == '__main__':
                 schedule_type="url"
             )
         else:
-            print(f"[ERROR] No data to save.")
+            print(f"{ERROR} No data to save.")
     except Exception as e:
-        print(f"[ERROR] {e}")
+        print(f"{ERROR} {e}")
     print("")
 
     duration = time.time() - start_time
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] WTC groups scraper finished  |  duration: {duration:.2f}s")
+    print(f"{INFO} {datetime.now().strftime('%Y-%m-%d %H:%M')} WTC groups scraper finished  |  duration: {duration:.2f}s")
+    print("")

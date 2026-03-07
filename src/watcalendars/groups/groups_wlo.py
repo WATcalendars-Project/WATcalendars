@@ -8,48 +8,56 @@ from watcalendars.utils.url_loader import load_url_from_config
 from watcalendars.utils.scraper import scrape_html
 from watcalendars.utils.parsers.groups_parsers.groups_parser_wlo import parse_wlo_groups
 from watcalendars.utils.writers.groups_url_writer import save_groups_json
+from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
+from watcalendars.utils.config import get_current_semester
 
 if __name__ == '__main__':
     start_time = time.time()
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Start of WLO groups scraper:")
+    print(f"\n------[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Start of WLO groups scraper:------\n")
 
-    # Tak jak dla WEL/WIM: osobne JSON-y dla zimy i lata
-    for season, season_suffix in [("url_zima", "_zima"), ("url_lato", "_lato")]:
-        print(f"\n--- Processing season: {season} ---")
+    current_month = datetime.now().month
+    current_semester = get_current_semester()
+    season = f"url_{current_semester}"
+    season_suffix = f"_{current_semester}"
 
-        url, description = load_url_from_config(
-            config_file=GROUPS_CONFIG,
-            key="wlo_groups",
-            url_type=season
-        )
-        test_connection_with_monitoring(url, description)
+    print(f"{INFO} Current month is: {current_month}. According to the schedule, the selected semester is: {current_semester.upper()}")
+    print(f"Processing season: {season}...")
+    print("")
+
+    url, description = load_url_from_config(
+        config_file=GROUPS_CONFIG,
+        key="wlo_groups",
+        url_type=season
+    )
+    test_connection_with_monitoring(url, description)
+    print("")
+
+    try:
+        print(f"{INFO} Scraping groups from URL:\n{url}")
+        html, logs = scrape_html(url)
         print("")
 
-        try:
-            print(f"Scraping groups from URL:\n{url}")
-            html, logs = scrape_html(url)
-            print("")
-
-            print(f"Parsing {len(html)} bytes of HTML:")
-            groups = parse_wlo_groups(html, logs)
-            print(f"[SUCCESS] Collected {len(groups)} WLO groups for {season}.")
-            print("")
-
-            if groups:
-                save_groups_json(
-                    groups=groups,
-                    groups_dir=GROUPS_DIR,
-                    filename_prefix="wlo",
-                    url_config_path=SCHEDULES_CONFIG,
-                    schedule_key="wlo_schedule",
-                    schedule_type=season,
-                    season_suffix=season_suffix
-                )
-            else:
-                print(f"[ERROR] No data to save for {season}.")
-        except Exception as e:
-            print(f"[ERROR] during {season} processing: {e}")
+        print(f"{INFO} Parsing {len(html)} bytes of HTML:")
+        groups = parse_wlo_groups(html, logs)
+        print(f"{SUCCESS} Collected {len(groups)} WLO groups for {season}.")
         print("")
+
+        if groups:
+            save_groups_json(
+                groups=groups,
+                groups_dir=GROUPS_DIR,
+                filename_prefix="wlo",
+                url_config_path=SCHEDULES_CONFIG,
+                schedule_key="wlo_schedule",
+                schedule_type=season,
+                season_suffix=season_suffix
+            )
+        else:
+            print(f"{ERROR} No data to save for {season}.")
+    except Exception as e:
+        print(f"{ERROR} during {season} processing: {e}")
+    print("")
 
     duration = time.time() - start_time
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] WLO groups scraper finished  |  duration: {duration:.2f}s")
+    print(f"{INFO} {datetime.now().strftime('%Y-%m-%d %H:%M')} WLO groups scraper finished  |  duration: {duration:.2f}s")
+    print("")

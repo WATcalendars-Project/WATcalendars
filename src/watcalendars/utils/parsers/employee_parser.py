@@ -1,11 +1,13 @@
 """
 Employee Parser - Parsing employees from WAT USOS HTML pages
 """
-
+import time
+from datetime import datetime
 import re
 import time
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
 
 
 
@@ -39,12 +41,12 @@ def scrape_employees_html(url: str, timeout: int = 30000) -> str:
             try:
                 page.wait_for_selector("td.uwb-staffuser-panel", timeout=10000)
             except PlaywrightTimeoutError:
-                logs.append(f"[WARNING] Employee panels not found within timeout"); print(f"[WARNING] Employee panels not found within timeout")
+                logs.append(f"{WARNING} Employee panels not found within timeout"); print(f"{WARNING} Employee panels not found within timeout")
                 page.wait_for_load_state("networkidle", timeout=5000)
             html = page.content()
             
         except Exception as e:
-            logs.append(f"[ERROR] Failed to scrape page: {e}"); print(f"[ERROR] Failed to scrape page: {e}")
+            logs.append(f"{ERROR} Failed to scrape page: {e}"); print(f"{ERROR} Failed to scrape page: {e}")
         finally:
             browser.close()
     
@@ -83,7 +85,7 @@ def detect_total_pages(url: str) -> int:
                 page.wait_for_selector("div.uwb-page-switcher-panel", timeout=5000)
                 page.wait_for_load_state("networkidle")
             except Exception:
-                logs.append(f"[WARNING] Pagination element not found within timeout"); print(f"[WARNING] Pagination element not found within timeout")
+                logs.append(f"{WARNING} Pagination element not found within timeout"); print(f"{WARNING} Pagination element not found within timeout")
             
             html = page.content()
             logs.append(f"Getting page content."); print(f"Getting page content.")
@@ -101,20 +103,21 @@ def detect_total_pages(url: str) -> int:
                     match = re.search(r'/\s*(\d+)', text)
                     if match:
                         total_pages = int(match.group(1))
-                        logs.append(f"Total pages detected: {total_pages}"); print(f"Total pages detected: {total_pages}")
+                        now = datetime.now().strftime('%Y-%m-%d %H:%M')
+                        logs.append(f"[{now}] {SUCCESS} Total pages detected: {total_pages}"); print(f"[{now}] {SUCCESS} Total pages detected: {total_pages}")
                         return total_pages
                     else:
-                        logs.append(f"[ERROR] No page number found in pagination text."); print(f"[ERROR] No page number found in pagination text.")
+                        logs.append(f"[{now}] {ERROR} No page number found in pagination text."); print(f"[{now}] {ERROR} No page number found in pagination text.")
                         return 1
                 else:
-                    logs.append(f"[ERROR] No td element found in pagination."); print(f"[ERROR] No td element found in pagination.")
+                    logs.append(f"[{now}] {ERROR} No td element found in pagination."); print(f"[{now}] {ERROR} No td element found in pagination.")
                     return 1
             else:
-                logs.append(f"[ERROR] No pagination nav found. Assuming only 1 page."); print(f"[ERROR] No pagination nav found. Assuming only 1 page.")
+                logs.append(f"[{now}] {ERROR} No pagination nav found. Assuming only 1 page."); print(f"[{now}] {ERROR} No pagination nav found. Assuming only 1 page.")
                 return 1
                 
         except Exception as e:
-            logs.append(f"[ERROR] Failed to load page or find pagination element: {e}"); print(f"[ERROR] Failed to load page or find pagination element: {e}")
+            logs.append(f"[{now}] {ERROR} Failed to load page or find pagination element: {e}"); print(f"[{now}] {ERROR} Failed to load page or find pagination element: {e}")
             return 1
         finally:
             browser.close()
@@ -136,11 +139,11 @@ def parse_employees_page(html: str, page_num: int, total_pages: int) -> list[tup
     employees = []
     
     if not html:
-        print(f"\n[ERROR] Empty HTML for page {page_num}")
+        print(f"\n{ERROR} Empty HTML for page {page_num}")
         return employees
     
     if "pracownicyJednostki" not in html:
-        print(f"\n[WARNING] Page {page_num} may not have loaded correctly. Content check failed")
+        print(f"\n{WARNING} Page {page_num} may not have loaded correctly. Content check failed")
         return employees
     
     try:
@@ -159,9 +162,9 @@ def parse_employees_page(html: str, page_num: int, total_pages: int) -> list[tup
                 if full_name and degree_text:
                     employees.append((degree_text, full_name))
                     
-        [].append(f"[OK] Found {len(employees)} employees"); print(f"[OK] Found {len(employees)} employees")
+        [].append(f"{SUCCESS} Found {len(employees)} employees"); print(f"{SUCCESS} Found {len(employees)} employees")
         
     except Exception as e:
-        print(f"\n[ERROR] Error parsing page {page_num}: {e}")
+        print(f"\n{ERROR} Error parsing page {page_num}: {e}")
     
     return employees

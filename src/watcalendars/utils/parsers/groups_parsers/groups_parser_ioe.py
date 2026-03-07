@@ -1,6 +1,7 @@
 import re
 
 from bs4 import BeautifulSoup
+from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
 
 def parse_ioe_groups(html, logs=None):
     """
@@ -11,7 +12,7 @@ def parse_ioe_groups(html, logs=None):
     def parse_io_groups_log():
         logs = []
         if not html:
-            logs.append(f"[ERROR] No HTML retrieved."); print(f"[ERROR] No HTML retrieved.")
+            logs.append(f"{ERROR} No HTML retrieved."); print(f"{ERROR} No HTML retrieved.")
             return []
 
         soup = BeautifulSoup(html, 'html.parser')
@@ -19,10 +20,10 @@ def parse_ioe_groups(html, logs=None):
         for td in soup.find_all('td'):
             if td.get('valign', '').upper() == 'TOP':
                 first_td = td
-                logs.append(f"[OK] Found <td valign=TOP> element."); print(f"[OK] Found <td valign=TOP> element.")
+                logs.append(f"{OK} Found <td valign=TOP> element."); print(f"{OK} Found <td valign=TOP> element.")
                 break
         if not first_td:
-            logs.append(f"[ERROR] No <td valign=TOP> found."); print(f"[ERROR] No <td valign=TOP> found.")
+            logs.append(f"{ERROR} No <td valign=TOP> found."); print(f"{ERROR} No <td valign=TOP> found.")
             return []
 
         groups = set()
@@ -36,8 +37,8 @@ def parse_ioe_groups(html, logs=None):
                 continue
             token = '_'.join(base_no_ext.split())
             groups.add(token)
-        logs.append("Extracting group links from <td> element."); print("Extracting group links from <td> element.")
+        logs.append(f"Extracting group links from <td> element."); print(f"Extracting group links from <td> element.")
         return sorted(groups)
 
-    groups = (print("Parsing HTML content for IOE groups..."), parse_io_groups_log())[1]
+    groups = (print(f"Parsing HTML content for IOE groups..."), parse_io_groups_log())[1]
     return sorted(groups)

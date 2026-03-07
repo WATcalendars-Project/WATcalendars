@@ -7,7 +7,7 @@ import os
 import time
 from datetime import datetime
 from typing import List, Tuple
-
+from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
 from watcalendars import DB_DIR
 
 
@@ -23,7 +23,7 @@ def save_employees_to_json(employees: List[Tuple[str, str]]) -> None:
     if not os.path.exists(filename):
         print(f"Created a new db file for WAT employees: '{os.path.abspath(filename)}'")
     else:
-        print(f"Using existing db file for WAT employees: '{os.path.abspath(filename)}'")
+        print(f"{INFO} Using existing db file for WAT employees: '{os.path.abspath(filename)}'")
 
     def save_log():
         logs = []
@@ -44,10 +44,10 @@ def save_employees_to_json(employees: List[Tuple[str, str]]) -> None:
                 logs.append(f"Reading existing employees... Done."); print(f"Reading existing employees... Done.")
                 logs.append(f"Existing employees loaded: {len(existing_employees)}"); print(f"Existing employees loaded: {len(existing_employees)}")
             except (json.JSONDecodeError, KeyError) as e:
-                logs.append(f"[WARNING] Error reading existing data, starting fresh: {e}"); print(f"[WARNING] Error reading existing data, starting fresh: {e}")
+                logs.append(f"{WARNING} Error reading existing data, starting fresh: {e}"); print(f"{WARNING} Error reading existing data, starting fresh: {e}")
                 existing_data = {}
             except Exception as e:
-                logs.append(f"[ERROR] Unexpected error reading file: {e}"); print(f"[ERROR] Unexpected error reading file: {e}")
+                logs.append(f"{ERROR} Unexpected error reading file: {e}"); print(f"{ERROR} Unexpected error reading file: {e}")
                 existing_data = {}
 
         normalized_employees = set()
@@ -98,11 +98,11 @@ def save_employees_to_json(employees: List[Tuple[str, str]]) -> None:
         new_count, total_count = (print(f"Saving employees..."), save_log())[1]
         
         if new_count > 0:
-            print(f"[SUCCESS] Summary: Saved {new_count} new employees (marked with [NEW]) in '{os.path.abspath(filename)}'.")
+            print(f"{SUCCESS} Summary: Saved {new_count} new employees (marked with [NEW]) in '{os.path.abspath(filename)}'.")
         else:
-            print(f"[SUCCESS] Summary: No new employees found since last run.")
+            print(f"{SUCCESS} Summary: No new employees found since last run.")
         
-        print(f"Total employees in '{os.path.abspath(filename)}' ({total_count})")
+        print(f"{INFO} Total employees in '{os.path.abspath(filename)}' ({total_count})")
         
     except Exception as e:
-        print(f"[ERROR] Error saving employees: {e}")
+        print(f"{ERROR} Error saving employees: {e}")

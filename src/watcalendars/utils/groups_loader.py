@@ -2,6 +2,7 @@ import os
 import json
 
 from watcalendars import GROUPS_DIR
+from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
 
 
 def load_groups(prefix: str) -> list:
@@ -26,13 +27,13 @@ def load_groups(prefix: str) -> list:
         dir_path = os.path.join(GROUPS_DIR, f"{prefix}_groups_url")
         if not os.path.isdir(dir_path):
             raise FileNotFoundError(
-                f"No groups file found for prefix '{prefix}' in {os.path.abspath(GROUPS_DIR)}"
+                f"{ERROR} No groups file found for prefix '{prefix}' in {os.path.abspath(GROUPS_DIR)}"
             )
 
         candidates = [f for f in os.listdir(dir_path) if f.lower().endswith(".json")]
         if not candidates:
             raise FileNotFoundError(
-                f"No JSON groups files found in {os.path.abspath(dir_path)} for prefix '{prefix}'"
+                f"{ERROR} No JSON groups files found in {os.path.abspath(dir_path)} for prefix '{prefix}'"
             )
 
         candidates_sorted = sorted(candidates)

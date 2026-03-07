@@ -1,16 +1,7 @@
 import os
 import time
-import asyncio
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
-from playwright.async_api import async_playwright, TimeoutError as AsyncPlaywrightTimeoutError
-
-# --- DODANY IMPORT WTYCZKI STEALTH ---
-try:
-    from playwright_stealth import stealth_sync
-except ImportError:  # optional dependency
-    def stealth_sync(page):  # type: ignore[no-redef]
-        return None
-# -------------------------------------
+from watcalendars.utils.log import OK, ERROR, WARNING, INFO, SUCCESS
 
 def scrape_html(url, user_agent=None, timeout=60000, logs=None):
     """
@@ -36,7 +27,6 @@ def scrape_html(url, user_agent=None, timeout=60000, logs=None):
                     user_agent=user_agent
                     or "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
                 )
-                stealth_sync(page)
                 logs.append(f"Navigating to URL: {url}"); print(f"Navigating to URL: {url}")
                 t0 = time.monotonic()
                 
@@ -55,17 +45,17 @@ def scrape_html(url, user_agent=None, timeout=60000, logs=None):
                     try:
                         html = resp.body().decode('windows-1250', errors='replace')
                     except Exception as e:
-                        logs.append(f"[WARNING] Failed to decode body (falling back to content): {e}"); print(f"[WARNING] Failed to decode body (falling back to content): {e}")
+                        logs.append(f"{WARNING} Failed to decode body (falling back to content): {e}"); print(f"{WARNING} Failed to decode body (falling back to content): {e}")
                         html = page.content()
                 else:
                     html = page.content()
 
                 logs.append("Getting page content."); print("Getting page content.")
             except PlaywrightTimeoutError as e:
-                logs.append(f"[WARNING] Timeout navigating to {url}: {e}"); print(f"[WARNING] Timeout navigating to {url}: {e}")
+                logs.append(f"{WARNING} Timeout navigating to {url}: {e}"); print(f"{WARNING} Timeout navigating to {url}: {e}")
                 raise
             except Exception as e:
-                logs.append(f"[ERROR] Unhandled error while scraping {url}: {e}"); print(f"[ERROR] Unhandled error while scraping {url}: {e}")
+                logs.append(f"{ERROR} Unhandled error while scraping {url}: {e}"); print(f"{ERROR} Unhandled error while scraping {url}: {e}")
                 raise
             finally:
                 browser.close()
@@ -78,7 +68,7 @@ def scrape_html(url, user_agent=None, timeout=60000, logs=None):
     # Poprawka: Obliczanie długości
     html_length = len(html) if html else 0
     if html_length > 0:
-        print(f"[SUCCESS] Scraped {url} ({html_length} bytes)")
+        print(f"{SUCCESS} Scraped {url} ({html_length} bytes)")
         
         # Opcjonalny DEBUG, jeśli wciąż widać dziwnie mały rozmiar pliku (<1000 bajtów).
         # Odkomentuj 3 linijki poniżej, jeśli scraper nie znajdzie grup, by zobaczyć co naprawdę pobrał.
@@ -87,7 +77,7 @@ def scrape_html(url, user_agent=None, timeout=60000, logs=None):
         #     print(html[:500])
         #     print("-----------------------------\n")
     else:
-        print(f"[ERROR] Failed to scrape {url}")
+        print(f"{ERROR} Failed to scrape {url}")
         
     return html, logs
 
@@ -108,10 +98,6 @@ def fetch_group_html(browser, idx, total, group, url, faculty_prefix="", logs=No
 
     while retry_count < max_retries:
         page = browser.new_page()
-        
-        # --- AKTYWACJA TRYBU STEALTH TAKŻE DLA POBIERANIA KONKRETNEJ GRUPY ---
-        stealth_sync(page)
-        # ---------------------------------------------------------------------
         
         try:
             page.set_default_timeout(timeout)
@@ -142,19 +128,19 @@ def fetch_group_html(browser, idx, total, group, url, faculty_prefix="", logs=No
             if len(html) < 200:  
                 raise Exception("Page content too short")
             
-            logs.append(f"[SUCCESS] Scraping {group} completed."); print(f"[SUCCESS] Scraping {group} completed.")
+            logs.append(f"{SUCCESS} Scraping {group} completed."); print(f"{SUCCESS} Scraping {group} completed.")
             
              
             break
             
         except PlaywrightTimeoutError as e:
             retry_count += 1
-            logs.append(f"[WARNING] Timeout for {group} (retry {retry_count}/{max_retries})"); print(f"[WARNING] Timeout for {group} (retry {retry_count}/{max_retries})")
+            logs.append(f"{WARNING} Timeout for {group} (retry {retry_count}/{max_retries})"); print(f"{WARNING} Timeout for {group} (retry {retry_count}/{max_retries})")
             if retry_count < max_retries:
                 time.sleep(2)  
         except Exception as e:
             retry_count += 1
-            logs.append(f"[WARNING] Error for {group} (retry {retry_count}/{max_retries}): {str(e)[:50]}..."); print(f"[WARNING] Error for {group} (retry {retry_count}/{max_retries}): {str(e)[:50]}...")
+            logs.append(f"{WARNING} Error for {group} (retry {retry_count}/{max_retries}): {str(e)[:50]}..."); print(f"{WARNING} Error for {group} (retry {retry_count}/{max_retries}): {str(e)[:50]}...")
             if retry_count < max_retries:
                 time.sleep(1)  
             
@@ -165,7 +151,7 @@ def fetch_group_html(browser, idx, total, group, url, faculty_prefix="", logs=No
                 pass  
                 
         if retry_count >= max_retries:
-            logs.append(f"[ERROR] Failed to scrape group {group} after {max_retries} attempts"); print(f"[ERROR] Failed to scrape group {group} after {max_retries} attempts")
+            logs.append(f"{ERROR} Failed to scrape group {group} after {max_retries} attempts"); print(f"{ERROR} Failed to scrape group {group} after {max_retries} attempts")
             
                 
     return html
