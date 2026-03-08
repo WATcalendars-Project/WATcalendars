@@ -19,7 +19,13 @@ def test_setup():
     except ImportError:
         print("[!!] Brak biblioteki 'requests'. Uruchom: pip install -r requirements.txt")
 
-    print("\n--- Test zakończony pomyślnie! ---")
+    try:
+        import playwright
+        print("[OK] Biblioteka 'playwright' gotowa.")
+    except ImportError:
+        print("[!!] Brak biblioteki 'playwright'. Uruchom: pip install -r requirements.txt")
+
+    print("--- Test zakończony pomyślnie! ---")
 
 if __name__ == "__main__":
     test_setup()
