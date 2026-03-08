@@ -18,7 +18,7 @@
   <a href="https://github.com/WATcalendars-Project/WATcalendars/wiki/Instalacja-i-Konfiguracja">
     <img src="https://img.shields.io/badge/Installation-blue?style=for-the-badge&logo=terminal&logoColor=white" alt="Installation">
   </a>
-  <a href="https://watcalendars.byst.re/web/Contact.html">
+  <a href="#contact">
     <img src="https://img.shields.io/badge/Contact-555555?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact">
   </a>
   <a href="#support">
@@ -50,6 +50,11 @@ Check this out for the full note:
 <br>
 <br>
 <br>
+<a id="contact"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=32CD32,228B22,006400&vCenter=true&width=435&height=25&lines=CONTACT" width="450"/>
+<br>
+<br>
+<br>
 <a id="support"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=32CD32,228B22,006400&vCenter=true&width=435&height=25&lines=SUPPORT" width="450"/>
 
@@ -71,6 +76,7 @@ or GitHub:
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/dominikx2002)
 
 </div>
+
 
 
 
