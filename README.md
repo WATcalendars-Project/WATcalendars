@@ -8,13 +8,23 @@
 
 <div align="center">
 
-<a href="#installation"><kbd> Installation </kbd></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#updating"><kbd> Updating </kbd></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="CONTRIBUTING.md"><kbd> Contributing </kbd></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://watcalendars.byst.re"><kbd> Website </kbd></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://watcalendars.byst.re/index.html#Tutorial"><kbd> Tutorial </kbd></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://watcalendars.byst.re/web/Contact.html"><kbd> Contact </kbd></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#support"><kbd> Support </kbd></a>
+<p align="center">
+  <a href="https://watcalendars.byst.re">
+    <img src="https://img.shields.io/badge/Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://watcalendars.byst.re/index.html#Tutorial">
+    <img src="https://img.shields.io/badge/Tutorial-orange?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Tutorial">
+  </a>
+  <a href="#installation">
+    <img src="https://img.shields.io/badge/Installation-blue?style=for-the-badge&logo=terminal&logoColor=white" alt="Installation">
+  </a>
+  <a href="https://watcalendars.byst.re/web/Contact.html">
+    <img src="https://img.shields.io/badge/Contact-555555?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact">
+  </a>
+  <a href="#support">
+    <img src="https://img.shields.io/badge/Support-red?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Support">
+  </a>
+</p>
 
 </div><br><br>
 
@@ -186,6 +196,7 @@ or GitHub:
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/dominikx2002)
 
 </div>
+
 
 
 
