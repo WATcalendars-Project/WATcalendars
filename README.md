@@ -12,10 +12,10 @@
   <a href="https://watcalendars.byst.re">
     <img src="https://img.shields.io/badge/Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
-  <a href="https://watcalendars.byst.re/index.html#Tutorial">
+  <a href="https://github.com/WATcalendars-Project/WATcalendars/wiki/Poradnik-do-importowania-kalendarzy">
     <img src="https://img.shields.io/badge/Tutorial-orange?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Tutorial">
   </a>
-  <a href="#installation">
+  <a href="https://github.com/WATcalendars-Project/WATcalendars/wiki/Instalacja-i-Konfiguracja">
     <img src="https://img.shields.io/badge/Installation-blue?style=for-the-badge&logo=terminal&logoColor=white" alt="Installation">
   </a>
   <a href="https://watcalendars.byst.re/web/Contact.html">
@@ -196,6 +196,7 @@ or GitHub:
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/dominikx2002)
 
 </div>
+
 
 
 
