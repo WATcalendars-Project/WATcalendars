@@ -55,7 +55,7 @@ Check this out for the full note:
 Also check official website for importing schedules to your device:
 [Journey to WATcalendars site](https://watcalendars.byst.re)
 
-<img alt="watcalendars-home-site" src="https://raw.githubusercontent.com/dominikx2002/watcalendars-assets/main/website/home/watcalendars-home.png">
+<img alt="watcalendars-home-site" src="https://raw.githubusercontent.com/dominikx2002/watcalendars-assets/main/website/home/main_page.png">
 <br>
 
 <br>
@@ -93,6 +93,7 @@ or GitHub:
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/dominikx2002)
 
 </div>
+
 
 
 
