@@ -2034,6 +2034,13 @@ LOCATION:308 S
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260620T060000Z
+DTEND:20260620T073500Z
+SUMMARY:ppk (Inne)
+LOCATION:317 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260620T075000Z
 DTEND:20260620T092500Z
 SUMMARY:Ja (ć)
@@ -2109,5 +2116,12 @@ DTEND:20260621T191500Z
 SUMMARY:Amt (ć)
 LOCATION:204 65
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260919T075000Z
+DTEND:20260919T092500Z
+SUMMARY:ppk (Inne)
+LOCATION:317 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 END:VCALENDAR

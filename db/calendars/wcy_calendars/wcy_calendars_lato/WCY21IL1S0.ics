@@ -4323,13 +4323,6 @@ LOCATION:227 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260302T104000Z
-DTEND:20260302T121500Z
-SUMMARY:Mzw (w)
-LOCATION:252 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260302T123000Z
 DTEND:20260302T140500Z
 SUMMARY:Pr.A (w)
@@ -4349,20 +4342,6 @@ DTEND:20260303T102500Z
 SUMMARY:ZUI (w)
 LOCATION:226 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Wiesław Barcikowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260303T104000Z
-DTEND:20260303T121500Z
-SUMMARY:Mzw (w)
-LOCATION:252 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260303T123000Z
-DTEND:20260303T140500Z
-SUMMARY:Mzw (w)
-LOCATION:252 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T070000Z
@@ -4398,20 +4377,6 @@ DTEND:20260305T102500Z
 SUMMARY:ZUI (w)
 LOCATION:223 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Wiesław Barcikowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260305T104000Z
-DTEND:20260305T121500Z
-SUMMARY:Mzw (w)
-LOCATION:252 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260305T123000Z
-DTEND:20260305T140500Z
-SUMMARY:Mzw (w)
-LOCATION:252 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T070000Z
@@ -4456,18 +4421,11 @@ LOCATION:223 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260310T104000Z
-DTEND:20260310T121500Z
-SUMMARY:Mzw (L)
-LOCATION:223 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260310T123000Z
-DTEND:20260310T140500Z
-SUMMARY:Mzw (L)
-LOCATION:223 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: dr inż. Wojciech Kulas
+DTSTART:20260311T150000Z
+DTEND:20260311T163500Z
+SUMMARY:Mzw (w)
+LOCATION:308 S
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T070000Z
@@ -4488,7 +4446,7 @@ DTSTART:20260312T104000Z
 DTEND:20260312T121500Z
 SUMMARY:Mzw (L)
 LOCATION:223 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T123000Z
@@ -4496,6 +4454,34 @@ DTEND:20260312T140500Z
 SUMMARY:Mzw (P)
 LOCATION:223 S
 DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Projekt\nNumer zajęć: 1/5\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T070000Z
+DTEND:20260313T083500Z
+SUMMARY:Mzw (w)
+LOCATION:227 S
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T085000Z
+DTEND:20260313T102500Z
+SUMMARY:Mzw (w)
+LOCATION:227 S
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T104000Z
+DTEND:20260313T121500Z
+SUMMARY:Mzw (L)
+LOCATION:227 S
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T123000Z
+DTEND:20260313T140500Z
+SUMMARY:Mzw (L)
+LOCATION:227 S
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T085000Z
@@ -4531,6 +4517,20 @@ DTEND:20260317T102500Z
 SUMMARY:ZUI (L)
 LOCATION:223 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T085000Z
+DTEND:20260318T102500Z
+SUMMARY:Mzw (w)
+LOCATION:236 S
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T104000Z
+DTEND:20260318T121500Z
+SUMMARY:Mzw (w)
+LOCATION:236 S
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T070000Z

@@ -795,6 +795,13 @@ LOCATION:51/ 62
 DESCRIPTION:Kody komputerowe do analiz inżynierskich CAE\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250324T123000Z
+DTEND:20250324T140500Z
+SUMMARY:Zsw. (w)
+LOCATION:12/ 34
+DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250331T113000Z
 DTEND:20250331T130500Z
 SUMMARY:Ptts (w)
@@ -972,13 +979,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T070000Z
 DTEND:20250304T083500Z
-SUMMARY:Zsw. (w)
-LOCATION:11/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Durejko Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250311T070000Z
-DTEND:20250311T083500Z
 SUMMARY:Zsw. (w)
 LOCATION:11/ 34
 DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Durejko Tomasz
@@ -2251,11 +2251,25 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 44/114
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250703T075000Z
-DTEND:20250703T092500Z
+DTSTART:20250626T075000Z
+DTEND:20250626T092500Z
 SUMMARY:Teak (Zp.)
 LOCATION:
 DESCRIPTION:Techniki eksperymentalne w analizie konstrukcji\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Leski Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250703T075000Z
+DTEND:20250703T092500Z
+SUMMARY:Ptts (E)
+LOCATION:8/ 62
+DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Wieczorek Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250918T075000Z
+DTEND:20250918T092500Z
+SUMMARY:Ptts (Ep)
+LOCATION:8/ 62
+DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T104000Z

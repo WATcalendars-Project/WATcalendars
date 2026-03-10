@@ -2678,13 +2678,6 @@ LOCATION:314 S
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260309T123000Z
-DTEND:20260309T140500Z
-SUMMARY:Pwd (ć)
-LOCATION:313 S
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260309T150000Z
 DTEND:20260309T163500Z
 SUMMARY:Tpi (w)
@@ -2727,6 +2720,13 @@ LOCATION:314 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Jan Nawrocki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260310T165000Z
+DTEND:20260310T182500Z
+SUMMARY:Pwd (w)
+LOCATION:314 S
+DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260311T150000Z
 DTEND:20260311T163500Z
 SUMMARY:Rp (w)
@@ -2737,7 +2737,7 @@ BEGIN:VEVENT
 DTSTART:20260312T070000Z
 DTEND:20260312T083500Z
 SUMMARY:REG (ć)
-LOCATION:AW 1
+LOCATION:BIBL /22
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3562,9 +3562,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T094000Z
 DTEND:20260422T111500Z
-SUMMARY:Pwd (ć)
+SUMMARY:Pwd (w)
 LOCATION:313 S
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T113000Z
@@ -3914,7 +3914,7 @@ DTSTART:20260508T060000Z
 DTEND:20260508T073500Z
 SUMMARY:Pwd (ć)
 LOCATION:204 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T075000Z
@@ -4250,7 +4250,7 @@ DTSTART:20260522T075000Z
 DTEND:20260522T092500Z
 SUMMARY:Pwd (ć)
 LOCATION:204 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T094000Z

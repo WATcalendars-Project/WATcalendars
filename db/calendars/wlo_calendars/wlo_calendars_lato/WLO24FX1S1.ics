@@ -39,27 +39,6 @@ LOCATION:0.19/135
 DESCRIPTION:Infrastruktura logistyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260511T060000Z
-DTEND:20260511T073500Z
-SUMMARY:PeUT (w)
-LOCATION:aula/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260525T060000Z
-DTEND:20260525T073500Z
-SUMMARY:PeUT (w)
-LOCATION:aula/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260601T060000Z
-DTEND:20260601T073500Z
-SUMMARY:PeUT (w)
-LOCATION:aula/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260608T060000Z
 DTEND:20260608T073500Z
 SUMMARY:Sp* (L)
@@ -158,18 +137,18 @@ LOCATION:aula/135
 DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260420T094000Z
+DTEND:20260420T111500Z
+SUMMARY:PeUT (w)
+LOCATION:aula/135
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260427T094000Z
 DTEND:20260427T111500Z
 SUMMARY:Płe (L)
 LOCATION:16/19; 17/19
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260504T094000Z
-DTEND:20260504T111500Z
-SUMMARY:PeUT (w)
-LOCATION:aula/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T094000Z
@@ -239,7 +218,7 @@ DTSTART:20260427T113000Z
 DTEND:20260427T130500Z
 SUMMARY:PeUT (w)
 LOCATION:aula/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T113000Z
@@ -295,7 +274,7 @@ DTSTART:20260427T140000Z
 DTEND:20260427T153500Z
 SUMMARY:PeUT (w)
 LOCATION:aula/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T140000Z
@@ -869,7 +848,7 @@ DTSTART:20260617T075000Z
 DTEND:20260617T092500Z
 SUMMARY:PeUT (w)
 LOCATION:aula/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T094000Z
@@ -1145,6 +1124,13 @@ LOCATION:3d/19; 4d/19
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260312T150000Z
+DTEND:20260312T163500Z
+SUMMARY:PeUT (w)
+LOCATION:51/62
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260430T140000Z
 DTEND:20260430T153500Z
 SUMMARY:Sp* (ć)
@@ -1157,6 +1143,20 @@ DTEND:20260514T153500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/19; 4d/19
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T165000Z
+DTEND:20260312T182500Z
+SUMMARY:PeUT (w)
+LOCATION:51/62
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T155000Z
+DTEND:20260409T172500Z
+SUMMARY:PeUT (w)
+LOCATION:51/62
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260424T060000Z
