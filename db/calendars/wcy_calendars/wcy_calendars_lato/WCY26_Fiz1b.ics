@@ -164,4 +164,18 @@ SUMMARY:XFiz1 (ć)
 LOCATION:19 36 aF S
 DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: -
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260620T140000Z
+DTEND:20260620T153500Z
+SUMMARY:XFiz1 (E)
+LOCATION:19 36 aF S
+DESCRIPTION:XFizyka 1 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260703T060000Z
+DTEND:20260703T073500Z
+SUMMARY:XFiz1 (Inne)
+LOCATION:aF S
+DESCRIPTION:XFizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
+END:VEVENT
 END:VCALENDAR

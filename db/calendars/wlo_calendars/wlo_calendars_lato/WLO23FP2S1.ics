@@ -382,6 +382,13 @@ LOCATION:1.10/16
 DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260408T060000Z
+DTEND:20260408T073500Z
+SUMMARY:SMa (ć)
+LOCATION:0.7/16
+DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Głodowska Katarzyna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260415T060000Z
 DTEND:20260415T073500Z
 SUMMARY:LZw (S)
@@ -592,13 +599,6 @@ LOCATION:5.17/135
 DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260312T070000Z
-DTEND:20260312T083500Z
-SUMMARY:SMa (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Głodowska Katarzyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260319T070000Z
 DTEND:20260319T083500Z
 SUMMARY:Lu (ć)
@@ -798,7 +798,7 @@ BEGIN:VEVENT
 DTSTART:20260417T060000Z
 DTEND:20260417T073500Z
 SUMMARY:SMa (ć)
-LOCATION:4.23/135
+LOCATION:239 S
 DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Głodowska Katarzyna
 END:VEVENT
 BEGIN:VEVENT
@@ -833,7 +833,7 @@ BEGIN:VEVENT
 DTSTART:20260417T075000Z
 DTEND:20260417T092500Z
 SUMMARY:SMa (ć)
-LOCATION:4.23/135
+LOCATION:239 S
 DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Głodowska Katarzyna
 END:VEVENT
 BEGIN:VEVENT
@@ -939,14 +939,14 @@ DTSTART:20260508T113000Z
 DTEND:20260508T130500Z
 SUMMARY:Pmlo (ć)
 LOCATION:4.17a/135
-DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T113000Z
 DTEND:20260515T130500Z
 SUMMARY:Pmlo (ć)
 LOCATION:1/22
-DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T150000Z
@@ -956,31 +956,24 @@ LOCATION:5.17/135
 DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260417T140000Z
-DTEND:20260417T153500Z
-SUMMARY:Pmlo (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: inż. Kochański Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260424T140000Z
 DTEND:20260424T153500Z
 SUMMARY:Pmlo (ć)
 LOCATION:4.17a/135
-DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T140000Z
 DTEND:20260529T153500Z
 SUMMARY:Pmlo (ć)
 LOCATION:4.17a/135
-DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T155000Z
 DTEND:20260522T172500Z
 SUMMARY:Pmlo (ć)
 LOCATION:4.23/135
-DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 END:VCALENDAR
