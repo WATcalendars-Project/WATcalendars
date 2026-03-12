@@ -116,6 +116,13 @@ LOCATION:11261
 DESCRIPTION:Lotnicze systemy radioelektroniczne\nRodzaj zajęć: -\nProwadzący: dr inż. Czopik Grzegorz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260316T123000Z
+DTEND:20260316T140500Z
+SUMMARY:Lsn 
+LOCATION:00536
+DESCRIPTION:Lotnicze systemy nawigacyjne\nRodzaj zajęć: -\nProwadzący: dr inż. Brzozowski Bartosz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260323T123000Z
 DTEND:20260323T140500Z
 SUMMARY:Psma 
@@ -184,13 +191,6 @@ DTEND:20260420T153500Z
 SUMMARY:Lsn 
 LOCATION:2467
 DESCRIPTION:Lotnicze systemy nawigacyjne\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260525T140000Z
-DTEND:20260525T153500Z
-SUMMARY:Lsn 
-LOCATION:1563
-DESCRIPTION:Lotnicze systemy nawigacyjne\nRodzaj zajęć: -\nProwadzący: dr inż. Brzozowski Bartosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T140000Z
@@ -610,7 +610,7 @@ DTSTART:20260422T060000Z
 DTEND:20260422T073500Z
 SUMMARY:Zlsp 
 LOCATION:
-DESCRIPTION:Zintegrowane laboratorium statków powietrznych\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Arkuszyńska Angelika
+DESCRIPTION:Zintegrowane laboratorium statków powietrznych\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T060000Z
@@ -652,7 +652,7 @@ DTSTART:20260422T075000Z
 DTEND:20260422T092500Z
 SUMMARY:Zlsp 
 LOCATION:
-DESCRIPTION:Zintegrowane laboratorium statków powietrznych\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Arkuszyńska Angelika
+DESCRIPTION:Zintegrowane laboratorium statków powietrznych\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T075000Z
@@ -708,7 +708,7 @@ DTSTART:20260422T094000Z
 DTEND:20260422T111500Z
 SUMMARY:Zlsp 
 LOCATION:
-DESCRIPTION:Zintegrowane laboratorium statków powietrznych\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Arkuszyńska Angelika
+DESCRIPTION:Zintegrowane laboratorium statków powietrznych\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T094000Z

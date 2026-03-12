@@ -123,60 +123,67 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 2/63
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250413T075000Z
+DTEND:20250413T092500Z
+SUMMARY:PKM 
+LOCATION:01/ 54A
+DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 1/25\nProwadzący: dr inż. Cieślik Karol
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250427T075000Z
 DTEND:20250427T092500Z
 SUMMARY:PKM 
 LOCATION:116/ 54
-DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 1/25\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 2/25\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250504T075000Z
 DTEND:20250504T092500Z
 SUMMARY:PKM 
 LOCATION:116/ 54
-DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 2/25\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 3/25\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250511T075000Z
 DTEND:20250511T092500Z
 SUMMARY:PKM 
 LOCATION:116/ 54
-DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 3/25\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 4/25\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250518T075000Z
 DTEND:20250518T092500Z
 SUMMARY:PKM 
 LOCATION:116/ 54
-DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 4/25\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 5/25\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T075000Z
 DTEND:20250525T092500Z
 SUMMARY:PKM 
 LOCATION:116/ 54
-DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 5/25\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 6/25\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250601T075000Z
 DTEND:20250601T092500Z
 SUMMARY:PKM 
 LOCATION:116/ 54
-DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 6/25\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 7/25\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250608T075000Z
 DTEND:20250608T092500Z
 SUMMARY:PKM 
 LOCATION:116/ 54
-DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 7/25\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 8/25\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T075000Z
 DTEND:20250615T092500Z
 SUMMARY:PKM 
 LOCATION:116/ 54
-DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 8/25\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 9/25\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250629T075000Z
@@ -585,13 +592,6 @@ LOCATION:52/ 62
 DESCRIPTION:Programowanie dla mechaników\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250324T070000Z
-DTEND:20250324T083500Z
-SUMMARY:Pdm (w)
-LOCATION:15/ 23a
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250331T060000Z
 DTEND:20250331T073500Z
 SUMMARY:WzEE (w)
@@ -683,13 +683,6 @@ LOCATION:52/ 62
 DESCRIPTION:Programowanie dla mechaników\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Konarzewski Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250324T085000Z
-DTEND:20250324T102500Z
-SUMMARY:PKM 
-LOCATION:116/ 54
-DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 9/25\nProwadzący: dr inż. Cieślik Karol
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250331T075000Z
 DTEND:20250331T092500Z
 SUMMARY:WzEE (w)
@@ -765,13 +758,6 @@ DTEND:20250317T121500Z
 SUMMARY:Rmob (w)
 LOCATION:01/ 54A
 DESCRIPTION:Roboty mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Cieślik Karol
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250324T104000Z
-DTEND:20250324T121500Z
-SUMMARY:PKM 
-LOCATION:116/ 54
-DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 10/25\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T094000Z
@@ -982,6 +968,20 @@ DTEND:20250407T191500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 14/63
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250318T070000Z
+DTEND:20250318T083500Z
+SUMMARY:Pdm (w)
+LOCATION:15/ 23a
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250325T070000Z
+DTEND:20250325T083500Z
+SUMMARY:PKM 
+LOCATION:3/ 54
+DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 10/25\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T060000Z

@@ -1957,13 +1957,6 @@ LOCATION:314 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260313T123000Z
-DTEND:20260313T140500Z
-SUMMARY:WdP (w)
-LOCATION:314 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260316T070000Z
 DTEND:20260316T083500Z
 SUMMARY:Amt (w)
@@ -1975,6 +1968,13 @@ DTSTART:20260316T123000Z
 DTEND:20260316T140500Z
 SUMMARY:WdP (w)
 LOCATION:314 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T150000Z
+DTEND:20260316T163500Z
+SUMMARY:WdP (w)
+LOCATION:313 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
@@ -2625,7 +2625,7 @@ BEGIN:VEVENT
 DTSTART:20260422T094000Z
 DTEND:20260422T111500Z
 SUMMARY:WdP (L)
-LOCATION:227 S
+LOCATION:226 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT

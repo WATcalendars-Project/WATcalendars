@@ -4970,7 +4970,7 @@ BEGIN:VEVENT
 DTSTART:20260316T150000Z
 DTEND:20260316T163500Z
 SUMMARY:Wkr (w)
-LOCATION:313 S
+LOCATION:307 S
 DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
@@ -5240,6 +5240,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 67/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260326T085000Z
+DTEND:20260326T102500Z
+SUMMARY:BD (ć)
+LOCATION:224 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260326T104000Z
 DTEND:20260326T121500Z
 SUMMARY:Ja (ć)
@@ -5405,14 +5412,14 @@ DTSTART:20260402T113000Z
 DTEND:20260402T130500Z
 SUMMARY:BD (ć)
 LOCATION:226 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T140000Z
 DTEND:20260402T153500Z
 SUMMARY:BD (ć)
 LOCATION:226 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T060000Z
@@ -5571,13 +5578,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T094000Z
 DTEND:20260414T111500Z
-SUMMARY:BD (ć)
-LOCATION:226 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260414T113000Z
-DTEND:20260414T130500Z
 SUMMARY:BD (ć)
 LOCATION:226 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz

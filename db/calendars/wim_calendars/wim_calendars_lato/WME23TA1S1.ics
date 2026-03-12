@@ -126,7 +126,7 @@ BEGIN:VEVENT
 DTSTART:20250330T075000Z
 DTEND:20250330T092500Z
 SUMMARY:Utd (w)
-LOCATION:42/ 20
+LOCATION:4/ 23a
 DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
@@ -240,6 +240,13 @@ DTEND:20250323T121500Z
 SUMMARY:Płe2 (L)
 LOCATION:16/ 19; 17/ 19
 DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250330T094000Z
+DTEND:20250330T111500Z
+SUMMARY:Utd (w)
+LOCATION:4/ 23a
+DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T094000Z
@@ -505,7 +512,7 @@ DTSTART:20250331T075000Z
 DTEND:20250331T092500Z
 SUMMARY:Utd (w)
 LOCATION:5/ 23a
-DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: mgr inż. Wójcik Maciej
+DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T075000Z
@@ -620,6 +627,13 @@ LOCATION:15/ 23a
 DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250421T094000Z
+DTEND:20250421T111500Z
+SUMMARY:Utd (L)
+LOCATION:21/ 21; 13b/ 19
+DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: mgr inż. Wójcik Maciej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250519T094000Z
 DTEND:20250519T111500Z
 SUMMARY:Zzk (w)
@@ -687,7 +701,7 @@ DTSTART:20250421T113000Z
 DTEND:20250421T130500Z
 SUMMARY:Utd (w)
 LOCATION:1/ 19
-DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: mgr inż. Wójcik Maciej
+DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T113000Z
@@ -715,7 +729,7 @@ DTSTART:20250519T113000Z
 DTEND:20250519T130500Z
 SUMMARY:Utd (w)
 LOCATION:42/ 20
-DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: mgr inż. Wójcik Maciej
+DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T113000Z
@@ -869,14 +883,14 @@ DTSTART:20250603T060000Z
 DTEND:20250603T073500Z
 SUMMARY:Utd (L)
 LOCATION:21/ 21
-DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10
+DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T060000Z
 DTEND:20250610T073500Z
 SUMMARY:Utd (L)
 LOCATION:21/ 21
-DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10
+DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T060000Z
@@ -984,13 +998,6 @@ LOCATION:27/ 135
 DESCRIPTION:Zapasy w systemach logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250311T104000Z
-DTEND:20250311T121500Z
-SUMMARY:Utd (w)
-LOCATION:1/ 19
-DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: mgr inż. Wójcik Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250401T094000Z
 DTEND:20250401T111500Z
 SUMMARY:Utd (w)
@@ -1016,7 +1023,7 @@ DTSTART:20250506T094000Z
 DTEND:20250506T111500Z
 SUMMARY:Utd (L)
 LOCATION:21/ 21; 15/ 19
-DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10
+DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T094000Z
@@ -1079,7 +1086,7 @@ DTSTART:20250506T113000Z
 DTEND:20250506T130500Z
 SUMMARY:Utd (L)
 LOCATION:21/ 21; 15/ 19
-DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10
+DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T113000Z
@@ -1234,13 +1241,6 @@ DTEND:20250409T073500Z
 SUMMARY:Utd (w)
 LOCATION:42/ 20
 DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 13/13\nProwadzący: mgr inż. Wójcik Maciej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250423T060000Z
-DTEND:20250423T073500Z
-SUMMARY:Utd (L)
-LOCATION:21/ 21; 13b/ 19
-DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T060000Z

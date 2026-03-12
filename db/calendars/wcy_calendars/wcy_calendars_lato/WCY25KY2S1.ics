@@ -1950,20 +1950,6 @@ LOCATION:252 S
 DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260313T150000Z
-DTEND:20260313T163500Z
-SUMMARY:WdP (w)
-LOCATION:314 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260313T165000Z
-DTEND:20260313T182500Z
-SUMMARY:WdP (w)
-LOCATION:314 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260316T070000Z
 DTEND:20260316T083500Z
 SUMMARY:WdI (Inne)
@@ -1975,7 +1961,7 @@ DTSTART:20260316T085000Z
 DTEND:20260316T102500Z
 SUMMARY:WdP (w)
 LOCATION:314 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T150000Z
@@ -2207,6 +2193,20 @@ DTEND:20260326T182500Z
 SUMMARY:M II (Inne)
 LOCATION:316 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T070000Z
+DTEND:20260327T083500Z
+SUMMARY:WdP (w)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T085000Z
+DTEND:20260327T102500Z
+SUMMARY:WdP (w)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T140000Z

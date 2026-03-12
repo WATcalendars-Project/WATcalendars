@@ -697,6 +697,13 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 3/105
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250317T104000Z
+DTEND:20250317T121500Z
+SUMMARY:Psp. (P)
+LOCATION:7/ 23a
+DESCRIPTION:Projektowanie systemów i procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250324T104000Z
 DTEND:20250324T121500Z
 SUMMARY:Psp. (ć)
@@ -1259,16 +1266,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T104000Z
 DTEND:20250318T121500Z
-SUMMARY:Psp. (P)
-LOCATION:7/ 23a
-DESCRIPTION:Projektowanie systemów i procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
+SUMMARY:Elo (w)
+LOCATION:1/ 19
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T104000Z
 DTEND:20250325T121500Z
 SUMMARY:Elo (w)
 LOCATION:1/ 21
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T094000Z
@@ -1310,7 +1317,7 @@ DTSTART:20250506T094000Z
 DTEND:20250506T111500Z
 SUMMARY:Elo (w)
 LOCATION:52/ 62
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T094000Z
@@ -1357,13 +1364,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T123000Z
 DTEND:20250311T140500Z
-SUMMARY:Elo (w)
-LOCATION:2/ 23a
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: inż. Kochański Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250318T123000Z
-DTEND:20250318T140500Z
 SUMMARY:Elo (w)
 LOCATION:2/ 23a
 DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: inż. Kochański Tomasz

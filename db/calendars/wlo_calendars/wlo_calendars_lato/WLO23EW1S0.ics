@@ -1166,13 +1166,6 @@ LOCATION:5.21/135
 DESCRIPTION:Analiza finansowa\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr Antczak Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260415T075000Z
-DTEND:20260415T092500Z
-SUMMARY:ZLWwC (S)
-LOCATION:37/158
-DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/5\nProwadzący: dr inż. Nagrabski Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260429T075000Z
 DTEND:20260429T092500Z
 SUMMARY:AnF (w)
@@ -1408,7 +1401,7 @@ DTSTART:20260429T140000Z
 DTEND:20260429T153500Z
 SUMMARY:ZLWwC (S)
 LOCATION:2.21/135
-DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/5\nProwadzący: dr inż. Nagrabski Dariusz
+DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T140000Z
@@ -1444,6 +1437,13 @@ DTEND:20260513T172500Z
 SUMMARY:DFP (ć)
 LOCATION:5.21/135
 DESCRIPTION:Dyscyplina finansów publicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr Śledzik Waldemar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T155000Z
+DTEND:20260610T172500Z
+SUMMARY:ZLWwC (S)
+LOCATION:37/158
+DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T070000Z
@@ -1502,6 +1502,13 @@ LOCATION:26/158
 DESCRIPTION:Dyscyplina finansów publicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr Śledzik Waldemar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260618T060000Z
+DTEND:20260618T073500Z
+SUMMARY:ZLPGK (ć)
+LOCATION:0.6/16
+DESCRIPTION:Zabezpieczenie logistyczne w misjach poza granicami kraju\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: prof. dr hab. Pawlisiak Mieczysław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T085000Z
 DTEND:20260305T102500Z
 SUMMARY:Ba (w)
@@ -1558,11 +1565,11 @@ LOCATION:2.21/135
 DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/5\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260604T075000Z
-DTEND:20260604T092500Z
+DTSTART:20260618T075000Z
+DTEND:20260618T092500Z
 SUMMARY:ZLPGK (ć)
 LOCATION:0.6/16
-DESCRIPTION:Zabezpieczenie logistyczne w misjach poza granicami kraju\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: prof. dr hab. Pawlisiak Mieczysław
+DESCRIPTION:Zabezpieczenie logistyczne w misjach poza granicami kraju\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: prof. dr hab. Pawlisiak Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T104000Z
@@ -1640,13 +1647,6 @@ DTEND:20260528T111500Z
 SUMMARY:Ja (ć)
 LOCATION:237 K; 235 K; 234 K; 233 K; 232 K; 231 K; 230 K; 134 K; 133 K; 131 K; 128 K; 127 K; 125 K; 124 K; 122 K; 121 K; 120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/30
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260604T094000Z
-DTEND:20260604T111500Z
-SUMMARY:ZLPGK (ć)
-LOCATION:0.6/16
-DESCRIPTION:Zabezpieczenie logistyczne w misjach poza granicami kraju\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: prof. dr hab. Pawlisiak Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T094000Z

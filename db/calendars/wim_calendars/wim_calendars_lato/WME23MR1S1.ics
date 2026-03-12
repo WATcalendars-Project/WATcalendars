@@ -39,6 +39,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 1/56
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250413T060000Z
+DTEND:20250413T073500Z
+SUMMARY:Mno (w)
+LOCATION:54/ 62
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250420T060000Z
 DTEND:20250420T073500Z
 SUMMARY:Pkm 
@@ -85,35 +92,28 @@ DTSTART:20250302T085000Z
 DTEND:20250302T102500Z
 SUMMARY:Mno (w)
 LOCATION:9/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250309T085000Z
 DTEND:20250309T102500Z
 SUMMARY:Mno (w)
 LOCATION:8/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250316T085000Z
 DTEND:20250316T102500Z
-SUMMARY:Mno (w)
-LOCATION:5/ 23a
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
+SUMMARY:Kszm 
+LOCATION:55/ 62
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 1/42\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250323T085000Z
 DTEND:20250323T102500Z
-SUMMARY:Mno (w)
-LOCATION:2/ 23a
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250330T075000Z
-DTEND:20250330T092500Z
-SUMMARY:Mno (w)
-LOCATION:120/ 54
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
+SUMMARY:Kszm 
+LOCATION:55/ 62
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 2/42\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T075000Z
@@ -134,28 +134,28 @@ DTSTART:20250420T075000Z
 DTEND:20250420T092500Z
 SUMMARY:Kszm 
 LOCATION:120/ 54
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 1/42\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 3/42\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250427T075000Z
 DTEND:20250427T092500Z
 SUMMARY:Kszm 
 LOCATION:8/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 2/42\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 4/42\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250504T075000Z
 DTEND:20250504T092500Z
 SUMMARY:Kszm 
 LOCATION:09/ 54A
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 3/42\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 5/42\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250511T075000Z
 DTEND:20250511T092500Z
 SUMMARY:Kszm 
 LOCATION:54/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 4/42\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 6/42\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250518T075000Z
@@ -183,41 +183,27 @@ DTSTART:20250629T075000Z
 DTEND:20250629T092500Z
 SUMMARY:Kszm 
 LOCATION:54/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 5/42\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 7/42\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250914T075000Z
 DTEND:20250914T092500Z
 SUMMARY:Kszm 
 LOCATION:51/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 6/42\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 8/42\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250302T104000Z
 DTEND:20250302T121500Z
 SUMMARY:Kszm 
 LOCATION:52/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 7/42\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 9/42\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250309T104000Z
 DTEND:20250309T121500Z
 SUMMARY:Kszm 
 LOCATION:9/ 62
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 8/42\nProwadzący: dr inż. Wieczorek Marcin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250316T104000Z
-DTEND:20250316T121500Z
-SUMMARY:Kszm 
-LOCATION:109/ 54
-DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 9/42\nProwadzący: dr inż. Wieczorek Marcin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250323T104000Z
-DTEND:20250323T121500Z
-SUMMARY:Kszm 
-LOCATION:3/ 23a
 DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 10/42\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
@@ -247,6 +233,13 @@ DTEND:20250420T111500Z
 SUMMARY:BPiE (ć)
 LOCATION:2/ 23a
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250427T094000Z
+DTEND:20250427T111500Z
+SUMMARY:Mno (w)
+LOCATION:15/ 23a
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250914T094000Z
@@ -751,6 +744,13 @@ DTEND:20250401T092500Z
 SUMMARY:Pkm 
 LOCATION:120/ 54; 108/ 54
 DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 13/20\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250415T075000Z
+DTEND:20250415T092500Z
+SUMMARY:Mno (w)
+LOCATION:8/ 62
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: płk dr hab. inż.(prof. ucz.) Panowicz Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250422T075000Z
