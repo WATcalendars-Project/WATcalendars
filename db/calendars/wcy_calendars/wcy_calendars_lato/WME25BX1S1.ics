@@ -3444,7 +3444,7 @@ BEGIN:VEVENT
 DTSTART:20260331T094000Z
 DTEND:20260331T111500Z
 SUMMARY:Mat3 (ć)
-LOCATION:9/ 62
+LOCATION:54/ 62
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
@@ -4151,7 +4151,7 @@ BEGIN:VEVENT
 DTSTART:20260428T075000Z
 DTEND:20260428T092500Z
 SUMMARY:Mat3 (ć)
-LOCATION:9/ 62
+LOCATION:54/ 62
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
@@ -4377,6 +4377,13 @@ DTEND:20260506T130500Z
 SUMMARY:HP (ć)
 LOCATION:109/ 54
 DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T140000Z
+DTEND:20260506T153500Z
+SUMMARY:Mat3 (L)
+LOCATION:8/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T155000Z
@@ -4872,8 +4879,8 @@ BEGIN:VEVENT
 DTSTART:20260526T075000Z
 DTEND:20260526T092500Z
 SUMMARY:Mat3 (L)
-LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr Jerzy Ploch
+LOCATION:54/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T094000Z
@@ -5331,13 +5338,6 @@ LOCATION:13 71
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260615T113000Z
-DTEND:20260615T130500Z
-SUMMARY:Mat3 (L)
-LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Jerzy Ploch
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260616T075000Z
 DTEND:20260616T092500Z
 SUMMARY:F1 (ć)
@@ -5348,7 +5348,7 @@ BEGIN:VEVENT
 DTSTART:20260616T094000Z
 DTEND:20260616T111500Z
 SUMMARY:Mat4 (L)
-LOCATION:9/ 62
+LOCATION:54/ 62
 DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT

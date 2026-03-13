@@ -104,16 +104,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T075000Z
 DTEND:20260331T092500Z
-SUMMARY:MPSpaj (w)
-LOCATION:26/ 34
-DESCRIPTION:Metaloznawstwo połaczeń spajanych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: płk dr hab. inż. Jóźwik Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260414T075000Z
-DTEND:20260414T092500Z
-SUMMARY:MPSpaj (w)
-LOCATION:26/ 34
-DESCRIPTION:Metaloznawstwo połaczeń spajanych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: płk dr hab. inż. Jóźwik Paweł
+SUMMARY:MPSpaj (L)
+LOCATION:14/ 34
+DESCRIPTION:Metaloznawstwo połaczeń spajanych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: dr inż. Komorek Zenon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T075000Z
@@ -134,7 +127,7 @@ DTSTART:20260505T075000Z
 DTEND:20260505T092500Z
 SUMMARY:MPSpaj (L)
 LOCATION:14/ 34
-DESCRIPTION:Metaloznawstwo połaczeń spajanych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: dr inż. Dworecka-Wójcik Julita
+DESCRIPTION:Metaloznawstwo połaczeń spajanych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: dr inż. Dworecka-Wójcik Julita
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T104000Z
@@ -197,14 +190,21 @@ DTSTART:20260505T094000Z
 DTEND:20260505T111500Z
 SUMMARY:MPSpaj (L)
 LOCATION:14/ 34
-DESCRIPTION:Metaloznawstwo połaczeń spajanych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: dr inż. Dworecka-Wójcik Julita
+DESCRIPTION:Metaloznawstwo połaczeń spajanych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: dr inż. Dworecka-Wójcik Julita
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260317T123000Z
+DTEND:20260317T140500Z
+SUMMARY:MPSpaj (w)
+LOCATION:26/ 34
+DESCRIPTION:Metaloznawstwo połaczeń spajanych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: płk dr hab. inż. Jóźwik Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T113000Z
 DTEND:20260331T130500Z
-SUMMARY:MPSpaj (L)
-LOCATION:14/ 34
-DESCRIPTION:Metaloznawstwo połaczeń spajanych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: dr inż. Komorek Zenon
+SUMMARY:MPSpaj (w)
+LOCATION:26/ 34
+DESCRIPTION:Metaloznawstwo połaczeń spajanych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: płk dr hab. inż. Jóźwik Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T113000Z
