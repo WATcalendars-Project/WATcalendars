@@ -949,6 +949,13 @@ LOCATION:0.28/135
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260429T094000Z
+DTEND:20260429T111500Z
+SUMMARY:Che (L)
+LOCATION:55A
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Garbat Katarzyna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
 SUMMARY:F1 (L)
@@ -1009,7 +1016,14 @@ DTSTART:20260415T113000Z
 DTEND:20260415T130500Z
 SUMMARY:Che (L)
 LOCATION:55A
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Garbat Katarzyna
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Garbat Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T113000Z
+DTEND:20260429T130500Z
+SUMMARY:Che (L)
+LOCATION:55A
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Garbat Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T113000Z
@@ -1051,7 +1065,7 @@ DTSTART:20260415T140000Z
 DTEND:20260415T153500Z
 SUMMARY:Che (L)
 LOCATION:55A
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Garbat Katarzyna
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Garbat Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T140000Z
@@ -1607,13 +1621,6 @@ LOCATION:10R
 DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: (r)\nNumer zajęć: 1/1\nProwadzący: mjr mgr Zawadzki Filip
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260618T140000Z
-DTEND:20260618T153500Z
-SUMMARY:Che (L)
-LOCATION:55A
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Garbat Katarzyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260305T165000Z
 DTEND:20260305T182500Z
 SUMMARY:SSW 
@@ -1954,7 +1961,7 @@ DTSTART:20260424T075000Z
 DTEND:20260424T092500Z
 SUMMARY:Che (L)
 LOCATION:55A
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Garbat Katarzyna
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Garbat Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T075000Z
@@ -2031,7 +2038,7 @@ DTSTART:20260424T094000Z
 DTEND:20260424T111500Z
 SUMMARY:Che (L)
 LOCATION:55A
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Garbat Katarzyna
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Garbat Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T094000Z
@@ -2067,13 +2074,6 @@ DTEND:20260605T111500Z
 SUMMARY:ZdSZ (S)
 LOCATION:0.22/16
 DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260612T094000Z
-DTEND:20260612T111500Z
-SUMMARY:Che (L)
-LOCATION:55A
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Garbat Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T094000Z

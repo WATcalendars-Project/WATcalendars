@@ -27,9 +27,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T060000Z
 DTEND:20260511T073500Z
-SUMMARY:Pipsp 
+SUMMARY:Zeso 
 LOCATION:
-DESCRIPTION:Płatowce i instalacje płatowcowe statków powietrznych\nRodzaj zajęć: -
+DESCRIPTION:Zasady eksploatacji i standardy obsługowe SP\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Rośkowicz Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T060000Z
@@ -48,9 +48,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T060000Z
 DTEND:20260601T073500Z
-SUMMARY:Zeso 
+SUMMARY:Pipsp 
 LOCATION:
-DESCRIPTION:Zasady eksploatacji i standardy obsługowe SP\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Rośkowicz Marek
+DESCRIPTION:Płatowce i instalacje płatowcowe statków powietrznych\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T060000Z
@@ -104,9 +104,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T075000Z
 DTEND:20260511T092500Z
-SUMMARY:Pipsp 
+SUMMARY:Zeso 
 LOCATION:
-DESCRIPTION:Płatowce i instalacje płatowcowe statków powietrznych\nRodzaj zajęć: -
+DESCRIPTION:Zasady eksploatacji i standardy obsługowe SP\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Rośkowicz Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T075000Z
@@ -125,9 +125,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T075000Z
 DTEND:20260601T092500Z
-SUMMARY:Zeso 
+SUMMARY:Pipsp 
 LOCATION:
-DESCRIPTION:Zasady eksploatacji i standardy obsługowe SP\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Rośkowicz Marek
+DESCRIPTION:Płatowce i instalacje płatowcowe statków powietrznych\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T075000Z
@@ -323,14 +323,14 @@ DTSTART:20260512T060000Z
 DTEND:20260512T073500Z
 SUMMARY:Pipl 
 LOCATION:2467
-DESCRIPTION:Prawo i przepisy lotnicze\nRodzaj zajęć: -
+DESCRIPTION:Prawo i przepisy lotnicze\nRodzaj zajęć: -\nProwadzący: mgr inż. Korchowiec Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T060000Z
 DTEND:20260519T073500Z
 SUMMARY:Pipl 
 LOCATION:2467
-DESCRIPTION:Prawo i przepisy lotnicze\nRodzaj zajęć: -\nProwadzący: mgr inż. Korchowiec Adam
+DESCRIPTION:Prawo i przepisy lotnicze\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T060000Z
@@ -620,13 +620,6 @@ LOCATION:
 DESCRIPTION:Płatowce i instalacje płatowcowe statków powietrznych\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260513T060000Z
-DTEND:20260513T073500Z
-SUMMARY:Pipsp 
-LOCATION:
-DESCRIPTION:Płatowce i instalacje płatowcowe statków powietrznych\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260520T060000Z
 DTEND:20260520T073500Z
 SUMMARY:Pipsp 
@@ -755,6 +748,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T094000Z
 DTEND:20260422T111500Z
+SUMMARY:Pipsp 
+LOCATION:
+DESCRIPTION:Płatowce i instalacje płatowcowe statków powietrznych\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T094000Z
+DTEND:20260506T111500Z
 SUMMARY:Pipsp 
 LOCATION:
 DESCRIPTION:Płatowce i instalacje płatowcowe statków powietrznych\nRodzaj zajęć: -

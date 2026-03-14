@@ -417,6 +417,13 @@ LOCATION:255 S
 DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260319T070000Z
+DTEND:20260319T083500Z
+SUMMARY:Bin (L)
+LOCATION:252 S
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Górny Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260312T085000Z
 DTEND:20260312T102500Z
 SUMMARY:Bin (w)
@@ -424,11 +431,25 @@ LOCATION:255 S
 DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260319T085000Z
+DTEND:20260319T102500Z
+SUMMARY:Bin (L)
+LOCATION:252 S
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: dr inż. Górny Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T075000Z
+DTEND:20260402T092500Z
+SUMMARY:Bin (w)
+LOCATION:255 S
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Górny Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260423T075000Z
 DTEND:20260423T092500Z
 SUMMARY:Bin (w)
 LOCATION:255 S
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Górny Piotr
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T104000Z
@@ -452,11 +473,25 @@ LOCATION:5.17/135
 DESCRIPTION:Seminarium Dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 13/16
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260409T094000Z
+DTEND:20260409T111500Z
+SUMMARY:Bin (L)
+LOCATION:1.15/16
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: dr inż. Górny Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260423T094000Z
 DTEND:20260423T111500Z
 SUMMARY:Phd (w)
 LOCATION:255 S
 DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Rozmus Stefan
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T094000Z
+DTEND:20260430T111500Z
+SUMMARY:Bin (w)
+LOCATION:255 S
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T123000Z
@@ -498,7 +533,7 @@ DTSTART:20260326T150000Z
 DTEND:20260326T163500Z
 SUMMARY:Bin (w)
 LOCATION:255 S
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Górny Piotr
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T140000Z
@@ -536,25 +571,11 @@ LOCATION:252 S
 DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260319T165000Z
-DTEND:20260319T182500Z
-SUMMARY:Bin (L)
-LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Górny Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260326T165000Z
 DTEND:20260326T182500Z
 SUMMARY:Phd (L)
 LOCATION:252 S
 DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: dr inż. Rozmus Stefan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260402T155000Z
-DTEND:20260402T172500Z
-SUMMARY:Bin (w)
-LOCATION:255 S
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T155000Z
@@ -585,13 +606,6 @@ LOCATION:252 S
 DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260319T184000Z
-DTEND:20260319T201500Z
-SUMMARY:Bin (L)
-LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: dr inż. Górny Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260326T184000Z
 DTEND:20260326T201500Z
 SUMMARY:Phd (L)
@@ -599,25 +613,11 @@ LOCATION:252 S
 DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260409T174000Z
-DTEND:20260409T191500Z
-SUMMARY:Bin (L)
-LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: dr inż. Górny Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260416T174000Z
 DTEND:20260416T191500Z
 SUMMARY:Phd (L)
 LOCATION:252 S
 DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: dr inż. Rozmus Stefan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T174000Z
-DTEND:20260430T191500Z
-SUMMARY:Bin (w)
-LOCATION:255 S
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260424T060000Z
