@@ -1443,28 +1443,28 @@ DTSTART:20260216T104000Z
 DTEND:20260216T121500Z
 SUMMARY:BD (Inne)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/6\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T123000Z
 DTEND:20260216T140500Z
 SUMMARY:BD (Inne)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/6\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T150000Z
 DTEND:20260216T163500Z
 SUMMARY:BD (Inne)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/6\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T165000Z
 DTEND:20260216T182500Z
 SUMMARY:BD (Inne)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/6\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T104000Z
@@ -1535,5 +1535,19 @@ DTEND:20260305T182500Z
 SUMMARY:F2 (Inne)
 LOCATION:313 S
 DESCRIPTION:Fizyka 2 - (Egzamin poprawkowy) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 6/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T140000Z
+DTEND:20260410T153500Z
+SUMMARY:BD (Inne)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/6\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T155000Z
+DTEND:20260410T172500Z
+SUMMARY:BD (Inne)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 6/6\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 END:VCALENDAR

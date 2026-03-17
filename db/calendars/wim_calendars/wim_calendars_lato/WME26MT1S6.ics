@@ -1551,18 +1551,11 @@ LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/21
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250422T060000Z
-DTEND:20250422T073500Z
-SUMMARY:TW (w)
-LOCATION:
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: mgr inż. Oleksiak Marek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250429T060000Z
 DTEND:20250429T073500Z
 SUMMARY:TW (w)
 LOCATION:
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: mgr inż. Oleksiak Marek
+DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: mgr inż. Oleksiak Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T060000Z
@@ -2963,6 +2956,13 @@ DTEND:20250409T172500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 167/329
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T155000Z
+DTEND:20250423T172500Z
+SUMMARY:TW (w)
+LOCATION:
+DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: mgr inż. Oleksiak Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T155000Z

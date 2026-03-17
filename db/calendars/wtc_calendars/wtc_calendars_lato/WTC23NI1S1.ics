@@ -4,6 +4,13 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WTC23NI1S1
 BEGIN:VEVENT
+DTSTART:20260427T060000Z
+DTEND:20260427T073500Z
+SUMMARY:NMI (w)
+LOCATION:26/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: dr inż. Zasada Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260511T060000Z
 DTEND:20260511T073500Z
 SUMMARY:NMI (L)
@@ -480,13 +487,6 @@ LOCATION:20/ 34
 DESCRIPTION:Warsztaty Mechaniczne II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/15\nProwadzący: dr inż. Zachman Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260318T070000Z
-DTEND:20260318T083500Z
-SUMMARY:PPT (w)
-LOCATION:26/ 34
-DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Durejko Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260325T070000Z
 DTEND:20260325T083500Z
 SUMMARY:TechP (w)
@@ -554,28 +554,28 @@ DTSTART:20260325T085000Z
 DTEND:20260325T102500Z
 SUMMARY:NMI (w)
 LOCATION:26/ 34
-DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/15\nProwadzący: dr inż. Zasada Dariusz
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T075000Z
 DTEND:20260401T092500Z
 SUMMARY:NMI (w)
 LOCATION:26/ 34
-DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/15\nProwadzący: dr inż. Zasada Dariusz
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T075000Z
 DTEND:20260408T092500Z
 SUMMARY:NMI (w)
 LOCATION:26/ 34
-DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: dr inż. Zasada Dariusz
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T075000Z
 DTEND:20260415T092500Z
 SUMMARY:NMI (w)
 LOCATION:26/ 34
-DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: dr inż. Zasada Dariusz
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T075000Z
@@ -596,7 +596,7 @@ DTSTART:20260506T075000Z
 DTEND:20260506T092500Z
 SUMMARY:NMI (w)
 LOCATION:26/ 34
-DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: dr inż. Zasada Dariusz
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T075000Z
@@ -610,21 +610,21 @@ DTSTART:20260304T104000Z
 DTEND:20260304T121500Z
 SUMMARY:PPT (w)
 LOCATION:26/ 34
-DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T104000Z
 DTEND:20260311T121500Z
 SUMMARY:PPT (w)
 LOCATION:26/ 34
-DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T104000Z
 DTEND:20260318T121500Z
-SUMMARY:NMI (w)
+SUMMARY:PPT (w)
 LOCATION:26/ 34
-DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/15\nProwadzący: dr inż. Zasada Dariusz
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T104000Z
@@ -1117,13 +1117,6 @@ LOCATION:26/ 34
 DESCRIPTION:English for materials engineers\nRodzaj zajęć: Seminarium\nNumer zajęć: 15/15\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260320T123000Z
-DTEND:20260320T140500Z
-SUMMARY:NMI (w)
-LOCATION:26/ 34
-DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: dr inż. Zasada Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260410T113000Z
 DTEND:20260410T130500Z
 SUMMARY:TechP (w)
@@ -1135,7 +1128,7 @@ DTSTART:20260417T113000Z
 DTEND:20260417T130500Z
 SUMMARY:NMI (w)
 LOCATION:26/ 34
-DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: dr inż. Zasada Dariusz
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T113000Z
@@ -1157,5 +1150,12 @@ DTEND:20260619T130500Z
 SUMMARY:PPT (S)
 LOCATION:26/ 34
 DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 12/12\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T140000Z
+DTEND:20260417T153500Z
+SUMMARY:NMI (w)
+LOCATION:26/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: dr inż. Zasada Dariusz
 END:VEVENT
 END:VCALENDAR

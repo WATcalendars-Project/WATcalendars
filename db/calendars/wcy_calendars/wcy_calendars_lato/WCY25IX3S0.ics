@@ -2814,7 +2814,7 @@ BEGIN:VEVENT
 DTSTART:20260313T104000Z
 DTEND:20260313T121500Z
 SUMMARY:ZINŻ (w)
-LOCATION:103 K
+LOCATION:AW 1
 DESCRIPTION:Zabezpieczenie inżynieryjne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2902,13 +2902,6 @@ LOCATION:314 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260318T085000Z
-DTEND:20260318T102500Z
-SUMMARY:Amt (ć)
-LOCATION:219 65
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12\nProwadzący: mgr inż. Stanisław Zoń
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260318T123000Z
 DTEND:20260318T140500Z
 SUMMARY:Amt (w)
@@ -2983,7 +2976,7 @@ DTSTART:20260323T070000Z
 DTEND:20260323T083500Z
 SUMMARY:Amt (ć)
 LOCATION:205 65
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T104000Z
@@ -3110,6 +3103,13 @@ DTEND:20260327T102500Z
 SUMMARY:ZINŻ (ć)
 LOCATION:PĆT3
 DESCRIPTION:Zabezpieczenie inżynieryjne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T104000Z
+DTEND:20260327T121500Z
+SUMMARY:Amt (ć)
+LOCATION:205 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T075000Z

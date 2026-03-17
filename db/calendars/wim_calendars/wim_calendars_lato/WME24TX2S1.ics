@@ -1005,13 +1005,6 @@ LOCATION:2/ 23a
 DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/7\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250609T113000Z
-DTEND:20250609T130500Z
-SUMMARY:EiE (L)
-LOCATION:4/ 23a; 5/ 23a; 14/ 23a
-DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250623T113000Z
 DTEND:20250623T130500Z
 SUMMARY:PPL (Zp. Ćw)
@@ -1100,7 +1093,7 @@ DTSTART:20250609T140000Z
 DTEND:20250609T153500Z
 SUMMARY:EiE (L)
 LOCATION:4/ 23a; 5/ 23a; 14/ 23a
-DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Sobczyk Zbigniew
+DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T140000Z
@@ -1311,6 +1304,13 @@ DTEND:20250603T092500Z
 SUMMARY:KL. (ć)
 LOCATION:5/ 20
 DESCRIPTION:Koszty logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr Milian-Pogonowska Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T075000Z
+DTEND:20250610T092500Z
+SUMMARY:EiE (L)
+LOCATION:4/ 23a; 14/ 23a
+DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T075000Z
@@ -1908,6 +1908,13 @@ LOCATION:16/ 19; 17/ 19
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: (z. popr. lab.)\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250416T140000Z
+DTEND:20250416T153500Z
+SUMMARY:PPL (w)
+LOCATION:51/ 62
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Owczarek Paulina
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250423T140000Z
 DTEND:20250423T153500Z
 SUMMARY:Ptr (L)
@@ -2431,13 +2438,6 @@ DTEND:20250313T163500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 50/86
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250320T150000Z
-DTEND:20250320T163500Z
-SUMMARY:PPL (w)
-LOCATION:52/ 62
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T150000Z
