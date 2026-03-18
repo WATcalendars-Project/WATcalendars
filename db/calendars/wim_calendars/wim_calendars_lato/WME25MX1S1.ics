@@ -88,13 +88,6 @@ LOCATION:01/ 54A
 DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr inż. Przybysz Mirosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250601T060000Z
-DTEND:20250601T073500Z
-SUMMARY:Ppu. (L)
-LOCATION:38/ 54A
-DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250615T060000Z
 DTEND:20250615T073500Z
 SUMMARY:Ppu. (w)
@@ -701,7 +694,7 @@ DTSTART:20250428T094000Z
 DTEND:20250428T111500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 1/12\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 1/11\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T094000Z
@@ -841,7 +834,7 @@ DTSTART:20250602T113000Z
 DTEND:20250602T130500Z
 SUMMARY:Ppu. (L)
 LOCATION:38/ 54A
-DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T113000Z
@@ -970,13 +963,6 @@ LOCATION:54/ 62
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250506T060000Z
-DTEND:20250506T073500Z
-SUMMARY:Ppu. (L)
-LOCATION:38/ 54A
-DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250513T060000Z
 DTEND:20250513T073500Z
 SUMMARY:Gin (ć)
@@ -1057,15 +1043,8 @@ BEGIN:VEVENT
 DTSTART:20250429T075000Z
 DTEND:20250429T092500Z
 SUMMARY:HP (ć)
-LOCATION:109/ 54
+LOCATION:8/ 62
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Fudalej Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T075000Z
-DTEND:20250506T092500Z
-SUMMARY:Ppu. (L)
-LOCATION:38/ 54A
-DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T075000Z
@@ -1184,20 +1163,20 @@ DTSTART:20250506T094000Z
 DTEND:20250506T111500Z
 SUMMARY:Ppu. (L)
 LOCATION:38/ 54A
-DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T094000Z
 DTEND:20250513T111500Z
 SUMMARY:HP (ć)
-LOCATION:109/ 54
+LOCATION:54/ 62
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr Fudalej Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T094000Z
 DTEND:20250520T111500Z
 SUMMARY:HP (ć)
-LOCATION:109/ 54
+LOCATION:54/ 62
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Fudalej Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -1275,7 +1254,7 @@ DTSTART:20250506T113000Z
 DTEND:20250506T130500Z
 SUMMARY:Ppu. (L)
 LOCATION:38/ 54A
-DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T113000Z
@@ -1288,7 +1267,7 @@ BEGIN:VEVENT
 DTSTART:20250401T140000Z
 DTEND:20250401T153500Z
 SUMMARY:HP (ć)
-LOCATION:109/ 54
+LOCATION:55/ 62
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Fudalej Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -1407,7 +1386,7 @@ BEGIN:VEVENT
 DTSTART:20250319T070000Z
 DTEND:20250319T083500Z
 SUMMARY:HP (ć)
-LOCATION:109/ 54
+LOCATION:8/ 62
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Fudalej Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -1421,7 +1400,7 @@ BEGIN:VEVENT
 DTSTART:20250402T060000Z
 DTEND:20250402T073500Z
 SUMMARY:HP (ć)
-LOCATION:109/ 54
+LOCATION:55/ 62
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Fudalej Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -1576,77 +1555,70 @@ DTSTART:20250305T104000Z
 DTEND:20250305T121500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 2/12\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T104000Z
 DTEND:20250312T121500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3/12\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T104000Z
 DTEND:20250319T121500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 4/12\nProwadzący: dr Prusińska Agnieszka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250326T104000Z
-DTEND:20250326T121500Z
-SUMMARY:Mat3 (w)
-LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T094000Z
 DTEND:20250402T111500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T094000Z
 DTEND:20250409T111500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T094000Z
 DTEND:20250416T111500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T094000Z
 DTEND:20250423T111500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 9/12\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T094000Z
 DTEND:20250430T111500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 10/12\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T094000Z
 DTEND:20250507T111500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T094000Z
 DTEND:20250514T111500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 12/12\nProwadzący: dr Prusińska Agnieszka
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T094000Z

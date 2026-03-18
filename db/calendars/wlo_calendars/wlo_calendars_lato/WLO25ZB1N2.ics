@@ -536,13 +536,6 @@ LOCATION:1.17/16
 DESCRIPTION:Rachunkowość zarządcza\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Szczerbak Monika
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260321T184000Z
-DTEND:20260321T201500Z
-SUMMARY:MWiPM (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Skulska Joanna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260411T174000Z
 DTEND:20260411T191500Z
 SUMMARY:Sp (S)
@@ -582,7 +575,7 @@ DTSTART:20260613T174000Z
 DTEND:20260613T191500Z
 SUMMARY:MWiPM (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Skulska Joanna
+DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260627T174000Z
@@ -622,16 +615,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260412T060000Z
 DTEND:20260412T073500Z
-SUMMARY:MWiPM (ć)
-LOCATION:0.7/16
-DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Skulska Joanna
+SUMMARY:MWiPM (w)
+LOCATION:0.19/135
+DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260419T060000Z
 DTEND:20260419T073500Z
 SUMMARY:MWiPM (ć)
 LOCATION:0.7/16
-DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Skulska Joanna
+DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260426T060000Z
@@ -713,16 +706,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260412T075000Z
 DTEND:20260412T092500Z
-SUMMARY:Zpr (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Zarządzanie procesami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
+SUMMARY:MWiPM (ć)
+LOCATION:0.19/135
+DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260419T075000Z
 DTEND:20260419T092500Z
 SUMMARY:Zpr (ć)
 LOCATION:2/22
-DESCRIPTION:Zarządzanie procesami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
+DESCRIPTION:Zarządzanie procesami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260426T075000Z
@@ -806,14 +799,14 @@ DTSTART:20260412T094000Z
 DTEND:20260412T111500Z
 SUMMARY:Zpr (ć)
 LOCATION:4.17a/135
-DESCRIPTION:Zarządzanie procesami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
+DESCRIPTION:Zarządzanie procesami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260419T094000Z
 DTEND:20260419T111500Z
 SUMMARY:Zpr (ć)
 LOCATION:2/22
-DESCRIPTION:Zarządzanie procesami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
+DESCRIPTION:Zarządzanie procesami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260426T094000Z
@@ -883,7 +876,7 @@ DTSTART:20260322T123000Z
 DTEND:20260322T140500Z
 SUMMARY:MWiPM (w)
 LOCATION:1.17/16
-DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Skulska Joanna
+DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260329T113000Z
@@ -891,6 +884,13 @@ DTEND:20260329T130500Z
 SUMMARY:Mnp (w)
 LOCATION:1.17/16
 DESCRIPTION:Metody zarządzania - najlepsze praktyki\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Wojciechowski Zdzislaw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260412T113000Z
+DTEND:20260412T130500Z
+SUMMARY:Zpr (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Zarządzanie procesami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260426T113000Z
@@ -946,13 +946,13 @@ DTSTART:20260322T150000Z
 DTEND:20260322T163500Z
 SUMMARY:MWiPM (w)
 LOCATION:1.17/16
-DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Skulska Joanna
+DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260329T140000Z
-DTEND:20260329T153500Z
-SUMMARY:MWiPM (w)
-LOCATION:1.17/16
-DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Skulska Joanna
+DTSTART:20260621T140000Z
+DTEND:20260621T153500Z
+SUMMARY:MWiPM (ć)
+LOCATION:2.21/135
+DESCRIPTION:Metody Wpływu i Perswazji Medjalnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Skulska Joanna
 END:VEVENT
 END:VCALENDAR

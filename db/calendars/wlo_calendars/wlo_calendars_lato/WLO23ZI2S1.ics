@@ -151,10 +151,10 @@ LOCATION:252 S
 DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260420T174000Z
-DTEND:20260420T191500Z
+DTSTART:20260317T070000Z
+DTEND:20260317T083500Z
 SUMMARY:Bin (L)
-LOCATION:252 S
+LOCATION:226 S
 DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/11\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
@@ -165,11 +165,18 @@ LOCATION:2.21/135
 DESCRIPTION:Seminarium Dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/16
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260317T085000Z
+DTEND:20260317T102500Z
+SUMMARY:Bin (L)
+LOCATION:226 S
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: dr inż. Górny Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260428T075000Z
 DTEND:20260428T092500Z
 SUMMARY:Bin (L)
 LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/11\nProwadzący: dr inż. Górny Piotr
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T104000Z
@@ -190,7 +197,7 @@ DTSTART:20260428T094000Z
 DTEND:20260428T111500Z
 SUMMARY:Bin (L)
 LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/11\nProwadzący: dr inż. Górny Piotr
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T123000Z
@@ -198,13 +205,6 @@ DTEND:20260303T140500Z
 SUMMARY:Bin (w)
 LOCATION:255 S
 DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Górny Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260317T123000Z
-DTEND:20260317T140500Z
-SUMMARY:Bin (L)
-LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/11\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T123000Z
@@ -242,13 +242,6 @@ LOCATION:255 S
 DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Wykład\nNumer zajęć: 1/12\nProwadzący: dr Miłek Marzenna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260317T150000Z
-DTEND:20260317T163500Z
-SUMMARY:Bin (L)
-LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: dr inż. Górny Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260324T150000Z
 DTEND:20260324T163500Z
 SUMMARY:Zsiz (w)
@@ -267,7 +260,7 @@ DTSTART:20260414T140000Z
 DTEND:20260414T153500Z
 SUMMARY:Bin (L)
 LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: dr inż. Górny Piotr
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T140000Z
@@ -302,7 +295,7 @@ DTSTART:20260414T155000Z
 DTEND:20260414T172500Z
 SUMMARY:Bin (L)
 LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: dr inż. Górny Piotr
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T155000Z
@@ -324,6 +317,13 @@ DTEND:20260415T073500Z
 SUMMARY:S.D. (S)
 LOCATION:4.17b/135
 DESCRIPTION:Seminarium Dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T060000Z
+DTEND:20260422T073500Z
+SUMMARY:Bin (L)
+LOCATION:226 S
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T060000Z

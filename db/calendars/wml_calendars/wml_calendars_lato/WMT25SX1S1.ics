@@ -564,6 +564,13 @@ LOCATION:1936
 DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260603T075000Z
+DTEND:20260603T092500Z
+SUMMARY:Gin 
+LOCATION:1867
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kachel Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260610T075000Z
 DTEND:20260610T092500Z
 SUMMARY:Metr 
@@ -706,16 +713,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T113000Z
 DTEND:20260520T130500Z
-SUMMARY:Gin 
-LOCATION:1867
-DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kachel Stanisław
+SUMMARY:REZ 
+LOCATION:
+DESCRIPTION:Rezerwacja\nRodzaj zajęć: -\nProwadzący: dr inż. Szulc Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T113000Z
 DTEND:20260527T130500Z
-SUMMARY:Gin 
-LOCATION:1867
-DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kachel Stanisław
+SUMMARY:REZ 
+LOCATION:
+DESCRIPTION:Rezerwacja\nRodzaj zajęć: -\nProwadzący: dr inż. Szulc Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T113000Z
@@ -727,9 +734,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T113000Z
 DTEND:20260610T130500Z
-SUMMARY:Gin 
-LOCATION:1867
-DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kachel Stanisław
+SUMMARY:REZ 
+LOCATION:
+DESCRIPTION:Rezerwacja\nRodzaj zajęć: -\nProwadzący: dr inż. Szulc Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T113000Z
@@ -865,6 +872,13 @@ LOCATION:
 DESCRIPTION:Metrologia\nRodzaj zajęć: -\nProwadzący: dr inż. Grzegorczyk Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260514T094000Z
+DTEND:20260514T111500Z
+SUMMARY:Gin 
+LOCATION:1867
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kachel Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260521T094000Z
 DTEND:20260521T111500Z
 SUMMARY:Metr 
@@ -877,6 +891,13 @@ DTEND:20260611T111500Z
 SUMMARY:Metr 
 LOCATION:12836
 DESCRIPTION:Metrologia\nRodzaj zajęć: -\nProwadzący: dr inż. Grzegorczyk Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T094000Z
+DTEND:20260618T111500Z
+SUMMARY:Gin 
+LOCATION:1867
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kachel Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T123000Z

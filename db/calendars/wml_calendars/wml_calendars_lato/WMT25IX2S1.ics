@@ -298,39 +298,11 @@ LOCATION:
 DESCRIPTION:Metrologia\nRodzaj zajęć: -\nProwadzący: dr inż. Grzegorczyk Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260505T094000Z
-DTEND:20260505T111500Z
-SUMMARY:HP 
-LOCATION:1963
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Ważniewski Włodzimierz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260519T094000Z
 DTEND:20260519T111500Z
 SUMMARY:Gin 
 LOCATION:1867
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kachel Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260602T094000Z
-DTEND:20260602T111500Z
-SUMMARY:HP 
-LOCATION:1963
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Ważniewski Włodzimierz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260609T094000Z
-DTEND:20260609T111500Z
-SUMMARY:HP 
-LOCATION:1963
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Ważniewski Włodzimierz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260616T094000Z
-DTEND:20260616T111500Z
-SUMMARY:HP 
-LOCATION:1963
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Ważniewski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T123000Z
@@ -347,25 +319,53 @@ LOCATION:12836
 DESCRIPTION:Metrologia\nRodzaj zajęć: -\nProwadzący: dr inż. Grzegorczyk Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260421T113000Z
+DTEND:20260421T130500Z
+SUMMARY:Fil 
+LOCATION:
+DESCRIPTION:Filozofia\nRodzaj zajęć: -\nProwadzący: dr hab. Świniarski Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T113000Z
+DTEND:20260428T130500Z
+SUMMARY:Fil 
+LOCATION:
+DESCRIPTION:Filozofia\nRodzaj zajęć: -\nProwadzący: dr hab. Świniarski Janusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260512T113000Z
 DTEND:20260512T130500Z
-SUMMARY:HP 
-LOCATION:1963
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Ważniewski Włodzimierz
+SUMMARY:Fil 
+LOCATION:
+DESCRIPTION:Filozofia\nRodzaj zajęć: -\nProwadzący: dr hab. Świniarski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T113000Z
 DTEND:20260519T130500Z
-SUMMARY:HP 
-LOCATION:1963
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Ważniewski Włodzimierz
+SUMMARY:Fil 
+LOCATION:
+DESCRIPTION:Filozofia\nRodzaj zajęć: -\nProwadzący: dr hab. Świniarski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T113000Z
 DTEND:20260526T130500Z
-SUMMARY:HP 
-LOCATION:1963
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Ważniewski Włodzimierz
+SUMMARY:Fil 
+LOCATION:
+DESCRIPTION:Filozofia\nRodzaj zajęć: -\nProwadzący: dr hab. Świniarski Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T113000Z
+DTEND:20260602T130500Z
+SUMMARY:Fil 
+LOCATION:
+DESCRIPTION:Filozofia\nRodzaj zajęć: -\nProwadzący: dr hab. Świniarski Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T113000Z
+DTEND:20260609T130500Z
+SUMMARY:Fil 
+LOCATION:
+DESCRIPTION:Filozofia\nRodzaj zajęć: -\nProwadzący: dr hab. Świniarski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T140000Z
@@ -587,16 +587,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T113000Z
 DTEND:20260415T130500Z
-SUMMARY:HP 
+SUMMARY:Fil 
 LOCATION:
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Ważniewski Włodzimierz
+DESCRIPTION:Filozofia\nRodzaj zajęć: -\nProwadzący: dr hab. Świniarski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T113000Z
 DTEND:20260429T130500Z
-SUMMARY:HP 
+SUMMARY:Fil 
 LOCATION:
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Ważniewski Włodzimierz
+DESCRIPTION:Filozofia\nRodzaj zajęć: -\nProwadzący: dr hab. Świniarski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T113000Z
@@ -608,16 +608,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T113000Z
 DTEND:20260513T130500Z
-SUMMARY:HP 
+SUMMARY:Fil 
 LOCATION:
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Ważniewski Włodzimierz
+DESCRIPTION:Filozofia\nRodzaj zajęć: -\nProwadzący: dr hab. Świniarski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T113000Z
 DTEND:20260527T130500Z
-SUMMARY:HP 
+SUMMARY:Fil 
 LOCATION:
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Ważniewski Włodzimierz
+DESCRIPTION:Filozofia\nRodzaj zajęć: -\nProwadzący: dr hab. Świniarski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T150000Z
@@ -650,30 +650,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T140000Z
 DTEND:20260415T153500Z
-SUMMARY:HP 
+SUMMARY:Fil 
 LOCATION:
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Ważniewski Włodzimierz
+DESCRIPTION:Filozofia\nRodzaj zajęć: -\nProwadzący: dr hab. Świniarski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T140000Z
 DTEND:20260429T153500Z
-SUMMARY:HP 
+SUMMARY:Fil 
 LOCATION:
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Ważniewski Włodzimierz
+DESCRIPTION:Filozofia\nRodzaj zajęć: -\nProwadzący: dr hab. Świniarski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T140000Z
 DTEND:20260513T153500Z
-SUMMARY:HP 
+SUMMARY:Fil 
 LOCATION:
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Ważniewski Włodzimierz
+DESCRIPTION:Filozofia\nRodzaj zajęć: -\nProwadzący: dr hab. Świniarski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T140000Z
 DTEND:20260527T153500Z
-SUMMARY:HP 
+SUMMARY:Fil 
 LOCATION:
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Ważniewski Włodzimierz
+DESCRIPTION:Filozofia\nRodzaj zajęć: -\nProwadzący: dr hab. Świniarski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T070000Z

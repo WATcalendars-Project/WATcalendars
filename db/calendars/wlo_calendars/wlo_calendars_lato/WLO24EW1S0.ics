@@ -368,13 +368,6 @@ LOCATION:0.24/135
 DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260525T140000Z
-DTEND:20260525T153500Z
-SUMMARY:PKL (S)
-LOCATION:4.17b/135
-DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: dr Gułaj Mariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260608T140000Z
 DTEND:20260608T153500Z
 SUMMARY:PrFi (w)
@@ -557,6 +550,13 @@ LOCATION:4.23/135
 DESCRIPTION:Polityka społeczna i gospodarcza\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260616T075000Z
+DTEND:20260616T092500Z
+SUMMARY:PKL (S)
+LOCATION:0.23/16
+DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: dr Gułaj Mariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T104000Z
 DTEND:20260303T121500Z
 SUMMARY:Mak (w)
@@ -613,18 +613,11 @@ LOCATION:0.21/16
 DESCRIPTION:Polityka społeczna i gospodarcza\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260505T113000Z
-DTEND:20260505T130500Z
-SUMMARY:PKL (ć)
-LOCATION:5.17/135
-DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Gułaj Mariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260512T113000Z
 DTEND:20260512T130500Z
 SUMMARY:PKL (ć)
 LOCATION:5.17/135
-DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Gułaj Mariusz
+DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T113000Z
@@ -648,18 +641,11 @@ LOCATION:1/22
 DESCRIPTION:Badania operacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260512T140000Z
-DTEND:20260512T153500Z
-SUMMARY:PKL (ć)
-LOCATION:5.17/135
-DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Gułaj Mariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260519T140000Z
 DTEND:20260519T153500Z
 SUMMARY:PKL (ć)
 LOCATION:5.17/135
-DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr Gułaj Mariusz
+DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T140000Z
@@ -732,6 +718,13 @@ LOCATION:1.9/16
 DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260513T060000Z
+DTEND:20260513T073500Z
+SUMMARY:PKL (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Gułaj Mariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260520T060000Z
 DTEND:20260520T073500Z
 SUMMARY:ZŻWAT (i)
@@ -800,6 +793,13 @@ DTEND:20260429T092500Z
 SUMMARY:SzS (ć)
 LOCATION:5PL/27KP; 24EW; 1S; 24BJO; 0 ST; 1 T
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr Milian-Pogonowska Małgorzata; prof. dr hab. Włodarkiewicz Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T075000Z
+DTEND:20260506T092500Z
+SUMMARY:PKL (ć)
+LOCATION:0.6/16
+DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T075000Z
@@ -1019,6 +1019,13 @@ LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/30
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T150000Z
+DTEND:20260325T163500Z
+SUMMARY:Psy (ć)
+LOCATION:A.1.3/135
+DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Fijałkowska Sylwia
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260401T140000Z
 DTEND:20260401T153500Z
 SUMMARY:PSiG (ć)
@@ -1031,6 +1038,13 @@ DTEND:20260408T153500Z
 SUMMARY:PSiG (ć)
 LOCATION:9/158
 DESCRIPTION:Polityka społeczna i gospodarcza\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T140000Z
+DTEND:20260415T153500Z
+SUMMARY:Psy (ć)
+LOCATION:A.1.3/135
+DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Fijałkowska Sylwia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T140000Z
@@ -1075,60 +1089,11 @@ LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/30
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260325T165000Z
-DTEND:20260325T182500Z
-SUMMARY:Psy (ć)
-LOCATION:A.1.3/135
-DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Fijałkowska Sylwia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260401T155000Z
-DTEND:20260401T172500Z
-SUMMARY:Psy (ć)
-LOCATION:A.1.3/135
-DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Fijałkowska Sylwia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260408T155000Z
-DTEND:20260408T172500Z
-SUMMARY:Psy (ć)
-LOCATION:A.1.3/135
-DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Fijałkowska Sylwia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260415T155000Z
-DTEND:20260415T172500Z
-SUMMARY:Psy (ć)
-LOCATION:A.1.3/135
-DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Fijałkowska Sylwia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260429T155000Z
-DTEND:20260429T172500Z
-SUMMARY:Psy (ć)
-LOCATION:A.1.3/135
-DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Fijałkowska Sylwia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260506T155000Z
-DTEND:20260506T172500Z
-SUMMARY:Psy (ć)
-LOCATION:A.1.3/135
-DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Fijałkowska Sylwia
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260520T155000Z
 DTEND:20260520T172500Z
 SUMMARY:PrFi (w)
 LOCATION:5.17/135
 DESCRIPTION:Prawo Finansowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Małecka Magdalena
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260527T155000Z
-DTEND:20260527T172500Z
-SUMMARY:Psy (ć)
-LOCATION:A.1.3/135
-DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Fijałkowska Sylwia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T155000Z
@@ -1201,6 +1166,13 @@ LOCATION:1.9/16
 DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260319T070000Z
+DTEND:20260319T083500Z
+SUMMARY:Psy (w)
+LOCATION:37/158
+DESCRIPTION:Psychologia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Fijałkowska Sylwia
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260430T060000Z
 DTEND:20260430T073500Z
 SUMMARY:Hsw (ć)
@@ -1240,7 +1212,42 @@ DTSTART:20260305T085000Z
 DTEND:20260305T102500Z
 SUMMARY:Psy (w)
 LOCATION:A.1.3/135
-DESCRIPTION:Psychologia\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr Fijałkowska Sylwia
+DESCRIPTION:Psychologia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Fijałkowska Sylwia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T085000Z
+DTEND:20260319T102500Z
+SUMMARY:Psy (w)
+LOCATION:37/158
+DESCRIPTION:Psychologia\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Fijałkowska Sylwia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T075000Z
+DTEND:20260409T092500Z
+SUMMARY:Psy (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Fijałkowska Sylwia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T075000Z
+DTEND:20260430T092500Z
+SUMMARY:Psy (ć)
+LOCATION:1.27/135
+DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Fijałkowska Sylwia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T075000Z
+DTEND:20260514T092500Z
+SUMMARY:Psy (ć)
+LOCATION:5.17/135
+DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Fijałkowska Sylwia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T075000Z
+DTEND:20260521T092500Z
+SUMMARY:Psy (ć)
+LOCATION:1.16/16
+DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Fijałkowska Sylwia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T075000Z
@@ -1255,13 +1262,6 @@ DTEND:20260305T121500Z
 SUMMARY:DWiPD (w)
 LOCATION:
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr Kasperski Marian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260319T104000Z
-DTEND:20260319T121500Z
-SUMMARY:Psy (w)
-LOCATION:A.1.3/135
-DESCRIPTION:Psychologia\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Fijałkowska Sylwia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T104000Z
@@ -1296,7 +1296,7 @@ DTSTART:20260423T094000Z
 DTEND:20260423T111500Z
 SUMMARY:Psy (ć)
 LOCATION:5.21/135
-DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Fijałkowska Sylwia
+DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Fijałkowska Sylwia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T094000Z
@@ -1332,13 +1332,6 @@ DTEND:20260312T140500Z
 SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/30
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260319T123000Z
-DTEND:20260319T140500Z
-SUMMARY:Psy (w)
-LOCATION:A.1.3/135
-DESCRIPTION:Psychologia\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Fijałkowska Sylwia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T123000Z
@@ -1577,6 +1570,13 @@ DTEND:20260306T083500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1/34
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T060000Z
+DTEND:20260410T073500Z
+SUMMARY:Psy (ć)
+LOCATION:1.27/135
+DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Fijałkowska Sylwia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T060000Z

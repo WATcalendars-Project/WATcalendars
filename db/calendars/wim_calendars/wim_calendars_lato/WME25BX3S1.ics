@@ -151,6 +151,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 2/21
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250413T075000Z
+DTEND:20250413T092500Z
+SUMMARY:F1 (ć)
+LOCATION:9/ 62
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250420T075000Z
 DTEND:20250420T092500Z
 SUMMARY:Fil (w)
@@ -337,7 +344,7 @@ DTSTART:20250608T094000Z
 DTEND:20250608T111500Z
 SUMMARY:F1 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T094000Z
@@ -429,6 +436,13 @@ DTEND:20250504T130500Z
 SUMMARY:WdP (L)
 LOCATION:
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250518T113000Z
+DTEND:20250518T130500Z
+SUMMARY:F1 (ć)
+LOCATION:9/ 62
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T113000Z
@@ -617,27 +631,27 @@ DTSTART:20250414T075000Z
 DTEND:20250414T092500Z
 SUMMARY:F1 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250421T075000Z
 DTEND:20250421T092500Z
 SUMMARY:F1 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T075000Z
 DTEND:20250428T092500Z
 SUMMARY:F1 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T075000Z
 DTEND:20250505T092500Z
 SUMMARY:HP (ć)
-LOCATION:109/ 54
+LOCATION:52/ 62
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Fudalej Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -659,7 +673,7 @@ DTSTART:20250526T075000Z
 DTEND:20250526T092500Z
 SUMMARY:F1 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T075000Z
@@ -707,7 +721,7 @@ BEGIN:VEVENT
 DTSTART:20250324T104000Z
 DTEND:20250324T121500Z
 SUMMARY:HP (ć)
-LOCATION:109/ 54
+LOCATION:3/ 23a
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Fudalej Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -715,7 +729,7 @@ DTSTART:20250331T094000Z
 DTEND:20250331T111500Z
 SUMMARY:F1 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T094000Z
@@ -728,21 +742,21 @@ BEGIN:VEVENT
 DTSTART:20250414T094000Z
 DTEND:20250414T111500Z
 SUMMARY:HP (ć)
-LOCATION:109/ 54
+LOCATION:8/ 62
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Fudalej Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250421T094000Z
 DTEND:20250421T111500Z
 SUMMARY:HP (ć)
-LOCATION:109/ 54
+LOCATION:54/ 62
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Fudalej Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T094000Z
 DTEND:20250428T111500Z
 SUMMARY:HP (ć)
-LOCATION:109/ 54
+LOCATION:52/ 62
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Fudalej Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -778,14 +792,14 @@ DTSTART:20250602T094000Z
 DTEND:20250602T111500Z
 SUMMARY:Ppu. (L)
 LOCATION:38/ 54A
-DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T094000Z
 DTEND:20250616T111500Z
 SUMMARY:F1 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T094000Z
@@ -844,13 +858,6 @@ LOCATION:9/ 62
 DESCRIPTION:Anatomia człowieka\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/16\nProwadzący: dr Trębińska-Stryjewska Alicja
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250428T113000Z
-DTEND:20250428T130500Z
-SUMMARY:Ppu. (L)
-LOCATION:38/ 54A
-DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250512T113000Z
 DTEND:20250512T130500Z
 SUMMARY:PEM (w)
@@ -907,25 +914,11 @@ LOCATION:
 DESCRIPTION:Telemonitoring w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250428T140000Z
-DTEND:20250428T153500Z
-SUMMARY:Ppu. (L)
-LOCATION:38/ 54A
-DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250519T140000Z
 DTEND:20250519T153500Z
 SUMMARY:TwM (L)
 LOCATION:
 DESCRIPTION:Telemonitoring w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250526T140000Z
-DTEND:20250526T153500Z
-SUMMARY:Ppu. (L)
-LOCATION:38/ 54A
-DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T155000Z
@@ -1247,13 +1240,13 @@ DTSTART:20250429T094000Z
 DTEND:20250429T111500Z
 SUMMARY:Ppu. (L)
 LOCATION:38/ 54A
-DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T094000Z
 DTEND:20250506T111500Z
 SUMMARY:HP (ć)
-LOCATION:109/ 54
+LOCATION:55/ 62
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Fudalej Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -1345,7 +1338,7 @@ DTSTART:20250401T113000Z
 DTEND:20250401T130500Z
 SUMMARY:F1 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T113000Z
@@ -1373,21 +1366,21 @@ DTSTART:20250429T113000Z
 DTEND:20250429T130500Z
 SUMMARY:Ppu. (L)
 LOCATION:38/ 54A
-DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T113000Z
 DTEND:20250506T130500Z
 SUMMARY:F1 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T113000Z
 DTEND:20250603T130500Z
 SUMMARY:F1 (ć)
 LOCATION:54/ 62
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T113000Z
@@ -1796,13 +1789,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 17/21
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250611T094000Z
-DTEND:20250611T111500Z
-SUMMARY:F1 (ć)
-LOCATION:8/ 62
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250618T094000Z
 DTEND:20250618T111500Z
 SUMMARY:Mat4 (L)
@@ -1852,18 +1838,11 @@ LOCATION:09/ 54A
 DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250416T113000Z
-DTEND:20250416T130500Z
-SUMMARY:F1 (ć)
-LOCATION:9/ 62
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250423T113000Z
 DTEND:20250423T130500Z
 SUMMARY:F1 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T113000Z
@@ -1891,7 +1870,7 @@ DTSTART:20250521T113000Z
 DTEND:20250521T130500Z
 SUMMARY:F1 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T113000Z
@@ -1919,7 +1898,7 @@ DTSTART:20250618T113000Z
 DTEND:20250618T130500Z
 SUMMARY:F1 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: prof.dr hab.inż. Rutkowski Jarosław
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T150000Z

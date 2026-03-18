@@ -1939,7 +1939,7 @@ BEGIN:VEVENT
 DTSTART:20260521T140000Z
 DTEND:20260521T153500Z
 SUMMARY:Płe (w)
-LOCATION:1.10/16
+LOCATION:aula/135
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
@@ -2030,7 +2030,7 @@ BEGIN:VEVENT
 DTSTART:20260521T155000Z
 DTEND:20260521T172500Z
 SUMMARY:Płe (w)
-LOCATION:1.10/16
+LOCATION:aula/135
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
@@ -2048,6 +2048,13 @@ LOCATION:1.9/16
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260327T070000Z
+DTEND:20260327T083500Z
+SUMMARY:Wm (ć)
+LOCATION:0.22/16
+DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260424T060000Z
 DTEND:20260424T073500Z
 SUMMARY:Płe (w)
@@ -2060,6 +2067,13 @@ DTEND:20260703T073500Z
 SUMMARY:XFiz1 (Ep)
 LOCATION:24MX; 1S; 24MX; 2S; 24BM; 1S; 24TX; 1S; 24TX; 2S; 24MI; 1S; 24MT; 1S; 24MC; 1S; 24MN; 1S; 1c; 1a; 1b; 24EL; 1S; 24EL; 2S; 24EV; 1S; 24EV; 2S; 24EE; 1S; 24EI; 1S; 24FW; 1S; 24FW; 2S; 24FX; 1S; 24FX; 2S; 24FX; 3S; 24XY; 1WF; 24XY; 2CF; 23EC; 1S; 24DX; 1S; 1 K
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T085000Z
+DTEND:20260320T102500Z
+SUMMARY:Wm (ć)
+LOCATION:1.16/16
+DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T085000Z
@@ -2242,20 +2256,6 @@ DTEND:20260612T130500Z
 SUMMARY:Płe (L)
 LOCATION:17/19; 16/19
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260320T150000Z
-DTEND:20260320T163500Z
-SUMMARY:Wm (ć)
-LOCATION:0.22/16
-DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260327T150000Z
-DTEND:20260327T163500Z
-SUMMARY:Wm (ć)
-LOCATION:0.8/16
-DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T140000Z

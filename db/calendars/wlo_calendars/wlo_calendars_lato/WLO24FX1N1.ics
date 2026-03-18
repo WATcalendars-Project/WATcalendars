@@ -357,7 +357,7 @@ BEGIN:VEVENT
 DTSTART:20260418T094000Z
 DTEND:20260418T111500Z
 SUMMARY:Sp* (w)
-LOCATION:1.10/16
+LOCATION:0.19/135
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
@@ -382,11 +382,18 @@ LOCATION:4.23/135
 DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260530T094000Z
+DTEND:20260530T111500Z
+SUMMARY:Ilog (ć)
+LOCATION:2.21/135
+DESCRIPTION:Infrastruktura logistyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Orłowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260613T094000Z
 DTEND:20260613T111500Z
 SUMMARY:Ilog (ć)
 LOCATION:4.23/135
-DESCRIPTION:Infrastruktura logistyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Orłowski Krzysztof
+DESCRIPTION:Infrastruktura logistyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260620T094000Z
@@ -659,7 +666,7 @@ DTSTART:20260628T060000Z
 DTEND:20260628T073500Z
 SUMMARY:Ilog (ć)
 LOCATION:3.16/135
-DESCRIPTION:Infrastruktura logistyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. Orłowski Krzysztof
+DESCRIPTION:Infrastruktura logistyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260301T085000Z
@@ -799,7 +806,7 @@ DTSTART:20260621T094000Z
 DTEND:20260621T111500Z
 SUMMARY:Ilog (ć)
 LOCATION:1.17/16
-DESCRIPTION:Infrastruktura logistyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Orłowski Krzysztof
+DESCRIPTION:Infrastruktura logistyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260301T123000Z
@@ -926,12 +933,5 @@ DTEND:20260322T182500Z
 SUMMARY:Ptr (w)
 LOCATION:0.24/135
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260329T155000Z
-DTEND:20260329T172500Z
-SUMMARY:Ilog (ć)
-LOCATION:1.10/16
-DESCRIPTION:Infrastruktura logistyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 END:VCALENDAR

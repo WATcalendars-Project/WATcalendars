@@ -445,6 +445,13 @@ LOCATION:1.9/16
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260616T075000Z
+DTEND:20260616T092500Z
+SUMMARY:Ilog (S)
+LOCATION:0.19/135
+DESCRIPTION:Infrastruktura logistyczna\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr inż. Orłowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T104000Z
 DTEND:20260303T121500Z
 SUMMARY:Ja (ć)
@@ -658,7 +665,7 @@ BEGIN:VEVENT
 DTSTART:20260609T155000Z
 DTEND:20260609T172500Z
 SUMMARY:Ilog (ć)
-LOCATION:4.17a/135
+LOCATION:0.19/135
 DESCRIPTION:Infrastruktura logistyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -758,13 +765,6 @@ DTEND:20260520T092500Z
 SUMMARY:Sp* (ć)
 LOCATION:4.23/135
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260610T075000Z
-DTEND:20260610T092500Z
-SUMMARY:Ilog (S)
-LOCATION:0.6/16
-DESCRIPTION:Infrastruktura logistyczna\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T075000Z
