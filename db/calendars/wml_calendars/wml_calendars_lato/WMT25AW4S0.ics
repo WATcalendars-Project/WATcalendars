@@ -172,20 +172,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: dr Wójcicki Sylwester
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260202T104000Z
-DTEND:20260202T121500Z
-SUMMARY:Mat2 
-LOCATION:
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: -\nProwadzący: mgr inż. Dzieł Łukasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260202T123000Z
-DTEND:20260202T140500Z
-SUMMARY:Mat2 
-LOCATION:
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: -\nProwadzący: mgr inż. Dzieł Łukasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260316T123000Z
 DTEND:20260316T140500Z
 SUMMARY:Metr 
@@ -197,7 +183,7 @@ DTSTART:20260330T113000Z
 DTEND:20260330T130500Z
 SUMMARY:In 
 LOCATION:
-DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T113000Z
@@ -228,13 +214,6 @@ LOCATION:
 DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: -\nProwadzący: dr inż. Dębski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260209T150000Z
-DTEND:20260209T163500Z
-SUMMARY:HP 
-LOCATION:1936
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Ważniewski Włodzimierz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260302T150000Z
 DTEND:20260302T163500Z
 SUMMARY:Nom 
@@ -246,7 +225,7 @@ DTSTART:20260323T150000Z
 DTEND:20260323T163500Z
 SUMMARY:In 
 LOCATION:
-DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T140000Z
@@ -274,14 +253,14 @@ DTSTART:20260427T140000Z
 DTEND:20260427T153500Z
 SUMMARY:In 
 LOCATION:1936
-DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T140000Z
 DTEND:20260504T153500Z
 SUMMARY:In 
 LOCATION:1936
-DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T140000Z
@@ -296,6 +275,13 @@ DTEND:20260601T153500Z
 SUMMARY:Gin 
 LOCATION:11325
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Kachel Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T155000Z
+DTEND:20260518T172500Z
+SUMMARY:In 
+LOCATION:1936
+DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T070000Z
@@ -344,7 +330,7 @@ DTSTART:20260421T060000Z
 DTEND:20260421T073500Z
 SUMMARY:In 
 LOCATION:
-DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Informatyka\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T060000Z
@@ -382,13 +368,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: dr Wójcicki Sylwester
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260210T085000Z
-DTEND:20260210T102500Z
-SUMMARY:Mat2 
-LOCATION:1936
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: -\nProwadzący: mgr inż. Dzieł Łukasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260310T085000Z
 DTEND:20260310T102500Z
 SUMMARY:PD 
@@ -400,7 +379,7 @@ DTSTART:20260324T085000Z
 DTEND:20260324T102500Z
 SUMMARY:In 
 LOCATION:4136
-DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T075000Z
@@ -456,7 +435,7 @@ DTSTART:20260602T075000Z
 DTEND:20260602T092500Z
 SUMMARY:In 
 LOCATION:
-DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Informatyka\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T075000Z
@@ -638,7 +617,7 @@ DTSTART:20260609T113000Z
 DTEND:20260609T130500Z
 SUMMARY:In 
 LOCATION:4136
-DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T113000Z
@@ -652,14 +631,14 @@ DTSTART:20260303T150000Z
 DTEND:20260303T163500Z
 SUMMARY:In 
 LOCATION:1936
-DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T150000Z
 DTEND:20260310T163500Z
 SUMMARY:In 
 LOCATION:1936
-DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T150000Z
@@ -1583,7 +1562,7 @@ DTSTART:20260618T075000Z
 DTEND:20260618T092500Z
 SUMMARY:In 
 LOCATION:
-DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T104000Z
@@ -1611,14 +1590,14 @@ DTSTART:20260319T150000Z
 DTEND:20260319T163500Z
 SUMMARY:In 
 LOCATION:
-DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T140000Z
 DTEND:20260402T153500Z
 SUMMARY:In 
 LOCATION:
-DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T140000Z
@@ -1646,7 +1625,7 @@ DTSTART:20260514T140000Z
 DTEND:20260514T153500Z
 SUMMARY:In 
 LOCATION:
-DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T140000Z
@@ -1849,7 +1828,7 @@ DTSTART:20260612T113000Z
 DTEND:20260612T130500Z
 SUMMARY:In 
 LOCATION:
-DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Informatyka\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T113000Z
@@ -1877,14 +1856,14 @@ DTSTART:20260410T140000Z
 DTEND:20260410T153500Z
 SUMMARY:In 
 LOCATION:1936
-DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T140000Z
 DTEND:20260417T153500Z
 SUMMARY:In 
 LOCATION:1936
-DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T140000Z
@@ -1898,6 +1877,6 @@ DTSTART:20260522T140000Z
 DTEND:20260522T153500Z
 SUMMARY:In 
 LOCATION:1936
-DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:Informatyka\nRodzaj zajęć: -\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 END:VCALENDAR
