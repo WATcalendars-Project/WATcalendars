@@ -70,14 +70,14 @@ BEGIN:VEVENT
 DTSTART:20260525T060000Z
 DTEND:20260525T073500Z
 SUMMARY:ZSdL (ć)
-LOCATION:0.7/16; 0.6/16
+LOCATION:0.6/16
 DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T060000Z
 DTEND:20260601T073500Z
 SUMMARY:ZSdL (ć)
-LOCATION:0.7/16; 0.6/16
+LOCATION:0.6/16
 DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
@@ -1866,6 +1866,13 @@ LOCATION:238 K; 237 K; 235 K; 234 K; 233 K; 232 K; 231 K; 230 K; 134 K; 133 K; 1
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/30
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260417T075000Z
+DTEND:20260417T092500Z
+SUMMARY:ZwWSL (ć)
+LOCATION:
+DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260424T075000Z
 DTEND:20260424T092500Z
 SUMMARY:ZLWwC (w)
@@ -1904,7 +1911,7 @@ BEGIN:VEVENT
 DTSTART:20260605T075000Z
 DTEND:20260605T092500Z
 SUMMARY:ZSdL (L)
-LOCATION:0.7/16; 0.6/16
+LOCATION:0.6/16
 DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
@@ -1934,13 +1941,6 @@ DTEND:20260313T121500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22/30\nProwadzący: mgr Dawidziuk Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260320T104000Z
-DTEND:20260320T121500Z
-SUMMARY:ZwWSL (ć)
-LOCATION:0.23/16
-DESCRIPTION:Zapasy w wojskowym systemie logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T104000Z
@@ -2002,7 +2002,7 @@ BEGIN:VEVENT
 DTSTART:20260605T094000Z
 DTEND:20260605T111500Z
 SUMMARY:ZSdL (L)
-LOCATION:0.7/16; 0.6/16
+LOCATION:0.6/16
 DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT

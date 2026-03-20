@@ -151,13 +151,6 @@ LOCATION:1.17/16
 DESCRIPTION:Systemy ratownictwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260518T140000Z
-DTEND:20260518T153500Z
-SUMMARY:Kierunki 
-LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 1/25\nProwadzący: dr Moch Natalia
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260525T140000Z
 DTEND:20260525T153500Z
 SUMMARY:SRa (ć)
@@ -165,11 +158,18 @@ LOCATION:1.17/16
 DESCRIPTION:Systemy ratownictwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260518T155000Z
-DTEND:20260518T172500Z
+DTSTART:20260511T155000Z
+DTEND:20260511T172500Z
 SUMMARY:Kierunki 
-LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 2/25\nProwadzący: dr Moch Natalia
+LOCATION:4.17a/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 1/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T174000Z
+DTEND:20260511T191500Z
+SUMMARY:Kierunki 
+LOCATION:4.17a/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 2/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T070000Z
@@ -191,6 +191,13 @@ DTEND:20260428T073500Z
 SUMMARY:Z.S.Bezp (w)
 LOCATION:1.10/16
 DESCRIPTION:Zarządzanie strategiczne bezpieczeństwem\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Śmiałek Wiesław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T060000Z
+DTEND:20260505T073500Z
+SUMMARY:Kierunki 
+LOCATION:4.17a/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 3/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T085000Z
@@ -442,7 +449,7 @@ DTSTART:20260310T150000Z
 DTEND:20260310T163500Z
 SUMMARY:Kierunki 
 LOCATION:1.9/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 3/25\nProwadzący: dr Krawczyk Mateusz; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 4/25\nProwadzący: dr Krawczyk Mateusz; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T150000Z
@@ -484,7 +491,7 @@ DTSTART:20260512T140000Z
 DTEND:20260512T153500Z
 SUMMARY:Kierunki 
 LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 4/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 5/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T140000Z
@@ -505,14 +512,14 @@ DTSTART:20260303T165000Z
 DTEND:20260303T182500Z
 SUMMARY:Kierunki 
 LOCATION:1.9/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 5/25\nProwadzący: dr Krawczyk Mateusz; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 6/25\nProwadzący: dr Krawczyk Mateusz; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T165000Z
 DTEND:20260310T182500Z
 SUMMARY:Kierunki 
 LOCATION:1.9/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 6/25\nProwadzący: dr Krawczyk Mateusz; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 7/25\nProwadzący: dr Krawczyk Mateusz; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T165000Z
@@ -554,7 +561,7 @@ DTSTART:20260512T155000Z
 DTEND:20260512T172500Z
 SUMMARY:Kierunki 
 LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 7/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 8/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T155000Z
@@ -575,14 +582,14 @@ DTSTART:20260303T184000Z
 DTEND:20260303T201500Z
 SUMMARY:Kierunki 
 LOCATION:1.9/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 8/25\nProwadzący: dr Krawczyk Mateusz; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 9/25\nProwadzący: dr Krawczyk Mateusz; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T174000Z
 DTEND:20260512T191500Z
 SUMMARY:Kierunki 
 LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 9/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 10/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T060000Z
@@ -722,7 +729,7 @@ DTSTART:20260415T094000Z
 DTEND:20260415T111500Z
 SUMMARY:Kierunki 
 LOCATION:307 S
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 10/25\nProwadzący: dr Krawczyk Mateusz; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 11/25\nProwadzący: dr Krawczyk Mateusz; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T094000Z
@@ -970,11 +977,18 @@ LOCATION:0.19/135
 DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 19/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T165000Z
+DTEND:20260325T182500Z
+SUMMARY:Kierunki 
+LOCATION:4.17a/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 12/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260401T155000Z
 DTEND:20260401T172500Z
 SUMMARY:Kierunki 
 LOCATION:0.19/135
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 11/25\nProwadzący: dr Krawczyk Mateusz; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 13/25\nProwadzący: dr Krawczyk Mateusz; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T155000Z
@@ -982,6 +996,20 @@ DTEND:20260408T172500Z
 SUMMARY:SPiSNATO (w)
 LOCATION:1.10/16
 DESCRIPTION:Struktura, Polityka i Strategia NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T155000Z
+DTEND:20260415T172500Z
+SUMMARY:Kierunki 
+LOCATION:4.17a/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 14/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T155000Z
+DTEND:20260506T172500Z
+SUMMARY:Kierunki 
+LOCATION:4.17a/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 15/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T155000Z
@@ -1031,6 +1059,13 @@ DTEND:20260408T191500Z
 SUMMARY:Kierowanie 
 LOCATION:5.17/135
 DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 25/25\nProwadzący: dr Moch Natalia; prof. dr hab. Misiuk Andrzej; dr Krawczyk Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T174000Z
+DTEND:20260506T191500Z
+SUMMARY:Kierunki 
+LOCATION:4.17a/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 16/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T070000Z
@@ -1163,7 +1198,7 @@ DTSTART:20260423T094000Z
 DTEND:20260423T111500Z
 SUMMARY:Kierunki 
 LOCATION:1.17/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 12/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 17/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T094000Z
@@ -1299,25 +1334,11 @@ LOCATION:1.17/16
 DESCRIPTION:Protokół dyplomatyczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260514T140000Z
-DTEND:20260514T153500Z
-SUMMARY:Kierunki 
-LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 13/25\nProwadzący: dr Moch Natalia
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260521T140000Z
 DTEND:20260521T153500Z
 SUMMARY:Kierunki 
 LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 14/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260528T140000Z
-DTEND:20260528T153500Z
-SUMMARY:Kierunki 
-LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 15/25\nProwadzący: dr Moch Natalia
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 18/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T140000Z
@@ -1327,32 +1348,11 @@ LOCATION:1.27/135
 DESCRIPTION:Struktura, Polityka i Strategia NATO\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/12\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260514T155000Z
-DTEND:20260514T172500Z
-SUMMARY:Kierunki 
-LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 16/25\nProwadzący: dr Moch Natalia
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260521T155000Z
 DTEND:20260521T172500Z
 SUMMARY:Kierunki 
 LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 17/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260528T155000Z
-DTEND:20260528T172500Z
-SUMMARY:Kierunki 
-LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 18/25\nProwadzący: dr Moch Natalia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260514T174000Z
-DTEND:20260514T191500Z
-SUMMARY:Kierunki 
-LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 19/25\nProwadzący: dr Moch Natalia
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 19/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T174000Z
@@ -1360,13 +1360,6 @@ DTEND:20260521T191500Z
 SUMMARY:Kierunki 
 LOCATION:1.16/16
 DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 20/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260528T174000Z
-DTEND:20260528T191500Z
-SUMMARY:Kierunki 
-LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 21/25\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T070000Z
@@ -1381,6 +1374,13 @@ DTEND:20260320T083500Z
 SUMMARY:SPiSNATO (w)
 LOCATION:1.10/16
 DESCRIPTION:Struktura, Polityka i Strategia NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T070000Z
+DTEND:20260327T083500Z
+SUMMARY:Kierunki 
+LOCATION:4.17a/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 21/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T085000Z
