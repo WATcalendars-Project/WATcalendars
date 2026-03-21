@@ -337,7 +337,7 @@ DTSTART:20250608T094000Z
 DTEND:20250608T111500Z
 SUMMARY:OiTNP (L)
 LOCATION:1/ 21; 17b/ 21
-DESCRIPTION:Organizacja i technologia napraw pojazdów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7
+DESCRIPTION:Organizacja i technologia napraw pojazdów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T094000Z
@@ -463,7 +463,7 @@ DTSTART:20250608T113000Z
 DTEND:20250608T130500Z
 SUMMARY:OiTNP (L)
 LOCATION:1/ 21; 17b/ 21
-DESCRIPTION:Organizacja i technologia napraw pojazdów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7
+DESCRIPTION:Organizacja i technologia napraw pojazdów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T113000Z
@@ -512,7 +512,7 @@ DTSTART:20250608T140000Z
 DTEND:20250608T153500Z
 SUMMARY:OiTNP (L)
 LOCATION:1/ 21; 17b/ 21
-DESCRIPTION:Organizacja i technologia napraw pojazdów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7
+DESCRIPTION:Organizacja i technologia napraw pojazdów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T155000Z
@@ -1054,6 +1054,13 @@ LOCATION:52/ 62
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250610T060000Z
+DTEND:20250610T073500Z
+SUMMARY:OiTNP (L)
+LOCATION:1/ 21; 17b/ 21
+DESCRIPTION:Organizacja i technologia napraw pojazdów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250617T060000Z
 DTEND:20250617T073500Z
 SUMMARY:BPiE (w)
@@ -1145,6 +1152,13 @@ LOCATION:2/ 23a
 DESCRIPTION:Military and special vehicles\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250610T075000Z
+DTEND:20250610T092500Z
+SUMMARY:OiTNP (L)
+LOCATION:17b/ 21
+DESCRIPTION:Organizacja i technologia napraw pojazdów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250617T075000Z
 DTEND:20250617T092500Z
 SUMMARY:OiTNP (w)
@@ -1220,6 +1234,13 @@ DTEND:20250603T111500Z
 SUMMARY:SCiA (P)
 LOCATION:3/ 23a
 DESCRIPTION:Samochody ciężarowe i autobusy\nRodzaj zajęć: Projekt\nNumer zajęć: 4/12\nProwadzący: mgr inż. Radzimierski Mariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T094000Z
+DTEND:20250610T111500Z
+SUMMARY:OiTNP (L)
+LOCATION:17b/ 21
+DESCRIPTION:Organizacja i technologia napraw pojazdów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T094000Z
@@ -1541,7 +1562,7 @@ DTSTART:20250507T113000Z
 DTEND:20250507T130500Z
 SUMMARY:OiTNP (L)
 LOCATION:42/ 20; 17a/ 21
-DESCRIPTION:Organizacja i technologia napraw pojazdów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: dr inż. Cypko Edward
+DESCRIPTION:Organizacja i technologia napraw pojazdów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Cypko Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T113000Z
@@ -1583,14 +1604,14 @@ DTSTART:20250507T140000Z
 DTEND:20250507T153500Z
 SUMMARY:OiTNP (L)
 LOCATION:42/ 20; 17a/ 21
-DESCRIPTION:Organizacja i technologia napraw pojazdów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: dr inż. Cypko Edward
+DESCRIPTION:Organizacja i technologia napraw pojazdów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Cypko Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T140000Z
 DTEND:20250514T153500Z
 SUMMARY:OiTNP (L)
 LOCATION:42/ 20; 17a/ 21
-DESCRIPTION:Organizacja i technologia napraw pojazdów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: dr inż. Cypko Edward
+DESCRIPTION:Organizacja i technologia napraw pojazdów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Cypko Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T140000Z
@@ -1604,7 +1625,7 @@ DTSTART:20250514T155000Z
 DTEND:20250514T172500Z
 SUMMARY:OiTNP (L)
 LOCATION:42/ 20; 17a/ 21
-DESCRIPTION:Organizacja i technologia napraw pojazdów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: dr inż. Cypko Edward
+DESCRIPTION:Organizacja i technologia napraw pojazdów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Cypko Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T155000Z

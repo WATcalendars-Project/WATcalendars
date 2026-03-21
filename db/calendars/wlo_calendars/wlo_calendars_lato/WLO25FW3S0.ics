@@ -483,7 +483,7 @@ BEGIN:VEVENT
 DTSTART:20260505T094000Z
 DTEND:20260505T111500Z
 SUMMARY:F1 (ć)
-LOCATION:0.19/135
+LOCATION:
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -518,14 +518,14 @@ BEGIN:VEVENT
 DTSTART:20260609T094000Z
 DTEND:20260609T111500Z
 SUMMARY:F1 (ć)
-LOCATION:0.19/135
+LOCATION:54/62
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T094000Z
 DTEND:20260616T111500Z
 SUMMARY:F1 (ć)
-LOCATION:0.19/135
+LOCATION:1.10/16
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -639,13 +639,6 @@ DTEND:20260303T163500Z
 SUMMARY:ZaMe (w)
 LOCATION:2W
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppor. mgr Szwed Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260324T150000Z
-DTEND:20260324T163500Z
-SUMMARY:F1 (ć)
-LOCATION:0.19/135
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T140000Z
@@ -795,6 +788,13 @@ LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: (i)\nNumer zajęć: 1/4\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T070000Z
+DTEND:20260325T083500Z
+SUMMARY:F1 (ć)
+LOCATION:8/62
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260401T060000Z
 DTEND:20260401T073500Z
 SUMMARY:Mat3 (w)
@@ -889,7 +889,7 @@ BEGIN:VEVENT
 DTSTART:20260401T075000Z
 DTEND:20260401T092500Z
 SUMMARY:F1 (ć)
-LOCATION:0.19/135
+LOCATION:9/62
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -938,7 +938,7 @@ BEGIN:VEVENT
 DTSTART:20260527T075000Z
 DTEND:20260527T092500Z
 SUMMARY:F1 (ć)
-LOCATION:0.19/135
+LOCATION:9/62
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -952,7 +952,7 @@ BEGIN:VEVENT
 DTSTART:20260617T075000Z
 DTEND:20260617T092500Z
 SUMMARY:F1 (ć)
-LOCATION:0.19/135
+LOCATION:
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -987,7 +987,7 @@ BEGIN:VEVENT
 DTSTART:20260422T094000Z
 DTEND:20260422T111500Z
 SUMMARY:F1 (ć)
-LOCATION:0.19/135
+LOCATION:9/62
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT

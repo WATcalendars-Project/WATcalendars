@@ -270,6 +270,13 @@ LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/30
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260427T140000Z
+DTEND:20260427T153500Z
+SUMMARY:DSŻwCPKiWnST (ć)
+LOCATION:1b/28
+DESCRIPTION:Działalność służby żywnościowej w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: dr Spychała Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260511T140000Z
 DTEND:20260511T153500Z
 SUMMARY:Mil (ć)
@@ -316,14 +323,14 @@ DTSTART:20260420T155000Z
 DTEND:20260420T172500Z
 SUMMARY:DSŻwCPKiWnST (ć)
 LOCATION:0.21/16
-DESCRIPTION:Działalność służby żywnościowej w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: dr Spychała Dariusz
+DESCRIPTION:Działalność służby żywnościowej w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T155000Z
 DTEND:20260511T172500Z
 SUMMARY:DSŻwCPKiWnST (ć)
 LOCATION:0.23/16
-DESCRIPTION:Działalność służby żywnościowej w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: dr Spychała Dariusz
+DESCRIPTION:Działalność służby żywnościowej w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T155000Z
@@ -1453,18 +1460,11 @@ LOCATION:aula/135
 DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260415T155000Z
-DTEND:20260415T172500Z
-SUMMARY:DSŻwCPKiWnST (w)
-LOCATION:0.24/135
-DESCRIPTION:Działalność służby żywnościowej w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr Spychała Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260429T155000Z
 DTEND:20260429T172500Z
 SUMMARY:DSŻwCPKiWnST (ć)
 LOCATION:0.23/16
-DESCRIPTION:Działalność służby żywnościowej w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr Spychała Dariusz
+DESCRIPTION:Działalność służby żywnościowej w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T155000Z
@@ -1546,8 +1546,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T060000Z
 DTEND:20260423T073500Z
-SUMMARY:Psp. (w)
+SUMMARY:Adwl (w)
 LOCATION:aula/135
+DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Kurkowiak Justyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T060000Z
+DTEND:20260430T073500Z
+SUMMARY:Psp. (w)
+LOCATION:0.24/135
 DESCRIPTION:Projektowanie systemów i procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
@@ -1642,11 +1649,11 @@ LOCATION:aula/135
 DESCRIPTION:Badania operacyjne i teoria optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: prof. dr hab. inż. Ameljańczyk Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260423T094000Z
-DTEND:20260423T111500Z
-SUMMARY:Adwl (w)
-LOCATION:aula/135
-DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Kurkowiak Justyna
+DTSTART:20260416T094000Z
+DTEND:20260416T111500Z
+SUMMARY:DSŻwCPKiWnST (w)
+LOCATION:
+DESCRIPTION:Działalność służby żywnościowej w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T094000Z
@@ -1702,7 +1709,7 @@ DTSTART:20260430T113000Z
 DTEND:20260430T130500Z
 SUMMARY:DSŻwCPKiWnST (ć)
 LOCATION:1.9/16
-DESCRIPTION:Działalność służby żywnościowej w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr Spychała Dariusz
+DESCRIPTION:Działalność służby żywnościowej w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T113000Z
@@ -1752,13 +1759,6 @@ DTEND:20260430T153500Z
 SUMMARY:BOiTO (L)
 LOCATION:226 S
 DESCRIPTION:Badania operacyjne i teoria optymalizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: prof. dr hab. inż. Ameljańczyk Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260514T140000Z
-DTEND:20260514T153500Z
-SUMMARY:DSŻwCPKiWnST (ć)
-LOCATION:1.9/16
-DESCRIPTION:Działalność służby żywnościowej w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T165000Z

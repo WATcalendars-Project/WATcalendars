@@ -1411,13 +1411,6 @@ LOCATION:106 65
 DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260330T155000Z
-DTEND:20260330T172500Z
-SUMMARY:Wcy (Inne)
-LOCATION:106 65
-DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Adam Patkowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260401T075000Z
 DTEND:20260401T092500Z
 SUMMARY:IRz (w)
@@ -1549,5 +1542,19 @@ DTEND:20260416T111500Z
 SUMMARY:Wcy (w)
 LOCATION:101 65
 DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T113000Z
+DTEND:20260423T130500Z
+SUMMARY:Wcy (E)
+LOCATION:218 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T140000Z
+DTEND:20260504T153500Z
+SUMMARY:Wcy (Inne)
+LOCATION:125 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 END:VCALENDAR
