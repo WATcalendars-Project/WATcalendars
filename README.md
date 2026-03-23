@@ -59,8 +59,6 @@ Also check official website for importing schedules to your device:
 <br>
 
 <br>
-<br>
-<br>
 <a id="contact"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=32CD32,228B22,006400&vCenter=true&width=435&height=25&lines=CONTACT" width="450"/>
 
@@ -78,21 +76,14 @@ If you have any questions, suggestions, or want to report an issue, feel free to
 ---
 <div align="center">
 
-  ### ☕ Support WATcalendars on Buy Me a Coffee
-
-  If you like this project and want to support its development, consider buying me a coffee:
 
   <a href="https://www.buymeacoffee.com/dominikx2002" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
   </a>
   
-<br><br>
-
-or GitHub:
+<br></br>
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/dominikx2002)
-
-</div>
 
 
 
