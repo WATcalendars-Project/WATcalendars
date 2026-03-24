@@ -284,6 +284,13 @@ LOCATION:
 DESCRIPTION:Psł.\nRodzaj zajęć: -\nNumer zajęć: 3/9
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250427T094000Z
+DTEND:20250427T111500Z
+SUMMARY:Smi. (L)
+LOCATION:2/ 68; 9/ 68; 11/ 68
+DESCRIPTION:Silniki napędowe maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250504T094000Z
 DTEND:20250504T111500Z
 SUMMARY:DwI (ć)
@@ -1044,7 +1051,7 @@ DTSTART:20250513T060000Z
 DTEND:20250513T073500Z
 SUMMARY:Smi. (L)
 LOCATION:2/ 68; 9/ 68; 11/ 68
-DESCRIPTION:Silniki napędowe maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3
+DESCRIPTION:Silniki napędowe maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T060000Z
@@ -1217,9 +1224,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T094000Z
 DTEND:20250408T111500Z
-SUMMARY:Smi. (L)
-LOCATION:2/ 68; 9/ 68; 11/ 68
-DESCRIPTION:Silniki napędowe maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3
+SUMMARY:ZIoMB (ć)
+LOCATION:120/ 54
+DESCRIPTION:Zapory inżynieryjne oraz maszyny do ich budowy i pokonywania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T094000Z
@@ -1227,13 +1234,6 @@ DTEND:20250415T111500Z
 SUMMARY:Pkm 
 LOCATION:120/ 54; 108/ 54
 DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 8/20\nProwadzący: ppłk dr inż. Ślęzak Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250422T094000Z
-DTEND:20250422T111500Z
-SUMMARY:Smi. (L)
-LOCATION:2/ 68; 9/ 68; 11/ 68
-DESCRIPTION:Silniki napędowe maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T094000Z
@@ -1325,13 +1325,6 @@ DTEND:20250401T130500Z
 SUMMARY:Uem. (L)
 LOCATION:42/ 54A
 DESCRIPTION:Urządzenia elektryczne i osprzęt elektroniczny maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250408T113000Z
-DTEND:20250408T130500Z
-SUMMARY:ZIoMB (ć)
-LOCATION:108/ 54
-DESCRIPTION:Zapory inżynieryjne oraz maszyny do ich budowy i pokonywania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T113000Z
@@ -1675,6 +1668,13 @@ DTEND:20250423T111500Z
 SUMMARY:Uem. (ć)
 LOCATION:108/ 54
 DESCRIPTION:Urządzenia elektryczne i osprzęt elektroniczny maszyn inżynieryjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250430T094000Z
+DTEND:20250430T111500Z
+SUMMARY:Smi. (L)
+LOCATION:2/ 68; 9/ 68; 11/ 68
+DESCRIPTION:Silniki napędowe maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T094000Z

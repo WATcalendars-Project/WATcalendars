@@ -67,6 +67,13 @@ LOCATION:52/ 62
 DESCRIPTION:Komunikacja i podstawy negocjacji\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Kałucki Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250504T060000Z
+DTEND:20250504T073500Z
+SUMMARY:KkAI (ć)
+LOCATION:53/ 62
+DESCRIPTION:Kody komputerowe do analiz inżynierskich CAE\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250511T060000Z
 DTEND:20250511T073500Z
 SUMMARY:REZ 
@@ -163,6 +170,13 @@ DTEND:20250427T092500Z
 SUMMARY:Ptts (w)
 LOCATION:9/ 62
 DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Wieczorek Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250504T075000Z
+DTEND:20250504T092500Z
+SUMMARY:KkAI (ć)
+LOCATION:53/ 62
+DESCRIPTION:Kody komputerowe do analiz inżynierskich CAE\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250511T075000Z
@@ -347,6 +361,13 @@ LOCATION:108/ 54
 DESCRIPTION:Komunikacja i podstawy negocjacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Kałucki Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250427T113000Z
+DTEND:20250427T130500Z
+SUMMARY:Pbaw (L)
+LOCATION:7/ 23a
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/14
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250504T113000Z
 DTEND:20250504T130500Z
 SUMMARY:Wmi. (w)
@@ -372,7 +393,7 @@ DTSTART:20250525T113000Z
 DTEND:20250525T130500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/14
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250601T113000Z
@@ -401,6 +422,13 @@ DTEND:20250406T153500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 5/21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250427T140000Z
+DTEND:20250427T153500Z
+SUMMARY:Pbaw (L)
+LOCATION:7/ 23a
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250504T140000Z
@@ -501,13 +529,6 @@ LOCATION:42/ 54A
 DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250324T070000Z
-DTEND:20250324T083500Z
-SUMMARY:KkAI (ć)
-LOCATION:52/ 62
-DESCRIPTION:Kody komputerowe do analiz inżynierskich CAE\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250407T060000Z
 DTEND:20250407T073500Z
 SUMMARY:I 
@@ -576,13 +597,6 @@ DTEND:20250317T102500Z
 SUMMARY:Ptw. (w)
 LOCATION:2/ 23a
 DESCRIPTION:Podstawy techniki wojskowej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250324T085000Z
-DTEND:20250324T102500Z
-SUMMARY:KkAI (ć)
-LOCATION:52/ 62
-DESCRIPTION:Kody komputerowe do analiz inżynierskich CAE\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T075000Z
@@ -1394,7 +1408,7 @@ DTSTART:20250520T113000Z
 DTEND:20250520T130500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/14
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T113000Z
@@ -1464,7 +1478,7 @@ DTSTART:20250422T140000Z
 DTEND:20250422T153500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/14
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T140000Z
@@ -1492,14 +1506,14 @@ DTSTART:20250520T140000Z
 DTEND:20250520T153500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/14
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T140000Z
 DTEND:20250527T153500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T140000Z
@@ -1520,14 +1534,14 @@ DTSTART:20250422T155000Z
 DTEND:20250422T172500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/14
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T155000Z
 DTEND:20250527T172500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T070000Z
@@ -1590,7 +1604,7 @@ DTSTART:20250514T060000Z
 DTEND:20250514T073500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T060000Z
@@ -1674,7 +1688,7 @@ DTSTART:20250514T075000Z
 DTEND:20250514T092500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T075000Z
@@ -1759,13 +1773,6 @@ DTEND:20250409T111500Z
 SUMMARY:WzPs (ć)
 LOCATION:51/ 62
 DESCRIPTION:Wybrane zagadnienia psychologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr Fijałkowska Sylwia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250416T094000Z
-DTEND:20250416T111500Z
-SUMMARY:Pbaw (L)
-LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T094000Z
@@ -1871,13 +1878,6 @@ DTEND:20250409T130500Z
 SUMMARY:Ptw. (ć)
 LOCATION:6/ 23a
 DESCRIPTION:Podstawy techniki wojskowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250416T113000Z
-DTEND:20250416T130500Z
-SUMMARY:Pbaw (L)
-LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T113000Z

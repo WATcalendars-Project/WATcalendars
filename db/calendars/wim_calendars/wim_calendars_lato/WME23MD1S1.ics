@@ -144,6 +144,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 2/56
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250413T075000Z
+DTEND:20250413T092500Z
+SUMMARY:Pkm 
+LOCATION:120/ 54; 109/ 54
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 10/20\nProwadzący: dr inż. Torzewski Janusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250420T075000Z
 DTEND:20250420T092500Z
 SUMMARY:BPiE (ć)
@@ -414,7 +421,7 @@ DTSTART:20250615T113000Z
 DTEND:20250615T130500Z
 SUMMARY:Pkm 
 LOCATION:116/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 10/20\nProwadzący: dr inż. Pankiewicz Bolesław
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 11/20\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250629T113000Z
@@ -533,7 +540,7 @@ DTSTART:20250915T075000Z
 DTEND:20250915T092500Z
 SUMMARY:Pkm 
 LOCATION:116/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 11/20\nProwadzący: dr inż. Pankiewicz Bolesław
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 12/20\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T104000Z
@@ -820,7 +827,7 @@ DTSTART:20250318T070000Z
 DTEND:20250318T083500Z
 SUMMARY:Pkm 
 LOCATION:116/ 54; 108/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 12/20\nProwadzący: dr inż. Torzewski Janusz
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 13/20\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T070000Z
@@ -835,13 +842,6 @@ DTEND:20250401T073500Z
 SUMMARY:BPiE (w)
 LOCATION:52/ 62
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. Wieczorek Marcin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250408T060000Z
-DTEND:20250408T073500Z
-SUMMARY:Pkm 
-LOCATION:116/ 54; 108/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 13/20\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T060000Z

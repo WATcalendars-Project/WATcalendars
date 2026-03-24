@@ -18,6 +18,13 @@ LOCATION:0.23/16
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260413T060000Z
+DTEND:20260413T073500Z
+SUMMARY:PeUT (ć)
+LOCATION:0.28/135
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260420T060000Z
 DTEND:20260420T073500Z
 SUMMARY:DWiPD (ć)
@@ -30,6 +37,13 @@ DTEND:20260427T073500Z
 SUMMARY:PKL (w)
 LOCATION:1.9/16
 DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Gułaj Mariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T060000Z
+DTEND:20260518T073500Z
+SUMMARY:PeUT (ć)
+LOCATION:1.9/16
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T060000Z
@@ -176,7 +190,7 @@ DTSTART:20260427T094000Z
 DTEND:20260427T111500Z
 SUMMARY:PeUT (ć)
 LOCATION:0.28/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T094000Z
@@ -214,13 +228,6 @@ LOCATION:0.8/16
 DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/10\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260413T113000Z
-DTEND:20260413T130500Z
-SUMMARY:PeUT (ć)
-LOCATION:31/158
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260420T113000Z
 DTEND:20260420T130500Z
 SUMMARY:Wm (w)
@@ -239,13 +246,6 @@ DTSTART:20260504T113000Z
 DTEND:20260504T130500Z
 SUMMARY:PeUT (ć)
 LOCATION:1.16/16
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260511T113000Z
-DTEND:20260511T130500Z
-SUMMARY:PeUT (ć)
-LOCATION:31/158
 DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
 END:VEVENT
 BEGIN:VEVENT
@@ -2527,21 +2527,21 @@ BEGIN:VEVENT
 DTSTART:20260411T140000Z
 DTEND:20260411T153500Z
 SUMMARY:XFiz1 (L)
-LOCATION:139 S; 141 S; 142 S
+LOCATION:139 S; 141 S
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T140000Z
 DTEND:20260425T153500Z
 SUMMARY:XFiz1 (L)
-LOCATION:139 S; 141 S; 142 S
+LOCATION:139 S; 141 S
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T140000Z
 DTEND:20260509T153500Z
 SUMMARY:XFiz1 (L)
-LOCATION:139 S; 141 S; 142 S
+LOCATION:139 S; 141 S
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
@@ -2562,14 +2562,14 @@ BEGIN:VEVENT
 DTSTART:20260411T155000Z
 DTEND:20260411T172500Z
 SUMMARY:XFiz1 (L)
-LOCATION:139 S; 141 S; 142 S
+LOCATION:139 S; 141 S
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T155000Z
 DTEND:20260425T172500Z
 SUMMARY:XFiz1 (L)
-LOCATION:139 S; 141 S; 142 S
+LOCATION:139 S; 141 S
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT

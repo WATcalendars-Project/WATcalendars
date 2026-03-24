@@ -81,6 +81,13 @@ LOCATION:0.23/16
 DESCRIPTION:Podstawy ekonometrii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260518T075000Z
+DTEND:20260518T092500Z
+SUMMARY:ZdSZ (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260601T075000Z
 DTEND:20260601T092500Z
 SUMMARY:ZdSZ (S)
@@ -142,13 +149,6 @@ DTEND:20260427T111500Z
 SUMMARY:Pem (w)
 LOCATION:0.7/16
 DESCRIPTION:Podstawy ekonometrii\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr inż. Górny Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260518T094000Z
-DTEND:20260518T111500Z
-SUMMARY:ZdSZ (ć)
-LOCATION:0.8/16
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T094000Z
@@ -424,10 +424,10 @@ LOCATION:0.23/16
 DESCRIPTION:Statystyka opisowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr Kopiecki Ryszard
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260526T060000Z
-DTEND:20260526T073500Z
+DTSTART:20260512T060000Z
+DTEND:20260512T073500Z
 SUMMARY:ZdSZ (ć)
-LOCATION:4.17b/135
+LOCATION:
 DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT

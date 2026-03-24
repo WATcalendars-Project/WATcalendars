@@ -431,6 +431,13 @@ LOCATION:
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 11/13\nProwadzący: prof. dr hab. inż. Parka Janusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250516T094000Z
+DTEND:20250516T111500Z
+SUMMARY:Mat3 (ć)
+LOCATION:55/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr Gdula Agnieszka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250523T094000Z
 DTEND:20250523T111500Z
 SUMMARY:I 
@@ -872,6 +879,13 @@ LOCATION:6/ 23a
 DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250627T155000Z
+DTEND:20250627T172500Z
+SUMMARY:OgRP (ć)
+LOCATION:6/ 23a
+DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Ziubiński Mateusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250704T155000Z
 DTEND:20250704T172500Z
 SUMMARY:OgRP (Zp. Ćw)
@@ -988,7 +1002,14 @@ DTSTART:20250613T174000Z
 DTEND:20250613T191500Z
 SUMMARY:OgRP (ć)
 LOCATION:6/ 23a
-DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Ziubiński Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250627T174000Z
+DTEND:20250627T191500Z
+SUMMARY:OgRP (ć)
+LOCATION:6/ 23a
+DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T174000Z
@@ -1191,14 +1212,14 @@ DTSTART:20250419T075000Z
 DTEND:20250419T092500Z
 SUMMARY:Mat3 (ć)
 LOCATION:55/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr Gdula Agnieszka
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T075000Z
 DTEND:20250426T092500Z
 SUMMARY:Mat3 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr Gdula Agnieszka
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250503T075000Z
@@ -1206,13 +1227,6 @@ DTEND:20250503T092500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 43/70
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250510T075000Z
-DTEND:20250510T092500Z
-SUMMARY:Mat3 (ć)
-LOCATION:55/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250517T075000Z
@@ -1341,13 +1355,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 48/70
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250510T094000Z
-DTEND:20250510T111500Z
-SUMMARY:OgRP (ć)
-LOCATION:6/ 23a
-DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Ziubiński Mateusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250517T094000Z
 DTEND:20250517T111500Z
 SUMMARY:PTS* (L)
@@ -1465,13 +1472,6 @@ DTEND:20250503T130500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 53/70
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250510T113000Z
-DTEND:20250510T130500Z
-SUMMARY:OgRP (ć)
-LOCATION:6/ 23a
-DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250517T113000Z

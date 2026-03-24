@@ -279,9 +279,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250330T094000Z
 DTEND:20250330T111500Z
-SUMMARY:Elo (ć)
+SUMMARY:Elo (w)
 LOCATION:51/ 62
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T094000Z
@@ -386,14 +386,14 @@ DTSTART:20250302T123000Z
 DTEND:20250302T140500Z
 SUMMARY:Elo (w)
 LOCATION:52/ 62
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250309T123000Z
 DTEND:20250309T140500Z
 SUMMARY:Elo (w)
 LOCATION:52/ 62
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250316T123000Z
@@ -442,7 +442,7 @@ DTSTART:20250427T113000Z
 DTEND:20250427T130500Z
 SUMMARY:Elo (w)
 LOCATION:54/ 62
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250504T113000Z
@@ -527,6 +527,13 @@ DTEND:20250406T153500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 5/49
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250427T140000Z
+DTEND:20250427T153500Z
+SUMMARY:Elo (ć)
+LOCATION:54/ 62
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250601T140000Z
@@ -1163,7 +1170,7 @@ DTSTART:20250408T075000Z
 DTEND:20250408T092500Z
 SUMMARY:Elo (w)
 LOCATION:1/ 19
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T075000Z
@@ -1268,7 +1275,7 @@ DTSTART:20250325T104000Z
 DTEND:20250325T121500Z
 SUMMARY:Elo (w)
 LOCATION:1/ 21
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T094000Z
@@ -1310,7 +1317,7 @@ DTSTART:20250506T094000Z
 DTEND:20250506T111500Z
 SUMMARY:Elo (w)
 LOCATION:52/ 62
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T094000Z
@@ -1359,7 +1366,7 @@ DTSTART:20250311T123000Z
 DTEND:20250311T140500Z
 SUMMARY:Elo (w)
 LOCATION:2/ 23a
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T123000Z
@@ -1367,13 +1374,6 @@ DTEND:20250325T140500Z
 SUMMARY:Elo (ć)
 LOCATION:1/ 21
 DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: inż. Kochański Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250401T113000Z
-DTEND:20250401T130500Z
-SUMMARY:Elo (w)
-LOCATION:54/ 62
-DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T113000Z

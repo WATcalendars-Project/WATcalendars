@@ -25,6 +25,20 @@ LOCATION:301/S
 DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260511T060000Z
+DTEND:20260511T073500Z
+SUMMARY:ZdSZ (ć)
+LOCATION:1.9/16
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T060000Z
+DTEND:20260518T073500Z
+SUMMARY:BiEWTM (L)
+LOCATION:
+DESCRIPTION:Budowa i eksploatacja wyposażenia technicznego magazynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr inż. Sieczka Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260615T060000Z
 DTEND:20260615T073500Z
 SUMMARY:PD (w)
@@ -51,6 +65,20 @@ DTEND:20260413T092500Z
 SUMMARY:SzS (ć)
 LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S; 0 ST
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr inż. Suligowski Mariusz; mjr mgr inż. Wróbel Mateusz; płk dr Niemirka Sławomir; dr Czuba Beata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T075000Z
+DTEND:20260511T092500Z
+SUMMARY:ZdSZ (ć)
+LOCATION:1.9/16
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T075000Z
+DTEND:20260518T092500Z
+SUMMARY:BiEWTM (L)
+LOCATION:0.6/16
+DESCRIPTION:Budowa i eksploatacja wyposażenia technicznego magazynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T075000Z
@@ -158,13 +186,6 @@ LOCATION:aula/135
 DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260601T140000Z
-DTEND:20260601T153500Z
-SUMMARY:ZdSZ (ć)
-LOCATION:0.23/16
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260615T140000Z
 DTEND:20260615T153500Z
 SUMMARY:ZdSZ (S)
@@ -235,13 +256,6 @@ LOCATION:aula/135
 DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: płk prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260601T155000Z
-DTEND:20260601T172500Z
-SUMMARY:ZdSZ (ć)
-LOCATION:0.8/16
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260615T155000Z
 DTEND:20260615T172500Z
 SUMMARY:ZdSZ (S)
@@ -268,6 +282,13 @@ DTEND:20260331T073500Z
 SUMMARY:F1 (w)
 LOCATION:
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/20\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T060000Z
+DTEND:20260414T073500Z
+SUMMARY:ZdSZ (ć)
+LOCATION:31/158
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T060000Z
@@ -655,6 +676,13 @@ LOCATION:5W
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260428T140000Z
+DTEND:20260428T153500Z
+SUMMARY:ZdSZ (ć)
+LOCATION:
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260505T140000Z
 DTEND:20260505T153500Z
 SUMMARY:Plog (ć)
@@ -679,8 +707,8 @@ BEGIN:VEVENT
 DTSTART:20260526T140000Z
 DTEND:20260526T153500Z
 SUMMARY:ZdSZ (ć)
-LOCATION:
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr Tomaszewski Jarosław
+LOCATION:0.21/16
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T140000Z
@@ -751,13 +779,6 @@ DTEND:20260519T172500Z
 SUMMARY:Ja (ć)
 LOCATION:241 K; 120 K; 121 K; 122 K; 124 K; 125 K; 127 K; 128 K; 131 K; 133 K; 134 K; 230 K; 231 K; 232 K; 233 K; 234 K; 235 K; 237 K; 238 K; 239 K; 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/30
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260526T155000Z
-DTEND:20260526T172500Z
-SUMMARY:ZdSZ (ć)
-LOCATION:0.23/16
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T155000Z
@@ -1023,7 +1044,7 @@ DTSTART:20260527T094000Z
 DTEND:20260527T111500Z
 SUMMARY:ZdSZ (ć)
 LOCATION:1.10/16
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr Tomaszewski Jarosław
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T094000Z
@@ -1080,27 +1101,6 @@ DTEND:20260422T130500Z
 SUMMARY:F1 (L)
 LOCATION:141 S; 139 S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260506T113000Z
-DTEND:20260506T130500Z
-SUMMARY:BiEWTM (L)
-LOCATION:5.21/135
-DESCRIPTION:Budowa i eksploatacja wyposażenia technicznego magazynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr inż. Sieczka Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260513T113000Z
-DTEND:20260513T130500Z
-SUMMARY:BiEWTM (L)
-LOCATION:
-DESCRIPTION:Budowa i eksploatacja wyposażenia technicznego magazynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr inż. Sieczka Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260527T113000Z
-DTEND:20260527T130500Z
-SUMMARY:ZdSZ (ć)
-LOCATION:1.10/16
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T113000Z

@@ -3961,13 +3961,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T094000Z
 DTEND:20260420T111500Z
-SUMMARY:WdP (w)
-LOCATION:301/ S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260420T113000Z
-DTEND:20260420T130500Z
 SUMMARY:Bwg (w)
 LOCATION:301/ S
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
@@ -5326,9 +5319,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T075000Z
 DTEND:20260615T092500Z
-SUMMARY:Acz. (w)
+SUMMARY:WdP (w)
 LOCATION:301/ S
-DESCRIPTION:Anatomia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 14/14\nProwadzący: -
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T094000Z
@@ -5336,6 +5329,13 @@ DTEND:20260615T111500Z
 SUMMARY:Bwg (ć)
 LOCATION:13 71
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T060000Z
+DTEND:20260616T073500Z
+SUMMARY:Acz. (w)
+LOCATION:301/ S
+DESCRIPTION:Anatomia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 14/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T075000Z
