@@ -1,4 +1,4 @@
-###### _<div align="right"><sub>// designed by Dominik Serafin</sub></div>_
+###### _<div align="right"><sub>Designed by Dominik Serafin</sub></div>_
 
 <div align="center">
   <a href="https://watcalendars.byst.re">
@@ -29,7 +29,9 @@
   </a>
 </p>
 
-</div><br><br>
+</div>
+
+<br>
 
 <div align="center">
   <div style="display: flex; flex-wrap: nowrap; justify-content: center;">
@@ -44,27 +46,28 @@
   </div>
 </div>
 
-<br><br>
+<br>
 
-### WATcalendars is an automated tool designed for students of the Military University of Technology. It simplifies the process of managing academic schedules by converting official university timetables into a modern, digital format.
-The official WAT schedule system often requires manual checking and can be difficult to navigate on mobile devices. This project provides a bridge between the university's data and your personal calendar. It scrapes the latest schedule data directly from faculty websites and generates a standard `.ics` (iCal) file.
+### O projekcie
 
-Check this out for the full note:
-[WATcalendars WIKI]()
+**WATcalendars** to zautomatyzowane narzędzie stworzone dla studentów Wojskowej Akademii Technicznej. Ułatwia zarządzanie planem zajęć, konwertując oficjalne harmonogramy uczelni do nowoczesnego, cyfrowego formatu.
 
-Also check official website for importing schedules to your device:
-[Journey to WATcalendars site](https://watcalendars.byst.re)
+Oficjalny system planów zajęć często wymaga ręcznego sprawdzania i może być niewygodny na urządzeniach mobilnych. Ten projekt działa jako most między danymi uczelni a Twoim osobistym kalendarzem. Skrypt automatycznie pobiera najnowsze dane z witryn wydziałowych i generuje standardowy plik `.ics` (iCal).
+
+Pełne informacje znajdziesz w [Wiki WATcalendars](https://github.com/WATcalendars-Project/WATcalendars/wiki).
+
+Instrukcje importowania harmonogramu do urządzeń mobilnych dostępne są na [oficjalnej stronie](https://watcalendars.byst.re).
 
 <br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dominikx2002/watcalendars-assets/main/iphone_day.jpeg" 
-       alt="iOS Day View" 
+       alt="Widok dzienny iOS" 
        width="500" 
        height="800" 
        style="object-fit: cover; vertical-align: middle; display: inline-block; margin: 0 5px;">
   <img src="https://raw.githubusercontent.com/dominikx2002/watcalendars-assets/main/iphone-detailed-view.png" 
-       alt="iOS Detailed View" 
+       alt="Szczegółowy widok iOS" 
        width="350" 
        height="700" 
        style="object-fit: cover; vertical-align: middle; display: inline-block; margin: 0 5px;">
@@ -76,42 +79,25 @@ Also check official website for importing schedules to your device:
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=32CD32,228B22,006400&vCenter=true&width=435&height=25&lines=CONTACT" width="450"/>
 
 ---
-If you have any questions, suggestions, or want to report an issue, feel free to reach out:
 
-* **GitHub:** [Open an Issue](https://github.com/WATcalendars-Project/WATcalendars/issues) or start a [Discussion](https://github.com/WATcalendars-Project/WATcalendars/discussions)
+Masz pytania, sugestie lub chcesz zgłosić problem? Skontaktuj się z nami:
+
+* **GitHub:** [Otwórz Issue](https://github.com/WATcalendars-Project/WATcalendars/issues) lub rozpocznij [Dyskusję](https://github.com/WATcalendars-Project/WATcalendars/discussions)
 * **Email:** [serafin652002@gmail.com](mailto:serafin652002@gmail.com)
+
 <br>
-<br>
-<br>
+
 <a id="support"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=32CD32,228B22,006400&vCenter=true&width=435&height=25&lines=SUPPORT" width="450"/>
 
 ---
+
 <div align="center">
-
-
   <a href="https://www.buymeacoffee.com/dominikx2002" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
   </a>
-  
-<br></br>
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/dominikx2002)
+  <br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/dominikx2002)
+</div>
