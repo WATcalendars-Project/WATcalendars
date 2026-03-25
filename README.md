@@ -55,10 +55,23 @@ Check this out for the full note:
 Also check official website for importing schedules to your device:
 [Journey to WATcalendars site](https://watcalendars.byst.re)
 
-<img src="https://raw.githubusercontent.com/dominikx2002/watcalendars-assets/main/website/home/main_page.png">
 <br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dominikx2002/watcalendars-assets/main/iphone_day.jpeg" 
+       alt="iOS Day View" 
+       width="500" 
+       height="800" 
+       style="object-fit: cover; vertical-align: middle; display: inline-block; margin: 0 5px;">
+  <img src="https://raw.githubusercontent.com/dominikx2002/watcalendars-assets/main/iphone-detailed-view.png" 
+       alt="iOS Detailed View" 
+       width="350" 
+       height="700" 
+       style="object-fit: cover; vertical-align: middle; display: inline-block; margin: 0 5px;">
+</p>
+
 <br>
+
 <a id="contact"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=32CD32,228B22,006400&vCenter=true&width=435&height=25&lines=CONTACT" width="450"/>
 
