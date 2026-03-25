@@ -74,8 +74,6 @@ Instrukcje importowania harmonogramu do urządzeń mobilnych dostępne są na [o
 <a id="contact"></a>
 ## CONTACT
 
----
-
 Masz pytania, sugestie lub chcesz zgłosić problem? Skontaktuj się ze mną:
 
 * **GitHub:** [Otwórz Issue](https://github.com/WATcalendars-Project/WATcalendars/issues) lub rozpocznij [Dyskusję](https://github.com/WATcalendars-Project/WATcalendars/discussions)
@@ -85,8 +83,6 @@ Masz pytania, sugestie lub chcesz zgłosić problem? Skontaktuj się ze mną:
 
 <a id="support"></a>
 ## SUPPORT
-
----
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/dominikx2002" target="_blank">
