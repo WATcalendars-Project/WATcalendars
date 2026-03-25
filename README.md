@@ -63,14 +63,10 @@ Instrukcje importowania harmonogramu do urządzeń mobilnych dostępne są na [o
 <p align="center">
   <img src="https://raw.githubusercontent.com/dominikx2002/watcalendars-assets/main/iphone_day.jpeg" 
        alt="Widok dzienny iOS" 
-       width="500" 
-       height="800" 
-       style="object-fit: cover; vertical-align: middle; display: inline-block; margin: 0 5px;">
+       style="object-fit: cover; width: 500px; height: 800px; vertical-align: middle; display: inline-block; margin: 0 5px;">
   <img src="https://raw.githubusercontent.com/dominikx2002/watcalendars-assets/main/iphone-detailed-view.png" 
        alt="Szczegółowy widok iOS" 
-       width="350" 
-       height="700" 
-       style="object-fit: cover; vertical-align: middle; display: inline-block; margin: 0 5px;">
+       style="object-fit: cover; width: 350px; height: 700px; vertical-align: middle; display: inline-block; margin: 0 5px;">
 </p>
 
 <br>
