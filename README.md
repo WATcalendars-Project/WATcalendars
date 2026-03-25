@@ -76,7 +76,7 @@ Instrukcje importowania harmonogramu do urządzeń mobilnych dostępne są na [o
 
 ---
 
-Masz pytania, sugestie lub chcesz zgłosić problem? Skontaktuj się z nami:
+Masz pytania, sugestie lub chcesz zgłosić problem? Skontaktuj się ze mną:
 
 * **GitHub:** [Otwórz Issue](https://github.com/WATcalendars-Project/WATcalendars/issues) lub rozpocznij [Dyskusję](https://github.com/WATcalendars-Project/WATcalendars/discussions)
 * **Email:** [serafin652002@gmail.com](mailto:serafin652002@gmail.com)
@@ -93,7 +93,4 @@ Masz pytania, sugestie lub chcesz zgłosić problem? Skontaktuj się z nami:
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
   </a>
 
-  <br><br>
-
-  [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/dominikx2002)
 </div>
