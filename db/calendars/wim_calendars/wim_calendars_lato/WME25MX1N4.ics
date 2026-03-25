@@ -846,9 +846,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T165000Z
 DTEND:20250328T182500Z
-SUMMARY:Man. (ć)
-LOCATION:9/ 62
-DESCRIPTION:Mechanika analityczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
+SUMMARY:Abm (L)
+LOCATION:7/ 23a
+DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T155000Z
@@ -981,14 +981,7 @@ DTSTART:20250321T184000Z
 DTEND:20250321T201500Z
 SUMMARY:Man. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Mechanika analityczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250328T184000Z
-DTEND:20250328T201500Z
-SUMMARY:Abm (L)
-LOCATION:7/ 23a
-DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+DESCRIPTION:Mechanika analityczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T174000Z
@@ -1696,6 +1689,13 @@ DTEND:20250405T153500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 57/70
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250412T140000Z
+DTEND:20250412T153500Z
+SUMMARY:Man. (ć)
+LOCATION:9/ 62
+DESCRIPTION:Mechanika analityczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250419T140000Z
