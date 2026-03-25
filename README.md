@@ -72,7 +72,7 @@ Instrukcje importowania harmonogramu do urządzeń mobilnych dostępne są na [o
 <br>
 
 <a id="contact"></a>
-<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=32CD32,228B22,006400&vCenter=true&width=435&height=25&lines=CONTACT" width="450"/>
+## CONTACT
 
 ---
 
@@ -84,7 +84,7 @@ Masz pytania, sugestie lub chcesz zgłosić problem? Skontaktuj się z nami:
 <br>
 
 <a id="support"></a>
-<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=32CD32,228B22,006400&vCenter=true&width=435&height=25&lines=SUPPORT" width="450"/>
+## SUPPORT
 
 ---
 
