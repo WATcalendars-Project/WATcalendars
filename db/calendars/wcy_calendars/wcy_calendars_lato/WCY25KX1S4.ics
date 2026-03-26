@@ -22,14 +22,14 @@ DTSTART:20260303T104000Z
 DTEND:20260303T121500Z
 SUMMARY:WIT (w)
 LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T123000Z
 DTEND:20260303T140500Z
 SUMMARY:WIT (w)
 LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T070000Z
@@ -113,7 +113,7 @@ DTSTART:20260310T085000Z
 DTEND:20260310T102500Z
 SUMMARY:WIT (w)
 LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T104000Z
@@ -239,7 +239,7 @@ DTSTART:20260324T085000Z
 DTEND:20260324T102500Z
 SUMMARY:WIT (w)
 LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T104000Z
@@ -253,7 +253,7 @@ DTSTART:20260325T085000Z
 DTEND:20260325T102500Z
 SUMMARY:WIT (P)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 1/4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 1/6\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T104000Z
@@ -316,7 +316,7 @@ DTSTART:20260331T075000Z
 DTEND:20260331T092500Z
 SUMMARY:WIT (w)
 LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T094000Z
@@ -522,6 +522,13 @@ LOCATION:203 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260416T140000Z
+DTEND:20260416T153500Z
+SUMMARY:WIT (L)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260420T060000Z
 DTEND:20260420T073500Z
 SUMMARY:Stg (w)
@@ -562,6 +569,13 @@ DTEND:20260421T111500Z
 SUMMARY:Dtu (L)
 LOCATION:106 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T060000Z
+DTEND:20260422T073500Z
+SUMMARY:WIT (w)
+LOCATION:316 S
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T075000Z
@@ -708,7 +722,7 @@ DTSTART:20260505T075000Z
 DTEND:20260505T092500Z
 SUMMARY:WIT (P)
 LOCATION:218 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 2/4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 2/6\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T094000Z
@@ -729,14 +743,14 @@ DTSTART:20260505T140000Z
 DTEND:20260505T153500Z
 SUMMARY:WIT (L)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T155000Z
 DTEND:20260505T172500Z
 SUMMARY:WIT (L)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T075000Z
@@ -781,6 +795,13 @@ LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260512T060000Z
+DTEND:20260512T073500Z
+SUMMARY:WIT (w)
+LOCATION:316 S
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260513T075000Z
 DTEND:20260513T092500Z
 SUMMARY:Tal (L)
@@ -799,14 +820,14 @@ DTSTART:20260513T113000Z
 DTEND:20260513T130500Z
 SUMMARY:WIT (P)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 3/4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 3/6\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T140000Z
 DTEND:20260513T153500Z
 SUMMARY:WIT (P)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 4/4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 4/6\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T060000Z
@@ -925,14 +946,14 @@ DTSTART:20260526T140000Z
 DTEND:20260526T153500Z
 SUMMARY:WIT (L)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T155000Z
 DTEND:20260526T172500Z
 SUMMARY:WIT (L)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T094000Z
@@ -968,6 +989,20 @@ DTEND:20260528T130500Z
 SUMMARY:Ps (ć)
 LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T140000Z
+DTEND:20260528T153500Z
+SUMMARY:WIT (P)
+LOCATION:120 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 5/6\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T155000Z
+DTEND:20260528T172500Z
+SUMMARY:WIT (P)
+LOCATION:120 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 6/6\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T094000Z
@@ -1058,14 +1093,14 @@ DTSTART:20260609T140000Z
 DTEND:20260609T153500Z
 SUMMARY:WIT (L)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T155000Z
 DTEND:20260609T172500Z
 SUMMARY:WIT (L)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T094000Z

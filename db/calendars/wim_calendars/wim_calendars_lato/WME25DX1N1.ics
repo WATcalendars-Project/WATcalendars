@@ -475,9 +475,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T094000Z
 DTEND:20250627T111500Z
-SUMMARY:F1 (L)
-LOCATION:
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5
+SUMMARY:OgRP (ć)
+LOCATION:6/ 23a
+DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T094000Z
@@ -615,9 +615,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T113000Z
 DTEND:20250627T130500Z
-SUMMARY:F1 (L)
-LOCATION:
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5
+SUMMARY:OgRP (ć)
+LOCATION:6/ 23a
+DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T113000Z
@@ -876,14 +876,14 @@ DTSTART:20250613T155000Z
 DTEND:20250613T172500Z
 SUMMARY:OgRP (ć)
 LOCATION:6/ 23a
-DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250627T155000Z
-DTEND:20250627T172500Z
-SUMMARY:OgRP (ć)
-LOCATION:6/ 23a
-DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Ziubiński Mateusz
+DTSTART:20250620T155000Z
+DTEND:20250620T172500Z
+SUMMARY:T* (w)
+LOCATION:5/ 20
+DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T155000Z
@@ -965,9 +965,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T174000Z
 DTEND:20250509T191500Z
-SUMMARY:T* (w)
-LOCATION:1/ 21
-DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Woźniak Adam
+SUMMARY:F1 (L)
+LOCATION:
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T174000Z
@@ -1000,13 +1000,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T174000Z
 DTEND:20250613T191500Z
-SUMMARY:OgRP (ć)
-LOCATION:6/ 23a
-DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Ziubiński Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250627T174000Z
-DTEND:20250627T191500Z
 SUMMARY:OgRP (ć)
 LOCATION:6/ 23a
 DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Ziubiński Mateusz
@@ -1072,7 +1065,7 @@ DTSTART:20250412T060000Z
 DTEND:20250412T073500Z
 SUMMARY:F1 (L)
 LOCATION:
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250419T060000Z
@@ -1205,7 +1198,7 @@ DTSTART:20250412T075000Z
 DTEND:20250412T092500Z
 SUMMARY:F1 (L)
 LOCATION:
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250419T075000Z
@@ -1245,9 +1238,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250531T075000Z
 DTEND:20250531T092500Z
-SUMMARY:PbTSL (S)
-LOCATION:2/ 68
-DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr inż. Chojnowski Janusz
+SUMMARY:F1 (L)
+LOCATION:
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T075000Z
@@ -1563,6 +1556,13 @@ DTEND:20250524T153500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 59/70
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250531T140000Z
+DTEND:20250531T153500Z
+SUMMARY:PbTSL (S)
+LOCATION:2/ 68
+DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T140000Z

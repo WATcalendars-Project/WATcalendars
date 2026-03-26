@@ -403,6 +403,20 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 8/56
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250428T060000Z
+DTEND:20250428T073500Z
+SUMMARY:Mno (ć)
+LOCATION:6/ 62
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250512T060000Z
+DTEND:20250512T073500Z
+SUMMARY:Mno (ć)
+LOCATION:6/ 62
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250526T060000Z
 DTEND:20250526T073500Z
 SUMMARY:WeM (L)
@@ -450,6 +464,20 @@ DTEND:20250407T092500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 9/56
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T075000Z
+DTEND:20250428T092500Z
+SUMMARY:Mno (ć)
+LOCATION:6/ 62
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250512T075000Z
+DTEND:20250512T092500Z
+SUMMARY:Mno (ć)
+LOCATION:6/ 62
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T075000Z
@@ -513,6 +541,20 @@ DTEND:20250407T111500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 10/56
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T094000Z
+DTEND:20250428T111500Z
+SUMMARY:Mno (L)
+LOCATION:6/ 62
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250512T094000Z
+DTEND:20250512T111500Z
+SUMMARY:Mno (L)
+LOCATION:6/ 62
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T094000Z
@@ -583,6 +625,20 @@ DTEND:20250407T130500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 11/56
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T113000Z
+DTEND:20250428T130500Z
+SUMMARY:Mno (L)
+LOCATION:6/ 62
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250512T113000Z
+DTEND:20250512T130500Z
+SUMMARY:Mno (L)
+LOCATION:6/ 62
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T113000Z
@@ -967,7 +1023,7 @@ DTSTART:20250312T104000Z
 DTEND:20250312T121500Z
 SUMMARY:Mno (ć)
 LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T104000Z
@@ -1065,7 +1121,7 @@ DTSTART:20250312T123000Z
 DTEND:20250312T140500Z
 SUMMARY:Mno (ć)
 LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T123000Z
@@ -1128,7 +1184,7 @@ DTSTART:20250521T113000Z
 DTEND:20250521T130500Z
 SUMMARY:Mno (L)
 LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T113000Z
@@ -1149,7 +1205,7 @@ DTSTART:20250611T113000Z
 DTEND:20250611T130500Z
 SUMMARY:Mno (L)
 LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250702T113000Z
@@ -1173,32 +1229,11 @@ LOCATION:53/ 62
 DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 17/20
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250326T150000Z
-DTEND:20250326T163500Z
-SUMMARY:Mno (L)
-LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250402T140000Z
 DTEND:20250402T153500Z
 SUMMARY:C-AE (L)
 LOCATION:53/ 62
 DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 18/20
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250409T140000Z
-DTEND:20250409T153500Z
-SUMMARY:Mno (ć)
-LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250416T140000Z
-DTEND:20250416T153500Z
-SUMMARY:Mno (L)
-LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T140000Z
@@ -1208,18 +1243,11 @@ LOCATION:53/ 62
 DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 19/20
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T140000Z
-DTEND:20250430T153500Z
-SUMMARY:Mno (ć)
-LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250507T140000Z
 DTEND:20250507T153500Z
 SUMMARY:Mno (L)
 LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T140000Z
@@ -1233,7 +1261,7 @@ DTSTART:20250521T140000Z
 DTEND:20250521T153500Z
 SUMMARY:Mno (L)
 LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T140000Z
@@ -1254,7 +1282,7 @@ DTSTART:20250611T140000Z
 DTEND:20250611T153500Z
 SUMMARY:Mno (L)
 LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T140000Z
@@ -1269,34 +1297,6 @@ DTEND:20250312T182500Z
 SUMMARY:Pwm (L)
 LOCATION:53/ 62
 DESCRIPTION:Podstawy walidacji modeli numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250326T165000Z
-DTEND:20250326T182500Z
-SUMMARY:Mno (L)
-LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250409T155000Z
-DTEND:20250409T172500Z
-SUMMARY:Mno (ć)
-LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250416T155000Z
-DTEND:20250416T172500Z
-SUMMARY:Mno (L)
-LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250430T155000Z
-DTEND:20250430T172500Z
-SUMMARY:Mno (ć)
-LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T155000Z

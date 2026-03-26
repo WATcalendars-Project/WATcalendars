@@ -333,11 +333,18 @@ LOCATION:
 DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/15\nProwadzący: dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260331T094000Z
+DTEND:20260331T111500Z
+SUMMARY:Adwl (L)
+LOCATION:
+DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/15\nProwadzący: dr Kurkowiak Justyna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260505T094000Z
 DTEND:20260505T111500Z
 SUMMARY:Adwl (L)
 LOCATION:
-DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/15\nProwadzący: dr Kurkowiak Justyna
+DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/15\nProwadzący: dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T094000Z
@@ -351,7 +358,7 @@ DTSTART:20260310T123000Z
 DTEND:20260310T140500Z
 SUMMARY:Adwl (L)
 LOCATION:
-DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/15\nProwadzący: dr Kurkowiak Justyna
+DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/15\nProwadzący: dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T113000Z
@@ -365,7 +372,7 @@ DTSTART:20260421T113000Z
 DTEND:20260421T130500Z
 SUMMARY:Adwl (L)
 LOCATION:
-DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/15\nProwadzący: dr Kurkowiak Justyna
+DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/15\nProwadzący: dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T113000Z
@@ -412,13 +419,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T140000Z
 DTEND:20260421T153500Z
-SUMMARY:Adwl (L)
-LOCATION:
-DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/15\nProwadzący: dr Kurkowiak Justyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260428T140000Z
-DTEND:20260428T153500Z
 SUMMARY:Adwl (L)
 LOCATION:
 DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/15\nProwadzący: dr Kurkowiak Justyna
@@ -487,13 +487,6 @@ LOCATION:0.19/135
 DESCRIPTION:Inżynieria systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: prof. dr. hab. inż. Brzeziński Marian
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260506T060000Z
-DTEND:20260506T073500Z
-SUMMARY:Adwl (L)
-LOCATION:
-DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/15\nProwadzący: dr Kurkowiak Justyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260304T085000Z
 DTEND:20260304T102500Z
 SUMMARY:Isl (w)
@@ -515,11 +508,11 @@ LOCATION:A.1.3/135
 DESCRIPTION:Ekonomika eksploatacji urządzeń technicznych w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260506T075000Z
-DTEND:20260506T092500Z
+DTSTART:20260408T075000Z
+DTEND:20260408T092500Z
 SUMMARY:Adwl (L)
 LOCATION:
-DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/15\nProwadzący: dr Kurkowiak Justyna
+DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/15\nProwadzący: dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T075000Z
@@ -534,6 +527,13 @@ DTEND:20260304T121500Z
 SUMMARY:Isl (w)
 LOCATION:5.21/135
 DESCRIPTION:Inżynieria systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/12\nProwadzący: prof. dr. hab. inż. Brzeziński Marian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T094000Z
+DTEND:20260408T111500Z
+SUMMARY:Adwl (L)
+LOCATION:
+DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/15\nProwadzący: dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T094000Z
