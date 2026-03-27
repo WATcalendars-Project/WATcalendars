@@ -137,6 +137,13 @@ LOCATION:
 DESCRIPTION:Pomiary i analiza biosygnałów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250427T075000Z
+DTEND:20250427T092500Z
+SUMMARY:TC (w)
+LOCATION:
+DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250511T075000Z
 DTEND:20250511T092500Z
 SUMMARY:Eam (L)
@@ -841,21 +848,21 @@ DTSTART:20250408T075000Z
 DTEND:20250408T092500Z
 SUMMARY:TC (w)
 LOCATION:
-DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Dąbal Paweł
+DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Dąbal Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T075000Z
 DTEND:20250415T092500Z
 SUMMARY:TC (w)
 LOCATION:
-DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Dąbal Paweł
+DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Dąbal Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250422T075000Z
 DTEND:20250422T092500Z
 SUMMARY:TC (w)
 LOCATION:
-DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Dąbal Paweł
+DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Dąbal Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T075000Z
@@ -1247,25 +1254,18 @@ DTSTART:20250312T104000Z
 DTEND:20250312T121500Z
 SUMMARY:TC (w)
 LOCATION:
-DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7
+DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T104000Z
 DTEND:20250319T121500Z
 SUMMARY:TC (w)
 LOCATION:
-DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7
+DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T104000Z
 DTEND:20250326T121500Z
-SUMMARY:TC (w)
-LOCATION:
-DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250402T094000Z
-DTEND:20250402T111500Z
 SUMMARY:TC (w)
 LOCATION:
 DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7
@@ -1379,7 +1379,7 @@ BEGIN:VEVENT
 DTSTART:20250327T070000Z
 DTEND:20250327T083500Z
 SUMMARY:SiKDP (i)
-LOCATION:51/ 62
+LOCATION:
 DESCRIPTION:Spotkanie informacyjne z kierownikiem Dziekanatu - praktyki\nRodzaj zajęć: (i)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Kossowski Robert
 END:VEVENT
 BEGIN:VEVENT

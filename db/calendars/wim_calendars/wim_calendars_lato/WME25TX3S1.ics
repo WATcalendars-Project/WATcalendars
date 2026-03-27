@@ -410,13 +410,6 @@ LOCATION:15/ 23a
 DESCRIPTION:Spotkanie z opiekunem rocznika\nRodzaj zajęć: (i)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Gajda Olga
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250330T140000Z
-DTEND:20250330T153500Z
-SUMMARY:Met (ć)
-LOCATION:3/ 23a
-DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250406T140000Z
 DTEND:20250406T153500Z
 SUMMARY:I 
@@ -863,6 +856,13 @@ DTEND:20250325T083500Z
 SUMMARY:Sta (w)
 LOCATION:01/ 54A
 DESCRIPTION:Statystyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. (prof. ucz.) Orłowski Arkadiusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250401T060000Z
+DTEND:20250401T073500Z
+SUMMARY:Met (ć)
+LOCATION:3/ 23a
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250422T060000Z

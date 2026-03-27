@@ -389,18 +389,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 5/56
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250518T140000Z
-DTEND:20250518T153500Z
-SUMMARY:Utd (ć)
-LOCATION:1/ 21
-DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250608T140000Z
 DTEND:20250608T153500Z
 SUMMARY:Utd (ć)
 LOCATION:1/ 19
-DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
+DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T155000Z
@@ -743,7 +736,7 @@ DTSTART:20250602T113000Z
 DTEND:20250602T130500Z
 SUMMARY:Utd (ć)
 LOCATION:1/ 19
-DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
+DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T113000Z
@@ -897,7 +890,7 @@ DTSTART:20250617T060000Z
 DTEND:20250617T073500Z
 SUMMARY:Utd (ć)
 LOCATION:1/ 19
-DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
+DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T085000Z
@@ -1100,7 +1093,7 @@ DTSTART:20250520T113000Z
 DTEND:20250520T130500Z
 SUMMARY:Utd (ć)
 LOCATION:1/ 19
-DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
+DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T113000Z
@@ -1226,7 +1219,7 @@ DTSTART:20250326T070000Z
 DTEND:20250326T083500Z
 SUMMARY:Utd (ć)
 LOCATION:1/ 19
-DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9
+DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T060000Z
@@ -1241,6 +1234,13 @@ DTEND:20250409T073500Z
 SUMMARY:Utd (w)
 LOCATION:42/ 20
 DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 13/13\nProwadzący: mgr inż. Wójcik Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T060000Z
+DTEND:20250514T073500Z
+SUMMARY:Utd (ć)
+LOCATION:1/ 19
+DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T060000Z
@@ -1481,6 +1481,13 @@ LOCATION:1/ 19
 DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Wykład\nNumer zajęć: 18/18\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250409T113000Z
+DTEND:20250409T130500Z
+SUMMARY:LM. (w)
+LOCATION:51/ 62
+DESCRIPTION:Logistics management\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: płk dr inż. Goliasz Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250416T113000Z
 DTEND:20250416T130500Z
 SUMMARY:Zzk (L)
@@ -1528,13 +1535,6 @@ DTEND:20250604T130500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 18/56
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250402T140000Z
-DTEND:20250402T153500Z
-SUMMARY:LM. (w)
-LOCATION:51/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T140000Z
@@ -1603,7 +1603,7 @@ BEGIN:VEVENT
 DTSTART:20250327T070000Z
 DTEND:20250327T083500Z
 SUMMARY:SiKDP (i)
-LOCATION:51/ 62
+LOCATION:
 DESCRIPTION:Spotkanie informacyjne z kierownikiem Dziekanatu - praktyki\nRodzaj zajęć: (i)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Kossowski Robert
 END:VEVENT
 BEGIN:VEVENT

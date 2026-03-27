@@ -1453,6 +1453,13 @@ LOCATION:1/ 19
 DESCRIPTION:Ekologistyka\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Kałdoński Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250409T113000Z
+DTEND:20250409T130500Z
+SUMMARY:LM. (w)
+LOCATION:51/ 62
+DESCRIPTION:Logistics management\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: płk dr inż. Goliasz Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250416T113000Z
 DTEND:20250416T130500Z
 SUMMARY:UrM (ć)
@@ -1493,13 +1500,6 @@ DTEND:20250611T130500Z
 SUMMARY:SMag (S)
 LOCATION:116/ 54
 DESCRIPTION:Systemy magazynowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr inż. Głodowska Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250402T140000Z
-DTEND:20250402T153500Z
-SUMMARY:LM. (w)
-LOCATION:51/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T140000Z
@@ -1547,7 +1547,7 @@ BEGIN:VEVENT
 DTSTART:20250327T070000Z
 DTEND:20250327T083500Z
 SUMMARY:SiKDP (i)
-LOCATION:51/ 62
+LOCATION:
 DESCRIPTION:Spotkanie informacyjne z kierownikiem Dziekanatu - praktyki\nRodzaj zajęć: (i)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Kossowski Robert
 END:VEVENT
 BEGIN:VEVENT
