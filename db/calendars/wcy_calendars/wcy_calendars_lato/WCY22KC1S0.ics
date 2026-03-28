@@ -5352,13 +5352,6 @@ LOCATION:106 65
 DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260421T075000Z
-DTEND:20260421T092500Z
-SUMMARY:IRz (w)
-LOCATION:203 65
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260421T094000Z
 DTEND:20260421T111500Z
 SUMMARY:Pwst (L)
@@ -5468,7 +5461,7 @@ DTSTART:20260428T075000Z
 DTEND:20260428T092500Z
 SUMMARY:IRz (w)
 LOCATION:203 65
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T094000Z
@@ -5608,7 +5601,7 @@ DTSTART:20260505T075000Z
 DTEND:20260505T092500Z
 SUMMARY:IRz (w)
 LOCATION:203 65
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T094000Z
@@ -6239,6 +6232,13 @@ DTEND:20260601T073500Z
 SUMMARY:Ja (ć)
 LOCATION:128 K 127 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 86/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T075000Z
+DTEND:20260601T092500Z
+SUMMARY:IRz (w)
+LOCATION:313 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T113000Z

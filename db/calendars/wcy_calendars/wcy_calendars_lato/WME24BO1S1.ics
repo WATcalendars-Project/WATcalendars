@@ -676,13 +676,6 @@ LOCATION:233 S
 DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260401T075000Z
-DTEND:20260401T092500Z
-SUMMARY:PTer. (w)
-LOCATION:27 70
-DESCRIPTION:Podstawy termowizji - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260401T094000Z
 DTEND:20260401T111500Z
 SUMMARY:Gśr.PSP (w)
@@ -1002,7 +995,7 @@ DTSTART:20260408T094000Z
 DTEND:20260408T111500Z
 SUMMARY:PTer. (w)
 LOCATION:27 70
-DESCRIPTION:Podstawy termowizji - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+DESCRIPTION:Podstawy termowizji - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T113000Z
@@ -1544,20 +1537,6 @@ LOCATION:233 S
 DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260430T140000Z
-DTEND:20260430T153500Z
-SUMMARY:PTer. (L)
-LOCATION:006 144
-DESCRIPTION:Podstawy termowizji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T155000Z
-DTEND:20260430T172500Z
-SUMMARY:PTer. (L)
-LOCATION:006 144
-DESCRIPTION:Podstawy termowizji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260501T060000Z
 DTEND:20260501T073500Z
 SUMMARY:- (Inne)
@@ -1640,6 +1619,27 @@ DTEND:20260504T172500Z
 SUMMARY:JoM (ć)
 LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T060000Z
+DTEND:20260505T073500Z
+SUMMARY:PTer. (L)
+LOCATION:006 144
+DESCRIPTION:Podstawy termowizji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T075000Z
+DTEND:20260505T092500Z
+SUMMARY:PTer. (L)
+LOCATION:006 144
+DESCRIPTION:Podstawy termowizji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T094000Z
+DTEND:20260505T111500Z
+SUMMARY:PTer. (w)
+LOCATION:215 144
+DESCRIPTION:Podstawy termowizji - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T113000Z

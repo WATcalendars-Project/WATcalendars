@@ -942,6 +942,13 @@ LOCATION:116/ 54
 DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 12/15\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250415T075000Z
+DTEND:20250415T092500Z
+SUMMARY:Rkom (ć)
+LOCATION:37/ 54A
+DESCRIPTION:Rozwiązania konstrukcyjne i obciążenia maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250422T075000Z
 DTEND:20250422T092500Z
 SUMMARY:PPr (P)
@@ -1301,9 +1308,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T075000Z
 DTEND:20250416T092500Z
-SUMMARY:Rkom (w)
+SUMMARY:Rkom (ć)
 LOCATION:42/ 54A
-DESCRIPTION:Rozwiązania konstrukcyjne i obciążenia maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Spadło Kacper
+DESCRIPTION:Rozwiązania konstrukcyjne i obciążenia maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T075000Z
@@ -1338,7 +1345,7 @@ DTSTART:20250521T075000Z
 DTEND:20250521T092500Z
 SUMMARY:Rkom (ć)
 LOCATION:120/ 54
-DESCRIPTION:Rozwiązania konstrukcyjne i obciążenia maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6
+DESCRIPTION:Rozwiązania konstrukcyjne i obciążenia maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T075000Z
@@ -1378,16 +1385,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T094000Z
 DTEND:20250402T111500Z
-SUMMARY:Rkom (ć)
-LOCATION:42/ 54A
-DESCRIPTION:Rozwiązania konstrukcyjne i obciążenia maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6
+SUMMARY:Sze. (w)
+LOCATION:09/ 54A
+DESCRIPTION:Systemy zarządzania eksploatacją\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T094000Z
 DTEND:20250409T111500Z
-SUMMARY:Rkom (ć)
+SUMMARY:Rkom (w)
 LOCATION:42/ 54A
-DESCRIPTION:Rozwiązania konstrukcyjne i obciążenia maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6
+DESCRIPTION:Rozwiązania konstrukcyjne i obciążenia maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Spadło Kacper
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T094000Z
@@ -1422,7 +1429,7 @@ DTSTART:20250514T094000Z
 DTEND:20250514T111500Z
 SUMMARY:Sze. (w)
 LOCATION:120/ 54
-DESCRIPTION:Systemy zarządzania eksploatacją\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. Muszyński Tomasz
+DESCRIPTION:Systemy zarządzania eksploatacją\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T094000Z
@@ -1458,13 +1465,6 @@ DTEND:20250326T140500Z
 SUMMARY:Uh (w)
 LOCATION:09/ 54A
 DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. Krogul Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250402T113000Z
-DTEND:20250402T130500Z
-SUMMARY:Sze. (w)
-LOCATION:120/ 54
-DESCRIPTION:Systemy zarządzania eksploatacją\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T113000Z
