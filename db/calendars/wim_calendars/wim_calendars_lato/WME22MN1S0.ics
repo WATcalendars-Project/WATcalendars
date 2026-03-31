@@ -798,7 +798,7 @@ BEGIN:VEVENT
 DTSTART:20250421T075000Z
 DTEND:20250421T092500Z
 SUMMARY:NSiU (ć)
-LOCATION:42/ 20
+LOCATION:3/ 19
 DESCRIPTION:Naprawa sprzętu i urządzeń mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
@@ -910,7 +910,7 @@ BEGIN:VEVENT
 DTSTART:20250421T094000Z
 DTEND:20250421T111500Z
 SUMMARY:NSiU (ć)
-LOCATION:42/ 20
+LOCATION:3/ 19
 DESCRIPTION:Naprawa sprzętu i urządzeń mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
@@ -1019,11 +1019,18 @@ LOCATION:
 DESCRIPTION:Naprawa sprzętu i urządzeń mps\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250421T113000Z
+DTEND:20250421T130500Z
+SUMMARY:NSiU (ć)
+LOCATION:3/ 19
+DESCRIPTION:Naprawa sprzętu i urządzeń mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: mgr inż. Szpak Roman
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250428T113000Z
 DTEND:20250428T130500Z
 SUMMARY:NSiU (ć)
 LOCATION:55/ 62
-DESCRIPTION:Naprawa sprzętu i urządzeń mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: mgr inż. Szpak Roman
+DESCRIPTION:Naprawa sprzętu i urządzeń mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T113000Z
@@ -1079,7 +1086,14 @@ DTSTART:20250414T140000Z
 DTEND:20250414T153500Z
 SUMMARY:REZ 
 LOCATION:
-DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 1/3
+DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 1/5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250421T140000Z
+DTEND:20250421T153500Z
+SUMMARY:NSiU (ć)
+LOCATION:3/ 19
+DESCRIPTION:Naprawa sprzętu i urządzeń mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T140000Z
@@ -1121,7 +1135,7 @@ DTSTART:20250414T155000Z
 DTEND:20250414T172500Z
 SUMMARY:REZ 
 LOCATION:
-DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 2/3
+DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T155000Z
@@ -1163,7 +1177,7 @@ DTSTART:20250414T174000Z
 DTEND:20250414T191500Z
 SUMMARY:REZ 
 LOCATION:
-DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 3/3
+DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T174000Z
@@ -1231,9 +1245,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T060000Z
 DTEND:20250415T073500Z
-SUMMARY:OśGMPS (ć)
-LOCATION:2/ 68
-DESCRIPTION:Ochrona środowiska w gospodarce MPS\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: mgr inż. Szpak Roman
+SUMMARY:REZ 
+LOCATION:
+DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250422T060000Z
@@ -1364,9 +1378,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T075000Z
 DTEND:20250415T092500Z
-SUMMARY:OśGMPS (ć)
-LOCATION:2/ 68
-DESCRIPTION:Ochrona środowiska w gospodarce MPS\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: mgr inż. Szpak Roman
+SUMMARY:REZ 
+LOCATION:
+DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250422T075000Z
@@ -1614,13 +1628,6 @@ LOCATION:
 DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250401T113000Z
-DTEND:20250401T130500Z
-SUMMARY:Dn (w)
-LOCATION:
-DESCRIPTION:Działania niekinetyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Woźniak Robert
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250408T113000Z
 DTEND:20250408T130500Z
 SUMMARY:DWiPD (w)
@@ -1632,14 +1639,21 @@ DTSTART:20250415T113000Z
 DTEND:20250415T130500Z
 SUMMARY:Dn (w)
 LOCATION:
-DESCRIPTION:Działania niekinetyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Woźniak Robert
+DESCRIPTION:Działania niekinetyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250422T113000Z
 DTEND:20250422T130500Z
 SUMMARY:Dn (w)
 LOCATION:
-DESCRIPTION:Działania niekinetyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Woźniak Robert
+DESCRIPTION:Działania niekinetyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: dr inż. Woźniak Robert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250429T113000Z
+DTEND:20250429T130500Z
+SUMMARY:OśGMPS (ć)
+LOCATION:3/ 19
+DESCRIPTION:Ochrona środowiska w gospodarce MPS\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T113000Z
@@ -1831,6 +1845,13 @@ LOCATION:
 DESCRIPTION:Psł.\nRodzaj zajęć: -\nNumer zajęć: 10/11
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250506T155000Z
+DTEND:20250506T172500Z
+SUMMARY:Dn (w)
+LOCATION:
+DESCRIPTION:Działania niekinetyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Woźniak Robert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250916T155000Z
 DTEND:20250916T172500Z
 SUMMARY:Pdp 
@@ -1913,6 +1934,13 @@ DTEND:20250409T073500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/30\nProwadzący: mgr Kępniak Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T060000Z
+DTEND:20250416T073500Z
+SUMMARY:Egz. 
+LOCATION:
+DESCRIPTION:Egz.\nRodzaj zajęć: -\nNumer zajęć: 1/1\nProwadzący: dr Skulska Joanna; dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T060000Z
@@ -2031,7 +2059,7 @@ DTSTART:20250430T075000Z
 DTEND:20250430T092500Z
 SUMMARY:NSiU (ć)
 LOCATION:1/ 21
-DESCRIPTION:Naprawa sprzętu i urządzeń mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12\nProwadzący: mgr inż. Szpak Roman
+DESCRIPTION:Naprawa sprzętu i urządzeń mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T075000Z
@@ -2143,7 +2171,7 @@ DTSTART:20250430T094000Z
 DTEND:20250430T111500Z
 SUMMARY:NSiU (ć)
 LOCATION:1/ 21
-DESCRIPTION:Naprawa sprzętu i urządzeń mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: mgr inż. Szpak Roman
+DESCRIPTION:Naprawa sprzętu i urządzeń mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T094000Z
@@ -2234,14 +2262,14 @@ DTSTART:20250409T113000Z
 DTEND:20250409T130500Z
 SUMMARY:OśGMPS (ć)
 LOCATION:1/ 19
-DESCRIPTION:Ochrona środowiska w gospodarce MPS\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: mgr inż. Szpak Roman
+DESCRIPTION:Ochrona środowiska w gospodarce MPS\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250423T113000Z
-DTEND:20250423T130500Z
-SUMMARY:NSiU (ć)
-LOCATION:42/ 20
-DESCRIPTION:Naprawa sprzętu i urządzeń mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: mgr inż. Szpak Roman
+DTSTART:20250430T113000Z
+DTEND:20250430T130500Z
+SUMMARY:OśGMPS (ć)
+LOCATION:3/ 19
+DESCRIPTION:Ochrona środowiska w gospodarce MPS\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T113000Z
@@ -2305,13 +2333,6 @@ DTEND:20250416T153500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 29/30\nProwadzący: mgr Kępniak Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250423T140000Z
-DTEND:20250423T153500Z
-SUMMARY:NSiU (ć)
-LOCATION:42/ 20
-DESCRIPTION:Naprawa sprzętu i urządzeń mps\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T140000Z

@@ -739,6 +739,13 @@ LOCATION:52/ 62
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250513T060000Z
+DTEND:20250513T073500Z
+SUMMARY:WeM (L)
+LOCATION:7/ 34a
+DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250520T060000Z
 DTEND:20250520T073500Z
 SUMMARY:REZ 
@@ -800,6 +807,13 @@ DTEND:20250429T092500Z
 SUMMARY:Kszm 
 LOCATION:6/ 62
 DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 34/42\nProwadzący: dr inż. Wieczorek Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T075000Z
+DTEND:20250513T092500Z
+SUMMARY:WeM (L)
+LOCATION:7/ 34a
+DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T075000Z
@@ -893,6 +907,13 @@ LOCATION:6/ 62
 DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 37/42\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250506T113000Z
+DTEND:20250506T130500Z
+SUMMARY:C-AE (L)
+LOCATION:53/ 62
+DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/20
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250520T113000Z
 DTEND:20250520T130500Z
 SUMMARY:Pwm (L)
@@ -904,7 +925,14 @@ DTSTART:20250325T150000Z
 DTEND:20250325T163500Z
 SUMMARY:C-AE (L)
 LOCATION:53/ 62
-DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/20
+DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250506T140000Z
+DTEND:20250506T153500Z
+SUMMARY:C-AE (L)
+LOCATION:53/ 62
+DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T140000Z
@@ -919,6 +947,13 @@ DTEND:20250624T153500Z
 SUMMARY:Pwm (Zp/lab.)
 LOCATION:53/ 62
 DESCRIPTION:Podstawy walidacji modeli numerycznych\nRodzaj zajęć: (Zp/lab.)\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250506T155000Z
+DTEND:20250506T172500Z
+SUMMARY:C-AE (L)
+LOCATION:53/ 62
+DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T155000Z
@@ -1009,7 +1044,7 @@ DTSTART:20250528T075000Z
 DTEND:20250528T092500Z
 SUMMARY:C-AE (L)
 LOCATION:53/ 62
-DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/20
+DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T075000Z
@@ -1023,7 +1058,7 @@ DTSTART:20250611T075000Z
 DTEND:20250611T092500Z
 SUMMARY:C-AE (L)
 LOCATION:53/ 62
-DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/20
+DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T104000Z
@@ -1037,28 +1072,14 @@ DTSTART:20250319T104000Z
 DTEND:20250319T121500Z
 SUMMARY:C-AE (L)
 LOCATION:53/ 62
-DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/20
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250402T094000Z
-DTEND:20250402T111500Z
-SUMMARY:C-AE (L)
-LOCATION:53/ 62
-DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/20
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250409T094000Z
-DTEND:20250409T111500Z
-SUMMARY:WeM (L)
-LOCATION:7/ 34a
-DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8
+DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T094000Z
 DTEND:20250423T111500Z
 SUMMARY:C-AE (L)
 LOCATION:53/ 62
-DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/20
+DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T094000Z
@@ -1072,14 +1093,14 @@ DTSTART:20250507T094000Z
 DTEND:20250507T111500Z
 SUMMARY:WeM (L)
 LOCATION:7/ 34a
-DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8
+DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T094000Z
 DTEND:20250514T111500Z
 SUMMARY:C-AE (L)
 LOCATION:53/ 62
-DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/20
+DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T094000Z
@@ -1093,7 +1114,7 @@ DTSTART:20250528T094000Z
 DTEND:20250528T111500Z
 SUMMARY:C-AE (L)
 LOCATION:53/ 62
-DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/20
+DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T094000Z
@@ -1107,7 +1128,7 @@ DTSTART:20250611T094000Z
 DTEND:20250611T111500Z
 SUMMARY:C-AE (L)
 LOCATION:53/ 62
-DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/20
+DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T094000Z
@@ -1135,21 +1156,7 @@ DTSTART:20250319T123000Z
 DTEND:20250319T140500Z
 SUMMARY:C-AE (L)
 LOCATION:53/ 62
-DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/20
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250402T113000Z
-DTEND:20250402T130500Z
-SUMMARY:C-AE (L)
-LOCATION:53/ 62
-DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/20
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250409T113000Z
-DTEND:20250409T130500Z
-SUMMARY:WeM (L)
-LOCATION:7/ 34a
-DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8
+DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T113000Z
@@ -1163,7 +1170,7 @@ DTSTART:20250423T113000Z
 DTEND:20250423T130500Z
 SUMMARY:C-AE (L)
 LOCATION:53/ 62
-DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/20
+DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T113000Z
@@ -1184,7 +1191,7 @@ DTSTART:20250514T113000Z
 DTEND:20250514T130500Z
 SUMMARY:C-AE (L)
 LOCATION:53/ 62
-DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/20
+DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T113000Z
@@ -1198,7 +1205,7 @@ DTSTART:20250528T113000Z
 DTEND:20250528T130500Z
 SUMMARY:C-AE (L)
 LOCATION:53/ 62
-DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/20
+DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 17/20
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T113000Z
@@ -1231,13 +1238,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T150000Z
 DTEND:20250319T163500Z
-SUMMARY:C-AE (L)
-LOCATION:53/ 62
-DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 17/20
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250402T140000Z
-DTEND:20250402T153500Z
 SUMMARY:C-AE (L)
 LOCATION:53/ 62
 DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 18/20

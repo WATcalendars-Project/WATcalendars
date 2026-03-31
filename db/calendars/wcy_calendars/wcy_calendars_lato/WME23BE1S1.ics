@@ -7349,9 +7349,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T075000Z
 DTEND:20260330T092500Z
-SUMMARY:Sze (w)
+SUMMARY:PRo (w)
 LOCATION:315a S
-DESCRIPTION:Systemy zapewnienia energii - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T094000Z
@@ -7375,18 +7375,11 @@ LOCATION:30a 54E
 DESCRIPTION:Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260401T060000Z
-DTEND:20260401T073500Z
-SUMMARY:PrSt (w)
-LOCATION:27 61
-DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260401T075000Z
 DTEND:20260401T092500Z
-SUMMARY:PRo (w)
+SUMMARY:Sze (w)
 LOCATION:315b S
-DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
+DESCRIPTION:Systemy zapewnienia energii - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T094000Z
@@ -7400,7 +7393,7 @@ DTSTART:20260402T060000Z
 DTEND:20260402T073500Z
 SUMMARY:PrSt (w)
 LOCATION:119 45
-DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
+DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T075000Z
@@ -7408,6 +7401,13 @@ DTEND:20260402T092500Z
 SUMMARY:SsO (w)
 LOCATION:116 45
 DESCRIPTION:Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T094000Z
+DTEND:20260402T111500Z
+SUMMARY:PrSt (w)
+LOCATION:117 45
+DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T113000Z
@@ -7760,13 +7760,6 @@ LOCATION:73b S
 DESCRIPTION:Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260413T094000Z
-DTEND:20260413T111500Z
-SUMMARY:SsO (ć)
-LOCATION:11 70
-DESCRIPTION:Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260414T060000Z
 DTEND:20260414T073500Z
 SUMMARY:Sze (L)
@@ -7890,7 +7883,7 @@ DTSTART:20260420T094000Z
 DTEND:20260420T111500Z
 SUMMARY:SsO (ć)
 LOCATION:11 70
-DESCRIPTION:Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T060000Z
@@ -8073,6 +8066,13 @@ DTEND:20260429T092500Z
 SUMMARY:TeMi (L)
 LOCATION:40 54E
 DESCRIPTION:Termografia mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T094000Z
+DTEND:20260429T111500Z
+SUMMARY:SsO (ć)
+LOCATION:11 70
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T060000Z

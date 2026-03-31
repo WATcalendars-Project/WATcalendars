@@ -585,6 +585,13 @@ LOCATION:54/ 62
 DESCRIPTION:Sieci logistyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Orłowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250331T060000Z
+DTEND:20250331T073500Z
+SUMMARY:God. (ć)
+LOCATION:54/ 62
+DESCRIPTION:Gospodarka odpadami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr n.społ. inż. Rogowski Bogusław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250407T060000Z
 DTEND:20250407T073500Z
 SUMMARY:I 
@@ -687,7 +694,7 @@ DTSTART:20250526T075000Z
 DTEND:20250526T092500Z
 SUMMARY:God. (ć)
 LOCATION:301/ S
-DESCRIPTION:Gospodarka odpadami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr n.społ. inż. Rogowski Bogusław
+DESCRIPTION:Gospodarka odpadami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr n.społ. inż. Rogowski Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T075000Z
@@ -723,13 +730,6 @@ DTEND:20250324T121500Z
 SUMMARY:Psp. (ć)
 LOCATION:7/ 23a
 DESCRIPTION:Projektowanie systemów i procesów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250331T094000Z
-DTEND:20250331T111500Z
-SUMMARY:God. (ć)
-LOCATION:301/ S
-DESCRIPTION:Gospodarka odpadami\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr n.społ. inż. Rogowski Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T094000Z
@@ -1561,7 +1561,7 @@ BEGIN:VEVENT
 DTSTART:20250409T140000Z
 DTEND:20250409T153500Z
 SUMMARY:Mbl. (w)
-LOCATION:52/ 62
+LOCATION:19/ 135
 DESCRIPTION:Metodyka badań w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
@@ -1582,14 +1582,14 @@ BEGIN:VEVENT
 DTSTART:20250430T140000Z
 DTEND:20250430T153500Z
 SUMMARY:Mbl. (ć)
-LOCATION:52/ 62
+LOCATION:28/ 135
 DESCRIPTION:Metodyka badań w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T140000Z
 DTEND:20250507T153500Z
 SUMMARY:Mbl. (S)
-LOCATION:52/ 62
+LOCATION:301/ S
 DESCRIPTION:Metodyka badań w logistyce\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
@@ -1645,14 +1645,14 @@ BEGIN:VEVENT
 DTSTART:20250409T155000Z
 DTEND:20250409T172500Z
 SUMMARY:Mbl. (w)
-LOCATION:52/ 62
+LOCATION:19/ 135
 DESCRIPTION:Metodyka badań w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T155000Z
 DTEND:20250416T172500Z
 SUMMARY:Mbl. (ć)
-LOCATION:52/ 62
+LOCATION:301/ S
 DESCRIPTION:Metodyka badań w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
@@ -1666,7 +1666,7 @@ BEGIN:VEVENT
 DTSTART:20250430T155000Z
 DTEND:20250430T172500Z
 SUMMARY:Mbl. (ć)
-LOCATION:52/ 62
+LOCATION:28/ 135
 DESCRIPTION:Metodyka badań w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
