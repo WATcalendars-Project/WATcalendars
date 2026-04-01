@@ -83,16 +83,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T140000Z
 DTEND:20260402T153500Z
-SUMMARY:Pwd (w)
-LOCATION:aula/135
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Miszczak Marta
+SUMMARY:SSW 
+LOCATION:
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T070000Z
 DTEND:20260306T083500Z
 SUMMARY:Pwd (w)
 LOCATION:aula/135
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Miszczak Marta
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T070000Z
@@ -198,5 +198,12 @@ DTEND:20260710T111500Z
 SUMMARY:F1 (Ep)
 LOCATION:
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T155000Z
+DTEND:20260508T172500Z
+SUMMARY:Pwd (w)
+LOCATION:
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Miszczak Marta
 END:VEVENT
 END:VCALENDAR

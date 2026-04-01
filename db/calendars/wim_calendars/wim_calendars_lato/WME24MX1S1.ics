@@ -1656,6 +1656,13 @@ LOCATION:10/ 54A; 14/ 54A
 DESCRIPTION:Modelowanie bryłowe i powierzchniowe w projektowaniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250402T094000Z
+DTEND:20250402T111500Z
+SUMMARY:WzEE (L)
+LOCATION:3/ 23a; 4/ 23a; 14/ 23a
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/16\nProwadzący: dr inż. Sobczyk Zbigniew
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250409T094000Z
 DTEND:20250409T111500Z
 SUMMARY:SoM2 (w)
@@ -1751,7 +1758,7 @@ DTSTART:20250402T113000Z
 DTEND:20250402T130500Z
 SUMMARY:WzEE (L)
 LOCATION:3/ 23a; 4/ 23a; 14/ 23a
-DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/16\nProwadzący: dr inż. Sobczyk Zbigniew
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/16\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T113000Z
@@ -1793,7 +1800,7 @@ DTSTART:20250528T113000Z
 DTEND:20250528T130500Z
 SUMMARY:WzEE (L)
 LOCATION:3/ 23a; 4/ 23a; 14/ 23a
-DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/16
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T113000Z
@@ -1808,13 +1815,6 @@ DTEND:20250618T130500Z
 SUMMARY:Rmob (ć)
 LOCATION:14/ 54A
 DESCRIPTION:Roboty mobilne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/14\nProwadzący: dr inż. Cieślik Karol
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250402T140000Z
-DTEND:20250402T153500Z
-SUMMARY:WzEE (L)
-LOCATION:3/ 23a; 4/ 23a; 14/ 23a
-DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/16\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T140000Z
@@ -2282,7 +2282,7 @@ BEGIN:VEVENT
 DTSTART:20250515T113000Z
 DTEND:20250515T130500Z
 SUMMARY:Tmm (L)
-LOCATION:1/ 21; 38/ 20; 17b/ 21; 9/ 21; 15/ 21
+LOCATION:38/ 20; 17b/ 21; 9/ 21; 15/ 21
 DESCRIPTION:Technologia montażu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12
 END:VEVENT
 BEGIN:VEVENT

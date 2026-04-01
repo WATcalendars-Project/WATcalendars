@@ -67,6 +67,13 @@ LOCATION:0.21/16
 DESCRIPTION:Logistyczna obsługa klienta\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260420T094000Z
+DTEND:20260420T111500Z
+SUMMARY:Lu (ć)
+LOCATION:0.21/16
+DESCRIPTION:Logistyka usług\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Sobczak Iwona
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260309T123000Z
 DTEND:20260309T140500Z
 SUMMARY:LOK (w)
@@ -246,7 +253,7 @@ DTSTART:20260414T060000Z
 DTEND:20260414T073500Z
 SUMMARY:Lu (ć)
 LOCATION:0.21/16
-DESCRIPTION:Logistyka usług\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Sobczak Iwona
+DESCRIPTION:Logistyka usług\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T060000Z
@@ -274,7 +281,7 @@ DTSTART:20260414T075000Z
 DTEND:20260414T092500Z
 SUMMARY:Lu (ć)
 LOCATION:0.21/16
-DESCRIPTION:Logistyka usług\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Sobczak Iwona
+DESCRIPTION:Logistyka usług\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T075000Z
@@ -568,7 +575,7 @@ DTSTART:20260325T104000Z
 DTEND:20260325T121500Z
 SUMMARY:Lu (ć)
 LOCATION:0.21/16
-DESCRIPTION:Logistyka usług\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Sobczak Iwona
+DESCRIPTION:Logistyka usług\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T094000Z
@@ -585,13 +592,6 @@ LOCATION:0.8/16
 DESCRIPTION:Logistyka zwrotna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr n. społ. inż. Krupnik Dorota
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260415T094000Z
-DTEND:20260415T111500Z
-SUMMARY:Lu (ć)
-LOCATION:0.24/135
-DESCRIPTION:Logistyka usług\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Sobczak Iwona
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
 SUMMARY:Bpe (w)
@@ -602,7 +602,7 @@ BEGIN:VEVENT
 DTSTART:20260520T094000Z
 DTEND:20260520T111500Z
 SUMMARY:UrM (ć)
-LOCATION:5.17/135
+LOCATION:3.16/135
 DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT

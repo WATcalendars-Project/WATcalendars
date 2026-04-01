@@ -554,7 +554,7 @@ DTSTART:20260310T104000Z
 DTEND:20260310T121500Z
 SUMMARY:Pwd (ć)
 LOCATION:3PL/KO6 Zw; 3.16/135 T
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T104000Z
@@ -1383,6 +1383,13 @@ LOCATION:3PL/KO6
 DESCRIPTION:Szkolenie - Centra Szkoleniowe\nRodzaj zajęć: (i)\nNumer zajęć: 48/77\nProwadzący: prof. dr hab. Pawlisiak Mieczysław; mjr mgr Wójcik Paweł
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T094000Z
+DTEND:20260402T111500Z
+SUMMARY:Dpl (ć)
+LOCATION:5.21/135
+DESCRIPTION:Dowodzenie pododdziałem logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. Pawlisiak Mieczysław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260416T094000Z
 DTEND:20260416T111500Z
 SUMMARY:SSW 
@@ -1439,13 +1446,6 @@ LOCATION:3PL/KO6
 DESCRIPTION:Szkolenie - Centra Szkoleniowe\nRodzaj zajęć: (i)\nNumer zajęć: 50/77\nProwadzący: prof. dr hab. Pawlisiak Mieczysław; mjr mgr Wójcik Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260409T113000Z
-DTEND:20260409T130500Z
-SUMMARY:Pwd (ć)
-LOCATION:2.21/135
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr Załoga Wiesława
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260423T113000Z
 DTEND:20260423T130500Z
 SUMMARY:Egz.Of (E)
@@ -1486,13 +1486,6 @@ DTEND:20260326T163500Z
 SUMMARY:SzCS (i)
 LOCATION:3PL/KO6
 DESCRIPTION:Szkolenie - Centra Szkoleniowe\nRodzaj zajęć: (i)\nNumer zajęć: 52/77\nProwadzący: prof. dr hab. Pawlisiak Mieczysław; mjr mgr Wójcik Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260402T140000Z
-DTEND:20260402T153500Z
-SUMMARY:Dpl (ć)
-LOCATION:A.1.3/135
-DESCRIPTION:Dowodzenie pododdziałem logistycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. Pawlisiak Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T140000Z
@@ -1544,15 +1537,15 @@ LOCATION:3PL/KO6
 DESCRIPTION:Szkolenie - Centra Szkoleniowe\nRodzaj zajęć: (i)\nNumer zajęć: 54/77\nProwadzący: prof. dr hab. Pawlisiak Mieczysław; mjr mgr Wójcik Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260402T155000Z
-DTEND:20260402T172500Z
+DTSTART:20260409T155000Z
+DTEND:20260409T172500Z
 SUMMARY:Wog (ć)
 LOCATION:2.21/135
 DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260409T155000Z
-DTEND:20260409T172500Z
+DTSTART:20260416T155000Z
+DTEND:20260416T172500Z
 SUMMARY:Wog (ć)
 LOCATION:2.21/135
 DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr inż. Kalwasiński Marek
@@ -1681,7 +1674,7 @@ DTSTART:20260306T085000Z
 DTEND:20260306T102500Z
 SUMMARY:Pwd (ć)
 LOCATION:3PL/KO6 Zw; 0.28/135 T
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T085000Z
