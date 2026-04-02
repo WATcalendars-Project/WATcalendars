@@ -309,7 +309,7 @@ DTSTART:20250518T094000Z
 DTEND:20250518T111500Z
 SUMMARY:Kem (L)
 LOCATION:
-DESCRIPTION:Kompatybilność elektromagnetyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6
+DESCRIPTION:Kompatybilność elektromagnetyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Bugaj Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T094000Z
@@ -421,7 +421,7 @@ DTSTART:20250518T113000Z
 DTEND:20250518T130500Z
 SUMMARY:Kem (L)
 LOCATION:
-DESCRIPTION:Kompatybilność elektromagnetyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6
+DESCRIPTION:Kompatybilność elektromagnetyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Bugaj Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T113000Z
@@ -466,11 +466,39 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 5/42
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250518T140000Z
+DTEND:20250518T153500Z
+SUMMARY:SwSM. (P)
+LOCATION:
+DESCRIPTION:Standardy wytwarzania systemów medycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/4\nProwadzący: prof. dr hab. inż. Walczak Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250608T140000Z
+DTEND:20250608T153500Z
+SUMMARY:SwSM. (P)
+LOCATION:
+DESCRIPTION:Standardy wytwarzania systemów medycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/4\nProwadzący: prof. dr hab. inż. Walczak Andrzej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250406T155000Z
 DTEND:20250406T172500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 6/42
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250518T155000Z
+DTEND:20250518T172500Z
+SUMMARY:SwSM. (P)
+LOCATION:
+DESCRIPTION:Standardy wytwarzania systemów medycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/4\nProwadzący: prof. dr hab. inż. Walczak Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250608T155000Z
+DTEND:20250608T172500Z
+SUMMARY:SwSM. (P)
+LOCATION:
+DESCRIPTION:Standardy wytwarzania systemów medycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/4\nProwadzący: prof. dr hab. inż. Walczak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T174000Z
@@ -547,7 +575,7 @@ DTSTART:20250505T075000Z
 DTEND:20250505T092500Z
 SUMMARY:Kem (L)
 LOCATION:
-DESCRIPTION:Kompatybilność elektromagnetyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
+DESCRIPTION:Kompatybilność elektromagnetyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Bugaj Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T075000Z
@@ -659,7 +687,7 @@ DTSTART:20250505T094000Z
 DTEND:20250505T111500Z
 SUMMARY:Kem (L)
 LOCATION:
-DESCRIPTION:Kompatybilność elektromagnetyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
+DESCRIPTION:Kompatybilność elektromagnetyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Bugaj Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T094000Z
@@ -995,7 +1023,7 @@ DTSTART:20250422T060000Z
 DTEND:20250422T073500Z
 SUMMARY:Kem (L)
 LOCATION:
-DESCRIPTION:Kompatybilność elektromagnetyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
+DESCRIPTION:Kompatybilność elektromagnetyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Bugaj Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T060000Z
@@ -1030,7 +1058,7 @@ DTSTART:20250422T075000Z
 DTEND:20250422T092500Z
 SUMMARY:Kem (L)
 LOCATION:
-DESCRIPTION:Kompatybilność elektromagnetyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6
+DESCRIPTION:Kompatybilność elektromagnetyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Bugaj Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T075000Z

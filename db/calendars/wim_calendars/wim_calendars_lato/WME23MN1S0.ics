@@ -1586,13 +1586,6 @@ LOCATION:01/ 54A
 DESCRIPTION:Gospodarka mieniem i magazynowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250402T094000Z
-DTEND:20250402T111500Z
-SUMMARY:WF (ć)
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/30\nProwadzący: mjr mgr Juńczyk Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250409T094000Z
 DTEND:20250409T111500Z
 SUMMARY:GwSMPS (ć)
@@ -1682,6 +1675,13 @@ DTEND:20250326T140500Z
 SUMMARY:GMiM (w)
 LOCATION:01/ 54A
 DESCRIPTION:Gospodarka mieniem i magazynowa\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: mgr inż. Wójcik Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250409T113000Z
+DTEND:20250409T130500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/30\nProwadzący: mjr mgr Juńczyk Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T113000Z

@@ -1229,6 +1229,20 @@ LOCATION:5.21/135
 DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: płk prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260611T094000Z
+DTEND:20260611T111500Z
+SUMMARY:Che (L)
+LOCATION:55A
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr inż. Garbat Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T113000Z
+DTEND:20260611T130500Z
+SUMMARY:Che (L)
+LOCATION:55A
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr inż. Garbat Katarzyna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260312T150000Z
 DTEND:20260312T163500Z
 SUMMARY:Mat3 (ć)
@@ -1303,7 +1317,7 @@ DTSTART:20260529T075000Z
 DTEND:20260529T092500Z
 SUMMARY:Che (L)
 LOCATION:55A
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr inż. Garbat Katarzyna
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr inż. Garbat Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T094000Z
@@ -1317,7 +1331,7 @@ DTSTART:20260529T094000Z
 DTEND:20260529T111500Z
 SUMMARY:Che (L)
 LOCATION:55A
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr inż. Garbat Katarzyna
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr inż. Garbat Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T113000Z
@@ -1367,19 +1381,5 @@ DTEND:20260410T172500Z
 SUMMARY:Mas (w)
 LOCATION:aula/135
 DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Cieślik Karol
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T155000Z
-DTEND:20260515T172500Z
-SUMMARY:Che (L)
-LOCATION:55A
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr inż. Garbat Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T174000Z
-DTEND:20260515T191500Z
-SUMMARY:Che (L)
-LOCATION:55A
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr inż. Garbat Katarzyna
 END:VEVENT
 END:VCALENDAR
