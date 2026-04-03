@@ -683,13 +683,6 @@ LOCATION:22/ 21
 DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250623T075000Z
-DTEND:20250623T092500Z
-SUMMARY:Mat3 (Zp. Ćw)
-LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr Prusińska Agnieszka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250915T075000Z
 DTEND:20250915T092500Z
 SUMMARY:Ppu. (Zp.)
@@ -1080,6 +1073,13 @@ DTEND:20250617T092500Z
 SUMMARY:Bp. (ć)
 LOCATION:1/ 21; 22/ 21
 DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr inż. Wieczorek Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250624T075000Z
+DTEND:20250624T092500Z
+SUMMARY:Mat3 (Zp. Ćw)
+LOCATION:51/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T075000Z

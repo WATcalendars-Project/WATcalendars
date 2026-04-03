@@ -508,13 +508,6 @@ LOCATION:29/ 54; 30/ 54
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/22
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250623T060000Z
-DTEND:20250623T073500Z
-SUMMARY:Mat3 (Zp. Ćw)
-LOCATION:55/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr Prusińska Agnieszka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250915T060000Z
 DTEND:20250915T073500Z
 SUMMARY:Mkm1 (Zp.)
@@ -1080,6 +1073,13 @@ DTEND:20250610T092500Z
 SUMMARY:Mkm1 (L)
 LOCATION:13/ 34; 14/ 34; 17/ 34
 DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250624T075000Z
+DTEND:20250624T092500Z
+SUMMARY:Mat3 (Zp. Ćw)
+LOCATION:51/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr Prusińska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T075000Z

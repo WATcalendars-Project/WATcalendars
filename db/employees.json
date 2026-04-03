@@ -207,6 +207,11 @@
     },
     {
       "degree": "dr",
+      "is_new": true,
+      "name": "Hanuma Tiyyagura [NEW]"
+    },
+    {
+      "degree": "dr",
       "is_new": false,
       "name": "Iwona Golba"
     },
@@ -4262,8 +4267,8 @@
     },
     {
       "degree": "mgr inż.",
-      "is_new": true,
-      "name": "Daniel Krajewski [NEW]"
+      "is_new": false,
+      "name": "Daniel Krajewski"
     },
     {
       "degree": "mgr inż.",
@@ -4947,8 +4952,8 @@
     },
     {
       "degree": "mgr inż.",
-      "is_new": true,
-      "name": "Piotr Gołek [NEW]"
+      "is_new": false,
+      "name": "Piotr Gołek"
     },
     {
       "degree": "mgr inż.",
@@ -5687,10 +5692,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-02T02:38:33.401819",
-    "last_updated_readable": "2026-04-02 02:38:33",
-    "new_employees_count": 2,
+    "last_updated": "2026-04-03T02:41:25.757356",
+    "last_updated_readable": "2026-04-03 02:41:25",
+    "new_employees_count": 1,
     "scraper_version": "1.0",
-    "total_employees": 1137
+    "total_employees": 1138
   }
 }
