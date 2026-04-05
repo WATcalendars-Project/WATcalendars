@@ -144,13 +144,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 2/70
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250411T060000Z
-DTEND:20250411T073500Z
-SUMMARY:Psnm (L)
-LOCATION:10/ 54A
-DESCRIPTION:Projektowanie struktur nośnych maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/18\nProwadzący: dr inż. Przybysz Mirosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250418T060000Z
 DTEND:20250418T073500Z
 SUMMARY:Pkm 
@@ -181,9 +174,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T060000Z
 DTEND:20250516T073500Z
-SUMMARY:PuS. (w)
-LOCATION:09/ 54A
-DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+SUMMARY:BPiE (w)
+LOCATION:55/ 62
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T060000Z
@@ -207,11 +200,25 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 5/70
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250613T060000Z
+DTEND:20250613T073500Z
+SUMMARY:Sze. (ć)
+LOCATION:42/ 54A
+DESCRIPTION:Systemy zarządzania eksploatacją\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250620T060000Z
+DTEND:20250620T073500Z
+SUMMARY:Pkm 
+LOCATION:9/ 62
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 5/13\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250627T060000Z
 DTEND:20250627T073500Z
 SUMMARY:Pkm 
 LOCATION:9/ 62
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 5/13\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 6/13\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T060000Z
@@ -239,7 +246,7 @@ DTSTART:20250307T085000Z
 DTEND:20250307T102500Z
 SUMMARY:PuS. (w)
 LOCATION:09/ 54A
-DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T085000Z
@@ -272,9 +279,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T075000Z
 DTEND:20250411T092500Z
-SUMMARY:Psnm (L)
-LOCATION:10/ 54A
-DESCRIPTION:Projektowanie struktur nośnych maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/18\nProwadzący: dr inż. Przybysz Mirosław
+SUMMARY:PPr (P)
+LOCATION:120/ 54
+DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 3/10\nProwadzący: dr inż. Spadło Kacper
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250418T075000Z
@@ -302,14 +309,14 @@ DTSTART:20250509T075000Z
 DTEND:20250509T092500Z
 SUMMARY:Sze. (ć)
 LOCATION:42/ 54A
-DESCRIPTION:Systemy zarządzania eksploatacją\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3
+DESCRIPTION:Systemy zarządzania eksploatacją\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T075000Z
 DTEND:20250516T092500Z
-SUMMARY:PuS. (ć)
+SUMMARY:Psnm (L)
 LOCATION:10/ 54A
-DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Projektowanie struktur nośnych maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/18\nProwadzący: dr inż. Przybysz Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T075000Z
@@ -323,7 +330,7 @@ DTSTART:20250530T075000Z
 DTEND:20250530T092500Z
 SUMMARY:Psnm (L)
 LOCATION:10/ 54A
-DESCRIPTION:Projektowanie struktur nośnych maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/18\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Projektowanie struktur nośnych maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/18\nProwadzący: dr inż. Przybysz Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T075000Z
@@ -337,14 +344,21 @@ DTSTART:20250613T075000Z
 DTEND:20250613T092500Z
 SUMMARY:PuS. (w)
 LOCATION:09/ 54A
-DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250620T075000Z
+DTEND:20250620T092500Z
+SUMMARY:PPr (P)
+LOCATION:120/ 54
+DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 4/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T075000Z
 DTEND:20250627T092500Z
 SUMMARY:PPr (P)
 LOCATION:120/ 54
-DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 3/10
+DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 5/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T075000Z
@@ -372,7 +386,7 @@ DTSTART:20250307T104000Z
 DTEND:20250307T121500Z
 SUMMARY:Pkm 
 LOCATION:9/ 62
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 6/13\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 7/13\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T104000Z
@@ -386,7 +400,7 @@ DTSTART:20250321T104000Z
 DTEND:20250321T121500Z
 SUMMARY:Pkm 
 LOCATION:9/ 62
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 7/13\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 8/13\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T104000Z
@@ -405,9 +419,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T094000Z
 DTEND:20250411T111500Z
-SUMMARY:Pkm 
-LOCATION:9/ 62
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 8/13\nProwadzący: prof. dr hab. inż. Bogdanowicz Zdzisław
+SUMMARY:PPr (P)
+LOCATION:120/ 54
+DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 6/10\nProwadzący: dr inż. Spadło Kacper
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250418T094000Z
@@ -421,7 +435,7 @@ DTSTART:20250425T094000Z
 DTEND:20250425T111500Z
 SUMMARY:PuS. (ć)
 LOCATION:10/ 54A
-DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250502T094000Z
@@ -440,9 +454,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T094000Z
 DTEND:20250516T111500Z
-SUMMARY:PuS. (L)
+SUMMARY:Psnm (L)
 LOCATION:10/ 54A
-DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Projektowanie struktur nośnych maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/18\nProwadzący: dr inż. Przybysz Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T094000Z
@@ -468,16 +482,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T094000Z
 DTEND:20250613T111500Z
+SUMMARY:PuS. (ć)
+LOCATION:10/ 54A
+DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250620T094000Z
+DTEND:20250620T111500Z
 SUMMARY:PPr (P)
 LOCATION:120/ 54
-DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 4/10
+DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 7/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T094000Z
 DTEND:20250627T111500Z
 SUMMARY:PPr (P)
 LOCATION:120/ 54
-DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 5/10
+DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 8/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T094000Z
@@ -526,7 +547,7 @@ DTSTART:20250328T123000Z
 DTEND:20250328T140500Z
 SUMMARY:PuS. (w)
 LOCATION:09/ 54A
-DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T113000Z
@@ -547,14 +568,14 @@ DTSTART:20250418T113000Z
 DTEND:20250418T130500Z
 SUMMARY:PuS. (w)
 LOCATION:09/ 54A
-DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250425T113000Z
 DTEND:20250425T130500Z
 SUMMARY:PuS. (L)
 LOCATION:10/ 54A
-DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250502T113000Z
@@ -573,9 +594,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T113000Z
 DTEND:20250516T130500Z
-SUMMARY:BPiE (w)
-LOCATION:55/ 62
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Wieczorek Marcin
+SUMMARY:Rkom (ć)
+LOCATION:09/ 54A
+DESCRIPTION:Rozwiązania konstrukcyjne i obciążenia maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T113000Z
@@ -589,7 +610,7 @@ DTSTART:20250530T113000Z
 DTEND:20250530T130500Z
 SUMMARY:Sze. (ć)
 LOCATION:42/ 54A
-DESCRIPTION:Systemy zarządzania eksploatacją\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
+DESCRIPTION:Systemy zarządzania eksploatacją\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T113000Z
@@ -601,9 +622,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T113000Z
 DTEND:20250613T130500Z
-SUMMARY:PPr (P)
-LOCATION:120/ 54
-DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 6/10
+SUMMARY:PuS. (L)
+LOCATION:10/ 54A
+DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250620T113000Z
+DTEND:20250620T130500Z
+SUMMARY:PuS. (w)
+LOCATION:42/ 54A
+DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T113000Z
@@ -706,9 +734,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T140000Z
 DTEND:20250516T153500Z
-SUMMARY:PPr (P)
-LOCATION:120/ 54
-DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 7/10\nProwadzący: dr inż. Spadło Kacper
+SUMMARY:Rkom (ć)
+LOCATION:09/ 54A
+DESCRIPTION:Rozwiązania konstrukcyjne i obciążenia maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T140000Z
@@ -841,7 +869,7 @@ DTSTART:20250516T155000Z
 DTEND:20250516T172500Z
 SUMMARY:PPr (P)
 LOCATION:120/ 54
-DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 8/10\nProwadzący: dr inż. Spadło Kacper
+DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 9/10\nProwadzący: dr inż. Spadło Kacper
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T155000Z
@@ -877,13 +905,6 @@ DTEND:20250620T172500Z
 SUMMARY:Psnm (L)
 LOCATION:10/ 54A
 DESCRIPTION:Projektowanie struktur nośnych maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/18\nProwadzący: dr inż. Przybysz Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250627T155000Z
-DTEND:20250627T172500Z
-SUMMARY:Sze. (ć)
-LOCATION:42/ 54A
-DESCRIPTION:Systemy zarządzania eksploatacją\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T155000Z
@@ -954,6 +975,13 @@ DTEND:20250509T191500Z
 SUMMARY:Psnm (L)
 LOCATION:10/ 54A
 DESCRIPTION:Projektowanie struktur nośnych maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/18\nProwadzący: dr inż. Przybysz Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250516T174000Z
+DTEND:20250516T191500Z
+SUMMARY:PPr (P)
+LOCATION:120/ 54
+DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 10/10\nProwadzący: dr inż. Spadło Kacper
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T174000Z
@@ -1035,9 +1063,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T060000Z
 DTEND:20250412T073500Z
-SUMMARY:PPr (P)
-LOCATION:120/ 54
-DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 9/10\nProwadzący: dr inż. Spadło Kacper
+SUMMARY:Psnm (L)
+LOCATION:10/ 54A
+DESCRIPTION:Projektowanie struktur nośnych maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 17/18\nProwadzący: dr inż. Przybysz Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250419T060000Z
@@ -1051,7 +1079,7 @@ DTSTART:20250426T060000Z
 DTEND:20250426T073500Z
 SUMMARY:Rkom (ć)
 LOCATION:42/ 54A
-DESCRIPTION:Rozwiązania konstrukcyjne i obciążenia maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
+DESCRIPTION:Rozwiązania konstrukcyjne i obciążenia maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250503T060000Z
@@ -1066,13 +1094,6 @@ DTEND:20250510T073500Z
 SUMMARY:Uh (ć)
 LOCATION:42/ 54A
 DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250517T060000Z
-DTEND:20250517T073500Z
-SUMMARY:Psnm (L)
-LOCATION:10/ 54A
-DESCRIPTION:Projektowanie struktur nośnych maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 17/18\nProwadzący: dr inż. Przybysz Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T060000Z
@@ -1147,9 +1168,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T075000Z
 DTEND:20250412T092500Z
-SUMMARY:PPr (P)
-LOCATION:120/ 54
-DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 10/10\nProwadzący: dr inż. Spadło Kacper
+SUMMARY:Psnm (L)
+LOCATION:10/ 54A
+DESCRIPTION:Projektowanie struktur nośnych maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 18/18\nProwadzący: dr inż. Przybysz Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250419T075000Z
@@ -1163,7 +1184,7 @@ DTSTART:20250426T075000Z
 DTEND:20250426T092500Z
 SUMMARY:Rkom (ć)
 LOCATION:42/ 54A
-DESCRIPTION:Rozwiązania konstrukcyjne i obciążenia maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
+DESCRIPTION:Rozwiązania konstrukcyjne i obciążenia maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250503T075000Z
@@ -1178,13 +1199,6 @@ DTEND:20250510T092500Z
 SUMMARY:Uh (L)
 LOCATION:42/ 54A
 DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250517T075000Z
-DTEND:20250517T092500Z
-SUMMARY:Psnm (L)
-LOCATION:10/ 54A
-DESCRIPTION:Projektowanie struktur nośnych maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 18/18\nProwadzący: dr inż. Przybysz Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T075000Z
@@ -1285,13 +1299,6 @@ LOCATION:42/ 54A
 DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250517T094000Z
-DTEND:20250517T111500Z
-SUMMARY:Rkom (ć)
-LOCATION:09/ 54A
-DESCRIPTION:Rozwiązania konstrukcyjne i obciążenia maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250524T094000Z
 DTEND:20250524T111500Z
 SUMMARY:I 
@@ -1381,13 +1388,6 @@ DTEND:20250503T130500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 53/70
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250517T113000Z
-DTEND:20250517T130500Z
-SUMMARY:Rkom (ć)
-LOCATION:09/ 54A
-DESCRIPTION:Rozwiązania konstrukcyjne i obciążenia maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T113000Z

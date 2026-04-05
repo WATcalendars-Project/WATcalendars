@@ -853,9 +853,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T094000Z
 DTEND:20250414T111500Z
-SUMMARY:MrBr (ć)
-LOCATION:3/ 23a
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9
+SUMMARY:EiE (ć)
+LOCATION:3/ 23a; 4/ 23a
+DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250421T094000Z
@@ -897,7 +897,7 @@ DTSTART:20250602T094000Z
 DTEND:20250602T111500Z
 SUMMARY:MrBr (ć)
 LOCATION:2/ 23a
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T094000Z
@@ -958,9 +958,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T113000Z
 DTEND:20250414T130500Z
-SUMMARY:EiE (ć)
-LOCATION:3/ 23a; 4/ 23a
-DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Sobczyk Zbigniew
+SUMMARY:MrBr (ć)
+LOCATION:5/ 23a
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250421T113000Z
@@ -1010,13 +1010,6 @@ DTEND:20250602T130500Z
 SUMMARY:PPL (P)
 LOCATION:2/ 23a
 DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/7\nProwadzący: dr inż. Owczarek Paulina
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250609T113000Z
-DTEND:20250609T130500Z
-SUMMARY:EiE (L)
-LOCATION:4/ 23a; 5/ 23a; 14/ 23a
-DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T113000Z
@@ -1107,7 +1100,7 @@ DTSTART:20250609T140000Z
 DTEND:20250609T153500Z
 SUMMARY:EiE (L)
 LOCATION:4/ 23a; 5/ 23a; 14/ 23a
-DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Sobczyk Zbigniew
+DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T140000Z
@@ -1236,6 +1229,13 @@ LOCATION:116/ 54
 DESCRIPTION:Podstawy logistyki międzynarodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: dr hab. inż.(prof. ucz.) Wysocki Józef
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250318T085000Z
+DTEND:20250318T102500Z
+SUMMARY:MrBr (ć)
+LOCATION:6/ 23a
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250325T085000Z
 DTEND:20250325T102500Z
 SUMMARY:PKM (w)
@@ -1289,7 +1289,7 @@ DTSTART:20250513T075000Z
 DTEND:20250513T092500Z
 SUMMARY:MrBr (ć)
 LOCATION:5/ 23a
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T075000Z
@@ -1311,6 +1311,13 @@ DTEND:20250603T092500Z
 SUMMARY:KL. (ć)
 LOCATION:5/ 20
 DESCRIPTION:Koszty logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr Milian-Pogonowska Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T075000Z
+DTEND:20250610T092500Z
+SUMMARY:EiE (L)
+LOCATION:4/ 23a; 14/ 23a
+DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T075000Z
@@ -1394,7 +1401,7 @@ DTSTART:20250520T094000Z
 DTEND:20250520T111500Z
 SUMMARY:MrBr (ć)
 LOCATION:5/ 23a
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T094000Z
@@ -1499,7 +1506,7 @@ DTSTART:20250527T113000Z
 DTEND:20250527T130500Z
 SUMMARY:MrBr (ć)
 LOCATION:2/ 23a
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T113000Z
@@ -1726,13 +1733,6 @@ LOCATION:15/ 23a
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250402T094000Z
-DTEND:20250402T111500Z
-SUMMARY:MrBr (ć)
-LOCATION:3/ 23a
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250409T094000Z
 DTEND:20250409T111500Z
 SUMMARY:PlM (ć)
@@ -1906,6 +1906,13 @@ DTEND:20250625T130500Z
 SUMMARY:Płe (z. popr. lab.)
 LOCATION:16/ 19; 17/ 19
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: (z. popr. lab.)\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T140000Z
+DTEND:20250416T153500Z
+SUMMARY:PPL (w)
+LOCATION:51/ 62
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T140000Z
@@ -2426,13 +2433,6 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 50/86
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250320T150000Z
-DTEND:20250320T163500Z
-SUMMARY:PPL (w)
-LOCATION:52/ 62
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Owczarek Paulina
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250327T150000Z
 DTEND:20250327T163500Z
 SUMMARY:REZ 
@@ -2762,6 +2762,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 44/49
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250509T075000Z
+DTEND:20250509T092500Z
+SUMMARY:XFiz1 (w)
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/13\nProwadzący: dr inż. Zubko Konrad
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250404T094000Z
 DTEND:20250404T111500Z
 SUMMARY:I 
@@ -2772,50 +2779,50 @@ BEGIN:VEVENT
 DTSTART:20250411T094000Z
 DTEND:20250411T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:19/36
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/13\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr; dr Milian-Pogonowska Małgorzata; dr inż. Sobczyk Zbigniew
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/13\nProwadzący: dr inż. Zubko Konrad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250418T094000Z
 DTEND:20250418T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:19/36
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/13\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr; dr Milian-Pogonowska Małgorzata; dr inż. Sobczyk Zbigniew
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/13\nProwadzący: dr inż. Zubko Konrad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250425T094000Z
 DTEND:20250425T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:19/36
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/13\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr; dr Milian-Pogonowska Małgorzata; dr inż. Sobczyk Zbigniew
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: dr inż. Zubko Konrad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T094000Z
 DTEND:20250509T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:19/36
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr; dr Milian-Pogonowska Małgorzata; dr inż. Sobczyk Zbigniew
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250516T094000Z
-DTEND:20250516T111500Z
-SUMMARY:XFiz1 (w)
-LOCATION:19/36
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr; dr Milian-Pogonowska Małgorzata; dr inż. Sobczyk Zbigniew
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13\nProwadzący: dr inż. Zubko Konrad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T094000Z
 DTEND:20250523T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:19/36
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr; dr Milian-Pogonowska Małgorzata; dr inż. Sobczyk Zbigniew
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: dr inż. Zubko Konrad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T094000Z
 DTEND:20250530T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:19/36
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr; dr Milian-Pogonowska Małgorzata; dr inż. Sobczyk Zbigniew
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: dr inż. Zubko Konrad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250620T094000Z
+DTEND:20250620T111500Z
+SUMMARY:XFiz1 (E)
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Zubko Konrad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T113000Z
@@ -2828,43 +2835,43 @@ BEGIN:VEVENT
 DTSTART:20250411T113000Z
 DTEND:20250411T130500Z
 SUMMARY:XFiz1 (w)
-LOCATION:19/36
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr; dr Milian-Pogonowska Małgorzata; dr inż. Sobczyk Zbigniew
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: dr inż. Zubko Konrad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250418T113000Z
 DTEND:20250418T130500Z
 SUMMARY:XFiz1 (w)
-LOCATION:19/36
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr; dr Milian-Pogonowska Małgorzata; dr inż. Sobczyk Zbigniew
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: dr inż. Zubko Konrad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250425T113000Z
 DTEND:20250425T130500Z
 SUMMARY:XFiz1 (w)
-LOCATION:19/36
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr; dr Milian-Pogonowska Małgorzata; dr inż. Sobczyk Zbigniew
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250509T113000Z
-DTEND:20250509T130500Z
-SUMMARY:XFiz1 (w)
-LOCATION:19/36
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 11/13\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr; dr Milian-Pogonowska Małgorzata; dr inż. Sobczyk Zbigniew
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13\nProwadzący: dr inż. Zubko Konrad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T113000Z
 DTEND:20250516T130500Z
 SUMMARY:XFiz1 (w)
-LOCATION:19/36
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr; dr Milian-Pogonowska Małgorzata; dr inż. Sobczyk Zbigniew
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 11/13\nProwadzący: dr inż. Zubko Konrad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T113000Z
 DTEND:20250523T130500Z
 SUMMARY:XFiz1 (w)
-LOCATION:19/36
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 13/13\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr; dr Milian-Pogonowska Małgorzata; dr inż. Sobczyk Zbigniew
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: dr inż. Zubko Konrad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250530T113000Z
+DTEND:20250530T130500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T140000Z
@@ -2872,6 +2879,13 @@ DTEND:20250404T153500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 47/49
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250516T140000Z
+DTEND:20250516T153500Z
+SUMMARY:XFiz1 (w)
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 13/13\nProwadzący: dr inż. Zubko Konrad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T155000Z
@@ -2886,5 +2900,68 @@ DTEND:20250404T191500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 49/49
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250412T060000Z
+DTEND:20250412T073500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250426T060000Z
+DTEND:20250426T073500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250510T060000Z
+DTEND:20250510T073500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250531T060000Z
+DTEND:20250531T073500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250614T060000Z
+DTEND:20250614T073500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250412T075000Z
+DTEND:20250412T092500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250426T075000Z
+DTEND:20250426T092500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250510T075000Z
+DTEND:20250510T092500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250531T075000Z
+DTEND:20250531T092500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10
 END:VEVENT
 END:VCALENDAR

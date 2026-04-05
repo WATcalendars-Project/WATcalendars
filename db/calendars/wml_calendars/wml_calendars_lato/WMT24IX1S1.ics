@@ -6,93 +6,72 @@ X-WR-CALNAME:WMT24IX1S1
 BEGIN:VEVENT
 DTSTART:20260323T070000Z
 DTEND:20260323T083500Z
-SUMMARY:Ucm 
+SUMMARY:Dji 
 LOCATION:1863
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -\nProwadzący: mgr inż. Djabin Jakub
+DESCRIPTION:mgr inż. Djabin Jakub\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T060000Z
 DTEND:20260413T073500Z
-SUMMARY:Prb 
+SUMMARY:Prus 
 LOCATION:4763
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260420T060000Z
-DTEND:20260420T073500Z
-SUMMARY:Prb 
-LOCATION:4663
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -\nProwadzący: dr inż. Kaczmarek Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260202T085000Z
-DTEND:20260202T102500Z
-SUMMARY:Met 
-LOCATION:
-DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: -\nProwadzący: dr inż. Omen Łukasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260209T085000Z
-DTEND:20260209T102500Z
-SUMMARY:EiE 
-LOCATION:1936
-DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: -\nProwadzący: dr inż. Grzegorczyk Tomasz
+DESCRIPTION:Prus\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260223T085000Z
 DTEND:20260223T102500Z
-SUMMARY:EiE 
+SUMMARY:GrzT 
 LOCATION:1936
-DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Grzegorczyk Tomasz\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T085000Z
 DTEND:20260302T102500Z
-SUMMARY:PA 
+SUMMARY:Hen 
 LOCATION:
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:ppłk dr inż.  Henzel Maciej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Henzel Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T075000Z
 DTEND:20260330T092500Z
-SUMMARY:Ucm 
+SUMMARY:Roch 
 LOCATION:1963
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Rochala Zdzisław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T075000Z
 DTEND:20260413T092500Z
-SUMMARY:Prb 
+SUMMARY:Prus 
 LOCATION:4763
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -
+DESCRIPTION:Prus\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T075000Z
 DTEND:20260504T092500Z
-SUMMARY:Ucm 
+SUMMARY:Rowi 
 LOCATION:
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -
+DESCRIPTION:* Rowicki Mateusz\nRodzaj zajęć: -\nProwadzący: mgr inż. Kochan Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T075000Z
 DTEND:20260601T092500Z
-SUMMARY:Ucm 
-LOCATION:
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -\nProwadzący: mgr inż. Djabin Jakub
+SUMMARY:Dji 
+LOCATION:967
+DESCRIPTION:mgr inż. Djabin Jakub\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T104000Z
 DTEND:20260302T121500Z
-SUMMARY:Prb 
+SUMMARY:KaW 
 LOCATION:1563
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -\nProwadzący: dr inż. Kaczmarek Wojciech
+DESCRIPTION:dr inż. Kaczmarek Wojciech\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T104000Z
 DTEND:20260309T121500Z
-SUMMARY:Prb 
+SUMMARY:KaW 
 LOCATION:1563
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -\nProwadzący: dr inż. Kaczmarek Wojciech
+DESCRIPTION:dr inż. Kaczmarek Wojciech\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T104000Z
@@ -102,11 +81,18 @@ LOCATION:1863
 DESCRIPTION:Sensoryka\nRodzaj zajęć: -\nProwadzący: dr inż. Rykała Łukasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260330T094000Z
+DTEND:20260330T111500Z
+SUMMARY:KaW 
+LOCATION:2063
+DESCRIPTION:dr inż. Kaczmarek Wojciech\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260413T094000Z
 DTEND:20260413T111500Z
-SUMMARY:Prb 
+SUMMARY:SIwM 
 LOCATION:2063
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -\nProwadzący: dr inż. Kaczmarek Wojciech
+DESCRIPTION:dr inż. Siwek Michał\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T094000Z
@@ -114,13 +100,6 @@ DTEND:20260420T111500Z
 SUMMARY:Brmob 
 LOCATION:
 DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Dejewski Marcin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260427T094000Z
-DTEND:20260427T111500Z
-SUMMARY:Sens 
-LOCATION:2063
-DESCRIPTION:Sensoryka\nRodzaj zajęć: -\nProwadzący: dr inż. Rykała Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T094000Z
@@ -132,16 +111,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T094000Z
 DTEND:20260511T111500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:4136
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T094000Z
 DTEND:20260608T111500Z
-SUMMARY:Prb 
+SUMMARY:Prus 
 LOCATION:4763
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -
+DESCRIPTION:Prus\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T123000Z
@@ -214,11 +193,228 @@ LOCATION:
 DESCRIPTION:Sensoryka\nRodzaj zajęć: -\nProwadzący: dr inż. Rykała Łukasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260302T150000Z
+DTEND:20260302T163500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260309T150000Z
+DTEND:20260309T163500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T150000Z
+DTEND:20260316T163500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T150000Z
+DTEND:20260323T163500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T140000Z
+DTEND:20260330T153500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T140000Z
+DTEND:20260413T153500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T140000Z
+DTEND:20260420T153500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T140000Z
+DTEND:20260427T153500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T140000Z
+DTEND:20260504T153500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T140000Z
+DTEND:20260511T153500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T140000Z
+DTEND:20260518T153500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T140000Z
+DTEND:20260525T153500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T140000Z
+DTEND:20260601T153500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T140000Z
+DTEND:20260608T153500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T140000Z
+DTEND:20260615T153500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T165000Z
+DTEND:20260302T182500Z
+SUMMARY:JoM 
+LOCATION:
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260309T165000Z
+DTEND:20260309T182500Z
+SUMMARY:JoM 
+LOCATION:
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T165000Z
+DTEND:20260316T182500Z
+SUMMARY:JoM 
+LOCATION:
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T165000Z
+DTEND:20260323T182500Z
+SUMMARY:JoM 
+LOCATION:
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T155000Z
+DTEND:20260330T172500Z
+SUMMARY:JoM 
+LOCATION:
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T155000Z
+DTEND:20260413T172500Z
+SUMMARY:JoM 
+LOCATION:
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T155000Z
+DTEND:20260420T172500Z
+SUMMARY:JoM 
+LOCATION:
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T155000Z
+DTEND:20260427T172500Z
+SUMMARY:JoM 
+LOCATION:
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T155000Z
+DTEND:20260504T172500Z
+SUMMARY:JoM 
+LOCATION:
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T155000Z
+DTEND:20260511T172500Z
+SUMMARY:JoM 
+LOCATION:
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T155000Z
+DTEND:20260518T172500Z
+SUMMARY:JoM 
+LOCATION:
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T155000Z
+DTEND:20260525T172500Z
+SUMMARY:JoM 
+LOCATION:
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T155000Z
+DTEND:20260601T172500Z
+SUMMARY:JoM 
+LOCATION:
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T155000Z
+DTEND:20260608T172500Z
+SUMMARY:JoM 
+LOCATION:
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T155000Z
+DTEND:20260615T172500Z
+SUMMARY:JoM 
+LOCATION:
+DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T070000Z
 DTEND:20260303T083500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:3936
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T060000Z
+DTEND:20260331T073500Z
+SUMMARY:Sens 
+LOCATION:
+DESCRIPTION:Sensoryka\nRodzaj zajęć: -\nProwadzący: dr inż. Rykała Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T060000Z
@@ -226,13 +422,6 @@ DTEND:20260414T073500Z
 SUMMARY:Brmob 
 LOCATION:13636
 DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Dejewski Marcin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260421T060000Z
-DTEND:20260421T073500Z
-SUMMARY:Sens 
-LOCATION:4663
-DESCRIPTION:Sensoryka\nRodzaj zajęć: -\nProwadzący: dr inż. Rykała Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T060000Z
@@ -244,9 +433,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T060000Z
 DTEND:20260512T073500Z
-SUMMARY:PA 
+SUMMARY:Map 
 LOCATION:13636
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Kurnyta-Mazurek Paulina\nRodzaj zajęć: -\nProwadzący: dr inż. Kurnyta-Mazurek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T060000Z
@@ -258,23 +447,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T085000Z
 DTEND:20260303T102500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:3936
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T085000Z
 DTEND:20260310T102500Z
-SUMMARY:Ucm 
+SUMMARY:Roch 
 LOCATION:
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Rochala Zdzisław\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T075000Z
+DTEND:20260331T092500Z
+SUMMARY:Sens 
+LOCATION:
+DESCRIPTION:Sensoryka\nRodzaj zajęć: -\nProwadzący: dr inż. Rykała Łukasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T075000Z
+DTEND:20260414T092500Z
+SUMMARY:Brmob 
+LOCATION:
+DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Dejewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T075000Z
 DTEND:20260428T092500Z
-SUMMARY:PA 
+SUMMARY:Kuni 
 LOCATION:
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -\nProwadzący: mgr inż. Djabin Jakub
+DESCRIPTION:Kuni\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Dejewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T075000Z
@@ -300,16 +503,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T075000Z
 DTEND:20260602T092500Z
-SUMMARY:Prb 
+SUMMARY:KaW 
 LOCATION:10636
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -\nProwadzący: dr inż. Kaczmarek Wojciech
+DESCRIPTION:dr inż. Kaczmarek Wojciech\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T075000Z
 DTEND:20260609T092500Z
-SUMMARY:Prb 
+SUMMARY:KaW 
 LOCATION:10636
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -\nProwadzący: dr inż. Kaczmarek Wojciech
+DESCRIPTION:dr inż. Kaczmarek Wojciech\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T104000Z
@@ -326,11 +529,18 @@ LOCATION:3467
 DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Dejewski Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260414T094000Z
+DTEND:20260414T111500Z
+SUMMARY:Brmob 
+LOCATION:
+DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Dejewski Marcin
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260428T094000Z
 DTEND:20260428T111500Z
-SUMMARY:Ucm 
+SUMMARY:Roch 
 LOCATION:4663
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Rochala Zdzisław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T094000Z
@@ -342,23 +552,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T094000Z
 DTEND:20260526T111500Z
-SUMMARY:PA 
+SUMMARY:Kojk 
 LOCATION:
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:mgr inż. Kochan Jakub\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T094000Z
 DTEND:20260602T111500Z
-SUMMARY:Prb 
+SUMMARY:KaW 
 LOCATION:10636
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -\nProwadzący: dr inż. Kaczmarek Wojciech
+DESCRIPTION:dr inż. Kaczmarek Wojciech\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T094000Z
 DTEND:20260609T111500Z
-SUMMARY:Prb 
+SUMMARY:KaW 
 LOCATION:10636
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -\nProwadzący: dr inż. Kaczmarek Wojciech
+DESCRIPTION:dr inż. Kaczmarek Wojciech\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T123000Z
@@ -382,18 +592,11 @@ LOCATION:1867
 DESCRIPTION:Komputerowe wspomaganie obliczeń\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260414T113000Z
-DTEND:20260414T130500Z
-SUMMARY:Brmob 
-LOCATION:
-DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Dejewski Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260421T113000Z
 DTEND:20260421T130500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:4136
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T113000Z
@@ -412,9 +615,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T113000Z
 DTEND:20260512T130500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:4136
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T113000Z
@@ -424,15 +627,15 @@ LOCATION:
 DESCRIPTION:Sensoryka\nRodzaj zajęć: -\nProwadzący: dr inż. Rykała Łukasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260609T113000Z
-DTEND:20260609T130500Z
-SUMMARY:Sens 
-LOCATION:
-DESCRIPTION:Sensoryka\nRodzaj zajęć: -\nProwadzący: dr inż. Rykała Łukasz
+DTSTART:20260602T113000Z
+DTEND:20260602T130500Z
+SUMMARY:Skol 
+LOCATION:12836
+DESCRIPTION:* Skolmowski Albert\nRodzaj zajęć: -\nProwadzący: mgr inż. Kochan Jakub
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260324T150000Z
-DTEND:20260324T163500Z
+DTSTART:20260609T113000Z
+DTEND:20260609T130500Z
 SUMMARY:Sens 
 LOCATION:
 DESCRIPTION:Sensoryka\nRodzaj zajęć: -\nProwadzący: dr inż. Rykała Łukasz
@@ -445,13 +648,6 @@ LOCATION:
 DESCRIPTION:Sensoryka\nRodzaj zajęć: -\nProwadzący: dr inż. Rykała Łukasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260414T140000Z
-DTEND:20260414T153500Z
-SUMMARY:Brmob 
-LOCATION:
-DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Dejewski Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260421T140000Z
 DTEND:20260421T153500Z
 SUMMARY:Sens 
@@ -461,9 +657,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T140000Z
 DTEND:20260505T153500Z
-SUMMARY:Ucm 
+SUMMARY:Dji 
 LOCATION:2063
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -\nProwadzący: mgr inż. Djabin Jakub
+DESCRIPTION:mgr inż. Djabin Jakub\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T140000Z
@@ -475,16 +671,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T140000Z
 DTEND:20260602T153500Z
-SUMMARY:Ucm 
+SUMMARY:Dji 
 LOCATION:2063
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -\nProwadzący: mgr inż. Djabin Jakub
+DESCRIPTION:mgr inż. Djabin Jakub\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T140000Z
 DTEND:20260609T153500Z
-SUMMARY:PA 
+SUMMARY:Stęp 
 LOCATION:4367
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Stępień Sławomir\nRodzaj zajęć: -\nProwadzący: dr inż. Stępień Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T140000Z
@@ -496,23 +692,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T155000Z
 DTEND:20260602T172500Z
-SUMMARY:PA 
+SUMMARY:Sami 
 LOCATION:
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:Sami\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Dejewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T155000Z
 DTEND:20260616T172500Z
-SUMMARY:PA 
+SUMMARY:Sami 
 LOCATION:13036
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:Sami\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Dejewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T070000Z
 DTEND:20260311T083500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:13636
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T070000Z
@@ -524,9 +720,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T070000Z
 DTEND:20260325T083500Z
-SUMMARY:PA 
+SUMMARY:Hen 
 LOCATION:
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:ppłk dr inż.  Henzel Maciej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Henzel Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T060000Z
@@ -538,58 +734,72 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T060000Z
 DTEND:20260415T073500Z
-SUMMARY:Ucm 
+SUMMARY:Roch 
 LOCATION:1563
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Rochala Zdzisław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T060000Z
 DTEND:20260422T073500Z
-SUMMARY:PA 
+SUMMARY:Hen 
 LOCATION:
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:ppłk dr inż.  Henzel Maciej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Henzel Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T060000Z
 DTEND:20260506T073500Z
-SUMMARY:Ucm 
+SUMMARY:Roch 
 LOCATION:4663
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Rochala Zdzisław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T060000Z
 DTEND:20260520T073500Z
-SUMMARY:PA 
+SUMMARY:Stęp 
 LOCATION:4367
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Stępień Sławomir\nRodzaj zajęć: -\nProwadzący: dr inż. Stępień Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T060000Z
+DTEND:20260527T073500Z
+SUMMARY:SIwM 
+LOCATION:1863
+DESCRIPTION:dr inż. Siwek Michał\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T060000Z
 DTEND:20260603T073500Z
-SUMMARY:Prb 
+SUMMARY:SIwM 
 LOCATION:1863
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -\nProwadzący: dr inż. Kaczmarek Wojciech
+DESCRIPTION:dr inż. Siwek Michał\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T085000Z
 DTEND:20260311T102500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:13636
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T085000Z
+DTEND:20260318T102500Z
+SUMMARY:Kwsob 
+LOCATION:1867
+DESCRIPTION:Komputerowe wspomaganie obliczeń\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T085000Z
 DTEND:20260325T102500Z
-SUMMARY:Prb 
+SUMMARY:KaW 
 LOCATION:1863
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -\nProwadzący: dr inż. Kaczmarek Wojciech
+DESCRIPTION:dr inż. Kaczmarek Wojciech\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T075000Z
 DTEND:20260401T092500Z
-SUMMARY:PA 
+SUMMARY:Kuni 
 LOCATION:
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -\nProwadzący: mgr inż. Djabin Jakub
+DESCRIPTION:Kuni\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Dejewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T075000Z
@@ -608,23 +818,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T075000Z
 DTEND:20260506T092500Z
-SUMMARY:PA 
+SUMMARY:Hen 
 LOCATION:
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:ppłk dr inż.  Henzel Maciej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Henzel Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T075000Z
 DTEND:20260513T092500Z
-SUMMARY:PA 
+SUMMARY:Hen 
 LOCATION:
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:ppłk dr inż.  Henzel Maciej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Henzel Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T075000Z
 DTEND:20260520T092500Z
-SUMMARY:PA 
+SUMMARY:Hen 
 LOCATION:
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:ppłk dr inż.  Henzel Maciej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Henzel Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T075000Z
@@ -641,6 +851,20 @@ LOCATION:13636
 DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Dejewski Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260318T104000Z
+DTEND:20260318T121500Z
+SUMMARY:Kwsob 
+LOCATION:1867
+DESCRIPTION:Komputerowe wspomaganie obliczeń\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T104000Z
+DTEND:20260325T121500Z
+SUMMARY:Sens 
+LOCATION:
+DESCRIPTION:Sensoryka\nRodzaj zajęć: -\nProwadzący: dr inż. Rykała Łukasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260401T094000Z
 DTEND:20260401T111500Z
 SUMMARY:Brmob 
@@ -650,23 +874,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T094000Z
 DTEND:20260415T111500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:4136
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T094000Z
 DTEND:20260422T111500Z
-SUMMARY:Ucm 
+SUMMARY:Roch 
 LOCATION:1863
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Rochala Zdzisław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T094000Z
 DTEND:20260429T111500Z
-SUMMARY:Prb 
+SUMMARY:SIwM 
 LOCATION:2063
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -\nProwadzący: dr inż. Kaczmarek Wojciech
+DESCRIPTION:dr inż. Siwek Michał\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T094000Z
@@ -699,16 +923,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T123000Z
 DTEND:20260325T140500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:4136
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T113000Z
 DTEND:20260415T130500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T113000Z
@@ -720,44 +944,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T113000Z
 DTEND:20260520T130500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T113000Z
 DTEND:20260527T130500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T113000Z
 DTEND:20260603T130500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T113000Z
 DTEND:20260610T130500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T113000Z
 DTEND:20260617T130500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260318T150000Z
-DTEND:20260318T163500Z
-SUMMARY:Sens 
-LOCATION:
-DESCRIPTION:Sensoryka\nRodzaj zajęć: -\nProwadzący: dr inż. Rykała Łukasz
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T150000Z
@@ -769,9 +986,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T140000Z
 DTEND:20260415T153500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T140000Z
@@ -797,72 +1014,100 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T140000Z
 DTEND:20260520T153500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T140000Z
 DTEND:20260527T153500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T140000Z
 DTEND:20260603T153500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T140000Z
 DTEND:20260610T153500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T140000Z
 DTEND:20260617T153500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T070000Z
 DTEND:20260305T083500Z
-SUMMARY:Prb 
+SUMMARY:KaW 
 LOCATION:1863
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -\nProwadzący: dr inż. Kaczmarek Wojciech
+DESCRIPTION:dr inż. Kaczmarek Wojciech\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T070000Z
+DTEND:20260312T083500Z
+SUMMARY:Roch 
+LOCATION:1963
+DESCRIPTION:dr inż. Rochala Zdzisław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T070000Z
 DTEND:20260319T083500Z
-SUMMARY:PA 
+SUMMARY:Map 
 LOCATION:13636
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Kurnyta-Mazurek Paulina\nRodzaj zajęć: -\nProwadzący: dr inż. Kurnyta-Mazurek Paulina
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T070000Z
+DTEND:20260326T083500Z
+SUMMARY:Przy 
+LOCATION:
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T060000Z
 DTEND:20260416T073500Z
-SUMMARY:PA 
+SUMMARY:Map 
 LOCATION:13636
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Kurnyta-Mazurek Paulina\nRodzaj zajęć: -\nProwadzący: dr inż. Kurnyta-Mazurek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T060000Z
 DTEND:20260430T073500Z
-SUMMARY:Prb 
+SUMMARY:Prus 
 LOCATION:4763
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -
+DESCRIPTION:Prus\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T060000Z
+DTEND:20260528T073500Z
+SUMMARY:Kwsob 
+LOCATION:3136
+DESCRIPTION:Komputerowe wspomaganie obliczeń\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T085000Z
 DTEND:20260305T102500Z
-SUMMARY:Ucm 
+SUMMARY:Roch 
 LOCATION:4663
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Rochala Zdzisław\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T085000Z
+DTEND:20260319T102500Z
+SUMMARY:Sens 
+LOCATION:
+DESCRIPTION:Sensoryka\nRodzaj zajęć: -\nProwadzący: dr inż. Rykała Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T085000Z
@@ -886,13 +1131,6 @@ LOCATION:13036
 DESCRIPTION:Komputerowe wspomaganie obliczeń\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260416T075000Z
-DTEND:20260416T092500Z
-SUMMARY:Kwsob 
-LOCATION:13036
-DESCRIPTION:Komputerowe wspomaganie obliczeń\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260423T075000Z
 DTEND:20260423T092500Z
 SUMMARY:Kwsob 
@@ -902,16 +1140,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T075000Z
 DTEND:20260430T092500Z
-SUMMARY:Ucm 
+SUMMARY:Dji 
 LOCATION:13636
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -\nProwadzący: mgr inż. Djabin Jakub
+DESCRIPTION:mgr inż. Djabin Jakub\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T075000Z
+DTEND:20260521T092500Z
+SUMMARY:Kwsob 
+LOCATION:3136
+DESCRIPTION:Komputerowe wspomaganie obliczeń\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T075000Z
 DTEND:20260528T092500Z
-SUMMARY:PA 
+SUMMARY:Map 
 LOCATION:13636
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Kurnyta-Mazurek Paulina\nRodzaj zajęć: -\nProwadzący: dr inż. Kurnyta-Mazurek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T075000Z
@@ -923,9 +1168,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T104000Z
 DTEND:20260319T121500Z
-SUMMARY:PA 
+SUMMARY:Hen 
 LOCATION:
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:ppłk dr inż.  Henzel Maciej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Henzel Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T104000Z
@@ -949,46 +1194,32 @@ LOCATION:13036
 DESCRIPTION:Komputerowe wspomaganie obliczeń\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260416T094000Z
-DTEND:20260416T111500Z
-SUMMARY:Kwsob 
-LOCATION:13036
-DESCRIPTION:Komputerowe wspomaganie obliczeń\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260430T094000Z
 DTEND:20260430T111500Z
-SUMMARY:PA 
+SUMMARY:Map 
 LOCATION:13636
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Kurnyta-Mazurek Paulina\nRodzaj zajęć: -\nProwadzący: dr inż. Kurnyta-Mazurek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T094000Z
 DTEND:20260507T111500Z
-SUMMARY:PA 
+SUMMARY:Hen 
 LOCATION:
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:ppłk dr inż.  Henzel Maciej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Henzel Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T094000Z
 DTEND:20260521T111500Z
-SUMMARY:PA 
+SUMMARY:Map 
 LOCATION:13636
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Kurnyta-Mazurek Paulina\nRodzaj zajęć: -\nProwadzący: dr inż. Kurnyta-Mazurek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T094000Z
 DTEND:20260528T111500Z
-SUMMARY:PA 
+SUMMARY:Dji 
 LOCATION:13036
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -\nProwadzący: mgr inż. Djabin Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260312T123000Z
-DTEND:20260312T140500Z
-SUMMARY:Ucm 
-LOCATION:1863
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -
+DESCRIPTION:mgr inż. Djabin Jakub\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Henzel Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T123000Z
@@ -1007,23 +1238,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T113000Z
 DTEND:20260409T130500Z
-SUMMARY:Prb 
+SUMMARY:SIwM 
 LOCATION:2063
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -\nProwadzący: dr inż. Kaczmarek Wojciech
+DESCRIPTION:dr inż. Siwek Michał\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T113000Z
+DTEND:20260416T130500Z
+SUMMARY:Przy 
+LOCATION:
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T113000Z
 DTEND:20260430T130500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:4136
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T113000Z
 DTEND:20260507T130500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T113000Z
@@ -1035,65 +1273,51 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T113000Z
 DTEND:20260521T130500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T140000Z
 DTEND:20260507T153500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T140000Z
 DTEND:20260521T153500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T155000Z
 DTEND:20260430T172500Z
-SUMMARY:Ucm 
-LOCATION:
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -
+SUMMARY:Karw 
+LOCATION:12836
+DESCRIPTION:Karw\nRodzaj zajęć: -\nProwadzący: mgr inż. Kochan Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T155000Z
 DTEND:20260521T172500Z
-SUMMARY:Ucm 
+SUMMARY:Karw 
 LOCATION:
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260320T070000Z
-DTEND:20260320T083500Z
-SUMMARY:Prb 
-LOCATION:1863
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -\nProwadzący: dr inż. Kaczmarek Wojciech
+DESCRIPTION:Karw\nRodzaj zajęć: -\nProwadzący: mgr inż. Kochan Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T060000Z
 DTEND:20260417T073500Z
-SUMMARY:Prb 
+SUMMARY:KaW 
 LOCATION:1863
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: -\nProwadzący: dr inż. Kaczmarek Wojciech
+DESCRIPTION:dr inż. Kaczmarek Wojciech\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T060000Z
 DTEND:20260508T073500Z
-SUMMARY:PA 
+SUMMARY:Kojk 
 LOCATION:
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260320T085000Z
-DTEND:20260320T102500Z
-SUMMARY:Kwsob 
-LOCATION:1867
-DESCRIPTION:Komputerowe wspomaganie obliczeń\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
+DESCRIPTION:mgr inż. Kochan Jakub\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T075000Z
@@ -1138,13 +1362,6 @@ LOCATION:1963
 DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: -\nProwadzący: kpt. mgr inż. Dejewski Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260320T104000Z
-DTEND:20260320T121500Z
-SUMMARY:Kwsob 
-LOCATION:1867
-DESCRIPTION:Komputerowe wspomaganie obliczeń\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260410T094000Z
 DTEND:20260410T111500Z
 SUMMARY:Kwsob 
@@ -1175,23 +1392,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T094000Z
 DTEND:20260522T111500Z
-SUMMARY:Ucm 
+SUMMARY:Dji 
 LOCATION:4663
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -\nProwadzący: mgr inż. Djabin Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260327T123000Z
-DTEND:20260327T140500Z
-SUMMARY:Pkrob 
-LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:mgr inż. Djabin Jakub\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T113000Z
 DTEND:20260410T130500Z
-SUMMARY:Ucm 
+SUMMARY:Rowi 
 LOCATION:
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -
+DESCRIPTION:* Rowicki Mateusz\nRodzaj zajęć: -\nProwadzący: mgr inż. Kochan Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T113000Z
@@ -1203,57 +1413,50 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T113000Z
 DTEND:20260508T130500Z
-SUMMARY:PA 
+SUMMARY:Map 
 LOCATION:13636
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Kurnyta-Mazurek Paulina\nRodzaj zajęć: -\nProwadzący: dr inż. Kurnyta-Mazurek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T113000Z
 DTEND:20260515T130500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T113000Z
 DTEND:20260522T130500Z
-SUMMARY:Ucm 
+SUMMARY:Kojk 
 LOCATION:13036
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -
+DESCRIPTION:mgr inż. Kochan Jakub\nRodzaj zajęć: -\nProwadzący: mgr inż. Kochan Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T113000Z
 DTEND:20260529T130500Z
-SUMMARY:Ucm 
+SUMMARY:Kojk 
 LOCATION:13036
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260327T150000Z
-DTEND:20260327T163500Z
-SUMMARY:Pkrob 
-LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:mgr inż. Kochan Jakub\nRodzaj zajęć: -\nProwadzący: mgr inż. Kochan Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T140000Z
 DTEND:20260410T153500Z
-SUMMARY:Ucm 
+SUMMARY:Dji 
 LOCATION:2063
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -\nProwadzący: mgr inż. Djabin Jakub
+DESCRIPTION:mgr inż. Djabin Jakub\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T140000Z
 DTEND:20260508T153500Z
-SUMMARY:Ucm 
+SUMMARY:Dji 
 LOCATION:1963
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -\nProwadzący: mgr inż. Djabin Jakub
+DESCRIPTION:mgr inż. Djabin Jakub\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T140000Z
 DTEND:20260515T153500Z
-SUMMARY:Pkrob 
+SUMMARY:Przy 
 LOCATION:
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: -\nProwadzący: dr inż. Przybysz Mirosław
+DESCRIPTION:Przy\nRodzaj zajęć: -\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 END:VCALENDAR

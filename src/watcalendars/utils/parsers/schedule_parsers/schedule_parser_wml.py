@@ -55,7 +55,7 @@ def extract_legend(soup: BeautifulSoup) -> list[tuple[str, str, list[str]]]:
 
 
 def parse_schedule(html: str) -> list[dict]:
-    """Parse single WML schedule HTML into lesson events"""
+    """Parse single WML schedule HTML into lesson events - Improved Version"""
     if not html:
         return []
 
@@ -98,9 +98,9 @@ def parse_schedule(html: str) -> list[dict]:
     
     for abbr, full, lecturers in legend_entries:
         if abbr and full:
-            subject_legend_full.setdefault(abbr, full)
+            subject_legend_full[abbr.upper()] = full
             if lecturers:
-                lst = subject_legend_lect.setdefault(abbr, [])
+                lst = subject_legend_lect.setdefault(abbr.upper(), [])
                 for l in lecturers:
                     if l not in lst:
                         lst.append(l)
@@ -110,26 +110,18 @@ def parse_schedule(html: str) -> list[dict]:
     def normalize_type(sym: str) -> str:
         """Normalize lesson type symbol"""
         s = (sym or '').strip()
-        if not s:
-            return s
-        if s in TYPE_SYMBOLS:
-            return s
+        if not s: return s
+        if s in TYPE_SYMBOLS: return s
         core = s.strip('()')
         for cand in (f'({core})', f'({core.lower()})', f'({core.upper()})'):
-            if cand in TYPE_SYMBOLS:
-                return cand
+            if cand in TYPE_SYMBOLS: return cand
         return s
 
     def pick_lecturers_for_code(subj: str, code: str) -> list[str]:
         """Pick lecturers based on subject and lecturer codes"""
-        names = subject_legend_lect.get(subj) or []
-        if not names:
-            names = all_lecturers
-        if not code:
-            return names[:1] if len(names) == 1 else []
-
-        if not names:
-            return []
+        names = subject_legend_lect.get(subj.upper()) or []
+        if not names: names = all_lecturers
+        if not code: return names[:1] if len(names) == 1 else []
 
         def undiac(s: str) -> str:
             return ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn')
@@ -140,11 +132,9 @@ def parse_schedule(html: str) -> list[dict]:
         norm_names = [(full, re.sub(r'[^a-z]', '', undiac(full).lower())) for full in names]
         for code_token in codes:
             k = re.sub(r'[^a-z]', '', undiac(code_token).lower())
-            if not k:
-                continue
+            if not k: continue
             for full, hay in norm_names:
-                if full in seen:
-                    continue
+                if full in seen: continue
                 if all(ch in hay for ch in set(k)):
                     result.append(full)
                     seen.add(full)
@@ -158,8 +148,7 @@ def parse_schedule(html: str) -> list[dict]:
 
     for tr in table.find_all('tr'):
         cells = tr.find_all(['td', 'th'])
-        if not cells:
-            continue
+        if not cells: continue
         first = (cells[0].get_text(strip=True) or '').lower()
         
         if first in DAY_ALIASES and len(cells) > 2:
@@ -213,89 +202,91 @@ def parse_schedule(html: str) -> list[dict]:
 
             def append_lesson_if_valid(dt: datetime | None, raw_lines: list[str]):
                 """Create lesson from parsed data"""
-                if not (dt and raw_lines):
-                    return
+                if not (dt and raw_lines): return
                     
-                lines = [t for t in raw_lines if t]
-                percent_token = None
-                if lines and '%' in lines[0]:
-                    percent_token = lines[0]
+                lines = [t.strip() for t in raw_lines if t.strip() and t.strip() != '-']
+                if not lines: return
+
+                percent_token = ""
+                if lines and lines[0] == '%':
+                    percent_token = "%"
                     lines = lines[1:]
                 
-                STANDALONE_SUBJECTS = {'WF', 'XWF', 'DGB', 'ZŻWAT', 'ŚNIEŻNIK', 'REZ', 'SSW', 'TA', 'REG', 'MW'}
+                if not lines: return
+
+                STANDALONE_SUBJECTS = {
+                    'WF', 'XWF', 'DGB', 'ZŻWAT', 'ŚNIEŻNIK', 'REZ', 'SSW', 'TA', 
+                    'REG', 'MW', 'SJO', 'ANG', 'TAK', 'OPBMR', 'SŁ.ZDR', 'EKSPL', 'HP'
+                }
                 
                 subject_abbr = None
                 subject_idx = None
                 
-                if lines and lines[0] in STANDALONE_SUBJECTS:
-                    subject_abbr = lines[0]
-                    subject_idx = 0
-                elif len(lines) > 1 and lines[1] in STANDALONE_SUBJECTS:
-                    subject_abbr = lines[1]
-                    subject_idx = 1
-                elif len(lines) > 2:
-                    tt = lines[2].strip()
-                    if re.fullmatch(r"[A-ZĄĆĘŁŃÓŚŹŻa-ząćęłńóśźż]{2,6}[0-9]?", tt) and tt[0].isupper():
-                        subject_abbr = tt
-                        subject_idx = 2
+                # 1. Identyfikacja przedmiotu na podstawie legendy, listy lub regexu
+                for i, line in enumerate(lines):
+                    clean = line.replace('%', '').strip().upper()
+                    if clean in subject_legend_full:
+                        subject_abbr = line
+                        subject_idx = i
+                        break
+                    if clean in STANDALONE_SUBJECTS:
+                        subject_abbr = line
+                        subject_idx = i
+                        break
+                    if re.fullmatch(r"[A-ZĄĆĘŁŃÓŚŹŻ]{2,12}[0-9]?", clean):
+                        subject_abbr = line
+                        subject_idx = i
+                        break
                 
                 if not subject_abbr or subject_abbr.upper() == 'SK':
                     return
-                    
-                subject_display = f"{percent_token} {subject_abbr}".strip() if percent_token else subject_abbr
                 
-                symbol = ''
                 room = ''
+                symbol = ''
                 lecturer_codes: list[str] = []
                 
-                before_subj = lines[:subject_idx] if subject_idx is not None and subject_idx > 0 else []
-                for line in before_subj:
-                    if re.match(r'^\d{2,3}(\s*\d{2})?[A-Z]?$', line):
-                        if not room:
-                            room = line.replace(' ', '')
-                        continue
-                    if re.match(r'^[A-ZŻŹĆŁŚÓ][a-ząćęłńóśźż]{1,}$', line) or re.match(r'^[A-ZŻŹĆŁŚÓ]{2,}$', line):
-                        lecturer_codes.append(line)
-                
-                rest = lines[subject_idx + 1:] if subject_idx is not None else []
-                for line in rest:
-                    if not symbol and line in TYPE_SYMBOLS:
-                        symbol = line
-                        continue
-                    if not room and re.match(r'^\d{2,3}(\s*\d{2})?[A-Z]?$', line):
-                        room = line.replace(' ', '')
-                        continue
-                    if re.match(r'^[A-ZŻŹĆŁŚÓ][a-ząćęłńóśźż]{1,}$', line) or re.match(r'^[A-ZŻŹĆŁŚÓ]{2,}$', line):
-                        lecturer_codes.append(line)
-                        continue
+                # 2. Wyodrębnianie reszty danych z pominięciem przedmiotu
+                for i, line in enumerate(lines):
+                    if i == subject_idx: continue
+                    clean = line.strip()
+                    
+                    if re.match(r'^(\d{1,3}[\s/]?\d{0,3}[A-Z]?|bud\.\s*\d+)$', clean):
+                        room = clean.replace(' ', '')
+                    elif clean in TYPE_SYMBOLS:
+                        symbol = clean
+                    elif re.match(r'^[A-ZŻŹĆŁŚÓ][a-ząćęłńóśźż]{1,}$', clean) or re.match(r'^[A-ZŻŹĆŁŚÓ]{2,}$', clean):
+                        lecturer_codes.append(clean)
 
                 lesson_type = normalize_type(symbol)
                 type_full = TYPE_FULL_MAP.get(lesson_type, lesson_type or '-')
-                lect_code = ' '.join(lecturer_codes)
-                lecturers = pick_lecturers_for_code(subject_abbr, lect_code)
-                full_subject_name = subject_legend_full.get(subject_abbr, subject_abbr)
+                
+                clean_subj_for_lect = subject_abbr.replace('%', '').strip()
+                lecturers = pick_lecturers_for_code(clean_subj_for_lect, ' '.join(lecturer_codes))
+                full_subject_name = subject_legend_full.get(clean_subj_for_lect.upper(), clean_subj_for_lect)
+                
+                subject_display = f"{percent_token} {subject_abbr}".strip() if percent_token else subject_abbr
                 
                 try:
                     start_dt = datetime.strptime(start_time, '%H:%M').replace(year=dt.year, month=dt.month, day=dt.day)
                     end_dt = datetime.strptime(end_time, '%H:%M').replace(year=dt.year, month=dt.month, day=dt.day)
-                except Exception:
-                    return
                     
-                lessons.append({
-                    'date': dt.strftime('%Y_%m_%d'),
-                    'start': start_dt,
-                    'end': end_dt,
-                    'subject': subject_abbr,
-                    'subject_display': subject_display,
-                    'type': lesson_type,
-                    'type_full': type_full,
-                    'room': room,
-                    'lesson_number': '',
-                    'full_subject_name': full_subject_name,
-                    'lecturers': lecturers,
-                    'full_subject': full_subject_name,
-                    'lecturer': '; '.join(lecturers) if lecturers else '',
-                })
+                    lessons.append({
+                        'date': dt.strftime('%Y_%m_%d'),
+                        'start': start_dt,
+                        'end': end_dt,
+                        'subject': clean_subj_for_lect,
+                        'subject_display': subject_display,
+                        'type': lesson_type,
+                        'type_full': type_full,
+                        'room': room,
+                        'lesson_number': '',
+                        'full_subject_name': full_subject_name,
+                        'lecturers': lecturers,
+                        'full_subject': full_subject_name,
+                        'lecturer': '; '.join(lecturers) if lecturers else '',
+                    })
+                except Exception:
+                    pass
 
             col_idx = 0
             ci = block_idx + 1

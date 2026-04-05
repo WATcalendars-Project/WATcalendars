@@ -711,6 +711,13 @@ LOCATION:
 DESCRIPTION:DYSP\nRodzaj zajęć: -\nNumer zajęć: 6/14
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250511T155000Z
+DTEND:20250511T172500Z
+SUMMARY:GMiB (w)
+LOCATION:3/038
+DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: ppłk mgr Lasak Michał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250302T184000Z
 DTEND:20250302T201500Z
 SUMMARY:I 
@@ -805,7 +812,7 @@ BEGIN:VEVENT
 DTSTART:20250414T060000Z
 DTEND:20250414T073500Z
 SUMMARY:SzS (S)
-LOCATION:3/038
+LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
@@ -814,6 +821,13 @@ DTEND:20250421T073500Z
 SUMMARY:OPBMR (w)
 LOCATION:
 DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T060000Z
+DTEND:20250428T073500Z
+SUMMARY:OTiRW (w)
+LOCATION:28/ 135
+DESCRIPTION:Organizacja transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T060000Z
@@ -931,7 +945,7 @@ BEGIN:VEVENT
 DTSTART:20250414T075000Z
 DTEND:20250414T092500Z
 SUMMARY:PD (w)
-LOCATION:3/038 DK
+LOCATION:
 DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: ppłk rez. mgr inż. Koszałko Dariusz
 END:VEVENT
 BEGIN:VEVENT
@@ -1064,7 +1078,7 @@ BEGIN:VEVENT
 DTSTART:20250414T094000Z
 DTEND:20250414T111500Z
 SUMMARY:ZINŻ (w)
-LOCATION:3/038
+LOCATION:
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: ppłk mgr Jurzysta Paweł
 END:VEVENT
 BEGIN:VEVENT
@@ -1544,18 +1558,11 @@ LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/21
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250422T060000Z
-DTEND:20250422T073500Z
-SUMMARY:TW (w)
-LOCATION:
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: mgr inż. Oleksiak Marek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250429T060000Z
 DTEND:20250429T073500Z
 SUMMARY:TW (w)
 LOCATION:
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: mgr inż. Oleksiak Marek
+DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: mgr inż. Oleksiak Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T060000Z
@@ -1716,7 +1723,7 @@ DTSTART:20250527T075000Z
 DTEND:20250527T092500Z
 SUMMARY:GMiB (w)
 LOCATION:3/038
-DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: ppłk mgr Lasak Michał
+DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: ppłk mgr Lasak Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T075000Z
@@ -1744,7 +1751,7 @@ DTSTART:20250624T075000Z
 DTEND:20250624T092500Z
 SUMMARY:OTiRW (w)
 LOCATION:52/ 62
-DESCRIPTION:Organizacja transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: mgr inż. Szymański Krzysztof
+DESCRIPTION:Organizacja transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T075000Z
@@ -1821,7 +1828,7 @@ DTSTART:20250429T094000Z
 DTEND:20250429T111500Z
 SUMMARY:OTiRW (w)
 LOCATION:51/ 62
-DESCRIPTION:Organizacja transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: mgr inż. Szymański Krzysztof
+DESCRIPTION:Organizacja transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T094000Z
@@ -2108,7 +2115,7 @@ DTSTART:20250527T140000Z
 DTEND:20250527T153500Z
 SUMMARY:OTiRW (w)
 LOCATION:15/ 23a
-DESCRIPTION:Organizacja transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: mgr inż. Szymański Krzysztof
+DESCRIPTION:Organizacja transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T140000Z
@@ -2307,13 +2314,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 132/329
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250416T060000Z
-DTEND:20250416T073500Z
-SUMMARY:ZaMe (w)
-LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250423T060000Z
 DTEND:20250423T073500Z
 SUMMARY:Płt (ć)
@@ -2431,13 +2431,6 @@ DTEND:20250409T092500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 139/329
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250416T075000Z
-DTEND:20250416T092500Z
-SUMMARY:GMiB (w)
-LOCATION:
-DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: ppłk mgr Lasak Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T075000Z
@@ -2566,6 +2559,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 146/329
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250416T094000Z
+DTEND:20250416T111500Z
+SUMMARY:ZaMe (w)
+LOCATION:
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250423T094000Z
 DTEND:20250423T111500Z
 SUMMARY:DSiSM (ć)
@@ -2591,7 +2591,7 @@ DTSTART:20250514T094000Z
 DTEND:20250514T111500Z
 SUMMARY:OTiRW (w)
 LOCATION:15/ 23a
-DESCRIPTION:Organizacja transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: mgr inż. Szymański Krzysztof
+DESCRIPTION:Organizacja transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T094000Z
@@ -2958,6 +2958,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 167/329
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250423T155000Z
+DTEND:20250423T172500Z
+SUMMARY:TW (w)
+LOCATION:
+DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: mgr inż. Oleksiak Marek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250604T155000Z
 DTEND:20250604T172500Z
 SUMMARY:I 
@@ -3117,13 +3124,6 @@ DTEND:20250522T073500Z
 SUMMARY:PESW (ć)
 LOCATION:
 DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW)\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: kpt.mgr inż. Goździk Dawid
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250529T060000Z
-DTEND:20250529T073500Z
-SUMMARY:OTiRW (w)
-LOCATION:5/ 23a
-DESCRIPTION:Organizacja transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T060000Z

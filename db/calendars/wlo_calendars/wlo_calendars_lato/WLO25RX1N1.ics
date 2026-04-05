@@ -48,9 +48,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T060000Z
 DTEND:20260425T073500Z
-SUMMARY:PSwNS (ć)
+SUMMARY:PSwNS (L)
 LOCATION:0.23/16
-DESCRIPTION:Podstawy Statystyki w Naukach Społeczenych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr Oziębło Małgorzata
+DESCRIPTION:Podstawy Statystyki w Naukach Społeczenych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T060000Z
@@ -125,9 +125,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T075000Z
 DTEND:20260425T092500Z
-SUMMARY:PSwNS (ć)
+SUMMARY:PSwNS (L)
 LOCATION:0.23/16
-DESCRIPTION:Podstawy Statystyki w Naukach Społeczenych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Oziębło Małgorzata
+DESCRIPTION:Podstawy Statystyki w Naukach Społeczenych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T075000Z
@@ -335,9 +335,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260328T150000Z
 DTEND:20260328T163500Z
-SUMMARY:PiSB (ć)
-LOCATION:5.17/135
-DESCRIPTION:Polityka i Strategia Bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: prof. dr hab. Jagusiak Bogusław
+SUMMARY:Podstawy 
+LOCATION:3.16/135
+DESCRIPTION:Podstawy\nRodzaj zajęć: -\nNumer zajęć: 3/9\nProwadzący: dr Oziębło Małgorzata; ppłk dr Waszkiewicz Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T140000Z
@@ -361,11 +361,18 @@ LOCATION:3.16/135
 DESCRIPTION:Podstawy Statystyki w Naukach Społeczenych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260509T140000Z
+DTEND:20260509T153500Z
+SUMMARY:PiSB (ć)
+LOCATION:0.8/16
+DESCRIPTION:Polityka i Strategia Bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: prof. dr hab. Jagusiak Bogusław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260516T140000Z
 DTEND:20260516T153500Z
-SUMMARY:PSwNS (ć)
+SUMMARY:PSwNS (L)
 LOCATION:5.21/135
-DESCRIPTION:Podstawy Statystyki w Naukach Społeczenych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Oziębło Małgorzata
+DESCRIPTION:Podstawy Statystyki w Naukach Społeczenych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260530T140000Z
@@ -391,9 +398,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260328T165000Z
 DTEND:20260328T182500Z
-SUMMARY:Podstawy 
-LOCATION:3.16/135
-DESCRIPTION:Podstawy\nRodzaj zajęć: -\nNumer zajęć: 3/9\nProwadzący: dr Oziębło Małgorzata; ppłk dr Waszkiewicz Grzegorz
+SUMMARY:PiSB (ć)
+LOCATION:5.21/135
+DESCRIPTION:Polityka i Strategia Bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: prof. dr hab. Jagusiak Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T155000Z
@@ -417,11 +424,18 @@ LOCATION:0.19/135
 DESCRIPTION:Podstawy psychologii\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr Czuba Beata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260509T155000Z
+DTEND:20260509T172500Z
+SUMMARY:PiSB (ć)
+LOCATION:0.8/16
+DESCRIPTION:Polityka i Strategia Bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: prof. dr hab. Jagusiak Bogusław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260516T155000Z
 DTEND:20260516T172500Z
-SUMMARY:PSwNS (ć)
+SUMMARY:PSwNS (L)
 LOCATION:5.21/135
-DESCRIPTION:Podstawy Statystyki w Naukach Społeczenych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Oziębło Małgorzata
+DESCRIPTION:Podstawy Statystyki w Naukach Społeczenych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260307T184000Z
@@ -470,7 +484,7 @@ DTSTART:20260419T060000Z
 DTEND:20260419T073500Z
 SUMMARY:PiSB (ć)
 LOCATION:37/158
-DESCRIPTION:Polityka i Strategia Bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: prof. dr hab. Jagusiak Bogusław
+DESCRIPTION:Polityka i Strategia Bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: prof. dr hab. Jagusiak Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260426T060000Z
@@ -485,13 +499,6 @@ DTEND:20260510T073500Z
 SUMMARY:Pmy (ć)
 LOCATION:1.16/16
 DESCRIPTION:Podstawy matematyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Ćwik Bogdan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260517T060000Z
-DTEND:20260517T073500Z
-SUMMARY:PiSB (ć)
-LOCATION:0.8/16
-DESCRIPTION:Polityka i Strategia Bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: prof. dr hab. Jagusiak Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260531T060000Z
@@ -540,7 +547,7 @@ DTSTART:20260419T075000Z
 DTEND:20260419T092500Z
 SUMMARY:PiSB (ć)
 LOCATION:37/158
-DESCRIPTION:Polityka i Strategia Bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: prof. dr hab. Jagusiak Bogusław
+DESCRIPTION:Polityka i Strategia Bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: prof. dr hab. Jagusiak Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260426T075000Z
@@ -557,25 +564,11 @@ LOCATION:1.16/16
 DESCRIPTION:Podstawy matematyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Ćwik Bogdan
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260517T075000Z
-DTEND:20260517T092500Z
-SUMMARY:PiSB (ć)
-LOCATION:0.8/16
-DESCRIPTION:Polityka i Strategia Bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: prof. dr hab. Jagusiak Bogusław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260531T075000Z
 DTEND:20260531T092500Z
 SUMMARY:Szwp (ć)
 LOCATION:0.23/16
 DESCRIPTION:Siły zbrojne w państwie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260614T075000Z
-DTEND:20260614T092500Z
-SUMMARY:PiSB (ć)
-LOCATION:5.21/135
-DESCRIPTION:Polityka i Strategia Bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: prof. dr hab. Jagusiak Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260621T075000Z
@@ -737,6 +730,13 @@ DTEND:20260531T130500Z
 SUMMARY:PPs (ć)
 LOCATION:4.17a/135
 DESCRIPTION:Podstawy psychologii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Czuba Beata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260614T113000Z
+DTEND:20260614T130500Z
+SUMMARY:PiSB (ć)
+LOCATION:0.23/16
+DESCRIPTION:Polityka i Strategia Bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: prof. dr hab. Jagusiak Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260621T113000Z

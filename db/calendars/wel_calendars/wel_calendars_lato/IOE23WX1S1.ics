@@ -174,9 +174,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T094000Z
 DTEND:20260504T111500Z
-SUMMARY:STS 
+SUMMARY:PTL 
 LOCATION:
-DESCRIPTION:Systemy telemetrii, zarządzania i sterowania obiektów kosmicznych\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
+DESCRIPTION:Podstawy techniki laserowej\nRodzaj zajęć: -\nProwadzący: dr inż. Skórczakowski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T094000Z
@@ -244,9 +244,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T113000Z
 DTEND:20260504T130500Z
-SUMMARY:PTL 
-LOCATION:2046
-DESCRIPTION:Podstawy techniki laserowej\nRodzaj zajęć: -\nProwadzący: dr inż. Skórczakowski Marek
+SUMMARY:AMK 
+LOCATION:
+DESCRIPTION:Analiza i projektowanie misji kosmicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Drozd Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T113000Z
@@ -372,6 +372,13 @@ DTSTART:20260519T060000Z
 DTEND:20260519T073500Z
 SUMMARY:STS 
 LOCATION:13636
+DESCRIPTION:Systemy telemetrii, zarządzania i sterowania obiektów kosmicznych\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T060000Z
+DTEND:20260526T073500Z
+SUMMARY:STS 
+LOCATION:
 DESCRIPTION:Systemy telemetrii, zarządzania i sterowania obiektów kosmicznych\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -793,13 +800,6 @@ DTEND:20260610T130500Z
 SUMMARY:PTL 
 LOCATION:
 DESCRIPTION:Podstawy techniki laserowej\nRodzaj zajęć: -\nProwadzący: dr inż. Skórczakowski Marek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260401T140000Z
-DTEND:20260401T153500Z
-SUMMARY:AMK 
-LOCATION:
-DESCRIPTION:Analiza i projektowanie misji kosmicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Drozd Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T070000Z

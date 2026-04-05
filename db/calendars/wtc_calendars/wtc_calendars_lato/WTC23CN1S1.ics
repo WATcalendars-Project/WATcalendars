@@ -328,9 +328,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T123000Z
 DTEND:20260316T140500Z
-SUMMARY:Bchm (w)
-LOCATION:110/ 14
-DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 7/17\nProwadzący: dr inż. Węgłowska Dorota
+SUMMARY:Hofc (w)
+LOCATION:027 24
+DESCRIPTION:History of Chemistry\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Szala Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T123000Z
@@ -400,7 +400,7 @@ DTSTART:20260414T060000Z
 DTEND:20260414T073500Z
 SUMMARY:Bchm (w)
 LOCATION:110/ 14
-DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 8/17\nProwadzący: dr inż. Węgłowska Dorota
+DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 7/17\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T060000Z
@@ -414,7 +414,14 @@ DTSTART:20260428T060000Z
 DTEND:20260428T073500Z
 SUMMARY:Bchm (w)
 LOCATION:109 24
-DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 9/17\nProwadzący: dr inż. Węgłowska Dorota
+DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 8/17\nProwadzący: dr inż. Węgłowska Dorota
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T060000Z
+DTEND:20260505T073500Z
+SUMMARY:Hofc (S)
+LOCATION:027 24
+DESCRIPTION:History of Chemistry\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/5\nProwadzący: dr inż. Szala Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T060000Z
@@ -508,6 +515,13 @@ LOCATION:1 55A
 DESCRIPTION:Chemia środków trujących i procesów odkażania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/16\nProwadzący: dr hab. inż. Popiel Stanisław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260310T104000Z
+DTEND:20260310T121500Z
+SUMMARY:Doz (w)
+LOCATION:10 55
+DESCRIPTION:Dozymetria\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: mjr dr inż. Fliszkiewicz Bartłomiej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260331T094000Z
 DTEND:20260331T111500Z
 SUMMARY:Bchm (S)
@@ -519,7 +533,7 @@ DTSTART:20260414T094000Z
 DTEND:20260414T111500Z
 SUMMARY:Hofc (w)
 LOCATION:027 24
-DESCRIPTION:History of Chemistry\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Szala Mateusz
+DESCRIPTION:History of Chemistry\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Szala Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T094000Z
@@ -540,7 +554,7 @@ DTSTART:20260505T094000Z
 DTEND:20260505T111500Z
 SUMMARY:Doz (w)
 LOCATION:10 55
-DESCRIPTION:Dozymetria\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: mjr dr inż. Fliszkiewicz Bartłomiej
+DESCRIPTION:Dozymetria\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: mjr dr inż. Fliszkiewicz Bartłomiej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T094000Z
@@ -561,13 +575,6 @@ DTSTART:20260303T123000Z
 DTEND:20260303T140500Z
 SUMMARY:Doz (w)
 LOCATION:10 55
-DESCRIPTION:Dozymetria\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: mjr dr inż. Fliszkiewicz Bartłomiej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260310T123000Z
-DTEND:20260310T140500Z
-SUMMARY:Doz (w)
-LOCATION:10 55
 DESCRIPTION:Dozymetria\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: mjr dr inż. Fliszkiewicz Bartłomiej
 END:VEVENT
 BEGIN:VEVENT
@@ -575,28 +582,28 @@ DTSTART:20260331T113000Z
 DTEND:20260331T130500Z
 SUMMARY:Bchm (w)
 LOCATION:108 24
-DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 10/17\nProwadzący: dr inż. Węgłowska Dorota
+DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 9/17\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T113000Z
 DTEND:20260421T130500Z
 SUMMARY:Hofc (w)
 LOCATION:027 24
-DESCRIPTION:History of Chemistry\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Szala Mateusz
+DESCRIPTION:History of Chemistry\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Szala Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T113000Z
 DTEND:20260428T130500Z
 SUMMARY:Hofc (w)
 LOCATION:027 24
-DESCRIPTION:History of Chemistry\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Szala Mateusz
+DESCRIPTION:History of Chemistry\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Szala Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T113000Z
 DTEND:20260505T130500Z
 SUMMARY:Hofc (S)
 LOCATION:027 24
-DESCRIPTION:History of Chemistry\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/5\nProwadzący: dr inż. Szala Mateusz
+DESCRIPTION:History of Chemistry\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/5\nProwadzący: dr inż. Szala Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T113000Z
@@ -618,13 +625,6 @@ DTEND:20260609T130500Z
 SUMMARY:Doz (ć)
 LOCATION:10 55
 DESCRIPTION:Dozymetria\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: mjr dr inż. Fliszkiewicz Bartłomiej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260505T140000Z
-DTEND:20260505T153500Z
-SUMMARY:Bchm (S)
-LOCATION:110/ 14
-DESCRIPTION:Biochemia\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/5\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T060000Z
@@ -667,6 +667,20 @@ DTEND:20260603T073500Z
 SUMMARY:Doz (L)
 LOCATION:123 24
 DESCRIPTION:Dozymetria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: mjr dr inż. Fliszkiewicz Bartłomiej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T085000Z
+DTEND:20260325T102500Z
+SUMMARY:Bchm (w)
+LOCATION:2 55A
+DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 10/17\nProwadzący: dr inż. Węgłowska Dorota
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T075000Z
+DTEND:20260401T092500Z
+SUMMARY:Bchm (S)
+LOCATION:127A/ 14
+DESCRIPTION:Biochemia\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/5\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T075000Z
@@ -883,35 +897,35 @@ DTSTART:20260305T085000Z
 DTEND:20260305T102500Z
 SUMMARY:Hofc (w)
 LOCATION:027 24
-DESCRIPTION:History of Chemistry\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Szala Mateusz
+DESCRIPTION:History of Chemistry\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Szala Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T085000Z
 DTEND:20260312T102500Z
 SUMMARY:Hofc (w)
 LOCATION:027 24
-DESCRIPTION:History of Chemistry\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Szala Mateusz
+DESCRIPTION:History of Chemistry\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Szala Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T085000Z
 DTEND:20260319T102500Z
 SUMMARY:Hofc (w)
 LOCATION:027 24
-DESCRIPTION:History of Chemistry\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Szala Mateusz
+DESCRIPTION:History of Chemistry\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Szala Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T085000Z
 DTEND:20260326T102500Z
 SUMMARY:Hofc (w)
 LOCATION:027 24
-DESCRIPTION:History of Chemistry\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Szala Mateusz
+DESCRIPTION:History of Chemistry\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Szala Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T075000Z
 DTEND:20260402T092500Z
-SUMMARY:Hofc (w)
-LOCATION:027 24
-DESCRIPTION:History of Chemistry\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Szala Mateusz
+SUMMARY:Rch (w)
+LOCATION:10 55
+DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T075000Z
@@ -1107,14 +1121,14 @@ DTSTART:20260319T123000Z
 DTEND:20260319T140500Z
 SUMMARY:Rch (w)
 LOCATION:2 55A
-DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: kpt. mgr inż Kuligowska Monika
+DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T123000Z
 DTEND:20260326T140500Z
 SUMMARY:Rch (w)
 LOCATION:10 55
-DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: kpt. mgr inż Kuligowska Monika
+DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T113000Z
@@ -1194,39 +1208,39 @@ LOCATION:110/ 14
 DESCRIPTION:Technologia chemiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: prof.dr hab. inż. Choma Jerzy
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260409T140000Z
-DTEND:20260409T153500Z
-SUMMARY:Rch (w)
-LOCATION:2 55A
-DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: kpt. mgr inż Kuligowska Monika
+DTSTART:20260410T060000Z
+DTEND:20260410T073500Z
+SUMMARY:Rch (L)
+LOCATION:7 55A
+DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T060000Z
 DTEND:20260508T073500Z
 SUMMARY:Hofc (S)
 LOCATION:027 24
-DESCRIPTION:History of Chemistry\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/5\nProwadzący: dr inż. Szala Mateusz
+DESCRIPTION:History of Chemistry\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/5\nProwadzący: dr inż. Szala Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T060000Z
 DTEND:20260522T073500Z
 SUMMARY:Hofc (S)
 LOCATION:027 24
-DESCRIPTION:History of Chemistry\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/5\nProwadzący: dr inż. Szala Mateusz
+DESCRIPTION:History of Chemistry\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/5\nProwadzący: dr inż. Szala Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T060000Z
 DTEND:20260529T073500Z
 SUMMARY:Hofc (S)
 LOCATION:027 24
-DESCRIPTION:History of Chemistry\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/5\nProwadzący: dr inż. Szala Mateusz
+DESCRIPTION:History of Chemistry\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/5\nProwadzący: dr inż. Szala Mateusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260612T060000Z
-DTEND:20260612T073500Z
+DTSTART:20260410T075000Z
+DTEND:20260410T092500Z
 SUMMARY:Rch (L)
 LOCATION:7 55A
-DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: kpt. mgr inż Kuligowska Monika
+DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T075000Z
@@ -1257,11 +1271,11 @@ LOCATION:34/ 14;127A/ 14
 DESCRIPTION:Biochemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Węgłowska Dorota; dr Bombalska Aneta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260612T075000Z
-DTEND:20260612T092500Z
+DTSTART:20260410T094000Z
+DTEND:20260410T111500Z
 SUMMARY:Rch (L)
 LOCATION:7 55A
-DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: kpt. mgr inż Kuligowska Monika
+DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T094000Z
@@ -1292,29 +1306,15 @@ LOCATION:34/ 14;127A/ 14
 DESCRIPTION:Biochemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Węgłowska Dorota; dr Bombalska Aneta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260612T094000Z
-DTEND:20260612T111500Z
-SUMMARY:Rch (L)
-LOCATION:7 55A
-DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: kpt. mgr inż Kuligowska Monika
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260417T113000Z
-DTEND:20260417T130500Z
-SUMMARY:Hofc (S)
-LOCATION:027 24
-DESCRIPTION:History of Chemistry\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/5\nProwadzący: dr inż. Szala Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T113000Z
-DTEND:20260515T130500Z
+DTSTART:20260410T113000Z
+DTEND:20260410T130500Z
 SUMMARY:Rch (L)
 LOCATION:7 55A
 DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/11\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260612T113000Z
-DTEND:20260612T130500Z
+DTSTART:20260515T113000Z
+DTEND:20260515T130500Z
 SUMMARY:Rch (L)
 LOCATION:7 55A
 DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/11\nProwadzący: kpt. mgr inż Kuligowska Monika
@@ -1325,5 +1325,187 @@ DTEND:20260515T153500Z
 SUMMARY:Rch (L)
 LOCATION:7 55A
 DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/11\nProwadzący: kpt. mgr inż Kuligowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260314T085000Z
+DTEND:20260314T102500Z
+SUMMARY:XMat3 (w)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 1/11\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260321T085000Z
+DTEND:20260321T102500Z
+SUMMARY:XMat3 (w)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260328T085000Z
+DTEND:20260328T102500Z
+SUMMARY:XMat3 (w)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260613T075000Z
+DTEND:20260613T092500Z
+SUMMARY:XMat3 (Ep)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260314T104000Z
+DTEND:20260314T121500Z
+SUMMARY:XMat3 (w)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260321T104000Z
+DTEND:20260321T121500Z
+SUMMARY:XMat3 (w)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260328T104000Z
+DTEND:20260328T121500Z
+SUMMARY:XMat3 (w)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260328T123000Z
+DTEND:20260328T140500Z
+SUMMARY:XMat3 (ć)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T140000Z
+DTEND:20260418T153500Z
+SUMMARY:XMat3 (w)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T140000Z
+DTEND:20260516T153500Z
+SUMMARY:XMat3 (w)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T140000Z
+DTEND:20260530T153500Z
+SUMMARY:XMat3 (E)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T155000Z
+DTEND:20260418T172500Z
+SUMMARY:XMat3 (w)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T155000Z
+DTEND:20260516T172500Z
+SUMMARY:XMat3 (ć)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T155000Z
+DTEND:20260530T172500Z
+SUMMARY:XMat3 (E)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260315T085000Z
+DTEND:20260315T102500Z
+SUMMARY:XMat3 (ć)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260322T085000Z
+DTEND:20260322T102500Z
+SUMMARY:XMat3 (ć)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T075000Z
+DTEND:20260329T092500Z
+SUMMARY:XMat3 (ć)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260419T075000Z
+DTEND:20260419T092500Z
+SUMMARY:XMat3 (w)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260517T075000Z
+DTEND:20260517T092500Z
+SUMMARY:XMat3 (ć)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260315T104000Z
+DTEND:20260315T121500Z
+SUMMARY:XMat3 (ć)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260322T104000Z
+DTEND:20260322T121500Z
+SUMMARY:XMat3 (ć)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T094000Z
+DTEND:20260329T111500Z
+SUMMARY:XMat3 (ć)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260419T094000Z
+DTEND:20260419T111500Z
+SUMMARY:XMat3 (w)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260517T094000Z
+DTEND:20260517T111500Z
+SUMMARY:XMat3 (L)
+LOCATION:219 65
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260419T113000Z
+DTEND:20260419T130500Z
+SUMMARY:XMat3 (ć)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr Klepczarek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260517T113000Z
+DTEND:20260517T130500Z
+SUMMARY:XMat3 (L)
+LOCATION:219 65
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Klepczarek Michał
 END:VEVENT
 END:VCALENDAR

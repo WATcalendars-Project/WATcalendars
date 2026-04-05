@@ -109,6 +109,13 @@ LOCATION:128 K; 127 K; 125 K; 124 K; 122 K; 121 K; 120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/30
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260413T075000Z
+DTEND:20260413T092500Z
+SUMMARY:Mil (ć)
+LOCATION:5.21/135
+DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: płk prof.dr hab. Mitkow Szymon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260427T075000Z
 DTEND:20260427T092500Z
 SUMMARY:Adwl (L)
@@ -172,6 +179,13 @@ LOCATION:
 DESCRIPTION:Działania niekinetyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260427T094000Z
+DTEND:20260427T111500Z
+SUMMARY:Mil (ć)
+LOCATION:2/22
+DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: płk prof.dr hab. Mitkow Szymon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260511T094000Z
 DTEND:20260511T111500Z
 SUMMARY:Zfpl (w)
@@ -214,13 +228,6 @@ LOCATION:
 DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/15\nProwadzący: dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260504T113000Z
-DTEND:20260504T130500Z
-SUMMARY:Dn (ć)
-LOCATION:A.1.3/135
-DESCRIPTION:Działania niekinetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr inż. Woźniak Robert
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260511T113000Z
 DTEND:20260511T130500Z
 SUMMARY:DWiPD (ć)
@@ -260,7 +267,7 @@ DTSTART:20260323T150000Z
 DTEND:20260323T163500Z
 SUMMARY:Mil (ć)
 LOCATION:0.8/16
-DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: płk prof.dr hab. Mitkow Szymon
+DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: płk prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T140000Z
@@ -268,13 +275,6 @@ DTEND:20260413T153500Z
 SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/30
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260427T140000Z
-DTEND:20260427T153500Z
-SUMMARY:Mil (ć)
-LOCATION:0.8/16
-DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: płk prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T140000Z
@@ -288,14 +288,14 @@ DTSTART:20260303T070000Z
 DTEND:20260303T083500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T070000Z
 DTEND:20260310T083500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 2/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 2/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T070000Z
@@ -305,39 +305,39 @@ LOCATION:
 DESCRIPTION:Psł.\nRodzaj zajęć: -\nNumer zajęć: 1/11
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260324T070000Z
-DTEND:20260324T083500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3/49
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260331T060000Z
 DTEND:20260331T073500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 4/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T060000Z
 DTEND:20260414T073500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 5/49
+SUMMARY:Zfpl (ć)
+LOCATION:9/158
+DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T060000Z
 DTEND:20260421T073500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 6/49
+SUMMARY:Zfpl (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T060000Z
+DTEND:20260526T073500Z
+SUMMARY:Zfpl (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T060000Z
 DTEND:20260616T073500Z
 SUMMARY:Dn (ć)
 LOCATION:A.1.3/135
-DESCRIPTION:Działania niekinetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr inż. Woźniak Robert
+DESCRIPTION:Działania niekinetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T085000Z
@@ -449,7 +449,7 @@ DTSTART:20260310T104000Z
 DTEND:20260310T121500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 7/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 4/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T104000Z
@@ -459,53 +459,53 @@ LOCATION:
 DESCRIPTION:Psł.\nRodzaj zajęć: -\nNumer zajęć: 3/11
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260324T104000Z
-DTEND:20260324T121500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 8/49
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260331T094000Z
 DTEND:20260331T111500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 9/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 5/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T094000Z
 DTEND:20260414T111500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 10/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 6/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T094000Z
 DTEND:20260421T111500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 11/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 7/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T094000Z
 DTEND:20260428T111500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 12/49
+SUMMARY:Zfpl (ć)
+LOCATION:4.17b/135
+DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T094000Z
 DTEND:20260505T111500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 13/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 8/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T094000Z
 DTEND:20260512T111500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 14/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 9/34
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T094000Z
+DTEND:20260519T111500Z
+SUMMARY:Zfpl (ć)
+LOCATION:31/158
+DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T094000Z
@@ -526,28 +526,28 @@ DTSTART:20260609T094000Z
 DTEND:20260609T111500Z
 SUMMARY:Mil (ć)
 LOCATION:0.8/16
-DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: płk prof.dr hab. Mitkow Szymon
+DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: płk prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T094000Z
 DTEND:20260616T111500Z
 SUMMARY:Mil (ć)
 LOCATION:0.8/16
-DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: płk prof.dr hab. Mitkow Szymon
+DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: płk prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T123000Z
 DTEND:20260303T140500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 15/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 10/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T123000Z
 DTEND:20260310T140500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 16/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 11/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T123000Z
@@ -557,53 +557,39 @@ LOCATION:
 DESCRIPTION:Psł.\nRodzaj zajęć: -\nNumer zajęć: 4/11
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260324T123000Z
-DTEND:20260324T140500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 17/49
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260331T113000Z
 DTEND:20260331T130500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 18/49
+SUMMARY:Mil (w)
+LOCATION:aula/135
+DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: płk prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T113000Z
 DTEND:20260414T130500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 19/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 12/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T113000Z
 DTEND:20260421T130500Z
-SUMMARY:OPBMR (ć)
-LOCATION:1PL/12KP; 2PL/8KP; 22AE; 1S; 22AG; 1S; 22AZ; 1S; 22AS; 1S; 22AC; 1S; 22FO; 3S; 22FZ; 1S; 22FU; 1S; 0 Piw
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260428T113000Z
-DTEND:20260428T130500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 20/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 13/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T113000Z
 DTEND:20260505T130500Z
 SUMMARY:SzS (ć)
 LOCATION:2PL/8KP; 22FO; 3S; 22FZ; 1S; 22FU; 1S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: prof. WAT Kler Paweł; kpt. mgr inż Kuligowska Monika; mjr dr inż. Fliszkiewicz Bartłomiej; prof. dr hab. inż. Ameljańczyk Andrzej
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: prof. WAT Kler Paweł; mjr dr inż. Fliszkiewicz Bartłomiej; por. mgr inż. Filipow Mateusz; prof. dr hab. inż. Ameljańczyk Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T113000Z
 DTEND:20260512T130500Z
 SUMMARY:SzS (ć)
 LOCATION:2PL/8KP; 22FO; 3S; 22FZ; 1S; 22FU; 1S
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: prof. WAT Kler Paweł; kpt. mgr inż Kuligowska Monika; mjr dr inż. Fliszkiewicz Bartłomiej; dr Strychalski Andrzej; gen. bryg. mgr inż. Stocki Jarosław
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: prof. WAT Kler Paweł; mjr dr inż. Fliszkiewicz Bartłomiej; por. mgr inż. Filipow Mateusz; kpt. mgr inż. Sobczuk Sebastian; dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T113000Z
@@ -631,28 +617,28 @@ DTSTART:20260609T113000Z
 DTEND:20260609T130500Z
 SUMMARY:Mil (ć)
 LOCATION:0.8/16
-DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: płk prof.dr hab. Mitkow Szymon
+DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: płk prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T113000Z
 DTEND:20260616T130500Z
 SUMMARY:Mil (ć)
 LOCATION:0.8/16
-DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: płk prof.dr hab. Mitkow Szymon
+DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: płk prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T150000Z
 DTEND:20260303T163500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 21/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 14/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T150000Z
 DTEND:20260310T163500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 22/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 15/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T150000Z
@@ -664,51 +650,51 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T150000Z
 DTEND:20260324T163500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 23/49
+SUMMARY:Osl (w)
+LOCATION:301/S
+DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T140000Z
 DTEND:20260331T153500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 24/49
+SUMMARY:Mil (w)
+LOCATION:aula/135
+DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: płk prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T140000Z
 DTEND:20260414T153500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 25/49
+SUMMARY:Osl (ć)
+LOCATION:0.21/16
+DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T140000Z
 DTEND:20260421T153500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 26/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 16/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T140000Z
 DTEND:20260428T153500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 27/49
+SUMMARY:Osl (ć)
+LOCATION:A.1.3/135
+DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T140000Z
 DTEND:20260505T153500Z
 SUMMARY:SzS (ć)
 LOCATION:2PL/8KP; 3PL/8KP; 22FO; 3S; 22FZ; 1S; 22FU; 1S; 22IT; 1S; 22IW; 1S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: prof. WAT Kler Paweł; kpt. mgr inż Kuligowska Monika; mjr dr inż. Fliszkiewicz Bartłomiej; gen. bryg. mgr inż. Stocki Jarosław; prof. dr hab. inż. Ameljańczyk Andrzej
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: prof. WAT Kler Paweł; mjr dr inż. Fliszkiewicz Bartłomiej; por. mgr inż. Filipow Mateusz; gen. bryg. mgr inż. Stocki Jarosław; prof. dr hab. inż. Ameljańczyk Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T140000Z
 DTEND:20260512T153500Z
 SUMMARY:SzS (ć)
 LOCATION:2PL/8KP; 3PL/8KP; 22FO; 3S; 22FZ; 1S; 22FU; 1S; 22IT; 1S; 22IW; 1S
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: prof. WAT Kler Paweł; kpt. mgr inż Kuligowska Monika; mjr dr inż. Fliszkiewicz Bartłomiej; gen. bryg. mgr inż. Stocki Jarosław; dr Strychalski Andrzej; dr hab. inż. Bartosiewicz Sławomir
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: prof. WAT Kler Paweł; mjr dr inż. Fliszkiewicz Bartłomiej; por. mgr inż. Filipow Mateusz; gen. bryg. mgr inż. Stocki Jarosław; kpt. mgr inż. Sobczuk Sebastian; dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T140000Z
@@ -718,13 +704,6 @@ LOCATION:
 DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/15\nProwadzący: dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260602T140000Z
-DTEND:20260602T153500Z
-SUMMARY:Mil (ć)
-LOCATION:0.8/16
-DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: płk prof.dr hab. Mitkow Szymon
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260609T140000Z
 DTEND:20260609T153500Z
 SUMMARY:Psp. (P)
@@ -732,18 +711,11 @@ LOCATION:0.24/135
 DESCRIPTION:Projektowanie systemów i procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/7\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260616T140000Z
-DTEND:20260616T153500Z
-SUMMARY:Mil (ć)
-LOCATION:0.8/16
-DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: płk prof.dr hab. Mitkow Szymon
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260303T165000Z
 DTEND:20260303T182500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 28/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 17/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T165000Z
@@ -762,72 +734,58 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T165000Z
 DTEND:20260324T182500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 29/49
+SUMMARY:Osl (w)
+LOCATION:301/S
+DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T155000Z
 DTEND:20260331T172500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 30/49
+SUMMARY:Osl (w)
+LOCATION:301/S
+DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T155000Z
 DTEND:20260414T172500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 31/49
+SUMMARY:Osl (ć)
+LOCATION:0.21/16
+DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T155000Z
 DTEND:20260421T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 32/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260428T155000Z
-DTEND:20260428T172500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 33/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 18/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T155000Z
 DTEND:20260505T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 34/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 19/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T155000Z
 DTEND:20260512T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 35/49
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260602T155000Z
-DTEND:20260602T172500Z
-SUMMARY:Mil (ć)
-LOCATION:0.8/16
-DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: płk prof.dr hab. Mitkow Szymon
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 20/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T184000Z
 DTEND:20260303T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 36/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 21/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T184000Z
 DTEND:20260310T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 37/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 22/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T184000Z
@@ -841,84 +799,84 @@ DTSTART:20260324T184000Z
 DTEND:20260324T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 38/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 23/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T174000Z
 DTEND:20260331T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 39/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 24/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T174000Z
 DTEND:20260414T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 40/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 25/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T174000Z
 DTEND:20260421T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 41/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 26/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T174000Z
 DTEND:20260428T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 42/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 27/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T174000Z
 DTEND:20260505T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 43/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 28/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T174000Z
 DTEND:20260512T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 44/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 29/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T174000Z
 DTEND:20260519T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 45/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 30/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T174000Z
 DTEND:20260526T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 46/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 31/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T174000Z
 DTEND:20260602T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 47/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 32/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T174000Z
 DTEND:20260609T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 48/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 33/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T174000Z
 DTEND:20260616T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 49/49
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 34/34
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T070000Z
@@ -932,7 +890,7 @@ DTSTART:20260318T070000Z
 DTEND:20260318T083500Z
 SUMMARY:OPBMR (ć)
 LOCATION:1PL/8KP; 2PL/8KP; 3PL/8KP; 22FO; 1S; 22FO; 2S; 22FO; 3S; 22FZ; 1S; 22FU; 1S; 22IT; 1S; 22IW; 1S; 0 FlB
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
+DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T070000Z
@@ -959,7 +917,7 @@ BEGIN:VEVENT
 DTSTART:20260415T060000Z
 DTEND:20260415T073500Z
 SUMMARY:Adwl (w)
-LOCATION:0.24/135
+LOCATION:0.19/135
 DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
@@ -991,6 +949,13 @@ LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Kurkowiak Justyna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260610T060000Z
+DTEND:20260610T073500Z
+SUMMARY:Zfpl (ć)
+LOCATION:0.21/16
+DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260617T060000Z
 DTEND:20260617T073500Z
 SUMMARY:ZŻWAT (ć)
@@ -1009,11 +974,18 @@ DTSTART:20260318T085000Z
 DTEND:20260318T102500Z
 SUMMARY:OPBMR (ć)
 LOCATION:1PL/8KP; 2PL/8KP; 3PL/8KP; 22FO; 1S; 22FO; 2S; 22FO; 3S; 22FZ; 1S; 22FU; 1S; 22IT; 1S; 22IW; 1S; 0 FlB
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
+DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260506T075000Z
-DTEND:20260506T092500Z
+DTSTART:20260415T075000Z
+DTEND:20260415T092500Z
+SUMMARY:Zfpl (S)
+LOCATION:5.17/135
+DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T075000Z
+DTEND:20260513T092500Z
 SUMMARY:BOiTO (L)
 LOCATION:2/22
 DESCRIPTION:Badania operacyjne i teoria optymalizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
@@ -1065,7 +1037,7 @@ DTSTART:20260318T104000Z
 DTEND:20260318T121500Z
 SUMMARY:OPBMR (ć)
 LOCATION:1PL/8KP; 2PL/8KP; 3PL/8KP; 22FO; 1S; 22FO; 2S; 22FO; 3S; 22FZ; 1S; 22FU; 1S; 22IT; 1S; 22IW; 1S; 0 FlB
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
+DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T094000Z
@@ -1173,6 +1145,13 @@ LOCATION:
 DESCRIPTION:Psł.\nRodzaj zajęć: -\nNumer zajęć: 8/11
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260408T113000Z
+DTEND:20260408T130500Z
+SUMMARY:Mil (w)
+LOCATION:
+DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: płk prof.dr hab. Mitkow Szymon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260429T113000Z
 DTEND:20260429T130500Z
 SUMMARY:Dn (w)
@@ -1222,11 +1201,18 @@ LOCATION:
 DESCRIPTION:Psł.\nRodzaj zajęć: -\nNumer zajęć: 9/11
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T150000Z
+DTEND:20260325T163500Z
+SUMMARY:Osl (ć)
+LOCATION:5.21/135
+DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: płk dr inż. Zelkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260408T140000Z
 DTEND:20260408T153500Z
 SUMMARY:Osl (w)
 LOCATION:aula/135
-DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: płk dr inż. Zelkowski Jarosław
+DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T140000Z
@@ -1257,11 +1243,18 @@ LOCATION:
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260520T140000Z
+DTEND:20260520T153500Z
+SUMMARY:OPBMR (ć)
+LOCATION:1PL/12KP; 2PL/8KP; 22AE; 1S; 22AG; 1S; 22AZ; 1S; 22AS; 1S; 22AC; 1S; 22FO; 3S; 22FZ; 1S; 22FU; 1S; 0 Piw
+DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260527T140000Z
 DTEND:20260527T153500Z
 SUMMARY:Mil (w)
 LOCATION:
-DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: płk prof.dr hab. Mitkow Szymon
+DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: płk prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T140000Z
@@ -1299,11 +1292,18 @@ LOCATION:
 DESCRIPTION:Psł.\nRodzaj zajęć: -\nNumer zajęć: 10/11
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260408T155000Z
-DTEND:20260408T172500Z
+DTSTART:20260325T165000Z
+DTEND:20260325T182500Z
+SUMMARY:Osl (ć)
+LOCATION:5.21/135
+DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: płk dr inż. Zelkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T155000Z
+DTEND:20260415T172500Z
 SUMMARY:Osl (w)
-LOCATION:aula/135
-DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: płk dr inż. Zelkowski Jarosław
+LOCATION:301/S
+DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T184000Z
@@ -1322,8 +1322,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T060000Z
 DTEND:20260423T073500Z
-SUMMARY:Psp. (w)
+SUMMARY:Adwl (w)
 LOCATION:aula/135
+DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Kurkowiak Justyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T060000Z
+DTEND:20260430T073500Z
+SUMMARY:Psp. (w)
+LOCATION:301/S
 DESCRIPTION:Projektowanie systemów i procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
 END:VEVENT
 BEGIN:VEVENT
@@ -1373,7 +1380,7 @@ DTSTART:20260409T075000Z
 DTEND:20260409T092500Z
 SUMMARY:Dn (ć)
 LOCATION:A.1.3/135
-DESCRIPTION:Działania niekinetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr inż. Woźniak Robert
+DESCRIPTION:Działania niekinetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T075000Z
@@ -1407,15 +1414,8 @@ BEGIN:VEVENT
 DTSTART:20260528T075000Z
 DTEND:20260528T092500Z
 SUMMARY:GSŻw (S)
-LOCATION:1.9/16
+LOCATION:0.8/16
 DESCRIPTION:Gospodarka służby żywnościowej w czasie wojny oraz podczas realizacji zadań w systemie koalicyjnym\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr Spychała Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260604T075000Z
-DTEND:20260604T092500Z
-SUMMARY:ŻW (ć)
-LOCATION:A.1.3/135
-DESCRIPTION:Żywność wygodna na potrzeby SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T075000Z
@@ -1450,7 +1450,7 @@ DTSTART:20260402T094000Z
 DTEND:20260402T111500Z
 SUMMARY:ŻW (w)
 LOCATION:A.1.3/135
-DESCRIPTION:Żywność wygodna na potrzeby SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Żywność wygodna na potrzeby SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T094000Z
@@ -1469,9 +1469,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T094000Z
 DTEND:20260423T111500Z
-SUMMARY:Adwl (w)
-LOCATION:aula/135
-DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Kurkowiak Justyna
+SUMMARY:Dn (ć)
+LOCATION:A.1.3/135
+DESCRIPTION:Działania niekinetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr inż. Woźniak Robert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T094000Z
+DTEND:20260507T111500Z
+SUMMARY:Mil (ć)
+LOCATION:4.23/135
+DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: płk prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T094000Z
@@ -1484,7 +1491,7 @@ BEGIN:VEVENT
 DTSTART:20260528T094000Z
 DTEND:20260528T111500Z
 SUMMARY:GSŻw (S)
-LOCATION:1.9/16
+LOCATION:0.8/16
 DESCRIPTION:Gospodarka służby żywnościowej w czasie wojny oraz podczas realizacji zadań w systemie koalicyjnym\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
@@ -1537,11 +1544,18 @@ LOCATION:
 DESCRIPTION:Gospodarka służby żywnościowej w czasie wojny oraz podczas realizacji zadań w systemie koalicyjnym\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260618T113000Z
+DTEND:20260618T130500Z
+SUMMARY:ŻW (ć)
+LOCATION:A.1.3/135
+DESCRIPTION:Żywność wygodna na potrzeby SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260416T140000Z
 DTEND:20260416T153500Z
 SUMMARY:Osl (w)
 LOCATION:301/S
-DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: płk dr inż. Zelkowski Jarosław
+DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T140000Z
@@ -1556,13 +1570,6 @@ DTEND:20260528T153500Z
 SUMMARY:Psp. (P)
 LOCATION:0.24/135
 DESCRIPTION:Projektowanie systemów i procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260604T140000Z
-DTEND:20260604T153500Z
-SUMMARY:Osl (ć)
-LOCATION:0.21/16
-DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T140000Z
@@ -1583,7 +1590,14 @@ DTSTART:20260312T165000Z
 DTEND:20260312T182500Z
 SUMMARY:Osl (w)
 LOCATION:0.24/135
-DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: płk dr inż. Zelkowski Jarosław
+DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: płk dr inż. Zelkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T155000Z
+DTEND:20260409T172500Z
+SUMMARY:Zfpl (w)
+LOCATION:aula/135
+DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Wiśniewski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T155000Z
@@ -1591,13 +1605,6 @@ DTEND:20260528T172500Z
 SUMMARY:Psp. (P)
 LOCATION:0.24/135
 DESCRIPTION:Projektowanie systemów i procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Bartosiewicz Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260604T155000Z
-DTEND:20260604T172500Z
-SUMMARY:Osl (ć)
-LOCATION:0.21/16
-DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T155000Z
@@ -1647,6 +1654,13 @@ DTEND:20260522T073500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19/30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T060000Z
+DTEND:20260619T073500Z
+SUMMARY:ŻW (ć)
+LOCATION:1.15/16
+DESCRIPTION:Żywność wygodna na potrzeby SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T085000Z
@@ -1775,6 +1789,13 @@ LOCATION:0.19/135
 DESCRIPTION:Gospodarka służby żywnościowej w czasie wojny oraz podczas realizacji zadań w systemie koalicyjnym\nRodzaj zajęć: Wykład\nNumer zajęć: 11/13\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260508T094000Z
+DTEND:20260508T111500Z
+SUMMARY:Mil (ć)
+LOCATION:1.17/16
+DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: płk prof.dr hab. Mitkow Szymon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260515T094000Z
 DTEND:20260515T111500Z
 SUMMARY:GSŻw (w)
@@ -1821,21 +1842,14 @@ DTSTART:20260320T123000Z
 DTEND:20260320T140500Z
 SUMMARY:ŻW (w)
 LOCATION:A.1.3/135
-DESCRIPTION:Żywność wygodna na potrzeby SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: prof. WAT Kler Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260327T123000Z
-DTEND:20260327T140500Z
-SUMMARY:Zfpl (w)
-LOCATION:aula/135
-DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Wiśniewski Andrzej
+DESCRIPTION:Żywność wygodna na potrzeby SZ RP\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T113000Z
 DTEND:20260417T130500Z
 SUMMARY:Mil (w)
 LOCATION:aula/135
-DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: płk prof.dr hab. Mitkow Szymon
+DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: płk prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260424T113000Z
@@ -1843,13 +1857,6 @@ DTEND:20260424T130500Z
 SUMMARY:Zfpl (w)
 LOCATION:aula/135
 DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Wiśniewski Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260501T113000Z
-DTEND:20260501T130500Z
-SUMMARY:Zfpl (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T113000Z
@@ -1868,72 +1875,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T113000Z
 DTEND:20260612T130500Z
-SUMMARY:ŻW (ć)
-LOCATION:A.1.3/135
-DESCRIPTION:Żywność wygodna na potrzeby SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: prof. WAT Kler Paweł
+SUMMARY:Zfpl (ć)
+LOCATION:0.19/135
+DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T113000Z
 DTEND:20260619T130500Z
 SUMMARY:ŻW (S)
 LOCATION:A.1.3/135
-DESCRIPTION:Żywność wygodna na potrzeby SZ RP\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: prof. WAT Kler Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260313T150000Z
-DTEND:20260313T163500Z
-SUMMARY:Mil (w)
-LOCATION:aula/135
-DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: płk prof.dr hab. Mitkow Szymon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260327T150000Z
-DTEND:20260327T163500Z
-SUMMARY:Osl (w)
-LOCATION:0.24/135
-DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: płk dr inż. Zelkowski Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260410T140000Z
-DTEND:20260410T153500Z
-SUMMARY:Zfpl (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260417T140000Z
-DTEND:20260417T153500Z
-SUMMARY:Osl (ć)
-LOCATION:0.21/16
-DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: płk dr inż. Zelkowski Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260424T140000Z
-DTEND:20260424T153500Z
-SUMMARY:Zfpl (ć)
-LOCATION:4.17b/135
-DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260508T140000Z
-DTEND:20260508T153500Z
-SUMMARY:Osl (ć)
-LOCATION:0.6/16
-DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: płk dr inż. Zelkowski Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260522T140000Z
-DTEND:20260522T153500Z
-SUMMARY:Zfpl (ć)
-LOCATION:0.19/135
-DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260529T140000Z
-DTEND:20260529T153500Z
-SUMMARY:Zfpl (S)
-LOCATION:3.16/135
-DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3
+DESCRIPTION:Żywność wygodna na potrzeby SZ RP\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T140000Z
@@ -1948,62 +1899,6 @@ DTEND:20260619T153500Z
 SUMMARY:Zfpl (S)
 LOCATION:3.16/135
 DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260313T165000Z
-DTEND:20260313T182500Z
-SUMMARY:Mil (w)
-LOCATION:aula/135
-DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: płk prof.dr hab. Mitkow Szymon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260327T165000Z
-DTEND:20260327T182500Z
-SUMMARY:Osl (w)
-LOCATION:0.24/135
-DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: płk dr inż. Zelkowski Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260410T155000Z
-DTEND:20260410T172500Z
-SUMMARY:Mil (w)
-LOCATION:
-DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: płk prof.dr hab. Mitkow Szymon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260417T155000Z
-DTEND:20260417T172500Z
-SUMMARY:Zfpl (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260424T155000Z
-DTEND:20260424T172500Z
-SUMMARY:Osl (w)
-LOCATION:aula/135
-DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: płk dr inż. Zelkowski Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260508T155000Z
-DTEND:20260508T172500Z
-SUMMARY:Zfpl (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260529T155000Z
-DTEND:20260529T172500Z
-SUMMARY:Zfpl (ć)
-LOCATION:5.17/135
-DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260612T155000Z
-DTEND:20260612T172500Z
-SUMMARY:Osl (ć)
-LOCATION:0.8/16
-DESCRIPTION:Ocena systemów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260307T070000Z

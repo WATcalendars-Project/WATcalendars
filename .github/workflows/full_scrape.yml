@@ -37,55 +37,55 @@ jobs:
           echo "LOG_PATH=logs/scrape_$(date +'%Y-%m-%d_%H-%M').txt" >> $GITHUB_ENV
 
       - name: Run employees scraper
-        run: python src/watcalendars/watemployees.py >> ${{ env.LOG_PATH }} 2>&1
+        run: python src/watcalendars/watemployees.py 2>&1 | tee -a ${{ env.LOG_PATH }}
 
       - name: Run GROUPS scraper - IOE
-        run: python src/watcalendars/groups/groups_ioe.py >> ${{ env.LOG_PATH }} 2>&1
+        run: python src/watcalendars/groups/groups_ioe.py 2>&1 | tee -a ${{ env.LOG_PATH }}
 
       - name: Run GROUPS scraper - WCY
-        run: python src/watcalendars/groups/groups_wcy.py >> ${{ env.LOG_PATH }} 2>&1
+        run: python src/watcalendars/groups/groups_wcy.py 2>&1 | tee -a ${{ env.LOG_PATH }}
         
       - name: Run GROUPS scraper - WEL
-        run: python src/watcalendars/groups/groups_wel.py >> ${{ env.LOG_PATH }} 2>&1
+        run: python src/watcalendars/groups/groups_wel.py 2>&1 | tee -a ${{ env.LOG_PATH }}
 
       - name: Run GROUPS scraper - WIG
-        run: python src/watcalendars/groups/groups_wig.py >> ${{ env.LOG_PATH }} 2>&1
+        run: python src/watcalendars/groups/groups_wig.py 2>&1 | tee -a ${{ env.LOG_PATH }}
 
       - name: Run GROUPS scraper - WIM
-        run: python src/watcalendars/groups/groups_wim.py >> ${{ env.LOG_PATH }} 2>&1
+        run: python src/watcalendars/groups/groups_wim.py 2>&1 | tee -a ${{ env.LOG_PATH }}
 
       - name: Run GROUPS scraper - WLO
-        run: python src/watcalendars/groups/groups_wlo.py >> ${{ env.LOG_PATH }} 2>&1
+        run: python src/watcalendars/groups/groups_wlo.py 2>&1 | tee -a ${{ env.LOG_PATH }}
 
       - name: Run GROUPS scraper - WML
-        run: python src/watcalendars/groups/groups_wml.py >> ${{ env.LOG_PATH }} 2>&1
+        run: python src/watcalendars/groups/groups_wml.py 2>&1 | tee -a ${{ env.LOG_PATH }}
       
       - name: Run GROUPS scraper - WTC
-        run: python src/watcalendars/groups/groups_wtc.py >> ${{ env.LOG_PATH }} 2>&1
+        run: python src/watcalendars/groups/groups_wtc.py 2>&1 | tee -a ${{ env.LOG_PATH }}
 
       - name: Run SCHEDULE scraper - IOE
-        run: python src/watcalendars/calendar_ioe.py >> ${{ env.LOG_PATH }} 2>&1
+        run: python src/watcalendars/calendar_ioe.py 2>&1 | tee -a ${{ env.LOG_PATH }}
 
       - name: Run SCHEDULE scraper - WCY
-        run: python src/watcalendars/calendar_wcy.py >> ${{ env.LOG_PATH }} 2>&1
+        run: python src/watcalendars/calendar_wcy.py 2>&1 | tee -a ${{ env.LOG_PATH }}
 
       - name: Run SCHEDULE scraper - WEL
-        run: python src/watcalendars/calendar_wel.py >> ${{ env.LOG_PATH }} 2>&1
+        run: python src/watcalendars/calendar_wel.py 2>&1 | tee -a ${{ env.LOG_PATH }}
 
       - name: Run SCHEDULE scraper - WIG
-        run: python src/watcalendars/calendar_wig.py >> ${{ env.LOG_PATH }} 2>&1
+        run: python src/watcalendars/calendar_wig.py 2>&1 | tee -a ${{ env.LOG_PATH }}
 
       - name: Run SCHEDULE scraper - WIM
-        run: python src/watcalendars/calendar_wim.py >> ${{ env.LOG_PATH }} 2>&1
+        run: python src/watcalendars/calendar_wim.py 2>&1 | tee -a ${{ env.LOG_PATH }}
 
       - name: Run SCHEDULE scraper - WLO
-        run: python src/watcalendars/calendar_wlo.py >> ${{ env.LOG_PATH }} 2>&1
+        run: python src/watcalendars/calendar_wlo.py 2>&1 | tee -a ${{ env.LOG_PATH }}
 
       - name: Run SCHEDULE scraper - WML
-        run: python src/watcalendars/calendar_wml.py >> ${{ env.LOG_PATH }} 2>&1
+        run: python src/watcalendars/calendar_wml.py 2>&1 | tee -a ${{ env.LOG_PATH }}
 
       - name: Run SCHEDULE scraper - WTC
-        run: python src/watcalendars/calendar_wtc.py >> ${{ env.LOG_PATH }} 2>&1
+        run: python src/watcalendars/calendar_wtc.py 2>&1 | tee -a ${{ env.LOG_PATH }}
 
       - name: Commit and push changes
         run: |

@@ -81,18 +81,18 @@ LOCATION:1.16/16
 DESCRIPTION:Metodologia badań społecznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr hab. Kołodziejczyk Adam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260518T075000Z
-DTEND:20260518T092500Z
-SUMMARY:Mtc (ć)
-LOCATION:1.16/16
-DESCRIPTION:Metodologia badań społecznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr hab. Kołodziejczyk Adam
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260525T075000Z
 DTEND:20260525T092500Z
 SUMMARY:Mtc (L)
 LOCATION:1/22
 DESCRIPTION:Metodologia badań społecznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T075000Z
+DTEND:20260608T092500Z
+SUMMARY:Mtc (ć)
+LOCATION:1.10/16
+DESCRIPTION:Metodologia badań społecznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr hab. Kołodziejczyk Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T104000Z
@@ -183,7 +183,7 @@ DTSTART:20260331T060000Z
 DTEND:20260331T073500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 1/19\nProwadzący: mgr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 1/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T060000Z
@@ -225,7 +225,7 @@ DTSTART:20260331T075000Z
 DTEND:20260331T092500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 2/19\nProwadzący: mgr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 2/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T075000Z
@@ -233,6 +233,13 @@ DTEND:20260428T092500Z
 SUMMARY:PDyplo (ć)
 LOCATION:1.17/16
 DESCRIPTION:Protokół dyplomatyczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T075000Z
+DTEND:20260505T092500Z
+SUMMARY:Kierunki 
+LOCATION:4.17a/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 1/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T075000Z
@@ -260,14 +267,14 @@ DTSTART:20260609T075000Z
 DTEND:20260609T092500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:31/158
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 3/19\nProwadzący: dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 3/19\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T075000Z
 DTEND:20260616T092500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:26/158
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 4/19\nProwadzący: dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 4/19\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T104000Z
@@ -281,7 +288,7 @@ DTSTART:20260324T104000Z
 DTEND:20260324T121500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 5/19\nProwadzący: mgr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 5/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T094000Z
@@ -316,14 +323,14 @@ DTSTART:20260609T094000Z
 DTEND:20260609T111500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:31/158
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 6/19\nProwadzący: dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 6/19\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T094000Z
 DTEND:20260616T111500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:26/158
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 7/19\nProwadzący: dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 7/19\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T123000Z
@@ -442,7 +449,7 @@ DTSTART:20260310T150000Z
 DTEND:20260310T163500Z
 SUMMARY:Kierunki 
 LOCATION:1.9/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 1/25\nProwadzący: mgr Krawczyk Mateusz; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 2/25\nProwadzący: dr Krawczyk Mateusz; dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T150000Z
@@ -463,14 +470,14 @@ DTSTART:20260414T140000Z
 DTEND:20260414T153500Z
 SUMMARY:Kierunki 
 LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 2/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 3/25\nProwadzący: dr Moch Natalia; dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T140000Z
 DTEND:20260421T153500Z
 SUMMARY:Kierunki 
 LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 3/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 4/25\nProwadzący: dr Moch Natalia; dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T140000Z
@@ -480,32 +487,11 @@ LOCATION:1.17/16
 DESCRIPTION:Systemy ratownictwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260505T140000Z
-DTEND:20260505T153500Z
-SUMMARY:Kierunki 
-LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 4/25\nProwadzący: dr Moch Natalia
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260512T140000Z
 DTEND:20260512T153500Z
 SUMMARY:SRa (ć)
 LOCATION:1.17/16
 DESCRIPTION:Systemy ratownictwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260519T140000Z
-DTEND:20260519T153500Z
-SUMMARY:Kierunki 
-LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 5/25\nProwadzący: dr Moch Natalia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260602T140000Z
-DTEND:20260602T153500Z
-SUMMARY:Kierunki 
-LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 6/25\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T140000Z
@@ -519,14 +505,14 @@ DTSTART:20260303T165000Z
 DTEND:20260303T182500Z
 SUMMARY:Kierunki 
 LOCATION:1.9/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 7/25\nProwadzący: mgr Krawczyk Mateusz; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 5/25\nProwadzący: dr Krawczyk Mateusz; dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T165000Z
 DTEND:20260310T182500Z
 SUMMARY:Kierunki 
 LOCATION:1.9/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 8/25\nProwadzący: mgr Krawczyk Mateusz; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 6/25\nProwadzący: dr Krawczyk Mateusz; dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T165000Z
@@ -540,21 +526,21 @@ DTSTART:20260414T155000Z
 DTEND:20260414T172500Z
 SUMMARY:Kierunki 
 LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 9/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 7/25\nProwadzący: dr Moch Natalia; dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T155000Z
 DTEND:20260421T172500Z
 SUMMARY:Kierunki 
 LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 10/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 8/25\nProwadzący: dr Moch Natalia; dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260505T155000Z
-DTEND:20260505T172500Z
+DTSTART:20260428T155000Z
+DTEND:20260428T172500Z
 SUMMARY:Kierunki 
-LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 11/25\nProwadzący: dr Moch Natalia
+LOCATION:4.17a/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 9/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T155000Z
@@ -562,20 +548,6 @@ DTEND:20260512T172500Z
 SUMMARY:SRa (ć)
 LOCATION:1.17/16
 DESCRIPTION:Systemy ratownictwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260519T155000Z
-DTEND:20260519T172500Z
-SUMMARY:Kierunki 
-LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 12/25\nProwadzący: dr Moch Natalia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260602T155000Z
-DTEND:20260602T172500Z
-SUMMARY:Kierunki 
-LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 13/25\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T155000Z
@@ -589,42 +561,35 @@ DTSTART:20260303T184000Z
 DTEND:20260303T201500Z
 SUMMARY:Kierunki 
 LOCATION:1.9/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 14/25\nProwadzący: mgr Krawczyk Mateusz; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 10/25\nProwadzący: dr Krawczyk Mateusz; dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T174000Z
 DTEND:20260414T191500Z
 SUMMARY:Kierunki 
 LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 15/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 11/25\nProwadzący: dr Moch Natalia; dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T174000Z
 DTEND:20260421T191500Z
 SUMMARY:Kierunki 
 LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 16/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 12/25\nProwadzący: dr Moch Natalia; dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260505T174000Z
-DTEND:20260505T191500Z
+DTSTART:20260428T174000Z
+DTEND:20260428T191500Z
 SUMMARY:Kierunki 
-LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 17/25\nProwadzący: dr Moch Natalia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260519T174000Z
-DTEND:20260519T191500Z
-SUMMARY:Kierunki 
-LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 18/25\nProwadzący: dr Moch Natalia
+LOCATION:4.17a/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 13/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T060000Z
 DTEND:20260429T073500Z
 SUMMARY:Kierowanie 
 LOCATION:1.9/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 1/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 1/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T060000Z
@@ -638,28 +603,28 @@ DTSTART:20260318T085000Z
 DTEND:20260318T102500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 8/19\nProwadzący: mgr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 8/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T075000Z
 DTEND:20260429T092500Z
 SUMMARY:Kierowanie 
 LOCATION:1.9/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 2/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 2/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T075000Z
 DTEND:20260506T092500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:2.21/135
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 9/19\nProwadzący: dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 9/19\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T075000Z
 DTEND:20260513T092500Z
 SUMMARY:Kierowanie 
 LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 3/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 3/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T075000Z
@@ -673,42 +638,56 @@ DTSTART:20260318T104000Z
 DTEND:20260318T121500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 10/19\nProwadzący: mgr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 10/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T094000Z
 DTEND:20260408T111500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 11/19\nProwadzący: mgr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 11/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T094000Z
+DTEND:20260415T111500Z
+SUMMARY:Kierunki 
+LOCATION:307 S
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 14/25\nProwadzący: dr Krawczyk Mateusz; dr Karczewski Edward
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T094000Z
+DTEND:20260422T111500Z
+SUMMARY:Kierunki 
+LOCATION:4.17a/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 15/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T094000Z
 DTEND:20260429T111500Z
 SUMMARY:Polityka 
 LOCATION:1.16/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 1/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 1/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T094000Z
 DTEND:20260506T111500Z
 SUMMARY:Kierowanie 
 LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 4/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 4/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
 SUMMARY:Kierowanie 
 LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 5/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 5/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T094000Z
 DTEND:20260520T111500Z
 SUMMARY:Kierowanie 
 LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 6/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 6/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T094000Z
@@ -750,14 +729,14 @@ DTSTART:20260408T113000Z
 DTEND:20260408T130500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 12/19\nProwadzący: mgr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 12/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T113000Z
 DTEND:20260415T130500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:26/158
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 13/19\nProwadzący: dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 13/19\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T113000Z
@@ -771,21 +750,21 @@ DTSTART:20260429T113000Z
 DTEND:20260429T130500Z
 SUMMARY:Polityka 
 LOCATION:1.16/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 2/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 2/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T113000Z
 DTEND:20260506T130500Z
 SUMMARY:Kierowanie 
 LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 7/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 7/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T113000Z
 DTEND:20260520T130500Z
 SUMMARY:Kierowanie 
 LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 8/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 8/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T113000Z
@@ -806,7 +785,7 @@ DTSTART:20260617T113000Z
 DTEND:20260617T130500Z
 SUMMARY:Kierowanie 
 LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 9/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 9/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T150000Z
@@ -855,56 +834,49 @@ DTSTART:20260506T140000Z
 DTEND:20260506T153500Z
 SUMMARY:Kierunki 
 LOCATION:1.16/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 19/25\nProwadzący: dr Moch Natalia; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 16/25\nProwadzący: dr Moch Natalia; dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T140000Z
 DTEND:20260520T153500Z
-SUMMARY:Kierowanie 
-LOCATION:1.17/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 10/25\nProwadzący: dr Moch Natalia; prof. dr hab. Misiuk Andrzej; mgr Krawczyk Mateusz
+SUMMARY:Polityka 
+LOCATION:0.19/135
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 3/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T140000Z
 DTEND:20260527T153500Z
 SUMMARY:Kierowanie 
 LOCATION:1.16/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 11/25\nProwadzący: dr Moch Natalia; prof. dr hab. Misiuk Andrzej; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 10/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T140000Z
 DTEND:20260603T153500Z
 SUMMARY:Kierowanie 
 LOCATION:1.16/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 12/25\nProwadzący: dr Moch Natalia; prof. dr hab. Misiuk Andrzej; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 11/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T165000Z
 DTEND:20260311T182500Z
 SUMMARY:Kierowanie 
 LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 13/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 12/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T165000Z
 DTEND:20260318T182500Z
 SUMMARY:Kierowanie 
-LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 14/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; mgr Krawczyk Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260325T165000Z
-DTEND:20260325T182500Z
-SUMMARY:Kierunki 
-LOCATION:1.10/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 20/25\nProwadzący: mgr Krawczyk Mateusz; dr Ćwik Dariusz
+LOCATION:0.19/135
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 13/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T155000Z
 DTEND:20260401T172500Z
 SUMMARY:Kierunki 
-LOCATION:1.10/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 21/25\nProwadzący: mgr Krawczyk Mateusz; dr Ćwik Dariusz
+LOCATION:0.19/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 17/25\nProwadzący: dr Krawczyk Mateusz; dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T155000Z
@@ -918,105 +890,105 @@ DTSTART:20260415T155000Z
 DTEND:20260415T172500Z
 SUMMARY:Kierowanie 
 LOCATION:1.17/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 15/25\nProwadzący: dr Moch Natalia; prof. dr hab. Misiuk Andrzej; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 14/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T155000Z
 DTEND:20260422T172500Z
 SUMMARY:Kierowanie 
 LOCATION:1.16/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 16/25\nProwadzący: dr Moch Natalia; prof. dr hab. Misiuk Andrzej; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 15/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T155000Z
 DTEND:20260506T172500Z
 SUMMARY:Kierowanie 
 LOCATION:1.17/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 17/25\nProwadzący: dr Moch Natalia; prof. dr hab. Misiuk Andrzej; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 16/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T155000Z
 DTEND:20260520T172500Z
-SUMMARY:Kierowanie 
-LOCATION:1.17/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 18/25\nProwadzący: dr Moch Natalia; prof. dr hab. Misiuk Andrzej; mgr Krawczyk Mateusz
+SUMMARY:Polityka 
+LOCATION:0.19/135
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 4/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T155000Z
 DTEND:20260527T172500Z
 SUMMARY:Kierowanie 
 LOCATION:1.16/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 19/25\nProwadzący: dr Moch Natalia; prof. dr hab. Misiuk Andrzej; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 17/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T155000Z
 DTEND:20260603T172500Z
 SUMMARY:Kierowanie 
 LOCATION:1.16/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 20/25\nProwadzący: dr Moch Natalia; prof. dr hab. Misiuk Andrzej; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 18/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T184000Z
 DTEND:20260311T201500Z
 SUMMARY:Kierowanie 
 LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 21/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 19/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T184000Z
 DTEND:20260318T201500Z
 SUMMARY:Kierowanie 
-LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 22/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; mgr Krawczyk Mateusz
+LOCATION:0.19/135
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 20/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T174000Z
 DTEND:20260401T191500Z
 SUMMARY:Kierowanie 
-LOCATION:1.17/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 23/25\nProwadzący: dr Moch Natalia; prof. dr hab. Misiuk Andrzej; mgr Krawczyk Mateusz
+LOCATION:5.17/135
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 21/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T174000Z
+DTEND:20260408T191500Z
+SUMMARY:Kierunki 
+LOCATION:4.17a/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 18/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T174000Z
 DTEND:20260415T191500Z
 SUMMARY:Kierowanie 
-LOCATION:1.17/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 24/25\nProwadzący: dr Moch Natalia; prof. dr hab. Misiuk Andrzej; mgr Krawczyk Mateusz
+LOCATION:5.17/135
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 22/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T174000Z
 DTEND:20260422T191500Z
 SUMMARY:Kierowanie 
 LOCATION:1.16/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 25/25\nProwadzący: dr Moch Natalia; prof. dr hab. Misiuk Andrzej; mgr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 23/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T070000Z
 DTEND:20260326T083500Z
 SUMMARY:Polityka 
 LOCATION:1.10/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 3/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; mgr Krawczyk Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260402T060000Z
-DTEND:20260402T073500Z
-SUMMARY:Polityka 
-LOCATION:1.10/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 4/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 5/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T060000Z
 DTEND:20260409T073500Z
 SUMMARY:Polityka 
 LOCATION:1.10/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 5/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 6/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T060000Z
 DTEND:20260423T073500Z
 SUMMARY:Polityka 
 LOCATION:1.16/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 6/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 7/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T060000Z
@@ -1051,35 +1023,28 @@ DTSTART:20260305T085000Z
 DTEND:20260305T102500Z
 SUMMARY:Polityka 
 LOCATION:1.10/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 7/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 8/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T085000Z
 DTEND:20260326T102500Z
 SUMMARY:Polityka 
 LOCATION:1.10/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 8/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; mgr Krawczyk Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260402T075000Z
-DTEND:20260402T092500Z
-SUMMARY:Polityka 
-LOCATION:1.10/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 9/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 9/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T075000Z
 DTEND:20260409T092500Z
 SUMMARY:Polityka 
 LOCATION:1.10/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 10/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 10/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T075000Z
 DTEND:20260423T092500Z
 SUMMARY:Polityka 
 LOCATION:1.16/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 11/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 11/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T075000Z
@@ -1121,7 +1086,7 @@ DTSTART:20260305T104000Z
 DTEND:20260305T121500Z
 SUMMARY:Polityka 
 LOCATION:1.10/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 12/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 12/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T104000Z
@@ -1142,14 +1107,14 @@ DTSTART:20260409T094000Z
 DTEND:20260409T111500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:2.21/135
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 14/19\nProwadzący: dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 14/19\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T094000Z
 DTEND:20260507T111500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:0.19/135
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 15/19\nProwadzący: mgr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 15/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T094000Z
@@ -1163,7 +1128,7 @@ DTSTART:20260521T094000Z
 DTEND:20260521T111500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:26/158
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 16/19\nProwadzący: dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 16/19\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T094000Z
@@ -1185,13 +1150,6 @@ DTEND:20260305T140500Z
 SUMMARY:Mtc (w)
 LOCATION:1.10/16
 DESCRIPTION:Metodologia badań społecznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr hab. Kołodziejczyk Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260319T123000Z
-DTEND:20260319T140500Z
-SUMMARY:Polityka 
-LOCATION:1.10/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 13/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; mgr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T123000Z
@@ -1236,18 +1194,18 @@ LOCATION:1.17/16
 DESCRIPTION:Systemy ratownictwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/12
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260618T113000Z
+DTEND:20260618T130500Z
+SUMMARY:Kierowanie 
+LOCATION:0.22/16
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 24/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T150000Z
 DTEND:20260305T163500Z
 SUMMARY:Mtc (w)
 LOCATION:1.10/16
 DESCRIPTION:Metodologia badań społecznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. Kołodziejczyk Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260319T150000Z
-DTEND:20260319T163500Z
-SUMMARY:Polityka 
-LOCATION:1.10/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 14/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; mgr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T150000Z
@@ -1285,11 +1243,32 @@ LOCATION:1.17/16
 DESCRIPTION:Systemy ratownictwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/12
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260618T140000Z
+DTEND:20260618T153500Z
+SUMMARY:Kierowanie 
+LOCATION:0.22/16
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 25/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T155000Z
+DTEND:20260521T172500Z
+SUMMARY:Kierunki 
+LOCATION:4.17a/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 19/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T174000Z
+DTEND:20260521T191500Z
+SUMMARY:Kierunki 
+LOCATION:4.17a/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 20/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260313T070000Z
 DTEND:20260313T083500Z
 SUMMARY:Polityka 
 LOCATION:1.10/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 15/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 13/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T070000Z
@@ -1306,39 +1285,46 @@ LOCATION:1.16/16
 DESCRIPTION:Metodologia badań społecznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260424T060000Z
+DTEND:20260424T073500Z
+SUMMARY:Polityka 
+LOCATION:3.16/135
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 14/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; dr Krawczyk Mateusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260508T060000Z
 DTEND:20260508T073500Z
 SUMMARY:Polityka 
 LOCATION:1.16/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 16/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 15/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T060000Z
 DTEND:20260515T073500Z
 SUMMARY:Polityka 
 LOCATION:1.16/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 17/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 16/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T060000Z
 DTEND:20260522T073500Z
 SUMMARY:Polityka 
 LOCATION:1.16/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 18/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 17/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T060000Z
 DTEND:20260529T073500Z
 SUMMARY:Polityka 
 LOCATION:1.16/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 19/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 18/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T085000Z
 DTEND:20260313T102500Z
 SUMMARY:Polityka 
 LOCATION:1.10/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 20/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 19/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T085000Z
@@ -1362,32 +1348,39 @@ LOCATION:1.16/16
 DESCRIPTION:Metodologia badań społecznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260424T075000Z
+DTEND:20260424T092500Z
+SUMMARY:Polityka 
+LOCATION:3.16/135
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 20/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; dr Krawczyk Mateusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260508T075000Z
 DTEND:20260508T092500Z
 SUMMARY:Polityka 
 LOCATION:1.16/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 21/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 21/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T075000Z
 DTEND:20260515T092500Z
 SUMMARY:Polityka 
 LOCATION:1.16/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 22/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 22/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T075000Z
 DTEND:20260522T092500Z
 SUMMARY:Polityka 
 LOCATION:1.16/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 23/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 23/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T075000Z
 DTEND:20260529T092500Z
 SUMMARY:Polityka 
 LOCATION:1.16/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 24/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 24/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr hab. Kołodziejczyk Adam; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T104000Z
@@ -1415,14 +1408,14 @@ DTSTART:20260417T094000Z
 DTEND:20260417T111500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.16/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 17/19\nProwadzący: dr Moch Natalia; mgr Krawczyk Mateusz
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 17/19\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T094000Z
 DTEND:20260508T111500Z
 SUMMARY:Polityka 
 LOCATION:1.10/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 25/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; mgr Krawczyk Mateusz
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 25/25\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna; dr Moch Natalia; dr Kostrzewa-Zorbas Grzegorz; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T094000Z
@@ -1471,7 +1464,7 @@ DTSTART:20260410T113000Z
 DTEND:20260410T130500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 18/19\nProwadzący: mgr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 18/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T113000Z
@@ -1513,7 +1506,7 @@ DTSTART:20260410T140000Z
 DTEND:20260410T153500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 19/19\nProwadzący: mgr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 19/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T140000Z
@@ -1527,7 +1520,7 @@ DTSTART:20260515T140000Z
 DTEND:20260515T153500Z
 SUMMARY:Kierunki 
 LOCATION:1.9/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 22/25\nProwadzący: mgr Krawczyk Mateusz; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 21/25\nProwadzący: dr Krawczyk Mateusz; dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T155000Z
@@ -1540,21 +1533,28 @@ BEGIN:VEVENT
 DTSTART:20260508T155000Z
 DTEND:20260508T172500Z
 SUMMARY:Kierunki 
-LOCATION:1.10/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 23/25\nProwadzący: mgr Krawczyk Mateusz; dr Ćwik Dariusz
+LOCATION:0.19/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 22/25\nProwadzący: dr Krawczyk Mateusz; dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T155000Z
 DTEND:20260515T172500Z
 SUMMARY:Kierunki 
 LOCATION:1.9/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 24/25\nProwadzący: mgr Krawczyk Mateusz; dr Ćwik Dariusz
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 23/25\nProwadzący: dr Krawczyk Mateusz; dr Karczewski Edward
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T174000Z
+DTEND:20260410T191500Z
+SUMMARY:Kierunki 
+LOCATION:4.17a/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 24/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T174000Z
 DTEND:20260508T191500Z
 SUMMARY:Kierunki 
-LOCATION:1.10/16
-DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 25/25\nProwadzący: mgr Krawczyk Mateusz; dr Ćwik Dariusz
+LOCATION:0.19/135
+DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 25/25\nProwadzący: dr Krawczyk Mateusz; dr Karczewski Edward
 END:VEVENT
 END:VCALENDAR

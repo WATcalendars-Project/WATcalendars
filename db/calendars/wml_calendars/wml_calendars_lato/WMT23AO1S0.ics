@@ -4,6 +4,13 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WMT23AO1S0
 BEGIN:VEVENT
+DTSTART:20260302T070000Z
+DTEND:20260302T083500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260309T070000Z
 DTEND:20260309T083500Z
 SUMMARY:DSiSM 
@@ -13,9 +20,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T070000Z
 DTEND:20260316T083500Z
-SUMMARY:OPBMR 
-LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: por. mgr. inż. Jeżak Milena
+SUMMARY:NajM 
+LOCATION:155A
+DESCRIPTION:NajM\nRodzaj zajęć: -\nProwadzący: por. mgr inż. Suska Hubert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T070000Z
@@ -55,23 +62,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T060000Z
 DTEND:20260504T073500Z
-SUMMARY:OPBMR 
+SUMMARY:ŁapA 
 LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: por. mgr. inż. Jeżak Milena
+DESCRIPTION:ppor. dr  Łapińska Anna\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T060000Z
+DTEND:20260511T073500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T060000Z
 DTEND:20260518T073500Z
-SUMMARY:Pwo 
+SUMMARY:KrzS 
 LOCATION:2869
-DESCRIPTION:Połączone wsparcie ogniowe\nRodzaj zajęć: -\nProwadzący: dr inż. Krzyżanowski Sławomir
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T060000Z
 DTEND:20260525T073500Z
-SUMMARY:Pwo 
+SUMMARY:KrzS 
 LOCATION:2069
-DESCRIPTION:Połączone wsparcie ogniowe\nRodzaj zajęć: -\nProwadzący: dr inż. Krzyżanowski Sławomir
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T060000Z
@@ -83,16 +97,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T060000Z
 DTEND:20260608T073500Z
-SUMMARY:PESW 
+SUMMARY:Kope 
 LOCATION:2069
-DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW)\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
+DESCRIPTION:ppłk dr inż. Koperski Wojciech\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T060000Z
 DTEND:20260615T073500Z
-SUMMARY:OPBMR 
+SUMMARY:StJ 
+LOCATION:155A
+DESCRIPTION:gen. bryg. mgr inż. Stocki Jarosław\nRodzaj zajęć: -\nProwadzący: por. mgr inż. Suska Hubert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T085000Z
+DTEND:20260302T102500Z
+SUMMARY:SzS 
 LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: por. mgr. inż. Jeżak Milena
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T085000Z
@@ -104,9 +125,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T085000Z
 DTEND:20260316T102500Z
-SUMMARY:Pwo 
+SUMMARY:Piak 
 LOCATION:4663
-DESCRIPTION:Połączone wsparcie ogniowe\nRodzaj zajęć: -
+DESCRIPTION:Piak\nRodzaj zajęć: -\nProwadzący: kpt.mgr Nawalicki Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T085000Z
@@ -151,6 +172,13 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260511T075000Z
+DTEND:20260511T092500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260518T075000Z
 DTEND:20260518T092500Z
 SUMMARY:SSW 
@@ -181,100 +209,107 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T075000Z
 DTEND:20260615T092500Z
-SUMMARY:PESW 
+SUMMARY:Kope 
 LOCATION:2069
-DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW)\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
+DESCRIPTION:ppłk dr inż. Koperski Wojciech\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T104000Z
 DTEND:20260309T121500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T104000Z
 DTEND:20260316T121500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T104000Z
 DTEND:20260323T121500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T094000Z
+DTEND:20260330T111500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T094000Z
 DTEND:20260413T111500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T094000Z
 DTEND:20260420T111500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T094000Z
 DTEND:20260427T111500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T094000Z
 DTEND:20260504T111500Z
-SUMMARY:Ged 
+SUMMARY:KoB 
 LOCATION:4136
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:dr inż. Kolanowski Bogdan\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T094000Z
 DTEND:20260511T111500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T094000Z
 DTEND:20260518T111500Z
-SUMMARY:Nmo 
+SUMMARY:Cich 
 LOCATION:3136
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Cichy Damian
+DESCRIPTION:Cich\nRodzaj zajęć: -\nProwadzący: mgr inż. Piasta Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T094000Z
 DTEND:20260525T111500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T094000Z
 DTEND:20260601T111500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T094000Z
 DTEND:20260608T111500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T094000Z
 DTEND:20260615T111500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T123000Z
@@ -286,23 +321,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T123000Z
 DTEND:20260309T140500Z
-SUMMARY:Pwo 
+SUMMARY:Piak 
 LOCATION:4663
-DESCRIPTION:Połączone wsparcie ogniowe\nRodzaj zajęć: -
+DESCRIPTION:Piak\nRodzaj zajęć: -\nProwadzący: kpt.mgr Nawalicki Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T123000Z
 DTEND:20260316T140500Z
-SUMMARY:PESW 
+SUMMARY:Kope 
 LOCATION:
-DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW)\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
+DESCRIPTION:ppłk dr inż. Koperski Wojciech\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T123000Z
 DTEND:20260323T140500Z
-SUMMARY:PESW 
+SUMMARY:Kope 
 LOCATION:
-DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW)\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
+DESCRIPTION:ppłk dr inż. Koperski Wojciech\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T113000Z
@@ -314,23 +349,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T113000Z
 DTEND:20260413T130500Z
-SUMMARY:Pwo 
+SUMMARY:Piak 
 LOCATION:1936
-DESCRIPTION:Połączone wsparcie ogniowe\nRodzaj zajęć: -
+DESCRIPTION:Piak\nRodzaj zajęć: -\nProwadzący: kpt.mgr Nawalicki Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T113000Z
 DTEND:20260420T130500Z
-SUMMARY:Pwo 
+SUMMARY:KrzS 
 LOCATION:1936
-DESCRIPTION:Połączone wsparcie ogniowe\nRodzaj zajęć: -\nProwadzący: dr inż. Krzyżanowski Sławomir
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T113000Z
 DTEND:20260427T130500Z
-SUMMARY:Pwo 
+SUMMARY:KrzS 
 LOCATION:2069
-DESCRIPTION:Połączone wsparcie ogniowe\nRodzaj zajęć: -\nProwadzący: dr inż. Krzyżanowski Sławomir
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T113000Z
@@ -349,16 +384,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T113000Z
 DTEND:20260518T130500Z
-SUMMARY:PESW 
+SUMMARY:Kope 
 LOCATION:2069
-DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW)\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
+DESCRIPTION:ppłk dr inż. Koperski Wojciech\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T113000Z
 DTEND:20260525T130500Z
-SUMMARY:PESW 
+SUMMARY:Kope 
 LOCATION:2069
-DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW)\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
+DESCRIPTION:ppłk dr inż. Koperski Wojciech\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T113000Z
@@ -391,16 +426,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T150000Z
 DTEND:20260309T163500Z
-SUMMARY:OPBMR 
+SUMMARY:StJ 
 LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: por. mgr. inż. Jeżak Milena
+DESCRIPTION:gen. bryg. mgr inż. Stocki Jarosław\nRodzaj zajęć: -\nProwadzący: por. mgr inż. Suska Hubert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T150000Z
 DTEND:20260316T163500Z
-SUMMARY:DSiSM 
+SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+DESCRIPTION:SSW\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T150000Z
@@ -426,16 +461,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T140000Z
 DTEND:20260420T153500Z
-SUMMARY:SSW 
+SUMMARY:PaWó 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -
+DESCRIPTION:PaWó\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T140000Z
 DTEND:20260427T153500Z
-SUMMARY:Pwo 
+SUMMARY:KrzS 
 LOCATION:2069
-DESCRIPTION:Połączone wsparcie ogniowe\nRodzaj zajęć: -\nProwadzący: dr inż. Krzyżanowski Sławomir
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T140000Z
@@ -447,9 +482,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T140000Z
 DTEND:20260511T153500Z
-SUMMARY:PESW 
+SUMMARY:Kope 
 LOCATION:
-DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW)\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
+DESCRIPTION:ppłk dr inż. Koperski Wojciech\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Koperski Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T140000Z
@@ -538,9 +573,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T155000Z
 DTEND:20260427T172500Z
-SUMMARY:Pwo 
+SUMMARY:KrzS 
 LOCATION:2069
-DESCRIPTION:Połączone wsparcie ogniowe\nRodzaj zajęć: -\nProwadzący: dr inż. Krzyżanowski Sławomir
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T155000Z
@@ -697,200 +732,333 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260203T070000Z
-DTEND:20260203T083500Z
-SUMMARY:Ucm 
-LOCATION:1936
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: -\nProwadzący: dr inż. Śmietański Waldemar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260217T070000Z
-DTEND:20260217T083500Z
-SUMMARY:Zp 
-LOCATION:4663
-DESCRIPTION:Zp\nRodzaj zajęć: -\nProwadzący: mgr inż. Piasta Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260414T060000Z
 DTEND:20260414T073500Z
-SUMMARY:Bz 
+SUMMARY:Piak 
 LOCATION:3936
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+DESCRIPTION:Piak\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T060000Z
+DTEND:20260421T073500Z
+SUMMARY:Psł 
+LOCATION:
+DESCRIPTION:Psł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T060000Z
 DTEND:20260505T073500Z
-SUMMARY:NTW 
+SUMMARY:SM 
 LOCATION:1725
-DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: -
+DESCRIPTION:dr inż.  Sarzyński Marcin\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T060000Z
 DTEND:20260519T073500Z
-SUMMARY:WF 
+SUMMARY:PRyś 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:ppłk mgr Ryś Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T060000Z
 DTEND:20260526T073500Z
-SUMMARY:NTW 
+SUMMARY:Ciep 
 LOCATION:11325
-DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
+DESCRIPTION:mgr inż. Cieplak Kamil\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T060000Z
 DTEND:20260609T073500Z
-SUMMARY:Ged 
+SUMMARY:KoB 
 LOCATION:4136
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:dr inż. Kolanowski Bogdan\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T060000Z
 DTEND:20260616T073500Z
-SUMMARY:NTW 
+SUMMARY:Ciep 
 LOCATION:1725
-DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
+DESCRIPTION:mgr inż. Cieplak Kamil\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T085000Z
 DTEND:20260324T102500Z
-SUMMARY:NTW 
-LOCATION:
-DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: -
+SUMMARY:Jani 
+LOCATION:625
+DESCRIPTION:dr hab. inż. Janiszewski Jacek\nRodzaj zajęć: -\nProwadzący: dr inż. Makowska Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T075000Z
 DTEND:20260331T092500Z
-SUMMARY:OPBMR 
+SUMMARY:ŁapA 
+LOCATION:155A
+DESCRIPTION:ppor. dr  Łapińska Anna\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T075000Z
+DTEND:20260421T092500Z
+SUMMARY:Psł 
 LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: por. mgr. inż. Jeżak Milena
+DESCRIPTION:Psł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T075000Z
 DTEND:20260428T092500Z
-SUMMARY:Bz 
+SUMMARY:Mich 
 LOCATION:3936
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Michalski Jakub\nRodzaj zajęć: -\nProwadzący: dr inż. Michalski Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T075000Z
 DTEND:20260505T092500Z
-SUMMARY:NTW 
+SUMMARY:SM 
 LOCATION:1725
-DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: -
+DESCRIPTION:dr inż.  Sarzyński Marcin\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T075000Z
 DTEND:20260512T092500Z
-SUMMARY:Bz 
+SUMMARY:Piak 
 LOCATION:3936
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+DESCRIPTION:Piak\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T075000Z
 DTEND:20260519T092500Z
-SUMMARY:WF 
+SUMMARY:PRyś 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:ppłk mgr Ryś Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T075000Z
 DTEND:20260526T092500Z
-SUMMARY:NTW 
+SUMMARY:Ciep 
 LOCATION:11325
-DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
+DESCRIPTION:mgr inż. Cieplak Kamil\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T075000Z
+DTEND:20260602T092500Z
+SUMMARY:JawM 
+LOCATION:1663
+DESCRIPTION:dr inż. Jaworowicz Marek\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T075000Z
+DTEND:20260609T092500Z
+SUMMARY:JawM 
+LOCATION:1663
+DESCRIPTION:dr inż. Jaworowicz Marek\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T075000Z
 DTEND:20260616T092500Z
-SUMMARY:NTW 
+SUMMARY:Ciep 
 LOCATION:1725
-DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
+DESCRIPTION:mgr inż. Cieplak Kamil\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T104000Z
 DTEND:20260303T121500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2869
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T104000Z
 DTEND:20260317T121500Z
-SUMMARY:NTW 
+SUMMARY:Jani 
 LOCATION:4663
-DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: -
+DESCRIPTION:dr hab. inż. Janiszewski Jacek\nRodzaj zajęć: -\nProwadzący: dr inż. Makowska Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T104000Z
 DTEND:20260324T121500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2869
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T094000Z
 DTEND:20260331T111500Z
-SUMMARY:Bz 
+SUMMARY:Gac 
 LOCATION:2869
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+DESCRIPTION:prof.dr hab.inż. Gacek Józef\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T094000Z
 DTEND:20260414T111500Z
-SUMMARY:Bz 
+SUMMARY:Gac 
 LOCATION:2869
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+DESCRIPTION:prof.dr hab.inż. Gacek Józef\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T094000Z
+DTEND:20260421T111500Z
+SUMMARY:Psł 
+LOCATION:
+DESCRIPTION:Psł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T094000Z
 DTEND:20260428T111500Z
-SUMMARY:Bz 
+SUMMARY:Gac 
 LOCATION:2869
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+DESCRIPTION:prof.dr hab.inż. Gacek Józef\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T094000Z
 DTEND:20260505T111500Z
-SUMMARY:Nmo 
+SUMMARY:Cich 
 LOCATION:3136
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Cichy Damian
+DESCRIPTION:Cich\nRodzaj zajęć: -\nProwadzący: mgr inż. Piasta Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T094000Z
 DTEND:20260519T111500Z
-SUMMARY:WF 
+SUMMARY:PRyś 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:ppłk mgr Ryś Paweł\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T094000Z
+DTEND:20260526T111500Z
+SUMMARY:JawM 
+LOCATION:4763
+DESCRIPTION:dr inż. Jaworowicz Marek\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T094000Z
 DTEND:20260602T111500Z
-SUMMARY:Nmo 
+SUMMARY:Cich 
 LOCATION:3136
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Cichy Damian
+DESCRIPTION:Cich\nRodzaj zajęć: -\nProwadzący: mgr inż. Piasta Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T094000Z
 DTEND:20260616T111500Z
-SUMMARY:Nmo 
+SUMMARY:Cich 
 LOCATION:3136
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Cichy Damian
+DESCRIPTION:Cich\nRodzaj zajęć: -\nProwadzący: mgr inż. Piasta Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T123000Z
+DTEND:20260303T140500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T123000Z
+DTEND:20260310T140500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260317T123000Z
+DTEND:20260317T140500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T123000Z
+DTEND:20260324T140500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T113000Z
+DTEND:20260331T130500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T113000Z
 DTEND:20260414T130500Z
-SUMMARY:Nmo 
+SUMMARY:Cich 
 LOCATION:3136
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Cichy Damian
+DESCRIPTION:Cich\nRodzaj zajęć: -\nProwadzący: mgr inż. Piasta Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T113000Z
+DTEND:20260421T130500Z
+SUMMARY:Psł 
+LOCATION:
+DESCRIPTION:Psł\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T113000Z
+DTEND:20260428T130500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T113000Z
+DTEND:20260505T130500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T113000Z
+DTEND:20260512T130500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T113000Z
+DTEND:20260519T130500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T113000Z
+DTEND:20260526T130500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T113000Z
+DTEND:20260602T130500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T113000Z
+DTEND:20260609T130500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T113000Z
+DTEND:20260616T130500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T150000Z
 DTEND:20260310T163500Z
-SUMMARY:DSiSM 
+SUMMARY:PĆT1 
 LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+DESCRIPTION:PĆT1\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T140000Z
+DTEND:20260421T153500Z
+SUMMARY:Psł 
+LOCATION:
+DESCRIPTION:Psł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T165000Z
@@ -900,11 +1068,60 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260317T165000Z
+DTEND:20260317T182500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T165000Z
+DTEND:20260324T182500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T155000Z
+DTEND:20260331T172500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T155000Z
+DTEND:20260421T172500Z
+SUMMARY:Psł 
+LOCATION:
+DESCRIPTION:Psł\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T184000Z
+DTEND:20260324T201500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T174000Z
+DTEND:20260331T191500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T174000Z
+DTEND:20260421T191500Z
+SUMMARY:Psł 
+LOCATION:
+DESCRIPTION:Psł\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T070000Z
 DTEND:20260304T083500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T070000Z
@@ -916,30 +1133,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T070000Z
 DTEND:20260318T083500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T060000Z
 DTEND:20260401T073500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T060000Z
 DTEND:20260408T073500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T060000Z
 DTEND:20260415T073500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T060000Z
@@ -951,23 +1168,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T060000Z
 DTEND:20260429T073500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T060000Z
 DTEND:20260506T073500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T060000Z
 DTEND:20260513T073500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T060000Z
@@ -979,9 +1196,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T060000Z
 DTEND:20260527T073500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T060000Z
@@ -993,9 +1210,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T060000Z
 DTEND:20260610T073500Z
-SUMMARY:WF 
+SUMMARY:PJuń 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:PJuń\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T060000Z
@@ -1014,72 +1231,72 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T085000Z
 DTEND:20260325T102500Z
-SUMMARY:Bz 
+SUMMARY:Gac 
 LOCATION:2869
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+DESCRIPTION:prof.dr hab.inż. Gacek Józef\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T075000Z
 DTEND:20260401T092500Z
-SUMMARY:Bz 
+SUMMARY:Gac 
 LOCATION:2869
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+DESCRIPTION:prof.dr hab.inż. Gacek Józef\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T075000Z
 DTEND:20260408T092500Z
-SUMMARY:Bz 
+SUMMARY:Gac 
 LOCATION:2869
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+DESCRIPTION:prof.dr hab.inż. Gacek Józef\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T075000Z
 DTEND:20260415T092500Z
-SUMMARY:Bz 
+SUMMARY:Gac 
 LOCATION:2869
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+DESCRIPTION:prof.dr hab.inż. Gacek Józef\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T075000Z
 DTEND:20260422T092500Z
-SUMMARY:OPBMR 
+SUMMARY:M.Je 
 LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: por. mgr. inż. Jeżak Milena
+DESCRIPTION:por. mgr. inż. Jeżak Milena\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T075000Z
 DTEND:20260429T092500Z
-SUMMARY:NTW 
+SUMMARY:Jani 
 LOCATION:4663
-DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: -
+DESCRIPTION:dr hab. inż. Janiszewski Jacek\nRodzaj zajęć: -\nProwadzący: dr inż. Makowska Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T075000Z
 DTEND:20260506T092500Z
-SUMMARY:Bz 
+SUMMARY:Gac 
 LOCATION:2869
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+DESCRIPTION:prof.dr hab.inż. Gacek Józef\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T075000Z
 DTEND:20260513T092500Z
-SUMMARY:NTW 
-LOCATION:
-DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: -
+SUMMARY:Dzie 
+LOCATION:625
+DESCRIPTION:Dzie\nRodzaj zajęć: -\nProwadzący: kpt.mgr Nawalicki Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T075000Z
 DTEND:20260520T092500Z
-SUMMARY:Ged 
+SUMMARY:WaMi 
 LOCATION:4136
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:mgr inż.  Wasielczuk Mieczysław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T075000Z
 DTEND:20260527T092500Z
-SUMMARY:Ged 
+SUMMARY:WaMi 
 LOCATION:4136
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:mgr inż.  Wasielczuk Mieczysław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T075000Z
@@ -1091,16 +1308,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T075000Z
 DTEND:20260610T092500Z
-SUMMARY:Ged 
+SUMMARY:WaMi 
 LOCATION:4136
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260204T104000Z
-DTEND:20260204T121500Z
-SUMMARY:WdM 
-LOCATION:4663
-DESCRIPTION:Wprowadzenie do mechatroniki\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Pietrasieński Jan
+DESCRIPTION:mgr inż.  Wasielczuk Mieczysław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T104000Z
@@ -1112,72 +1322,72 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T104000Z
 DTEND:20260325T121500Z
-SUMMARY:Nmo 
+SUMMARY:Fis 
 LOCATION:3936
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -
+DESCRIPTION:mjr dr inż. Fikus Bartosz\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Fikus Bartosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T094000Z
 DTEND:20260401T111500Z
-SUMMARY:Nmo 
+SUMMARY:Cich 
 LOCATION:3136
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Cichy Damian
+DESCRIPTION:Cich\nRodzaj zajęć: -\nProwadzący: mgr inż. Piasta Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T094000Z
 DTEND:20260408T111500Z
-SUMMARY:Nmo 
+SUMMARY:Fis 
 LOCATION:3936
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -
+DESCRIPTION:mjr dr inż. Fikus Bartosz\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Fikus Bartosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T094000Z
 DTEND:20260415T111500Z
-SUMMARY:Nmo 
+SUMMARY:Fis 
 LOCATION:3936
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -
+DESCRIPTION:mjr dr inż. Fikus Bartosz\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Fikus Bartosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T094000Z
 DTEND:20260422T111500Z
-SUMMARY:OPBMR 
+SUMMARY:M.Je 
 LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: por. mgr. inż. Jeżak Milena
+DESCRIPTION:por. mgr. inż. Jeżak Milena\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T094000Z
 DTEND:20260429T111500Z
-SUMMARY:Nmo 
+SUMMARY:Fis 
 LOCATION:3936
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -
+DESCRIPTION:mjr dr inż. Fikus Bartosz\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Fikus Bartosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T094000Z
 DTEND:20260506T111500Z
-SUMMARY:Ged 
+SUMMARY:WaMi 
 LOCATION:4136
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:mgr inż.  Wasielczuk Mieczysław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2269
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T094000Z
 DTEND:20260520T111500Z
-SUMMARY:Ged 
+SUMMARY:WaMi 
 LOCATION:4136
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:mgr inż.  Wasielczuk Mieczysław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T094000Z
 DTEND:20260527T111500Z
-SUMMARY:Ged 
+SUMMARY:WaMi 
 LOCATION:4136
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:mgr inż.  Wasielczuk Mieczysław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T094000Z
@@ -1189,16 +1399,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T094000Z
 DTEND:20260610T111500Z
-SUMMARY:Ged 
+SUMMARY:WaMi 
 LOCATION:4136
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:mgr inż.  Wasielczuk Mieczysław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T123000Z
 DTEND:20260304T140500Z
-SUMMARY:SiKO 
+SUMMARY:KrzS 
 LOCATION:2069
-DESCRIPTION:SiKO\nRodzaj zajęć: -
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T123000Z
@@ -1210,58 +1420,72 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T123000Z
 DTEND:20260318T140500Z
-SUMMARY:Nmo 
+SUMMARY:Fis 
 LOCATION:3936
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -
+DESCRIPTION:mjr dr inż. Fikus Bartosz\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Fikus Bartosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T123000Z
 DTEND:20260325T140500Z
-SUMMARY:Nmo 
+SUMMARY:Fis 
 LOCATION:3936
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -
+DESCRIPTION:mjr dr inż. Fikus Bartosz\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Fikus Bartosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T113000Z
 DTEND:20260408T130500Z
-SUMMARY:Nmo 
+SUMMARY:Fis 
 LOCATION:3936
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -
+DESCRIPTION:mjr dr inż. Fikus Bartosz\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Fikus Bartosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T113000Z
 DTEND:20260415T130500Z
-SUMMARY:Nmo 
+SUMMARY:Fis 
 LOCATION:3936
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -
+DESCRIPTION:mjr dr inż. Fikus Bartosz\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Fikus Bartosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T113000Z
 DTEND:20260422T130500Z
-SUMMARY:OPBMR 
+SUMMARY:M.Je 
 LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: por. mgr. inż. Jeżak Milena
+DESCRIPTION:por. mgr. inż. Jeżak Milena\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T113000Z
 DTEND:20260429T130500Z
-SUMMARY:Ged 
+SUMMARY:WaMi 
 LOCATION:4136
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:mgr inż.  Wasielczuk Mieczysław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T113000Z
 DTEND:20260506T130500Z
-SUMMARY:Ged 
+SUMMARY:WaMi 
 LOCATION:4136
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:mgr inż.  Wasielczuk Mieczysław\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T113000Z
+DTEND:20260513T130500Z
+SUMMARY:JawM 
+LOCATION:1663
+DESCRIPTION:dr inż. Jaworowicz Marek\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T113000Z
+DTEND:20260520T130500Z
+SUMMARY:JawM 
+LOCATION:4763
+DESCRIPTION:dr inż. Jaworowicz Marek\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T113000Z
 DTEND:20260527T130500Z
-SUMMARY:NTW 
-LOCATION:
-DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
+SUMMARY:Makk 
+LOCATION:625
+DESCRIPTION:dr inż. Makowska Katarzyna\nRodzaj zajęć: -\nProwadzący: dr inż. Makowska Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T113000Z
@@ -1273,534 +1497,653 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T113000Z
 DTEND:20260610T130500Z
-SUMMARY:Bz 
+SUMMARY:Piak 
 LOCATION:3936
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+DESCRIPTION:Piak\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T113000Z
 DTEND:20260617T130500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2869
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T150000Z
 DTEND:20260325T163500Z
-SUMMARY:SwSM 
+SUMMARY:JawM 
 LOCATION:4663
-DESCRIPTION:Sterowanie w systemach mechatronicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
+DESCRIPTION:dr inż. Jaworowicz Marek\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T140000Z
 DTEND:20260401T153500Z
-SUMMARY:SwSM 
+SUMMARY:JawM 
 LOCATION:4663
-DESCRIPTION:Sterowanie w systemach mechatronicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
+DESCRIPTION:dr inż. Jaworowicz Marek\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T140000Z
 DTEND:20260415T153500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2969
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T140000Z
 DTEND:20260422T153500Z
-SUMMARY:OPBMR 
+SUMMARY:M.Je 
 LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: por. mgr. inż. Jeżak Milena
+DESCRIPTION:por. mgr. inż. Jeżak Milena\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T140000Z
 DTEND:20260429T153500Z
-SUMMARY:Ged 
+SUMMARY:WaMi 
 LOCATION:4136
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:mgr inż.  Wasielczuk Mieczysław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T140000Z
 DTEND:20260610T153500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2969
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T155000Z
 DTEND:20260422T172500Z
-SUMMARY:OPBMR 
+SUMMARY:M.Je 
 LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: por. mgr. inż. Jeżak Milena
+DESCRIPTION:por. mgr. inż. Jeżak Milena\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T174000Z
+DTEND:20260422T191500Z
+SUMMARY:Psł 
+LOCATION:
+DESCRIPTION:Psł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T070000Z
 DTEND:20260305T083500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2869
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T070000Z
 DTEND:20260312T083500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2869
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T070000Z
 DTEND:20260326T083500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2869
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T060000Z
 DTEND:20260402T073500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2869
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T060000Z
 DTEND:20260409T073500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2869
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T060000Z
 DTEND:20260423T073500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2869
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T060000Z
 DTEND:20260430T073500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2869
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T060000Z
 DTEND:20260507T073500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2869
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T060000Z
 DTEND:20260514T073500Z
-SUMMARY:SiKO 
+SUMMARY:KrzS 
 LOCATION:2269
-DESCRIPTION:SiKO\nRodzaj zajęć: -
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T060000Z
 DTEND:20260521T073500Z
-SUMMARY:SiKO 
+SUMMARY:KrzS 
 LOCATION:2269
-DESCRIPTION:SiKO\nRodzaj zajęć: -
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T060000Z
 DTEND:20260618T073500Z
-SUMMARY:NTW 
+SUMMARY:Makk 
+LOCATION:625
+DESCRIPTION:dr inż. Makowska Katarzyna\nRodzaj zajęć: -\nProwadzący: dr inż. Makowska Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T085000Z
+DTEND:20260305T102500Z
+SUMMARY:Ja 
 LOCATION:
-DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: -\nProwadzący: mgr inż. Cieplak Kamil
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T085000Z
+DTEND:20260312T102500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T085000Z
+DTEND:20260319T102500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T085000Z
+DTEND:20260326T102500Z
+SUMMARY:JawM 
+LOCATION:4763
+DESCRIPTION:dr inż. Jaworowicz Marek\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T075000Z
+DTEND:20260402T092500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T075000Z
+DTEND:20260409T092500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T075000Z
+DTEND:20260423T092500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T075000Z
+DTEND:20260430T092500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T075000Z
+DTEND:20260514T092500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T075000Z
+DTEND:20260521T092500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T075000Z
+DTEND:20260528T092500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T075000Z
+DTEND:20260611T092500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T075000Z
+DTEND:20260618T092500Z
+SUMMARY:Ja 
+LOCATION:
+DESCRIPTION:Język angielski\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T104000Z
 DTEND:20260305T121500Z
-SUMMARY:SiKO 
+SUMMARY:KrzS 
 LOCATION:2869
-DESCRIPTION:SiKO\nRodzaj zajęć: -
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T104000Z
 DTEND:20260312T121500Z
-SUMMARY:Bz 
+SUMMARY:Gac 
 LOCATION:2869
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+DESCRIPTION:prof.dr hab.inż. Gacek Józef\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T104000Z
 DTEND:20260319T121500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2969
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T104000Z
 DTEND:20260326T121500Z
-SUMMARY:SiKO 
+SUMMARY:KrzS 
 LOCATION:2869
-DESCRIPTION:SiKO\nRodzaj zajęć: -
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T094000Z
 DTEND:20260409T111500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2969
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T094000Z
 DTEND:20260416T111500Z
-SUMMARY:NTW 
+SUMMARY:Jani 
 LOCATION:4663
-DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: -
+DESCRIPTION:dr hab. inż. Janiszewski Jacek\nRodzaj zajęć: -\nProwadzący: dr inż. Makowska Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T094000Z
 DTEND:20260423T111500Z
-SUMMARY:Bz 
+SUMMARY:Gac 
 LOCATION:2869
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+DESCRIPTION:prof.dr hab.inż. Gacek Józef\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T094000Z
+DTEND:20260507T111500Z
+SUMMARY:JawM 
+LOCATION:4763
+DESCRIPTION:dr inż. Jaworowicz Marek\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T094000Z
 DTEND:20260514T111500Z
-SUMMARY:Bz 
+SUMMARY:Piak 
 LOCATION:3936
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+DESCRIPTION:Piak\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T094000Z
 DTEND:20260521T111500Z
-SUMMARY:Bz 
-LOCATION:
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -
+SUMMARY:Mich 
+LOCATION:526
+DESCRIPTION:dr inż. Michalski Jakub\nRodzaj zajęć: -\nProwadzący: dr inż. Michalski Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T094000Z
 DTEND:20260611T111500Z
-SUMMARY:Bz 
+SUMMARY:Gac 
 LOCATION:2269
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+DESCRIPTION:prof.dr hab.inż. Gacek Józef\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T094000Z
+DTEND:20260618T111500Z
+SUMMARY:JawM 
+LOCATION:4763
+DESCRIPTION:dr inż. Jaworowicz Marek\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T123000Z
 DTEND:20260305T140500Z
-SUMMARY:SiKO 
+SUMMARY:KrzS 
 LOCATION:2869
-DESCRIPTION:SiKO\nRodzaj zajęć: -
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T123000Z
 DTEND:20260312T140500Z
-SUMMARY:SiKO 
+SUMMARY:KrzS 
 LOCATION:2869
-DESCRIPTION:SiKO\nRodzaj zajęć: -
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T123000Z
 DTEND:20260319T140500Z
-SUMMARY:SiKO 
+SUMMARY:KrzS 
 LOCATION:2869
-DESCRIPTION:SiKO\nRodzaj zajęć: -
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T123000Z
 DTEND:20260326T140500Z
-SUMMARY:SiKO 
+SUMMARY:KrzS 
 LOCATION:2869
-DESCRIPTION:SiKO\nRodzaj zajęć: -
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T113000Z
 DTEND:20260402T130500Z
-SUMMARY:Bz 
+SUMMARY:Gac 
 LOCATION:2869
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+DESCRIPTION:prof.dr hab.inż. Gacek Józef\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T113000Z
 DTEND:20260409T130500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2969
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T113000Z
 DTEND:20260416T130500Z
-SUMMARY:Nmo 
+SUMMARY:Cich 
 LOCATION:3936
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Cichy Damian
+DESCRIPTION:Cich\nRodzaj zajęć: -\nProwadzący: mgr inż. Piasta Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T113000Z
 DTEND:20260423T130500Z
-SUMMARY:Ged 
+SUMMARY:WaMi 
 LOCATION:4136
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:mgr inż.  Wasielczuk Mieczysław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T113000Z
 DTEND:20260430T130500Z
-SUMMARY:Nmo 
+SUMMARY:Cich 
 LOCATION:3936
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Cichy Damian
+DESCRIPTION:Cich\nRodzaj zajęć: -\nProwadzący: mgr inż. Piasta Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T113000Z
 DTEND:20260507T130500Z
-SUMMARY:Bz 
+SUMMARY:Gac 
 LOCATION:2869
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+DESCRIPTION:prof.dr hab.inż. Gacek Józef\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T113000Z
 DTEND:20260514T130500Z
-SUMMARY:Nmo 
+SUMMARY:Cich 
 LOCATION:3936
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Cichy Damian
+DESCRIPTION:Cich\nRodzaj zajęć: -\nProwadzący: mgr inż. Piasta Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T113000Z
+DTEND:20260521T130500Z
+SUMMARY:JawM 
+LOCATION:4763
+DESCRIPTION:dr inż. Jaworowicz Marek\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T113000Z
 DTEND:20260528T130500Z
-SUMMARY:Nmo 
+SUMMARY:Cich 
 LOCATION:3936
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Cichy Damian
+DESCRIPTION:Cich\nRodzaj zajęć: -\nProwadzący: mgr inż. Piasta Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T113000Z
 DTEND:20260611T130500Z
-SUMMARY:Bz 
+SUMMARY:Gac 
 LOCATION:2269
-DESCRIPTION:Balistyka zewnętrzna\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
+DESCRIPTION:prof.dr hab.inż. Gacek Józef\nRodzaj zajęć: -\nProwadzący: prof.dr hab.inż. Gacek Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T113000Z
 DTEND:20260618T130500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2969
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T150000Z
 DTEND:20260305T163500Z
-SUMMARY:SiKO 
+SUMMARY:KrzS 
 LOCATION:2869
-DESCRIPTION:SiKO\nRodzaj zajęć: -
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T150000Z
 DTEND:20260312T163500Z
-SUMMARY:SiKO 
+SUMMARY:KrzS 
 LOCATION:2869
-DESCRIPTION:SiKO\nRodzaj zajęć: -
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T150000Z
 DTEND:20260319T163500Z
-SUMMARY:SiKO 
+SUMMARY:KrzS 
 LOCATION:2869
-DESCRIPTION:SiKO\nRodzaj zajęć: -
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T150000Z
 DTEND:20260326T163500Z
-SUMMARY:SiKO 
+SUMMARY:KrzS 
 LOCATION:2869
-DESCRIPTION:SiKO\nRodzaj zajęć: -
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T155000Z
 DTEND:20260514T172500Z
-SUMMARY:SiKO 
+SUMMARY:KrzS 
 LOCATION:2869
-DESCRIPTION:SiKO\nRodzaj zajęć: -
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T070000Z
 DTEND:20260306T083500Z
-SUMMARY:Ged 
+SUMMARY:KoB 
 LOCATION:4663
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:dr inż. Kolanowski Bogdan\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T070000Z
 DTEND:20260313T083500Z
-SUMMARY:Ged 
+SUMMARY:KoB 
 LOCATION:4663
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:dr inż. Kolanowski Bogdan\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T070000Z
 DTEND:20260320T083500Z
-SUMMARY:Ged 
+SUMMARY:KoB 
 LOCATION:4663
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:dr inż. Kolanowski Bogdan\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T060000Z
 DTEND:20260410T073500Z
-SUMMARY:Ged 
+SUMMARY:KoB 
 LOCATION:4663
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:dr inż. Kolanowski Bogdan\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T060000Z
 DTEND:20260417T073500Z
-SUMMARY:Ged 
+SUMMARY:KoB 
 LOCATION:4663
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:dr inż. Kolanowski Bogdan\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T060000Z
 DTEND:20260508T073500Z
-SUMMARY:NTW 
-LOCATION:
-DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: -
+SUMMARY:Dzie 
+LOCATION:625
+DESCRIPTION:Dzie\nRodzaj zajęć: -\nProwadzący: kpt.mgr Nawalicki Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T060000Z
 DTEND:20260522T073500Z
-SUMMARY:Ged 
+SUMMARY:KoB 
 LOCATION:4663
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:dr inż. Kolanowski Bogdan\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T060000Z
 DTEND:20260529T073500Z
-SUMMARY:NTW 
-LOCATION:
-DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: -
+SUMMARY:Dzie 
+LOCATION:625
+DESCRIPTION:Dzie\nRodzaj zajęć: -\nProwadzący: kpt.mgr Nawalicki Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T060000Z
 DTEND:20260612T073500Z
-SUMMARY:Ged 
+SUMMARY:WaMi 
 LOCATION:4136
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:mgr inż.  Wasielczuk Mieczysław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T060000Z
 DTEND:20260619T073500Z
-SUMMARY:Ged 
+SUMMARY:WaMi 
 LOCATION:4136
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:mgr inż.  Wasielczuk Mieczysław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T085000Z
 DTEND:20260306T102500Z
-SUMMARY:SwSM 
+SUMMARY:JawM 
 LOCATION:4663
-DESCRIPTION:Sterowanie w systemach mechatronicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
+DESCRIPTION:dr inż. Jaworowicz Marek\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T085000Z
 DTEND:20260313T102500Z
-SUMMARY:SwSM 
+SUMMARY:JawM 
 LOCATION:4663
-DESCRIPTION:Sterowanie w systemach mechatronicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
+DESCRIPTION:dr inż. Jaworowicz Marek\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T085000Z
 DTEND:20260320T102500Z
-SUMMARY:SwSM 
+SUMMARY:JawM 
 LOCATION:4663
-DESCRIPTION:Sterowanie w systemach mechatronicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
+DESCRIPTION:dr inż. Jaworowicz Marek\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T075000Z
 DTEND:20260410T092500Z
-SUMMARY:WF 
+SUMMARY:PRyś 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:ppłk mgr Ryś Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T075000Z
 DTEND:20260417T092500Z
-SUMMARY:WF 
+SUMMARY:PRyś 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:ppłk mgr Ryś Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T075000Z
 DTEND:20260508T092500Z
-SUMMARY:WF 
+SUMMARY:PRyś 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:ppłk mgr Ryś Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T075000Z
 DTEND:20260515T092500Z
-SUMMARY:WF 
+SUMMARY:PRyś 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:ppłk mgr Ryś Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T075000Z
 DTEND:20260522T092500Z
-SUMMARY:WF 
+SUMMARY:PRyś 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:ppłk mgr Ryś Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T075000Z
 DTEND:20260529T092500Z
-SUMMARY:WF 
+SUMMARY:PRyś 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Ryś Paweł
+DESCRIPTION:ppłk mgr Ryś Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T075000Z
 DTEND:20260612T092500Z
-SUMMARY:Ged 
+SUMMARY:WaMi 
 LOCATION:4136
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:mgr inż.  Wasielczuk Mieczysław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T104000Z
 DTEND:20260313T121500Z
-SUMMARY:Nmo 
+SUMMARY:Cich 
 LOCATION:3936
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Cichy Damian
+DESCRIPTION:Cich\nRodzaj zajęć: -\nProwadzący: mgr inż. Piasta Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T104000Z
 DTEND:20260320T121500Z
-SUMMARY:Nmo 
+SUMMARY:Cich 
 LOCATION:3936
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Cichy Damian
+DESCRIPTION:Cich\nRodzaj zajęć: -\nProwadzący: mgr inż. Piasta Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T094000Z
 DTEND:20260410T111500Z
-SUMMARY:Nmo 
+SUMMARY:Cich 
 LOCATION:3936
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -\nProwadzący: por.mgr inż. Cichy Damian
+DESCRIPTION:Cich\nRodzaj zajęć: -\nProwadzący: mgr inż. Piasta Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T094000Z
 DTEND:20260417T111500Z
-SUMMARY:SwSM 
+SUMMARY:JawM 
 LOCATION:4663
-DESCRIPTION:Sterowanie w systemach mechatronicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
+DESCRIPTION:dr inż. Jaworowicz Marek\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T094000Z
 DTEND:20260508T111500Z
-SUMMARY:Ged 
+SUMMARY:KoB 
 LOCATION:4663
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:dr inż. Kolanowski Bogdan\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T094000Z
 DTEND:20260515T111500Z
-SUMMARY:Ged 
+SUMMARY:KoB 
 LOCATION:4663
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:dr inż. Kolanowski Bogdan\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T094000Z
 DTEND:20260522T111500Z
-SUMMARY:NTW 
-LOCATION:
-DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: -
+SUMMARY:Jani 
+LOCATION:625
+DESCRIPTION:dr hab. inż. Janiszewski Jacek\nRodzaj zajęć: -\nProwadzący: dr inż. Makowska Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T094000Z
@@ -1812,72 +2155,72 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T094000Z
 DTEND:20260612T111500Z
-SUMMARY:Ged 
+SUMMARY:WaMi 
 LOCATION:4136
-DESCRIPTION:Geodezja\nRodzaj zajęć: -\nProwadzący: dr inż. Kolanowski Bogdan
+DESCRIPTION:mgr inż.  Wasielczuk Mieczysław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T094000Z
 DTEND:20260619T111500Z
-SUMMARY:SiKO 
+SUMMARY:KrzS 
 LOCATION:1563
-DESCRIPTION:SiKO\nRodzaj zajęć: -
+DESCRIPTION:dr inż.  Krzyżanowski Sławomir\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T123000Z
 DTEND:20260306T140500Z
-SUMMARY:Nmo 
+SUMMARY:Fis 
 LOCATION:4663
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -
+DESCRIPTION:mjr dr inż. Fikus Bartosz\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Fikus Bartosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T123000Z
 DTEND:20260313T140500Z
-SUMMARY:Nmo 
+SUMMARY:Fis 
 LOCATION:4663
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -
+DESCRIPTION:mjr dr inż. Fikus Bartosz\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Fikus Bartosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T123000Z
 DTEND:20260320T140500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2969
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T113000Z
 DTEND:20260410T130500Z
-SUMMARY:NTW 
+SUMMARY:Jani 
 LOCATION:4663
-DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: -
+DESCRIPTION:dr hab. inż. Janiszewski Jacek\nRodzaj zajęć: -\nProwadzący: dr inż. Makowska Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T113000Z
 DTEND:20260417T130500Z
-SUMMARY:NTW 
+SUMMARY:Jani 
 LOCATION:
-DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: -
+DESCRIPTION:dr hab. inż. Janiszewski Jacek\nRodzaj zajęć: -\nProwadzący: dr inż. Makowska Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T113000Z
 DTEND:20260508T130500Z
-SUMMARY:Nmo 
+SUMMARY:Fis 
 LOCATION:4663
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -
+DESCRIPTION:mjr dr inż. Fikus Bartosz\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Fikus Bartosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T113000Z
 DTEND:20260515T130500Z
-SUMMARY:Nmo 
+SUMMARY:Fis 
 LOCATION:4663
-DESCRIPTION:Numeryczne metody obliczeniowe\nRodzaj zajęć: -
+DESCRIPTION:mjr dr inż. Fikus Bartosz\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Fikus Bartosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T113000Z
 DTEND:20260522T130500Z
-SUMMARY:SwSM 
+SUMMARY:JawM 
 LOCATION:4663
-DESCRIPTION:Sterowanie w systemach mechatronicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
+DESCRIPTION:dr inż. Jaworowicz Marek\nRodzaj zajęć: -\nProwadzący: dr inż. Jaworowicz Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T113000Z
@@ -1889,9 +2232,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T113000Z
 DTEND:20260612T130500Z
-SUMMARY:Kba 
+SUMMARY:Kij 
 LOCATION:2269
-DESCRIPTION:Konstrukcja broni artyleryjskiej\nRodzaj zajęć: -\nProwadzący: ppłk dr inż. Kijewski Jacek
+DESCRIPTION:ppłk dr inż. Kijewski Jacek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260307T085000Z

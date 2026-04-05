@@ -25,18 +25,25 @@ LOCATION:3pl/29kp; 25FW; 1S; 0 Wr; 47 T
 DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr inż. Orżanowski Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260504T060000Z
+DTEND:20260504T073500Z
+SUMMARY:Mas (w)
+LOCATION:315 S
+DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Cieślik Karol
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260518T060000Z
 DTEND:20260518T073500Z
 SUMMARY:ZdSZ (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr Tomaszewski Jarosław
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T060000Z
 DTEND:20260525T073500Z
 SUMMARY:ZdSZ (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr Tomaszewski Jarosław
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T085000Z
@@ -53,6 +60,13 @@ LOCATION:
 DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260420T075000Z
+DTEND:20260420T092500Z
+SUMMARY:Mas (w)
+LOCATION:2.01/54A
+DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Cieślik Karol
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260427T075000Z
 DTEND:20260427T092500Z
 SUMMARY:SŁiŚD (ć)
@@ -64,7 +78,7 @@ DTSTART:20260525T075000Z
 DTEND:20260525T092500Z
 SUMMARY:ZdSZ (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr Tomaszewski Jarosław
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T075000Z
@@ -134,7 +148,7 @@ DTSTART:20260601T113000Z
 DTEND:20260601T130500Z
 SUMMARY:ZdSZ (ć)
 LOCATION:1.16/16
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr Tomaszewski Jarosław
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T150000Z
@@ -183,7 +197,14 @@ DTSTART:20260511T140000Z
 DTEND:20260511T153500Z
 SUMMARY:Mas (w)
 LOCATION:aula/135
-DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Cieślik Karol
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T140000Z
+DTEND:20260601T153500Z
+SUMMARY:BiEWTM (L)
+LOCATION:
+DESCRIPTION:Budowa i eksploatacja wyposażenia technicznego magazynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T140000Z
@@ -254,6 +275,13 @@ DTEND:20260511T172500Z
 SUMMARY:Plog (w)
 LOCATION:aula/135
 DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: płk prof.dr hab. Mitkow Szymon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T155000Z
+DTEND:20260601T172500Z
+SUMMARY:BiEWTM (L)
+LOCATION:0.21/16
+DESCRIPTION:Budowa i eksploatacja wyposażenia technicznego magazynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T155000Z
@@ -358,7 +386,7 @@ DTSTART:20260616T060000Z
 DTEND:20260616T073500Z
 SUMMARY:ZdSZ (S)
 LOCATION:0.8/16
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: dr Tomaszewski Jarosław
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T085000Z
@@ -680,7 +708,7 @@ DTSTART:20260414T140000Z
 DTEND:20260414T153500Z
 SUMMARY:Mas (w)
 LOCATION:aula/135
-DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T140000Z
@@ -709,6 +737,13 @@ DTEND:20260526T153500Z
 SUMMARY:Plog (ć)
 LOCATION:5.21/135
 DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: płk prof.dr hab. Mitkow Szymon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T140000Z
+DTEND:20260616T153500Z
+SUMMARY:OIN (w)
+LOCATION:1W
+DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T165000Z
@@ -844,13 +879,6 @@ LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260318T085000Z
-DTEND:20260318T102500Z
-SUMMARY:DSiSM (w)
-LOCATION:4W
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260325T085000Z
 DTEND:20260325T102500Z
 SUMMARY:Mat3 (w)
@@ -942,6 +970,13 @@ LOCATION:0.28/135
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260429T094000Z
+DTEND:20260429T111500Z
+SUMMARY:Che (L)
+LOCATION:55A
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Garbat Katarzyna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
 SUMMARY:F1 (L)
@@ -984,6 +1019,13 @@ LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260318T123000Z
+DTEND:20260318T140500Z
+SUMMARY:DSiSM (w)
+LOCATION:4W
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260408T113000Z
 DTEND:20260408T130500Z
 SUMMARY:F1 (ć)
@@ -995,7 +1037,14 @@ DTSTART:20260415T113000Z
 DTEND:20260415T130500Z
 SUMMARY:Che (L)
 LOCATION:55A
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Garbat Katarzyna
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Garbat Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T113000Z
+DTEND:20260429T130500Z
+SUMMARY:Che (L)
+LOCATION:55A
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Garbat Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T113000Z
@@ -1003,6 +1052,13 @@ DTEND:20260520T130500Z
 SUMMARY:BiEWTM (ć)
 LOCATION:0.8/16
 DESCRIPTION:Budowa i eksploatacja wyposażenia technicznego magazynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Sieczka Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T113000Z
+DTEND:20260527T130500Z
+SUMMARY:ZdSZ (ć)
+LOCATION:1.15/16
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T113000Z
@@ -1016,14 +1072,14 @@ DTSTART:20260318T150000Z
 DTEND:20260318T163500Z
 SUMMARY:Mas (w)
 LOCATION:aula/135
-DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T150000Z
 DTEND:20260325T163500Z
 SUMMARY:Mas (w)
 LOCATION:aula/135
-DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T140000Z
@@ -1037,28 +1093,35 @@ DTSTART:20260415T140000Z
 DTEND:20260415T153500Z
 SUMMARY:Che (L)
 LOCATION:55A
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Garbat Katarzyna
+DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Garbat Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T140000Z
 DTEND:20260422T153500Z
 SUMMARY:Mas (w)
 LOCATION:aula/135
-DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T140000Z
 DTEND:20260429T153500Z
 SUMMARY:Mas (w)
 LOCATION:aula/135
-DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T140000Z
 DTEND:20260506T153500Z
 SUMMARY:Mas (w)
 LOCATION:aula/135
-DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Cieślik Karol
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T140000Z
+DTEND:20260527T153500Z
+SUMMARY:ZdSZ (ć)
+LOCATION:1.15/16
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T165000Z
@@ -1117,6 +1180,13 @@ LOCATION:0.24/135
 DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260527T155000Z
+DTEND:20260527T172500Z
+SUMMARY:ZdSZ (ć)
+LOCATION:1.15/16
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260603T155000Z
 DTEND:20260603T172500Z
 SUMMARY:BiEWTM (ć)
@@ -1159,13 +1229,6 @@ LOCATION:3pl/29kp; 25FW; 1S; 0 Bo; 2 T
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260416T060000Z
-DTEND:20260416T073500Z
-SUMMARY:REG (ć)
-LOCATION:3pl/29kp; 25FW; 1S; 0 Bo; 7 T
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: ppłk rez. mgr Bomba Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260423T060000Z
 DTEND:20260423T073500Z
 SUMMARY:SzS (ć)
@@ -1184,7 +1247,7 @@ DTSTART:20260507T060000Z
 DTEND:20260507T073500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T060000Z
@@ -1208,13 +1271,6 @@ LOCATION:3pl/29kp; 25FW; 1S; 0 StJ; 2 T
 DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: mjr mgr Stępień Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260604T060000Z
-DTEND:20260604T073500Z
-SUMMARY:BiEWTM (L)
-LOCATION:
-DESCRIPTION:Budowa i eksploatacja wyposażenia technicznego magazynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr inż. Sieczka Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260611T060000Z
 DTEND:20260611T073500Z
 SUMMARY:RiAIP (ć)
@@ -1233,7 +1289,7 @@ DTSTART:20260305T085000Z
 DTEND:20260305T102500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 2/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 2/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T085000Z
@@ -1252,9 +1308,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T075000Z
 DTEND:20260402T092500Z
-SUMMARY:OIN (w)
-LOCATION:1W
-DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+SUMMARY:SSW 
+LOCATION:
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T075000Z
@@ -1289,7 +1345,7 @@ DTSTART:20260514T075000Z
 DTEND:20260514T092500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 4/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T075000Z
@@ -1304,13 +1360,6 @@ DTEND:20260528T092500Z
 SUMMARY:TA (ć)
 LOCATION:3pl/29kp; 25FW; 1S; 0 StJ; 2 T
 DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: mjr mgr Stępień Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260604T075000Z
-DTEND:20260604T092500Z
-SUMMARY:BiEWTM (L)
-LOCATION:0.21/16
-DESCRIPTION:Budowa i eksploatacja wyposażenia technicznego magazynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T075000Z
@@ -1397,13 +1446,6 @@ LOCATION:3pl/29kp; 25FW; 1S; 0 Was; 4 T
 DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260514T094000Z
-DTEND:20260514T111500Z
-SUMMARY:OIN (w)
-LOCATION:2W
-DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260521T094000Z
 DTEND:20260521T111500Z
 SUMMARY:ZaMe (ć)
@@ -1415,7 +1457,7 @@ DTSTART:20260528T094000Z
 DTEND:20260528T111500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 4/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 5/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T094000Z
@@ -1499,7 +1541,7 @@ DTSTART:20260507T113000Z
 DTEND:20260507T130500Z
 SUMMARY:SzS (ć)
 LOCATION:4PL/20KP; 3pl/29kp; 25IX; 3S; 25IX; 4S; 25FW; 1S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: mgr inż. Łukasiewicz Justyna; dr inż. Suligowski Mariusz; płk dr Niemirka Sławomir; dr Czuba Beata; dr Miszczak Marta
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: mgr inż. Łukasiewicz Justyna; dr inż. Suligowski Mariusz; płk dr Niemirka Sławomir; dr Czuba Beata; dr Pszczoła Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T113000Z
@@ -1523,18 +1565,11 @@ LOCATION:3pl/29kp; 25FW; 1S; 0 RGo
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 29/30\nProwadzący: dr inż. Suligowski Mariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260604T113000Z
-DTEND:20260604T130500Z
-SUMMARY:Che (L)
-LOCATION:55A
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Garbat Katarzyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260611T113000Z
 DTEND:20260611T130500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 5/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 6/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T113000Z
@@ -1548,28 +1583,28 @@ DTSTART:20260305T150000Z
 DTEND:20260305T163500Z
 SUMMARY:REG (ć)
 LOCATION:3pl/29kp; 25FW; 1S; 0 Bo; 3/043 T
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: ppłk rez. mgr Bomba Marcin
+DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: ppłk rez. mgr Bomba Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T150000Z
 DTEND:20260312T163500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 6/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 7/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T150000Z
 DTEND:20260319T163500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 7/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 8/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T140000Z
 DTEND:20260402T153500Z
-SUMMARY:Pwd (w)
-LOCATION:aula/135
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Miszczak Marta
+SUMMARY:SSW 
+LOCATION:
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 9/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T140000Z
@@ -1581,23 +1616,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T140000Z
 DTEND:20260416T153500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 8/37
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T140000Z
-DTEND:20260430T153500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 9/37
+SUMMARY:REG (ć)
+LOCATION:3pl/29kp; 25FW; 1S; 0 Bo; 1 T
+DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: ppłk rez. mgr Bomba Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T140000Z
 DTEND:20260507T153500Z
 SUMMARY:SzS (ć)
 LOCATION:4PL/20KP; 3pl/29kp; 5PL/20KP; 4pl/29kp; 25IX; 3S; 25IX; 4S; 25FW; 1S; 25KX; 1S; 25KX; 2S; 25FW; 2S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: mgr inż. Łukasiewicz Justyna; dr inż. Suligowski Mariusz; mjr mgr inż. Wróbel Mateusz; płk dr Niemirka Sławomir; dr Czuba Beata; dr Miszczak Marta
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: mgr inż. Łukasiewicz Justyna; dr inż. Suligowski Mariusz; mjr mgr inż. Wróbel Mateusz; płk dr Niemirka Sławomir; dr Czuba Beata; dr Pszczoła Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T140000Z
@@ -1605,13 +1633,6 @@ DTEND:20260528T153500Z
 SUMMARY:GMiB (w)
 LOCATION:2W
 DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: ppłk mgr Lasak Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260604T140000Z
-DTEND:20260604T153500Z
-SUMMARY:Che (L)
-LOCATION:55A
-DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Garbat Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T140000Z
@@ -1625,7 +1646,7 @@ DTSTART:20260305T165000Z
 DTEND:20260305T182500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 10/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 10/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T165000Z
@@ -1639,77 +1660,70 @@ DTSTART:20260319T165000Z
 DTEND:20260319T182500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 11/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 11/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T165000Z
 DTEND:20260326T182500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 12/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 12/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T155000Z
 DTEND:20260402T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 13/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 13/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T155000Z
 DTEND:20260409T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 14/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 14/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T155000Z
 DTEND:20260416T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 15/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 15/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T155000Z
 DTEND:20260423T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 16/37
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T155000Z
-DTEND:20260430T172500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 17/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 16/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T155000Z
 DTEND:20260507T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 18/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 17/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T155000Z
 DTEND:20260514T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 19/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 18/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T155000Z
 DTEND:20260521T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 20/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 19/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T155000Z
 DTEND:20260528T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 21/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 20/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T155000Z
@@ -1723,119 +1737,119 @@ DTSTART:20260618T155000Z
 DTEND:20260618T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 22/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 21/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T184000Z
 DTEND:20260305T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 23/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 22/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T184000Z
 DTEND:20260312T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 24/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 23/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T184000Z
 DTEND:20260319T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 25/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 24/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T184000Z
 DTEND:20260326T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 26/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 25/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T174000Z
 DTEND:20260402T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 27/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 26/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T174000Z
 DTEND:20260409T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 28/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 27/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T174000Z
 DTEND:20260416T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 29/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 28/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T174000Z
 DTEND:20260423T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 30/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 29/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T174000Z
 DTEND:20260430T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 31/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 30/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T174000Z
 DTEND:20260507T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 32/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 31/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T174000Z
 DTEND:20260514T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 33/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 32/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T174000Z
 DTEND:20260521T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 34/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 33/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T174000Z
 DTEND:20260528T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 35/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 34/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T174000Z
 DTEND:20260611T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 36/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 35/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T174000Z
 DTEND:20260618T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 37/37
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 36/36
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T070000Z
 DTEND:20260306T083500Z
 SUMMARY:Pwd (w)
 LOCATION:aula/135
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Miszczak Marta
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T070000Z
@@ -1873,6 +1887,13 @@ LOCATION:301/S
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260424T060000Z
+DTEND:20260424T073500Z
+SUMMARY:ZdSZ (S)
+LOCATION:
+DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260508T060000Z
 DTEND:20260508T073500Z
 SUMMARY:F1 (w)
@@ -1901,13 +1922,6 @@ LOCATION:301/S
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260605T060000Z
-DTEND:20260605T073500Z
-SUMMARY:ZdSZ (ć)
-LOCATION:0.22/16
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260612T060000Z
 DTEND:20260612T073500Z
 SUMMARY:Mat3 (w)
@@ -1933,7 +1947,7 @@ DTSTART:20260320T085000Z
 DTEND:20260320T102500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Tomaszewska Justyna
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T085000Z
@@ -1992,13 +2006,6 @@ LOCATION:
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 18/20\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260605T075000Z
-DTEND:20260605T092500Z
-SUMMARY:ZdSZ (ć)
-LOCATION:0.22/16
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260612T075000Z
 DTEND:20260612T092500Z
 SUMMARY:F1 (w)
@@ -2030,7 +2037,7 @@ BEGIN:VEVENT
 DTSTART:20260417T094000Z
 DTEND:20260417T111500Z
 SUMMARY:F1 (ć)
-LOCATION:0.28/135
+LOCATION:8/62
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15
 END:VEVENT
 BEGIN:VEVENT
@@ -2067,13 +2074,6 @@ DTEND:20260529T111500Z
 SUMMARY:F1 (ć)
 LOCATION:0.28/135
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260605T094000Z
-DTEND:20260605T111500Z
-SUMMARY:ZdSZ (S)
-LOCATION:0.22/16
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T094000Z
@@ -2167,13 +2167,6 @@ LOCATION:241 K; 240 K; 239 K; 238 K; 237 K; 235 K; 234 K; 233 K; 232 K; 231 K; 2
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26/30
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260605T113000Z
-DTEND:20260605T130500Z
-SUMMARY:ZdSZ (S)
-LOCATION:5.17/135
-DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: dr Tomaszewski Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260612T113000Z
 DTEND:20260612T130500Z
 SUMMARY:Ja (ć)
@@ -2244,18 +2237,25 @@ LOCATION:0.19/135
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260327T165000Z
-DTEND:20260327T182500Z
-SUMMARY:Mas (w)
-LOCATION:aula/135
-DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Cieślik Karol
+DTSTART:20260619T140000Z
+DTEND:20260619T153500Z
+SUMMARY:OIN (w)
+LOCATION:2W
+DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T155000Z
 DTEND:20260410T172500Z
 SUMMARY:Mas (w)
 LOCATION:aula/135
-DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Cieślik Karol
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T155000Z
+DTEND:20260508T172500Z
+SUMMARY:Pwd (w)
+LOCATION:
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T155000Z
@@ -2272,18 +2272,11 @@ LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30/30
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260327T184000Z
-DTEND:20260327T201500Z
-SUMMARY:Mas (w)
-LOCATION:aula/135
-DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Cieślik Karol
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260425T113000Z
 DTEND:20260425T130500Z
 SUMMARY:SzS (ć)
 LOCATION:4PL/20KP; 3pl/29kp; 25IX; 3S; 25IX; 4S; 25FW; 1S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: mgr inż. Łukasiewicz Justyna; dr inż. Suligowski Mariusz; płk dr Niemirka Sławomir; dr Czuba Beata; dr Miszczak Marta
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: mgr inż. Łukasiewicz Justyna; dr inż. Suligowski Mariusz; płk dr Niemirka Sławomir; dr Czuba Beata; dr Pszczoła Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T140000Z

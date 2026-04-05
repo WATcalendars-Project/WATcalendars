@@ -34,9 +34,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T094000Z
 DTEND:20260413T111500Z
-SUMMARY:KSOpBMR (ć)
+SUMMARY:KSOpBMR (L)
 LOCATION:5.21/135
-DESCRIPTION:Krajowy system obronny przed Bronią Masowego Rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr inż. Kleszcz Sławomir
+DESCRIPTION:Krajowy system obronny przed Bronią Masowego Rażenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T094000Z
@@ -60,13 +60,6 @@ LOCATION:0.21/16
 DESCRIPTION:Seminarium Dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/15\nProwadzący: dr Krysowaty Aneta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260316T123000Z
-DTEND:20260316T140500Z
-SUMMARY:BkI (w)
-LOCATION:aula/135
-DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr Szwarc Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260323T123000Z
 DTEND:20260323T140500Z
 SUMMARY:KSOpBMR (w)
@@ -74,25 +67,18 @@ LOCATION:aula/135
 DESCRIPTION:Krajowy system obronny przed Bronią Masowego Rażenia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260330T113000Z
-DTEND:20260330T130500Z
-SUMMARY:BkI (w)
-LOCATION:aula/135
-DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr Szwarc Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260413T113000Z
 DTEND:20260413T130500Z
-SUMMARY:KSOpBMR (ć)
+SUMMARY:KSOpBMR (L)
 LOCATION:5.21/135
-DESCRIPTION:Krajowy system obronny przed Bronią Masowego Rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr inż. Kleszcz Sławomir
+DESCRIPTION:Krajowy system obronny przed Bronią Masowego Rażenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T113000Z
 DTEND:20260504T130500Z
-SUMMARY:KSOpBMR (ć)
+SUMMARY:KSOpBMR (L)
 LOCATION:5.21/135
-DESCRIPTION:Krajowy system obronny przed Bronią Masowego Rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr inż. Kleszcz Sławomir
+DESCRIPTION:Krajowy system obronny przed Bronią Masowego Rażenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T150000Z
@@ -100,27 +86,6 @@ DTEND:20260309T163500Z
 SUMMARY:S.D. (S)
 LOCATION:0.21/16
 DESCRIPTION:Seminarium Dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/15\nProwadzący: dr Krysowaty Aneta
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260316T150000Z
-DTEND:20260316T163500Z
-SUMMARY:BkI (w)
-LOCATION:1.9/16
-DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr Szwarc Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260323T150000Z
-DTEND:20260323T163500Z
-SUMMARY:BkI (w)
-LOCATION:1.9/16
-DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr Szwarc Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260330T140000Z
-DTEND:20260330T153500Z
-SUMMARY:BkI (w)
-LOCATION:1.9/16
-DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T140000Z
@@ -132,9 +97,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T140000Z
 DTEND:20260504T153500Z
-SUMMARY:KSOpBMR (ć)
+SUMMARY:KSOpBMR (L)
 LOCATION:5.21/135
-DESCRIPTION:Krajowy system obronny przed Bronią Masowego Rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr inż. Kleszcz Sławomir
+DESCRIPTION:Krajowy system obronny przed Bronią Masowego Rażenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T165000Z
@@ -273,7 +238,7 @@ BEGIN:VEVENT
 DTSTART:20260324T104000Z
 DTEND:20260324T121500Z
 SUMMARY:Teoria 
-LOCATION:aula/135
+LOCATION:1.15/16
 DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 1/15\nProwadzący: Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
@@ -298,24 +263,10 @@ LOCATION:3.16/135
 DESCRIPTION:Podstawy funkcjonowania UE i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260310T123000Z
-DTEND:20260310T140500Z
-SUMMARY:BkI (w)
-LOCATION:3.16/135
-DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Szwarc Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260317T123000Z
-DTEND:20260317T140500Z
-SUMMARY:BkI (w)
-LOCATION:3.16/135
-DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr Szwarc Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260324T123000Z
 DTEND:20260324T140500Z
 SUMMARY:Teoria 
-LOCATION:aula/135
+LOCATION:1.15/16
 DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 2/15\nProwadzący: Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
@@ -330,21 +281,14 @@ DTSTART:20260519T113000Z
 DTEND:20260519T130500Z
 SUMMARY:ERIiC (L)
 LOCATION:2/22
-DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12
+DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T113000Z
 DTEND:20260526T130500Z
-SUMMARY:ERIiC (L)
+SUMMARY:ERIiC (ć)
 LOCATION:2/22
-DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260616T113000Z
-DTEND:20260616T130500Z
-SUMMARY:BkI (w)
-LOCATION:3.16/135
-DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Szwarc Krzysztof
+DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T150000Z
@@ -456,35 +400,35 @@ DTSTART:20260317T165000Z
 DTEND:20260317T182500Z
 SUMMARY:Polityka 
 LOCATION:1.9/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 1/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 1/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mjr dr inż. Walkowiak Marzena; mgr Moszczyński Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T165000Z
 DTEND:20260324T182500Z
 SUMMARY:ERIiC (w)
-LOCATION:1.9/16
+LOCATION:5.17/135
 DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/10\nProwadzący: dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T155000Z
 DTEND:20260331T172500Z
 SUMMARY:ERIiC (w)
-LOCATION:1.9/16
+LOCATION:5.17/135
 DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T155000Z
 DTEND:20260414T172500Z
 SUMMARY:Teoria 
-LOCATION:aula/135
+LOCATION:2.21/135
 DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 3/15\nProwadzący: Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T155000Z
 DTEND:20260519T172500Z
-SUMMARY:KSOpBMR (ć)
+SUMMARY:KSOpBMR (L)
 LOCATION:5.21/135
-DESCRIPTION:Krajowy system obronny przed Bronią Masowego Rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Kleszcz Sławomir
+DESCRIPTION:Krajowy system obronny przed Bronią Masowego Rażenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T155000Z
@@ -498,70 +442,70 @@ DTSTART:20260317T184000Z
 DTEND:20260317T201500Z
 SUMMARY:Polityka 
 LOCATION:1.9/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 2/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 2/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mjr dr inż. Walkowiak Marzena; mgr Moszczyński Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T184000Z
 DTEND:20260324T201500Z
 SUMMARY:ERIiC (w)
-LOCATION:1.9/16
+LOCATION:5.17/135
 DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T174000Z
 DTEND:20260331T191500Z
 SUMMARY:ERIiC (w)
-LOCATION:1.9/16
+LOCATION:5.17/135
 DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T174000Z
 DTEND:20260414T191500Z
 SUMMARY:Teoria 
-LOCATION:aula/135
+LOCATION:2.21/135
 DESCRIPTION:Teoria\nRodzaj zajęć: -\nNumer zajęć: 4/15\nProwadzący: Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T174000Z
 DTEND:20260519T191500Z
-SUMMARY:KSOpBMR (ć)
+SUMMARY:KSOpBMR (L)
 LOCATION:5.21/135
-DESCRIPTION:Krajowy system obronny przed Bronią Masowego Rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Kleszcz Sławomir
+DESCRIPTION:Krajowy system obronny przed Bronią Masowego Rażenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T075000Z
 DTEND:20260610T092500Z
 SUMMARY:Polityka 
 LOCATION:9/158
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 3/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; mgr Moszczyński Maciej; dr inż. Kleszcz Sławomir; dr Śmiałek Katarzyna
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 3/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej; dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T094000Z
 DTEND:20260506T111500Z
 SUMMARY:Polityka 
 LOCATION:255 S
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 4/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; mgr Moszczyński Maciej; dr inż. Kleszcz Sławomir; dr Śmiałek Katarzyna
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 4/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej; dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
 SUMMARY:Polityka 
 LOCATION:0.7/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 5/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; mgr Moszczyński Maciej; dr inż. Kleszcz Sławomir; dr Śmiałek Katarzyna
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 5/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej; dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T094000Z
 DTEND:20260527T111500Z
 SUMMARY:Polityka 
 LOCATION:255 S
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 6/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; mgr Moszczyński Maciej; dr inż. Kleszcz Sławomir; dr Śmiałek Katarzyna
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 6/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej; dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T094000Z
 DTEND:20260610T111500Z
 SUMMARY:Polityka 
 LOCATION:9/158
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 7/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; mgr Moszczyński Maciej; dr inż. Kleszcz Sławomir; dr Śmiałek Katarzyna
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 7/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej; dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T113000Z
@@ -575,34 +519,34 @@ DTSTART:20260506T113000Z
 DTEND:20260506T130500Z
 SUMMARY:Polityka 
 LOCATION:255 S
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 8/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; mgr Moszczyński Maciej; dr inż. Kleszcz Sławomir; dr Śmiałek Katarzyna
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 8/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej; dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T113000Z
 DTEND:20260513T130500Z
 SUMMARY:Polityka 
 LOCATION:0.7/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 9/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; mgr Moszczyński Maciej; dr inż. Kleszcz Sławomir; dr Śmiałek Katarzyna
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 9/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej; dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T113000Z
 DTEND:20260527T130500Z
 SUMMARY:Polityka 
 LOCATION:255 S
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 10/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; mgr Moszczyński Maciej; dr inż. Kleszcz Sławomir; dr Śmiałek Katarzyna
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 10/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej; dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T113000Z
 DTEND:20260603T130500Z
 SUMMARY:Polityka 
 LOCATION:0.22/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 11/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; mgr Moszczyński Maciej; dr inż. Kleszcz Sławomir; dr Śmiałek Katarzyna
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 11/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej; dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T113000Z
 DTEND:20260610T130500Z
 SUMMARY:Bku (ć)
-LOCATION:255 S
+LOCATION:26/158
 DESCRIPTION:Bezpieczeństwo kulturowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
@@ -672,57 +616,22 @@ BEGIN:VEVENT
 DTSTART:20260610T140000Z
 DTEND:20260610T153500Z
 SUMMARY:Bku (ć)
-LOCATION:255 S
+LOCATION:26/158
 DESCRIPTION:Bezpieczeństwo kulturowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: Prof. dr hab. Cieślarczyk Marian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260311T165000Z
-DTEND:20260311T182500Z
-SUMMARY:MOLiE (w)
-LOCATION:1.9/16
-DESCRIPTION:Modele ochrony ludności i ewakuacja\nRodzaj zajęć: Wykład\nNumer zajęć: 1/12\nProwadzący: dr Śmiałek Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260318T165000Z
-DTEND:20260318T182500Z
-SUMMARY:MOLiE (w)
-LOCATION:1.9/16
-DESCRIPTION:Modele ochrony ludności i ewakuacja\nRodzaj zajęć: Wykład\nNumer zajęć: 2/12\nProwadzący: dr Śmiałek Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260325T165000Z
-DTEND:20260325T182500Z
-SUMMARY:MOLiE (w)
-LOCATION:1.9/16
-DESCRIPTION:Modele ochrony ludności i ewakuacja\nRodzaj zajęć: Wykład\nNumer zajęć: 3/12\nProwadzący: dr Śmiałek Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260401T155000Z
-DTEND:20260401T172500Z
-SUMMARY:MOLiE (w)
-LOCATION:1.9/16
-DESCRIPTION:Modele ochrony ludności i ewakuacja\nRodzaj zajęć: Wykład\nNumer zajęć: 4/12\nProwadzący: dr Śmiałek Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260408T155000Z
-DTEND:20260408T172500Z
-SUMMARY:MOLiE (w)
-LOCATION:1.9/16
-DESCRIPTION:Modele ochrony ludności i ewakuacja\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T155000Z
 DTEND:20260429T172500Z
 SUMMARY:Polityka 
 LOCATION:3.16/135
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 12/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 12/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mjr dr inż. Walkowiak Marzena; mgr Moszczyński Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T155000Z
 DTEND:20260506T172500Z
-SUMMARY:KSOpBMR (ć)
+SUMMARY:KSOpBMR (L)
 LOCATION:5.21/135
-DESCRIPTION:Krajowy system obronny przed Bronią Masowego Rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr inż. Kleszcz Sławomir
+DESCRIPTION:Krajowy system obronny przed Bronią Masowego Rażenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T155000Z
@@ -746,53 +655,18 @@ LOCATION:4.23/135
 DESCRIPTION:Negocjacje w sytuacjach kryzysowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260311T184000Z
-DTEND:20260311T201500Z
-SUMMARY:MOLiE (w)
-LOCATION:1.9/16
-DESCRIPTION:Modele ochrony ludności i ewakuacja\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: dr Śmiałek Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260318T184000Z
-DTEND:20260318T201500Z
-SUMMARY:MOLiE (w)
-LOCATION:1.9/16
-DESCRIPTION:Modele ochrony ludności i ewakuacja\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: dr Śmiałek Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260325T184000Z
-DTEND:20260325T201500Z
-SUMMARY:MOLiE (w)
-LOCATION:1.9/16
-DESCRIPTION:Modele ochrony ludności i ewakuacja\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: dr Śmiałek Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260401T174000Z
-DTEND:20260401T191500Z
-SUMMARY:MOLiE (w)
-LOCATION:1.9/16
-DESCRIPTION:Modele ochrony ludności i ewakuacja\nRodzaj zajęć: Wykład\nNumer zajęć: 9/12\nProwadzący: dr Śmiałek Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260408T174000Z
-DTEND:20260408T191500Z
-SUMMARY:MOLiE (w)
-LOCATION:1.9/16
-DESCRIPTION:Modele ochrony ludności i ewakuacja\nRodzaj zajęć: Wykład\nNumer zajęć: 10/12\nProwadzący: dr Śmiałek Katarzyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260429T174000Z
 DTEND:20260429T191500Z
 SUMMARY:Polityka 
 LOCATION:3.16/135
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 13/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 13/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mjr dr inż. Walkowiak Marzena; mgr Moszczyński Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T174000Z
 DTEND:20260506T191500Z
-SUMMARY:KSOpBMR (ć)
+SUMMARY:KSOpBMR (L)
 LOCATION:5.21/135
-DESCRIPTION:Krajowy system obronny przed Bronią Masowego Rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr inż. Kleszcz Sławomir
+DESCRIPTION:Krajowy system obronny przed Bronią Masowego Rażenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T174000Z
@@ -981,14 +855,14 @@ DTSTART:20260326T165000Z
 DTEND:20260326T182500Z
 SUMMARY:Polityka 
 LOCATION:1.9/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 14/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 14/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mjr dr inż. Walkowiak Marzena; mgr Moszczyński Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T155000Z
 DTEND:20260402T172500Z
 SUMMARY:Polityka 
 LOCATION:1.9/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 15/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 15/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mjr dr inż. Walkowiak Marzena; mgr Moszczyński Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T155000Z
@@ -1015,7 +889,7 @@ BEGIN:VEVENT
 DTSTART:20260430T155000Z
 DTEND:20260430T172500Z
 SUMMARY:ERIiC (w)
-LOCATION:1.9/16
+LOCATION:5.17/135
 DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
@@ -1037,7 +911,7 @@ DTSTART:20260521T155000Z
 DTEND:20260521T172500Z
 SUMMARY:Polityka 
 LOCATION:9/158
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 16/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; mgr Moszczyński Maciej; dr inż. Kleszcz Sławomir; dr Śmiałek Katarzyna
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 16/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej; dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T184000Z
@@ -1065,20 +939,20 @@ DTSTART:20260326T184000Z
 DTEND:20260326T201500Z
 SUMMARY:Polityka 
 LOCATION:1.9/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 17/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 17/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mjr dr inż. Walkowiak Marzena; mgr Moszczyński Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T174000Z
 DTEND:20260402T191500Z
 SUMMARY:Polityka 
 LOCATION:1.9/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 18/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 18/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mjr dr inż. Walkowiak Marzena; mgr Moszczyński Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T174000Z
 DTEND:20260409T191500Z
 SUMMARY:NwSK (w)
-LOCATION:1.9/16
+LOCATION:3.16/135
 DESCRIPTION:Negocjacje w sytuacjach kryzysowych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Śmiałek Katarzyna
 END:VEVENT
 BEGIN:VEVENT
@@ -1099,14 +973,14 @@ BEGIN:VEVENT
 DTSTART:20260430T174000Z
 DTEND:20260430T191500Z
 SUMMARY:ERIiC (w)
-LOCATION:1.9/16
+LOCATION:5.17/135
 DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T174000Z
 DTEND:20260507T191500Z
 SUMMARY:ERIiC (w)
-LOCATION:1.9/16
+LOCATION:5.17/135
 DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
@@ -1114,49 +988,49 @@ DTSTART:20260619T060000Z
 DTEND:20260619T073500Z
 SUMMARY:Polityka 
 LOCATION:3.16/135
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 19/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 19/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mjr dr inż. Walkowiak Marzena; mgr Moszczyński Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T075000Z
 DTEND:20260619T092500Z
 SUMMARY:Polityka 
 LOCATION:3.16/135
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 20/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 20/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mjr dr inż. Walkowiak Marzena; mgr Moszczyński Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T094000Z
 DTEND:20260515T111500Z
-SUMMARY:ERIiC (L)
+SUMMARY:ERIiC (ć)
 LOCATION:2/22
-DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12
+DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T094000Z
 DTEND:20260522T111500Z
-SUMMARY:ERIiC (L)
+SUMMARY:ERIiC (ć)
 LOCATION:2/22
-DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12
+DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T094000Z
 DTEND:20260529T111500Z
 SUMMARY:ERIiC (L)
 LOCATION:2/22
-DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12
+DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T094000Z
 DTEND:20260612T111500Z
 SUMMARY:ERIiC (L)
 LOCATION:2/22
-DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12
+DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T094000Z
 DTEND:20260619T111500Z
 SUMMARY:ERIiC (L)
 LOCATION:2/22
-DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12
+DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T123000Z
@@ -1175,37 +1049,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T113000Z
 DTEND:20260515T130500Z
-SUMMARY:ERIiC (L)
+SUMMARY:ERIiC (ć)
 LOCATION:2/22
-DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12
+DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T113000Z
 DTEND:20260522T130500Z
-SUMMARY:ERIiC (L)
+SUMMARY:ERIiC (ć)
 LOCATION:2/22
-DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12
+DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T113000Z
 DTEND:20260529T130500Z
 SUMMARY:ERIiC (L)
 LOCATION:2/22
-DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12
+DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T113000Z
 DTEND:20260612T130500Z
 SUMMARY:ERIiC (L)
 LOCATION:2/22
-DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12
+DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T113000Z
 DTEND:20260619T130500Z
 SUMMARY:ERIiC (L)
 LOCATION:2/22
-DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12
+DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T150000Z
@@ -1222,13 +1096,6 @@ LOCATION:1.9/16
 DESCRIPTION:Podstawy funkcjonowania UE i NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260508T140000Z
-DTEND:20260508T153500Z
-SUMMARY:MOLiE (w)
-LOCATION:1.9/16
-DESCRIPTION:Modele ochrony ludności i ewakuacja\nRodzaj zajęć: Wykład\nNumer zajęć: 11/12\nProwadzący: dr Śmiałek Katarzyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260306T165000Z
 DTEND:20260306T182500Z
 SUMMARY:Bku (w)
@@ -1240,7 +1107,7 @@ DTSTART:20260313T165000Z
 DTEND:20260313T182500Z
 SUMMARY:Polityka 
 LOCATION:1.9/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 21/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 21/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mjr dr inż. Walkowiak Marzena; mgr Moszczyński Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T165000Z
@@ -1257,13 +1124,6 @@ LOCATION:1.9/16
 DESCRIPTION:Bezpieczeństwo kulturowe\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: Prof. dr hab. Cieślarczyk Marian
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260508T155000Z
-DTEND:20260508T172500Z
-SUMMARY:MOLiE (w)
-LOCATION:1.9/16
-DESCRIPTION:Modele ochrony ludności i ewakuacja\nRodzaj zajęć: Wykład\nNumer zajęć: 12/12\nProwadzący: dr Śmiałek Katarzyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260306T184000Z
 DTEND:20260306T201500Z
 SUMMARY:Bku (w)
@@ -1275,7 +1135,7 @@ DTSTART:20260313T184000Z
 DTEND:20260313T201500Z
 SUMMARY:Polityka 
 LOCATION:1.9/16
-DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 22/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr Szwarc Krzysztof; dr inż. Kleszcz Sławomir; mgr Moszczyński Maciej
+DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 22/22\nProwadzący: dr inż. Magierski Mieczysław; Prof. dr hab. Cieślarczyk Marian; dr inż. Kleszcz Sławomir; mjr dr inż. Walkowiak Marzena; mgr Moszczyński Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T184000Z
@@ -1288,7 +1148,7 @@ BEGIN:VEVENT
 DTSTART:20260410T174000Z
 DTEND:20260410T191500Z
 SUMMARY:ERIiC (w)
-LOCATION:1.9/16
+LOCATION:0.28/135
 DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Magierski Mieczysław
 END:VEVENT
 END:VCALENDAR

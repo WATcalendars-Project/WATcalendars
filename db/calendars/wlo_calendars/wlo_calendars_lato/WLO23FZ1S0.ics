@@ -43,7 +43,21 @@ DTSTART:20260511T060000Z
 DTEND:20260511T073500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T060000Z
+DTEND:20260518T073500Z
+SUMMARY:ZOŻP (ć)
+LOCATION:0.28/135
+DESCRIPTION:Zasady organizacji żywienia w czasie pokoju\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: prof. WAT Kler Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T060000Z
+DTEND:20260601T073500Z
+SUMMARY:SiIL (ć)
+LOCATION:1.15/16
+DESCRIPTION:Standaryzacja i interoperacyjność logistyczna w NATO\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr n.społ. inż. Rogowski Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T085000Z
@@ -78,14 +92,14 @@ DTSTART:20260511T075000Z
 DTEND:20260511T092500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T075000Z
 DTEND:20260601T092500Z
 SUMMARY:SiIL (ć)
 LOCATION:1.15/16
-DESCRIPTION:Standaryzacja i interoperacyjność logistyczna w NATO\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr n.społ. inż. Rogowski Bogusław
+DESCRIPTION:Standaryzacja i interoperacyjność logistyczna w NATO\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr n.społ. inż. Rogowski Bogusław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T104000Z
@@ -120,7 +134,21 @@ DTSTART:20260511T094000Z
 DTEND:20260511T111500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T094000Z
+DTEND:20260518T111500Z
+SUMMARY:ZOŻP (ć)
+LOCATION:1.16/16
+DESCRIPTION:Zasady organizacji żywienia w czasie pokoju\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: prof. WAT Kler Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T094000Z
+DTEND:20260525T111500Z
+SUMMARY:ZOŻP (ć)
+LOCATION:0.28/135
+DESCRIPTION:Zasady organizacji żywienia w czasie pokoju\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T094000Z
@@ -172,6 +200,13 @@ LOCATION:255 S
 DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260601T113000Z
+DTEND:20260601T130500Z
+SUMMARY:ZOŻP (S)
+LOCATION:1.10/16
+DESCRIPTION:Zasady organizacji żywienia w czasie pokoju\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: prof. WAT Kler Paweł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260427T140000Z
 DTEND:20260427T153500Z
 SUMMARY:Wog (ć)
@@ -179,60 +214,11 @@ LOCATION:255 S
 DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260511T140000Z
-DTEND:20260511T153500Z
-SUMMARY:ZOŻP (w)
-LOCATION:5.17/135
-DESCRIPTION:Zasady organizacji żywienia w czasie pokoju\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: prof. WAT Kler Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260518T140000Z
-DTEND:20260518T153500Z
-SUMMARY:ZOŻP (ć)
-LOCATION:5.17/135
-DESCRIPTION:Zasady organizacji żywienia w czasie pokoju\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: prof. WAT Kler Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260525T140000Z
-DTEND:20260525T153500Z
-SUMMARY:ZOŻP (ć)
-LOCATION:5.17/135
-DESCRIPTION:Zasady organizacji żywienia w czasie pokoju\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: prof. WAT Kler Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260601T140000Z
-DTEND:20260601T153500Z
-SUMMARY:ZOŻP (S)
-LOCATION:5.17/135
-DESCRIPTION:Zasady organizacji żywienia w czasie pokoju\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: prof. WAT Kler Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260608T140000Z
-DTEND:20260608T153500Z
-SUMMARY:SiIL (ć)
-LOCATION:1.15/16
-DESCRIPTION:Standaryzacja i interoperacyjność logistyczna w NATO\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr n.społ. inż. Rogowski Bogusław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260427T155000Z
 DTEND:20260427T172500Z
 SUMMARY:SiIL (ć)
 LOCATION:1.15/16
 DESCRIPTION:Standaryzacja i interoperacyjność logistyczna w NATO\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr n.społ. inż. Rogowski Bogusław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260511T155000Z
-DTEND:20260511T172500Z
-SUMMARY:ZOŻP (w)
-LOCATION:5.17/135
-DESCRIPTION:Zasady organizacji żywienia w czasie pokoju\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: prof. WAT Kler Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260518T155000Z
-DTEND:20260518T172500Z
-SUMMARY:ZOŻP (ć)
-LOCATION:5.17/135
-DESCRIPTION:Zasady organizacji żywienia w czasie pokoju\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T155000Z
@@ -253,7 +239,7 @@ DTSTART:20260310T070000Z
 DTEND:20260310T083500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T070000Z
@@ -267,14 +253,14 @@ DTSTART:20260324T070000Z
 DTEND:20260324T083500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 2/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 2/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T060000Z
 DTEND:20260331T073500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T060000Z
@@ -302,7 +288,7 @@ DTSTART:20260505T060000Z
 DTEND:20260505T073500Z
 SUMMARY:SzS (ć)
 LOCATION:4pl/24kp; 23FZ; 1S; 23BID
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: kpt.mgr Nawalicki Piotr; gen. bryg. mgr inż. Stocki Jarosław; por. mgr inż. Suska Hubert; kpt. mgr inż Kuligowska Monika; mjr mgr Wójcik Paweł; mgr Stasiewicz Piotr
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: kpt.mgr Nawalicki Piotr; gen. bryg. mgr inż. Stocki Jarosław; por. mgr inż. Suska Hubert; kpt. mgr inż Kuligowska Monika; mjr mgr Wójcik Paweł; 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T060000Z
@@ -326,25 +312,11 @@ LOCATION:4pl/24kp; 23FZ; 1S; 23BID; 0 ST; 1 T
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: kpt.mgr Nawalicki Piotr; gen. bryg. mgr inż. Stocki Jarosław; mjr mgr Wójcik Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260602T060000Z
-DTEND:20260602T073500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 4/65
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260609T060000Z
 DTEND:20260609T073500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 5/65
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260616T060000Z
-DTEND:20260616T073500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 6/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 4/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T085000Z
@@ -365,7 +337,7 @@ DTSTART:20260324T085000Z
 DTEND:20260324T102500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 7/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 5/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T075000Z
@@ -386,7 +358,7 @@ DTSTART:20260421T075000Z
 DTEND:20260421T092500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 8/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 6/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T075000Z
@@ -400,14 +372,14 @@ DTSTART:20260505T075000Z
 DTEND:20260505T092500Z
 SUMMARY:SzS (ć)
 LOCATION:4pl/24kp; 5pl/24kp; 23FZ; 1S; 23BID; 23FO; 1S
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: kpt.mgr Nawalicki Piotr; gen. bryg. mgr inż. Stocki Jarosław; kpt. mgr inż Kuligowska Monika; por. mgr inż. Suska Hubert; ppor. mgr inż. Najderek Mateusz; mjr mgr Wójcik Paweł; mgr Stasiewicz Piotr
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: kpt.mgr Nawalicki Piotr; gen. bryg. mgr inż. Stocki Jarosław; kpt. mgr inż Kuligowska Monika; por. mgr inż. Suska Hubert; por. mgr inż. Filipow Mateusz; mjr mgr Wójcik Paweł; 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T075000Z
 DTEND:20260512T092500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 9/65
+SUMMARY:ZOŻP (w)
+LOCATION:0.6/16
+DESCRIPTION:Zasady organizacji żywienia w czasie pokoju\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T075000Z
@@ -428,7 +400,7 @@ DTSTART:20260602T075000Z
 DTEND:20260602T092500Z
 SUMMARY:SzS (w)
 LOCATION:8w
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: ppłk mgr inż. Grądziel Grzegorz; kpt.mgr Nawalicki Piotr; kpt. mgr inż Kuligowska Monika; mjr mgr Wójcik Paweł; WLO23FZ1S0; dr n.społ. inż. Rogowski Bogusław; XWm.(w) WLO23FU1S0; gen. bryg. mgr inż. Stocki Jarosław; kpt.mgr inż. Goździk Dawid; ppłk mgr Misiejuk Tomasz
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: ppłk mgr inż. Grądziel Grzegorz; kpt.mgr Nawalicki Piotr; kpt. mgr inż Kuligowska Monika; mjr mgr Wójcik Paweł; por. mgr inż. Filipow Mateusz; dr n.społ. inż. Rogowski Bogusław; XWm.(ć) WLO23FZ1S0; gen. bryg. mgr inż. Stocki Jarosław; kpt.mgr inż. Goździk Dawid; ppłk mgr Misiejuk Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T075000Z
@@ -442,14 +414,14 @@ DTSTART:20260616T075000Z
 DTEND:20260616T092500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 10/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 7/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T104000Z
 DTEND:20260303T121500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 11/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 8/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T104000Z
@@ -463,7 +435,7 @@ DTSTART:20260317T104000Z
 DTEND:20260317T121500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 12/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 9/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T104000Z
@@ -477,14 +449,14 @@ DTSTART:20260331T094000Z
 DTEND:20260331T111500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 13/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 10/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T094000Z
 DTEND:20260414T111500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 14/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 11/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T094000Z
@@ -510,30 +482,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T094000Z
 DTEND:20260512T111500Z
-SUMMARY:SSW 
-LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 15/65
+SUMMARY:ZOŻP (w)
+LOCATION:0.6/16
+DESCRIPTION:Zasady organizacji żywienia w czasie pokoju\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: prof. WAT Kler Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T094000Z
 DTEND:20260519T111500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 16/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 12/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T094000Z
 DTEND:20260526T111500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 17/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 13/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T094000Z
 DTEND:20260602T111500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 18/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 14/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T094000Z
@@ -547,7 +519,7 @@ DTSTART:20260616T094000Z
 DTEND:20260616T111500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 19/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 15/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T123000Z
@@ -561,14 +533,14 @@ DTSTART:20260310T123000Z
 DTEND:20260310T140500Z
 SUMMARY:WF (ć)
 LOCATION:4pl/24kp; 23FZ; 1S; 23BID; 0 PSt
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/30\nProwadzący: XWm.(ć) WLO23FZ1S0; 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T123000Z
 DTEND:20260317T140500Z
 SUMMARY:WF (ć)
 LOCATION:4pl/24kp; 23FZ; 1S; 23BID; 0 PSt
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/30\nProwadzący: XWm.(ć) WLO23FZ1S0; 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T123000Z
@@ -582,21 +554,21 @@ DTSTART:20260331T113000Z
 DTEND:20260331T130500Z
 SUMMARY:WF (ć)
 LOCATION:4pl/24kp; 23FZ; 1S; 23BID; 0 PSt
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/30\nProwadzący: XWm.(ć) WLO23FZ1S0; 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T113000Z
 DTEND:20260414T130500Z
 SUMMARY:WF (ć)
 LOCATION:4pl/24kp; 23FZ; 1S; 23BID; 0 PSt
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/30\nProwadzący: XWm.(ć) WLO23FZ1S0; 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T113000Z
 DTEND:20260421T130500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 20/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 16/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T113000Z
@@ -610,364 +582,364 @@ DTSTART:20260505T113000Z
 DTEND:20260505T130500Z
 SUMMARY:WF (ć)
 LOCATION:4pl/24kp; 23FZ; 1S; 23BID; 0 PSt
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/30\nProwadzący: XWm.(ć) WLO23FZ1S0; 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T113000Z
 DTEND:20260512T130500Z
 SUMMARY:WF (ć)
 LOCATION:4pl/24kp; 23FZ; 1S; 23BID; 0 PSt
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/30\nProwadzący: XWm.(ć) WLO23FZ1S0; 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T113000Z
 DTEND:20260519T130500Z
 SUMMARY:WF (ć)
 LOCATION:4pl/24kp; 23FZ; 1S; 23BID; 0 PSt
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/30\nProwadzący: XWm.(ć) WLO23FZ1S0; 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T113000Z
 DTEND:20260526T130500Z
 SUMMARY:WF (ć)
 LOCATION:4pl/24kp; 23FZ; 1S; 23BID; 0 PSt
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/30\nProwadzący: XWm.(ć) WLO23FZ1S0; 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T113000Z
 DTEND:20260602T130500Z
 SUMMARY:WF (ć)
 LOCATION:4pl/24kp; 23FZ; 1S; 23BID; 0 PSt
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/30\nProwadzący: XWm.(ć) WLO23FZ1S0; 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T113000Z
 DTEND:20260609T130500Z
 SUMMARY:WF (ć)
 LOCATION:4pl/24kp; 23FZ; 1S; 23BID; 0 PSt
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/30\nProwadzący: XWm.(ć) WLO23FZ1S0; 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T113000Z
 DTEND:20260616T130500Z
 SUMMARY:WF (ć)
 LOCATION:4pl/24kp; 23FZ; 1S; 23BID; 0 PSt
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/30\nProwadzący: XWm.(ć) WLO23FZ1S0; 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T150000Z
 DTEND:20260303T163500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 21/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 17/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T150000Z
 DTEND:20260310T163500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 22/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 18/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T150000Z
 DTEND:20260317T163500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 23/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 19/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T150000Z
 DTEND:20260324T163500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 24/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 20/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T140000Z
 DTEND:20260331T153500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 25/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 21/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T140000Z
 DTEND:20260414T153500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 26/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 22/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T140000Z
 DTEND:20260421T153500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 27/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 23/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T140000Z
 DTEND:20260428T153500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 28/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 24/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T140000Z
 DTEND:20260505T153500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 29/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 25/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T140000Z
 DTEND:20260512T153500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 30/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 26/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T140000Z
 DTEND:20260519T153500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 31/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 27/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T140000Z
 DTEND:20260526T153500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 32/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 28/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T140000Z
 DTEND:20260602T153500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 33/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 29/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T140000Z
 DTEND:20260609T153500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 34/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 30/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T140000Z
 DTEND:20260616T153500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 35/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 31/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T165000Z
 DTEND:20260303T182500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 36/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 32/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T165000Z
 DTEND:20260310T182500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 37/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 33/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T165000Z
 DTEND:20260317T182500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 38/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 34/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T165000Z
 DTEND:20260324T182500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 39/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 35/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T155000Z
 DTEND:20260331T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 40/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 36/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T155000Z
 DTEND:20260414T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 41/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 37/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T155000Z
 DTEND:20260421T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 42/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 38/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T155000Z
 DTEND:20260428T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 43/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 39/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T155000Z
 DTEND:20260505T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 44/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 40/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T155000Z
 DTEND:20260512T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 45/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 41/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T155000Z
 DTEND:20260519T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 46/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 42/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T155000Z
 DTEND:20260526T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 47/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 43/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T155000Z
 DTEND:20260602T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 48/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 44/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T155000Z
 DTEND:20260609T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 49/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 45/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T155000Z
 DTEND:20260616T172500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 50/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 46/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T184000Z
 DTEND:20260303T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 51/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 47/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T184000Z
 DTEND:20260310T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 52/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 48/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T184000Z
 DTEND:20260317T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 53/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 49/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T184000Z
 DTEND:20260324T201500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 54/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 50/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T174000Z
 DTEND:20260331T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 55/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 51/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T174000Z
 DTEND:20260414T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 56/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 52/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T174000Z
 DTEND:20260421T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 57/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 53/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T174000Z
 DTEND:20260428T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 58/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 54/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T174000Z
 DTEND:20260505T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 59/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 55/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T174000Z
 DTEND:20260512T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 60/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 56/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T174000Z
 DTEND:20260519T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 61/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 57/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T174000Z
 DTEND:20260526T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 62/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 58/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T174000Z
 DTEND:20260602T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 63/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 59/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T174000Z
 DTEND:20260609T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 64/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 60/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T174000Z
 DTEND:20260616T191500Z
 SUMMARY:SSW 
 LOCATION:
-DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 65/65
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 61/61
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T070000Z
@@ -1065,7 +1037,7 @@ DTSTART:20260304T085000Z
 DTEND:20260304T102500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T085000Z
@@ -1073,13 +1045,6 @@ DTEND:20260311T102500Z
 SUMMARY:DGB (ć)
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260401T075000Z
-DTEND:20260401T092500Z
-SUMMARY:WF (ć)
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/30\nProwadzący: mgr Stasiewicz Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T075000Z
@@ -1096,11 +1061,25 @@ LOCATION:5.17/135
 DESCRIPTION:Zasady organizacji żywienia w czasie wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260506T075000Z
+DTEND:20260506T092500Z
+SUMMARY:ZSdL (ć)
+LOCATION:0.7/16
+DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Oziębło Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260513T075000Z
 DTEND:20260513T092500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T075000Z
+DTEND:20260520T092500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T075000Z
@@ -1114,14 +1093,14 @@ DTSTART:20260610T075000Z
 DTEND:20260610T092500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T075000Z
 DTEND:20260617T092500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 19/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T104000Z
@@ -1150,6 +1129,13 @@ DTEND:20260429T111500Z
 SUMMARY:ZOŻW (w)
 LOCATION:5.17/135
 DESCRIPTION:Zasady organizacji żywienia w czasie wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr Spychała Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T094000Z
+DTEND:20260506T111500Z
+SUMMARY:ZSdL (ć)
+LOCATION:0.7/16
+DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T094000Z
@@ -1229,6 +1215,13 @@ LOCATION:aula/135
 DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260506T113000Z
+DTEND:20260506T130500Z
+SUMMARY:ZSdL (ć)
+LOCATION:0.7/16
+DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Oziębło Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260513T113000Z
 DTEND:20260513T130500Z
 SUMMARY:PTiRW (w)
@@ -1283,6 +1276,13 @@ DTEND:20260429T153500Z
 SUMMARY:PTiRW (ć)
 LOCATION:0.19/135
 DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: mgr inż. Szymański Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T140000Z
+DTEND:20260506T153500Z
+SUMMARY:ZSdL (L)
+LOCATION:0.7/16
+DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T140000Z
@@ -1415,7 +1415,7 @@ DTSTART:20260618T060000Z
 DTEND:20260618T073500Z
 SUMMARY:ZSdL (ć)
 LOCATION:0.7/16
-DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Oziębło Małgorzata
+DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T085000Z
@@ -1439,11 +1439,18 @@ LOCATION:301/S
 DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T075000Z
+DTEND:20260402T092500Z
+SUMMARY:PEŻ (w)
+LOCATION:1.7/16
+DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: płk mgr inż. Górski Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260416T075000Z
 DTEND:20260416T092500Z
 SUMMARY:PEŻ (w)
 LOCATION:1.7/16
-DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: płk mgr inż. Górski Piotr
+DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T075000Z
@@ -1458,13 +1465,6 @@ DTEND:20260430T092500Z
 SUMMARY:PEŻ (ć)
 LOCATION:1.7/16
 DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: płk mgr inż. Górski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260604T075000Z
-DTEND:20260604T092500Z
-SUMMARY:ZSdL (ć)
-LOCATION:0.7/16
-DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T075000Z
@@ -1506,7 +1506,7 @@ DTSTART:20260326T104000Z
 DTEND:20260326T121500Z
 SUMMARY:PEŻ (w)
 LOCATION:1.7/16
-DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: płk mgr inż. Górski Piotr
+DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T094000Z
@@ -1572,13 +1572,6 @@ LOCATION:237 K; 235 K; 234 K; 233 K; 232 K; 231 K; 230 K; 134 K; 133 K; 131 K; 1
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/30
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260604T094000Z
-DTEND:20260604T111500Z
-SUMMARY:ZSdL (L)
-LOCATION:0.7/16
-DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Oziębło Małgorzata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260611T094000Z
 DTEND:20260611T111500Z
 SUMMARY:Ja (ć)
@@ -1611,14 +1604,14 @@ DTSTART:20260326T123000Z
 DTEND:20260326T140500Z
 SUMMARY:PEŻ (w)
 LOCATION:1.7/16
-DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: płk mgr inż. Górski Piotr
+DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T113000Z
 DTEND:20260402T130500Z
 SUMMARY:PEŻ (w)
 LOCATION:1.7/16
-DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: płk mgr inż. Górski Piotr
+DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T113000Z
@@ -1660,7 +1653,7 @@ DTSTART:20260521T113000Z
 DTEND:20260521T130500Z
 SUMMARY:ZSdL (ć)
 LOCATION:0.7/16
-DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Oziębło Małgorzata
+DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T113000Z
@@ -1668,13 +1661,6 @@ DTEND:20260528T130500Z
 SUMMARY:PEŻ (ć)
 LOCATION:1.7/16
 DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: płk mgr inż. Górski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260604T113000Z
-DTEND:20260604T130500Z
-SUMMARY:ZSdL (ć)
-LOCATION:0.7/16
-DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T113000Z
@@ -1691,11 +1677,11 @@ LOCATION:aula/135
 DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260402T140000Z
-DTEND:20260402T153500Z
-SUMMARY:PEŻ (w)
-LOCATION:1.7/16
-DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: płk mgr inż. Górski Piotr
+DTSTART:20260409T140000Z
+DTEND:20260409T153500Z
+SUMMARY:PTiRW (w)
+LOCATION:aula/135
+DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T140000Z
@@ -1740,13 +1726,6 @@ LOCATION:1.7/16
 DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260604T140000Z
-DTEND:20260604T153500Z
-SUMMARY:ZSdL (ć)
-LOCATION:0.7/16
-DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr Oziębło Małgorzata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260305T165000Z
 DTEND:20260305T182500Z
 SUMMARY:Ja (ć)
@@ -1772,7 +1751,7 @@ DTSTART:20260326T165000Z
 DTEND:20260326T182500Z
 SUMMARY:PTiRW (w)
 LOCATION:aula/135
-DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: mgr inż. Szymański Krzysztof
+DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T155000Z
@@ -1824,13 +1803,6 @@ LOCATION:aula/135
 DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260403T060000Z
-DTEND:20260403T073500Z
-SUMMARY:PEŻ (w)
-LOCATION:1.7/16
-DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: płk mgr inż. Górski Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260410T060000Z
 DTEND:20260410T073500Z
 SUMMARY:ZOŻP (w)
@@ -1842,7 +1814,7 @@ DTSTART:20260417T060000Z
 DTEND:20260417T073500Z
 SUMMARY:PEŻ (w)
 LOCATION:1.7/16
-DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: płk mgr inż. Górski Piotr
+DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260424T060000Z
@@ -1880,13 +1852,6 @@ LOCATION:301/S
 DESCRIPTION:Wojskowy oddział gospodarczy\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Kalwasiński Marek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260403T075000Z
-DTEND:20260403T092500Z
-SUMMARY:PEŻ (w)
-LOCATION:1.7/16
-DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: płk mgr inż. Górski Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260410T075000Z
 DTEND:20260410T092500Z
 SUMMARY:Ja (ć)
@@ -1898,7 +1863,14 @@ DTSTART:20260417T075000Z
 DTEND:20260417T092500Z
 SUMMARY:PEŻ (w)
 LOCATION:1.7/16
-DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: płk mgr inż. Górski Piotr
+DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: płk mgr inż. Górski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260424T075000Z
+DTEND:20260424T092500Z
+SUMMARY:PEŻ (w)
+LOCATION:1.7/16
+DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T075000Z
@@ -1947,21 +1919,21 @@ DTSTART:20260306T104000Z
 DTEND:20260306T121500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T104000Z
 DTEND:20260313T121500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T104000Z
 DTEND:20260320T121500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T104000Z
@@ -1975,56 +1947,63 @@ DTSTART:20260410T094000Z
 DTEND:20260410T111500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T094000Z
 DTEND:20260417T111500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260424T094000Z
+DTEND:20260424T111500Z
+SUMMARY:PEŻ (w)
+LOCATION:1.7/16
+DESCRIPTION:Planowanie i ewidencja środków zaopatrzenia żywnościowego z wykorzystaniem systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: płk mgr inż. Górski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T094000Z
 DTEND:20260508T111500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 25/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T094000Z
 DTEND:20260515T111500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T094000Z
 DTEND:20260522T111500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T094000Z
 DTEND:20260529T111500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T094000Z
 DTEND:20260612T111500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 29/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 29/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T094000Z
 DTEND:20260619T111500Z
 SUMMARY:WF (ć)
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30/30\nProwadzący: mgr Stasiewicz Piotr
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30/30\nProwadzący: 16 dr inż. (prof. ucz.) Szurgott Piotr - powtarzenie zajęć (sala: 1.9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T123000Z
@@ -2050,13 +2029,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T113000Z
 DTEND:20260619T130500Z
-SUMMARY:PTiRW (w)
-LOCATION:aula/135
-DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: mgr inż. Szymański Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260327T150000Z
-DTEND:20260327T163500Z
 SUMMARY:PTiRW (w)
 LOCATION:aula/135
 DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: mgr inż. Szymański Krzysztof
@@ -2094,14 +2066,14 @@ DTSTART:20260509T060000Z
 DTEND:20260509T073500Z
 SUMMARY:XPeUT (w)
 LOCATION:16 bud
-DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260613T060000Z
 DTEND:20260613T073500Z
 SUMMARY:XPeUT (w)
 LOCATION:16 bud
-DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260307T085000Z
@@ -2195,52 +2167,129 @@ LOCATION:
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/13
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260328T104000Z
+DTEND:20260328T121500Z
+SUMMARY:XWm. (ć)
+LOCATION:1.9/16 dr; 1.9/16
+DESCRIPTION:XWytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135; dr inż. (prof. ucz.) Szurgott Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T094000Z
+DTEND:20260418T111500Z
+SUMMARY:XWm. (ć)
+LOCATION:0.23/16 dr; 0.23/16
+DESCRIPTION:XWytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135; dr inż. (prof. ucz.) Szurgott Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260411T113000Z
+DTEND:20260411T130500Z
+SUMMARY:XWm. (ć)
+LOCATION:1.9/16 dr; 1.9/16
+DESCRIPTION:XWytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135; dr inż. (prof. ucz.) Szurgott Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T113000Z
+DTEND:20260418T130500Z
+SUMMARY:XWm. (ć)
+LOCATION:0.23/16 dr; 0.23/16
+DESCRIPTION:XWytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135; dr inż. (prof. ucz.) Szurgott Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260228T150000Z
 DTEND:20260228T163500Z
 SUMMARY:XWm. (w)
 LOCATION:0.28/135
-DESCRIPTION:XWytrzymałość materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; gen. bryg. mgr inż. Stocki Jarosław; ppłk mgr inż. Grądziel Grzegorz; kpt. mgr inż Kuligowska Monika; kpt.mgr Nawalicki Piotr; ppłk mgr Misiejuk Tomasz; dr inż. Kalwasiński Marek
+DESCRIPTION:XWytrzymałość materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135; dr inż. (prof. ucz.) Szurgott Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260321T150000Z
 DTEND:20260321T163500Z
 SUMMARY:XWm. (w)
 LOCATION:0.28/135
-DESCRIPTION:XWytrzymałość materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; gen. bryg. mgr inż. Stocki Jarosław; ppłk mgr inż. Grądziel Grzegorz; kpt. mgr inż Kuligowska Monika; kpt.mgr Nawalicki Piotr; ppłk mgr Misiejuk Tomasz; dr inż. Kalwasiński Marek
+DESCRIPTION:XWytrzymałość materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135; dr inż. (prof. ucz.) Szurgott Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T140000Z
 DTEND:20260411T153500Z
 SUMMARY:XPeUT (w)
 LOCATION:16 bud
-DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260228T165000Z
 DTEND:20260228T182500Z
 SUMMARY:XWm. (w)
 LOCATION:0.28/135
-DESCRIPTION:XWytrzymałość materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; gen. bryg. mgr inż. Stocki Jarosław; ppłk mgr inż. Grądziel Grzegorz; kpt. mgr inż Kuligowska Monika; kpt.mgr Nawalicki Piotr; ppłk mgr Misiejuk Tomasz; dr inż. Kalwasiński Marek
+DESCRIPTION:XWytrzymałość materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135; dr inż. (prof. ucz.) Szurgott Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260321T165000Z
 DTEND:20260321T182500Z
 SUMMARY:XWm. (w)
 LOCATION:0.28/135
-DESCRIPTION:XWytrzymałość materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; gen. bryg. mgr inż. Stocki Jarosław; ppłk mgr inż. Grądziel Grzegorz; kpt. mgr inż Kuligowska Monika; kpt.mgr Nawalicki Piotr; ppłk mgr Misiejuk Tomasz; dr inż. Kalwasiński Marek
+DESCRIPTION:XWytrzymałość materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135; dr inż. (prof. ucz.) Szurgott Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260412T060000Z
+DTEND:20260412T073500Z
+SUMMARY:XWm. (ć)
+LOCATION:0.23/16 dr; 0.23/16
+DESCRIPTION:XWytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135; dr inż. (prof. ucz.) Szurgott Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T060000Z
+DTEND:20260510T073500Z
+SUMMARY:XPeUT (ć)
+LOCATION:0.24/135 powtarzani; 24 bud
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260301T085000Z
 DTEND:20260301T102500Z
 SUMMARY:XPeUT (w)
 LOCATION:
-DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T075000Z
+DTEND:20260510T092500Z
+SUMMARY:XPeUT (ć)
+LOCATION:0.24/135 powtarzani; 24 bud
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260301T104000Z
 DTEND:20260301T121500Z
 SUMMARY:XPeUT (w)
 LOCATION:
-DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260531T094000Z
+DTEND:20260531T111500Z
+SUMMARY:XPeUT (ć)
+LOCATION:0.24/135 powtarzani; 24 bud
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260419T113000Z
+DTEND:20260419T130500Z
+SUMMARY:XPeUT (ć)
+LOCATION:0.24/135 powtarzani; 24 bud
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260517T113000Z
+DTEND:20260517T130500Z
+SUMMARY:XPeUT (ć)
+LOCATION:0.24/135 powtarzani; 24 bud
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260419T140000Z
+DTEND:20260419T153500Z
+SUMMARY:XPeUT (ć)
+LOCATION:0.24/135 powtarzani; 24 bud
+DESCRIPTION:XPodstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 END:VCALENDAR

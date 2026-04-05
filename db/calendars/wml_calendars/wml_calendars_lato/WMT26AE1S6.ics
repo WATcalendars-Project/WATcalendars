@@ -4,39 +4,74 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WMT26AE1S6
 BEGIN:VEVENT
+DTSTART:20260413T060000Z
+DTEND:20260413T073500Z
+SUMMARY:DYS 
+LOCATION:
+DESCRIPTION:DYS\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T060000Z
+DTEND:20260420T073500Z
+SUMMARY:.BHP. 
+LOCATION:
+DESCRIPTION:.Bezpieczeństwo i higiena pracy.\nRodzaj zajęć: -\nProwadzący: dr Adamkiewicz Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T060000Z
+DTEND:20260427T073500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260504T060000Z
 DTEND:20260504T073500Z
-SUMMARY:TA 
+SUMMARY:Czr 
 LOCATION:
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
+DESCRIPTION:ppłk rez. mgr Czarnecki Jarosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T060000Z
 DTEND:20260511T073500Z
-SUMMARY:MPH 
+SUMMARY:Str 
 LOCATION:
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: -\nProwadzący: dr Strychalski Andrzej
+DESCRIPTION:dr Strychalski Andrzej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T060000Z
 DTEND:20260518T073500Z
-SUMMARY:TA 
+SUMMARY:Czr 
 LOCATION:
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
+DESCRIPTION:ppłk rez. mgr Czarnecki Jarosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T060000Z
 DTEND:20260525T073500Z
-SUMMARY:Ekplz 
+SUMMARY:Pod 
 LOCATION:
-DESCRIPTION:Eksploatacja przeciwlotniczych zestawów rakietowych\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Podciechowski Maciej\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T060000Z
+DTEND:20260601T073500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T060000Z
+DTEND:20260608T073500Z
+SUMMARY:Str 
+LOCATION:
+DESCRIPTION:dr Strychalski Andrzej\nRodzaj zajęć: -\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260622T060000Z
 DTEND:20260622T073500Z
-SUMMARY:TA 
+SUMMARY:Czr 
 LOCATION:
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
+DESCRIPTION:ppłk rez. mgr Czarnecki Jarosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260629T060000Z
@@ -46,6 +81,13 @@ LOCATION:
 DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: -\nProwadzący: mgr inż. Krawczak Robert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260413T075000Z
+DTEND:20260413T092500Z
+SUMMARY:DYS 
+LOCATION:
+DESCRIPTION:DYS\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260420T075000Z
 DTEND:20260420T092500Z
 SUMMARY:REZ 
@@ -53,11 +95,18 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260427T075000Z
+DTEND:20260427T092500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260504T075000Z
 DTEND:20260504T092500Z
-SUMMARY:PD 
+SUMMARY:DKos 
 LOCATION:
-DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr inż. Koszałko Dariusz
+DESCRIPTION:DKos\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T075000Z
@@ -69,23 +118,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T075000Z
 DTEND:20260525T092500Z
-SUMMARY:MPH 
+SUMMARY:Str 
 LOCATION:
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: -\nProwadzący: dr Strychalski Andrzej
+DESCRIPTION:dr Strychalski Andrzej\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T075000Z
+DTEND:20260601T092500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T075000Z
 DTEND:20260608T092500Z
-SUMMARY:TA 
+SUMMARY:Czr 
 LOCATION:
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
+DESCRIPTION:ppłk rez. mgr Czarnecki Jarosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260622T075000Z
 DTEND:20260622T092500Z
-SUMMARY:PKSt 
+SUMMARY:Sku 
 LOCATION:
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka\nRodzaj zajęć: -\nProwadzący: dr Skulska Joanna
+DESCRIPTION:dr Skulska Joanna\nRodzaj zajęć: -\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260629T075000Z
@@ -93,6 +149,20 @@ DTEND:20260629T092500Z
 SUMMARY:SŁiŚD 
 LOCATION:
 DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: -\nProwadzący: mgr inż. Krawczak Robert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T094000Z
+DTEND:20260413T111500Z
+SUMMARY:DYS 
+LOCATION:
+DESCRIPTION:DYS\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T094000Z
+DTEND:20260420T111500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T094000Z
@@ -104,58 +174,58 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T094000Z
 DTEND:20260504T111500Z
-SUMMARY:PD 
+SUMMARY:DKos 
 LOCATION:
-DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr inż. Koszałko Dariusz
+DESCRIPTION:DKos\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T094000Z
 DTEND:20260511T111500Z
-SUMMARY:TA 
+SUMMARY:Czr 
 LOCATION:
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
+DESCRIPTION:ppłk rez. mgr Czarnecki Jarosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T094000Z
 DTEND:20260518T111500Z
-SUMMARY:DWiPD 
+SUMMARY:Klim 
 LOCATION:
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: -\nProwadzący: dr Klimek Krzysztof
+DESCRIPTION:dr Klimek Krzysztof\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T094000Z
 DTEND:20260525T111500Z
-SUMMARY:RiAIP 
+SUMMARY:Śl.S 
 LOCATION:
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: -\nProwadzący: kpt. mgr Ślusakowicz Stanisław
+DESCRIPTION:kpt. mgr Ślusakowicz Stanisław\nRodzaj zajęć: -\nProwadzący: kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T094000Z
 DTEND:20260601T111500Z
-SUMMARY:OPBMR 
+SUMMARY:M.Je 
 LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: por. mgr. inż. Jeżak Milena
+DESCRIPTION:por. mgr. inż. Jeżak Milena\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T094000Z
 DTEND:20260608T111500Z
-SUMMARY:Pzrak 
+SUMMARY:WarM 
 LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:dr inż. Warchulski Marcin\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T094000Z
 DTEND:20260615T111500Z
-SUMMARY:PBS 
+SUMMARY:Ryn 
 LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+DESCRIPTION:mgr inż. Ryniec Radosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260622T094000Z
 DTEND:20260622T111500Z
-SUMMARY:PKSt 
+SUMMARY:Sku 
 LOCATION:
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka\nRodzaj zajęć: -\nProwadzący: dr Skulska Joanna
+DESCRIPTION:dr Skulska Joanna\nRodzaj zajęć: -\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260629T094000Z
@@ -165,32 +235,46 @@ LOCATION:
 DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: -\nProwadzący: mgr inż. Krawczak Robert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260413T113000Z
+DTEND:20260413T130500Z
+SUMMARY:DYS 
+LOCATION:
+DESCRIPTION:DYS\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T113000Z
+DTEND:20260420T130500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260427T113000Z
 DTEND:20260427T130500Z
-SUMMARY:Hsw 
-LOCATION:
-DESCRIPTION:Historia sztuki wojennej\nRodzaj zajęć: -\nProwadzący: dr Pulik Paweł
+SUMMARY:Pul 
+LOCATION:255S
+DESCRIPTION:dr Pulik Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T113000Z
 DTEND:20260504T130500Z
-SUMMARY:HP 
-LOCATION:
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Pulik Paweł
+SUMMARY:Pul 
+LOCATION:255S
+DESCRIPTION:dr Pulik Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T113000Z
 DTEND:20260511T130500Z
-SUMMARY:HP 
+SUMMARY:Pul 
 LOCATION:
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Pulik Paweł
+DESCRIPTION:dr Pulik Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T113000Z
 DTEND:20260518T130500Z
-SUMMARY:PKSt 
+SUMMARY:Sku 
 LOCATION:
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka\nRodzaj zajęć: -\nProwadzący: dr Skulska Joanna
+DESCRIPTION:dr Skulska Joanna\nRodzaj zajęć: -\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T113000Z
@@ -202,79 +286,107 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T113000Z
 DTEND:20260601T130500Z
-SUMMARY:OPBMR 
+SUMMARY:M.Je 
 LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: por. mgr. inż. Jeżak Milena
+DESCRIPTION:por. mgr. inż. Jeżak Milena\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T113000Z
 DTEND:20260608T130500Z
-SUMMARY:PBS 
+SUMMARY:Ryn 
 LOCATION:4663
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+DESCRIPTION:mgr inż. Ryniec Radosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T113000Z
 DTEND:20260615T130500Z
-SUMMARY:PBS 
+SUMMARY:Ryn 
 LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+DESCRIPTION:mgr inż. Ryniec Radosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260629T113000Z
 DTEND:20260629T130500Z
-SUMMARY:TA 
+SUMMARY:Czr 
 LOCATION:
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
+DESCRIPTION:ppłk rez. mgr Czarnecki Jarosław\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T140000Z
+DTEND:20260413T153500Z
+SUMMARY:DYS 
+LOCATION:
+DESCRIPTION:DYS\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T140000Z
 DTEND:20260511T153500Z
-SUMMARY:Pzrak 
-LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+SUMMARY:Pod 
+LOCATION:325S
+DESCRIPTION:dr inż. Podciechowski Maciej\nRodzaj zajęć: -\nProwadzący: dr inż. Podciechowski Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T140000Z
 DTEND:20260518T153500Z
-SUMMARY:Pzrak 
+SUMMARY:Pod 
+LOCATION:325S
+DESCRIPTION:dr inż. Podciechowski Maciej\nRodzaj zajęć: -\nProwadzący: dr inż. Podciechowski Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T140000Z
+DTEND:20260525T153500Z
+SUMMARY:Str 
 LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+DESCRIPTION:dr Strychalski Andrzej\nRodzaj zajęć: -\nProwadzący: dr Strychalski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T140000Z
 DTEND:20260601T153500Z
-SUMMARY:OPBMR 
+SUMMARY:M.Je 
 LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: por. mgr. inż. Jeżak Milena
+DESCRIPTION:por. mgr. inż. Jeżak Milena\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T140000Z
 DTEND:20260608T153500Z
-SUMMARY:PBS 
+SUMMARY:Ryn 
 LOCATION:4663
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+DESCRIPTION:mgr inż. Ryniec Radosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T140000Z
 DTEND:20260615T153500Z
-SUMMARY:Ekplz 
-LOCATION:
-DESCRIPTION:Eksploatacja przeciwlotniczych zestawów rakietowych\nRodzaj zajęć: -\nProwadzący: dr inż. Grzywiński Stanisław
+SUMMARY:Grs 
+LOCATION:325S
+DESCRIPTION:dr inż. Grzywiński Stanisław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260622T140000Z
 DTEND:20260622T153500Z
-SUMMARY:Pzrak 
-LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+SUMMARY:Pod 
+LOCATION:325S
+DESCRIPTION:dr inż. Podciechowski Maciej\nRodzaj zajęć: -\nProwadzący: dr inż. Podciechowski Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260629T140000Z
 DTEND:20260629T153500Z
-SUMMARY:Pwd 
+SUMMARY:Zw 
 LOCATION:
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: -\nProwadzący: dr Załoga Wiesława
+DESCRIPTION:dr Załoga Wiesława\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T155000Z
+DTEND:20260413T172500Z
+SUMMARY:DYS 
+LOCATION:
+DESCRIPTION:DYS\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T155000Z
+DTEND:20260511T172500Z
+SUMMARY:GMiB 
+LOCATION:
+DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: -\nProwadzący: ppłk mgr Lasak Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T155000Z
@@ -284,32 +396,32 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260414T060000Z
-DTEND:20260414T073500Z
-SUMMARY:SzS 
+DTSTART:20260413T174000Z
+DTEND:20260413T191500Z
+SUMMARY:DYS 
 LOCATION:
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
+DESCRIPTION:DYS\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260428T060000Z
-DTEND:20260428T073500Z
-SUMMARY:ZaMe 
+DTSTART:20260414T060000Z
+DTEND:20260414T073500Z
+SUMMARY:JaKa 
 LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: -
+DESCRIPTION:JaKa\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T060000Z
 DTEND:20260505T073500Z
-SUMMARY:Pzrak 
+SUMMARY:WarM 
 LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:dr inż. Warchulski Marcin\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T060000Z
 DTEND:20260519T073500Z
-SUMMARY:PBS 
-LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -
+SUMMARY:Pod 
+LOCATION:325S
+DESCRIPTION:dr inż. Podciechowski Maciej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T060000Z
@@ -321,30 +433,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T060000Z
 DTEND:20260602T073500Z
-SUMMARY:PD 
+SUMMARY:DKos 
 LOCATION:
-DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr inż. Koszałko Dariusz
+DESCRIPTION:DKos\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T060000Z
 DTEND:20260609T073500Z
-SUMMARY:BwCP 
-LOCATION:
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: -\nProwadzący: mgr inż. Kalman Leszek
+SUMMARY:KL 
+LOCATION:307S
+DESCRIPTION:mgr inż. Kalman Leszek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T060000Z
 DTEND:20260616T073500Z
-SUMMARY:DSiSM 
+SUMMARY:PaWó 
 LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+DESCRIPTION:PaWó\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260623T060000Z
 DTEND:20260623T073500Z
-SUMMARY:DSiSM 
+SUMMARY:PaWó 
 LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+DESCRIPTION:PaWó\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260630T060000Z
@@ -356,23 +468,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T075000Z
 DTEND:20260414T092500Z
-SUMMARY:PD 
+SUMMARY:DKos 
 LOCATION:
-DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr inż. Koszałko Dariusz
+DESCRIPTION:DKos\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T075000Z
 DTEND:20260421T092500Z
-SUMMARY:Oś 
+SUMMARY:MiEr 
 LOCATION:11258
-DESCRIPTION:Ochrona środowiska\nRodzaj zajęć: -\nProwadzący: por. mgr inż. Mikulski Erik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260428T075000Z
-DTEND:20260428T092500Z
-SUMMARY:ZaMe 
-LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: -
+DESCRIPTION:por. mgr inż. Mikulski Erik\nRodzaj zajęć: -\nProwadzący: por. mgr inż. Mikulski Erik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T075000Z
@@ -384,37 +489,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T075000Z
 DTEND:20260512T092500Z
-SUMMARY:Pzrak 
+SUMMARY:Mot 
 LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Motyl Krzysztof\nRodzaj zajęć: -\nProwadzący: dr inż. Podciechowski Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T075000Z
 DTEND:20260519T092500Z
-SUMMARY:BwCP 
-LOCATION:
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: -\nProwadzący: mgr inż. Kalman Leszek
+SUMMARY:KL 
+LOCATION:307S
+DESCRIPTION:mgr inż. Kalman Leszek\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T075000Z
 DTEND:20260526T092500Z
-SUMMARY:DSiSM 
+SUMMARY:StJa 
 LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+DESCRIPTION:mjr mgr Stępień Jacek\nRodzaj zajęć: -\nProwadzący: mjr mgr Stępień Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T075000Z
 DTEND:20260602T092500Z
-SUMMARY:TA 
+SUMMARY:Czr 
 LOCATION:
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
+DESCRIPTION:ppłk rez. mgr Czarnecki Jarosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T075000Z
 DTEND:20260609T092500Z
-SUMMARY:PBS 
-LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -
+SUMMARY:Pod 
+LOCATION:325S
+DESCRIPTION:dr inż. Podciechowski Maciej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T075000Z
@@ -426,16 +531,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260623T075000Z
 DTEND:20260623T092500Z
-SUMMARY:ZINŻ 
+SUMMARY:PĆT1 
 LOCATION:
-DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Jurzysta Paweł
+DESCRIPTION:PĆT1\nRodzaj zajęć: -\nProwadzący: mgr inż. Kalman Leszek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260630T075000Z
 DTEND:20260630T092500Z
-SUMMARY:REG 
+SUMMARY:JęcP 
 LOCATION:
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: -\nProwadzący: ppłk rez. Jęcek Paweł
+DESCRIPTION:ppłk rez. Jęcek Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T094000Z
@@ -447,9 +552,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T094000Z
 DTEND:20260421T111500Z
-SUMMARY:Oś 
+SUMMARY:MiEr 
 LOCATION:11258
-DESCRIPTION:Ochrona środowiska\nRodzaj zajęć: -\nProwadzący: por. mgr inż. Mikulski Erik
+DESCRIPTION:por. mgr inż. Mikulski Erik\nRodzaj zajęć: -\nProwadzący: por. mgr inż. Mikulski Erik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T094000Z
@@ -459,11 +564,18 @@ LOCATION:
 DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: -\nProwadzący: ppłk mgr Misiejuk Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260505T094000Z
+DTEND:20260505T111500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260512T094000Z
 DTEND:20260512T111500Z
-SUMMARY:SŁiŚD 
-LOCATION:
-DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: -
+SUMMARY:Kuz 
+LOCATION:315S
+DESCRIPTION:dr inż. Kudła Zbigniew\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T094000Z
@@ -471,6 +583,13 @@ DTEND:20260519T111500Z
 SUMMARY:ZINŻ 
 LOCATION:
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: -\nProwadzący: ppłk mgr Jurzysta Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T094000Z
+DTEND:20260526T111500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T094000Z
@@ -482,16 +601,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T094000Z
 DTEND:20260609T111500Z
-SUMMARY:PBS 
-LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -
+SUMMARY:Pod 
+LOCATION:325S
+DESCRIPTION:dr inż. Podciechowski Maciej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T094000Z
 DTEND:20260616T111500Z
-SUMMARY:REG 
+SUMMARY:JęcP 
 LOCATION:
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: -\nProwadzący: ppłk rez. Jęcek Paweł
+DESCRIPTION:ppłk rez. Jęcek Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260623T094000Z
@@ -510,23 +629,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T113000Z
 DTEND:20260414T130500Z
-SUMMARY:Pzrak 
+SUMMARY:Mot 
 LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Motyl Krzysztof\nRodzaj zajęć: -\nProwadzący: dr inż. Podciechowski Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T113000Z
 DTEND:20260421T130500Z
-SUMMARY:Pzrak 
+SUMMARY:Mot 
 LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Motyl Krzysztof\nRodzaj zajęć: -\nProwadzący: dr inż. Podciechowski Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T113000Z
 DTEND:20260428T130500Z
-SUMMARY:Hsw 
+SUMMARY:Pul 
+LOCATION:255S
+DESCRIPTION:dr Pulik Paweł\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T113000Z
+DTEND:20260505T130500Z
+SUMMARY:SzS 
 LOCATION:
-DESCRIPTION:Historia sztuki wojennej\nRodzaj zajęć: -\nProwadzący: dr Pulik Paweł
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T113000Z
@@ -538,93 +664,100 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T113000Z
 DTEND:20260519T130500Z
-SUMMARY:RiAIP 
+SUMMARY:Śl.S 
 LOCATION:
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: -\nProwadzący: kpt. mgr Ślusakowicz Stanisław
+DESCRIPTION:kpt. mgr Ślusakowicz Stanisław\nRodzaj zajęć: -\nProwadzący: kpt. mgr Ślusakowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T113000Z
+DTEND:20260526T130500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T113000Z
 DTEND:20260602T130500Z
-SUMMARY:PBS 
+SUMMARY:Ryn 
 LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+DESCRIPTION:mgr inż. Ryniec Radosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T113000Z
 DTEND:20260609T130500Z
-SUMMARY:PBS 
+SUMMARY:Ryn 
 LOCATION:4663
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+DESCRIPTION:mgr inż. Ryniec Radosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T113000Z
 DTEND:20260616T130500Z
-SUMMARY:DWiPD 
+SUMMARY:Ksp 
 LOCATION:
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: -
+DESCRIPTION:dr Kasperski Marian\nRodzaj zajęć: -\nProwadzący: dr Kasperski Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260623T113000Z
 DTEND:20260623T130500Z
-SUMMARY:Pwd 
+SUMMARY:Zw 
 LOCATION:
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: -\nProwadzący: dr Załoga Wiesława
+DESCRIPTION:dr Załoga Wiesława\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T140000Z
 DTEND:20260505T153500Z
-SUMMARY:Pzrak 
+SUMMARY:Mot 
 LOCATION:4663
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Motyl Krzysztof\nRodzaj zajęć: -\nProwadzący: dr inż. Podciechowski Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T140000Z
 DTEND:20260512T153500Z
-SUMMARY:DWiPD 
+SUMMARY:Klim 
 LOCATION:
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: -\nProwadzący: dr Klimek Krzysztof
+DESCRIPTION:dr Klimek Krzysztof\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T140000Z
 DTEND:20260519T153500Z
-SUMMARY:Pwo 
+SUMMARY:Piak 
 LOCATION:
-DESCRIPTION:Połączone wsparcie ogniowe\nRodzaj zajęć: -\nProwadzący: mgr inż. Piasta Krzysztof
+DESCRIPTION:Piak\nRodzaj zajęć: -\nProwadzący: mjr mgr Wójcik Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T140000Z
 DTEND:20260526T153500Z
-SUMMARY:Pzrak 
-LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+SUMMARY:TuPi 
+LOCATION:325S
+DESCRIPTION:mjr  dr inż. Turek Piotr\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T140000Z
 DTEND:20260602T153500Z
-SUMMARY:PBS 
+SUMMARY:Ryn 
 LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+DESCRIPTION:mgr inż. Ryniec Radosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T140000Z
 DTEND:20260609T153500Z
-SUMMARY:PBS 
+SUMMARY:Ryn 
 LOCATION:4663
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+DESCRIPTION:mgr inż. Ryniec Radosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T140000Z
 DTEND:20260616T153500Z
-SUMMARY:Ekplz 
-LOCATION:
-DESCRIPTION:Eksploatacja przeciwlotniczych zestawów rakietowych\nRodzaj zajęć: -\nProwadzący: dr inż. Grzywiński Stanisław
+SUMMARY:TuPi 
+LOCATION:325S
+DESCRIPTION:mjr  dr inż. Turek Piotr\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260623T140000Z
 DTEND:20260623T153500Z
-SUMMARY:Pzrak 
-LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+SUMMARY:Żyg 
+LOCATION:325S
+DESCRIPTION:dr inż. Żygadło Stanisław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260630T140000Z
@@ -643,114 +776,114 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T060000Z
 DTEND:20260422T073500Z
-SUMMARY:TW 
+SUMMARY:GoKa 
 LOCATION:11457
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: -\nProwadzący: mgr inż. Gołoś Kazimierz
+DESCRIPTION:mgr inż. Gołoś Kazimierz\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T060000Z
 DTEND:20260429T073500Z
-SUMMARY:Ekplz 
+SUMMARY:Mot 
 LOCATION:
-DESCRIPTION:Eksploatacja przeciwlotniczych zestawów rakietowych\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Motyl Krzysztof\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T060000Z
 DTEND:20260506T073500Z
-SUMMARY:TA 
+SUMMARY:Czr 
 LOCATION:
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
+DESCRIPTION:ppłk rez. mgr Czarnecki Jarosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T060000Z
 DTEND:20260513T073500Z
-SUMMARY:RiAIP 
+SUMMARY:Śl.S 
 LOCATION:
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: -\nProwadzący: kpt. mgr Ślusakowicz Stanisław
+DESCRIPTION:kpt. mgr Ślusakowicz Stanisław\nRodzaj zajęć: -\nProwadzący: kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T060000Z
 DTEND:20260520T073500Z
-SUMMARY:REG 
+SUMMARY:JęcP 
 LOCATION:
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: -\nProwadzący: ppłk rez. Jęcek Paweł
+DESCRIPTION:ppłk rez. Jęcek Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T060000Z
 DTEND:20260527T073500Z
-SUMMARY:TA 
+SUMMARY:Czr 
 LOCATION:
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
+DESCRIPTION:ppłk rez. mgr Czarnecki Jarosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T060000Z
 DTEND:20260603T073500Z
-SUMMARY:DSiSM 
+SUMMARY:StJa 
 LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+DESCRIPTION:mjr mgr Stępień Jacek\nRodzaj zajęć: -\nProwadzący: mjr mgr Stępień Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T060000Z
 DTEND:20260610T073500Z
-SUMMARY:REG 
+SUMMARY:JęcP 
 LOCATION:
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: -\nProwadzący: ppłk rez. Jęcek Paweł
+DESCRIPTION:ppłk rez. Jęcek Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T060000Z
 DTEND:20260617T073500Z
-SUMMARY:PBS 
+SUMMARY:Mot 
 LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+DESCRIPTION:dr inż. Motyl Krzysztof\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T060000Z
 DTEND:20260624T073500Z
-SUMMARY:Ekplz 
-LOCATION:
-DESCRIPTION:Eksploatacja przeciwlotniczych zestawów rakietowych\nRodzaj zajęć: -
+SUMMARY:Pod 
+LOCATION:325S
+DESCRIPTION:dr inż. Podciechowski Maciej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T075000Z
 DTEND:20260415T092500Z
-SUMMARY:SzS 
+SUMMARY:JaKa 
 LOCATION:
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
+DESCRIPTION:JaKa\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T075000Z
 DTEND:20260422T092500Z
-SUMMARY:OPBMR 
-LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: por. mgr. inż. Jeżak Milena
+SUMMARY:StJ 
+LOCATION:255A
+DESCRIPTION:gen. bryg. mgr inż. Stocki Jarosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T075000Z
 DTEND:20260429T092500Z
-SUMMARY:PD 
+SUMMARY:DKos 
 LOCATION:
-DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr inż. Koszałko Dariusz
+DESCRIPTION:DKos\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T075000Z
 DTEND:20260506T092500Z
-SUMMARY:PESW 
+SUMMARY:Dgoż 
 LOCATION:3367
-DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW)\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
+DESCRIPTION:kpt.mgr inż. Goździk Dawid\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T075000Z
 DTEND:20260513T092500Z
-SUMMARY:PESW 
+SUMMARY:Dgoż 
 LOCATION:3367
-DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW)\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
+DESCRIPTION:kpt.mgr inż. Goździk Dawid\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T075000Z
 DTEND:20260520T092500Z
-SUMMARY:Hsw 
+SUMMARY:Pul 
 LOCATION:
-DESCRIPTION:Historia sztuki wojennej\nRodzaj zajęć: -\nProwadzący: dr Pulik Paweł
+DESCRIPTION:dr Pulik Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T075000Z
@@ -776,16 +909,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T075000Z
 DTEND:20260617T092500Z
-SUMMARY:PBS 
+SUMMARY:Mot 
 LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+DESCRIPTION:dr inż. Motyl Krzysztof\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T075000Z
 DTEND:20260624T092500Z
-SUMMARY:Ekplz 
+SUMMARY:Grs 
+LOCATION:325S
+DESCRIPTION:dr inż. Grzywiński Stanisław\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T075000Z
+DTEND:20260701T092500Z
+SUMMARY:POLIGON 
 LOCATION:
-DESCRIPTION:Eksploatacja przeciwlotniczych zestawów rakietowych\nRodzaj zajęć: -\nProwadzący: dr inż. Grzywiński Stanisław
+DESCRIPTION:POLIGON\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T094000Z
@@ -797,37 +937,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T094000Z
 DTEND:20260422T111500Z
-SUMMARY:DSiSM 
+SUMMARY:Klim 
 LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+DESCRIPTION:dr Klimek Krzysztof\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T094000Z
 DTEND:20260429T111500Z
-SUMMARY:OPBMR 
-LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: por. mgr. inż. Jeżak Milena
+SUMMARY:StJ 
+LOCATION:155A
+DESCRIPTION:gen. bryg. mgr inż. Stocki Jarosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T094000Z
 DTEND:20260506T111500Z
-SUMMARY:REG 
+SUMMARY:JęcP 
 LOCATION:
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: -\nProwadzący: ppłk rez. Jęcek Paweł
+DESCRIPTION:ppłk rez. Jęcek Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
-SUMMARY:Pwd 
+SUMMARY:Zw 
 LOCATION:
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: -\nProwadzący: dr Załoga Wiesława
+DESCRIPTION:dr Załoga Wiesława\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T094000Z
 DTEND:20260520T111500Z
-SUMMARY:DWiPD 
+SUMMARY:Klim 
 LOCATION:
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: -\nProwadzący: dr Klimek Krzysztof
+DESCRIPTION:dr Klimek Krzysztof\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T094000Z
@@ -839,226 +979,261 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T094000Z
 DTEND:20260603T111500Z
-SUMMARY:REG 
+SUMMARY:JęcP 
 LOCATION:
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: -\nProwadzący: ppłk rez. Jęcek Paweł
+DESCRIPTION:ppłk rez. Jęcek Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T094000Z
 DTEND:20260610T111500Z
-SUMMARY:SŁiŚD 
-LOCATION:
-DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: -\nProwadzący: mgr inż. Krawczak Robert
+SUMMARY:KrR 
+LOCATION:315S
+DESCRIPTION:mgr inż. Krawczak Robert\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T094000Z
 DTEND:20260617T111500Z
-SUMMARY:MPH 
+SUMMARY:Str 
 LOCATION:
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: -\nProwadzący: dr Strychalski Andrzej
+DESCRIPTION:dr Strychalski Andrzej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T094000Z
 DTEND:20260624T111500Z
-SUMMARY:Ekplz 
+SUMMARY:Grs 
+LOCATION:325S
+DESCRIPTION:dr inż. Grzywiński Stanisław\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T094000Z
+DTEND:20260701T111500Z
+SUMMARY:POLIGON 
 LOCATION:
-DESCRIPTION:Eksploatacja przeciwlotniczych zestawów rakietowych\nRodzaj zajęć: -\nProwadzący: dr inż. Grzywiński Stanisław
+DESCRIPTION:POLIGON\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T113000Z
 DTEND:20260415T130500Z
-SUMMARY:WF 
+SUMMARY:KCeb 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -
+DESCRIPTION:KCeb\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Parczewski Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T113000Z
 DTEND:20260422T130500Z
-SUMMARY:WF 
+SUMMARY:KCeb 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -
+DESCRIPTION:KCeb\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Parczewski Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T113000Z
 DTEND:20260429T130500Z
-SUMMARY:WF 
+SUMMARY:KCeb 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -
+DESCRIPTION:KCeb\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Parczewski Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T113000Z
 DTEND:20260506T130500Z
-SUMMARY:WF 
+SUMMARY:KCeb 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -
+DESCRIPTION:KCeb\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Parczewski Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T113000Z
 DTEND:20260513T130500Z
-SUMMARY:WF 
+SUMMARY:KCeb 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -
+DESCRIPTION:KCeb\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Parczewski Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T113000Z
 DTEND:20260520T130500Z
-SUMMARY:WF 
+SUMMARY:KCeb 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -
+DESCRIPTION:KCeb\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Parczewski Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T113000Z
 DTEND:20260527T130500Z
-SUMMARY:WF 
+SUMMARY:KCeb 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -
+DESCRIPTION:KCeb\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Parczewski Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T113000Z
 DTEND:20260603T130500Z
-SUMMARY:WF 
+SUMMARY:KCeb 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -
+DESCRIPTION:KCeb\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Parczewski Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T113000Z
 DTEND:20260610T130500Z
-SUMMARY:WF 
+SUMMARY:KCeb 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -
+DESCRIPTION:KCeb\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Parczewski Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T113000Z
 DTEND:20260617T130500Z
-SUMMARY:WF 
+SUMMARY:ZCza 
 LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: -
+DESCRIPTION:ZCza\nRodzaj zajęć: -\nProwadzący: płk dr hab. inż. Parczewski Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T113000Z
 DTEND:20260624T130500Z
-SUMMARY:Pzrak 
+SUMMARY:BaL 
 LOCATION:4663
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:dr hab. inż. Baranowski Leszek\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T113000Z
+DTEND:20260701T130500Z
+SUMMARY:POLIGON 
+LOCATION:
+DESCRIPTION:POLIGON\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T140000Z
 DTEND:20260422T153500Z
-SUMMARY:REG 
+SUMMARY:JęcP 
 LOCATION:
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: -\nProwadzący: ppłk rez. Jęcek Paweł
+DESCRIPTION:ppłk rez. Jęcek Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T140000Z
 DTEND:20260429T153500Z
-SUMMARY:PESW 
+SUMMARY:Dgoż 
 LOCATION:4663
-DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW)\nRodzaj zajęć: -\nProwadzący: kpt.mgr inż. Goździk Dawid
+DESCRIPTION:kpt.mgr inż. Goździk Dawid\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T140000Z
 DTEND:20260506T153500Z
-SUMMARY:PD 
+SUMMARY:DKos 
 LOCATION:
-DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr inż. Koszałko Dariusz
+DESCRIPTION:DKos\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T140000Z
 DTEND:20260513T153500Z
-SUMMARY:Pzrak 
+SUMMARY:Mot 
 LOCATION:4663
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Motyl Krzysztof\nRodzaj zajęć: -\nProwadzący: dr inż. Podciechowski Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T140000Z
 DTEND:20260520T153500Z
-SUMMARY:Dn 
+SUMMARY:RWoź 
 LOCATION:
-DESCRIPTION:Działania niekinetyczne\nRodzaj zajęć: -\nProwadzący: dr inż. Woźniak Robert
+DESCRIPTION:dr inż. Woźniak Robert\nRodzaj zajęć: -\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T140000Z
 DTEND:20260527T153500Z
-SUMMARY:Pzrak 
+SUMMARY:WarM 
 LOCATION:4663
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Baranowski Leszek
+DESCRIPTION:dr inż. Warchulski Marcin\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T140000Z
 DTEND:20260603T153500Z
-SUMMARY:Ekplz 
-LOCATION:
-DESCRIPTION:Eksploatacja przeciwlotniczych zestawów rakietowych\nRodzaj zajęć: -\nProwadzący: dr inż. Grzywiński Stanisław
+SUMMARY:TuPi 
+LOCATION:325S
+DESCRIPTION:mjr  dr inż. Turek Piotr\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T140000Z
 DTEND:20260610T153500Z
-SUMMARY:Pzrak 
-LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+SUMMARY:Grs 
+LOCATION:325S
+DESCRIPTION:dr inż. Grzywiński Stanisław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T140000Z
 DTEND:20260617T153500Z
-SUMMARY:Pzrak 
-LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+SUMMARY:Żyg 
+LOCATION:325S
+DESCRIPTION:dr inż. Żygadło Stanisław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T140000Z
 DTEND:20260624T153500Z
-SUMMARY:Pzrak 
+SUMMARY:Żyg 
+LOCATION:325S
+DESCRIPTION:dr inż. Żygadło Stanisław\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T140000Z
+DTEND:20260701T153500Z
+SUMMARY:POLIGON 
 LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+DESCRIPTION:POLIGON\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T155000Z
 DTEND:20260422T172500Z
-SUMMARY:RiAIP 
+SUMMARY:Śl.S 
 LOCATION:
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: -\nProwadzący: kpt. mgr Ślusakowicz Stanisław
+DESCRIPTION:kpt. mgr Ślusakowicz Stanisław\nRodzaj zajęć: -\nProwadzący: kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T155000Z
 DTEND:20260429T172500Z
-SUMMARY:Pwd 
+SUMMARY:Zw 
 LOCATION:
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: -\nProwadzący: dr Załoga Wiesława
+DESCRIPTION:dr Załoga Wiesława\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T155000Z
 DTEND:20260506T172500Z
-SUMMARY:PD 
+SUMMARY:DKos 
 LOCATION:
-DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr inż. Koszałko Dariusz
+DESCRIPTION:DKos\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T155000Z
 DTEND:20260513T172500Z
-SUMMARY:PKSt 
+SUMMARY:Sku 
 LOCATION:
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka\nRodzaj zajęć: -\nProwadzący: dr Skulska Joanna
+DESCRIPTION:dr Skulska Joanna\nRodzaj zajęć: -\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260416T060000Z
-DTEND:20260416T073500Z
-SUMMARY:ZaMe 
+DTSTART:20260701T155000Z
+DTEND:20260701T172500Z
+SUMMARY:POLIGON 
 LOCATION:
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: -
+DESCRIPTION:POLIGON\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T174000Z
+DTEND:20260701T191500Z
+SUMMARY:POLIGON 
+LOCATION:
+DESCRIPTION:POLIGON\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T060000Z
 DTEND:20260423T073500Z
-SUMMARY:DSiSM 
+SUMMARY:Klim 
 LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+DESCRIPTION:dr Klimek Krzysztof\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T060000Z
 DTEND:20260430T073500Z
-SUMMARY:REG 
+SUMMARY:JęcP 
 LOCATION:
-DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: -\nProwadzący: ppłk rez. Jęcek Paweł
+DESCRIPTION:ppłk rez. Jęcek Paweł\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T060000Z
+DTEND:20260507T073500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T060000Z
@@ -1070,9 +1245,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T060000Z
 DTEND:20260521T073500Z
-SUMMARY:OPBMR 
-LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: por. mgr. inż. Jeżak Milena
+SUMMARY:StJ 
+LOCATION:255A
+DESCRIPTION:gen. bryg. mgr inż. Stocki Jarosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T060000Z
@@ -1084,51 +1259,51 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T060000Z
 DTEND:20260611T073500Z
-SUMMARY:DSiSM 
+SUMMARY:StJa 
 LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+DESCRIPTION:mjr mgr Stępień Jacek\nRodzaj zajęć: -\nProwadzący: mjr mgr Stępień Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T060000Z
 DTEND:20260618T073500Z
-SUMMARY:OPBMR 
+SUMMARY:M.Je 
 LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: por. mgr. inż. Jeżak Milena
+DESCRIPTION:por. mgr. inż. Jeżak Milena\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260625T060000Z
 DTEND:20260625T073500Z
-SUMMARY:TA 
+SUMMARY:Czr 
 LOCATION:
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
+DESCRIPTION:ppłk rez. mgr Czarnecki Jarosław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260702T060000Z
 DTEND:20260702T073500Z
-SUMMARY:PKSt 
+SUMMARY:Sku 
 LOCATION:
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka\nRodzaj zajęć: -\nProwadzący: dr Skulska Joanna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T075000Z
-DTEND:20260416T092500Z
-SUMMARY:GMiB 
-LOCATION:
-DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: -\nProwadzący: ppłk mgr Lasak Michał
+DESCRIPTION:dr Skulska Joanna\nRodzaj zajęć: -\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T075000Z
 DTEND:20260423T092500Z
-SUMMARY:PD 
+SUMMARY:DKos 
 LOCATION:
-DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr inż. Koszałko Dariusz
+DESCRIPTION:DKos\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T075000Z
 DTEND:20260430T092500Z
-SUMMARY:TW 
+SUMMARY:GoKa 
 LOCATION:1757
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: -\nProwadzący: mgr inż. Gołoś Kazimierz
+DESCRIPTION:mgr inż. Gołoś Kazimierz\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T075000Z
+DTEND:20260507T092500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T075000Z
@@ -1140,9 +1315,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T075000Z
 DTEND:20260521T092500Z
-SUMMARY:PD 
+SUMMARY:DKos 
 LOCATION:
-DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr inż. Koszałko Dariusz
+DESCRIPTION:DKos\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T075000Z
@@ -1161,23 +1336,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T075000Z
 DTEND:20260618T092500Z
-SUMMARY:OPBMR 
+SUMMARY:M.Je 
 LOCATION:
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: -\nProwadzący: por. mgr. inż. Jeżak Milena
+DESCRIPTION:por. mgr. inż. Jeżak Milena\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260625T075000Z
 DTEND:20260625T092500Z
-SUMMARY:RiAIP 
+SUMMARY:Śl.S 
 LOCATION:
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: -\nProwadzący: kpt. mgr Ślusakowicz Stanisław
+DESCRIPTION:kpt. mgr Ślusakowicz Stanisław\nRodzaj zajęć: -\nProwadzący: kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260702T075000Z
 DTEND:20260702T092500Z
-SUMMARY:Ekplz 
+SUMMARY:Żyg 
+LOCATION:325S
+DESCRIPTION:dr inż. Żygadło Stanisław\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T094000Z
+DTEND:20260416T111500Z
+SUMMARY:ZaMe 
 LOCATION:
-DESCRIPTION:Eksploatacja przeciwlotniczych zestawów rakietowych\nRodzaj zajęć: -\nProwadzący: dr inż. Grzywiński Stanisław
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T094000Z
+DTEND:20260423T111500Z
+SUMMARY:ZaMe 
+LOCATION:
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T094000Z
@@ -1196,30 +1385,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T094000Z
 DTEND:20260514T111500Z
-SUMMARY:TW 
+SUMMARY:GoKa 
 LOCATION:1657
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: -\nProwadzący: mgr inż. Gołoś Kazimierz
+DESCRIPTION:mgr inż. Gołoś Kazimierz\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T094000Z
 DTEND:20260521T111500Z
-SUMMARY:PD 
+SUMMARY:DKos 
 LOCATION:
-DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: -\nProwadzący: ppłk rez. mgr inż. Koszałko Dariusz
+DESCRIPTION:DKos\nRodzaj zajęć: -\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T094000Z
 DTEND:20260528T111500Z
-SUMMARY:TW 
+SUMMARY:GoKa 
 LOCATION:1757
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: -\nProwadzący: mgr inż. Gołoś Kazimierz
+DESCRIPTION:mgr inż. Gołoś Kazimierz\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T094000Z
 DTEND:20260611T111500Z
-SUMMARY:Pwo 
+SUMMARY:Piak 
 LOCATION:
-DESCRIPTION:Połączone wsparcie ogniowe\nRodzaj zajęć: -\nProwadzący: mgr inż. Piasta Krzysztof
+DESCRIPTION:Piak\nRodzaj zajęć: -\nProwadzący: mjr mgr Wójcik Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T094000Z
+DTEND:20260618T111500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260625T094000Z
@@ -1231,16 +1427,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260702T094000Z
 DTEND:20260702T111500Z
-SUMMARY:Ekplz 
-LOCATION:
-DESCRIPTION:Eksploatacja przeciwlotniczych zestawów rakietowych\nRodzaj zajęć: -\nProwadzący: dr inż. Grzywiński Stanisław
+SUMMARY:Żyg 
+LOCATION:325S
+DESCRIPTION:dr inż. Żygadło Stanisław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T113000Z
 DTEND:20260416T130500Z
-SUMMARY:Pzrak 
+SUMMARY:Mot 
 LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Motyl Krzysztof\nRodzaj zajęć: -\nProwadzący: dr inż. Podciechowski Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T113000Z
+DTEND:20260423T130500Z
+SUMMARY:ZaMe 
+LOCATION:
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T113000Z
@@ -1252,156 +1455,170 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T113000Z
 DTEND:20260507T130500Z
-SUMMARY:TW 
+SUMMARY:GoKa 
 LOCATION:1757
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: -\nProwadzący: mgr inż. Gołoś Kazimierz
+DESCRIPTION:mgr inż. Gołoś Kazimierz\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T113000Z
 DTEND:20260514T130500Z
-SUMMARY:TW 
+SUMMARY:GoKa 
 LOCATION:1657
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: -\nProwadzący: mgr inż. Gołoś Kazimierz
+DESCRIPTION:mgr inż. Gołoś Kazimierz\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T113000Z
 DTEND:20260521T130500Z
-SUMMARY:TW 
+SUMMARY:GoKa 
 LOCATION:1657
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: -\nProwadzący: mgr inż. Gołoś Kazimierz
+DESCRIPTION:mgr inż. Gołoś Kazimierz\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T113000Z
 DTEND:20260528T130500Z
-SUMMARY:TW 
+SUMMARY:GoKa 
 LOCATION:1757
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: -\nProwadzący: mgr inż. Gołoś Kazimierz
+DESCRIPTION:mgr inż. Gołoś Kazimierz\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T113000Z
 DTEND:20260611T130500Z
-SUMMARY:PBS 
+SUMMARY:Pod 
+LOCATION:325S
+DESCRIPTION:dr inż. Podciechowski Maciej\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T113000Z
+DTEND:20260618T130500Z
+SUMMARY:SzS 
 LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260625T113000Z
 DTEND:20260625T130500Z
-SUMMARY:Pwo 
+SUMMARY:Piak 
 LOCATION:3367
-DESCRIPTION:Połączone wsparcie ogniowe\nRodzaj zajęć: -\nProwadzący: mgr inż. Piasta Krzysztof
+DESCRIPTION:Piak\nRodzaj zajęć: -\nProwadzący: mjr mgr Wójcik Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260702T113000Z
 DTEND:20260702T130500Z
-SUMMARY:Ekplz 
-LOCATION:
-DESCRIPTION:Eksploatacja przeciwlotniczych zestawów rakietowych\nRodzaj zajęć: -\nProwadzący: dr inż. Grzywiński Stanisław
+SUMMARY:TuPi 
+LOCATION:325S
+DESCRIPTION:mjr  dr inż. Turek Piotr\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T140000Z
 DTEND:20260416T153500Z
-SUMMARY:Hsw 
+SUMMARY:Pul 
 LOCATION:
-DESCRIPTION:Historia sztuki wojennej\nRodzaj zajęć: -\nProwadzący: dr Pulik Paweł
+DESCRIPTION:dr Pulik Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T140000Z
 DTEND:20260423T153500Z
-SUMMARY:DWiPD 
+SUMMARY:Klim 
 LOCATION:
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: -\nProwadzący: dr Klimek Krzysztof
+DESCRIPTION:dr Klimek Krzysztof\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T140000Z
 DTEND:20260430T153500Z
-SUMMARY:HP 
+SUMMARY:Pul 
 LOCATION:
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Pulik Paweł
+DESCRIPTION:dr Pulik Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T140000Z
 DTEND:20260507T153500Z
-SUMMARY:TW 
+SUMMARY:GoKa 
 LOCATION:1757
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: -\nProwadzący: mgr inż. Gołoś Kazimierz
+DESCRIPTION:mgr inż. Gołoś Kazimierz\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T140000Z
 DTEND:20260514T153500Z
-SUMMARY:Pzrak 
+SUMMARY:Mot 
 LOCATION:4663
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Motyl Krzysztof\nRodzaj zajęć: -\nProwadzący: dr inż. Podciechowski Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T140000Z
 DTEND:20260521T153500Z
-SUMMARY:TW 
+SUMMARY:GoKa 
 LOCATION:1657
-DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: -\nProwadzący: mgr inż. Gołoś Kazimierz
+DESCRIPTION:mgr inż. Gołoś Kazimierz\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T140000Z
 DTEND:20260528T153500Z
-SUMMARY:HP 
+SUMMARY:Pul 
 LOCATION:
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Pulik Paweł
+DESCRIPTION:dr Pulik Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T140000Z
 DTEND:20260611T153500Z
-SUMMARY:Pzrak 
-LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+SUMMARY:Pod 
+LOCATION:325S
+DESCRIPTION:dr inż. Podciechowski Maciej\nRodzaj zajęć: -\nProwadzący: dr inż. Podciechowski Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T140000Z
 DTEND:20260618T153500Z
-SUMMARY:Pzrak 
-LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+SUMMARY:Grs 
+LOCATION:325S
+DESCRIPTION:dr inż. Grzywiński Stanisław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260625T140000Z
 DTEND:20260625T153500Z
-SUMMARY:Pzrak 
-LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+SUMMARY:Grs 
+LOCATION:325S
+DESCRIPTION:dr inż. Grzywiński Stanisław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260702T140000Z
 DTEND:20260702T153500Z
-SUMMARY:Ekplz 
+SUMMARY:TuPi 
+LOCATION:325S
+DESCRIPTION:mjr  dr inż. Turek Piotr\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T060000Z
+DTEND:20260417T073500Z
+SUMMARY:SzS 
 LOCATION:
-DESCRIPTION:Eksploatacja przeciwlotniczych zestawów rakietowych\nRodzaj zajęć: -\nProwadzący: dr inż. Grzywiński Stanisław
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T060000Z
 DTEND:20260508T073500Z
-SUMMARY:MPH 
+SUMMARY:Str 
 LOCATION:
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: -\nProwadzący: dr Strychalski Andrzej
+DESCRIPTION:dr Strychalski Andrzej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T060000Z
 DTEND:20260515T073500Z
-SUMMARY:BwCP 
-LOCATION:
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: -\nProwadzący: mgr inż. Kalman Leszek
+SUMMARY:Mak 
+LOCATION:317S
+DESCRIPTION:dr hab. inż. Marczyk Maciej\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Marczyk Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T060000Z
 DTEND:20260522T073500Z
-SUMMARY:Pwd 
+SUMMARY:Zw 
 LOCATION:
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: -\nProwadzący: dr Załoga Wiesława
+DESCRIPTION:dr Załoga Wiesława\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T060000Z
 DTEND:20260529T073500Z
-SUMMARY:Ekplz 
+SUMMARY:TuPi 
 LOCATION:
-DESCRIPTION:Eksploatacja przeciwlotniczych zestawów rakietowych\nRodzaj zajęć: -\nProwadzący: dr inż. Grzywiński Stanisław
+DESCRIPTION:mjr  dr inż. Turek Piotr\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T060000Z
@@ -1413,16 +1630,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T060000Z
 DTEND:20260619T073500Z
-SUMMARY:PBS 
+SUMMARY:Pod 
 LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Podciechowski Maciej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260626T060000Z
 DTEND:20260626T073500Z
-SUMMARY:PBS 
+SUMMARY:TuPi 
 LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+DESCRIPTION:mjr  dr inż. Turek Piotr\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260703T060000Z
@@ -1430,6 +1647,13 @@ DTEND:20260703T073500Z
 SUMMARY:MW 
 LOCATION:
 DESCRIPTION:mjr dr inż. Walkowiak Marzena\nRodzaj zajęć: -\nProwadzący: mjr dr inż. Walkowiak Marzena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T075000Z
+DTEND:20260417T092500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T075000Z
@@ -1441,44 +1665,44 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T075000Z
 DTEND:20260515T092500Z
-SUMMARY:Pwo 
+SUMMARY:Piak 
 LOCATION:4663
-DESCRIPTION:Połączone wsparcie ogniowe\nRodzaj zajęć: -\nProwadzący: mgr inż. Piasta Krzysztof
+DESCRIPTION:Piak\nRodzaj zajęć: -\nProwadzący: mjr mgr Wójcik Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T075000Z
 DTEND:20260522T092500Z
-SUMMARY:PBS 
-LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+SUMMARY:TuPi 
+LOCATION:325S
+DESCRIPTION:mjr  dr inż. Turek Piotr\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T075000Z
 DTEND:20260529T092500Z
-SUMMARY:DWiPD 
+SUMMARY:Ksp 
 LOCATION:
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: -
+DESCRIPTION:dr Kasperski Marian\nRodzaj zajęć: -\nProwadzący: dr Kasperski Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T075000Z
 DTEND:20260612T092500Z
-SUMMARY:DWiPD 
+SUMMARY:Ksp 
 LOCATION:
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: -
+DESCRIPTION:dr Kasperski Marian\nRodzaj zajęć: -\nProwadzący: dr Kasperski Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T075000Z
 DTEND:20260619T092500Z
-SUMMARY:PBS 
+SUMMARY:Pod 
 LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Podciechowski Maciej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260626T075000Z
 DTEND:20260626T092500Z
-SUMMARY:PBS 
+SUMMARY:TuPi 
 LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+DESCRIPTION:mjr  dr inż. Turek Piotr\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260703T075000Z
@@ -1497,135 +1721,142 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T094000Z
 DTEND:20260508T111500Z
-SUMMARY:Hsw 
-LOCATION:
-DESCRIPTION:Historia sztuki wojennej\nRodzaj zajęć: -\nProwadzący: dr Pulik Paweł
+SUMMARY:Pul 
+LOCATION:255S
+DESCRIPTION:dr Pulik Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T094000Z
 DTEND:20260515T111500Z
-SUMMARY:PBS 
-LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+SUMMARY:TuPi 
+LOCATION:325S
+DESCRIPTION:mjr  dr inż. Turek Piotr\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T094000Z
 DTEND:20260522T111500Z
-SUMMARY:PBS 
-LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+SUMMARY:Mot 
+LOCATION:325S
+DESCRIPTION:dr inż. Motyl Krzysztof\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T094000Z
 DTEND:20260529T111500Z
-SUMMARY:PBS 
-LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+SUMMARY:Mot 
+LOCATION:325S
+DESCRIPTION:dr inż. Motyl Krzysztof\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T094000Z
 DTEND:20260612T111500Z
-SUMMARY:MPH 
+SUMMARY:Str 
 LOCATION:
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: -\nProwadzący: dr Strychalski Andrzej
+DESCRIPTION:dr Strychalski Andrzej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T094000Z
 DTEND:20260619T111500Z
-SUMMARY:PBS 
+SUMMARY:Pod 
 LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Podciechowski Maciej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260626T094000Z
 DTEND:20260626T111500Z
-SUMMARY:PBS 
+SUMMARY:TuPi 
 LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+DESCRIPTION:mjr  dr inż. Turek Piotr\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T113000Z
 DTEND:20260508T130500Z
-SUMMARY:HP 
-LOCATION:
-DESCRIPTION:Historia Polski\nRodzaj zajęć: -\nProwadzący: dr Pulik Paweł
+SUMMARY:Pul 
+LOCATION:255S
+DESCRIPTION:dr Pulik Paweł\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T113000Z
 DTEND:20260515T130500Z
-SUMMARY:PBS 
-LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+SUMMARY:TuPi 
+LOCATION:325S
+DESCRIPTION:mjr  dr inż. Turek Piotr\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T113000Z
 DTEND:20260522T130500Z
-SUMMARY:Ekplz 
+SUMMARY:Grs 
 LOCATION:
-DESCRIPTION:Eksploatacja przeciwlotniczych zestawów rakietowych\nRodzaj zajęć: -\nProwadzący: dr inż. Grzywiński Stanisław
+DESCRIPTION:dr inż. Grzywiński Stanisław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T113000Z
 DTEND:20260529T130500Z
-SUMMARY:PKSt 
+SUMMARY:Sku 
 LOCATION:
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka\nRodzaj zajęć: -\nProwadzący: dr Skulska Joanna
+DESCRIPTION:dr Skulska Joanna\nRodzaj zajęć: -\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T113000Z
 DTEND:20260619T130500Z
-SUMMARY:PBS 
+SUMMARY:Pod 
 LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -
+DESCRIPTION:dr inż. Podciechowski Maciej\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260626T113000Z
 DTEND:20260626T130500Z
-SUMMARY:PBS 
+SUMMARY:TuPi 
 LOCATION:
-DESCRIPTION:Praca bojowa na sprzęcie\nRodzaj zajęć: -\nProwadzący: dr inż. Motyl Krzysztof
+DESCRIPTION:mjr  dr inż. Turek Piotr\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T140000Z
 DTEND:20260508T153500Z
-SUMMARY:Dn 
+SUMMARY:RWoź 
 LOCATION:
-DESCRIPTION:Działania niekinetyczne\nRodzaj zajęć: -\nProwadzący: dr inż. Woźniak Robert
+DESCRIPTION:dr inż. Woźniak Robert\nRodzaj zajęć: -\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T140000Z
 DTEND:20260522T153500Z
-SUMMARY:Pzrak 
-LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+SUMMARY:Żyg 
+LOCATION:325S
+DESCRIPTION:dr inż. Żygadło Stanisław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T140000Z
 DTEND:20260529T153500Z
-SUMMARY:Pzrak 
-LOCATION:
-DESCRIPTION:Przeciwlotnicze zestawy rakietowe\nRodzaj zajęć: -
+SUMMARY:Żyg 
+LOCATION:325S
+DESCRIPTION:dr inż. Żygadło Stanisław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T060000Z
 DTEND:20260418T073500Z
-SUMMARY:Pwd 
+SUMMARY:Zw 
 LOCATION:
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: -\nProwadzący: dr Załoga Wiesława
+DESCRIPTION:dr Załoga Wiesława\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260523T060000Z
+DTEND:20260523T073500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T075000Z
 DTEND:20260418T092500Z
-SUMMARY:Pwd 
+SUMMARY:Zw 
 LOCATION:
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: -\nProwadzący: dr Załoga Wiesława
+DESCRIPTION:dr Załoga Wiesława\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T075000Z
 DTEND:20260425T092500Z
-SUMMARY:PKSt 
+SUMMARY:Sku 
 LOCATION:
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka\nRodzaj zajęć: -\nProwadzący: dr Skulska Joanna
+DESCRIPTION:dr Skulska Joanna\nRodzaj zajęć: -\nProwadzący: dr Skulska Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T075000Z
@@ -1635,10 +1866,31 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260523T075000Z
+DTEND:20260523T092500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T094000Z
+DTEND:20260516T111500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260523T094000Z
 DTEND:20260523T111500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T113000Z
+DTEND:20260516T130500Z
+SUMMARY:SzS 
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: -
 END:VEVENT
 END:VCALENDAR

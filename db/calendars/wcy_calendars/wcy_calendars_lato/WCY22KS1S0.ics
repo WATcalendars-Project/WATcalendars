@@ -4628,7 +4628,18 @@ DTSTART:20260324T070000Z
 DTEND:20260324T083500Z
 SUMMARY:Pkuc2 (w)
 LOCATION:085 S
+<<<<<<< HEAD
 DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych II\nRodzaj zajęć: Wykład\nNumer zajęć: 7/12\nProwadzący: dr hab. inż. Michał Wroński
+=======
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych II\nRodzaj zajęć: Wykład\nNumer zajęć: 13/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T070000Z
+DTEND:20260324T083500Z
+SUMMARY:Pkuc2 (w)
+LOCATION:085 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych II\nRodzaj zajęć: Wykład\nNumer zajęć: 14/12\nProwadzący: dr hab. inż. Michał Wroński
+>>>>>>> 372514316bdc7ccc89dd835f40bf38f712dcb658
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T104000Z
@@ -4642,7 +4653,18 @@ DTSTART:20260324T123000Z
 DTEND:20260324T140500Z
 SUMMARY:Pkuc2 (w)
 LOCATION:078 S
+<<<<<<< HEAD
 DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych II\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: dr hab. inż. Michał Wroński
+=======
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych II\nRodzaj zajęć: Wykład\nNumer zajęć: 15/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T123000Z
+DTEND:20260324T140500Z
+SUMMARY:Pkuc2 (w)
+LOCATION:078 S
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych II\nRodzaj zajęć: Wykład\nNumer zajęć: 16/12\nProwadzący: dr hab. inż. Michał Wroński
+>>>>>>> 372514316bdc7ccc89dd835f40bf38f712dcb658
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T070000Z
@@ -5086,6 +5108,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 72/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260421T075000Z
+DTEND:20260421T092500Z
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 72/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260421T094000Z
 DTEND:20260421T111500Z
 SUMMARY:NK (w)
@@ -5371,6 +5400,16 @@ DTEND:20260506T172500Z
 SUMMARY:Dn (w)
 LOCATION:19 36
 DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
+<<<<<<< HEAD
+=======
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T060000Z
+DTEND:20260507T073500Z
+SUMMARY:Gtl (w)
+LOCATION:078 S
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Wykład\nNumer zajęć: 15/10\nProwadzący: -
+>>>>>>> 372514316bdc7ccc89dd835f40bf38f712dcb658
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T060000Z

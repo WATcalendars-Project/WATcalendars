@@ -74,6 +74,13 @@ LOCATION:
 DESCRIPTION:Systemy zapewnienia energii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250921T060000Z
+DTEND:20250921T073500Z
+SUMMARY:Sze (Zp.)
+LOCATION:
+DESCRIPTION:Systemy zapewnienia energii\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Watral Zbigniew
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250302T085000Z
 DTEND:20250302T102500Z
 SUMMARY:ToiS (w)
@@ -104,9 +111,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250330T075000Z
 DTEND:20250330T092500Z
-SUMMARY:Sze (w)
+SUMMARY:PRo (w)
 LOCATION:
-DESCRIPTION:Systemy zapewnienia energii\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. Watral Zbigniew
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Wiśnios Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T075000Z
@@ -128,6 +135,13 @@ DTEND:20250420T092500Z
 SUMMARY:Piab (w)
 LOCATION:
 DESCRIPTION:Pomiary i analiza biosygnałów\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250427T075000Z
+DTEND:20250427T092500Z
+SUMMARY:TC (w)
+LOCATION:
+DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250511T075000Z
@@ -214,18 +228,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 3/63
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250413T094000Z
-DTEND:20250413T111500Z
-SUMMARY:SsO (ć)
-LOCATION:
-DESCRIPTION:Sensory i systemy optoelektroniczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr inż. Prokopiuk Artur
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250420T094000Z
 DTEND:20250420T111500Z
 SUMMARY:SsO (ć)
 LOCATION:
-DESCRIPTION:Sensory i systemy optoelektroniczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr inż. Prokopiuk Artur
+DESCRIPTION:Sensory i systemy optoelektroniczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250427T094000Z
@@ -282,6 +289,13 @@ DTEND:20250511T130500Z
 SUMMARY:PrSt (L)
 LOCATION:
 DESCRIPTION:Programowanie strukturalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/13\nProwadzący: dr inż. Górski Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250525T113000Z
+DTEND:20250525T130500Z
+SUMMARY:TeMi (w)
+LOCATION:
+DESCRIPTION:Termografia mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Susek Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250601T113000Z
@@ -424,6 +438,13 @@ LOCATION:
 DESCRIPTION:Technika obliczeniowa i symulacyjna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: prof. dr hab. inż. Dobrowolski Andrzej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250915T060000Z
+DTEND:20250915T073500Z
+SUMMARY:TC (Zp.)
+LOCATION:
+DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Dąbal Paweł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250303T085000Z
 DTEND:20250303T102500Z
 SUMMARY:ToiS (w)
@@ -442,7 +463,7 @@ DTSTART:20250317T085000Z
 DTEND:20250317T102500Z
 SUMMARY:PRo (w)
 LOCATION:
-DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Wiśnios Michał
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Wiśnios Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T085000Z
@@ -522,6 +543,20 @@ LOCATION:
 DESCRIPTION:Technika obliczeniowa i symulacyjna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: prof. dr hab. inż. Dobrowolski Andrzej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250915T075000Z
+DTEND:20250915T092500Z
+SUMMARY:PRo (Zp.)
+LOCATION:
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Wiśnios Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250922T075000Z
+DTEND:20250922T092500Z
+SUMMARY:TeAn (Zp.)
+LOCATION:
+DESCRIPTION:Technika analogowa\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Dobrowolski Andrzej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250317T104000Z
 DTEND:20250317T121500Z
 SUMMARY:SsO (w)
@@ -589,7 +624,14 @@ DTSTART:20250609T094000Z
 DTEND:20250609T111500Z
 SUMMARY:PRo (w)
 LOCATION:
-DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Wiśnios Michał
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Wiśnios Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250922T094000Z
+DTEND:20250922T111500Z
+SUMMARY:ToiS (Zp.)
+LOCATION:
+DESCRIPTION:Technika obliczeniowa i symulacyjna\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Dobrowolski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T113000Z
@@ -673,7 +715,7 @@ DTSTART:20250304T070000Z
 DTEND:20250304T083500Z
 SUMMARY:PRo (w)
 LOCATION:
-DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Wiśnios Michał
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Wiśnios Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T070000Z
@@ -697,13 +739,6 @@ LOCATION:
 DESCRIPTION:Programowanie strukturalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/13\nProwadzący: dr inż. Górski Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250401T060000Z
-DTEND:20250401T073500Z
-SUMMARY:PrSt (w)
-LOCATION:
-DESCRIPTION:Programowanie strukturalne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Górski Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250415T060000Z
 DTEND:20250415T073500Z
 SUMMARY:SsO (w)
@@ -715,7 +750,7 @@ DTSTART:20250422T060000Z
 DTEND:20250422T073500Z
 SUMMARY:PRo (w)
 LOCATION:
-DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Wiśnios Michał
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Wiśnios Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T060000Z
@@ -764,7 +799,7 @@ DTSTART:20250304T085000Z
 DTEND:20250304T102500Z
 SUMMARY:PrSt (w)
 LOCATION:
-DESCRIPTION:Programowanie strukturalne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Górski Tomasz
+DESCRIPTION:Programowanie strukturalne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Górski Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T085000Z
@@ -778,7 +813,7 @@ DTSTART:20250318T085000Z
 DTEND:20250318T102500Z
 SUMMARY:PRo (w)
 LOCATION:
-DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Wiśnios Michał
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Wiśnios Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T085000Z
@@ -790,30 +825,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T075000Z
 DTEND:20250401T092500Z
-SUMMARY:PRo (w)
+SUMMARY:Sze (w)
 LOCATION:
-DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Wiśnios Michał
+DESCRIPTION:Systemy zapewnienia energii\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. Watral Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T075000Z
 DTEND:20250408T092500Z
 SUMMARY:TC (w)
 LOCATION:
-DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Dąbal Paweł
+DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Dąbal Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T075000Z
 DTEND:20250415T092500Z
 SUMMARY:TC (w)
 LOCATION:
-DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Dąbal Paweł
+DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Dąbal Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250422T075000Z
 DTEND:20250422T092500Z
 SUMMARY:TC (w)
 LOCATION:
-DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Dąbal Paweł
+DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Dąbal Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T075000Z
@@ -897,13 +932,6 @@ DTSTART:20250318T104000Z
 DTEND:20250318T121500Z
 SUMMARY:TeMi (w)
 LOCATION:
-DESCRIPTION:Termografia mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Susek Waldemar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250325T104000Z
-DTEND:20250325T121500Z
-SUMMARY:TeMi (w)
-LOCATION:
 DESCRIPTION:Termografia mikrofalowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Susek Waldemar
 END:VEVENT
 BEGIN:VEVENT
@@ -926,6 +954,13 @@ DTEND:20250422T111500Z
 SUMMARY:PrSt (L)
 LOCATION:
 DESCRIPTION:Programowanie strukturalne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/13\nProwadzący: dr inż. Górski Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250429T094000Z
+DTEND:20250429T111500Z
+SUMMARY:SsO (ć)
+LOCATION:
+DESCRIPTION:Sensory i systemy optoelektroniczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T094000Z
@@ -1023,7 +1058,7 @@ DTSTART:20250402T060000Z
 DTEND:20250402T073500Z
 SUMMARY:PrSt (w)
 LOCATION:
-DESCRIPTION:Programowanie strukturalne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Górski Tomasz
+DESCRIPTION:Programowanie strukturalne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Górski Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T060000Z
@@ -1087,6 +1122,13 @@ DTEND:20250604T073500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 15/63
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T060000Z
+DTEND:20250917T073500Z
+SUMMARY:PrSt (Zp.)
+LOCATION:
+DESCRIPTION:Programowanie strukturalne\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. Górski Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T085000Z
@@ -1187,6 +1229,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 16/63
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250917T075000Z
+DTEND:20250917T092500Z
+SUMMARY:TeMi (Zp.)
+LOCATION:
+DESCRIPTION:Termografia mikrofalowa\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Susek Waldemar
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250305T104000Z
 DTEND:20250305T121500Z
 SUMMARY:TeMi (w)
@@ -1198,28 +1247,28 @@ DTSTART:20250312T104000Z
 DTEND:20250312T121500Z
 SUMMARY:TC (w)
 LOCATION:
-DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7
+DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T104000Z
 DTEND:20250319T121500Z
 SUMMARY:TC (w)
 LOCATION:
-DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7
+DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T104000Z
 DTEND:20250326T121500Z
 SUMMARY:TC (w)
 LOCATION:
-DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7
+DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T094000Z
 DTEND:20250402T111500Z
-SUMMARY:TC (w)
+SUMMARY:PrSt (w)
 LOCATION:
-DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7
+DESCRIPTION:Programowanie strukturalne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Górski Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T094000Z
@@ -1330,7 +1379,7 @@ BEGIN:VEVENT
 DTSTART:20250327T070000Z
 DTEND:20250327T083500Z
 SUMMARY:SiKDP (i)
-LOCATION:51/ 62
+LOCATION:
 DESCRIPTION:Spotkanie informacyjne z kierownikiem Dziekanatu - praktyki\nRodzaj zajęć: (i)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Kossowski Robert
 END:VEVENT
 BEGIN:VEVENT

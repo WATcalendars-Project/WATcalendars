@@ -431,6 +431,13 @@ LOCATION:
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 11/13\nProwadzący: prof. dr hab. inż. Parka Janusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250516T094000Z
+DTEND:20250516T111500Z
+SUMMARY:Mat3 (ć)
+LOCATION:55/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr Gdula Agnieszka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250523T094000Z
 DTEND:20250523T111500Z
 SUMMARY:I 
@@ -454,9 +461,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T094000Z
 DTEND:20250613T111500Z
-SUMMARY:WdST (S)
+SUMMARY:WdST (w)
 LOCATION:8/ 62
-DESCRIPTION:Wprowadzenie do systemów transportowych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2
+DESCRIPTION:Wprowadzenie do systemów transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250620T094000Z
@@ -468,9 +475,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T094000Z
 DTEND:20250627T111500Z
-SUMMARY:F1 (L)
-LOCATION:
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5
+SUMMARY:OgRP (ć)
+LOCATION:6/ 23a
+DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T094000Z
@@ -491,7 +498,7 @@ DTSTART:20250228T123000Z
 DTEND:20250228T140500Z
 SUMMARY:WdST (w)
 LOCATION:5/ 23a
-DESCRIPTION:Wprowadzenie do systemów transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+DESCRIPTION:Wprowadzenie do systemów transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T123000Z
@@ -601,16 +608,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250620T113000Z
 DTEND:20250620T130500Z
-SUMMARY:WdST (w)
+SUMMARY:WdST (S)
 LOCATION:8/ 62
-DESCRIPTION:Wprowadzenie do systemów transportowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6
+DESCRIPTION:Wprowadzenie do systemów transportowych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T113000Z
 DTEND:20250627T130500Z
-SUMMARY:F1 (L)
-LOCATION:
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5
+SUMMARY:OgRP (ć)
+LOCATION:6/ 23a
+DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T113000Z
@@ -869,7 +876,14 @@ DTSTART:20250613T155000Z
 DTEND:20250613T172500Z
 SUMMARY:OgRP (ć)
 LOCATION:6/ 23a
-DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Ziubiński Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250620T155000Z
+DTEND:20250620T172500Z
+SUMMARY:T* (w)
+LOCATION:5/ 20
+DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T155000Z
@@ -951,9 +965,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T174000Z
 DTEND:20250509T191500Z
-SUMMARY:T* (w)
-LOCATION:1/ 21
-DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Woźniak Adam
+SUMMARY:F1 (L)
+LOCATION:
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T174000Z
@@ -988,7 +1002,7 @@ DTSTART:20250613T174000Z
 DTEND:20250613T191500Z
 SUMMARY:OgRP (ć)
 LOCATION:6/ 23a
-DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Ziubiński Mateusz
+DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T174000Z
@@ -1051,7 +1065,7 @@ DTSTART:20250412T060000Z
 DTEND:20250412T073500Z
 SUMMARY:F1 (L)
 LOCATION:
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250419T060000Z
@@ -1184,21 +1198,21 @@ DTSTART:20250412T075000Z
 DTEND:20250412T092500Z
 SUMMARY:F1 (L)
 LOCATION:
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250419T075000Z
 DTEND:20250419T092500Z
 SUMMARY:Mat3 (ć)
 LOCATION:55/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr Gdula Agnieszka
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T075000Z
 DTEND:20250426T092500Z
 SUMMARY:Mat3 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr Gdula Agnieszka
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250503T075000Z
@@ -1206,13 +1220,6 @@ DTEND:20250503T092500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 43/70
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250510T075000Z
-DTEND:20250510T092500Z
-SUMMARY:Mat3 (ć)
-LOCATION:55/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250517T075000Z
@@ -1231,9 +1238,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250531T075000Z
 DTEND:20250531T092500Z
-SUMMARY:PbTSL (S)
-LOCATION:2/ 68
-DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr inż. Chojnowski Janusz
+SUMMARY:F1 (L)
+LOCATION:
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T075000Z
@@ -1245,16 +1252,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T075000Z
 DTEND:20250614T092500Z
-SUMMARY:Mat3 (ć)
-LOCATION:55/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr Gdula Agnieszka
+SUMMARY:T* (w)
+LOCATION:1/ 21
+DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250621T075000Z
 DTEND:20250621T092500Z
 SUMMARY:Mat3 (ć)
 LOCATION:55/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr Gdula Agnieszka
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250628T075000Z
@@ -1341,13 +1348,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 48/70
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250510T094000Z
-DTEND:20250510T111500Z
-SUMMARY:OgRP (ć)
-LOCATION:6/ 23a
-DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Ziubiński Mateusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250517T094000Z
 DTEND:20250517T111500Z
 SUMMARY:PTS* (L)
@@ -1387,7 +1387,7 @@ DTSTART:20250621T094000Z
 DTEND:20250621T111500Z
 SUMMARY:T* (w)
 LOCATION:1/ 21
-DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Woźniak Adam
+DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250628T094000Z
@@ -1467,13 +1467,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 53/70
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250510T113000Z
-DTEND:20250510T130500Z
-SUMMARY:OgRP (ć)
-LOCATION:6/ 23a
-DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Ziubiński Mateusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250517T113000Z
 DTEND:20250517T130500Z
 SUMMARY:Mat3 (L)
@@ -1492,7 +1485,7 @@ DTSTART:20250531T113000Z
 DTEND:20250531T130500Z
 SUMMARY:T* (w)
 LOCATION:1/ 21
-DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Woźniak Adam
+DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T113000Z
@@ -1504,9 +1497,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T113000Z
 DTEND:20250614T130500Z
-SUMMARY:T* (w)
-LOCATION:1/ 21
-DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Woźniak Adam
+SUMMARY:Mat3 (ć)
+LOCATION:55/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250621T113000Z
@@ -1563,6 +1556,13 @@ DTEND:20250524T153500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 59/70
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250531T140000Z
+DTEND:20250531T153500Z
+SUMMARY:PbTSL (S)
+LOCATION:2/ 68
+DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T140000Z

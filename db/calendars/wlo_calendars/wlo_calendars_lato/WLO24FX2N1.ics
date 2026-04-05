@@ -126,7 +126,7 @@ BEGIN:VEVENT
 DTSTART:20260415T155000Z
 DTEND:20260415T172500Z
 SUMMARY:XFiz1 (L)
-LOCATION:139 S; 141 S; 142 S
+LOCATION:139 S
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5
 END:VEVENT
 BEGIN:VEVENT
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 DTSTART:20260429T155000Z
 DTEND:20260429T172500Z
 SUMMARY:XFiz1 (L)
-LOCATION:139 S; 141 S; 142 S
+LOCATION:139 S
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5
 END:VEVENT
 BEGIN:VEVENT
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 DTSTART:20260415T174000Z
 DTEND:20260415T191500Z
 SUMMARY:XFiz1 (L)
-LOCATION:139 S; 141 S; 142 S
+LOCATION:139 S
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 DTSTART:20260429T174000Z
 DTEND:20260429T191500Z
 SUMMARY:XFiz1 (L)
-LOCATION:139 S; 141 S; 142 S
+LOCATION:139 S
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
@@ -196,12 +196,12 @@ BEGIN:VEVENT
 DTSTART:20260513T174000Z
 DTEND:20260513T191500Z
 SUMMARY:XFiz1 (L)
-LOCATION:139 S; 141 S; 142 S
+LOCATION:139 S
 DESCRIPTION:XFizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260328T070000Z
-DTEND:20260328T083500Z
+DTSTART:20260411T060000Z
+DTEND:20260411T073500Z
 SUMMARY:Sp* (w)
 LOCATION:1/21
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Woźniak Adam
@@ -357,7 +357,7 @@ BEGIN:VEVENT
 DTSTART:20260418T094000Z
 DTEND:20260418T111500Z
 SUMMARY:Sp* (w)
-LOCATION:1.10/16
+LOCATION:0.19/135
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
@@ -634,17 +634,17 @@ LOCATION:15/21; 17b/21; 10/21; 9/21; 1/21 WLO; 24FX; 2N; 1 gr
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260321T184000Z
+DTEND:20260321T201500Z
+SUMMARY:PKM (w)
+LOCATION:301/S
+DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Torzewski Janusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260308T070000Z
 DTEND:20260308T083500Z
 SUMMARY:PKM (w)
 LOCATION:0.24/135
-DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Torzewski Janusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260322T070000Z
-DTEND:20260322T083500Z
-SUMMARY:PKM (w)
-LOCATION:aula/135
 DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
@@ -725,13 +725,6 @@ LOCATION:4d/19; 3d/19
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: prof. dr hab. inż. Kałdoński Tadeusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260510T075000Z
-DTEND:20260510T092500Z
-SUMMARY:PeUT (ć)
-LOCATION:4.17b/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260517T075000Z
 DTEND:20260517T092500Z
 SUMMARY:PKM (ć)
@@ -771,14 +764,14 @@ DTSTART:20260322T104000Z
 DTEND:20260322T121500Z
 SUMMARY:PeUT (ć)
 LOCATION:5.17/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260329T094000Z
 DTEND:20260329T111500Z
 SUMMARY:PeUT (ć)
 LOCATION:5.17/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260412T094000Z
@@ -791,8 +784,8 @@ BEGIN:VEVENT
 DTSTART:20260419T094000Z
 DTEND:20260419T111500Z
 SUMMARY:PeUT (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+LOCATION:0.24/135
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260426T094000Z
@@ -812,8 +805,8 @@ BEGIN:VEVENT
 DTSTART:20260517T094000Z
 DTEND:20260517T111500Z
 SUMMARY:PeUT (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+LOCATION:0.24/135
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260531T094000Z
@@ -947,6 +940,13 @@ DTEND:20260426T153500Z
 SUMMARY:Jo (ć)
 LOCATION:133 K
 DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: mgr Zeneli Andi
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T140000Z
+DTEND:20260510T153500Z
+SUMMARY:PeUT (ć)
+LOCATION:0.24/135
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260614T140000Z
