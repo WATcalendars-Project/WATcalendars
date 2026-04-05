@@ -24,9 +24,6 @@
   <a href="#contact">
     <img src="https://img.shields.io/badge/Contact-555555?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact">
   </a>
-  <a href="#support">
-    <img src="https://img.shields.io/badge/Support-red?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Support">
-  </a>
 </p>
 
 </div>
@@ -80,13 +77,3 @@ Masz pytania, sugestie lub chcesz zgłosić problem? Skontaktuj się ze mną:
 * **Email:** [serafin652002@gmail.com](mailto:serafin652002@gmail.com)
 
 <br>
-
-<a id="support"></a>
-## SUPPORT
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/dominikx2002" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
-  </a>
-
-</div>
