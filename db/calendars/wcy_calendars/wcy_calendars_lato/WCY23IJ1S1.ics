@@ -1638,14 +1638,14 @@ BEGIN:VEVENT
 DTSTART:20260401T094000Z
 DTEND:20260401T111500Z
 SUMMARY:Jtp (L)
-LOCATION:313 S
+LOCATION:226 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T113000Z
 DTEND:20260401T130500Z
 SUMMARY:Jtp (L)
-LOCATION:313 S
+LOCATION:226 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
@@ -1754,27 +1754,6 @@ LOCATION:203 65
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260413T075000Z
-DTEND:20260413T092500Z
-SUMMARY:Sn (L)
-LOCATION:227 S
-DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260413T094000Z
-DTEND:20260413T111500Z
-SUMMARY:Sn (L)
-LOCATION:227 S
-DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260413T113000Z
-DTEND:20260413T130500Z
-SUMMARY:Sn (L)
-LOCATION:227 S
-DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260413T140000Z
 DTEND:20260413T153500Z
 SUMMARY:kck (L)
@@ -1813,14 +1792,14 @@ BEGIN:VEVENT
 DTSTART:20260415T094000Z
 DTEND:20260415T111500Z
 SUMMARY:Jtp (L)
-LOCATION:307 S
+LOCATION:239 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T113000Z
 DTEND:20260415T130500Z
 SUMMARY:Jtp (L)
-LOCATION:307 S
+LOCATION:239 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
@@ -1890,14 +1869,14 @@ BEGIN:VEVENT
 DTSTART:20260422T094000Z
 DTEND:20260422T111500Z
 SUMMARY:Jtp (L)
-LOCATION:314 S
+LOCATION:227 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T113000Z
 DTEND:20260422T130500Z
 SUMMARY:Jtp (L)
-LOCATION:314 S
+LOCATION:227 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
@@ -2002,14 +1981,14 @@ BEGIN:VEVENT
 DTSTART:20260506T094000Z
 DTEND:20260506T111500Z
 SUMMARY:Jtp (L)
-LOCATION:307 S
+LOCATION:236 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T113000Z
 DTEND:20260506T130500Z
 SUMMARY:Jtp (L)
-LOCATION:307 S
+LOCATION:236 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
@@ -2093,14 +2072,14 @@ BEGIN:VEVENT
 DTSTART:20260520T094000Z
 DTEND:20260520T111500Z
 SUMMARY:Jtp (L)
-LOCATION:317 S
+LOCATION:226 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T113000Z
 DTEND:20260520T130500Z
 SUMMARY:Jtp (L)
-LOCATION:317 S
+LOCATION:226 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
@@ -2186,6 +2165,27 @@ DTEND:20260526T092500Z
 SUMMARY:PWSI (L)
 LOCATION:233 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T060000Z
+DTEND:20260527T073500Z
+SUMMARY:Sn (L)
+LOCATION:95 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T075000Z
+DTEND:20260527T092500Z
+SUMMARY:Sn (L)
+LOCATION:95 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T094000Z
+DTEND:20260527T111500Z
+SUMMARY:Sn (L)
+LOCATION:95 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T060000Z

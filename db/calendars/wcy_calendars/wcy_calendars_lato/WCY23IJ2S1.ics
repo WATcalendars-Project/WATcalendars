@@ -1271,20 +1271,6 @@ LOCATION:308 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260303T070000Z
-DTEND:20260303T083500Z
-SUMMARY:PZ (P)
-LOCATION:224 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 1/22\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260303T085000Z
-DTEND:20260303T102500Z
-SUMMARY:PZ (P)
-LOCATION:224 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 2/22\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260303T104000Z
 DTEND:20260303T121500Z
 SUMMARY:Jtp (w)
@@ -1334,20 +1320,6 @@ LOCATION:317 S
 DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/10\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260310T070000Z
-DTEND:20260310T083500Z
-SUMMARY:PZ (P)
-LOCATION:224 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 3/22\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260310T085000Z
-DTEND:20260310T102500Z
-SUMMARY:PZ (P)
-LOCATION:224 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 4/22\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260310T123000Z
 DTEND:20260310T140500Z
 SUMMARY:Jtp (w)
@@ -1386,14 +1358,14 @@ BEGIN:VEVENT
 DTSTART:20260311T150000Z
 DTEND:20260311T163500Z
 SUMMARY:Jtp (L)
-LOCATION:307 S
+LOCATION:223 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T165000Z
 DTEND:20260311T182500Z
 SUMMARY:Jtp (L)
-LOCATION:307 S
+LOCATION:223 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
@@ -1425,13 +1397,6 @@ LOCATION:203 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260316T104000Z
-DTEND:20260316T121500Z
-SUMMARY:kck (L)
-LOCATION:09 65
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr Jerzy Dorobisz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260317T070000Z
 DTEND:20260317T083500Z
 SUMMARY:PWSI (L)
@@ -1450,14 +1415,14 @@ DTSTART:20260317T104000Z
 DTEND:20260317T121500Z
 SUMMARY:PZ (P)
 LOCATION:227 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 5/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 1/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T123000Z
 DTEND:20260317T140500Z
 SUMMARY:PZ (P)
 LOCATION:227 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 6/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 2/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T070000Z
@@ -1509,6 +1474,13 @@ LOCATION:233 S
 DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260319T123000Z
+DTEND:20260319T140500Z
+SUMMARY:kck (L)
+LOCATION:09 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260323T070000Z
 DTEND:20260323T083500Z
 SUMMARY:PWSI (w)
@@ -1534,14 +1506,14 @@ DTSTART:20260324T070000Z
 DTEND:20260324T083500Z
 SUMMARY:PZ (P)
 LOCATION:224 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 7/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 3/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T085000Z
 DTEND:20260324T102500Z
 SUMMARY:PZ (P)
 LOCATION:224 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 8/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 4/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T104000Z
@@ -1660,14 +1632,14 @@ DTSTART:20260331T094000Z
 DTEND:20260331T111500Z
 SUMMARY:PZ (P)
 LOCATION:227 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 9/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 5/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T113000Z
 DTEND:20260331T130500Z
 SUMMARY:PZ (P)
 LOCATION:227 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 10/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 6/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T060000Z
@@ -1708,14 +1680,14 @@ BEGIN:VEVENT
 DTSTART:20260402T075000Z
 DTEND:20260402T092500Z
 SUMMARY:Jtp (L)
-LOCATION:307 S
+LOCATION:226 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T094000Z
 DTEND:20260402T111500Z
 SUMMARY:Jtp (L)
-LOCATION:307 S
+LOCATION:226 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
@@ -1737,14 +1709,14 @@ DTSTART:20260408T094000Z
 DTEND:20260408T111500Z
 SUMMARY:PZ (P)
 LOCATION:227 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 11/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 7/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T113000Z
 DTEND:20260408T130500Z
 SUMMARY:PZ (P)
 LOCATION:227 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 12/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 8/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T060000Z
@@ -1796,27 +1768,6 @@ LOCATION:228 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 6/15\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260414T060000Z
-DTEND:20260414T073500Z
-SUMMARY:Sn (L)
-LOCATION:228 S
-DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260414T075000Z
-DTEND:20260414T092500Z
-SUMMARY:Sn (L)
-LOCATION:228 S
-DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260414T094000Z
-DTEND:20260414T111500Z
-SUMMARY:Sn (L)
-LOCATION:228 S
-DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260414T113000Z
 DTEND:20260414T130500Z
 SUMMARY:Jtp (w)
@@ -1836,20 +1787,6 @@ DTEND:20260415T092500Z
 SUMMARY:Muma (w)
 LOCATION:308 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Jarosław Olejniczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260415T094000Z
-DTEND:20260415T111500Z
-SUMMARY:PZ (P)
-LOCATION:227 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 13/22\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260415T113000Z
-DTEND:20260415T130500Z
-SUMMARY:PZ (P)
-LOCATION:227 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 14/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T060000Z
@@ -1892,20 +1829,6 @@ DTEND:20260420T073500Z
 SUMMARY:PWSI (w)
 LOCATION:309 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Tomasz Gzik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260420T075000Z
-DTEND:20260420T092500Z
-SUMMARY:PZ (P)
-LOCATION:228 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 15/22\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260420T094000Z
-DTEND:20260420T111500Z
-SUMMARY:PZ (P)
-LOCATION:228 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 16/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T060000Z
@@ -1967,14 +1890,14 @@ BEGIN:VEVENT
 DTSTART:20260422T140000Z
 DTEND:20260422T153500Z
 SUMMARY:Jtp (L)
-LOCATION:313 S
+LOCATION:227 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T155000Z
 DTEND:20260422T172500Z
 SUMMARY:Jtp (L)
-LOCATION:313 S
+LOCATION:227 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
@@ -2010,14 +1933,14 @@ DTSTART:20260427T060000Z
 DTEND:20260427T073500Z
 SUMMARY:PZ (P)
 LOCATION:228 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 17/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 9/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T075000Z
 DTEND:20260427T092500Z
 SUMMARY:PZ (P)
 LOCATION:228 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 18/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 10/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T094000Z
@@ -2052,14 +1975,14 @@ DTSTART:20260504T060000Z
 DTEND:20260504T073500Z
 SUMMARY:PZ (P)
 LOCATION:228 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 19/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 11/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T075000Z
 DTEND:20260504T092500Z
 SUMMARY:PZ (P)
 LOCATION:228 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 20/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 12/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T094000Z
@@ -2100,14 +2023,14 @@ BEGIN:VEVENT
 DTSTART:20260506T140000Z
 DTEND:20260506T153500Z
 SUMMARY:Jtp (L)
-LOCATION:308 S
+LOCATION:228 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T155000Z
 DTEND:20260506T172500Z
 SUMMARY:Jtp (L)
-LOCATION:308 S
+LOCATION:228 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
@@ -2115,14 +2038,14 @@ DTSTART:20260511T060000Z
 DTEND:20260511T073500Z
 SUMMARY:PZ (P)
 LOCATION:228 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 21/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 13/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T075000Z
 DTEND:20260511T092500Z
 SUMMARY:PZ (P)
 LOCATION:228 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 22/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 14/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T075000Z
@@ -2160,6 +2083,20 @@ LOCATION:223 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260520T075000Z
+DTEND:20260520T092500Z
+SUMMARY:PZ (P)
+LOCATION:239 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 15/22\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T094000Z
+DTEND:20260520T111500Z
+SUMMARY:PZ (P)
+LOCATION:239 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 16/22\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260520T113000Z
 DTEND:20260520T130500Z
 SUMMARY:Awd (L)
@@ -2170,14 +2107,14 @@ BEGIN:VEVENT
 DTSTART:20260520T140000Z
 DTEND:20260520T153500Z
 SUMMARY:Jtp (L)
-LOCATION:309 S
+LOCATION:226 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T155000Z
 DTEND:20260520T172500Z
 SUMMARY:Jtp (L)
-LOCATION:309 S
+LOCATION:226 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
@@ -2193,6 +2130,27 @@ DTEND:20260521T092500Z
 SUMMARY:PWSI (P)
 LOCATION:227 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 14/15\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T060000Z
+DTEND:20260522T073500Z
+SUMMARY:Sn (L)
+LOCATION:95 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T075000Z
+DTEND:20260522T092500Z
+SUMMARY:Sn (L)
+LOCATION:95 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T094000Z
+DTEND:20260522T111500Z
+SUMMARY:Sn (L)
+LOCATION:95 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T060000Z
@@ -2244,6 +2202,20 @@ LOCATION:236 S
 DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260528T094000Z
+DTEND:20260528T111500Z
+SUMMARY:PZ (P)
+LOCATION:239 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 17/22\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T113000Z
+DTEND:20260528T130500Z
+SUMMARY:PZ (P)
+LOCATION:239 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 18/22\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260529T060000Z
 DTEND:20260529T073500Z
 SUMMARY:PWSI (L)
@@ -2270,6 +2242,20 @@ DTEND:20260529T130500Z
 SUMMARY:SQL (L)
 LOCATION:224 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T060000Z
+DTEND:20260602T073500Z
+SUMMARY:PZ (P)
+LOCATION:228 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 19/22\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T075000Z
+DTEND:20260602T092500Z
+SUMMARY:PZ (P)
+LOCATION:228 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 20/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T094000Z
@@ -2305,6 +2291,20 @@ DTEND:20260617T092500Z
 SUMMARY:Muma (w)
 LOCATION:313 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T094000Z
+DTEND:20260617T111500Z
+SUMMARY:PZ (P)
+LOCATION:223 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 21/22\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T113000Z
+DTEND:20260617T130500Z
+SUMMARY:PZ (P)
+LOCATION:223 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 22/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T060000Z

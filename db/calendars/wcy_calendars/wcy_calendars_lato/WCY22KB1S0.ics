@@ -4204,20 +4204,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 64/91\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260312T123000Z
-DTEND:20260312T140500Z
-SUMMARY:Bsi (w)
-LOCATION:313 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260312T150000Z
-DTEND:20260312T163500Z
-SUMMARY:Bsi (w)
-LOCATION:313 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260313T104000Z
 DTEND:20260313T121500Z
 SUMMARY:Masz (w)
@@ -4344,6 +4330,34 @@ LOCATION:Pol.Drawsko
 DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260319T123000Z
+DTEND:20260319T140500Z
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 17/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T150000Z
+DTEND:20260319T163500Z
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 18/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T165000Z
+DTEND:20260319T182500Z
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 19/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T184000Z
+DTEND:20260319T201500Z
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 20/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260320T085000Z
 DTEND:20260320T102500Z
 SUMMARY:Rpd. (w)
@@ -4432,7 +4446,7 @@ DTSTART:20260325T104000Z
 DTEND:20260325T121500Z
 SUMMARY:Bsi (w)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T123000Z
@@ -4470,6 +4484,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 67/91\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260326T150000Z
+DTEND:20260326T163500Z
+SUMMARY:Bsi (w)
+LOCATION:308 S
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260330T060000Z
 DTEND:20260330T073500Z
 SUMMARY:Ja (ć)
@@ -4482,6 +4503,13 @@ DTEND:20260330T092500Z
 SUMMARY:MeSK (w)
 LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T094000Z
+DTEND:20260330T111500Z
+SUMMARY:Bsi (w)
+LOCATION:226 S
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T113000Z
@@ -4510,13 +4538,6 @@ DTEND:20260401T111500Z
 SUMMARY:Ja (ć)
 LOCATION:127 K 125 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 69/90\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260401T113000Z
-DTEND:20260401T130500Z
-SUMMARY:Dn (w)
-LOCATION:19 36
-DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T140000Z
@@ -4676,14 +4697,14 @@ BEGIN:VEVENT
 DTSTART:20260414T140000Z
 DTEND:20260414T153500Z
 SUMMARY:Masz (ć)
-LOCATION:307 S
+LOCATION:226 S
 DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T155000Z
 DTEND:20260414T172500Z
 SUMMARY:Masz (ć)
-LOCATION:307 S
+LOCATION:226 S
 DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
@@ -4705,7 +4726,7 @@ DTSTART:20260415T113000Z
 DTEND:20260415T130500Z
 SUMMARY:Dn (w)
 LOCATION:19 36
-DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T140000Z
@@ -4719,14 +4740,14 @@ DTSTART:20260416T060000Z
 DTEND:20260416T073500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 17/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 21/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T075000Z
 DTEND:20260416T092500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 18/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 22/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T094000Z
@@ -4834,13 +4855,6 @@ LOCATION:227 S
 DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: Dawid Maślanik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260421T140000Z
-DTEND:20260421T153500Z
-SUMMARY:Pkw (L)
-LOCATION:218 65
-DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Krzysztof Kanciak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260422T075000Z
 DTEND:20260422T092500Z
 SUMMARY:DWiPD (ć)
@@ -4859,7 +4873,7 @@ DTSTART:20260422T113000Z
 DTEND:20260422T130500Z
 SUMMARY:Dn (w)
 LOCATION:19 36
-DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T140000Z
@@ -4925,13 +4939,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 75/91\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260427T140000Z
-DTEND:20260427T153500Z
-SUMMARY:Pkw (ć)
-LOCATION:218 65
-DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Krzysztof Kanciak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260428T094000Z
 DTEND:20260428T111500Z
 SUMMARY:Bsi (w)
@@ -4946,11 +4953,11 @@ LOCATION:307 S
 DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260428T140000Z
-DTEND:20260428T153500Z
-SUMMARY:Pkw (L)
-LOCATION:218 65
-DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Krzysztof Kanciak
+DTSTART:20260429T075000Z
+DTEND:20260429T092500Z
+SUMMARY:ZPr (L)
+LOCATION:223 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T094000Z
@@ -5002,18 +5009,18 @@ LOCATION:128 K 127 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 78/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260504T075000Z
+DTEND:20260504T092500Z
+SUMMARY:ZPr (L)
+LOCATION:224 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260504T113000Z
 DTEND:20260504T130500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 77/91\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260504T140000Z
-DTEND:20260504T153500Z
-SUMMARY:Pkw (ć)
-LOCATION:218 65
-DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T075000Z
@@ -5042,6 +5049,13 @@ DTEND:20260506T153500Z
 SUMMARY:Pkw (w)
 LOCATION:204 65
 DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. Krzysztof Kanciak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T155000Z
+DTEND:20260506T172500Z
+SUMMARY:Dn (w)
+LOCATION:19 36
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T060000Z
@@ -5097,7 +5111,7 @@ DTSTART:20260508T140000Z
 DTEND:20260508T153500Z
 SUMMARY:Pkw (L)
 LOCATION:219 65
-DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Krzysztof Kanciak
+DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T060000Z
@@ -5132,7 +5146,7 @@ DTSTART:20260511T140000Z
 DTEND:20260511T153500Z
 SUMMARY:Pkw (ć)
 LOCATION:219 65
-DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Krzysztof Kanciak
+DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T075000Z
@@ -5226,6 +5240,13 @@ LOCATION:226 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260515T094000Z
+DTEND:20260515T111500Z
+SUMMARY:ZPr (L)
+LOCATION:239 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260516T060000Z
 DTEND:20260516T073500Z
 SUMMARY:XWF (ć)
@@ -5240,6 +5261,20 @@ LOCATION:128 K 127 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 82/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260518T075000Z
+DTEND:20260518T092500Z
+SUMMARY:Pkw (ć)
+LOCATION:307 S
+DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Krzysztof Kanciak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T094000Z
+DTEND:20260518T111500Z
+SUMMARY:Pkw (ć)
+LOCATION:307 S
+DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Krzysztof Kanciak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260518T113000Z
 DTEND:20260518T130500Z
 SUMMARY:WF (ć)
@@ -5251,7 +5286,7 @@ DTSTART:20260518T140000Z
 DTEND:20260518T153500Z
 SUMMARY:Pkw (L)
 LOCATION:219 65
-DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Krzysztof Kanciak
+DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T094000Z
@@ -5259,6 +5294,13 @@ DTEND:20260519T111500Z
 SUMMARY:MeSK (L)
 LOCATION:237 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T113000Z
+DTEND:20260519T130500Z
+SUMMARY:ZPr (L)
+LOCATION:226 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T075000Z
@@ -5408,6 +5450,13 @@ LOCATION:204 65
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260528T094000Z
+DTEND:20260528T111500Z
+SUMMARY:ZPr (L)
+LOCATION:227 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260528T113000Z
 DTEND:20260528T130500Z
 SUMMARY:SzS (ć)
@@ -5471,6 +5520,20 @@ LOCATION:128 K 127 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 86/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260601T075000Z
+DTEND:20260601T092500Z
+SUMMARY:Pkw (ć)
+LOCATION:101 65
+DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Krzysztof Kanciak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T094000Z
+DTEND:20260601T111500Z
+SUMMARY:Pkw (L)
+LOCATION:101 65
+DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Krzysztof Kanciak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260601T113000Z
 DTEND:20260601T130500Z
 SUMMARY:WF (ć)
@@ -5485,11 +5548,18 @@ LOCATION:233 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/10\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260602T113000Z
+DTEND:20260602T130500Z
+SUMMARY:ZPr (L)
+LOCATION:223 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260602T140000Z
 DTEND:20260602T153500Z
 SUMMARY:Pkw (L)
 LOCATION:219 65
-DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Krzysztof Kanciak
+DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260606T060000Z
@@ -5506,18 +5576,25 @@ LOCATION:128 K 127 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 87/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260608T075000Z
+DTEND:20260608T092500Z
+SUMMARY:Pkw (L)
+LOCATION:218 65
+DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Krzysztof Kanciak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T094000Z
+DTEND:20260608T111500Z
+SUMMARY:Pkw (L)
+LOCATION:203 65
+DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Krzysztof Kanciak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260608T113000Z
 DTEND:20260608T130500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 87/91\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260608T140000Z
-DTEND:20260608T153500Z
-SUMMARY:Pkw (L)
-LOCATION:219 65
-DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T094000Z
@@ -5646,13 +5723,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 89/91\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260615T140000Z
-DTEND:20260615T153500Z
-SUMMARY:Pkw (ć)
-LOCATION:218 65
-DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Krzysztof Kanciak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260616T094000Z
 DTEND:20260616T111500Z
 SUMMARY:Miswd (L)
@@ -5679,6 +5749,13 @@ DTEND:20260617T111500Z
 SUMMARY:Ja (ć)
 LOCATION:127 K 125 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 90/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T113000Z
+DTEND:20260617T130500Z
+SUMMARY:ZPr (L)
+LOCATION:224 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T140000Z

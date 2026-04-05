@@ -134,14 +134,7 @@ DTSTART:20251018T060000Z
 DTEND:20251018T073500Z
 SUMMARY:SiKD (Inne)
 LOCATION:313 S
-DESCRIPTION:Spotkanie informacyjne z kierownikiem Dziekanatu\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Adam Kutyła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251018T060000Z
-DTEND:20251018T073500Z
-SUMMARY:SiKD (Inne)
-LOCATION:313 S
-DESCRIPTION:Spotkanie informacyjne z kierownikiem Dziekanatu\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Spotkanie informacyjne z kierownikiem Dziekanatu\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Adam Kutyła, dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T075000Z
@@ -1224,27 +1217,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260314T104000Z
 DTEND:20260314T121500Z
-SUMMARY:WdP (w)
-LOCATION:308 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260314T123000Z
-DTEND:20260314T140500Z
-SUMMARY:WdP (w)
-LOCATION:308 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260314T150000Z
-DTEND:20260314T163500Z
 SUMMARY:Amt (w)
 LOCATION:317 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260314T165000Z
-DTEND:20260314T182500Z
+DTSTART:20260314T123000Z
+DTEND:20260314T140500Z
 SUMMARY:Amt (w)
 LOCATION:317 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr Piotr Kozarzewski
@@ -1303,7 +1282,7 @@ DTSTART:20260321T104000Z
 DTEND:20260321T121500Z
 SUMMARY:WdP (w)
 LOCATION:308 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260321T123000Z
@@ -1362,6 +1341,13 @@ LOCATION:317 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260328T070000Z
+DTEND:20260328T083500Z
+SUMMARY:WdP (w)
+LOCATION:308 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260328T085000Z
 DTEND:20260328T102500Z
 SUMMARY:Ja (ć)
@@ -1373,7 +1359,7 @@ DTSTART:20260328T104000Z
 DTEND:20260328T121500Z
 SUMMARY:WdP (w)
 LOCATION:308 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260328T123000Z
@@ -1432,6 +1418,13 @@ LOCATION:204 65
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260411T060000Z
+DTEND:20260411T073500Z
+SUMMARY:WdP (w)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260411T075000Z
 DTEND:20260411T092500Z
 SUMMARY:Ja (ć)
@@ -1439,18 +1432,18 @@ LOCATION:237 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260411T094000Z
-DTEND:20260411T111500Z
-SUMMARY:HP (ć)
-LOCATION:308 S
-DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260411T113000Z
 DTEND:20260411T130500Z
 SUMMARY:Tgs (ć)
 LOCATION:308 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260411T140000Z
+DTEND:20260411T153500Z
+SUMMARY:HP (ć)
+LOCATION:308 S
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260412T060000Z
@@ -1661,6 +1654,13 @@ DTEND:20260426T172500Z
 SUMMARY:Amt (ć)
 LOCATION:204 65
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260509T060000Z
+DTEND:20260509T073500Z
+SUMMARY:WdP (w)
+LOCATION:308 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T075000Z
@@ -2034,6 +2034,13 @@ LOCATION:308 S
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260620T060000Z
+DTEND:20260620T073500Z
+SUMMARY:ppk (Inne)
+LOCATION:317 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260620T075000Z
 DTEND:20260620T092500Z
 SUMMARY:Ja (ć)
@@ -2109,5 +2116,12 @@ DTEND:20260621T191500Z
 SUMMARY:Amt (ć)
 LOCATION:204 65
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260919T075000Z
+DTEND:20260919T092500Z
+SUMMARY:ppk (Inne)
+LOCATION:317 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 END:VCALENDAR

@@ -354,20 +354,6 @@ LOCATION:307 S
 DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260319T123000Z
-DTEND:20260319T140500Z
-SUMMARY:BMU (L)
-LOCATION:233 S
-DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260319T150000Z
-DTEND:20260319T163500Z
-SUMMARY:BMU (L)
-LOCATION:233 S
-DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260320T070000Z
 DTEND:20260320T083500Z
 SUMMARY:DSiSM (ć)
@@ -438,20 +424,6 @@ LOCATION:307 S
 DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260323T123000Z
-DTEND:20260323T140500Z
-SUMMARY:Tal (w)
-LOCATION:307 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260323T150000Z
-DTEND:20260323T163500Z
-SUMMARY:Tal (w)
-LOCATION:307 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260324T070000Z
 DTEND:20260324T083500Z
 SUMMARY:Ja (ć)
@@ -520,6 +492,20 @@ DTEND:20260326T140500Z
 SUMMARY:Awd (L)
 LOCATION:227 S
 DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T070000Z
+DTEND:20260327T083500Z
+SUMMARY:Tal (w)
+LOCATION:316 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T085000Z
+DTEND:20260327T102500Z
+SUMMARY:Tal (w)
+LOCATION:316 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T104000Z
@@ -841,14 +827,14 @@ DTSTART:20260414T140000Z
 DTEND:20260414T153500Z
 SUMMARY:BMU (L)
 LOCATION:227 S 228 S
-DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T155000Z
 DTEND:20260414T172500Z
 SUMMARY:BMU (L)
 LOCATION:227 S 228 S
-DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T075000Z
@@ -975,20 +961,6 @@ DTEND:20260420T130500Z
 SUMMARY:MPR (w)
 LOCATION:313 S
 DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260421T060000Z
-DTEND:20260421T073500Z
-SUMMARY:MPR (L)
-LOCATION:226 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260421T075000Z
-DTEND:20260421T092500Z
-SUMMARY:MPR (L)
-LOCATION:226 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T094000Z
@@ -1124,6 +1096,20 @@ LOCATION:307 S
 DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260428T094000Z
+DTEND:20260428T111500Z
+SUMMARY:MPR (L)
+LOCATION:239 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T113000Z
+DTEND:20260428T130500Z
+SUMMARY:MPR (L)
+LOCATION:239 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260428T140000Z
 DTEND:20260428T153500Z
 SUMMARY:Ajf (L)
@@ -1177,14 +1163,14 @@ DTSTART:20260430T094000Z
 DTEND:20260430T111500Z
 SUMMARY:BMU (L)
 LOCATION:237 S
-DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T113000Z
 DTEND:20260430T130500Z
 SUMMARY:BMU (L)
 LOCATION:237 S
-DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T140000Z
@@ -1282,14 +1268,14 @@ DTSTART:20260506T113000Z
 DTEND:20260506T130500Z
 SUMMARY:BMU (L)
 LOCATION:224 S
-DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T140000Z
 DTEND:20260506T153500Z
 SUMMARY:BMU (L)
 LOCATION:224 S
-DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T060000Z
@@ -1394,14 +1380,14 @@ DTSTART:20260511T094000Z
 DTEND:20260511T111500Z
 SUMMARY:BMU (L)
 LOCATION:233 S
-DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T113000Z
 DTEND:20260511T130500Z
 SUMMARY:BMU (L)
 LOCATION:233 S
-DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T060000Z
@@ -1675,6 +1661,20 @@ DTEND:20260526T073500Z
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T075000Z
+DTEND:20260526T092500Z
+SUMMARY:BMU (L)
+LOCATION:237 S
+DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T094000Z
+DTEND:20260526T111500Z
+SUMMARY:BMU (L)
+LOCATION:237 S
+DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T113000Z

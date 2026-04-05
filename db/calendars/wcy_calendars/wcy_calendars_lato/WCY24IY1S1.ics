@@ -4218,6 +4218,13 @@ LOCATION:237 S
 DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260326T165000Z
+DTEND:20260326T182500Z
+SUMMARY:BD (Inne)
+LOCATION:317 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 10/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260330T060000Z
 DTEND:20260330T073500Z
 SUMMARY:IK (w)
@@ -4300,13 +4307,6 @@ DTEND:20260402T073500Z
 SUMMARY:WdA (w)
 LOCATION:313 S
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260402T075000Z
-DTEND:20260402T092500Z
-SUMMARY:Pnak (w)
-LOCATION:316 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T094000Z
@@ -4438,7 +4438,7 @@ BEGIN:VEVENT
 DTSTART:20260413T113000Z
 DTEND:20260413T130500Z
 SUMMARY:Sck (w)
-LOCATION:316 S
+LOCATION:317 S
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 10/14\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
@@ -4643,6 +4643,13 @@ DTEND:20260423T073500Z
 SUMMARY:WdA (w)
 LOCATION:313 S
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T094000Z
+DTEND:20260423T111500Z
+SUMMARY:Pnak (w)
+LOCATION:316 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T140000Z

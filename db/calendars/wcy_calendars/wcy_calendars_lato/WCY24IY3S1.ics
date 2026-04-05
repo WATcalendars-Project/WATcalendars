@@ -3606,28 +3606,28 @@ DTSTART:20260216T104000Z
 DTEND:20260216T121500Z
 SUMMARY:BD (Inne)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/5\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T123000Z
 DTEND:20260216T140500Z
 SUMMARY:BD (Inne)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/5\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T150000Z
 DTEND:20260216T163500Z
 SUMMARY:BD (Inne)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/5\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T165000Z
 DTEND:20260216T182500Z
 SUMMARY:BD (Inne)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/5\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T085000Z
@@ -3676,7 +3676,7 @@ DTSTART:20260219T085000Z
 DTEND:20260219T102500Z
 SUMMARY:BD (Inne)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T104000Z
@@ -4162,6 +4162,13 @@ LOCATION:313 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260326T165000Z
+DTEND:20260326T182500Z
+SUMMARY:BD (Inne)
+LOCATION:317 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 6/5\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260330T060000Z
 DTEND:20260330T073500Z
 SUMMARY:IK (w)
@@ -4258,13 +4265,6 @@ DTEND:20260402T073500Z
 SUMMARY:WdA (w)
 LOCATION:313 S
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260402T075000Z
-DTEND:20260402T092500Z
-SUMMARY:Pnak (w)
-LOCATION:316 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T094000Z
@@ -4389,7 +4389,7 @@ BEGIN:VEVENT
 DTSTART:20260413T113000Z
 DTEND:20260413T130500Z
 SUMMARY:Sck (w)
-LOCATION:316 S
+LOCATION:317 S
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 10/14\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
@@ -4489,6 +4489,13 @@ DTEND:20260417T153500Z
 SUMMARY:Tik (L)
 LOCATION:011 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T155000Z
+DTEND:20260417T172500Z
+SUMMARY:BD (Inne)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 7/5\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T060000Z
@@ -4594,6 +4601,13 @@ DTEND:20260423T092500Z
 SUMMARY:Tik (ć)
 LOCATION:236 S
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T094000Z
+DTEND:20260423T111500Z
+SUMMARY:Pnak (w)
+LOCATION:316 S
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T060000Z

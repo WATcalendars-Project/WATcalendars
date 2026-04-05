@@ -4684,7 +4684,7 @@ DTSTART:20260217T104000Z
 DTEND:20260217T121500Z
 SUMMARY:Sm (Inne)
 LOCATION:218 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/3\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T123000Z
@@ -4712,7 +4712,7 @@ DTSTART:20260218T123000Z
 DTEND:20260218T140500Z
 SUMMARY:Sm (Inne)
 LOCATION:314 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/3\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T150000Z
@@ -4988,20 +4988,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 61/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260311T150000Z
-DTEND:20260311T163500Z
-SUMMARY:Po (L)
-LOCATION:228 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/16\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260311T165000Z
-DTEND:20260311T182500Z
-SUMMARY:Po (L)
-LOCATION:228 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/16\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260312T070000Z
 DTEND:20260312T083500Z
 SUMMARY:WF (ć)
@@ -5021,13 +5007,6 @@ DTEND:20260312T121500Z
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 62/90\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260312T123000Z
-DTEND:20260312T140500Z
-SUMMARY:BD (ć)
-LOCATION:224 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T150000Z
@@ -5089,7 +5068,7 @@ BEGIN:VEVENT
 DTSTART:20260316T150000Z
 DTEND:20260316T163500Z
 SUMMARY:Wkr (w)
-LOCATION:313 S
+LOCATION:307 S
 DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
@@ -5105,6 +5084,13 @@ DTEND:20260317T102500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 64/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260317T104000Z
+DTEND:20260317T121500Z
+SUMMARY:BD (ć)
+LOCATION:233 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T123000Z
@@ -5506,18 +5492,11 @@ LOCATION:121 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/13\nProwadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260402T140000Z
-DTEND:20260402T153500Z
-SUMMARY:SO (L)
-LOCATION:121 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: Sebastian Łeska
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260408T060000Z
 DTEND:20260408T073500Z
 SUMMARY:SO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: Sebastian Łeska
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T075000Z
@@ -5573,14 +5552,14 @@ DTSTART:20260409T113000Z
 DTEND:20260409T130500Z
 SUMMARY:Po (L)
 LOCATION:237 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/16\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/16\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T140000Z
 DTEND:20260409T153500Z
 SUMMARY:Po (L)
 LOCATION:237 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/16\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/16\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T075000Z
@@ -5602,13 +5581,6 @@ DTEND:20260410T130500Z
 SUMMARY:Po (w)
 LOCATION:313 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Adrian Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260410T140000Z
-DTEND:20260410T153500Z
-SUMMARY:SO (w)
-LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T060000Z
@@ -5657,7 +5629,7 @@ DTSTART:20260414T060000Z
 DTEND:20260414T073500Z
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/13\nProwadzący: Sebastian Łeska
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13\nProwadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T075000Z
@@ -5720,7 +5692,7 @@ DTSTART:20260415T094000Z
 DTEND:20260415T111500Z
 SUMMARY:SO (w)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T113000Z
@@ -5746,9 +5718,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T075000Z
 DTEND:20260416T092500Z
-SUMMARY:SO (L)
-LOCATION:125 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/13\nProwadzący: Sebastian Łeska
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 10/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T094000Z
@@ -5762,14 +5734,14 @@ DTSTART:20260416T113000Z
 DTEND:20260416T130500Z
 SUMMARY:Po (L)
 LOCATION:224 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/16\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/16\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T140000Z
 DTEND:20260416T153500Z
 SUMMARY:Po (L)
 LOCATION:224 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/16\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/16\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T060000Z
@@ -5798,6 +5770,13 @@ DTEND:20260417T130500Z
 SUMMARY:Po (w)
 LOCATION:313 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T174000Z
+DTEND:20260417T191500Z
+SUMMARY:Sm (Inne)
+LOCATION:314 S
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/3\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T060000Z
@@ -5930,7 +5909,7 @@ DTSTART:20260423T075000Z
 DTEND:20260423T092500Z
 SUMMARY:SO (w)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T094000Z
@@ -5944,14 +5923,14 @@ DTSTART:20260423T113000Z
 DTEND:20260423T130500Z
 SUMMARY:Po (L)
 LOCATION:224 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/16\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/16\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T140000Z
 DTEND:20260423T153500Z
 SUMMARY:Po (L)
 LOCATION:224 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/16\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/16\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T060000Z
@@ -6063,7 +6042,7 @@ DTSTART:20260429T140000Z
 DTEND:20260429T153500Z
 SUMMARY:SO (w)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T060000Z
@@ -6077,7 +6056,7 @@ DTSTART:20260430T075000Z
 DTEND:20260430T092500Z
 SUMMARY:SO (w)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T094000Z
@@ -6154,6 +6133,20 @@ DTSTART:20260505T113000Z
 DTEND:20260505T130500Z
 SUMMARY:SO (L)
 LOCATION:011 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/13\nProwadzący: Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T140000Z
+DTEND:20260505T153500Z
+SUMMARY:SO (L)
+LOCATION:121 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/13\nProwadzący: Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T155000Z
+DTEND:20260505T172500Z
+SUMMARY:SO (L)
+LOCATION:121 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/13\nProwadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
@@ -6196,7 +6189,7 @@ DTSTART:20260507T075000Z
 DTEND:20260507T092500Z
 SUMMARY:SO (w)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T094000Z
@@ -6224,21 +6217,21 @@ DTSTART:20260508T075000Z
 DTEND:20260508T092500Z
 SUMMARY:SO (w)
 LOCATION:314 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T094000Z
 DTEND:20260508T111500Z
 SUMMARY:Po (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/16\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/16\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T113000Z
 DTEND:20260508T130500Z
 SUMMARY:Po (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/16\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/16\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T140000Z
@@ -6371,7 +6364,7 @@ DTSTART:20260514T075000Z
 DTEND:20260514T092500Z
 SUMMARY:SO (w)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 11/13\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T094000Z
@@ -6399,14 +6392,14 @@ DTSTART:20260515T060000Z
 DTEND:20260515T073500Z
 SUMMARY:Po (L)
 LOCATION:224 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/16\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/16\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T075000Z
 DTEND:20260515T092500Z
 SUMMARY:Po (L)
 LOCATION:224 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/16\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/16\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T060000Z
@@ -6414,6 +6407,20 @@ DTEND:20260516T073500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23/28\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T060000Z
+DTEND:20260518T073500Z
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/16\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T075000Z
+DTEND:20260518T092500Z
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/16\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T094000Z
@@ -6490,7 +6497,7 @@ DTSTART:20260521T075000Z
 DTEND:20260521T092500Z
 SUMMARY:SO (w)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 11/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T094000Z
@@ -6575,6 +6582,13 @@ DTEND:20260526T111500Z
 SUMMARY:Hsw (ć)
 LOCATION:201 65
 DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T140000Z
+DTEND:20260526T153500Z
+SUMMARY:SO (w)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T174000Z
@@ -6847,14 +6861,14 @@ DTSTART:20260615T060000Z
 DTEND:20260615T073500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 10/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 11/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T075000Z
 DTEND:20260615T092500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 11/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 12/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T094000Z

@@ -4628,7 +4628,7 @@ DTSTART:20260217T104000Z
 DTEND:20260217T121500Z
 SUMMARY:Sm (Inne)
 LOCATION:218 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/3\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T123000Z
@@ -4656,7 +4656,7 @@ DTSTART:20260218T123000Z
 DTEND:20260218T140500Z
 SUMMARY:Sm (Inne)
 LOCATION:314 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/3\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T150000Z
@@ -4970,7 +4970,7 @@ BEGIN:VEVENT
 DTSTART:20260316T150000Z
 DTEND:20260316T163500Z
 SUMMARY:Wkr (w)
-LOCATION:313 S
+LOCATION:307 S
 DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
@@ -5387,20 +5387,6 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 70/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260402T113000Z
-DTEND:20260402T130500Z
-SUMMARY:Gk (L)
-LOCATION:239 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/14\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260402T140000Z
-DTEND:20260402T153500Z
-SUMMARY:Gk (L)
-LOCATION:239 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/14\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260408T060000Z
 DTEND:20260408T073500Z
 SUMMARY:MM (ć)
@@ -5501,9 +5487,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T140000Z
 DTEND:20260410T153500Z
-SUMMARY:SO (w)
-LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: Zbigniew Zielinski
+SUMMARY:Gk (L)
+LOCATION:239 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T155000Z
+DTEND:20260410T172500Z
+SUMMARY:Gk (L)
+LOCATION:239 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/14\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T060000Z
@@ -5608,7 +5601,7 @@ DTSTART:20260415T094000Z
 DTEND:20260415T111500Z
 SUMMARY:SO (w)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T113000Z
@@ -5637,6 +5630,13 @@ DTEND:20260416T073500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 72/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T075000Z
+DTEND:20260416T092500Z
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 10/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T094000Z
@@ -5686,6 +5686,13 @@ DTEND:20260417T130500Z
 SUMMARY:Po (w)
 LOCATION:313 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T174000Z
+DTEND:20260417T191500Z
+SUMMARY:Sm (Inne)
+LOCATION:314 S
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/3\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T060000Z
@@ -5804,7 +5811,7 @@ DTSTART:20260423T075000Z
 DTEND:20260423T092500Z
 SUMMARY:SO (w)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T094000Z
@@ -5923,7 +5930,7 @@ DTSTART:20260429T140000Z
 DTEND:20260429T153500Z
 SUMMARY:SO (w)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T060000Z
@@ -5937,7 +5944,7 @@ DTSTART:20260430T075000Z
 DTEND:20260430T092500Z
 SUMMARY:SO (w)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T094000Z
@@ -5984,23 +5991,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T060000Z
 DTEND:20260505T073500Z
-SUMMARY:TA (ć)
-LOCATION:PĆT1
-DESCRIPTION:TAKTYKA - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 58/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T075000Z
 DTEND:20260505T092500Z
-SUMMARY:TA (ć)
-LOCATION:PĆT1
-DESCRIPTION:TAKTYKA - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 59/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T094000Z
 DTEND:20260505T111500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 58/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 60/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T113000Z
@@ -6021,7 +6028,7 @@ DTSTART:20260505T174000Z
 DTEND:20260505T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 59/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 61/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T060000Z
@@ -6063,7 +6070,7 @@ DTSTART:20260507T075000Z
 DTEND:20260507T092500Z
 SUMMARY:SO (w)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T094000Z
@@ -6091,7 +6098,7 @@ DTSTART:20260508T075000Z
 DTEND:20260508T092500Z
 SUMMARY:SO (w)
 LOCATION:314 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T094000Z
@@ -6154,7 +6161,7 @@ DTSTART:20260512T075000Z
 DTEND:20260512T092500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 60/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 62/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T094000Z
@@ -6173,16 +6180,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T140000Z
 DTEND:20260512T153500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 61/1\nProwadzący: -
+SUMMARY:TA (ć)
+LOCATION:PĆT1
+DESCRIPTION:TAKTYKA - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T155000Z
 DTEND:20260512T172500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 62/1\nProwadzący: -
+SUMMARY:TA (ć)
+LOCATION:PĆT1
+DESCRIPTION:TAKTYKA - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T174000Z
@@ -6217,7 +6224,7 @@ DTSTART:20260514T075000Z
 DTEND:20260514T092500Z
 SUMMARY:SO (w)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 11/13\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T094000Z
@@ -6343,7 +6350,7 @@ DTSTART:20260521T075000Z
 DTEND:20260521T092500Z
 SUMMARY:SO (w)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 11/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T094000Z
@@ -6435,6 +6442,13 @@ DTEND:20260526T130500Z
 SUMMARY:BD (L)
 LOCATION:233 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T140000Z
+DTEND:20260526T153500Z
+SUMMARY:SO (w)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T174000Z
@@ -6714,7 +6728,7 @@ DTSTART:20260615T060000Z
 DTEND:20260615T073500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 10/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 11/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T075000Z
@@ -6728,7 +6742,7 @@ DTSTART:20260615T094000Z
 DTEND:20260615T111500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 11/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 12/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T060000Z

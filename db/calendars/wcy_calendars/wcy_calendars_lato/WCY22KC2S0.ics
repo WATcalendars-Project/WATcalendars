@@ -4453,14 +4453,7 @@ DTSTART:20260123T150000Z
 DTEND:20260123T163500Z
 SUMMARY:Wpp (Inne)
 LOCATION:106 65 011 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/3\nProwadzący: dr inż. Adam Patkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260123T150000Z
-DTEND:20260123T163500Z
-SUMMARY:Wpp (Inne)
-LOCATION:106 65 011 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/3\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/3\nProwadzący: dr inż. Adam Patkowski, mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T070000Z
@@ -4642,7 +4635,7 @@ DTSTART:20260217T085000Z
 DTEND:20260217T102500Z
 SUMMARY:Wpp (Inne)
 LOCATION:011 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/3\nProwadzący: Paweł Głębocki
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/3\nProwadzący: Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T104000Z
@@ -4677,7 +4670,7 @@ DTSTART:20260219T085000Z
 DTEND:20260219T102500Z
 SUMMARY:Wpp (Inne)
 LOCATION:121 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 6/3\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/3\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T070000Z
@@ -4720,20 +4713,6 @@ DTEND:20260305T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 61/90\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260305T150000Z
-DTEND:20260305T163500Z
-SUMMARY:Sa. (L)
-LOCATION:09 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: Adrian Myśliwiec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260305T165000Z
-DTEND:20260305T182500Z
-SUMMARY:Sa. (L)
-LOCATION:09 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260307T070000Z
@@ -4939,6 +4918,34 @@ LOCATION:Pol.Drawsko
 DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260319T123000Z
+DTEND:20260319T140500Z
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 11/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T150000Z
+DTEND:20260319T163500Z
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 12/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T165000Z
+DTEND:20260319T182500Z
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 13/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T184000Z
+DTEND:20260319T201500Z
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 14/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260320T070000Z
 DTEND:20260320T083500Z
 SUMMARY:Tds (w)
@@ -4958,20 +4965,6 @@ DTEND:20260320T121500Z
 SUMMARY:Ztel (w)
 LOCATION:203 65
 DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Tomasz Malinowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260320T123000Z
-DTEND:20260320T140500Z
-SUMMARY:Pwst (L)
-LOCATION:011 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260320T150000Z
-DTEND:20260320T163500Z
-SUMMARY:Pwst (L)
-LOCATION:011 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260321T070000Z
@@ -5055,14 +5048,14 @@ DTSTART:20260324T150000Z
 DTEND:20260324T163500Z
 SUMMARY:Sa. (L)
 LOCATION:09 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: Adrian Myśliwiec
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T165000Z
 DTEND:20260324T182500Z
 SUMMARY:Sa. (L)
 LOCATION:09 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Adrian Myśliwiec
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T085000Z
@@ -5105,6 +5098,20 @@ DTEND:20260326T140500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 66/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T150000Z
+DTEND:20260327T163500Z
+SUMMARY:Sa. (L)
+LOCATION:09 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T165000Z
+DTEND:20260327T182500Z
+SUMMARY:Sa. (L)
+LOCATION:09 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T060000Z
@@ -5177,13 +5184,6 @@ LOCATION:127 K 125 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 69/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260401T113000Z
-DTEND:20260401T130500Z
-SUMMARY:Dn (w)
-LOCATION:19 36
-DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260402T060000Z
 DTEND:20260402T073500Z
 SUMMARY:Zbi (w)
@@ -5196,20 +5196,6 @@ DTEND:20260402T092500Z
 SUMMARY:Zbi (w)
 LOCATION:314 S
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260402T094000Z
-DTEND:20260402T111500Z
-SUMMARY:Ztel (L)
-LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/15\nProwadzący: Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260402T113000Z
-DTEND:20260402T130500Z
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 68/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T075000Z
@@ -5242,16 +5228,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T060000Z
 DTEND:20260409T073500Z
-SUMMARY:Ztel (L)
-LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/15\nProwadzący: Szymon Chmielewski
+SUMMARY:Zbi (ć)
+LOCATION:314 S
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T075000Z
 DTEND:20260409T092500Z
-SUMMARY:Ztel (L)
-LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/15\nProwadzący: Szymon Chmielewski
+SUMMARY:Zbi (ć)
+LOCATION:314 S
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T094000Z
@@ -5265,7 +5251,7 @@ DTSTART:20260409T113000Z
 DTEND:20260409T130500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 69/90\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 68/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T075000Z
@@ -5300,7 +5286,7 @@ DTSTART:20260413T113000Z
 DTEND:20260413T130500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 70/90\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 69/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T140000Z
@@ -5349,28 +5335,28 @@ DTSTART:20260415T113000Z
 DTEND:20260415T130500Z
 SUMMARY:Dn (w)
 LOCATION:19 36
-DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T060000Z
 DTEND:20260416T073500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 11/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 15/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T075000Z
 DTEND:20260416T092500Z
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 12/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 16/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T113000Z
 DTEND:20260416T130500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 71/90\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 70/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T075000Z
@@ -5426,7 +5412,7 @@ DTSTART:20260420T113000Z
 DTEND:20260420T130500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 72/90\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 71/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T140000Z
@@ -5445,23 +5431,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T075000Z
 DTEND:20260421T092500Z
-SUMMARY:IRz (w)
-LOCATION:203 65
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: Zbigniew Zielinski
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 72/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T094000Z
 DTEND:20260421T111500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/15\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T113000Z
 DTEND:20260421T130500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/15\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T140000Z
@@ -5496,7 +5482,7 @@ DTSTART:20260422T113000Z
 DTEND:20260422T130500Z
 SUMMARY:Dn (w)
 LOCATION:19 36
-DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T140000Z
@@ -5510,14 +5496,14 @@ DTSTART:20260423T060000Z
 DTEND:20260423T073500Z
 SUMMARY:Pwst (L)
 LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T075000Z
 DTEND:20260423T092500Z
 SUMMARY:Pwst (L)
 LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T094000Z
@@ -5569,6 +5555,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 74/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260427T140000Z
+DTEND:20260427T153500Z
+SUMMARY:Pwst (L)
+LOCATION:237 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T155000Z
+DTEND:20260427T172500Z
+SUMMARY:Pwst (L)
+LOCATION:237 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260428T060000Z
 DTEND:20260428T073500Z
 SUMMARY:Pwst (P)
@@ -5580,7 +5580,7 @@ DTSTART:20260428T075000Z
 DTEND:20260428T092500Z
 SUMMARY:IRz (w)
 LOCATION:203 65
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T094000Z
@@ -5727,21 +5727,21 @@ DTSTART:20260505T075000Z
 DTEND:20260505T092500Z
 SUMMARY:IRz (w)
 LOCATION:203 65
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T094000Z
 DTEND:20260505T111500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/15\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T113000Z
 DTEND:20260505T130500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/15\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T140000Z
@@ -5786,18 +5786,11 @@ LOCATION:204 65
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260507T060000Z
-DTEND:20260507T073500Z
-SUMMARY:Zbi (ć)
-LOCATION:205 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260507T075000Z
-DTEND:20260507T092500Z
-SUMMARY:Zbi (ć)
-LOCATION:205 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: Mieczysław Kania
+DTSTART:20260506T155000Z
+DTEND:20260506T172500Z
+SUMMARY:Dn (w)
+LOCATION:19 36
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T113000Z
@@ -6070,14 +6063,14 @@ DTSTART:20260519T094000Z
 DTEND:20260519T111500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/15\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T113000Z
 DTEND:20260519T130500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/15\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T140000Z
@@ -6304,6 +6297,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 83/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260528T140000Z
+DTEND:20260528T153500Z
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/15\nProwadzący: Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T155000Z
+DTEND:20260528T172500Z
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/15\nProwadzący: Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260529T060000Z
 DTEND:20260529T073500Z
 SUMMARY:WF (ć)
@@ -6360,6 +6367,13 @@ LOCATION:128 K 127 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 86/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260601T075000Z
+DTEND:20260601T092500Z
+SUMMARY:IRz (w)
+LOCATION:313 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260601T094000Z
 DTEND:20260601T111500Z
 SUMMARY:Dn (ć)
@@ -6406,14 +6420,14 @@ DTSTART:20260602T094000Z
 DTEND:20260602T111500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/15\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T113000Z
 DTEND:20260602T130500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/15\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T140000Z
@@ -6490,14 +6504,14 @@ DTSTART:20260609T094000Z
 DTEND:20260609T111500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/15\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T113000Z
 DTEND:20260609T130500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/15\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T155000Z
@@ -6672,11 +6686,18 @@ DTSTART:20260619T094000Z
 DTEND:20260619T111500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/15\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T113000Z
 DTEND:20260619T130500Z
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/15\nProwadzący: Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T140000Z
+DTEND:20260619T153500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
 DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/15\nProwadzący: Szymon Chmielewski

@@ -151,13 +151,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 7/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260309T104000Z
-DTEND:20260309T121500Z
-SUMMARY:Wm (w)
-LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260309T123000Z
 DTEND:20260309T140500Z
 SUMMARY:Ja (ć)
@@ -193,18 +186,11 @@ LOCATION:52/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260311T070000Z
-DTEND:20260311T083500Z
-SUMMARY:PiPJ (w)
-LOCATION:20 46
-DESCRIPTION:Plazma i promieniowanie jonizujące w obróbce powierzchni - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260311T085000Z
 DTEND:20260311T102500Z
-SUMMARY:PTer. (w)
-LOCATION:27 70
-DESCRIPTION:Podstawy termowizji - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
+SUMMARY:PiPJ (w)
+LOCATION:12 46
+DESCRIPTION:Plazma i promieniowanie jonizujące w obróbce powierzchni - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T104000Z
@@ -291,11 +277,11 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 14/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260316T104000Z
-DTEND:20260316T121500Z
-SUMMARY:Wm (w)
-LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: -
+DTSTART:20260316T085000Z
+DTEND:20260316T102500Z
+SUMMARY:PTer. (w)
+LOCATION:27 70
+DESCRIPTION:Podstawy termowizji - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T123000Z
@@ -384,20 +370,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T104000Z
 DTEND:20260319T121500Z
-SUMMARY:Po (w)
-LOCATION:8/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Adrian Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260319T123000Z
-DTEND:20260319T140500Z
 SUMMARY:Gśr.PSP (ć)
 LOCATION:86 S
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260319T150000Z
-DTEND:20260319T163500Z
+DTSTART:20260319T123000Z
+DTEND:20260319T140500Z
 SUMMARY:Gśr.PSP (ć)
 LOCATION:86 S
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: -
@@ -470,7 +449,7 @@ DTSTART:20260323T104000Z
 DTEND:20260323T121500Z
 SUMMARY:Wm (w)
 LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T123000Z
@@ -561,7 +540,7 @@ DTSTART:20260326T104000Z
 DTEND:20260326T121500Z
 SUMMARY:Po (w)
 LOCATION:8/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T123000Z
@@ -569,6 +548,13 @@ DTEND:20260326T140500Z
 SUMMARY:SOwBM (w)
 LOCATION:204 136
 DESCRIPTION:Spektroskopia optyczna w biologii, medycynie i chemii - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T150000Z
+DTEND:20260326T163500Z
+SUMMARY:Po (w)
+LOCATION:8/ 62
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T070000Z
@@ -620,18 +606,25 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 25/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260330T060000Z
+DTEND:20260330T073500Z
+SUMMARY:Rou (w)
+LOCATION:51/ 62
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260330T075000Z
 DTEND:20260330T092500Z
-SUMMARY:Rou (w)
+SUMMARY:Wm (w)
 LOCATION:8/ 62
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T094000Z
 DTEND:20260330T111500Z
 SUMMARY:Wm (w)
 LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T113000Z
@@ -655,13 +648,6 @@ LOCATION:20 46
 DESCRIPTION:Plazma i promieniowanie jonizujące w obróbce powierzchni - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260331T075000Z
-DTEND:20260331T092500Z
-SUMMARY:Wm (ć)
-LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260331T094000Z
 DTEND:20260331T111500Z
 SUMMARY:BiO (w)
@@ -681,13 +667,6 @@ DTEND:20260401T073500Z
 SUMMARY:BiO (L)
 LOCATION:233 S
 DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr inż. Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260401T075000Z
-DTEND:20260401T092500Z
-SUMMARY:PTer. (w)
-LOCATION:27 70
-DESCRIPTION:Podstawy termowizji - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T094000Z
@@ -1009,7 +988,7 @@ DTSTART:20260408T094000Z
 DTEND:20260408T111500Z
 SUMMARY:PTer. (w)
 LOCATION:27 70
-DESCRIPTION:Podstawy termowizji - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
+DESCRIPTION:Podstawy termowizji - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T113000Z
@@ -1114,7 +1093,7 @@ DTSTART:20260413T094000Z
 DTEND:20260413T111500Z
 SUMMARY:Wm (w)
 LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T113000Z
@@ -1142,7 +1121,7 @@ DTSTART:20260414T075000Z
 DTEND:20260414T092500Z
 SUMMARY:Wm (ć)
 LOCATION:55/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/13\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T094000Z
@@ -1282,7 +1261,7 @@ DTSTART:20260420T094000Z
 DTEND:20260420T111500Z
 SUMMARY:Wm (w)
 LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T113000Z
@@ -1310,7 +1289,7 @@ DTSTART:20260421T075000Z
 DTEND:20260421T092500Z
 SUMMARY:Wm (ć)
 LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/13\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T094000Z
@@ -1362,6 +1341,13 @@ LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260423T060000Z
+DTEND:20260423T073500Z
+SUMMARY:Wm (w)
+LOCATION:8/ 62
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260423T075000Z
 DTEND:20260423T092500Z
 SUMMARY:PiPJ (w)
@@ -1380,7 +1366,7 @@ DTSTART:20260423T113000Z
 DTEND:20260423T130500Z
 SUMMARY:Wm (ć)
 LOCATION:51/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/13\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260424T060000Z
@@ -1485,7 +1471,7 @@ DTSTART:20260428T113000Z
 DTEND:20260428T130500Z
 SUMMARY:Wm (ć)
 LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/13\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T075000Z
@@ -1542,20 +1528,6 @@ DTEND:20260430T130500Z
 SUMMARY:BiO (L)
 LOCATION:233 S
 DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr inż. Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T140000Z
-DTEND:20260430T153500Z
-SUMMARY:PTer. (L)
-LOCATION:006 144
-DESCRIPTION:Podstawy termowizji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T155000Z
-DTEND:20260430T172500Z
-SUMMARY:PTer. (L)
-LOCATION:006 144
-DESCRIPTION:Podstawy termowizji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260501T060000Z
@@ -1640,6 +1612,27 @@ DTEND:20260504T172500Z
 SUMMARY:JoM (ć)
 LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T060000Z
+DTEND:20260505T073500Z
+SUMMARY:PTer. (L)
+LOCATION:006 144
+DESCRIPTION:Podstawy termowizji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T075000Z
+DTEND:20260505T092500Z
+SUMMARY:PTer. (L)
+LOCATION:006 144
+DESCRIPTION:Podstawy termowizji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T094000Z
+DTEND:20260505T111500Z
+SUMMARY:PTer. (w)
+LOCATION:215 144
+DESCRIPTION:Podstawy termowizji - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T113000Z
@@ -1807,7 +1800,7 @@ DTSTART:20260512T113000Z
 DTEND:20260512T130500Z
 SUMMARY:Wm (ć)
 LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/13\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T075000Z
@@ -1843,20 +1836,6 @@ DTEND:20260513T172500Z
 SUMMARY:Wzr. (L)
 LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260514T060000Z
-DTEND:20260514T073500Z
-SUMMARY:PTT (L)
-LOCATION:13 41 09 41
-DESCRIPTION:Podstawy techniki terahercowej - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260514T075000Z
-DTEND:20260514T092500Z
-SUMMARY:PTT (L)
-LOCATION:13 41 09 41
-DESCRIPTION:Podstawy techniki terahercowej - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T094000Z
@@ -1975,7 +1954,7 @@ DTSTART:20260519T113000Z
 DTEND:20260519T130500Z
 SUMMARY:Wm (ć)
 LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/13\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T075000Z
@@ -1997,6 +1976,20 @@ DTEND:20260520T130500Z
 SUMMARY:Wzr. (L)
 LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T140000Z
+DTEND:20260520T153500Z
+SUMMARY:PTT (L)
+LOCATION:13 41 09 41
+DESCRIPTION:Podstawy techniki terahercowej - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T155000Z
+DTEND:20260520T172500Z
+SUMMARY:PTT (L)
+LOCATION:13 41 09 41
+DESCRIPTION:Podstawy techniki terahercowej - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T060000Z
@@ -2123,6 +2116,13 @@ DTEND:20260526T111500Z
 SUMMARY:Pr.M (Inne)
 LOCATION:13 71
 DESCRIPTION:Propedeutyka medycyny - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T113000Z
+DTEND:20260526T130500Z
+SUMMARY:Wm (ć)
+LOCATION:8/ 62
+DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T075000Z

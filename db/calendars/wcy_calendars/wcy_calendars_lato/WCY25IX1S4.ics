@@ -22,14 +22,14 @@ DTSTART:20260303T104000Z
 DTEND:20260303T121500Z
 SUMMARY:WIT (w)
 LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T123000Z
 DTEND:20260303T140500Z
 SUMMARY:WIT (w)
 LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T070000Z
@@ -99,7 +99,7 @@ DTSTART:20260310T085000Z
 DTEND:20260310T102500Z
 SUMMARY:WIT (w)
 LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T104000Z
@@ -274,7 +274,7 @@ DTSTART:20260324T085000Z
 DTEND:20260324T102500Z
 SUMMARY:WIT (w)
 LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T104000Z
@@ -298,11 +298,18 @@ LOCATION:309 S
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260324T165000Z
+DTEND:20260324T182500Z
+SUMMARY:TCT (w)
+LOCATION:317 S
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T070000Z
 DTEND:20260325T083500Z
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T070000Z
@@ -323,14 +330,21 @@ DTSTART:20260327T070000Z
 DTEND:20260327T083500Z
 SUMMARY:TCT (w)
 LOCATION:307 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T085000Z
 DTEND:20260327T102500Z
 SUMMARY:TCT (w)
 LOCATION:307 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T104000Z
+DTEND:20260327T121500Z
+SUMMARY:WIT (P)
+LOCATION:307 S
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 1/6\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T060000Z
@@ -344,7 +358,7 @@ DTSTART:20260331T075000Z
 DTEND:20260331T092500Z
 SUMMARY:WIT (w)
 LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T094000Z
@@ -382,13 +396,6 @@ LOCATION:308 S
 DESCRIPTION:Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260401T140000Z
-DTEND:20260401T153500Z
-SUMMARY:WIT (P)
-LOCATION:205 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 1/4\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260402T060000Z
 DTEND:20260402T073500Z
 SUMMARY:Soc (w)
@@ -421,14 +428,7 @@ DTSTART:20260408T060000Z
 DTEND:20260408T073500Z
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260409T060000Z
-DTEND:20260409T073500Z
-SUMMARY:Tal (w)
-LOCATION:316 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T075000Z
@@ -438,39 +438,46 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260409T094000Z
-DTEND:20260409T111500Z
-SUMMARY:SBD (L)
-LOCATION:226 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Jarosław Koszela
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260409T113000Z
 DTEND:20260409T130500Z
 SUMMARY:SBD (L)
 LOCATION:226 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T140000Z
 DTEND:20260409T153500Z
 SUMMARY:WIT (L)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T155000Z
 DTEND:20260409T172500Z
 SUMMARY:WIT (L)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T174000Z
+DTEND:20260409T191500Z
+SUMMARY:SBD (L)
+LOCATION:227 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T094000Z
 DTEND:20260410T111500Z
 SUMMARY:TCT (w)
 LOCATION:317 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T113000Z
+DTEND:20260410T130500Z
+SUMMARY:WIT (P)
+LOCATION:201 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 2/6\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T094000Z
@@ -485,6 +492,20 @@ DTEND:20260413T130500Z
 SUMMARY:TCT (L)
 LOCATION:233 S
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/3\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T140000Z
+DTEND:20260413T153500Z
+SUMMARY:WIT (w)
+LOCATION:316 S
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T155000Z
+DTEND:20260413T172500Z
+SUMMARY:WIT (w)
+LOCATION:316 S
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T060000Z
@@ -543,6 +564,13 @@ LOCATION:224 S
 DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260420T113000Z
+DTEND:20260420T130500Z
+SUMMARY:Sme. (P)
+LOCATION:228 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/5\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260421T060000Z
 DTEND:20260421T073500Z
 SUMMARY:Ps (w)
@@ -578,6 +606,13 @@ LOCATION:316 S
 DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260422T140000Z
+DTEND:20260422T153500Z
+SUMMARY:WIT (L)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: mgr inż. Łukasz Paciorek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260423T060000Z
 DTEND:20260423T073500Z
 SUMMARY:Soc (w)
@@ -596,14 +631,14 @@ DTSTART:20260423T094000Z
 DTEND:20260423T111500Z
 SUMMARY:WIT (P)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 2/4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 3/6\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T140000Z
 DTEND:20260423T153500Z
 SUMMARY:TCT (w)
 LOCATION:313 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T075000Z
@@ -639,6 +674,13 @@ DTEND:20260428T153500Z
 SUMMARY:TCT (L)
 LOCATION:237 S
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3\nProwadzący: Jakub Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T060000Z
+DTEND:20260429T073500Z
+SUMMARY:Tal (w)
+LOCATION:313 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T075000Z
@@ -753,11 +795,11 @@ LOCATION:223 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260506T155000Z
-DTEND:20260506T172500Z
-SUMMARY:TCT (w)
-LOCATION:317 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Witold Żorski
+DTSTART:20260507T060000Z
+DTEND:20260507T073500Z
+SUMMARY:Msk. (P)
+LOCATION:224 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Projekt\nNumer zajęć: 1/5\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T075000Z
@@ -765,6 +807,20 @@ DTEND:20260507T092500Z
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T094000Z
+DTEND:20260507T111500Z
+SUMMARY:SBD (P)
+LOCATION:239 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/5\nProwadzący: mgr inż. Arkadiusz Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T113000Z
+DTEND:20260507T130500Z
+SUMMARY:SBD (P)
+LOCATION:239 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/5\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T060000Z
@@ -785,7 +841,14 @@ DTSTART:20260511T094000Z
 DTEND:20260511T111500Z
 SUMMARY:Msk. (L)
 LOCATION:226 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T113000Z
+DTEND:20260511T130500Z
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T075000Z
@@ -816,6 +879,13 @@ LOCATION:317 S
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260513T075000Z
+DTEND:20260513T092500Z
+SUMMARY:WIT (P)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 4/6\nProwadzący: dr inż. Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
 SUMMARY:TCT (L)
@@ -841,14 +911,14 @@ DTSTART:20260514T094000Z
 DTEND:20260514T111500Z
 SUMMARY:WIT (P)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 3/4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 5/6\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T113000Z
 DTEND:20260514T130500Z
 SUMMARY:WIT (P)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 4/4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNumer zajęć: 6/6\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T060000Z
@@ -862,7 +932,7 @@ DTSTART:20260518T075000Z
 DTEND:20260518T092500Z
 SUMMARY:Msk. (L)
 LOCATION:226 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T094000Z
@@ -893,6 +963,20 @@ LOCATION:011 65
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/5\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260519T140000Z
+DTEND:20260519T153500Z
+SUMMARY:Sme. (P)
+LOCATION:223 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/5\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T094000Z
+DTEND:20260520T111500Z
+SUMMARY:Ek (ć)
+LOCATION:308 S
+DESCRIPTION:Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260520T113000Z
 DTEND:20260520T130500Z
 SUMMARY:Swp (L)
@@ -905,6 +989,13 @@ DTEND:20260520T153500Z
 SUMMARY:Swp (L)
 LOCATION:011 65
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T060000Z
+DTEND:20260521T073500Z
+SUMMARY:Msk. (P)
+LOCATION:224 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Projekt\nNumer zajęć: 2/5\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T075000Z
@@ -932,21 +1023,21 @@ DTSTART:20260521T140000Z
 DTEND:20260521T153500Z
 SUMMARY:WIT (L)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T155000Z
 DTEND:20260521T172500Z
 SUMMARY:WIT (L)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260525T075000Z
-DTEND:20260525T092500Z
-SUMMARY:Msk. (L)
+DTSTART:20260525T060000Z
+DTEND:20260525T073500Z
+SUMMARY:Sme. (P)
 LOCATION:226 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/5\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T094000Z
@@ -977,6 +1068,13 @@ LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260526T113000Z
+DTEND:20260526T130500Z
+SUMMARY:Msk. (P)
+LOCATION:227 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Projekt\nNumer zajęć: 3/5\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260527T060000Z
 DTEND:20260527T073500Z
 SUMMARY:Swp (L)
@@ -993,9 +1091,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T094000Z
 DTEND:20260527T111500Z
-SUMMARY:Ek (ć)
-LOCATION:308 S
-DESCRIPTION:Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: -
+SUMMARY:SBD (P)
+LOCATION:236 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/5\nProwadzący: mgr inż. Arkadiusz Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T113000Z
+DTEND:20260527T130500Z
+SUMMARY:SBD (P)
+LOCATION:236 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/5\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T060000Z
@@ -1012,11 +1117,18 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260601T060000Z
+DTEND:20260601T073500Z
+SUMMARY:Sme. (P)
+LOCATION:226 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/5\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260601T075000Z
 DTEND:20260601T092500Z
 SUMMARY:Msk. (L)
 LOCATION:226 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T094000Z
@@ -1051,28 +1163,28 @@ DTSTART:20260602T140000Z
 DTEND:20260602T153500Z
 SUMMARY:Msk. (L)
 LOCATION:236 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T155000Z
 DTEND:20260602T172500Z
 SUMMARY:Msk. (L)
 LOCATION:236 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T060000Z
 DTEND:20260608T073500Z
 SUMMARY:Msk. (L)
 LOCATION:226 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/6\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T075000Z
 DTEND:20260608T092500Z
 SUMMARY:Msk. (L)
 LOCATION:226 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/6\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T094000Z
@@ -1142,28 +1254,28 @@ DTSTART:20260611T140000Z
 DTEND:20260611T153500Z
 SUMMARY:WIT (L)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T155000Z
 DTEND:20260611T172500Z
 SUMMARY:WIT (L)
 LOCATION:106 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T060000Z
 DTEND:20260615T073500Z
 SUMMARY:Msk. (L)
 LOCATION:226 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/6\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T075000Z
 DTEND:20260615T092500Z
 SUMMARY:Msk. (L)
 LOCATION:226 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/6\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T094000Z
@@ -1201,6 +1313,13 @@ LOCATION:011 65
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260616T140000Z
+DTEND:20260616T153500Z
+SUMMARY:Sme. (P)
+LOCATION:252 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Projekt\nNumer zajęć: 5/5\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260618T060000Z
 DTEND:20260618T073500Z
 SUMMARY:Ps (w)
@@ -1213,5 +1332,26 @@ DTEND:20260618T092500Z
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T094000Z
+DTEND:20260618T111500Z
+SUMMARY:Msk. (P)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Projekt\nNumer zajęć: 4/5\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T113000Z
+DTEND:20260618T130500Z
+SUMMARY:Msk. (P)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Projekt\nNumer zajęć: 5/5\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T140000Z
+DTEND:20260618T153500Z
+SUMMARY:SBD (P)
+LOCATION:236 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Projekt\nNumer zajęć: 5/5\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 END:VCALENDAR

@@ -3683,28 +3683,28 @@ DTSTART:20260216T104000Z
 DTEND:20260216T121500Z
 SUMMARY:BD (Inne)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/5\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T123000Z
 DTEND:20260216T140500Z
 SUMMARY:BD (Inne)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/5\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T150000Z
 DTEND:20260216T163500Z
 SUMMARY:BD (Inne)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/5\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T165000Z
 DTEND:20260216T182500Z
 SUMMARY:BD (Inne)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/5\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T070000Z
@@ -3725,7 +3725,7 @@ DTSTART:20260217T104000Z
 DTEND:20260217T121500Z
 SUMMARY:Sm (Inne)
 LOCATION:078 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T085000Z
@@ -3746,14 +3746,14 @@ DTSTART:20260218T123000Z
 DTEND:20260218T140500Z
 SUMMARY:Sm (Inne)
 LOCATION:314 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T104000Z
 DTEND:20260219T121500Z
 SUMMARY:BD (Inne)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/5\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T104000Z
@@ -4106,6 +4106,13 @@ LOCATION:313 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260320T085000Z
+DTEND:20260320T102500Z
+SUMMARY:Wek (L)
+LOCATION:218 65
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/16\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260323T104000Z
 DTEND:20260323T121500Z
 SUMMARY:Zkst (w)
@@ -4201,7 +4208,7 @@ DTSTART:20260326T085000Z
 DTEND:20260326T102500Z
 SUMMARY:Wek (L)
 LOCATION:218 65
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/16\nProwadzący: mgr inż. Alicja Kida
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/16\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T123000Z
@@ -4209,6 +4216,13 @@ DTEND:20260326T140500Z
 SUMMARY:MM (w)
 LOCATION:314 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T165000Z
+DTEND:20260326T182500Z
+SUMMARY:BD (Inne)
+LOCATION:317 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 6/5\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T075000Z
@@ -4307,13 +4321,6 @@ DTEND:20260408T073500Z
 SUMMARY:Wek (w)
 LOCATION:313 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Michał Misztal
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260408T094000Z
-DTEND:20260408T111500Z
-SUMMARY:Wek (L)
-LOCATION:219 65
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/16\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T060000Z
@@ -4489,6 +4496,20 @@ DTEND:20260417T130500Z
 SUMMARY:Pnak (L)
 LOCATION:236 S
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T155000Z
+DTEND:20260417T172500Z
+SUMMARY:BD (Inne)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: (Inne)\nNumer zajęć: 7/5\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T174000Z
+DTEND:20260417T191500Z
+SUMMARY:Sm (Inne)
+LOCATION:314 S
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T060000Z

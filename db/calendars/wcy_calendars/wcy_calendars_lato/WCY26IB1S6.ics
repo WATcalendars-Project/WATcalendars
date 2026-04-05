@@ -1383,6 +1383,13 @@ LOCATION:224 S
 DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: Marcin Sirant
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260310T184000Z
+DTEND:20260310T201500Z
+SUMMARY:TA (w)
+LOCATION:AW 3/038
+DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260311T070000Z
 DTEND:20260311T083500Z
 SUMMARY:SO (w)
@@ -1415,7 +1422,7 @@ DTSTART:20260312T070000Z
 DTEND:20260312T083500Z
 SUMMARY:TA (w)
 LOCATION:AW 3/038
-DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: -
+DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T085000Z
@@ -1451,13 +1458,6 @@ DTEND:20260312T182500Z
 SUMMARY:MWDS (L)
 LOCATION:224 S
 DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: Dawid Maślanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260312T184000Z
-DTEND:20260312T201500Z
-SUMMARY:TA (w)
-LOCATION:AW 3/038
-DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T070000Z
@@ -1558,20 +1558,6 @@ LOCATION:PĆT2
 DESCRIPTION:Zabezpieczenie inżynieryjne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260317T150000Z
-DTEND:20260317T163500Z
-SUMMARY:Sck (L)
-LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260317T165000Z
-DTEND:20260317T182500Z
-SUMMARY:Sck (L)
-LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260318T070000Z
 DTEND:20260318T083500Z
 SUMMARY:TW (ć)
@@ -1668,20 +1654,6 @@ DTEND:20260320T140500Z
 SUMMARY:SNATO (L)
 LOCATION:106 65
 DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: mgr inż. Leszek Kalman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260320T150000Z
-DTEND:20260320T163500Z
-SUMMARY:Sck (L)
-LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260320T165000Z
-DTEND:20260320T182500Z
-SUMMARY:Sck (L)
-LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260321T085000Z
@@ -1863,14 +1835,14 @@ DTSTART:20260326T150000Z
 DTEND:20260326T163500Z
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T165000Z
 DTEND:20260326T182500Z
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T070000Z
@@ -1905,14 +1877,14 @@ DTSTART:20260327T150000Z
 DTEND:20260327T163500Z
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T165000Z
 DTEND:20260327T182500Z
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260328T070000Z
@@ -1967,7 +1939,7 @@ BEGIN:VEVENT
 DTSTART:20260331T075000Z
 DTEND:20260331T092500Z
 SUMMARY:OPW (ć)
-LOCATION:AW 7
+LOCATION:AW 3/043
 DESCRIPTION:Obrona powietrzna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1985,18 +1957,32 @@ LOCATION:AW 3/043
 DESCRIPTION:Podstawy dowodzenia - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260331T140000Z
+DTEND:20260331T153500Z
+SUMMARY:Sck (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T155000Z
+DTEND:20260331T172500Z
+SUMMARY:Sck (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260401T060000Z
 DTEND:20260401T073500Z
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T075000Z
 DTEND:20260401T092500Z
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T094000Z
@@ -2011,6 +1997,20 @@ DTEND:20260401T130500Z
 SUMMARY:SNATO (L)
 LOCATION:106 65
 DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T140000Z
+DTEND:20260401T153500Z
+SUMMARY:Sck (L)
+LOCATION:011 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T155000Z
+DTEND:20260401T172500Z
+SUMMARY:Sck (L)
+LOCATION:011 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T060000Z

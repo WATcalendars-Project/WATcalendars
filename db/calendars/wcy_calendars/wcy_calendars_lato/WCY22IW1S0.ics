@@ -4813,6 +4813,13 @@ LOCATION:223 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260324T150000Z
+DTEND:20260324T163500Z
+SUMMARY:DWiPD (ć)
+LOCATION:204 65
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T070000Z
 DTEND:20260325T083500Z
 SUMMARY:dsk (L)
@@ -4838,7 +4845,7 @@ DTSTART:20260325T123000Z
 DTEND:20260325T140500Z
 SUMMARY:DWiPD (ć)
 LOCATION:205 65
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: -
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T150000Z
@@ -4960,20 +4967,6 @@ LOCATION:011 65
 DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260402T140000Z
-DTEND:20260402T153500Z
-SUMMARY:Sa. (L)
-LOCATION:09 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: Adrian Myśliwiec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260402T155000Z
-DTEND:20260402T172500Z
-SUMMARY:Sa. (L)
-LOCATION:09 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Adrian Myśliwiec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260408T075000Z
 DTEND:20260408T092500Z
 SUMMARY:Zt (w)
@@ -5027,7 +5020,7 @@ DTSTART:20260410T075000Z
 DTEND:20260410T092500Z
 SUMMARY:DWiPD (ć)
 LOCATION:205 65
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: -
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T094000Z
@@ -5179,9 +5172,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T113000Z
 DTEND:20260417T130500Z
-SUMMARY:DWiPD (ć)
-LOCATION:205 65
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: -
+SUMMARY:Sa. (L)
+LOCATION:101 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T140000Z
+DTEND:20260417T153500Z
+SUMMARY:Sa. (L)
+LOCATION:101 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T060000Z
@@ -5249,23 +5249,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T140000Z
 DTEND:20260421T153500Z
-SUMMARY:OPBMR (ć)
-LOCATION:PĆT-TNAP
-DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 28/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T155000Z
 DTEND:20260421T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 28/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 29/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T174000Z
 DTEND:20260421T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 29/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 30/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T075000Z
@@ -5392,13 +5392,6 @@ DTEND:20260428T130500Z
 SUMMARY:MeSK (L)
 LOCATION:227 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Stanisław Skrzypecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260428T140000Z
-DTEND:20260428T153500Z
-SUMMARY:dsk (L)
-LOCATION:125 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T060000Z
@@ -5545,7 +5538,7 @@ DTSTART:20260505T113000Z
 DTEND:20260505T130500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 30/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 31/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T140000Z
@@ -5566,7 +5559,7 @@ DTSTART:20260505T174000Z
 DTEND:20260505T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 31/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 32/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T060000Z
@@ -5695,6 +5688,13 @@ LOCATION:313 S
 DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260511T113000Z
+DTEND:20260511T130500Z
+SUMMARY:dsk (L)
+LOCATION:219 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260512T060000Z
 DTEND:20260512T073500Z
 SUMMARY:Zt (L)
@@ -5720,7 +5720,7 @@ DTSTART:20260512T113000Z
 DTEND:20260512T130500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 32/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 33/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T140000Z
@@ -5741,7 +5741,7 @@ DTSTART:20260512T174000Z
 DTEND:20260512T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 33/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 34/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T060000Z
@@ -6178,13 +6178,6 @@ LOCATION:011 65
 DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260603T140000Z
-DTEND:20260603T153500Z
-SUMMARY:dsk (L)
-LOCATION:011 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: mgr inż. Michał Melaniuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260606T060000Z
 DTEND:20260606T073500Z
 SUMMARY:XWF (ć)
@@ -6225,6 +6218,13 @@ DTEND:20260608T172500Z
 SUMMARY:Pwst (L)
 LOCATION:09 65
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T060000Z
+DTEND:20260609T073500Z
+SUMMARY:OPBMR (ć)
+LOCATION:PĆT-TNAP
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T075000Z
@@ -6374,6 +6374,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 88/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260616T113000Z
+DTEND:20260616T130500Z
+SUMMARY:dsk (L)
+LOCATION:106 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260617T075000Z
 DTEND:20260617T092500Z
 SUMMARY:Pwst (P)
@@ -6435,5 +6442,12 @@ DTEND:20260620T073500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 41/41\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260928T075000Z
+DTEND:20260928T092500Z
+SUMMARY:Sss (Inne)
+LOCATION:011 65
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 END:VCALENDAR

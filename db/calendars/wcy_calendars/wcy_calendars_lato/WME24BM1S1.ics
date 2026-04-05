@@ -53,13 +53,6 @@ LOCATION:52/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260304T085000Z
-DTEND:20260304T102500Z
-SUMMARY:Wdmu (w)
-LOCATION:53/ 62
-DESCRIPTION:Wstęp do modelowania układów biomechanicznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260304T104000Z
 DTEND:20260304T121500Z
 SUMMARY:Rou (w)
@@ -158,13 +151,6 @@ LOCATION:9/ 62
 DESCRIPTION:Wstęp do projektowania w biomechanice - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260309T104000Z
-DTEND:20260309T121500Z
-SUMMARY:Wm (w)
-LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260309T123000Z
 DTEND:20260309T140500Z
 SUMMARY:Ja (ć)
@@ -204,7 +190,7 @@ DTSTART:20260311T085000Z
 DTEND:20260311T102500Z
 SUMMARY:Wdmu (w)
 LOCATION:53/ 62
-DESCRIPTION:Wstęp do modelowania układów biomechanicznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
+DESCRIPTION:Wstęp do modelowania układów biomechanicznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T104000Z
@@ -305,13 +291,6 @@ LOCATION:9/ 62
 DESCRIPTION:Wstęp do projektowania w biomechanice - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260316T104000Z
-DTEND:20260316T121500Z
-SUMMARY:Wm (w)
-LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260316T123000Z
 DTEND:20260316T140500Z
 SUMMARY:Ja (ć)
@@ -351,7 +330,7 @@ DTSTART:20260318T070000Z
 DTEND:20260318T083500Z
 SUMMARY:Wdmu (w)
 LOCATION:53/ 62
-DESCRIPTION:Wstęp do modelowania układów biomechanicznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
+DESCRIPTION:Wstęp do modelowania układów biomechanicznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T085000Z
@@ -387,13 +366,6 @@ DTEND:20260319T102500Z
 SUMMARY:Ebe (ć)
 LOCATION:55/ 62
 DESCRIPTION:English in biomedical engineering - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260319T104000Z
-DTEND:20260319T121500Z
-SUMMARY:Po (w)
-LOCATION:8/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T070000Z
@@ -463,7 +435,7 @@ DTSTART:20260323T104000Z
 DTEND:20260323T121500Z
 SUMMARY:Wm (w)
 LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T123000Z
@@ -547,7 +519,7 @@ DTSTART:20260326T104000Z
 DTEND:20260326T121500Z
 SUMMARY:Po (w)
 LOCATION:8/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T123000Z
@@ -555,6 +527,13 @@ DTEND:20260326T140500Z
 SUMMARY:Sz.P (w)
 LOCATION:116/ 54
 DESCRIPTION:Szybkie prototypowanie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T150000Z
+DTEND:20260326T163500Z
+SUMMARY:Po (w)
+LOCATION:8/ 62
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T070000Z
@@ -606,18 +585,25 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 28/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260330T060000Z
+DTEND:20260330T073500Z
+SUMMARY:Rou (w)
+LOCATION:51/ 62
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260330T075000Z
 DTEND:20260330T092500Z
-SUMMARY:Rou (w)
+SUMMARY:Wm (w)
 LOCATION:8/ 62
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T094000Z
 DTEND:20260330T111500Z
 SUMMARY:Wm (w)
 LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T113000Z
@@ -632,13 +618,6 @@ DTEND:20260330T172500Z
 SUMMARY:JoM (ć)
 LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260331T075000Z
-DTEND:20260331T092500Z
-SUMMARY:Wm (ć)
-LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T094000Z
@@ -667,6 +646,13 @@ DTEND:20260331T172500Z
 SUMMARY:Gśr.PSP (ć)
 LOCATION:82 S 86 S
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T060000Z
+DTEND:20260401T073500Z
+SUMMARY:Sz.P (w)
+LOCATION:120/ 54
+DESCRIPTION:Szybkie prototypowanie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T075000Z
@@ -702,13 +688,6 @@ DTEND:20260402T111500Z
 SUMMARY:Po (w)
 LOCATION:8/ 62
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Adrian Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260402T113000Z
-DTEND:20260402T130500Z
-SUMMARY:Sz.P (w)
-LOCATION:116/ 54
-DESCRIPTION:Szybkie prototypowanie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260403T060000Z
@@ -984,6 +963,13 @@ LOCATION:29/ 54 30/ 54
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260408T140000Z
+DTEND:20260408T153500Z
+SUMMARY:Wdmu (w)
+LOCATION:53/ 62
+DESCRIPTION:Wstęp do modelowania układów biomechanicznych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260409T060000Z
 DTEND:20260409T073500Z
 SUMMARY:Pps (w)
@@ -1057,15 +1043,29 @@ BEGIN:VEVENT
 DTSTART:20260411T094000Z
 DTEND:20260411T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:-
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/13\nProwadzący: -
+LOCATION:315 S
+DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T113000Z
 DTEND:20260411T130500Z
 SUMMARY:XFiz1 (w)
-LOCATION:-
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/13\nProwadzący: -
+LOCATION:315 S
+DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260412T060000Z
+DTEND:20260412T073500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:aF S
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260412T075000Z
+DTEND:20260412T092500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:aF S
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T060000Z
@@ -1086,7 +1086,7 @@ DTSTART:20260413T094000Z
 DTEND:20260413T111500Z
 SUMMARY:Wm (w)
 LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T113000Z
@@ -1114,7 +1114,7 @@ DTSTART:20260414T075000Z
 DTEND:20260414T092500Z
 SUMMARY:Wm (ć)
 LOCATION:55/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/13\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T094000Z
@@ -1253,15 +1253,15 @@ BEGIN:VEVENT
 DTSTART:20260418T094000Z
 DTEND:20260418T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:-
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/13\nProwadzący: -
+LOCATION:315 S
+DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T113000Z
 DTEND:20260418T130500Z
 SUMMARY:XFiz1 (w)
-LOCATION:-
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: -
+LOCATION:315 S
+DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T060000Z
@@ -1282,7 +1282,7 @@ DTSTART:20260420T094000Z
 DTEND:20260420T111500Z
 SUMMARY:Wm (w)
 LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T113000Z
@@ -1310,7 +1310,7 @@ DTSTART:20260421T075000Z
 DTEND:20260421T092500Z
 SUMMARY:Wm (ć)
 LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/13\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T094000Z
@@ -1341,6 +1341,13 @@ LOCATION:29/ 54 30/ 54
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260423T060000Z
+DTEND:20260423T073500Z
+SUMMARY:Wm (w)
+LOCATION:8/ 62
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260423T094000Z
 DTEND:20260423T111500Z
 SUMMARY:Ebe (ć)
@@ -1352,7 +1359,7 @@ DTSTART:20260423T113000Z
 DTEND:20260423T130500Z
 SUMMARY:Wm (ć)
 LOCATION:51/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/13\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260424T060000Z
@@ -1407,15 +1414,29 @@ BEGIN:VEVENT
 DTSTART:20260425T094000Z
 DTEND:20260425T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:-
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13\nProwadzący: -
+LOCATION:315 S
+DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T113000Z
 DTEND:20260425T130500Z
 SUMMARY:XFiz1 (w)
-LOCATION:-
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: -
+LOCATION:315 S
+DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T060000Z
+DTEND:20260426T073500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:19 36 aF S
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T075000Z
+DTEND:20260426T092500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:19 36 aF S
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T060000Z
@@ -1478,7 +1499,7 @@ DTSTART:20260428T113000Z
 DTEND:20260428T130500Z
 SUMMARY:Wm (ć)
 LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/13\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T060000Z
@@ -1747,18 +1768,32 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 98/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260509T075000Z
+DTEND:20260509T092500Z
+SUMMARY:XFiz1 (w)
+LOCATION:315 S
+DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260509T094000Z
 DTEND:20260509T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:-
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: -
+LOCATION:315 S
+DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260509T113000Z
-DTEND:20260509T130500Z
-SUMMARY:XFiz1 (w)
-LOCATION:-
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: -
+DTSTART:20260510T060000Z
+DTEND:20260510T073500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:19 36 aF S
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T075000Z
+DTEND:20260510T092500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:19 36 aF S
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T060000Z
@@ -1814,7 +1849,7 @@ DTSTART:20260512T113000Z
 DTEND:20260512T130500Z
 SUMMARY:Wm (ć)
 LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/13\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T060000Z
@@ -1922,18 +1957,18 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 105/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260516T094000Z
-DTEND:20260516T111500Z
-SUMMARY:XFiz1 (w)
-LOCATION:-
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260516T113000Z
 DTEND:20260516T130500Z
 SUMMARY:XFiz1 (w)
-LOCATION:-
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13\nProwadzący: -
+LOCATION:315 S
+DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T140000Z
+DTEND:20260516T153500Z
+SUMMARY:XFiz1 (w)
+LOCATION:315 S
+DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T060000Z
@@ -1971,13 +2006,6 @@ LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260519T060000Z
-DTEND:20260519T073500Z
-SUMMARY:Sz.P (L)
-LOCATION:29/ 54 30/ 54
-DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260519T075000Z
 DTEND:20260519T092500Z
 SUMMARY:Ebe (ć)
@@ -1996,7 +2024,7 @@ DTSTART:20260519T113000Z
 DTEND:20260519T130500Z
 SUMMARY:Wm (ć)
 LOCATION:8/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/13\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T060000Z
@@ -2018,6 +2046,13 @@ DTEND:20260520T111500Z
 SUMMARY:Wdmu (L)
 LOCATION:53/ 62
 DESCRIPTION:Wstęp do modelowania układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T113000Z
+DTEND:20260520T130500Z
+SUMMARY:Sz.P (L)
+LOCATION:29/ 54 30/ 54
+DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T140000Z
@@ -2114,15 +2149,15 @@ BEGIN:VEVENT
 DTSTART:20260523T094000Z
 DTEND:20260523T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:-
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 11/13\nProwadzący: -
+LOCATION:315 S
+DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 11/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260523T113000Z
 DTEND:20260523T130500Z
 SUMMARY:XFiz1 (w)
-LOCATION:-
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: -
+LOCATION:315 S
+DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T060000Z
@@ -2172,6 +2207,13 @@ DTEND:20260526T111500Z
 SUMMARY:Wzr. (L)
 LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T113000Z
+DTEND:20260526T130500Z
+SUMMARY:Wm (ć)
+LOCATION:8/ 62
+DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T140000Z
@@ -2303,8 +2345,29 @@ BEGIN:VEVENT
 DTSTART:20260530T094000Z
 DTEND:20260530T111500Z
 SUMMARY:XFiz1 (w)
-LOCATION:-
-DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 13/13\nProwadzący: -
+LOCATION:315 S
+DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 13/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T113000Z
+DTEND:20260530T130500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:19 36 aF S
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260531T060000Z
+DTEND:20260531T073500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:19 36 aF S
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260531T075000Z
+DTEND:20260531T092500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:19 36 aF S
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T060000Z
@@ -2587,6 +2650,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 140/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260614T060000Z
+DTEND:20260614T073500Z
+SUMMARY:XFiz1 (ć)
+LOCATION:aF S
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260615T075000Z
 DTEND:20260615T092500Z
 SUMMARY:Sz.P (L)
@@ -2683,6 +2753,13 @@ DTEND:20260619T191500Z
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 147/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260620T094000Z
+DTEND:20260620T111500Z
+SUMMARY:XFiz1 (E)
+LOCATION:aF S
+DESCRIPTION:XFizyka 1 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260622T060000Z

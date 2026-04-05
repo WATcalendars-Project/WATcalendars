@@ -73,9 +73,7 @@ def parse_schedule(html, employees):
             lesson_number_match = re.search(r"\[(\d+)\]", subject_lines[3])
             lesson_number = int(lesson_number_match.group(1)) if lesson_number_match else 0
             lesson_key = (subject_short, lesson_type)
-            lesson_counters[lesson_key] += 1
             max_lessons = max_lessons_count.get(lesson_key) or lesson_number or 0
-            lesson_number_formatted = f"{lesson_counters[lesson_key]}/{max_lessons or '?'}"
             
             info_element = lesson.find("span", class_="info")
             full_subject_info = info_element.text.strip() if info_element else " - "
@@ -116,7 +114,23 @@ def parse_schedule(html, employees):
                 year=date_obj.year, month=date_obj.month, day=date_obj.day
             )
 
+            # Deduplication: Check if an event already exists for this block
+            unique_key = (date_str, block_id, subject_short, lesson_type)
+            existing_lesson = next((l for l in lessons if l.get("_unique_key") == unique_key), None)
+            
+            if existing_lesson:
+                if lecturer_with_title != "-" and lecturer_with_title not in existing_lesson["lecturer"]:
+                    if existing_lesson["lecturer"] == "-":
+                        existing_lesson["lecturer"] = lecturer_with_title
+                    else:
+                        existing_lesson["lecturer"] += ", " + lecturer_with_title
+                continue
+
+            lesson_counters[lesson_key] += 1
+            lesson_number_formatted = f"{lesson_counters[lesson_key]}/{max_lessons or '?'}"
+
             lessons.append({
+                "_unique_key": unique_key,
                 "date": date_str,
                 "start": start_datetime,
                 "end": end_datetime,

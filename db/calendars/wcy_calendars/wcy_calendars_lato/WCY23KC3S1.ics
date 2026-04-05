@@ -1394,7 +1394,7 @@ DTSTART:20260205T150000Z
 DTEND:20260205T163500Z
 SUMMARY:Est (Inne)
 LOCATION:120 65 121 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/3\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/4\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T085000Z
@@ -1443,14 +1443,14 @@ DTSTART:20260219T070000Z
 DTEND:20260219T083500Z
 SUMMARY:Est (Inne)
 LOCATION:125 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/3\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/4\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T085000Z
 DTEND:20260219T102500Z
 SUMMARY:Est (Inne)
 LOCATION:125 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/3\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/4\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T085000Z
@@ -1530,20 +1530,6 @@ LOCATION:203 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260316T070000Z
-DTEND:20260316T083500Z
-SUMMARY:zsw (L)
-LOCATION:125 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/15\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260316T085000Z
-DTEND:20260316T102500Z
-SUMMARY:zsw (L)
-LOCATION:125 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/15\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260316T150000Z
 DTEND:20260316T163500Z
 SUMMARY:Asie (w)
@@ -1563,13 +1549,6 @@ DTEND:20260317T083500Z
 SUMMARY:TpsT (w)
 LOCATION:313 S
 DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260317T085000Z
-DTEND:20260317T102500Z
-SUMMARY:zsw (w)
-LOCATION:203 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T104000Z
@@ -1649,20 +1628,6 @@ LOCATION:308 S
 DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260323T104000Z
-DTEND:20260323T121500Z
-SUMMARY:TpsT (L)
-LOCATION:106 65
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260323T123000Z
-DTEND:20260323T140500Z
-SUMMARY:TpsT (L)
-LOCATION:106 65
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260323T150000Z
 DTEND:20260323T163500Z
 SUMMARY:Asie (w)
@@ -1675,6 +1640,13 @@ DTEND:20260323T182500Z
 SUMMARY:Asie (w)
 LOCATION:316 S
 DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T070000Z
+DTEND:20260324T083500Z
+SUMMARY:zsw (w)
+LOCATION:309 S
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T085000Z
@@ -1702,14 +1674,14 @@ DTSTART:20260325T104000Z
 DTEND:20260325T121500Z
 SUMMARY:zsw (L)
 LOCATION:125 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/15\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T123000Z
 DTEND:20260325T140500Z
 SUMMARY:zsw (L)
 LOCATION:125 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/15\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T150000Z
@@ -1775,6 +1747,13 @@ LOCATION:120 65
 DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260331T060000Z
+DTEND:20260331T073500Z
+SUMMARY:S.OP (Inne)
+LOCATION:317 S
+DESCRIPTION:Spotkanie z opiekunami praktyk\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260331T075000Z
 DTEND:20260331T092500Z
 SUMMARY:zsw (w)
@@ -1793,14 +1772,14 @@ DTSTART:20260331T140000Z
 DTEND:20260331T153500Z
 SUMMARY:Sp (Inne)
 LOCATION:101 65
-DESCRIPTION:Seminarium przeddyplomowe - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/10\nProwadzący: -
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/10\nProwadzący: dr inż. Konrad Wrona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T155000Z
 DTEND:20260331T172500Z
 SUMMARY:Sp (Inne)
 LOCATION:101 65
-DESCRIPTION:Seminarium przeddyplomowe - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/10\nProwadzący: -
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/10\nProwadzący: dr inż. Konrad Wrona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T060000Z
@@ -1835,14 +1814,14 @@ DTSTART:20260402T140000Z
 DTEND:20260402T153500Z
 SUMMARY:Sp (Inne)
 LOCATION:101 65
-DESCRIPTION:Seminarium przeddyplomowe - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/10\nProwadzący: -
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/10\nProwadzący: dr inż. Konrad Wrona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T155000Z
 DTEND:20260402T172500Z
 SUMMARY:Sp (Inne)
 LOCATION:101 65
-DESCRIPTION:Seminarium przeddyplomowe - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/10\nProwadzący: -
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/10\nProwadzący: dr inż. Konrad Wrona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T094000Z
@@ -1863,14 +1842,14 @@ DTSTART:20260408T140000Z
 DTEND:20260408T153500Z
 SUMMARY:Sp (Inne)
 LOCATION:101 65
-DESCRIPTION:Seminarium przeddyplomowe - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/10\nProwadzący: -
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/10\nProwadzący: dr inż. Konrad Wrona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T155000Z
 DTEND:20260408T172500Z
 SUMMARY:Sp (Inne)
 LOCATION:101 65
-DESCRIPTION:Seminarium przeddyplomowe - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 6/10\nProwadzący: -
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 6/10\nProwadzący: dr inż. Konrad Wrona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T060000Z
@@ -1887,18 +1866,25 @@ LOCATION:203 65
 DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260409T094000Z
+DTEND:20260409T111500Z
+SUMMARY:Est (Inne)
+LOCATION:09 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/4\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260410T140000Z
 DTEND:20260410T153500Z
 SUMMARY:Sp (Inne)
 LOCATION:101 65
-DESCRIPTION:Seminarium przeddyplomowe - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 7/10\nProwadzący: -
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 7/10\nProwadzący: dr inż. Konrad Wrona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T155000Z
 DTEND:20260410T172500Z
 SUMMARY:Sp (Inne)
 LOCATION:101 65
-DESCRIPTION:Seminarium przeddyplomowe - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 8/10\nProwadzący: -
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 8/10\nProwadzący: dr inż. Konrad Wrona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T075000Z
@@ -1940,14 +1926,14 @@ DTSTART:20260414T140000Z
 DTEND:20260414T153500Z
 SUMMARY:Sp (Inne)
 LOCATION:101 65
-DESCRIPTION:Seminarium przeddyplomowe - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 9/10\nProwadzący: -
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 9/10\nProwadzący: dr inż. Konrad Wrona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T155000Z
 DTEND:20260414T172500Z
 SUMMARY:Sp (Inne)
 LOCATION:101 65
-DESCRIPTION:Seminarium przeddyplomowe - (Seminarium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 10/10\nProwadzący: -
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 10/10\nProwadzący: dr inż. Konrad Wrona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T060000Z
@@ -2010,28 +1996,28 @@ DTSTART:20260416T094000Z
 DTEND:20260416T111500Z
 SUMMARY:zsw (L)
 LOCATION:125 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/15\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T113000Z
 DTEND:20260416T130500Z
 SUMMARY:zsw (L)
 LOCATION:125 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/15\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T060000Z
 DTEND:20260420T073500Z
 SUMMARY:TpsT (L)
 LOCATION:121 65
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T075000Z
 DTEND:20260420T092500Z
 SUMMARY:TpsT (L)
 LOCATION:121 65
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T094000Z
@@ -2055,6 +2041,20 @@ LOCATION:203 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260422T094000Z
+DTEND:20260422T111500Z
+SUMMARY:TpsT (L)
+LOCATION:106 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T113000Z
+DTEND:20260422T130500Z
+SUMMARY:TpsT (L)
+LOCATION:106 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260423T075000Z
 DTEND:20260423T092500Z
 SUMMARY:Oni (L)
@@ -2066,14 +2066,14 @@ DTSTART:20260423T094000Z
 DTEND:20260423T111500Z
 SUMMARY:zsw (L)
 LOCATION:125 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/15\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T113000Z
 DTEND:20260423T130500Z
 SUMMARY:zsw (L)
 LOCATION:125 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/15\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T060000Z
@@ -2185,14 +2185,14 @@ DTSTART:20260505T060000Z
 DTEND:20260505T073500Z
 SUMMARY:zsw (L)
 LOCATION:125 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/15\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T075000Z
 DTEND:20260505T092500Z
 SUMMARY:zsw (L)
 LOCATION:125 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/15\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T094000Z
@@ -2221,6 +2221,20 @@ DTEND:20260506T172500Z
 SUMMARY:TpsT (L)
 LOCATION:09 65
 DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T094000Z
+DTEND:20260507T111500Z
+SUMMARY:zsw (L)
+LOCATION:125 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T113000Z
+DTEND:20260507T130500Z
+SUMMARY:zsw (L)
+LOCATION:125 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/15\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T075000Z

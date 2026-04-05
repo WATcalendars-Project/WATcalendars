@@ -113,14 +113,7 @@ DTSTART:20251018T060000Z
 DTEND:20251018T073500Z
 SUMMARY:SiKD (Inne)
 LOCATION:313 S
-DESCRIPTION:Spotkanie informacyjne z kierownikiem Dziekanatu\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Adam Kutyła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251018T060000Z
-DTEND:20251018T073500Z
-SUMMARY:SiKD (Inne)
-LOCATION:313 S
-DESCRIPTION:Spotkanie informacyjne z kierownikiem Dziekanatu\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Spotkanie informacyjne z kierownikiem Dziekanatu\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Adam Kutyła, dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T094000Z
@@ -1124,13 +1117,6 @@ LOCATION:307 S
 DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260308T070000Z
-DTEND:20260308T083500Z
-SUMMARY:No (w)
-LOCATION:308 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260308T085000Z
 DTEND:20260308T102500Z
 SUMMARY:Sme. (w)
@@ -1191,7 +1177,7 @@ DTSTART:20260315T070000Z
 DTEND:20260315T083500Z
 SUMMARY:No (w)
 LOCATION:309 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260315T085000Z
@@ -1303,7 +1289,7 @@ DTSTART:20260329T094000Z
 DTEND:20260329T111500Z
 SUMMARY:No (w)
 LOCATION:307 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260329T113000Z
@@ -1366,7 +1352,7 @@ DTSTART:20260412T094000Z
 DTEND:20260412T111500Z
 SUMMARY:No (w)
 LOCATION:307 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260412T113000Z
@@ -1579,6 +1565,13 @@ LOCATION:228 S
 DESCRIPTION:Integracja systemów informatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260517T060000Z
+DTEND:20260517T073500Z
+SUMMARY:No (w)
+LOCATION:307 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260517T075000Z
 DTEND:20260517T092500Z
 SUMMARY:No (L)
@@ -1712,6 +1705,20 @@ LOCATION:120 65
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260531T140000Z
+DTEND:20260531T153500Z
+SUMMARY:Sbay (L)
+LOCATION:224 S
+DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260531T155000Z
+DTEND:20260531T172500Z
+SUMMARY:Sbay (L)
+LOCATION:224 S
+DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260613T075000Z
 DTEND:20260613T092500Z
 SUMMARY:isi (L)
@@ -1731,13 +1738,6 @@ DTEND:20260613T130500Z
 SUMMARY:Swp (L)
 LOCATION:106 65
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: mgr Jerzy Dorobisz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260613T140000Z
-DTEND:20260613T153500Z
-SUMMARY:Ek (w)
-LOCATION:307 S
-DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260614T075000Z
@@ -1810,6 +1810,13 @@ LOCATION:224 S
 DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Projekt\nNumer zajęć: 4/4\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260620T174000Z
+DTEND:20260620T191500Z
+SUMMARY:Ek (w)
+LOCATION:307 S
+DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260621T060000Z
 DTEND:20260621T073500Z
 SUMMARY:Swp (L)
@@ -1822,20 +1829,6 @@ DTEND:20260621T092500Z
 SUMMARY:No (L)
 LOCATION:226 S
 DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260621T094000Z
-DTEND:20260621T111500Z
-SUMMARY:Sbay (L)
-LOCATION:224 S
-DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260621T113000Z
-DTEND:20260621T130500Z
-SUMMARY:Sbay (L)
-LOCATION:224 S
-DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260621T140000Z

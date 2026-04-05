@@ -1439,15 +1439,15 @@ LOCATION:101 65
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260402T113000Z
-DTEND:20260402T130500Z
+DTSTART:20260402T140000Z
+DTEND:20260402T153500Z
 SUMMARY:Wcy (L)
 LOCATION:011 65
 DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260402T140000Z
-DTEND:20260402T153500Z
+DTSTART:20260402T155000Z
+DTEND:20260402T172500Z
 SUMMARY:Wcy (L)
 LOCATION:011 65
 DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Adam Patkowski
@@ -1542,5 +1542,19 @@ DTEND:20260416T111500Z
 SUMMARY:Wcy (w)
 LOCATION:101 65
 DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T113000Z
+DTEND:20260423T130500Z
+SUMMARY:Wcy (E)
+LOCATION:218 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T140000Z
+DTEND:20260504T153500Z
+SUMMARY:Wcy (Inne)
+LOCATION:125 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 END:VCALENDAR

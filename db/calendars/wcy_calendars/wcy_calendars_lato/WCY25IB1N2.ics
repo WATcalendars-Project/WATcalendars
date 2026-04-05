@@ -120,14 +120,7 @@ DTSTART:20251018T060000Z
 DTEND:20251018T073500Z
 SUMMARY:SiKD (Inne)
 LOCATION:313 S
-DESCRIPTION:Spotkanie informacyjne z kierownikiem Dziekanatu\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Adam Kutyła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251018T060000Z
-DTEND:20251018T073500Z
-SUMMARY:SiKD (Inne)
-LOCATION:313 S
-DESCRIPTION:Spotkanie informacyjne z kierownikiem Dziekanatu\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Spotkanie informacyjne z kierownikiem Dziekanatu\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Adam Kutyła, dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T094000Z
@@ -1117,13 +1110,6 @@ LOCATION:309 S
 DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260308T070000Z
-DTEND:20260308T083500Z
-SUMMARY:No (w)
-LOCATION:308 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260308T085000Z
 DTEND:20260308T102500Z
 SUMMARY:Sme. (w)
@@ -1177,7 +1163,7 @@ DTSTART:20260315T070000Z
 DTEND:20260315T083500Z
 SUMMARY:No (w)
 LOCATION:309 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260315T085000Z
@@ -1310,7 +1296,7 @@ DTSTART:20260329T094000Z
 DTEND:20260329T111500Z
 SUMMARY:No (w)
 LOCATION:307 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260329T113000Z
@@ -1380,7 +1366,7 @@ DTSTART:20260412T094000Z
 DTEND:20260412T111500Z
 SUMMARY:No (w)
 LOCATION:307 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260412T113000Z
@@ -1607,6 +1593,13 @@ LOCATION:307 S
 DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260517T060000Z
+DTEND:20260517T073500Z
+SUMMARY:No (w)
+LOCATION:307 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260517T094000Z
 DTEND:20260517T111500Z
 SUMMARY:No (L)
@@ -1754,13 +1747,6 @@ LOCATION:308 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260613T140000Z
-DTEND:20260613T153500Z
-SUMMARY:Ek (w)
-LOCATION:307 S
-DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260614T060000Z
 DTEND:20260614T073500Z
 SUMMARY:No (L)
@@ -1815,6 +1801,13 @@ DTEND:20260620T172500Z
 SUMMARY:ZUI (P)
 LOCATION:226 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNumer zajęć: 6/6\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260620T174000Z
+DTEND:20260620T191500Z
+SUMMARY:Ek (w)
+LOCATION:307 S
+DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260621T060000Z
