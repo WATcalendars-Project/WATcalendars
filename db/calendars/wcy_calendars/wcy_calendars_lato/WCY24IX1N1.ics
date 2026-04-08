@@ -2619,7 +2619,7 @@ DTSTART:20260221T123000Z
 DTEND:20260221T140500Z
 SUMMARY:SO (Inne)
 LOCATION:121 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260222T070000Z
@@ -2633,7 +2633,7 @@ DTSTART:20260222T085000Z
 DTEND:20260222T102500Z
 SUMMARY:SO (Inne)
 LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260222T104000Z
@@ -3047,6 +3047,13 @@ DTEND:20260412T153500Z
 SUMMARY:Sck (L)
 LOCATION:125 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: Karol Szczepanowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T155000Z
+DTEND:20260416T172500Z
+SUMMARY:SO (Inne)
+LOCATION:314 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T155000Z

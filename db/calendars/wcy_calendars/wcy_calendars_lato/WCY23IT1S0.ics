@@ -760,13 +760,6 @@ LOCATION:308 S
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260408T075000Z
-DTEND:20260408T092500Z
-SUMMARY:PZS (w)
-LOCATION:101 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260408T094000Z
 DTEND:20260408T111500Z
 SUMMARY:WF (ć)
@@ -784,7 +777,7 @@ BEGIN:VEVENT
 DTSTART:20260409T075000Z
 DTEND:20260409T092500Z
 SUMMARY:kck (w)
-LOCATION:205 65
+LOCATION:201 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
@@ -793,13 +786,6 @@ DTEND:20260409T111500Z
 SUMMARY:sd (w)
 LOCATION:201 65
 DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Tomasz Pałys
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260409T113000Z
-DTEND:20260409T130500Z
-SUMMARY:JEt (w)
-LOCATION:307 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T060000Z
@@ -890,7 +876,7 @@ DTSTART:20260414T075000Z
 DTEND:20260414T092500Z
 SUMMARY:PZS (w)
 LOCATION:308 S
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T094000Z
@@ -905,6 +891,20 @@ DTEND:20260414T130500Z
 SUMMARY:Pap (w)
 LOCATION:205 65
 DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/7\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T140000Z
+DTEND:20260414T153500Z
+SUMMARY:JEt (w)
+LOCATION:307 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T060000Z
+DTEND:20260415T073500Z
+SUMMARY:PZS (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T075000Z

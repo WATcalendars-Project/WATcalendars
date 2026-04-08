@@ -1880,20 +1880,6 @@ LOCATION:203 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260413T094000Z
-DTEND:20260413T111500Z
-SUMMARY:Ppz (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260413T113000Z
-DTEND:20260413T130500Z
-SUMMARY:Ppz (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260413T155000Z
 DTEND:20260413T172500Z
 SUMMARY:Asie (L)
@@ -1989,14 +1975,14 @@ DTSTART:20260420T060000Z
 DTEND:20260420T073500Z
 SUMMARY:Ppz (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T075000Z
 DTEND:20260420T092500Z
 SUMMARY:Ppz (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T094000Z
@@ -2011,20 +1997,6 @@ DTEND:20260421T111500Z
 SUMMARY:Ppz (w)
 LOCATION:203 65
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260421T113000Z
-DTEND:20260421T130500Z
-SUMMARY:Bsbp (L)
-LOCATION:121 65
-DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Michał Jarosz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260421T140000Z
-DTEND:20260421T153500Z
-SUMMARY:Bsbp (L)
-LOCATION:121 65
-DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T075000Z
@@ -2171,14 +2143,14 @@ DTSTART:20260504T060000Z
 DTEND:20260504T073500Z
 SUMMARY:Ppz (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T075000Z
 DTEND:20260504T092500Z
 SUMMARY:Ppz (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T094000Z
@@ -2209,6 +2181,20 @@ LOCATION:121 65
 DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260506T140000Z
+DTEND:20260506T153500Z
+SUMMARY:Bsbp (L)
+LOCATION:125 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T155000Z
+DTEND:20260506T172500Z
+SUMMARY:Bsbp (L)
+LOCATION:125 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260507T060000Z
 DTEND:20260507T073500Z
 SUMMARY:zsw (L)
@@ -2221,6 +2207,20 @@ DTEND:20260507T092500Z
 SUMMARY:zsw (L)
 LOCATION:011 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T060000Z
+DTEND:20260508T073500Z
+SUMMARY:Ppz (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T075000Z
+DTEND:20260508T092500Z
+SUMMARY:Ppz (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T094000Z

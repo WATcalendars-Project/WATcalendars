@@ -788,13 +788,6 @@ LOCATION:106 65
 DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNumer zajęć: 1/8\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260409T113000Z
-DTEND:20260409T130500Z
-SUMMARY:JEt (w)
-LOCATION:307 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260409T140000Z
 DTEND:20260409T153500Z
 SUMMARY:SKII (L)
@@ -912,6 +905,13 @@ DTEND:20260414T130500Z
 SUMMARY:Oni (w)
 LOCATION:317 S
 DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T140000Z
+DTEND:20260414T153500Z
+SUMMARY:JEt (w)
+LOCATION:307 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T060000Z
@@ -1110,13 +1110,6 @@ LOCATION:125 65
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/20\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260421T094000Z
-DTEND:20260421T111500Z
-SUMMARY:Est (P)
-LOCATION:121 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/5\nProwadzący: dr inż. Michał Jarosz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260422T094000Z
 DTEND:20260422T111500Z
 SUMMARY:WF (ć)
@@ -1143,6 +1136,13 @@ DTEND:20260422T172500Z
 SUMMARY:Asie (L)
 LOCATION:09 65
 DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14\nProwadzący: Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T060000Z
+DTEND:20260423T073500Z
+SUMMARY:Est (P)
+LOCATION:101 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/5\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T075000Z
@@ -1572,6 +1572,13 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260514T075000Z
+DTEND:20260514T092500Z
+SUMMARY:Est (P)
+LOCATION:101 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/5\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260515T060000Z
 DTEND:20260515T073500Z
 SUMMARY:WF (ć)
@@ -1969,13 +1976,6 @@ DTEND:20260602T153500Z
 SUMMARY:Nsk (ć)
 LOCATION:316 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260603T140000Z
-DTEND:20260603T153500Z
-SUMMARY:Est (P)
-LOCATION:121 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/5\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260606T075000Z
