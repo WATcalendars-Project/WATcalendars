@@ -844,13 +844,6 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260414T113000Z
-DTEND:20260414T130500Z
-SUMMARY:MPR (w)
-LOCATION:308 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260414T140000Z
 DTEND:20260414T153500Z
 SUMMARY:Hd (L)
@@ -1002,7 +995,7 @@ DTSTART:20260420T113000Z
 DTEND:20260420T130500Z
 SUMMARY:MPR (w)
 LOCATION:313 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T075000Z
@@ -1135,7 +1128,7 @@ DTSTART:20260428T075000Z
 DTEND:20260428T092500Z
 SUMMARY:MPR (w)
 LOCATION:307 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T094000Z
@@ -1234,6 +1227,13 @@ DTEND:20260504T111500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T113000Z
+DTEND:20260504T130500Z
+SUMMARY:MPR (w)
+LOCATION:307 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T060000Z
