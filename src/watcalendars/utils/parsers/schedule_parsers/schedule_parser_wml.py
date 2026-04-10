@@ -36,8 +36,7 @@ def extract_legend(soup: BeautifulSoup) -> list[tuple[str, str, list[str]]]:
             for n in split_lect(lect_text):
                 if n not in lects:
                     lects.append(n)
-            if not (abbr and full):
-                continue
+            continue
         if full and abbr:
             key = (abbr, full)
             if key in seen:
@@ -233,10 +232,14 @@ def parse_schedule(html: str) -> list[dict]:
                         subject_abbr = line
                         subject_idx = i
                         break
-                    if re.fullmatch(r"[A-ZĄĆĘŁŃÓŚŹŻ]{2,12}[0-9]?", clean):
-                        subject_abbr = line
-                        subject_idx = i
-                        break
+                        
+                if not subject_abbr:
+                    for i, line in enumerate(lines):
+                        clean = line.replace('%', '').strip().upper()
+                        if re.fullmatch(r"[A-ZĄĆĘŁŃÓŚŹŻ]{2,12}[0-9]?", clean):
+                            subject_abbr = line
+                            subject_idx = i
+                            break
                 
                 if not subject_abbr or subject_abbr.upper() == 'SK':
                     return
@@ -250,11 +253,12 @@ def parse_schedule(html: str) -> list[dict]:
                     if i == subject_idx: continue
                     clean = line.strip()
                     
-                    if re.match(r'^(\d{1,3}[\s/]?\d{0,3}[A-Z]?|bud\.\s*\d+)$', clean):
-                        room = clean.replace(' ', '')
-                    elif clean in TYPE_SYMBOLS:
-                        symbol = clean
-                    elif re.match(r'^[A-ZŻŹĆŁŚÓ][a-ząćęłńóśźż]{1,}$', clean) or re.match(r'^[A-ZŻŹĆŁŚÓ]{2,}$', clean):
+                    nsym = normalize_type(clean)
+                    if nsym in TYPE_SYMBOLS:
+                        symbol = nsym
+                    elif any(c.isdigit() for c in clean) or clean.lower().startswith(('bud', 'sala', 's.')):
+                        room = clean
+                    else:
                         lecturer_codes.append(clean)
 
                 lesson_type = normalize_type(symbol)
@@ -265,6 +269,17 @@ def parse_schedule(html: str) -> list[dict]:
                 full_subject_name = subject_legend_full.get(clean_subj_for_lect.upper(), clean_subj_for_lect)
                 
                 subject_display = f"{percent_token} {subject_abbr}".strip() if percent_token else subject_abbr
+                
+                lesson_number_map = {
+                    '08:00': '1-2',
+                    '09:50': '3-4',
+                    '11:40': '5-6',
+                    '13:30': '7-8',
+                    '16:00': '9-10',
+                    '17:50': '11-12',
+                    '19:40': '13-14'
+                }
+                lnum = lesson_number_map.get(start_time, '')
                 
                 try:
                     start_dt = datetime.strptime(start_time, '%H:%M').replace(year=dt.year, month=dt.month, day=dt.day)
@@ -279,7 +294,7 @@ def parse_schedule(html: str) -> list[dict]:
                         'type': lesson_type,
                         'type_full': type_full,
                         'room': room,
-                        'lesson_number': '',
+                        'lesson_number': lnum,
                         'full_subject_name': full_subject_name,
                         'lecturers': lecturers,
                         'full_subject': full_subject_name,
