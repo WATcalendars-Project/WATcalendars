@@ -1490,9 +1490,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T113000Z
 DTEND:20260401T130500Z
+<<<<<<< HEAD
 SUMMARY:Mnmp (w)
 LOCATION:3 67
 DESCRIPTION:Metody numeryczne w mechanice płynów\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Frant Michał
+=======
+SUMMARY:Fra 
+LOCATION:367
+DESCRIPTION:dr inż. Frant Michał\nRodzaj zajęć: -
+>>>>>>> f7d01d74cf2535b617082cd3d311f332b1b569f0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T113000Z
@@ -1556,6 +1562,13 @@ DTEND:20260610T130500Z
 SUMMARY:Pwkl (w)
 LOCATION:9 67
 DESCRIPTION:Projektowanie i wytwarzanie konstrukcji lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Kachel Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T113000Z
+DTEND:20260610T130500Z
+SUMMARY:Kach 
+LOCATION:967
+DESCRIPTION:dr hab. inż. Kachel Stanisław\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T113000Z

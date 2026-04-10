@@ -552,9 +552,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T060000Z
 DTEND:20260428T073500Z
+<<<<<<< HEAD
 SUMMARY:OPBMR (ć)
 LOCATION:
 DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: por. mgr. inż. Jeżak Milena
+=======
+SUMMARY:M.Je 
+LOCATION:
+DESCRIPTION:por. mgr. inż. Jeżak Milena\nRodzaj zajęć: -
+>>>>>>> f7d01d74cf2535b617082cd3d311f332b1b569f0
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T060000Z

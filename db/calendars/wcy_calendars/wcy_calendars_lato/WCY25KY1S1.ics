@@ -2233,7 +2233,7 @@ BEGIN:VEVENT
 DTSTART:20260413T075000Z
 DTEND:20260413T092500Z
 SUMMARY:F1 (ć)
-LOCATION:205 65
+LOCATION:101 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2559,13 +2559,6 @@ LOCATION:219 65
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260430T075000Z
-DTEND:20260430T092500Z
-SUMMARY:F1 (w)
-LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 10/20\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260430T094000Z
 DTEND:20260430T111500Z
 SUMMARY:F1 (L)
@@ -2654,7 +2647,7 @@ DTSTART:20260507T075000Z
 DTEND:20260507T092500Z
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 11/20\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 10/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T094000Z
@@ -2724,7 +2717,7 @@ DTSTART:20260512T094000Z
 DTEND:20260512T111500Z
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 12/20\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 11/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T113000Z
@@ -2745,7 +2738,7 @@ DTSTART:20260514T075000Z
 DTEND:20260514T092500Z
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 13/20\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 12/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T094000Z
@@ -2808,7 +2801,7 @@ DTSTART:20260519T094000Z
 DTEND:20260519T111500Z
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 14/20\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 13/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T060000Z
@@ -2857,7 +2850,7 @@ DTSTART:20260521T075000Z
 DTEND:20260521T092500Z
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 15/20\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 14/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T094000Z
@@ -2920,7 +2913,7 @@ DTSTART:20260526T094000Z
 DTEND:20260526T111500Z
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 16/20\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 15/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T060000Z
@@ -2949,6 +2942,13 @@ DTEND:20260527T130500Z
 SUMMARY:PTk (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 14/14\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T140000Z
+DTEND:20260527T153500Z
+SUMMARY:F1 (w)
+LOCATION:301/ S
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 16/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T155000Z

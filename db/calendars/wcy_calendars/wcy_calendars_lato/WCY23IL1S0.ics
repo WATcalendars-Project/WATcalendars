@@ -679,7 +679,7 @@ BEGIN:VEVENT
 DTSTART:20260409T075000Z
 DTEND:20260409T092500Z
 SUMMARY:kck (w)
-LOCATION:205 65
+LOCATION:201 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
@@ -746,13 +746,6 @@ LOCATION:309 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260413T075000Z
-DTEND:20260413T092500Z
-SUMMARY:Spg (L)
-LOCATION:233 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr Tomasz Gzik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260413T094000Z
 DTEND:20260413T111500Z
 SUMMARY:Hd (w)
@@ -800,13 +793,6 @@ DTEND:20260414T130500Z
 SUMMARY:ASI (L)
 LOCATION:223 S
 DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Stefan Rozmus
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260415T060000Z
-DTEND:20260415T073500Z
-SUMMARY:Spg (w)
-LOCATION:309 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T075000Z
@@ -907,13 +893,6 @@ LOCATION:223 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 2/6\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260420T075000Z
-DTEND:20260420T092500Z
-SUMMARY:Spg (L)
-LOCATION:223 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr Tomasz Gzik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260420T094000Z
 DTEND:20260420T111500Z
 SUMMARY:Hd (w)
@@ -998,13 +977,6 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260427T060000Z
-DTEND:20260427T073500Z
-SUMMARY:Spg (L)
-LOCATION:223 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr Tomasz Gzik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260427T094000Z
 DTEND:20260427T111500Z
 SUMMARY:SBD (w)
@@ -1045,13 +1017,6 @@ DTEND:20260428T130500Z
 SUMMARY:Mzw (w)
 LOCATION:233 S
 DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260429T060000Z
-DTEND:20260429T073500Z
-SUMMARY:Spg (w)
-LOCATION:309 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T075000Z
@@ -1156,7 +1121,7 @@ DTSTART:20260506T060000Z
 DTEND:20260506T073500Z
 SUMMARY:Spg (w)
 LOCATION:309 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T075000Z
@@ -1185,6 +1150,13 @@ DTEND:20260507T073500Z
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T075000Z
+DTEND:20260507T092500Z
+SUMMARY:Spg (w)
+LOCATION:316 S
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T094000Z
@@ -1275,7 +1247,7 @@ DTSTART:20260511T060000Z
 DTEND:20260511T073500Z
 SUMMARY:Spg (L)
 LOCATION:226 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T075000Z
@@ -1362,6 +1334,13 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 21/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260514T075000Z
+DTEND:20260514T092500Z
+SUMMARY:Spg (w)
+LOCATION:309 S
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260515T060000Z
 DTEND:20260515T073500Z
 SUMMARY:WF (ć)
@@ -1439,6 +1418,13 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260519T075000Z
+DTEND:20260519T092500Z
+SUMMARY:Spg (L)
+LOCATION:237 S
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260519T113000Z
 DTEND:20260519T130500Z
 SUMMARY:Hd (L)
@@ -1479,6 +1465,13 @@ DTEND:20260521T073500Z
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 23/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T075000Z
+DTEND:20260521T092500Z
+SUMMARY:Spg (L)
+LOCATION:224 S
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T060000Z
@@ -1527,7 +1520,7 @@ DTSTART:20260525T060000Z
 DTEND:20260525T073500Z
 SUMMARY:Spg (L)
 LOCATION:233 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T075000Z
@@ -1681,7 +1674,7 @@ DTSTART:20260601T060000Z
 DTEND:20260601T073500Z
 SUMMARY:Spg (L)
 LOCATION:233 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T075000Z
@@ -1696,6 +1689,13 @@ DTEND:20260602T073500Z
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T075000Z
+DTEND:20260602T092500Z
+SUMMARY:Spg (L)
+LOCATION:233 S
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T094000Z

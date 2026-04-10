@@ -823,32 +823,11 @@ LOCATION:307 S
 DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260413T113000Z
-DTEND:20260413T130500Z
-SUMMARY:BMU (L)
-LOCATION:224 S
-DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260413T140000Z
-DTEND:20260413T153500Z
-SUMMARY:BMU (L)
-LOCATION:224 S
-DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260414T060000Z
 DTEND:20260414T073500Z
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260414T113000Z
-DTEND:20260414T130500Z
-SUMMARY:MPR (w)
-LOCATION:308 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T140000Z
@@ -1002,7 +981,7 @@ DTSTART:20260420T113000Z
 DTEND:20260420T130500Z
 SUMMARY:MPR (w)
 LOCATION:313 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T075000Z
@@ -1010,6 +989,20 @@ DTEND:20260421T092500Z
 SUMMARY:Tal (P)
 LOCATION:233 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 2/6\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T094000Z
+DTEND:20260421T111500Z
+SUMMARY:BMU (L)
+LOCATION:226 S
+DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T113000Z
+DTEND:20260421T130500Z
+SUMMARY:BMU (L)
+LOCATION:226 S
+DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T075000Z
@@ -1135,7 +1128,7 @@ DTSTART:20260428T075000Z
 DTEND:20260428T092500Z
 SUMMARY:MPR (w)
 LOCATION:307 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T094000Z
@@ -1234,6 +1227,13 @@ DTEND:20260504T111500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/17\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T113000Z
+DTEND:20260504T130500Z
+SUMMARY:MPR (w)
+LOCATION:307 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T060000Z

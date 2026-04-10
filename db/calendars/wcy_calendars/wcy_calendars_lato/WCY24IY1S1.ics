@@ -3522,7 +3522,7 @@ DTSTART:20260202T070000Z
 DTEND:20260202T083500Z
 SUMMARY:SO (Inne)
 LOCATION:121 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T104000Z
@@ -3634,7 +3634,7 @@ DTSTART:20260217T070000Z
 DTEND:20260217T083500Z
 SUMMARY:SO (Inne)
 LOCATION:121 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T104000Z
@@ -3662,7 +3662,7 @@ DTSTART:20260218T085000Z
 DTEND:20260218T102500Z
 SUMMARY:SO (Inne)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/1\nProwadzący: Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T104000Z
@@ -4428,20 +4428,6 @@ LOCATION:317 S
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260413T094000Z
-DTEND:20260413T111500Z
-SUMMARY:Sck (w)
-LOCATION:316 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 9/14\nProwadzący: dr hab. inż. Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260413T113000Z
-DTEND:20260413T130500Z
-SUMMARY:Sck (w)
-LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 10/14\nProwadzący: dr hab. inż. Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260413T140000Z
 DTEND:20260413T153500Z
 SUMMARY:Wkr (L)
@@ -4509,14 +4495,14 @@ DTSTART:20260416T060000Z
 DTEND:20260416T073500Z
 SUMMARY:Sck (w)
 LOCATION:307 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 11/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 9/14\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T075000Z
 DTEND:20260416T092500Z
 SUMMARY:Sck (w)
 LOCATION:307 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 12/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 10/14\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T094000Z
@@ -4524,6 +4510,13 @@ DTEND:20260416T111500Z
 SUMMARY:MM (w)
 LOCATION:313 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T155000Z
+DTEND:20260416T172500Z
+SUMMARY:SO (Inne)
+LOCATION:314 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/2\nProwadzący: Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T060000Z
@@ -4552,20 +4545,6 @@ DTEND:20260420T092500Z
 SUMMARY:Tik (w)
 LOCATION:317 S
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 7/9\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260420T094000Z
-DTEND:20260420T111500Z
-SUMMARY:Sck (w)
-LOCATION:316 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 13/14\nProwadzący: dr hab. inż. Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260420T113000Z
-DTEND:20260420T130500Z
-SUMMARY:Sck (w)
-LOCATION:316 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 14/14\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T140000Z
@@ -4771,6 +4750,13 @@ LOCATION:233 S
 DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260504T140000Z
+DTEND:20260504T153500Z
+SUMMARY:Sck (w)
+LOCATION:313 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 11/14\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260505T075000Z
 DTEND:20260505T092500Z
 SUMMARY:SI (L)
@@ -4953,6 +4939,13 @@ LOCATION:308 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260515T075000Z
+DTEND:20260515T092500Z
+SUMMARY:Sck (w)
+LOCATION:317 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 12/14\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260518T060000Z
 DTEND:20260518T073500Z
 SUMMARY:Sck (L)
@@ -4972,6 +4965,20 @@ DTEND:20260518T111500Z
 SUMMARY:PO (ć)
 LOCATION:309 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T060000Z
+DTEND:20260519T073500Z
+SUMMARY:Sck (w)
+LOCATION:316 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 13/14\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T075000Z
+DTEND:20260519T092500Z
+SUMMARY:Sck (w)
+LOCATION:316 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 14/14\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T094000Z
