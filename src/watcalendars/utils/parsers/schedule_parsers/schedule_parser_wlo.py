@@ -11,9 +11,10 @@ from watcalendars.utils.employees_loader import load_employees
 from watcalendars.utils.log import OK, ERROR, INFO, SUCCESS, WARNING, CHANGED, UNCHANGED, ADDED
 
 
-def extract_legend(soup: BeautifulSoup) -> list[tuple[str, str, list[str]]]:
-    """Extract subject legend with full names and lecturers from the HTML."""
+def extract_legend(soup: BeautifulSoup) -> tuple[list[tuple[str, str, list[str]]], dict[str, str]]:
+    """Extract subject legend with full names and lecturers, and lecturer abbreviations from the HTML."""
     entries: list[tuple[str, str, list[str]]] = []
+    lecturer_abbr_to_full: dict[str, str] = {}
     seen: set[tuple[str, str]] = set()
     norm = lambda s: re.sub(r"\s+", " ", (s or "")).strip()
     is_lect = lambda t: re.search(r"(?i)\b(prof\.|dr|hab\.|mgr|inż\.|inz\.|ppłk|płk|mjr|kpt\.|por\.|ppor\.|chor\.|sierż\.|kpr\.)\b", t or "") is not None
@@ -32,13 +33,15 @@ def extract_legend(soup: BeautifulSoup) -> list[tuple[str, str, list[str]]]:
                 full = norm(re.sub(r"<[^>]+>", " ", td["mergewith"]))
         abbr = td.get_text(strip=True)
         lect_text = norm(full if full else " ".join(td.stripped_strings))
-        if lect_text and is_lect(lect_text) and last_idx is not None:
-            lects = entries[last_idx][2]
-            for n in split_lect(lect_text):
-                if n not in lects:
-                    lects.append(n)
-            if not (abbr and full):
-                continue
+        if lect_text and is_lect(lect_text):
+            if last_idx is not None:
+                lects = entries[last_idx][2]
+                for n in split_lect(lect_text):
+                    if n not in lects:
+                        lects.append(n)
+            if abbr and full:
+                lecturer_abbr_to_full[abbr] = full
+            continue
         if full and abbr:
             key = (abbr, full)
             if key in seen:
@@ -52,7 +55,7 @@ def extract_legend(soup: BeautifulSoup) -> list[tuple[str, str, list[str]]]:
             lects: list[str] = []
             entries.append((abbr, full, lects))
             last_idx = len(entries) - 1
-    return entries
+    return entries, lecturer_abbr_to_full
 
 
 def normalize_type(sym: str) -> str:
@@ -69,7 +72,7 @@ def normalize_type(sym: str) -> str:
     return s
 
 
-def pick_lecturers_for_code(subj: str, code: str, subject_legend_lect: dict, all_lecturers: list[str]) -> list[str]:
+def pick_lecturers_for_code(subj: str, code: str, subject_legend_lect: dict, all_lecturers: list[str], lecturer_abbr_to_full: dict) -> list[str]:
     """Pick lecturers for a subject based on code matching."""
     names = subject_legend_lect.get(subj) or []
     if not names:
@@ -88,13 +91,24 @@ def pick_lecturers_for_code(subj: str, code: str, subject_legend_lect: dict, all
     seen: set[str] = set()
     norm_names = [(full, re.sub(r'[^a-z]', '', undiac(full).lower())) for full in names]
     for code_token in codes:
+        # First, try to match exactly from the legend abbreviation map
+        if code_token in lecturer_abbr_to_full:
+            full = lecturer_abbr_to_full[code_token]
+            if full not in seen:
+                result.append(full)
+                seen.add(full)
+            continue
+            
         k = re.sub(r'[^a-z]', '', undiac(code_token).lower())
         if not k:
             continue
         for full, hay in norm_names:
             if full in seen:
                 continue
-            if all(ch in hay for ch in set(k)):
+            
+            # Use subsequence matching instead of set inclusion
+            it = iter(hay)
+            if all(ch in it for ch in k):
                 result.append(full)
                 seen.add(full)
                 break
@@ -123,7 +137,7 @@ def parse_schedule(html: str) -> list[dict]:
         if m_any:
             year = int(m_any.group(1))
 
-    legend_entries = extract_legend(soup)
+    legend_entries, lecturer_abbr_to_full = extract_legend(soup)
     subject_legend_full: dict[str, str] = {}
     subject_legend_lect: dict[str, list[str]] = {}
     all_lecturers: list[str] = []
@@ -248,7 +262,7 @@ def parse_schedule(html: str) -> list[dict]:
 
                 lesson_type = normalize_type(type_token)
                 type_full = TYPE_FULL_MAP.get(lesson_type, lesson_type or '-')
-                lecturers = pick_lecturers_for_code(subj, lect_code, subject_legend_lect, all_lecturers)
+                lecturers = pick_lecturers_for_code(subj, lect_code, subject_legend_lect, all_lecturers, lecturer_abbr_to_full)
                 full_subject_name = subject_legend_full.get(subj, subj)
                 subject_display = f"{percent_prefix} {subj}".strip() if percent_prefix else subj
 

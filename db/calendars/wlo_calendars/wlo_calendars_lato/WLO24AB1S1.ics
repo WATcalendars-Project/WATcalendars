@@ -606,6 +606,13 @@ LOCATION:1.10/16
 DESCRIPTION:Metodyka Pracy Dyplomowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. Filipek Agnieszka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260603T075000Z
+DTEND:20260603T092500Z
+SUMMARY:PKiPW (ć)
+LOCATION:17b
+DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Małecka Magdalena
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260429T094000Z
 DTEND:20260429T111500Z
 SUMMARY:NiMwA (w)
@@ -618,6 +625,13 @@ DTEND:20260506T111500Z
 SUMMARY:NiMwA (w)
 LOCATION:1.9/16
 DESCRIPTION:Negocjacje i mediacje w administracji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Warchał Arnold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T094000Z
+DTEND:20260603T111500Z
+SUMMARY:PPiPU (ć)
+LOCATION:1/22
+DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T123000Z
@@ -646,6 +660,20 @@ DTEND:20260506T130500Z
 SUMMARY:NiMwA (w)
 LOCATION:1.9/16
 DESCRIPTION:Negocjacje i mediacje w administracji\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Warchał Arnold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T113000Z
+DTEND:20260520T130500Z
+SUMMARY:PKiPW (ć)
+LOCATION:17b
+DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Małecka Magdalena
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T113000Z
+DTEND:20260603T130500Z
+SUMMARY:PPiPU (ć)
+LOCATION:1/22
+DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T113000Z
@@ -848,28 +876,21 @@ DTSTART:20260507T094000Z
 DTEND:20260507T111500Z
 SUMMARY:PPiPU (ć)
 LOCATION:0.6/16
-DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Małecka Magdalena
+DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T094000Z
 DTEND:20260514T111500Z
 SUMMARY:PPiPU (ć)
 LOCATION:0.6/16
-DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Małecka Magdalena
+DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T094000Z
 DTEND:20260521T111500Z
 SUMMARY:PPiPU (ć)
 LOCATION:0.6/16
-DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Małecka Magdalena
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260528T094000Z
-DTEND:20260528T111500Z
-SUMMARY:PPiPU (ć)
-LOCATION:0.6/16
-DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Małecka Magdalena
+DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T094000Z
@@ -883,25 +904,18 @@ DTSTART:20260507T113000Z
 DTEND:20260507T130500Z
 SUMMARY:PPiPU (ć)
 LOCATION:0.6/16
-DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Małecka Magdalena
+DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T113000Z
 DTEND:20260514T130500Z
 SUMMARY:PPiPU (ć)
 LOCATION:0.6/16
-DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Małecka Magdalena
+DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T113000Z
 DTEND:20260521T130500Z
-SUMMARY:PPiPU (ć)
-LOCATION:0.6/16
-DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Małecka Magdalena
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260528T113000Z
-DTEND:20260528T130500Z
 SUMMARY:PPiPU (ć)
 LOCATION:0.6/16
 DESCRIPTION:Prawo pracy i prawo urzędnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Małecka Magdalena
@@ -974,7 +988,7 @@ DTSTART:20260619T060000Z
 DTEND:20260619T073500Z
 SUMMARY:PKiPW (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Małecka Magdalena
+DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T085000Z
@@ -1023,7 +1037,7 @@ DTSTART:20260619T075000Z
 DTEND:20260619T092500Z
 SUMMARY:PKiPW (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Małecka Magdalena
+DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T094000Z
@@ -1037,28 +1051,21 @@ DTSTART:20260515T094000Z
 DTEND:20260515T111500Z
 SUMMARY:PKiPW (ć)
 LOCATION:0.6/16
-DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Małecka Magdalena
+DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T094000Z
 DTEND:20260522T111500Z
 SUMMARY:PKiPW (ć)
 LOCATION:0.6/16
-DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Małecka Magdalena
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260529T094000Z
-DTEND:20260529T111500Z
-SUMMARY:PKiPW (ć)
-LOCATION:0.6/16
-DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Małecka Magdalena
+DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T094000Z
 DTEND:20260612T111500Z
 SUMMARY:PKiPW (ć)
 LOCATION:0.6/16
-DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Małecka Magdalena
+DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T094000Z
@@ -1079,18 +1086,11 @@ DTSTART:20260515T113000Z
 DTEND:20260515T130500Z
 SUMMARY:PKiPW (ć)
 LOCATION:0.6/16
-DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Małecka Magdalena
+DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Małecka Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T113000Z
 DTEND:20260522T130500Z
-SUMMARY:PKiPW (ć)
-LOCATION:0.6/16
-DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Małecka Magdalena
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260529T113000Z
-DTEND:20260529T130500Z
 SUMMARY:PKiPW (ć)
 LOCATION:0.6/16
 DESCRIPTION:Prawo karne i Prawo wykroczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr Małecka Magdalena

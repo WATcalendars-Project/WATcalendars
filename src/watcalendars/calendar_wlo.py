@@ -10,7 +10,7 @@ from datetime import datetime
 from urllib.parse import quote
 
 from watcalendars import DB_DIR, GROUPS_CONFIG, SCHEDULES_CONFIG
-from watcalendars.utils.async_scraper import scrape_urls_async
+from watcalendars.utils.async_scraper import scrape_urls_async, AsyncScraper
 from watcalendars.utils.url_loader import load_url_from_config  
 from watcalendars.utils.groups_loader import load_groups
 from watcalendars.utils.parsers.schedule_parsers.schedule_parser_wlo import parse_schedules
@@ -67,10 +67,50 @@ async def main():
     print(f"{INFO} Groups to scrape: {len(pairs)} (using async scraper for better performance)")
     print(f"URL: {base_url}")
 
-    html_results = await scrape_urls_async(
+    async def custom_wlo_fetch(page, identifier, url):
+        await asyncio.sleep(2) # Natural delay to prevent WAF flagging
+        max_retries = 3
+        for attempt in range(max_retries):
+            try:
+                # Disable navigation timeout exceptions which cause NS_ERROR_ABORT
+                await page.goto(url, timeout=30000, wait_until="domcontentloaded")
+                
+                # Active waiting logic for Incapsula redirect
+                is_incapsula = True
+                html = ""
+                for wait_step in range(15):  # Wait up to 30 seconds for WAF to solve
+                    await asyncio.sleep(2)
+                    try:
+                        html = await page.content()
+                    except Exception:
+                        continue
+                        
+                    if len(html) > 2000 and "Incapsula" not in html:
+                        is_incapsula = False
+                        break
+                        
+                if is_incapsula:
+                    print(f"{WARNING} Group {identifier} intercepted by Incapsula (bytes {len(html)}). Retrying {attempt+1}/{max_retries}...")
+                    continue
+                
+                if len(html) < 1000:
+                    print(f"{WARNING} Extracted HTML for {identifier} is too small (bytes {len(html)}). Retrying {attempt+1}/{max_retries}...")
+                    continue
+
+                print(f"{OK} Scraping {identifier} completed. (bytes {len(html)})")
+                return html
+            except Exception as e:
+                print(f"{WARNING} Error for {identifier} (retry {attempt+1}/{max_retries}): {e}")
+                await asyncio.sleep(3)
+        print(f"{ERROR} Failed to scrape {identifier} after {max_retries} attempts.")
+        return None
+
+    # Use extremely low concurrency (1) to prevent Incapsula bans
+    scraper = AsyncScraper(concurrency=1)
+    html_results = await scraper.scrape_with_custom_logic(
         pairs,
-        progress_label=f"Scraping groups for wlo ({season})",
-        concurrency=10
+        custom_wlo_fetch,
+        progress_label=f"Scraping groups for wlo ({season})"
     )
     print("")
 
