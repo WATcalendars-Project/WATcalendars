@@ -207,6 +207,20 @@ LOCATION:21/ 24
 DESCRIPTION:Korozja\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: mgr inż. Anioł Wojciech
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260506T094000Z
+DTEND:20260506T111500Z
+SUMMARY:Mcer (L)
+LOCATION:15/ 34
+DESCRIPTION:Materiały ceramiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T113000Z
+DTEND:20260506T130500Z
+SUMMARY:Mcer (L)
+LOCATION:15/ 34
+DESCRIPTION:Materiały ceramiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260416T060000Z
 DTEND:20260416T073500Z
 SUMMARY:MPSpaj (w)
@@ -253,7 +267,7 @@ DTSTART:20260416T075000Z
 DTEND:20260416T092500Z
 SUMMARY:Mcer (L)
 LOCATION:15/ 34
-DESCRIPTION:Materiały ceramiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:Materiały ceramiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr inż. Przygucka Dominika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T075000Z
@@ -267,7 +281,7 @@ DTSTART:20260430T075000Z
 DTEND:20260430T092500Z
 SUMMARY:Mcer (L)
 LOCATION:15/ 34
-DESCRIPTION:Materiały ceramiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:Materiały ceramiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T075000Z
@@ -321,9 +335,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T094000Z
 DTEND:20260416T111500Z
-SUMMARY:Mcer (L)
-LOCATION:15/ 34
-DESCRIPTION:Materiały ceramiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+SUMMARY:TP i
+LOCATION:
+DESCRIPTION:Targi pracy WAT\nRodzaj zajęć: i\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T094000Z
@@ -337,7 +351,7 @@ DTSTART:20260430T094000Z
 DTEND:20260430T111500Z
 SUMMARY:Mcer (L)
 LOCATION:15/ 34
-DESCRIPTION:Materiały ceramiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: prof. dr hab.inż. Czujko Tomasz
+DESCRIPTION:Materiały ceramiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: prof. dr hab.inż. Czujko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T094000Z
@@ -387,13 +401,6 @@ DTEND:20260402T153500Z
 SUMMARY:MPSpaj (w)
 LOCATION:26/ 34
 DESCRIPTION:Metaloznawstwo połaczeń spajanych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: płk dr hab. inż. Jóźwik Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T140000Z
-DTEND:20260416T153500Z
-SUMMARY:Mcer (L)
-LOCATION:15/ 34
-DESCRIPTION:Materiały ceramiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Przygucka Dominika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T060000Z

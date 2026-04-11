@@ -473,25 +473,11 @@ LOCATION:2/ 68
 DESCRIPTION:Anatomia człowieka\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/16
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250511T140000Z
-DTEND:20250511T153500Z
-SUMMARY:TwM (L)
-LOCATION:
-DESCRIPTION:Telemonitoring w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250406T155000Z
 DTEND:20250406T172500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 6/21
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250511T155000Z
-DTEND:20250511T172500Z
-SUMMARY:TwM (L)
-LOCATION:
-DESCRIPTION:Telemonitoring w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T174000Z
@@ -540,14 +526,14 @@ DTSTART:20250414T060000Z
 DTEND:20250414T073500Z
 SUMMARY:TwM (L)
 LOCATION:
-DESCRIPTION:Telemonitoring w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12
+DESCRIPTION:Telemonitoring w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250421T060000Z
 DTEND:20250421T073500Z
 SUMMARY:TwM (L)
 LOCATION:
-DESCRIPTION:Telemonitoring w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12
+DESCRIPTION:Telemonitoring w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T060000Z
@@ -631,14 +617,14 @@ DTSTART:20250414T075000Z
 DTEND:20250414T092500Z
 SUMMARY:TwM (L)
 LOCATION:
-DESCRIPTION:Telemonitoring w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12
+DESCRIPTION:Telemonitoring w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250421T075000Z
 DTEND:20250421T092500Z
 SUMMARY:TwM (L)
 LOCATION:
-DESCRIPTION:Telemonitoring w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12
+DESCRIPTION:Telemonitoring w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T075000Z
@@ -837,6 +823,13 @@ LOCATION:
 DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr Korczago Joanna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250526T113000Z
+DTEND:20250526T130500Z
+SUMMARY:TwM (L)
+LOCATION:
+DESCRIPTION:Telemonitoring w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250616T113000Z
 DTEND:20250616T130500Z
 SUMMARY:Ppu. (w)
@@ -869,7 +862,7 @@ DTSTART:20250428T140000Z
 DTEND:20250428T153500Z
 SUMMARY:TwM (L)
 LOCATION:
-DESCRIPTION:Telemonitoring w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12
+DESCRIPTION:Telemonitoring w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T140000Z
@@ -877,6 +870,13 @@ DTEND:20250512T153500Z
 SUMMARY:Fil (ć)
 LOCATION:21/ 135
 DESCRIPTION:Filozofia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr hab. Świniarski Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250526T140000Z
+DTEND:20250526T153500Z
+SUMMARY:TwM (L)
+LOCATION:
+DESCRIPTION:Telemonitoring w medycynie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T155000Z

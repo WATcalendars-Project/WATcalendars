@@ -85,14 +85,14 @@ DTSTART:20250518T060000Z
 DTEND:20250518T073500Z
 SUMMARY:Abm (L)
 LOCATION:7/ 23a
-DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250601T060000Z
 DTEND:20250601T073500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/14
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250608T060000Z
@@ -190,14 +190,14 @@ DTSTART:20250518T075000Z
 DTEND:20250518T092500Z
 SUMMARY:Abm (L)
 LOCATION:7/ 23a
-DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250601T075000Z
 DTEND:20250601T092500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/14
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250608T075000Z
@@ -302,7 +302,7 @@ DTSTART:20250525T094000Z
 DTEND:20250525T111500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/14
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250601T094000Z
@@ -365,7 +365,7 @@ DTSTART:20250427T113000Z
 DTEND:20250427T130500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/14
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250504T113000Z
@@ -393,7 +393,7 @@ DTSTART:20250525T113000Z
 DTEND:20250525T130500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/14
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250601T113000Z
@@ -401,13 +401,6 @@ DTEND:20250601T130500Z
 SUMMARY:Ptw. (ć)
 LOCATION:3/ 23a
 DESCRIPTION:Podstawy techniki wojskowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250608T113000Z
-DTEND:20250608T130500Z
-SUMMARY:Zsw. (L)
-LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250914T113000Z
@@ -424,25 +417,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 5/21
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250427T140000Z
-DTEND:20250427T153500Z
-SUMMARY:Pbaw (L)
-LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/14
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250504T140000Z
-DTEND:20250504T153500Z
-SUMMARY:Zsw. (ć)
-LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. Durejko Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250511T140000Z
 DTEND:20250511T153500Z
 SUMMARY:Zsw. (ć)
 LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250518T140000Z
@@ -459,13 +438,6 @@ LOCATION:15/ 23a
 DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250608T140000Z
-DTEND:20250608T153500Z
-SUMMARY:Zsw. (L)
-LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12\nProwadzący: dr inż. Durejko Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250406T155000Z
 DTEND:20250406T172500Z
 SUMMARY:I 
@@ -473,25 +445,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 6/21
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250504T155000Z
-DTEND:20250504T172500Z
-SUMMARY:Zsw. (ć)
-LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Durejko Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250511T155000Z
 DTEND:20250511T172500Z
 SUMMARY:Zsw. (ć)
 LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Durejko Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250608T155000Z
-DTEND:20250608T172500Z
-SUMMARY:Zsw. (L)
-LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T174000Z
@@ -501,18 +459,11 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 7/21
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250504T174000Z
-DTEND:20250504T191500Z
-SUMMARY:Zsw. (ć)
-LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Durejko Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250511T174000Z
 DTEND:20250511T191500Z
 SUMMARY:Zsw. (ć)
 LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T070000Z
@@ -568,14 +519,7 @@ DTSTART:20250602T060000Z
 DTEND:20250602T073500Z
 SUMMARY:Zsw. (L)
 LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: dr inż. Durejko Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250609T060000Z
-DTEND:20250609T073500Z
-SUMMARY:Abm (L)
-LOCATION:7/ 23a
-DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
+DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T085000Z
@@ -659,14 +603,7 @@ DTSTART:20250602T075000Z
 DTEND:20250602T092500Z
 SUMMARY:Zsw. (L)
 LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr inż. Durejko Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250609T075000Z
-DTEND:20250609T092500Z
-SUMMARY:Abm (L)
-LOCATION:7/ 23a
-DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
+DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T075000Z
@@ -764,7 +701,7 @@ DTSTART:20250602T094000Z
 DTEND:20250602T111500Z
 SUMMARY:Zsw. (L)
 LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T094000Z
@@ -1044,14 +981,7 @@ DTSTART:20250527T060000Z
 DTEND:20250527T073500Z
 SUMMARY:Ptw. (L)
 LOCATION:2/ 23a
-DESCRIPTION:Podstawy techniki wojskowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250603T060000Z
-DTEND:20250603T073500Z
-SUMMARY:Ptw. (L)
-LOCATION:2/ 23a
-DESCRIPTION:Podstawy techniki wojskowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
+DESCRIPTION:Podstawy techniki wojskowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T060000Z
@@ -1170,7 +1100,7 @@ DTSTART:20250603T075000Z
 DTEND:20250603T092500Z
 SUMMARY:Wmi. (L)
 LOCATION:14/ 34; 15/ 34; 26/ 34
-DESCRIPTION:Współczesne materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9
+DESCRIPTION:Współczesne materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: płk dr hab. inż. Jóźwik Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T075000Z
@@ -1269,13 +1199,6 @@ DTEND:20250429T111500Z
 SUMMARY:Man. (ć)
 LOCATION:8/ 62
 DESCRIPTION:Mechanika analityczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T094000Z
-DTEND:20250506T111500Z
-SUMMARY:Zsw. (L)
-LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T094000Z
@@ -1390,32 +1313,11 @@ LOCATION:55/ 62
 DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250429T113000Z
-DTEND:20250429T130500Z
-SUMMARY:Abm (L)
-LOCATION:7/ 23a
-DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T113000Z
-DTEND:20250506T130500Z
-SUMMARY:Zsw. (L)
-LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Durejko Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250513T113000Z
 DTEND:20250513T130500Z
 SUMMARY:Abm (L)
 LOCATION:7/ 23a
-DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250520T113000Z
-DTEND:20250520T130500Z
-SUMMARY:Pbaw (L)
-LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/14
+DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T113000Z
@@ -1481,46 +1383,11 @@ LOCATION:52/ 62
 DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250422T140000Z
-DTEND:20250422T153500Z
-SUMMARY:Pbaw (L)
-LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250429T140000Z
-DTEND:20250429T153500Z
-SUMMARY:Abm (L)
-LOCATION:7/ 23a
-DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T140000Z
-DTEND:20250506T153500Z
-SUMMARY:Zsw. (L)
-LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Durejko Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250513T140000Z
 DTEND:20250513T153500Z
 SUMMARY:Abm (L)
 LOCATION:7/ 23a
-DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250520T140000Z
-DTEND:20250520T153500Z
-SUMMARY:Pbaw (L)
-LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/14
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250527T140000Z
-DTEND:20250527T153500Z
-SUMMARY:Pbaw (L)
-LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14
+DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T140000Z
@@ -1528,20 +1395,6 @@ DTEND:20250610T153500Z
 SUMMARY:Ptts (L)
 LOCATION:2/ 23a
 DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250422T155000Z
-DTEND:20250422T172500Z
-SUMMARY:Pbaw (L)
-LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250527T155000Z
-DTEND:20250527T172500Z
-SUMMARY:Pbaw (L)
-LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T070000Z
@@ -1604,7 +1457,7 @@ DTSTART:20250514T060000Z
 DTEND:20250514T073500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T060000Z
@@ -1688,14 +1541,14 @@ DTSTART:20250514T075000Z
 DTEND:20250514T092500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T075000Z
 DTEND:20250521T092500Z
 SUMMARY:Zsw. (L)
 LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T075000Z
@@ -1807,7 +1660,7 @@ DTSTART:20250521T094000Z
 DTEND:20250521T111500Z
 SUMMARY:Zsw. (L)
 LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T094000Z
@@ -1905,14 +1758,14 @@ DTSTART:20250514T113000Z
 DTEND:20250514T130500Z
 SUMMARY:Ptts (L)
 LOCATION:2/ 23a; 7/ 23a
-DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
+DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T113000Z
 DTEND:20250521T130500Z
 SUMMARY:Zsw. (L)
 LOCATION:26/ 34
-DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Zintegrowane systemy wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T113000Z
@@ -1975,7 +1828,7 @@ DTSTART:20250430T140000Z
 DTEND:20250430T153500Z
 SUMMARY:Wmi. (L)
 LOCATION:14/ 34; 15/ 34; 21/ 24
-DESCRIPTION:Współczesne materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: płk dr hab. inż. Jóźwik Paweł
+DESCRIPTION:Współczesne materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T140000Z

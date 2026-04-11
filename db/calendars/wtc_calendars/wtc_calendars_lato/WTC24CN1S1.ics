@@ -1343,44 +1343,44 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T094000Z
 DTEND:20260416T111500Z
-SUMMARY:Ich (w)
-LOCATION:1 55A
-DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 14/23\nProwadzący: dr inż. Jasek Krzysztof
+SUMMARY:TP i
+LOCATION:
+DESCRIPTION:Targi pracy WAT\nRodzaj zajęć: i\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T094000Z
 DTEND:20260423T111500Z
 SUMMARY:Ich (w)
 LOCATION:1 55A
-DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 15/23\nProwadzący: dr inż. Jasek Krzysztof
+DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 14/23\nProwadzący: dr inż. Jasek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T094000Z
 DTEND:20260611T111500Z
 SUMMARY:Ich (w)
 LOCATION:1 55A
-DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 16/23\nProwadzący: dr inż. Jasek Krzysztof
+DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 15/23\nProwadzący: dr inż. Jasek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T094000Z
 DTEND:20260618T111500Z
 SUMMARY:Ich (w)
 LOCATION:1 55A
-DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 17/23\nProwadzący: dr inż. Jasek Krzysztof
+DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 16/23\nProwadzący: dr inż. Jasek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T123000Z
 DTEND:20260305T140500Z
 SUMMARY:Ich (w)
 LOCATION:1 55A
-DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 18/23\nProwadzący: dr inż. Jasek Krzysztof
+DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 17/23\nProwadzący: dr inż. Jasek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T123000Z
 DTEND:20260312T140500Z
 SUMMARY:Ich (w)
 LOCATION:1 55A
-DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 19/23\nProwadzący: dr inż. Jasek Krzysztof
+DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 18/23\nProwadzący: dr inż. Jasek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T123000Z
@@ -1446,6 +1446,13 @@ LOCATION:Har
 DESCRIPTION:Ochrona przed skażeniami\nRodzaj zajęć: lab/wyj\nNumer zajęć: 8/8\nProwadzący: dr hab. inż Harmata Władysław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260416T140000Z
+DTEND:20260416T153500Z
+SUMMARY:Ich (w)
+LOCATION:1 55A
+DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 19/23\nProwadzący: dr inż. Jasek Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260508T060000Z
 DTEND:20260508T073500Z
 SUMMARY:Ich (w)
@@ -1472,6 +1479,13 @@ DTEND:20260529T073500Z
 SUMMARY:Ich (w)
 LOCATION:1 55A
 DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 23/23\nProwadzący: dr inż. Jasek Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260703T060000Z
+DTEND:20260703T073500Z
+SUMMARY:XFiz1 (Ep)
+LOCATION:aF S
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr inż. Kowiorski Krystian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T075000Z
@@ -1598,5 +1612,124 @@ DTEND:20260529T153500Z
 SUMMARY:Cha (L)
 LOCATION:127/ 14
 DESCRIPTION:Chemia analityczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 38/38\nProwadzący: dr Czubaszek Marzena; dr hab. inż. Szczęśniak Barbara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T094000Z
+DTEND:20260418T111500Z
+SUMMARY:XFiz1 (w)
+LOCATION:19 36
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/11\nProwadzący: dr inż. Kowiorski Krystian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260425T094000Z
+DTEND:20260425T111500Z
+SUMMARY:XFiz1 (w)
+LOCATION:19 36
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: dr inż. Kowiorski Krystian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260509T094000Z
+DTEND:20260509T111500Z
+SUMMARY:XFiz1 (w)
+LOCATION:19 36
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr inż. Kowiorski Krystian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T094000Z
+DTEND:20260516T111500Z
+SUMMARY:XFiz1 (w)
+LOCATION:19 36
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr inż. Kowiorski Krystian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260523T094000Z
+DTEND:20260523T111500Z
+SUMMARY:XFiz1 (w)
+LOCATION:19 36
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/11\nProwadzący: dr inż. Kowiorski Krystian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T094000Z
+DTEND:20260530T111500Z
+SUMMARY:XFiz1 (w)
+LOCATION:19 36
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr inż. Kowiorski Krystian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T113000Z
+DTEND:20260418T130500Z
+SUMMARY:XFiz1 (w)
+LOCATION:19 36
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr inż. Kowiorski Krystian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260425T113000Z
+DTEND:20260425T130500Z
+SUMMARY:XFiz1 (w)
+LOCATION:19 36
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr inż. Kowiorski Krystian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260509T113000Z
+DTEND:20260509T130500Z
+SUMMARY:XFiz1 (w)
+LOCATION:19 36
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr inż. Kowiorski Krystian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T113000Z
+DTEND:20260516T130500Z
+SUMMARY:XFiz1 (w)
+LOCATION:19 36
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr inż. Kowiorski Krystian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260523T113000Z
+DTEND:20260523T130500Z
+SUMMARY:XFiz1 (w)
+LOCATION:19 36
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr inż. Kowiorski Krystian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260620T140000Z
+DTEND:20260620T153500Z
+SUMMARY:XFiz1 (E)
+LOCATION:19 36;aF S
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Kowiorski Krystian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260412T094000Z
+DTEND:20260412T111500Z
+SUMMARY:XFiz1 (L)
+LOCATION:139 S;141 S;142 S
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: dr inż. Larkowski Waldemar; dr inż. Kowiorski Krystian; prof. dr hab. inż. Kłosowicz Stanisław; dr inż. Markowska Olga; mgr Żuchowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T094000Z
+DTEND:20260426T111500Z
+SUMMARY:XFiz1 (L)
+LOCATION:139 S;141 S;142 S
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: dr inż. Larkowski Waldemar; dr inż. Kowiorski Krystian; prof. dr hab. inż. Kłosowicz Stanisław; dr inż. Markowska Olga; mgr Żuchowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T094000Z
+DTEND:20260510T111500Z
+SUMMARY:XFiz1 (L)
+LOCATION:139 S;141 S;142 S
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr inż. Larkowski Waldemar; dr inż. Kowiorski Krystian; prof. dr hab. inż. Kłosowicz Stanisław; dr inż. Markowska Olga; mgr Żuchowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260412T113000Z
+DTEND:20260412T130500Z
+SUMMARY:XFiz1 (L)
+LOCATION:139 S;141 S;142 S
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: dr inż. Larkowski Waldemar; dr inż. Kowiorski Krystian; prof. dr hab. inż. Kłosowicz Stanisław; dr inż. Markowska Olga; mgr Żuchowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T113000Z
+DTEND:20260426T130500Z
+SUMMARY:XFiz1 (L)
+LOCATION:139 S;141 S;142 S
+DESCRIPTION:XFizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Larkowski Waldemar; dr inż. Kowiorski Krystian; prof. dr hab. inż. Kłosowicz Stanisław; dr inż. Markowska Olga; mgr Żuchowska Monika
 END:VEVENT
 END:VCALENDAR

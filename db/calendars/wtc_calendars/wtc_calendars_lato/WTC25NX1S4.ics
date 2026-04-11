@@ -888,9 +888,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T094000Z
 DTEND:20260416T111500Z
-SUMMARY:M (w)
-LOCATION:166 S
-DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: dr Piasecka Joanna
+SUMMARY:TP i
+LOCATION:
+DESCRIPTION:Targi pracy WAT\nRodzaj zajęć: i\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T094000Z
@@ -911,28 +911,28 @@ DTSTART:20260521T094000Z
 DTEND:20260521T111500Z
 SUMMARY:M (w)
 LOCATION:166 S
-DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13\nProwadzący: dr Piasecka Joanna
+DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/13\nProwadzący: dr Piasecka Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T094000Z
 DTEND:20260528T111500Z
 SUMMARY:M (w)
 LOCATION:166 S
-DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: dr Piasecka Joanna
+DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 5/13\nProwadzący: dr Piasecka Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T094000Z
 DTEND:20260611T111500Z
 SUMMARY:M (w)
 LOCATION:166 S
-DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: dr Piasecka Joanna
+DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 6/13\nProwadzący: dr Piasecka Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T094000Z
 DTEND:20260618T111500Z
 SUMMARY:M (w)
 LOCATION:166 S
-DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: dr Piasecka Joanna
+DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 7/13\nProwadzący: dr Piasecka Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T123000Z
@@ -1086,14 +1086,14 @@ DTSTART:20260320T070000Z
 DTEND:20260320T083500Z
 SUMMARY:M (w)
 LOCATION:166 S
-DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: dr Piasecka Joanna
+DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: dr Piasecka Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T060000Z
 DTEND:20260410T073500Z
 SUMMARY:M (w)
 LOCATION:166 S
-DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13\nProwadzący: dr Piasecka Joanna
+DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: dr Piasecka Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T060000Z
@@ -1115,6 +1115,13 @@ DTEND:20260515T073500Z
 SUMMARY:Tep (L)
 LOCATION:97 S
 DESCRIPTION:Technologia elementów półprzewodnikowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr inż. Boguski Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T060000Z
+DTEND:20260529T073500Z
+SUMMARY:M (w)
+LOCATION:166 S
+DESCRIPTION:Matematyka\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13\nProwadzący: dr Piasecka Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T085000Z
@@ -1164,6 +1171,13 @@ DTEND:20260515T092500Z
 SUMMARY:Tep (L)
 LOCATION:97 S
 DESCRIPTION:Technologia elementów półprzewodnikowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Boguski Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T075000Z
+DTEND:20260529T092500Z
+SUMMARY:Wmko (S)
+LOCATION:12/ 34
+DESCRIPTION:Współczesne materiały konstrukcyjne\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/10\nProwadzący: ppłk dr inż. Karczewski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T104000Z
@@ -1283,13 +1297,6 @@ DTEND:20260508T130500Z
 SUMMARY:SWM (L)
 LOCATION:14/ 34
 DESCRIPTION:Struktura i właściwości materiałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Przygucka Dominika
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T113000Z
-DTEND:20260515T130500Z
-SUMMARY:Wmko (S)
-LOCATION:26/ 34
-DESCRIPTION:Współczesne materiały konstrukcyjne\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/10\nProwadzący: ppłk dr inż. Karczewski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T113000Z

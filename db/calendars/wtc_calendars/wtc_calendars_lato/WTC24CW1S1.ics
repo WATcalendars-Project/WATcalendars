@@ -1357,16 +1357,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T094000Z
 DTEND:20260416T111500Z
-SUMMARY:Ich (w)
-LOCATION:1 55A
-DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 14/23\nProwadzący: dr inż. Jasek Krzysztof
+SUMMARY:TP i
+LOCATION:
+DESCRIPTION:Targi pracy WAT\nRodzaj zajęć: i\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T094000Z
 DTEND:20260423T111500Z
 SUMMARY:Ich (w)
 LOCATION:1 55A
-DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 15/23\nProwadzący: dr inż. Jasek Krzysztof
+DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 14/23\nProwadzący: dr inż. Jasek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T094000Z
@@ -1408,28 +1408,28 @@ DTSTART:20260611T094000Z
 DTEND:20260611T111500Z
 SUMMARY:Ich (w)
 LOCATION:1 55A
-DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 16/23\nProwadzący: dr inż. Jasek Krzysztof
+DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 15/23\nProwadzący: dr inż. Jasek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T094000Z
 DTEND:20260618T111500Z
 SUMMARY:Ich (w)
 LOCATION:1 55A
-DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 17/23\nProwadzący: dr inż. Jasek Krzysztof
+DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 16/23\nProwadzący: dr inż. Jasek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T123000Z
 DTEND:20260305T140500Z
 SUMMARY:Ich (w)
 LOCATION:1 55A
-DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 18/23\nProwadzący: dr inż. Jasek Krzysztof
+DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 17/23\nProwadzący: dr inż. Jasek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T123000Z
 DTEND:20260312T140500Z
 SUMMARY:Ich (w)
 LOCATION:1 55A
-DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 19/23\nProwadzący: dr inż. Jasek Krzysztof
+DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 18/23\nProwadzący: dr inż. Jasek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T123000Z
@@ -1493,6 +1493,13 @@ DTEND:20260618T130500Z
 SUMMARY:Ich (ć)
 LOCATION:1 55A
 DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/15\nProwadzący: dr inż. Jasek Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T140000Z
+DTEND:20260416T153500Z
+SUMMARY:Ich (w)
+LOCATION:1 55A
+DESCRIPTION:Inżynieria chemiczna\nRodzaj zajęć: Wykład\nNumer zajęć: 19/23\nProwadzący: dr inż. Jasek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T060000Z

@@ -5065,13 +5065,6 @@ LOCATION:125 65
 DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260413T113000Z
-DTEND:20260413T130500Z
-SUMMARY:TeIP (w)
-LOCATION:307 S
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Tomasz Malinowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260413T140000Z
 DTEND:20260413T153500Z
 SUMMARY:Ja (ć)
@@ -5167,7 +5160,7 @@ DTSTART:20260417T075000Z
 DTEND:20260417T092500Z
 SUMMARY:TeIP (w)
 LOCATION:203 65
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T094000Z
@@ -5356,7 +5349,7 @@ DTSTART:20260427T113000Z
 DTEND:20260427T130500Z
 SUMMARY:TeIP (w)
 LOCATION:203 65
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T060000Z
@@ -5489,7 +5482,7 @@ DTSTART:20260504T113000Z
 DTEND:20260504T130500Z
 SUMMARY:TeIP (w)
 LOCATION:309 S
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T140000Z
@@ -5826,6 +5819,13 @@ DTEND:20260518T073500Z
 SUMMARY:Ja (ć)
 LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 82/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T075000Z
+DTEND:20260518T092500Z
+SUMMARY:TeIP (w)
+LOCATION:317 S
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T113000Z
