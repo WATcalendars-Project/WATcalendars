@@ -510,9 +510,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250620T094000Z
 DTEND:20250620T111500Z
-SUMMARY:Pbaw (S)
-LOCATION:5/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2
+SUMMARY:Msrm (ć)
+LOCATION:09/ 54A
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T094000Z
@@ -645,14 +645,14 @@ DTSTART:20250613T113000Z
 DTEND:20250613T130500Z
 SUMMARY:Msrm (ć)
 LOCATION:09/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250620T113000Z
 DTEND:20250620T130500Z
-SUMMARY:Msrm (ć)
-LOCATION:09/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
+SUMMARY:Ptts (w)
+LOCATION:54/ 62
+DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T113000Z
@@ -750,7 +750,7 @@ DTSTART:20250509T140000Z
 DTEND:20250509T153500Z
 SUMMARY:Ptts (w)
 LOCATION:9/ 62
-DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T140000Z
@@ -925,14 +925,14 @@ DTSTART:20250613T155000Z
 DTEND:20250613T172500Z
 SUMMARY:Ptts (w)
 LOCATION:8/ 62
-DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250620T155000Z
 DTEND:20250620T172500Z
-SUMMARY:Ptts (w)
-LOCATION:9/ 62
-DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Wieczorek Marcin
+SUMMARY:Teak (L)
+LOCATION:7/ 34a
+DESCRIPTION:Techniki eksperymentalne w analizie konstrukcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T155000Z
@@ -1063,9 +1063,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250620T174000Z
 DTEND:20250620T191500Z
-SUMMARY:Teak (L)
-LOCATION:7/ 34a
-DESCRIPTION:Techniki eksperymentalne w analizie konstrukcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5
+SUMMARY:Pbaw (S)
+LOCATION:5/ 23a
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/4\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250627T174000Z
+DTEND:20250627T191500Z
+SUMMARY:Pbaw (S)
+LOCATION:5/ 23a
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/4\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T174000Z
@@ -1336,9 +1343,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250621T075000Z
 DTEND:20250621T092500Z
-SUMMARY:Pbaw (S)
+SUMMARY:Ptw. (ć)
 LOCATION:5/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2
+DESCRIPTION:Podstawy techniki wojskowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250628T075000Z
@@ -1443,7 +1450,7 @@ DTSTART:20250517T094000Z
 DTEND:20250517T111500Z
 SUMMARY:Abm (S)
 LOCATION:2/ 23a
-DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T094000Z
@@ -1476,9 +1483,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250621T094000Z
 DTEND:20250621T111500Z
-SUMMARY:Ptw. (ć)
-LOCATION:5/ 23a
-DESCRIPTION:Podstawy techniki wojskowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
+SUMMARY:Msrm (L)
+LOCATION:14/ 54A; 10/ 54A
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250628T094000Z
@@ -1548,7 +1555,7 @@ DTSTART:20250412T113000Z
 DTEND:20250412T130500Z
 SUMMARY:Msrm (L)
 LOCATION:14/ 54A; 10/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/14\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250419T113000Z
@@ -1609,9 +1616,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T113000Z
 DTEND:20250614T130500Z
-SUMMARY:Msrm (L)
-LOCATION:14/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/14\nProwadzący: dr inż. Rubiec Arkadiusz
+SUMMARY:Abm (S)
+LOCATION:2/ 23a
+DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250621T113000Z
@@ -1756,9 +1763,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250621T140000Z
 DTEND:20250621T153500Z
-SUMMARY:Msrm (L)
-LOCATION:14/ 54A; 10/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14\nProwadzący: dr inż. Rubiec Arkadiusz
+SUMMARY:Pbaw (S)
+LOCATION:5/ 23a
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250628T140000Z
@@ -1828,7 +1835,7 @@ DTSTART:20250426T155000Z
 DTEND:20250426T172500Z
 SUMMARY:Msrm (L)
 LOCATION:14/ 54A; 10/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250503T155000Z
@@ -1843,6 +1850,13 @@ DTEND:20250510T172500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
 DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250517T155000Z
+DTEND:20250517T172500Z
+SUMMARY:Pbaw (S)
+LOCATION:5/ 23a
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T155000Z
@@ -1868,9 +1882,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T155000Z
 DTEND:20250614T172500Z
-SUMMARY:Abm (L)
-LOCATION:7/ 23a
-DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+SUMMARY:Msrm (L)
+LOCATION:14/ 54A
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250621T155000Z
@@ -1878,6 +1892,13 @@ DTEND:20250621T172500Z
 SUMMARY:Ja (w)
 LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Wykład\nNumer zajęć: 16/16\nProwadzący: mgr Kurzela Anna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250628T155000Z
+DTEND:20250628T172500Z
+SUMMARY:Abm (L)
+LOCATION:7/ 23a
+DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250705T155000Z
