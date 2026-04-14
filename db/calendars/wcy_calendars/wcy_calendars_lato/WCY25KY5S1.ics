@@ -2412,6 +2412,13 @@ LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260416T155000Z
+DTEND:20260416T172500Z
+SUMMARY:WdI (Inne)
+LOCATION:226 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/2\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260417T060000Z
 DTEND:20260417T073500Z
 SUMMARY:WdP (L)
@@ -2508,13 +2515,6 @@ DTEND:20260422T172500Z
 SUMMARY:Ja (ć)
 LOCATION:133 K 131 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260422T174000Z
-DTEND:20260422T191500Z
-SUMMARY:HP (ć)
-LOCATION:308 S
-DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T060000Z
@@ -2976,7 +2976,7 @@ DTSTART:20260521T060000Z
 DTEND:20260521T073500Z
 SUMMARY:HP (ć)
 LOCATION:308 S
-DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: -
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T075000Z
@@ -3025,7 +3025,7 @@ DTSTART:20260522T075000Z
 DTEND:20260522T092500Z
 SUMMARY:HP (ć)
 LOCATION:307 S
-DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T094000Z
@@ -3040,6 +3040,13 @@ DTEND:20260522T130500Z
 SUMMARY:Md2 (ć)
 LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: mgr Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T155000Z
+DTEND:20260522T172500Z
+SUMMARY:HP (ć)
+LOCATION:308 S
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T075000Z

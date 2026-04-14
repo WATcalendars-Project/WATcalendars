@@ -543,13 +543,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/30\nProwadzący: mgr Gulan Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250623T060000Z
-DTEND:20250623T073500Z
-SUMMARY:Mat3 (Zp. Ćw)
-LOCATION:54/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr Tomaszewska Justyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250303T085000Z
 DTEND:20250303T102500Z
 SUMMARY:Mt 
@@ -653,6 +646,13 @@ DTEND:20250616T092500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/30\nProwadzący: mgr Gulan Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250623T075000Z
+DTEND:20250623T092500Z
+SUMMARY:Mat3 (Zp. Ćw)
+LOCATION:54/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250707T075000Z

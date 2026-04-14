@@ -11,13 +11,6 @@ LOCATION:9/ 62
 DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250316T070000Z
-DTEND:20250316T083500Z
-SUMMARY:WdPB (w)
-LOCATION:9/ 62
-DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Sybilski Kamil
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250323T070000Z
 DTEND:20250323T083500Z
 SUMMARY:Pps (w)
@@ -92,7 +85,7 @@ DTSTART:20250601T060000Z
 DTEND:20250601T073500Z
 SUMMARY:WdPB (w)
 LOCATION:8/ 62
-DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Sybilski Kamil
+DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250608T060000Z
@@ -127,14 +120,7 @@ DTSTART:20250309T085000Z
 DTEND:20250309T102500Z
 SUMMARY:WdPB (w)
 LOCATION:9/ 62
-DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Sybilski Kamil
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250316T085000Z
-DTEND:20250316T102500Z
-SUMMARY:WdPB (w)
-LOCATION:9/ 62
-DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Sybilski Kamil
+DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250323T085000Z
@@ -921,6 +907,13 @@ LOCATION:
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: mgr inż. Kocoń Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250421T113000Z
+DTEND:20250421T130500Z
+SUMMARY:WdPB (w)
+LOCATION:55/ 62
+DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Sybilski Kamil
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250428T113000Z
 DTEND:20250428T130500Z
 SUMMARY:Wm (ć)
@@ -1003,6 +996,20 @@ DTEND:20250414T153500Z
 SUMMARY:Gśr.PSP (ć)
 LOCATION:
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: mgr inż. Kocoń Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250421T140000Z
+DTEND:20250421T153500Z
+SUMMARY:WdPB (w)
+LOCATION:9/ 62
+DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Sybilski Kamil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T140000Z
+DTEND:20250428T153500Z
+SUMMARY:Als (Zp (III)
+LOCATION:301/ S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: (Zp (III)\nNumer zajęć: 1/1\nProwadzący: dr inż. Pierzchała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T140000Z
@@ -1316,7 +1323,7 @@ BEGIN:VEVENT
 DTSTART:20250624T094000Z
 DTEND:20250624T111500Z
 SUMMARY:Wzr. (Zp/lab.)
-LOCATION:57B/ 62
+LOCATION:56/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji\nRodzaj zajęć: (Zp/lab.)\nNumer zajęć: 1/1\nProwadzący: mgr Kłak-Dziemian Aleksandra
 END:VEVENT
 BEGIN:VEVENT
@@ -1372,7 +1379,7 @@ BEGIN:VEVENT
 DTSTART:20250513T113000Z
 DTEND:20250513T130500Z
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 62
+LOCATION:56/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/13\nProwadzący: mgr Kłak-Dziemian Aleksandra
 END:VEVENT
 BEGIN:VEVENT
@@ -1414,28 +1421,28 @@ BEGIN:VEVENT
 DTSTART:20250520T140000Z
 DTEND:20250520T153500Z
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 62
+LOCATION:56/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/13\nProwadzący: mgr Kłak-Dziemian Aleksandra
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T140000Z
 DTEND:20250527T153500Z
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 62
+LOCATION:56/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/13\nProwadzący: mgr Kłak-Dziemian Aleksandra
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T155000Z
 DTEND:20250520T172500Z
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 62
+LOCATION:56/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/13\nProwadzący: mgr Kłak-Dziemian Aleksandra
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T155000Z
 DTEND:20250527T172500Z
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 62
+LOCATION:56/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/13\nProwadzący: mgr Kłak-Dziemian Aleksandra
 END:VEVENT
 BEGIN:VEVENT

@@ -1117,13 +1117,6 @@ LOCATION:
 DESCRIPTION:POLIGON\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Grzywiński Stanisław; dr inż. Podciechowski Maciej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260415T113000Z
-DTEND:20260415T130500Z
-SUMMARY:WF (w)
-LOCATION:
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr Adamkiewicz Jakub
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260422T113000Z
 DTEND:20260422T130500Z
 SUMMARY:WF (w)
@@ -1395,6 +1388,13 @@ DTEND:20260702T073500Z
 SUMMARY:PKSt (ć)
 LOCATION:0.19/ 135
 DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr Skulska Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T075000Z
+DTEND:20260416T092500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T075000Z

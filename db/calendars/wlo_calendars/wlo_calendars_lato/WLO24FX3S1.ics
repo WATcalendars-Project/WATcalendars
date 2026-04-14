@@ -638,7 +638,7 @@ DTSTART:20260415T060000Z
 DTEND:20260415T073500Z
 SUMMARY:WS 
 LOCATION:
-DESCRIPTION:WS\nRodzaj zajęć: -\nNumer zajęć: 1/4
+DESCRIPTION:WS\nRodzaj zajęć: -\nNumer zajęć: 1/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T060000Z
@@ -715,7 +715,7 @@ DTSTART:20260415T075000Z
 DTEND:20260415T092500Z
 SUMMARY:WS 
 LOCATION:
-DESCRIPTION:WS\nRodzaj zajęć: -\nNumer zajęć: 2/4
+DESCRIPTION:WS\nRodzaj zajęć: -\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T075000Z
@@ -774,11 +774,11 @@ LOCATION:38/20 WLO; 24FX; 3S
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/15\nProwadzący: dr inż. Cypko Edward; dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260415T094000Z
-DTEND:20260415T111500Z
-SUMMARY:WS 
-LOCATION:
-DESCRIPTION:WS\nRodzaj zajęć: -\nNumer zajęć: 3/4
+DTSTART:20260513T094000Z
+DTEND:20260513T111500Z
+SUMMARY:Wm (ć)
+LOCATION:51/62
+DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T094000Z
@@ -802,13 +802,6 @@ LOCATION:51/62
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260415T113000Z
-DTEND:20260415T130500Z
-SUMMARY:WS 
-LOCATION:
-DESCRIPTION:WS\nRodzaj zajęć: -\nNumer zajęć: 4/4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260422T113000Z
 DTEND:20260422T130500Z
 SUMMARY:Sp* (ć)
@@ -821,13 +814,6 @@ DTEND:20260429T130500Z
 SUMMARY:Sp* (L)
 LOCATION:17a/21 WLO; 24FX; 1S
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/15\nProwadzący: dr inż. Woźniak Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260513T113000Z
-DTEND:20260513T130500Z
-SUMMARY:Wm (ć)
-LOCATION:0.19/135
-DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T150000Z
@@ -991,6 +977,13 @@ LOCATION:15/23a
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260507T075000Z
+DTEND:20260507T092500Z
+SUMMARY:Wm (ć)
+LOCATION:51/62
+DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Świerczewski Marek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260514T075000Z
 DTEND:20260514T092500Z
 SUMMARY:Ptr (L)
@@ -1037,14 +1030,21 @@ DTSTART:20260409T094000Z
 DTEND:20260409T111500Z
 SUMMARY:Wm (ć)
 LOCATION:5.17/135
-DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T094000Z
 DTEND:20260416T111500Z
 SUMMARY:Wm (ć)
 LOCATION:1.17/16
-DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Świerczewski Marek
+DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Świerczewski Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T094000Z
+DTEND:20260430T111500Z
+SUMMARY:Wm (ć)
+LOCATION:31/158
+DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T094000Z
@@ -1059,20 +1059,6 @@ DTEND:20260611T111500Z
 SUMMARY:PPL (P)
 LOCATION:0.7/16
 DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/10\nProwadzący: dr inż. Waśniewski Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T113000Z
-DTEND:20260430T130500Z
-SUMMARY:Wm (ć)
-LOCATION:0.8/16
-DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Świerczewski Marek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260507T113000Z
-DTEND:20260507T130500Z
-SUMMARY:Wm (ć)
-LOCATION:5.21/135
-DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T113000Z

@@ -984,13 +984,6 @@ LOCATION:308 S
 DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260427T113000Z
-DTEND:20260427T130500Z
-SUMMARY:Wdis (w)
-LOCATION:307 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260428T060000Z
 DTEND:20260428T073500Z
 SUMMARY:Ja (ć)
@@ -1257,13 +1250,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260511T094000Z
-DTEND:20260511T111500Z
-SUMMARY:Wdis (w)
-LOCATION:307 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260511T113000Z
 DTEND:20260511T130500Z
 SUMMARY:Tal (P)
@@ -1474,11 +1460,25 @@ LOCATION:224 S
 DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260521T094000Z
+DTEND:20260521T111500Z
+SUMMARY:Wdis (w)
+LOCATION:223 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260522T060000Z
 DTEND:20260522T073500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T094000Z
+DTEND:20260522T111500Z
+SUMMARY:Wdis (w)
+LOCATION:316 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T113000Z
@@ -1563,6 +1563,20 @@ DTEND:20260526T111500Z
 SUMMARY:Hd (L)
 LOCATION:228 S
 DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T140000Z
+DTEND:20260526T153500Z
+SUMMARY:Wdis (L)
+LOCATION:237 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T155000Z
+DTEND:20260526T172500Z
+SUMMARY:Wdis (L)
+LOCATION:237 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T060000Z
@@ -1705,6 +1719,20 @@ LOCATION:223 S
 DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260602T113000Z
+DTEND:20260602T130500Z
+SUMMARY:Wdis (L)
+LOCATION:237 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T140000Z
+DTEND:20260602T153500Z
+SUMMARY:Wdis (L)
+LOCATION:237 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260606T075000Z
 DTEND:20260606T092500Z
 SUMMARY:XWF (ć)
@@ -1738,6 +1766,20 @@ DTEND:20260608T130500Z
 SUMMARY:Pjf (L)
 LOCATION:228 S
 DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T140000Z
+DTEND:20260608T153500Z
+SUMMARY:Wdis (L)
+LOCATION:223 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T155000Z
+DTEND:20260608T172500Z
+SUMMARY:Wdis (L)
+LOCATION:223 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T060000Z
@@ -1878,6 +1920,20 @@ DTEND:20260616T092500Z
 SUMMARY:Tal (P)
 LOCATION:224 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 6/6\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T094000Z
+DTEND:20260616T111500Z
+SUMMARY:Wdis (L)
+LOCATION:237 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T113000Z
+DTEND:20260616T130500Z
+SUMMARY:Wdis (L)
+LOCATION:237 S
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T094000Z
