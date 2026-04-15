@@ -662,13 +662,6 @@ LOCATION:aula/ 135
 DESCRIPTION:DN\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260609T075000Z
-DTEND:20260609T092500Z
-SUMMARY:In (ć)
-LOCATION:7 25
-DESCRIPTION:Informatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260317T104000Z
 DTEND:20260317T121500Z
 SUMMARY:DSiSM (w)
@@ -709,6 +702,13 @@ DTEND:20260428T111500Z
 SUMMARY:Pwd (w)
 LOCATION:19 36
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Rybiński Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T094000Z
+DTEND:20260505T111500Z
+SUMMARY:In (ć)
+LOCATION:17 25
+DESCRIPTION:Informatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T094000Z

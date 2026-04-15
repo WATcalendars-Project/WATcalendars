@@ -1449,8 +1449,8 @@ BEGIN:VEVENT
 DTSTART:20250517T094000Z
 DTEND:20250517T111500Z
 SUMMARY:Abm (S)
-LOCATION:2/ 23a
-DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+LOCATION:52/ 62
+DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T094000Z
@@ -1616,16 +1616,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T113000Z
 DTEND:20250614T130500Z
-SUMMARY:Abm (S)
-LOCATION:2/ 23a
-DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
+SUMMARY:Msrm (L)
+LOCATION:14/ 54A
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250621T113000Z
 DTEND:20250621T130500Z
 SUMMARY:Msrm (L)
 LOCATION:14/ 54A; 10/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250628T113000Z
@@ -1709,7 +1709,7 @@ DTSTART:20250426T140000Z
 DTEND:20250426T153500Z
 SUMMARY:Msrm (L)
 LOCATION:14/ 54A; 10/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250503T140000Z
@@ -1758,7 +1758,7 @@ DTSTART:20250614T140000Z
 DTEND:20250614T153500Z
 SUMMARY:Msrm (L)
 LOCATION:14/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250621T140000Z
@@ -1835,7 +1835,7 @@ DTSTART:20250426T155000Z
 DTEND:20250426T172500Z
 SUMMARY:Msrm (L)
 LOCATION:14/ 54A; 10/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250503T155000Z
@@ -1878,13 +1878,6 @@ DTEND:20250607T172500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 65/70
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250614T155000Z
-DTEND:20250614T172500Z
-SUMMARY:Msrm (L)
-LOCATION:14/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250621T155000Z

@@ -1306,6 +1306,13 @@ LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260617T094000Z
+DTEND:20260617T111500Z
+SUMMARY:Wzopt (L)
+LOCATION:10 70;11 7
+DESCRIPTION:Wybrane zagadnienia optoelektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Prokopiuk Artur
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260311T123000Z
 DTEND:20260311T140500Z
 SUMMARY:DGB (ć)
@@ -1346,6 +1353,13 @@ DTEND:20260603T130500Z
 SUMMARY:DGB (ć)
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T113000Z
+DTEND:20260617T130500Z
+SUMMARY:Wzopt (L)
+LOCATION:10 70;11 7
+DESCRIPTION:Wybrane zagadnienia optoelektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Prokopiuk Artur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T150000Z
@@ -1715,8 +1729,8 @@ BEGIN:VEVENT
 DTSTART:20260528T113000Z
 DTEND:20260528T130500Z
 SUMMARY:Wzopt (L)
-LOCATION:10 70;9 70
-DESCRIPTION:Wybrane zagadnienia optoelektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Prokopiuk Artur
+LOCATION:9 70;11 70
+DESCRIPTION:Wybrane zagadnienia optoelektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Achtenberg Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T140000Z
@@ -1743,8 +1757,8 @@ BEGIN:VEVENT
 DTSTART:20260528T140000Z
 DTEND:20260528T153500Z
 SUMMARY:Wzopt (L)
-LOCATION:10 70;9 70
-DESCRIPTION:Wybrane zagadnienia optoelektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Prokopiuk Artur
+LOCATION:9 70;11 70
+DESCRIPTION:Wybrane zagadnienia optoelektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Achtenberg Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T165000Z

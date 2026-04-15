@@ -2083,13 +2083,6 @@ LOCATION:120 65
 DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/14\nProwadzący: Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260422T075000Z
-DTEND:20260422T092500Z
-SUMMARY:zsw (w)
-LOCATION:203 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260422T094000Z
 DTEND:20260422T111500Z
 SUMMARY:Sbs (L)
@@ -2305,6 +2298,13 @@ DTEND:20260505T092500Z
 SUMMARY:Oni (P)
 LOCATION:106 65
 DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNumer zajęć: 3/8\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T094000Z
+DTEND:20260505T111500Z
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T140000Z

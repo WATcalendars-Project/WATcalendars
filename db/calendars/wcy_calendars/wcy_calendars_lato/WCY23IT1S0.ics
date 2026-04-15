@@ -1047,6 +1047,20 @@ LOCATION:309 S
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260420T140000Z
+DTEND:20260420T153500Z
+SUMMARY:SoU (L)
+LOCATION:121 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/20\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T155000Z
+DTEND:20260420T172500Z
+SUMMARY:SoU (L)
+LOCATION:121 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/20\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260421T060000Z
 DTEND:20260421T073500Z
 SUMMARY:kdm (w)
@@ -1136,20 +1150,6 @@ DTEND:20260425T092500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260427T060000Z
-DTEND:20260427T073500Z
-SUMMARY:SoU (L)
-LOCATION:125 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/20\nProwadzący: mgr Jerzy Dorobisz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260427T075000Z
-DTEND:20260427T092500Z
-SUMMARY:SoU (L)
-LOCATION:125 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/20\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T094000Z

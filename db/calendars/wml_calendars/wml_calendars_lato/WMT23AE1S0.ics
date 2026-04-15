@@ -764,7 +764,7 @@ DTSTART:20260428T060000Z
 DTEND:20260428T073500Z
 SUMMARY:Uiso (L)
 LOCATION:301 136;14
-DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Ligienza Andrzej
+DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Jakubaszek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T060000Z
@@ -777,8 +777,8 @@ BEGIN:VEVENT
 DTSTART:20260512T060000Z
 DTEND:20260512T073500Z
 SUMMARY:Uiso (L)
-LOCATION:215 S;11 7
-DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Pawlikowska Estera
+LOCATION:215 S;6 46
+DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. (prof. ucz.) Wojtas Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T060000Z
@@ -798,8 +798,8 @@ BEGIN:VEVENT
 DTSTART:20260609T060000Z
 DTEND:20260609T073500Z
 SUMMARY:Uiso (L)
-LOCATION:215 S;11 7
-DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Pawlikowska Estera
+LOCATION:215 S;6 46
+DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. (prof. ucz.) Wojtas Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T060000Z
@@ -855,7 +855,7 @@ DTSTART:20260428T075000Z
 DTEND:20260428T092500Z
 SUMMARY:Uiso (L)
 LOCATION:301 136;14
-DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Ligienza Andrzej
+DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Jakubaszek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T075000Z
@@ -868,8 +868,8 @@ BEGIN:VEVENT
 DTSTART:20260512T075000Z
 DTEND:20260512T092500Z
 SUMMARY:Uiso (L)
-LOCATION:215 S;11 7
-DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Pawlikowska Estera
+LOCATION:215 S;6 46
+DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. (prof. ucz.) Wojtas Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T075000Z
@@ -889,8 +889,8 @@ BEGIN:VEVENT
 DTSTART:20260609T075000Z
 DTEND:20260609T092500Z
 SUMMARY:Uiso (L)
-LOCATION:215 S;11 7
-DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Pawlikowska Estera
+LOCATION:215 S;6 46
+DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. (prof. ucz.) Wojtas Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T075000Z
@@ -968,6 +968,20 @@ DTEND:20260519T111500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: ppłk mgr Ryś Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T094000Z
+DTEND:20260526T111500Z
+SUMMARY:Uiso (L)
+LOCATION:14 41
+DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Pawlikowska Estera
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T094000Z
+DTEND:20260616T111500Z
+SUMMARY:Uiso (L)
+LOCATION:14 41
+DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Pawlikowska Estera
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T123000Z
@@ -1103,6 +1117,13 @@ LOCATION:17 25
 DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż. Cieplak Kamil
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260526T140000Z
+DTEND:20260526T153500Z
+SUMMARY:Uiso (L)
+LOCATION:11 70
+DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż. Pawlikowska Estera
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T165000Z
 DTEND:20260310T182500Z
 SUMMARY:SSW 
@@ -1143,6 +1164,13 @@ DTEND:20260505T172500Z
 SUMMARY:NTW (L)
 LOCATION:17 25
 DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: mgr inż. Cieplak Kamil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T155000Z
+DTEND:20260526T172500Z
+SUMMARY:Uiso (L)
+LOCATION:11 70
+DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: mgr inż. Pawlikowska Estera
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T184000Z
@@ -2027,6 +2055,13 @@ LOCATION:104 63A
 DESCRIPTION:Elektronika i sygnały\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Pustkowski Remigiusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260612T060000Z
+DTEND:20260612T073500Z
+SUMMARY:Uiso (L)
+LOCATION:11 70
+DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Pawlikowska Estera
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260619T060000Z
 DTEND:20260619T073500Z
 SUMMARY:Eisy (L)
@@ -2095,6 +2130,13 @@ DTEND:20260529T092500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppłk mgr Ryś Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T075000Z
+DTEND:20260612T092500Z
+SUMMARY:Uiso (L)
+LOCATION:11 70
+DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Pawlikowska Estera
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T075000Z
@@ -2178,7 +2220,7 @@ DTSTART:20260619T094000Z
 DTEND:20260619T111500Z
 SUMMARY:Uiso (L)
 LOCATION:301 136;14
-DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Ligienza Andrzej
+DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Jakubaszek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T123000Z
@@ -2227,7 +2269,7 @@ DTSTART:20260619T113000Z
 DTEND:20260619T130500Z
 SUMMARY:Uiso (L)
 LOCATION:301 136;14
-DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: mgr inż. Ligienza Andrzej
+DESCRIPTION:Urządzenia i systemy optoelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Jakubaszek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T140000Z

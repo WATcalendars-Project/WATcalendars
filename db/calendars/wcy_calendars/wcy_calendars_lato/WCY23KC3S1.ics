@@ -2034,13 +2034,6 @@ LOCATION:203 65
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260422T075000Z
-DTEND:20260422T092500Z
-SUMMARY:zsw (w)
-LOCATION:203 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260422T094000Z
 DTEND:20260422T111500Z
 SUMMARY:TpsT (L)
@@ -2193,6 +2186,13 @@ DTEND:20260505T092500Z
 SUMMARY:zsw (L)
 LOCATION:125 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T094000Z
+DTEND:20260505T111500Z
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T094000Z

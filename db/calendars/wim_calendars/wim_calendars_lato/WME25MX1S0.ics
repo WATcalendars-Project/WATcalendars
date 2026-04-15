@@ -228,13 +228,6 @@ LOCATION:2/ 68
 DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 4/21\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250427T094000Z
-DTEND:20250427T111500Z
-SUMMARY:Bp. (ć)
-LOCATION:42/ 20
-DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr inż. Wieczorek Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250504T094000Z
 DTEND:20250504T111500Z
 SUMMARY:SSW 
@@ -323,7 +316,7 @@ DTSTART:20250420T113000Z
 DTEND:20250420T130500Z
 SUMMARY:Bp. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250504T113000Z
@@ -414,7 +407,7 @@ DTSTART:20250601T140000Z
 DTEND:20250601T153500Z
 SUMMARY:Bp. (ć)
 LOCATION:1/ 21; 22/ 21
-DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T155000Z
@@ -1093,7 +1086,7 @@ DTSTART:20250610T060000Z
 DTEND:20250610T073500Z
 SUMMARY:Bp. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T060000Z
@@ -1306,18 +1299,25 @@ LOCATION:
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250701T094000Z
-DTEND:20250701T111500Z
+DTSTART:20250624T094000Z
+DTEND:20250624T111500Z
 SUMMARY:Mat3 (E)
 LOCATION:301/ S
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Tomaszewska Justyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250701T094000Z
+DTEND:20250701T111500Z
+SUMMARY:Mat3 (Ep)
+LOCATION:301/ S
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/2\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250708T094000Z
 DTEND:20250708T111500Z
 SUMMARY:Mat3 (Ep)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Tomaszewska Justyna
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2/2\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T123000Z
@@ -1436,6 +1436,13 @@ DTSTART:20250401T140000Z
 DTEND:20250401T153500Z
 SUMMARY:Bp. (ć)
 LOCATION:9/ 62
+DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr inż. Wieczorek Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250422T140000Z
+DTEND:20250422T153500Z
+SUMMARY:Bp. (ć)
+LOCATION:8/ 62
 DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
@@ -1649,6 +1656,13 @@ LOCATION:
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: ppłk rez. mgr Bomba Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250423T075000Z
+DTEND:20250423T092500Z
+SUMMARY:Bp. (ć)
+LOCATION:9/ 62
+DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr inż. Wieczorek Marcin
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250430T075000Z
 DTEND:20250430T092500Z
 SUMMARY:ZLDT-1 (w)
@@ -1702,7 +1716,7 @@ DTSTART:20250618T075000Z
 DTEND:20250618T092500Z
 SUMMARY:Bp. (ć)
 LOCATION:1/ 21; 22/ 21
-DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T075000Z
@@ -2752,7 +2766,7 @@ DTSTART:20250410T140000Z
 DTEND:20250410T153500Z
 SUMMARY:Bp. (ć)
 LOCATION:8/ 62
-DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T140000Z
@@ -2767,13 +2781,6 @@ DTEND:20250501T153500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 40/63
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250529T140000Z
-DTEND:20250529T153500Z
-SUMMARY:Bp. (ć)
-LOCATION:8/ 62
-DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T140000Z

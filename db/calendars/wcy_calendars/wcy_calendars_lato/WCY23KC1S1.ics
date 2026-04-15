@@ -1985,13 +1985,6 @@ LOCATION:203 65
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260422T075000Z
-DTEND:20260422T092500Z
-SUMMARY:zsw (w)
-LOCATION:203 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260422T094000Z
 DTEND:20260422T111500Z
 SUMMARY:SKII (L)
@@ -2151,6 +2144,13 @@ DTEND:20260504T130500Z
 SUMMARY:Sp (Inne)
 LOCATION:201 65
 DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/10\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T094000Z
+DTEND:20260505T111500Z
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T094000Z

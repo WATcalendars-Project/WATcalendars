@@ -102,13 +102,6 @@ LOCATION:20 63
 DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Siwek Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260420T094000Z
-DTEND:20260420T111500Z
-SUMMARY:Brmob (L)
-LOCATION:2.37/ 54A
-DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: kpt. mgr inż. Dejewski Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260504T094000Z
 DTEND:20260504T111500Z
 SUMMARY:Brmob (L)
@@ -142,13 +135,6 @@ DTEND:20260330T130500Z
 SUMMARY:Sens (L)
 LOCATION:2.14/ 54A
 DESCRIPTION:Sensoryka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Rykała Łukasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260420T113000Z
-DTEND:20260420T130500Z
-SUMMARY:Brmob (L)
-LOCATION:2.37/ 54A
-DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: kpt. mgr inż. Dejewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T113000Z
@@ -767,6 +753,13 @@ LOCATION:S3 72
 DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Henzel Maciej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260429T060000Z
+DTEND:20260429T073500Z
+SUMMARY:Brmob (L)
+LOCATION:2.37/ 54A
+DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: kpt. mgr inż. Dejewski Marcin
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T060000Z
 DTEND:20260506T073500Z
 SUMMARY:Ucm (w)
@@ -828,6 +821,13 @@ DTEND:20260422T092500Z
 SUMMARY:Sens (w)
 LOCATION:18 63
 DESCRIPTION:Sensoryka\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T075000Z
+DTEND:20260429T092500Z
+SUMMARY:Brmob (L)
+LOCATION:2.37/ 54A
+DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: kpt. mgr inż. Dejewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T075000Z
