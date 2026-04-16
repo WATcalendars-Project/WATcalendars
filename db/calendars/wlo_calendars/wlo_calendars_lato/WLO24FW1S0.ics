@@ -49,14 +49,14 @@ BEGIN:VEVENT
 DTSTART:20260504T060000Z
 DTEND:20260504T073500Z
 SUMMARY:PPL (P)
-LOCATION:
+LOCATION:0.8/16
 DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 1/10\nProwadzący: dr Kalbarczyk Ewa; dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T060000Z
 DTEND:20260511T073500Z
 SUMMARY:PeUT (ć)
-LOCATION:0.19/135
+LOCATION:aula/135
 DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
@@ -69,13 +69,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T060000Z
 DTEND:20260525T073500Z
-SUMMARY:PKL (ć)
-LOCATION:1.9/16
-DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Gułaj Mariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260601T060000Z
-DTEND:20260601T073500Z
 SUMMARY:PeUT (w)
 LOCATION:aula/135
 DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
@@ -246,7 +239,7 @@ DTSTART:20260511T094000Z
 DTEND:20260511T111500Z
 SUMMARY:PKL (ć)
 LOCATION:
-DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Gułaj Mariusz
+DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T094000Z
@@ -302,7 +295,7 @@ DTSTART:20260518T113000Z
 DTEND:20260518T130500Z
 SUMMARY:PKL (ć)
 LOCATION:
-DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Gułaj Mariusz
+DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T113000Z
@@ -344,7 +337,7 @@ DTSTART:20260420T140000Z
 DTEND:20260420T153500Z
 SUMMARY:PKL (ć)
 LOCATION:1.16/16
-DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Gułaj Mariusz
+DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T140000Z
@@ -359,6 +352,13 @@ DTEND:20260511T153500Z
 SUMMARY:Twl (w)
 LOCATION:0.24/135
 DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T140000Z
+DTEND:20260518T153500Z
+SUMMARY:PKL (ć)
+LOCATION:1.9/16
+DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T140000Z
@@ -1414,7 +1414,7 @@ BEGIN:VEVENT
 DTSTART:20260416T140000Z
 DTEND:20260416T153500Z
 SUMMARY:Twl (w)
-LOCATION:3.16/135
+LOCATION:
 DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
@@ -1484,7 +1484,7 @@ BEGIN:VEVENT
 DTSTART:20260416T155000Z
 DTEND:20260416T172500Z
 SUMMARY:Twl (w)
-LOCATION:0.24/135
+LOCATION:
 DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT

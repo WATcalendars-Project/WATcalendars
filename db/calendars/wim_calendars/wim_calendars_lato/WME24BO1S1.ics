@@ -921,11 +921,25 @@ LOCATION:301/ S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: (Zp (III)\nNumer zajęć: 1/1\nProwadzący: dr inż. Pierzchała Dariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250609T140000Z
+DTEND:20250609T153500Z
+SUMMARY:Rou (L)
+LOCATION:
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250407T155000Z
 DTEND:20250407T172500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 13/63
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T155000Z
+DTEND:20250609T172500Z
+SUMMARY:Rou (L)
+LOCATION:
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T174000Z
@@ -963,18 +977,11 @@ LOCATION:
 DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr inż. Grad Leszek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250408T060000Z
-DTEND:20250408T073500Z
-SUMMARY:Rou (L)
-LOCATION:
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250415T060000Z
 DTEND:20250415T073500Z
 SUMMARY:Rou (L)
 LOCATION:
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T060000Z
@@ -1017,13 +1024,6 @@ DTEND:20250325T102500Z
 SUMMARY:PTer. (w)
 LOCATION:
 DESCRIPTION:Podstawy termowizji\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr inż. Gogler Sławomir
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250408T075000Z
-DTEND:20250408T092500Z
-SUMMARY:Rou (L)
-LOCATION:
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T075000Z
@@ -1537,6 +1537,13 @@ LOCATION:
 DESCRIPTION:Plazma i promieniowanie jonizujące w obróbce powierzchni\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. (prof. ucz.) Bartnik Andrzej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250507T075000Z
+DTEND:20250507T092500Z
+SUMMARY:BiO (L)
+LOCATION:
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Grad Leszek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250521T075000Z
 DTEND:20250521T092500Z
 SUMMARY:PiPJ (L)
@@ -1721,13 +1728,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T113000Z
 DTEND:20250409T130500Z
-SUMMARY:BiO (L)
-LOCATION:
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Grad Leszek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250416T113000Z
-DTEND:20250416T130500Z
 SUMMARY:BiO (L)
 LOCATION:
 DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr inż. Grad Leszek

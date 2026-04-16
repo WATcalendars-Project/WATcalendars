@@ -1838,13 +1838,6 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260319T085000Z
-DTEND:20260319T102500Z
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260319T150000Z
 DTEND:20260319T163500Z
 SUMMARY:JoM (ć)
@@ -1941,6 +1934,13 @@ DTEND:20260324T163500Z
 SUMMARY:Md2 (ć)
 LOCATION:308 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: mgr Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T070000Z
+DTEND:20260325T083500Z
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T085000Z

@@ -949,13 +949,6 @@ LOCATION:55/ 62
 DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250428T140000Z
-DTEND:20250428T153500Z
-SUMMARY:Mat3 (ć)
-LOCATION:54/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Tomaszewska Justyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250519T140000Z
 DTEND:20250519T153500Z
 SUMMARY:Mkm1 (L)
@@ -974,7 +967,7 @@ DTSTART:20250602T140000Z
 DTEND:20250602T153500Z
 SUMMARY:Mat3 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Tomaszewska Justyna
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T140000Z
@@ -1472,6 +1465,13 @@ DTEND:20250603T130500Z
 SUMMARY:DGB (ć)
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T113000Z
+DTEND:20250617T130500Z
+SUMMARY:Mat3 (ć)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T150000Z

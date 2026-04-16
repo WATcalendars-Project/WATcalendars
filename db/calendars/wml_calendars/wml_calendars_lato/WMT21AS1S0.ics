@@ -1173,13 +1173,6 @@ LOCATION:
 DESCRIPTION:Egz\nRodzaj zajęć: -\nNumer zajęć: 9-10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260416T140000Z
-DTEND:20260416T153500Z
-SUMMARY:Topl 
-LOCATION:104 63A
-DESCRIPTION:Taktyka WOPL\nRodzaj zajęć: -\nNumer zajęć: 9-10\nProwadzący: kpt. mgr inż. Majchrowicz Jakub
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260226T165000Z
 DTEND:20260226T182500Z
 SUMMARY:Pr.Pl 
@@ -1364,9 +1357,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T094000Z
 DTEND:20260417T111500Z
-SUMMARY:Topl (S)
+SUMMARY:Topl 
 LOCATION:3 63A
-DESCRIPTION:Taktyka WOPL\nRodzaj zajęć: Seminarium\nNumer zajęć: 5-6\nProwadzący: kpt. mgr inż. Majchrowicz Jakub
+DESCRIPTION:Taktyka WOPL\nRodzaj zajęć: -\nNumer zajęć: 5-6\nProwadzący: kpt. mgr inż. Majchrowicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T123000Z
@@ -1395,6 +1388,13 @@ DTEND:20260320T140500Z
 SUMMARY:Pr.Pl 
 LOCATION:
 DESCRIPTION:Praktyka d-cy plutonu\nRodzaj zajęć: -\nNumer zajęć: 7-8\nProwadzący: kpt. mgr inż. Łożyński Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T113000Z
+DTEND:20260417T130500Z
+SUMMARY:Topl (S)
+LOCATION:3 63A
+DESCRIPTION:Taktyka WOPL\nRodzaj zajęć: Seminarium\nNumer zajęć: 7-8\nProwadzący: kpt. mgr inż. Majchrowicz Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T150000Z

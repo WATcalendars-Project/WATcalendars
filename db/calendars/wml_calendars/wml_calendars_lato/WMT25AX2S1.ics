@@ -501,6 +501,13 @@ LOCATION:19 36
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Baranowski Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260506T060000Z
+DTEND:20260506T073500Z
+SUMMARY:Mat3 (ć)
+LOCATION:20 63
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260513T060000Z
 DTEND:20260513T073500Z
 SUMMARY:Nom (w)
@@ -674,13 +681,6 @@ DTEND:20260429T111500Z
 SUMMARY:Iw (w)
 LOCATION:19 36
 DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Majewski Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260506T094000Z
-DTEND:20260506T111500Z
-SUMMARY:Mat3 (ć)
-LOCATION:20 63
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: Dr Tarka Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T094000Z

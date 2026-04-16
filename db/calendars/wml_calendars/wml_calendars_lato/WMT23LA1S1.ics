@@ -886,13 +886,6 @@ LOCATION:130 36
 DESCRIPTION:Programowanie systemów i modułów awionicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż. Marut Adam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260416T060000Z
-DTEND:20260416T073500Z
-SUMMARY:Lsr (L)
-LOCATION:112 61
-DESCRIPTION:Lotnicze systemy radioelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Witczak Andrzej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260430T060000Z
 DTEND:20260430T073500Z
 SUMMARY:Psma (L)
@@ -1080,6 +1073,13 @@ DTEND:20260514T130500Z
 SUMMARY:Lscs (P)
 LOCATION:004 36
 DESCRIPTION:Lotnicze systemy cyfrowe i sieci komput.\nRodzaj zajęć: Projekt\nNumer zajęć: 7-8\nProwadzący: dr inż. Kaźmierczak K
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T113000Z
+DTEND:20260528T130500Z
+SUMMARY:Lsr (L)
+LOCATION:112 61
+DESCRIPTION:Lotnicze systemy radioelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Witczak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T140000Z

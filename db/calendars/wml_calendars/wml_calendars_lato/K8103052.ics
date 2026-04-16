@@ -4,6 +4,13 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:K8103052
 BEGIN:VEVENT
+DTSTART:20260420T060000Z
+DTEND:20260420T073500Z
+SUMMARY:Ing 
+LOCATION:
+DESCRIPTION:Ing\nRodzaj zajęć: -\nNumer zajęć: 1-2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260427T060000Z
 DTEND:20260427T073500Z
 SUMMARY:Pipsp (w)
@@ -212,6 +219,13 @@ DTEND:20260615T111500Z
 SUMMARY:Uluw (w)
 LOCATION:34 67
 DESCRIPTION:Uzbrojenie lotnicze i urządzenia wysokościowo ratownicz\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: ppłk dr inż. Jasztal Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260622T094000Z
+DTEND:20260622T111500Z
+SUMMARY:Bzsp (w)
+LOCATION:24 67
+DESCRIPTION:Bezzałogowe statki powietrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Marut Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260629T094000Z
@@ -739,6 +753,13 @@ LOCATION:5.16 135
 DESCRIPTION:Płatowce i instalacje płatowcowe statków powietrznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Zalewski Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260429T094000Z
+DTEND:20260429T111500Z
+SUMMARY:Bzsp (w)
+LOCATION:24 67
+DESCRIPTION:Bezzałogowe statki powietrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Marut Adam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T094000Z
 DTEND:20260506T111500Z
 SUMMARY:Pipsp (w)
@@ -809,6 +830,13 @@ LOCATION:5.16 135
 DESCRIPTION:Płatowce i instalacje płatowcowe statków powietrznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Zalewski Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260506T113000Z
+DTEND:20260506T130500Z
+SUMMARY:Uluw (w)
+LOCATION:24 67
+DESCRIPTION:Uzbrojenie lotnicze i urządzenia wysokościowo ratownicz\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: ppłk dr inż. Jasztal Michał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260520T113000Z
 DTEND:20260520T130500Z
 SUMMARY:Paml (L)
@@ -818,9 +846,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T113000Z
 DTEND:20260527T130500Z
-SUMMARY:Bzsp (w)
-LOCATION:24 67
-DESCRIPTION:Bezzałogowe statki powietrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Ważny Mariusz
+SUMMARY:Paml (L)
+LOCATION:3 67
+DESCRIPTION:Podstawy aerodynamiki i mechaniki lotu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Frant Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T113000Z
@@ -902,9 +930,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T060000Z
 DTEND:20260611T073500Z
-SUMMARY:Uluw (w)
+SUMMARY:Uluw (ć)
 LOCATION:24 67
-DESCRIPTION:Uzbrojenie lotnicze i urządzenia wysokościowo ratownicz\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Jasztal Michał
+DESCRIPTION:Uzbrojenie lotnicze i urządzenia wysokościowo ratownicz\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Jasztal Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T060000Z
@@ -972,9 +1000,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T075000Z
 DTEND:20260611T092500Z
-SUMMARY:Uluw (w)
+SUMMARY:Uluw (ć)
 LOCATION:24 67
-DESCRIPTION:Uzbrojenie lotnicze i urządzenia wysokościowo ratownicz\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Jasztal Michał
+DESCRIPTION:Uzbrojenie lotnicze i urządzenia wysokościowo ratownicz\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Jasztal Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T075000Z
@@ -1075,6 +1103,20 @@ LOCATION:24 67
 DESCRIPTION:Bezzałogowe statki powietrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Ważny Mariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260515T060000Z
+DTEND:20260515T073500Z
+SUMMARY:Bzsp (w)
+LOCATION:24 67
+DESCRIPTION:Bezzałogowe statki powietrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Ważny Mariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T060000Z
+DTEND:20260522T073500Z
+SUMMARY:Uluw (w)
+LOCATION:24 67
+DESCRIPTION:Uzbrojenie lotnicze i urządzenia wysokościowo ratownicz\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Jasztal Michał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260529T060000Z
 DTEND:20260529T073500Z
 SUMMARY:Pipsp (w)
@@ -1094,6 +1136,13 @@ DTEND:20260612T073500Z
 SUMMARY:Bzsp (w)
 LOCATION:24 67
 DESCRIPTION:Bezzałogowe statki powietrzne\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: mgr inż. Marut Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T060000Z
+DTEND:20260619T073500Z
+SUMMARY:Paml (w)
+LOCATION:9 67
+DESCRIPTION:Podstawy aerodynamiki i mechaniki lotu\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Wrzesień Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260626T060000Z
@@ -1122,12 +1171,5 @@ DTEND:20260508T092500Z
 SUMMARY:Pipsp (w)
 LOCATION:5.16 135
 DESCRIPTION:Płatowce i instalacje płatowcowe statków powietrznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Zalewski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260529T075000Z
-DTEND:20260529T092500Z
-SUMMARY:Paml (w)
-LOCATION:9 67
-DESCRIPTION:Podstawy aerodynamiki i mechaniki lotu\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Wrzesień Stanisław
 END:VEVENT
 END:VCALENDAR

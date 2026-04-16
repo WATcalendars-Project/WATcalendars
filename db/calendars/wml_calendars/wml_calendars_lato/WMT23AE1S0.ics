@@ -1327,8 +1327,8 @@ LOCATION:47 63
 DESCRIPTION:Sterowanie w systemach mechatronicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Jaworowicz Marek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260401T075000Z
-DTEND:20260401T092500Z
+DTSTART:20260408T075000Z
+DTEND:20260408T092500Z
 SUMMARY:Pps (w)
 LOCATION:325 S
 DESCRIPTION:Podstawy przetwarzania sygnałów\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzywiński Stanisław
@@ -1425,13 +1425,6 @@ LOCATION:16 63
 DESCRIPTION:Sterowanie w systemach mechatronicznych 2\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Siwek Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260401T094000Z
-DTEND:20260401T111500Z
-SUMMARY:Pps (L)
-LOCATION:323 S
-DESCRIPTION:Podstawy przetwarzania sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Grzywiński Stanisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260415T094000Z
 DTEND:20260415T111500Z
 SUMMARY:SwSM (ć)
@@ -1507,6 +1500,13 @@ DTEND:20260311T140500Z
 SUMMARY:DGB (ć)
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T123000Z
+DTEND:20260318T140500Z
+SUMMARY:Pps (L)
+LOCATION:323 S
+DESCRIPTION:Podstawy przetwarzania sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Grzywiński Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T123000Z
