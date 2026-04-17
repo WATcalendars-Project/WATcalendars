@@ -1103,6 +1103,20 @@ LOCATION:4d/19; 3d/19
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz; dr inż. Senyk Szymon
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260423T060000Z
+DTEND:20260423T073500Z
+SUMMARY:Płe (S)
+LOCATION:1/22
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T060000Z
+DTEND:20260528T073500Z
+SUMMARY:Płe (w)
+LOCATION:15/23a
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260618T060000Z
 DTEND:20260618T073500Z
 SUMMARY:PKL (S)
@@ -1414,15 +1428,15 @@ BEGIN:VEVENT
 DTSTART:20260416T140000Z
 DTEND:20260416T153500Z
 SUMMARY:Twl (w)
-LOCATION:
+LOCATION:3.16/135
 DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T140000Z
 DTEND:20260423T153500Z
-SUMMARY:Płe (S)
-LOCATION:0.28/135
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+SUMMARY:Płe (w)
+LOCATION:15/23a
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T140000Z
@@ -1436,7 +1450,7 @@ DTSTART:20260521T140000Z
 DTEND:20260521T153500Z
 SUMMARY:Płe (w)
 LOCATION:aula/135
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T140000Z
@@ -1450,7 +1464,7 @@ DTSTART:20260611T140000Z
 DTEND:20260611T153500Z
 SUMMARY:Płe (w)
 LOCATION:1.9/16
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T165000Z
@@ -1484,7 +1498,7 @@ BEGIN:VEVENT
 DTSTART:20260416T155000Z
 DTEND:20260416T172500Z
 SUMMARY:Twl (w)
-LOCATION:
+LOCATION:3.16/135
 DESCRIPTION:Taktyka wojsk lądowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
@@ -1520,14 +1534,14 @@ DTSTART:20260521T155000Z
 DTEND:20260521T172500Z
 SUMMARY:Płe (w)
 LOCATION:aula/135
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T155000Z
 DTEND:20260611T172500Z
 SUMMARY:Płe (w)
 LOCATION:1.9/16
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T174000Z
@@ -1570,13 +1584,6 @@ DTEND:20260417T073500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 4/46
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260424T060000Z
-DTEND:20260424T073500Z
-SUMMARY:Płe (w)
-LOCATION:15/23a
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T060000Z
@@ -1668,13 +1675,6 @@ DTEND:20260417T092500Z
 SUMMARY:WF (ć)
 LOCATION:3PL/27KP; 24FW; 1S; 24GR; 3S; 0 MWi
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 27/30
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260424T075000Z
-DTEND:20260424T092500Z
-SUMMARY:Płe (w)
-LOCATION:15/23a
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T075000Z
