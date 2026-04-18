@@ -515,18 +515,11 @@ LOCATION:0.8/16
 DESCRIPTION:Metodyka Pracy Dyplomowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. Filipek Agnieszka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260603T060000Z
-DTEND:20260603T073500Z
-SUMMARY:KPP (ć)
-LOCATION:0.6/16
-DESCRIPTION:Kontrola przestrzeni powietrznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Marciniak Mirosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260610T060000Z
 DTEND:20260610T073500Z
 SUMMARY:KPP (ć)
 LOCATION:0.6/16
-DESCRIPTION:Kontrola przestrzeni powietrznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Marciniak Mirosław
+DESCRIPTION:Kontrola przestrzeni powietrznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T075000Z
@@ -606,6 +599,13 @@ LOCATION:0.8/16
 DESCRIPTION:Militarne zasoby obronne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260610T113000Z
+DTEND:20260610T130500Z
+SUMMARY:TiPMed (ć)
+LOCATION:2.21/135
+DESCRIPTION:Teorie i podstawy medioznastwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260408T140000Z
 DTEND:20260408T153500Z
 SUMMARY:Wkz (w)
@@ -648,32 +648,18 @@ LOCATION:0.28/135
 DESCRIPTION:Współczesne konflikty zbrojne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260521T060000Z
-DTEND:20260521T073500Z
-SUMMARY:TiPMed (ć)
-LOCATION:2.21/135
-DESCRIPTION:Teorie i podstawy medioznastwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Marciniak Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260528T060000Z
-DTEND:20260528T073500Z
-SUMMARY:TiPMed (ć)
-LOCATION:2.21/135
-DESCRIPTION:Teorie i podstawy medioznastwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Marciniak Mirosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260611T060000Z
 DTEND:20260611T073500Z
 SUMMARY:TiPMed (ć)
 LOCATION:1.15/16
-DESCRIPTION:Teorie i podstawy medioznastwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Marciniak Mirosław
+DESCRIPTION:Teorie i podstawy medioznastwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T060000Z
 DTEND:20260618T073500Z
 SUMMARY:TiPMed (ć)
 LOCATION:1.15/16
-DESCRIPTION:Teorie i podstawy medioznastwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Marciniak Mirosław
+DESCRIPTION:Teorie i podstawy medioznastwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T085000Z
@@ -729,21 +715,21 @@ DTSTART:20260423T094000Z
 DTEND:20260423T111500Z
 SUMMARY:TiPMed (ć)
 LOCATION:1.16/16
-DESCRIPTION:Teorie i podstawy medioznastwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Marciniak Mirosław
+DESCRIPTION:Teorie i podstawy medioznastwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T094000Z
 DTEND:20260507T111500Z
 SUMMARY:TiPMed (ć)
 LOCATION:0.7/16
-DESCRIPTION:Teorie i podstawy medioznastwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Marciniak Mirosław
+DESCRIPTION:Teorie i podstawy medioznastwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T094000Z
 DTEND:20260514T111500Z
 SUMMARY:TiPMed (ć)
 LOCATION:0.7/16
-DESCRIPTION:Teorie i podstawy medioznastwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Marciniak Mirosław
+DESCRIPTION:Teorie i podstawy medioznastwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T094000Z
@@ -792,7 +778,7 @@ DTSTART:20260423T113000Z
 DTEND:20260423T130500Z
 SUMMARY:TiPMed (ć)
 LOCATION:1.16/16
-DESCRIPTION:Teorie i podstawy medioznastwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Marciniak Mirosław
+DESCRIPTION:Teorie i podstawy medioznastwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T113000Z
@@ -800,6 +786,13 @@ DTEND:20260514T130500Z
 SUMMARY:wt (ć)
 LOCATION:1.15/16
 DESCRIPTION:Współczesny terroryzm\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T113000Z
+DTEND:20260611T130500Z
+SUMMARY:KPP (ć)
+LOCATION:0.7/16
+DESCRIPTION:Kontrola przestrzeni powietrznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T113000Z
@@ -1038,6 +1031,13 @@ DTEND:20260410T130500Z
 SUMMARY:MZO (ć)
 LOCATION:1.27/135
 DESCRIPTION:Militarne zasoby obronne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T113000Z
+DTEND:20260529T130500Z
+SUMMARY:TiPMed (ć)
+LOCATION:3.16/135
+DESCRIPTION:Teorie i podstawy medioznastwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T140000Z

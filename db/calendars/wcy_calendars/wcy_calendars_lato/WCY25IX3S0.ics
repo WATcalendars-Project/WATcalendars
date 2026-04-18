@@ -2283,7 +2283,7 @@ DTSTART:20260202T070000Z
 DTEND:20260202T083500Z
 SUMMARY:WdI (Inne)
 LOCATION:314 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Rafał Kasprzyk
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260202T104000Z
@@ -2339,7 +2339,7 @@ DTSTART:20260216T070000Z
 DTEND:20260216T083500Z
 SUMMARY:WdI (Inne)
 LOCATION:314 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: Rafał Kasprzyk
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T085000Z
@@ -3448,11 +3448,25 @@ LOCATION:313 S
 DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260422T113000Z
+DTEND:20260422T130500Z
+SUMMARY:WdI (Inne)
+LOCATION:233 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260422T140000Z
 DTEND:20260422T153500Z
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: (Inne)\nNumer zajęć: 5/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T155000Z
+DTEND:20260422T172500Z
+SUMMARY:WdI (Inne)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 4/2\nProwadzący: Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T060000Z
@@ -3495,13 +3509,6 @@ DTEND:20260423T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 53/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260425T094000Z
-DTEND:20260425T111500Z
-SUMMARY:WdI (Inne)
-LOCATION:223 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/1\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T113000Z

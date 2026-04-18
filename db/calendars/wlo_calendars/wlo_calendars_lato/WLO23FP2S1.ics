@@ -109,13 +109,6 @@ LOCATION:13/19; 15/21; 38/20
 DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260427T113000Z
-DTEND:20260427T130500Z
-SUMMARY:UrM (L)
-LOCATION:13/19; 15/21; 38/20
-DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260511T113000Z
 DTEND:20260511T130500Z
 SUMMARY:SMa (ć)
@@ -148,35 +141,28 @@ DTSTART:20260413T140000Z
 DTEND:20260413T153500Z
 SUMMARY:UrM (L)
 LOCATION:13/19; 15/21; 38/20
-DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz
+DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T140000Z
 DTEND:20260420T153500Z
 SUMMARY:UrM (L)
 LOCATION:13/19; 15/21; 38/20
-DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260427T140000Z
-DTEND:20260427T153500Z
-SUMMARY:UrM (L)
-LOCATION:13/19; 15/21; 38/20
-DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz
+DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T140000Z
 DTEND:20260504T153500Z
 SUMMARY:UrM (L)
 LOCATION:13/19; 15/21; 38/20
-DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: dr inż. Cypko Edward; dr inż. Chrzanowski Wojciech
+DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: dr inż. Cypko Edward; dr inż. Chrzanowski Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T140000Z
 DTEND:20260511T153500Z
 SUMMARY:UrM (L)
 LOCATION:13/19; 15/21; 38/20
-DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Cypko Edward; dr inż. Chrzanowski Wojciech
+DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: dr inż. Cypko Edward; dr inż. Chrzanowski Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T140000Z
@@ -211,14 +197,21 @@ DTSTART:20260413T155000Z
 DTEND:20260413T172500Z
 SUMMARY:UrM (L)
 LOCATION:13/19; 15/21; 38/20
-DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz
+DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T155000Z
+DTEND:20260420T172500Z
+SUMMARY:UrM (L)
+LOCATION:13/19; 15/21; 38/20
+DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T155000Z
 DTEND:20260427T172500Z
 SUMMARY:UrM (L)
 LOCATION:13/19; 15/21; 38/20
-DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: dr inż. Cypko Edward; dr inż. Chrzanowski Wojciech
+DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/9\nProwadzący: dr inż. Cypko Edward; dr inż. Chrzanowski Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T155000Z
@@ -240,6 +233,13 @@ DTEND:20260525T172500Z
 SUMMARY:LZw (w)
 LOCATION:0.28/135
 DESCRIPTION:Logistyka zwrotna\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr n. społ. inż. Krupnik Dorota
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T174000Z
+DTEND:20260420T191500Z
+SUMMARY:UrM (L)
+LOCATION:13/19; 15/21; 38/20
+DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T060000Z
@@ -400,14 +400,14 @@ DTSTART:20260602T140000Z
 DTEND:20260602T153500Z
 SUMMARY:Bpe (ć)
 LOCATION:5/23a
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. Pankiewicz Bolesław
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T155000Z
 DTEND:20260602T172500Z
 SUMMARY:Bpe (ć)
 LOCATION:5/23a
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. Pankiewicz Bolesław
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T070000Z
@@ -470,7 +470,7 @@ DTSTART:20260429T060000Z
 DTEND:20260429T073500Z
 SUMMARY:Bpe (ć)
 LOCATION:5/23a
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. Pankiewicz Bolesław
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T060000Z
@@ -484,14 +484,14 @@ DTSTART:20260520T060000Z
 DTEND:20260520T073500Z
 SUMMARY:Bpe (ć)
 LOCATION:5/23a
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. Pankiewicz Bolesław
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T060000Z
 DTEND:20260610T073500Z
 SUMMARY:Bpe (ć)
 LOCATION:5/23a
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Pankiewicz Bolesław
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T085000Z
@@ -879,6 +879,13 @@ LOCATION:239 S
 DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Głodowska Katarzyna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260508T060000Z
+DTEND:20260508T073500Z
+SUMMARY:SMa (S)
+LOCATION:1.27/135
+DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Głodowska Katarzyna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260313T085000Z
 DTEND:20260313T102500Z
 SUMMARY:LOK (w)
@@ -967,13 +974,6 @@ DTSTART:20260417T094000Z
 DTEND:20260417T111500Z
 SUMMARY:SMa (S)
 LOCATION:4.17b/135
-DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Głodowska Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260424T094000Z
-DTEND:20260424T111500Z
-SUMMARY:SMa (S)
-LOCATION:4.17b/135
 DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Głodowska Katarzyna
 END:VEVENT
 BEGIN:VEVENT
@@ -986,16 +986,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T094000Z
 DTEND:20260515T111500Z
-SUMMARY:Bpe (ć)
-LOCATION:5/23a
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Pankiewicz Bolesław
+SUMMARY:Pmlo (ć)
+LOCATION:1/22
+DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T094000Z
 DTEND:20260612T111500Z
 SUMMARY:Pmlo (ć)
 LOCATION:1/22
-DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T123000Z
@@ -1030,21 +1030,21 @@ DTSTART:20260508T113000Z
 DTEND:20260508T130500Z
 SUMMARY:Pmlo (ć)
 LOCATION:4.17a/135
-DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T113000Z
 DTEND:20260515T130500Z
 SUMMARY:Bpe (ć)
 LOCATION:5/23a
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. Pankiewicz Bolesław
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Pankiewicz Bolesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260424T140000Z
 DTEND:20260424T153500Z
 SUMMARY:Pmlo (ć)
 LOCATION:4.17b/135
-DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T140000Z
@@ -1058,13 +1058,13 @@ DTSTART:20260529T140000Z
 DTEND:20260529T153500Z
 SUMMARY:Pmlo (ć)
 LOCATION:4.17a/135
-DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T155000Z
 DTEND:20260522T172500Z
 SUMMARY:Pmlo (ć)
 LOCATION:4.23/135
-DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: inż. Kochański Tomasz
+DESCRIPTION:Podstawy marketingu logistycznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 END:VCALENDAR

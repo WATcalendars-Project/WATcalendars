@@ -60,13 +60,6 @@ LOCATION:2 25
 DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzegorczyk Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260601T075000Z
-DTEND:20260601T092500Z
-SUMMARY:Mat3 (ć)
-LOCATION:15 63
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260608T075000Z
 DTEND:20260608T092500Z
 SUMMARY:Metr (L)
@@ -256,13 +249,6 @@ LOCATION:15 63
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260505T075000Z
-DTEND:20260505T092500Z
-SUMMARY:F1 (ć)
-LOCATION:18 63
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Mrukiewicz Mateusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260512T075000Z
 DTEND:20260512T092500Z
 SUMMARY:Mat3 (ć)
@@ -275,6 +261,13 @@ DTEND:20260519T092500Z
 SUMMARY:F1 (L)
 LOCATION:142 S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Morawiak Przemysław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T075000Z
+DTEND:20260602T092500Z
+SUMMARY:Mat3 (ć)
+LOCATION:115 57
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T075000Z
@@ -296,6 +289,13 @@ DTEND:20260414T111500Z
 SUMMARY:Mat3 (ć)
 LOCATION:41 36
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T094000Z
+DTEND:20260505T111500Z
+SUMMARY:F1 (ć)
+LOCATION:18 63
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Mrukiewicz Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T094000Z

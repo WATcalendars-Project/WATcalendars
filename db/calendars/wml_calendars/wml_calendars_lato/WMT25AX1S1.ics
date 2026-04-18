@@ -32,13 +32,6 @@ LOCATION:20 63
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Morawiak Przemysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260601T060000Z
-DTEND:20260601T073500Z
-SUMMARY:Mat3 (L)
-LOCATION:219 65
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: Dr Tarka Joanna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260323T085000Z
 DTEND:20260323T102500Z
 SUMMARY:Gin (ć)
@@ -268,6 +261,13 @@ DTEND:20260519T092500Z
 SUMMARY:Metr (L)
 LOCATION:103 63A;10
 DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Janiszewski Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T075000Z
+DTEND:20260526T092500Z
+SUMMARY:Mat3 (L)
+LOCATION:219 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T104000Z
