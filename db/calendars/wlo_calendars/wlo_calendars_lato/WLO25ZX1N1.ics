@@ -32,18 +32,18 @@ LOCATION:4.17a/135
 DESCRIPTION:Informatyka w zarządzaniu\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260509T060000Z
-DTEND:20260509T073500Z
-SUMMARY:Fin (ć)
-LOCATION:9/158
-DESCRIPTION:Finanse\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr hab. Domańska-Szaruga Beata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260516T060000Z
 DTEND:20260516T073500Z
 SUMMARY:Psy (ć)
 LOCATION:0.6/16
 DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: mgr Gurmińska Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T060000Z
+DTEND:20260530T073500Z
+SUMMARY:Fin (ć)
+LOCATION:255 S
+DESCRIPTION:Finanse\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr hab. Domańska-Szaruga Beata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260613T060000Z
@@ -123,6 +123,13 @@ LOCATION:0.6/16
 DESCRIPTION:Psychologia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: mgr Gurmińska Katarzyna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260530T075000Z
+DTEND:20260530T092500Z
+SUMMARY:Fin (ć)
+LOCATION:255 S
+DESCRIPTION:Finanse\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr hab. Domańska-Szaruga Beata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260613T075000Z
 DTEND:20260613T092500Z
 SUMMARY:Sto (L)
@@ -184,13 +191,6 @@ DTEND:20260425T111500Z
 SUMMARY:Psy (w)
 LOCATION:26/158
 DESCRIPTION:Psychologia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Tarapata Jolanta
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260509T094000Z
-DTEND:20260509T111500Z
-SUMMARY:Fin (ć)
-LOCATION:255 S
-DESCRIPTION:Finanse\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr hab. Domańska-Szaruga Beata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T094000Z
@@ -270,13 +270,6 @@ LOCATION:4.17a/135
 DESCRIPTION:M\nRodzaj zajęć: -\nNumer zajęć: 5/15\nProwadzący: mgr inż. Napiórkowski Jarosław; dr inż. Falkiewicz Ewa
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260509T113000Z
-DTEND:20260509T130500Z
-SUMMARY:Fin (ć)
-LOCATION:255 S
-DESCRIPTION:Finanse\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr hab. Domańska-Szaruga Beata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260516T113000Z
 DTEND:20260516T130500Z
 SUMMARY:M 
@@ -337,7 +330,7 @@ DTSTART:20260411T140000Z
 DTEND:20260411T153500Z
 SUMMARY:Fin (ć)
 LOCATION:4.17a/135
-DESCRIPTION:Finanse\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr hab. Domańska-Szaruga Beata
+DESCRIPTION:Finanse\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr hab. Domańska-Szaruga Beata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T140000Z
@@ -477,7 +470,7 @@ DTSTART:20260419T060000Z
 DTEND:20260419T073500Z
 SUMMARY:Fin (ć)
 LOCATION:255 S
-DESCRIPTION:Finanse\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr hab. Domańska-Szaruga Beata
+DESCRIPTION:Finanse\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr hab. Domańska-Szaruga Beata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260426T060000Z
@@ -547,7 +540,7 @@ DTSTART:20260419T075000Z
 DTEND:20260419T092500Z
 SUMMARY:Fin (ć)
 LOCATION:255 S
-DESCRIPTION:Finanse\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr hab. Domańska-Szaruga Beata
+DESCRIPTION:Finanse\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr hab. Domańska-Szaruga Beata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260426T075000Z
@@ -737,6 +730,13 @@ DTEND:20260517T130500Z
 SUMMARY:NOR (ć)
 LOCATION:A.1.3/135
 DESCRIPTION:Nauka o organizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr hab. inż. Miszalski Włodzimierz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260614T113000Z
+DTEND:20260614T130500Z
+SUMMARY:Fin (ć)
+LOCATION:0.8/16
+DESCRIPTION:Finanse\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr hab. Domańska-Szaruga Beata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260301T150000Z

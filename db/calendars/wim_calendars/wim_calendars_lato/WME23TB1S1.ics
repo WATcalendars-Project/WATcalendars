@@ -564,6 +564,13 @@ LOCATION:27/ 135
 DESCRIPTION:Zapasy w systemach logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/13\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250512T075000Z
+DTEND:20250512T092500Z
+SUMMARY:Pse* (w)
+LOCATION:5/ 20
+DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250519T075000Z
 DTEND:20250519T092500Z
 SUMMARY:ZwSL (ć)
@@ -576,6 +583,13 @@ DTEND:20250526T092500Z
 SUMMARY:Utw (ć)
 LOCATION:42/ 20
 DESCRIPTION:Urządzenia transportu wewnętrznego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. Pankiewicz Bolesław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250602T075000Z
+DTEND:20250602T092500Z
+SUMMARY:Pse* (ć)
+LOCATION:7/ 23a
+DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T075000Z
@@ -603,7 +617,7 @@ DTSTART:20250324T104000Z
 DTEND:20250324T121500Z
 SUMMARY:Pse* (w)
 LOCATION:42/ 20
-DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T094000Z
@@ -669,6 +683,13 @@ LOCATION:1/ 21
 DESCRIPTION:Produkcja i naprawa pojazdów mechanicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: dr inż. Chrzanowski Wojciech
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250602T094000Z
+DTEND:20250602T111500Z
+SUMMARY:Pse* (ć)
+LOCATION:7/ 23a
+DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250915T094000Z
 DTEND:20250915T111500Z
 SUMMARY:Utw (Zp.)
@@ -694,14 +715,14 @@ DTSTART:20250324T123000Z
 DTEND:20250324T140500Z
 SUMMARY:Pse* (w)
 LOCATION:42/ 20
-DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 2/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T113000Z
 DTEND:20250331T130500Z
 SUMMARY:Pse* (w)
 LOCATION:42/ 20
-DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T113000Z
@@ -711,32 +732,18 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 11/56
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250421T113000Z
-DTEND:20250421T130500Z
-SUMMARY:Pse* (w)
-LOCATION:42/ 20
-DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Wykład\nNumer zajęć: 4/11\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250428T113000Z
 DTEND:20250428T130500Z
 SUMMARY:Pse* (ć)
 LOCATION:42/ 20
-DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T113000Z
 DTEND:20250505T130500Z
 SUMMARY:Pse* (ć)
 LOCATION:42/ 20
-DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/12\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250512T113000Z
-DTEND:20250512T130500Z
-SUMMARY:Pse* (ć)
-LOCATION:42/ 20
-DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/12\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T113000Z
@@ -785,18 +792,11 @@ DTSTART:20250428T140000Z
 DTEND:20250428T153500Z
 SUMMARY:Pse* (ć)
 LOCATION:42/ 20
-DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
+DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T140000Z
 DTEND:20250505T153500Z
-SUMMARY:Pse* (ć)
-LOCATION:42/ 20
-DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/12\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250512T140000Z
-DTEND:20250512T153500Z
 SUMMARY:Pse* (ć)
 LOCATION:42/ 20
 DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/12\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
@@ -1316,7 +1316,7 @@ BEGIN:VEVENT
 DTSTART:20250528T060000Z
 DTEND:20250528T073500Z
 SUMMARY:Pse* (ć)
-LOCATION:7/ 23a
+LOCATION:5/ 20
 DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/12\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
@@ -1407,7 +1407,7 @@ BEGIN:VEVENT
 DTSTART:20250528T075000Z
 DTEND:20250528T092500Z
 SUMMARY:Pse* (ć)
-LOCATION:7/ 23a
+LOCATION:5/ 20
 DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/12\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT

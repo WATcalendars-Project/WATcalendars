@@ -1215,6 +1215,20 @@ LOCATION:S4 72
 DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Kluska Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260507T060000Z
+DTEND:20260507T073500Z
+SUMMARY:Lzn (w)
+LOCATION:S1 72
+DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab. inż Chachurski Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T060000Z
+DTEND:20260514T073500Z
+SUMMARY:Sh (L)
+LOCATION:12 H7
+DESCRIPTION:Systemy hydropneumatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: ppor. mgr inż. Barca Iga
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260528T060000Z
 DTEND:20260528T073500Z
 SUMMARY:Zlsp (L)
@@ -1285,18 +1299,25 @@ LOCATION:S4 72
 DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kluska Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260507T075000Z
+DTEND:20260507T092500Z
+SUMMARY:Ksp (ć)
+LOCATION:S2 72
+DESCRIPTION:Konstrukcja statków powietrznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Syta Borys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T075000Z
+DTEND:20260514T092500Z
+SUMMARY:Sh (L)
+LOCATION:12 H7
+DESCRIPTION:Systemy hydropneumatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: ppor. mgr inż. Barca Iga
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260528T075000Z
 DTEND:20260528T092500Z
 SUMMARY:Zlsp (L)
 LOCATION:4 H7
 DESCRIPTION:Zintegrowane laboratorium statków powietrznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: kpt. mgr inż. Arkuszyńska Angelika
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260611T075000Z
-DTEND:20260611T092500Z
-SUMMARY:Sh (L)
-LOCATION:12 H7
-DESCRIPTION:Systemy hydropneumatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: ppor. mgr inż. Barca Iga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T075000Z
@@ -1355,6 +1376,13 @@ LOCATION:S1 72
 DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr hab. inż Chachurski Ryszard
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260514T094000Z
+DTEND:20260514T111500Z
+SUMMARY:Ksp (ć)
+LOCATION:S1 72
+DESCRIPTION:Konstrukcja statków powietrznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Syta Borys
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260521T094000Z
 DTEND:20260521T111500Z
 SUMMARY:Aer (ć)
@@ -1367,13 +1395,6 @@ DTEND:20260528T111500Z
 SUMMARY:Zlsp (L)
 LOCATION:4 H7
 DESCRIPTION:Zintegrowane laboratorium statków powietrznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: kpt. mgr inż. Arkuszyńska Angelika
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260611T094000Z
-DTEND:20260611T111500Z
-SUMMARY:Sh (L)
-LOCATION:12 H7
-DESCRIPTION:Systemy hydropneumatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: ppor. mgr inż. Barca Iga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T094000Z
@@ -1441,27 +1462,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T140000Z
 DTEND:20260416T153500Z
-SUMMARY:Ksp (ć)
-LOCATION:33 67
-DESCRIPTION:Konstrukcja statków powietrznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż. Syta Borys
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260423T140000Z
-DTEND:20260423T153500Z
-SUMMARY:Lzn (w)
-LOCATION:S1 72
-DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr hab. inż Chachurski Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260507T140000Z
-DTEND:20260507T153500Z
-SUMMARY:Ksp (ć)
-LOCATION:33 67
-DESCRIPTION:Konstrukcja statków powietrznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż. Syta Borys
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260514T140000Z
-DTEND:20260514T153500Z
 SUMMARY:Ksp (ć)
 LOCATION:33 67
 DESCRIPTION:Konstrukcja statków powietrznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż. Syta Borys
@@ -1607,18 +1607,18 @@ LOCATION:S4 72
 DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kluska Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260529T094000Z
+DTEND:20260529T111500Z
+SUMMARY:Ksp (ć)
+LOCATION:24 67
+DESCRIPTION:Konstrukcja statków powietrznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Syta Borys
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260612T094000Z
 DTEND:20260612T111500Z
 SUMMARY:Lzn (ć)
 LOCATION:S3 72
 DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr hab. inż Chachurski Ryszard
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T113000Z
-DTEND:20260515T130500Z
-SUMMARY:Ksp (ć)
-LOCATION:33 67
-DESCRIPTION:Konstrukcja statków powietrznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż. Syta Borys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T113000Z

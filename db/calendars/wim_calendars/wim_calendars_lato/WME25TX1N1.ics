@@ -858,13 +858,6 @@ LOCATION:52/ 62
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250516T155000Z
-DTEND:20250516T172500Z
-SUMMARY:Sta (w)
-LOCATION:
-DESCRIPTION:Statystyka\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Mularczyk Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250523T155000Z
 DTEND:20250523T172500Z
 SUMMARY:I 
@@ -890,7 +883,7 @@ DTSTART:20250613T155000Z
 DTEND:20250613T172500Z
 SUMMARY:Sta (w)
 LOCATION:
-DESCRIPTION:Statystyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Mularczyk Piotr
+DESCRIPTION:Statystyka\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Mularczyk Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T184000Z
@@ -963,13 +956,6 @@ LOCATION:
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250516T174000Z
-DTEND:20250516T191500Z
-SUMMARY:Sta (ć)
-LOCATION:
-DESCRIPTION:Statystyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Mularczyk Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250523T174000Z
 DTEND:20250523T191500Z
 SUMMARY:I 
@@ -995,7 +981,7 @@ DTSTART:20250613T174000Z
 DTEND:20250613T191500Z
 SUMMARY:Sta (ć)
 LOCATION:
-DESCRIPTION:Statystyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Mularczyk Piotr
+DESCRIPTION:Statystyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr Mularczyk Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250912T174000Z
@@ -1418,6 +1404,13 @@ LOCATION:55/ 62
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250517T113000Z
+DTEND:20250517T130500Z
+SUMMARY:Sta (w)
+LOCATION:
+DESCRIPTION:Statystyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Mularczyk Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250524T113000Z
 DTEND:20250524T130500Z
 SUMMARY:I 
@@ -1514,6 +1507,13 @@ DTEND:20250510T153500Z
 SUMMARY:Plog (ć)
 LOCATION:19/ 135
 DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Kalbarczyk Ewa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250517T140000Z
+DTEND:20250517T153500Z
+SUMMARY:Sta (ć)
+LOCATION:
+DESCRIPTION:Statystyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Mularczyk Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T140000Z
