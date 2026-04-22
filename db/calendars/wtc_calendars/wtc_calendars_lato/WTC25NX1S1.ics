@@ -151,6 +151,13 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5/20\nProwadzący: mgr inż. Jankowski Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260427T075000Z
+DTEND:20260427T092500Z
+SUMMARY:Che (ć)
+LOCATION:2 55A
+DESCRIPTION:Chemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Strzeżysz Olga
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260511T075000Z
 DTEND:20260511T092500Z
 SUMMARY:F1 (w)
@@ -162,7 +169,7 @@ DTSTART:20260518T075000Z
 DTEND:20260518T092500Z
 SUMMARY:Che (ć)
 LOCATION:109 24
-DESCRIPTION:Chemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Strzeżysz Olga
+DESCRIPTION:Chemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T075000Z
@@ -956,13 +963,6 @@ LOCATION:26/ 34
 DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260422T113000Z
-DTEND:20260422T130500Z
-SUMMARY:Che (ć)
-LOCATION:110/ 14
-DESCRIPTION:Chemia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Strzeżysz Olga
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260429T113000Z
 DTEND:20260429T130500Z
 SUMMARY:PTMI (ć)
@@ -1215,13 +1215,6 @@ LOCATION:127A/ 14
 DESCRIPTION:Chemia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Rychłowicz Natan; dr inż. Strzeżysz Olga
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260507T060000Z
-DTEND:20260507T073500Z
-SUMMARY:PTMI (w)
-LOCATION:166 S
-DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 18/18\nProwadzący: dr inż. Antolak-Dudka Anna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260521T060000Z
 DTEND:20260521T073500Z
 SUMMARY:Che (w)
@@ -1444,6 +1437,13 @@ DTEND:20260521T130500Z
 SUMMARY:MBIM (L)
 LOCATION:14/ 34
 DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 44/44\nProwadzący: dr inż. Dworecka-Wójcik Julita
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T113000Z
+DTEND:20260528T130500Z
+SUMMARY:PTMI (w)
+LOCATION:11/ 34
+DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Wykład\nNumer zajęć: 18/18\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T150000Z

@@ -2598,7 +2598,7 @@ DTSTART:20260221T070000Z
 DTEND:20260221T083500Z
 SUMMARY:FII (Inne)
 LOCATION:aF S
-DESCRIPTION:Fizyka II - (Egzamin poprawkowy) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Fizyka II - (Egzamin poprawkowy) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260221T085000Z
@@ -3189,18 +3189,25 @@ LOCATION:106 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260426T060000Z
+DTEND:20260426T073500Z
+SUMMARY:Pw (L)
+LOCATION:252 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260426T075000Z
 DTEND:20260426T092500Z
-SUMMARY:Pnak (L)
-LOCATION:125 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Adam Patkowski
+SUMMARY:Pw (L)
+LOCATION:252 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260426T094000Z
 DTEND:20260426T111500Z
-SUMMARY:MM (ć)
-LOCATION:308 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: mgr inż. Michał Kapałka
+SUMMARY:Pnak (L)
+LOCATION:125 65
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260426T113000Z
@@ -3212,23 +3219,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260426T140000Z
 DTEND:20260426T153500Z
-SUMMARY:Pw (L)
-LOCATION:252 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Jarosław Rulka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260426T155000Z
-DTEND:20260426T172500Z
-SUMMARY:Pw (L)
-LOCATION:252 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Jarosław Rulka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260426T174000Z
-DTEND:20260426T191500Z
 SUMMARY:Pw (P)
-LOCATION:227 S
+LOCATION:252 S
 DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNumer zajęć: 1/4\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260509T060000Z
+DTEND:20260509T073500Z
+SUMMARY:Tik (L)
+LOCATION:011 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T075000Z
@@ -3238,25 +3238,18 @@ LOCATION:235 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260509T113000Z
-DTEND:20260509T130500Z
+DTSTART:20260509T094000Z
+DTEND:20260509T111500Z
 SUMMARY:Tik (w)
 LOCATION:201 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260509T140000Z
-DTEND:20260509T153500Z
+DTSTART:20260509T113000Z
+DTEND:20260509T130500Z
 SUMMARY:Tik (ć)
-LOCATION:120 65
+LOCATION:201 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr inż. Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260509T155000Z
-DTEND:20260509T172500Z
-SUMMARY:Tik (L)
-LOCATION:106 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260510T060000Z
@@ -3347,7 +3340,7 @@ DTSTART:20260517T094000Z
 DTEND:20260517T111500Z
 SUMMARY:MM (ć)
 LOCATION:308 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260517T113000Z
@@ -3362,6 +3355,20 @@ DTEND:20260517T153500Z
 SUMMARY:Sck (L)
 LOCATION:121 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: Karol Szczepanowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260517T155000Z
+DTEND:20260517T172500Z
+SUMMARY:MM (ć)
+LOCATION:308 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260523T060000Z
+DTEND:20260523T073500Z
+SUMMARY:FII (Inne)
+LOCATION:313 S
+DESCRIPTION:Fizyka II - (Egzamin poprawkowy) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260523T075000Z

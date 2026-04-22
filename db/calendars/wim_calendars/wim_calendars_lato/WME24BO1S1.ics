@@ -578,13 +578,6 @@ LOCATION:
 DESCRIPTION:Podstawy przetwarzania sygnałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Telega Sławomir
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250505T060000Z
-DTEND:20250505T073500Z
-SUMMARY:PTer. (L)
-LOCATION:
-DESCRIPTION:Podstawy termowizji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Gogler Sławomir
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250602T060000Z
 DTEND:20250602T073500Z
 SUMMARY:PiPJ (L)
@@ -646,13 +639,6 @@ DTEND:20250428T092500Z
 SUMMARY:SOwBM (L)
 LOCATION:
 DESCRIPTION:Spektroskopia optyczna w biologii, medycynie i chemii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Włodarski Maksymilian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T075000Z
-DTEND:20250505T092500Z
-SUMMARY:PTer. (L)
-LOCATION:
-DESCRIPTION:Podstawy termowizji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Gogler Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T075000Z
@@ -984,6 +970,13 @@ LOCATION:
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250422T060000Z
+DTEND:20250422T073500Z
+SUMMARY:PTer. (L)
+LOCATION:
+DESCRIPTION:Podstawy termowizji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Gogler Sławomir
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250617T060000Z
 DTEND:20250617T073500Z
 SUMMARY:Po (L)
@@ -1037,7 +1030,7 @@ DTSTART:20250422T075000Z
 DTEND:20250422T092500Z
 SUMMARY:PTer. (L)
 LOCATION:
-DESCRIPTION:Podstawy termowizji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Gogler Sławomir
+DESCRIPTION:Podstawy termowizji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Gogler Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T075000Z
@@ -1166,13 +1159,6 @@ LOCATION:8/ 62
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: mgr inż. Kocoń Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250422T094000Z
-DTEND:20250422T111500Z
-SUMMARY:PTer. (L)
-LOCATION:
-DESCRIPTION:Podstawy termowizji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Gogler Sławomir
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250429T094000Z
 DTEND:20250429T111500Z
 SUMMARY:Rou (L)
@@ -1261,7 +1247,7 @@ DTSTART:20250415T113000Z
 DTEND:20250415T130500Z
 SUMMARY:PTer. (L)
 LOCATION:
-DESCRIPTION:Podstawy termowizji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Gogler Sławomir
+DESCRIPTION:Podstawy termowizji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Gogler Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250422T113000Z
@@ -1324,7 +1310,7 @@ DTSTART:20250415T140000Z
 DTEND:20250415T153500Z
 SUMMARY:PTer. (L)
 LOCATION:
-DESCRIPTION:Podstawy termowizji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Gogler Sławomir
+DESCRIPTION:Podstawy termowizji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Gogler Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250422T140000Z
@@ -1525,16 +1511,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T075000Z
 DTEND:20250423T092500Z
-SUMMARY:PiPJ (w)
-LOCATION:
-DESCRIPTION:Plazma i promieniowanie jonizujące w obróbce powierzchni\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. (prof. ucz.) Bartnik Andrzej
+SUMMARY:Wm (ć)
+LOCATION:51/ 62
+DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/13\nProwadzący: dr hab. inż.(prof. ucz.) Miedzińska Danuta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T075000Z
 DTEND:20250430T092500Z
 SUMMARY:PiPJ (w)
 LOCATION:
-DESCRIPTION:Plazma i promieniowanie jonizujące w obróbce powierzchni\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. (prof. ucz.) Bartnik Andrzej
+DESCRIPTION:Plazma i promieniowanie jonizujące w obróbce powierzchni\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: dr hab. inż. (prof. ucz.) Bartnik Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T075000Z
@@ -1674,7 +1660,7 @@ DTSTART:20250528T094000Z
 DTEND:20250528T111500Z
 SUMMARY:PTer. (L)
 LOCATION:
-DESCRIPTION:Podstawy termowizji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Gogler Sławomir
+DESCRIPTION:Podstawy termowizji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Gogler Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T094000Z
@@ -1735,9 +1721,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T113000Z
 DTEND:20250423T130500Z
-SUMMARY:Wm (ć)
-LOCATION:51/ 62
-DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/13\nProwadzący: dr hab. inż.(prof. ucz.) Miedzińska Danuta
+SUMMARY:PiPJ (w)
+LOCATION:
+DESCRIPTION:Plazma i promieniowanie jonizujące w obróbce powierzchni\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. (prof. ucz.) Bartnik Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T113000Z
@@ -1772,7 +1758,7 @@ DTSTART:20250528T113000Z
 DTEND:20250528T130500Z
 SUMMARY:PTer. (L)
 LOCATION:
-DESCRIPTION:Podstawy termowizji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Gogler Sławomir
+DESCRIPTION:Podstawy termowizji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Gogler Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T113000Z
@@ -1796,6 +1782,13 @@ LOCATION:
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: mgr inż. Kocoń Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250430T140000Z
+DTEND:20250430T153500Z
+SUMMARY:PTer. (L)
+LOCATION:
+DESCRIPTION:Podstawy termowizji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Gogler Sławomir
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250507T140000Z
 DTEND:20250507T153500Z
 SUMMARY:Pps (L)
@@ -1815,6 +1808,13 @@ DTEND:20250402T172500Z
 SUMMARY:Gśr.PSP (ć)
 LOCATION:
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: mgr inż. Kocoń Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250430T155000Z
+DTEND:20250430T172500Z
+SUMMARY:PTer. (L)
+LOCATION:
+DESCRIPTION:Podstawy termowizji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Gogler Sławomir
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T155000Z

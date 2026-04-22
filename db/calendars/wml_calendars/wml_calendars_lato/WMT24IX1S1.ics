@@ -53,6 +53,13 @@ LOCATION:128 36;141
 DESCRIPTION:* Rowicki Mateusz\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kochan Jakub
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260511T075000Z
+DTEND:20260511T092500Z
+SUMMARY:Pkrob (w)
+LOCATION:S2 72
+DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Przybysz Mirosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260601T075000Z
 DTEND:20260601T092500Z
 SUMMARY:Ucm (ć)
@@ -424,6 +431,13 @@ LOCATION:34 67
 DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260505T060000Z
+DTEND:20260505T073500Z
+SUMMARY:Ucm (ć)
+LOCATION:S1 72
+DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż. Djabin Jakub
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260512T060000Z
 DTEND:20260512T073500Z
 SUMMARY:PA (ć)
@@ -599,13 +613,6 @@ LOCATION:18 67
 DESCRIPTION:Komputerowe wspomaganie obliczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr hab.inż. Falkowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260421T113000Z
-DTEND:20260421T130500Z
-SUMMARY:Pkrob (w)
-LOCATION:41 36
-DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Przybysz Mirosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260428T113000Z
 DTEND:20260428T130500Z
 SUMMARY:Sens (L)
@@ -660,13 +667,6 @@ DTEND:20260421T153500Z
 SUMMARY:Sens (L)
 LOCATION:2.14/ 54A
 DESCRIPTION:Sensoryka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Rykała Łukasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260505T140000Z
-DTEND:20260505T153500Z
-SUMMARY:Ucm (ć)
-LOCATION:20 63
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż. Djabin Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T140000Z
@@ -956,6 +956,13 @@ LOCATION:2.10/ 54A
 DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Przybysz Mirosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260429T113000Z
+DTEND:20260429T130500Z
+SUMMARY:Kwsob (ć)
+LOCATION:31 36
+DESCRIPTION:Komputerowe wspomaganie obliczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr hab.inż. Falkowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T113000Z
 DTEND:20260506T130500Z
 SUMMARY:Brmob (L)
@@ -1157,13 +1164,6 @@ DTEND:20260416T092500Z
 SUMMARY:Pkrob (ć)
 LOCATION:2.14/ 54A
 DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Przybysz Mirosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260423T075000Z
-DTEND:20260423T092500Z
-SUMMARY:Kwsob (ć)
-LOCATION:130 36
-DESCRIPTION:Komputerowe wspomaganie obliczeń\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr hab.inż. Falkowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T075000Z

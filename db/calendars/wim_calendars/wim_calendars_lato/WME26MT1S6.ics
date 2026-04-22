@@ -126,7 +126,7 @@ BEGIN:VEVENT
 DTSTART:20250706T060000Z
 DTEND:20250706T073500Z
 SUMMARY:wzbnim (w)
-LOCATION:aula/ 135 MW
+LOCATION:
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: mjr dr inż. Walkowiak Marzena
 END:VEVENT
 BEGIN:VEVENT
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 DTSTART:20250706T075000Z
 DTEND:20250706T092500Z
 SUMMARY:wzbnim (w)
-LOCATION:aula/ 135 MW
+LOCATION:
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: mjr dr inż. Walkowiak Marzena
 END:VEVENT
 BEGIN:VEVENT
@@ -3084,6 +3084,13 @@ LOCATION:19/ 135
 DESCRIPTION:.Bezpieczeństwo i higiena pracy.\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250424T060000Z
+DTEND:20250424T073500Z
+SUMMARY:PPiBT (w)
+LOCATION:51/ 62
+DESCRIPTION:Podstawy prawne i bezpieczeństwo transportu ładunków\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr inż. Chojnowski Janusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250501T060000Z
 DTEND:20250501T073500Z
 SUMMARY:I 
@@ -3210,6 +3217,13 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 19/24
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250424T075000Z
+DTEND:20250424T092500Z
+SUMMARY:PPiBT (w)
+LOCATION:51/ 62
+DESCRIPTION:Podstawy prawne i bezpieczeństwo transportu ładunków\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr inż. Chojnowski Janusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250501T075000Z
 DTEND:20250501T092500Z
 SUMMARY:I 
@@ -3334,6 +3348,13 @@ DTEND:20250417T111500Z
 SUMMARY:SzS (ć)
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250424T094000Z
+DTEND:20250424T111500Z
+SUMMARY:PPiBT (w)
+LOCATION:51/ 62
+DESCRIPTION:Podstawy prawne i bezpieczeństwo transportu ładunków\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250501T094000Z
@@ -3809,7 +3830,7 @@ DTSTART:20250530T060000Z
 DTEND:20250530T073500Z
 SUMMARY:PPiBT (w)
 LOCATION:51/ 62
-DESCRIPTION:Podstawy prawne i bezpieczeństwo transportu ładunków\nRodzaj zajęć: Wykład\nNumer zajęć: 6/11\nProwadzący: dr inż. Chojnowski Janusz
+DESCRIPTION:Podstawy prawne i bezpieczeństwo transportu ładunków\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T060000Z
@@ -3823,7 +3844,7 @@ DTSTART:20250613T060000Z
 DTEND:20250613T073500Z
 SUMMARY:PPiBT (w)
 LOCATION:51/ 62
-DESCRIPTION:Podstawy prawne i bezpieczeństwo transportu ładunków\nRodzaj zajęć: Wykład\nNumer zajęć: 7/11\nProwadzący: dr inż. Chojnowski Janusz
+DESCRIPTION:Podstawy prawne i bezpieczeństwo transportu ładunków\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T085000Z
@@ -3893,7 +3914,7 @@ DTSTART:20250530T075000Z
 DTEND:20250530T092500Z
 SUMMARY:PPiBT (w)
 LOCATION:51/ 62
-DESCRIPTION:Podstawy prawne i bezpieczeństwo transportu ładunków\nRodzaj zajęć: Wykład\nNumer zajęć: 8/11\nProwadzący: dr inż. Chojnowski Janusz
+DESCRIPTION:Podstawy prawne i bezpieczeństwo transportu ładunków\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T075000Z
@@ -3964,13 +3985,6 @@ DTEND:20250502T111500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 254/329
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250516T094000Z
-DTEND:20250516T111500Z
-SUMMARY:PPiBT (w)
-LOCATION:51/ 62
-DESCRIPTION:Podstawy prawne i bezpieczeństwo transportu ładunków\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T094000Z
@@ -4057,13 +4071,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 262/329
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250516T113000Z
-DTEND:20250516T130500Z
-SUMMARY:PPiBT (w)
-LOCATION:8/ 62
-DESCRIPTION:Podstawy prawne i bezpieczeństwo transportu ładunków\nRodzaj zajęć: Wykład\nNumer zajęć: 10/11\nProwadzący: dr inż. Chojnowski Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250523T113000Z
 DTEND:20250523T130500Z
 SUMMARY:SzS (ć)
@@ -4132,13 +4139,6 @@ DTEND:20250502T153500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 270/329
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250516T140000Z
-DTEND:20250516T153500Z
-SUMMARY:PPiBT (w)
-LOCATION:8/ 62
-DESCRIPTION:Podstawy prawne i bezpieczeństwo transportu ładunków\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T140000Z

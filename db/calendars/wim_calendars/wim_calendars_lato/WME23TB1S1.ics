@@ -746,6 +746,13 @@ LOCATION:42/ 20
 DESCRIPTION:Przedsiębiorstwo serwisowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/12\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250512T113000Z
+DTEND:20250512T130500Z
+SUMMARY:BPiE (L)
+LOCATION:6/ 23a
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250519T113000Z
 DTEND:20250519T130500Z
 SUMMARY:Ośt (L)
@@ -779,13 +786,6 @@ DTEND:20250407T153500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 12/56
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250421T140000Z
-DTEND:20250421T153500Z
-SUMMARY:LM. (w)
-LOCATION:51/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T140000Z
@@ -939,7 +939,7 @@ DTSTART:20250422T075000Z
 DTEND:20250422T092500Z
 SUMMARY:BPiE (L)
 LOCATION:5/ 23a
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T075000Z
@@ -1163,14 +1163,14 @@ DTSTART:20250318T150000Z
 DTEND:20250318T163500Z
 SUMMARY:LM. (w)
 LOCATION:8/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T140000Z
 DTEND:20250401T153500Z
 SUMMARY:LM. (w)
 LOCATION:8/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T140000Z
@@ -1345,7 +1345,7 @@ DTSTART:20250326T085000Z
 DTEND:20250326T102500Z
 SUMMARY:BPiE (L)
 LOCATION:5/ 23a
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T075000Z
@@ -1357,13 +1357,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T075000Z
 DTEND:20250409T092500Z
-SUMMARY:BPiE (L)
-LOCATION:5/ 23a
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250416T075000Z
-DTEND:20250416T092500Z
 SUMMARY:BPiE (L)
 LOCATION:5/ 23a
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4
@@ -1525,6 +1518,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T140000Z
 DTEND:20250409T153500Z
+SUMMARY:LM. (w)
+LOCATION:51/ 62
+DESCRIPTION:Logistics management\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: płk dr inż. Goliasz Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T140000Z
+DTEND:20250507T153500Z
 SUMMARY:LM. (w)
 LOCATION:51/ 62
 DESCRIPTION:Logistics management\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: płk dr inż. Goliasz Tomasz

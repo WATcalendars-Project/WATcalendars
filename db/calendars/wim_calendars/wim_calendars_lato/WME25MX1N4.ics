@@ -1616,16 +1616,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T113000Z
 DTEND:20250614T130500Z
-SUMMARY:Msrm (L)
-LOCATION:14/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: dr inż. Rubiec Arkadiusz
+SUMMARY:Man. (ć)
+LOCATION:9/ 62
+DESCRIPTION:Mechanika analityczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250621T113000Z
 DTEND:20250621T130500Z
 SUMMARY:Msrm (L)
 LOCATION:14/ 54A; 10/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250628T113000Z
@@ -1693,9 +1693,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T140000Z
 DTEND:20250412T153500Z
-SUMMARY:Man. (ć)
-LOCATION:9/ 62
-DESCRIPTION:Mechanika analityczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
+SUMMARY:SzKPUM (w)
+LOCATION:09/ 54A
+DESCRIPTION:Szacowanie kosztów i planowanie użytkowania maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250419T140000Z
@@ -1709,7 +1709,7 @@ DTSTART:20250426T140000Z
 DTEND:20250426T153500Z
 SUMMARY:Msrm (L)
 LOCATION:14/ 54A; 10/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250503T140000Z
@@ -1758,7 +1758,7 @@ DTSTART:20250614T140000Z
 DTEND:20250614T153500Z
 SUMMARY:Msrm (L)
 LOCATION:14/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250621T140000Z
@@ -1817,13 +1817,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 62/70
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250412T155000Z
-DTEND:20250412T172500Z
-SUMMARY:SzKPUM (w)
-LOCATION:09/ 54A
-DESCRIPTION:Szacowanie kosztów i planowanie użytkowania maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: dr inż. Kuchta Wiesław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250419T155000Z
 DTEND:20250419T172500Z
 SUMMARY:Pbaw (L)
@@ -1835,7 +1828,7 @@ DTSTART:20250426T155000Z
 DTEND:20250426T172500Z
 SUMMARY:Msrm (L)
 LOCATION:14/ 54A; 10/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: dr inż. Rubiec Arkadiusz
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250503T155000Z
@@ -1878,6 +1871,13 @@ DTEND:20250607T172500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 65/70
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250614T155000Z
+DTEND:20250614T172500Z
+SUMMARY:Msrm (L)
+LOCATION:14/ 54A
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: dr inż. Rubiec Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250621T155000Z
