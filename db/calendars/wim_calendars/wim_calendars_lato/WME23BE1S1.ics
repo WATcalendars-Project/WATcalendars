@@ -76,9 +76,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250921T060000Z
 DTEND:20250921T073500Z
-SUMMARY:Sze (Zp.)
+SUMMARY:Piab (Ep)
 LOCATION:
-DESCRIPTION:Systemy zapewnienia energii\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Watral Zbigniew
+DESCRIPTION:Pomiary i analiza biosygnałów\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Jakubowski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250302T085000Z
@@ -1579,20 +1579,6 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 23/83
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250703T075000Z
-DTEND:20250703T092500Z
-SUMMARY:Piab (E)
-LOCATION:
-DESCRIPTION:Pomiary i analiza biosygnałów\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Jakubowski Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250918T075000Z
-DTEND:20250918T092500Z
-SUMMARY:Piab (Ep)
-LOCATION:
-DESCRIPTION:Pomiary i analiza biosygnałów\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Jakubowski Jacek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250306T104000Z
 DTEND:20250306T121500Z
 SUMMARY:REZ 
@@ -1703,6 +1689,20 @@ DTEND:20250619T111500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 35/83
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250703T094000Z
+DTEND:20250703T111500Z
+SUMMARY:Piab (E)
+LOCATION:
+DESCRIPTION:Pomiary i analiza biosygnałów\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Jakubowski Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250918T094000Z
+DTEND:20250918T111500Z
+SUMMARY:Sze (Zp.)
+LOCATION:
+DESCRIPTION:Systemy zapewnienia energii\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Watral Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T123000Z

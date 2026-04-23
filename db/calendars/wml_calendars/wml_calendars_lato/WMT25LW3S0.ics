@@ -550,6 +550,13 @@ LOCATION:141 S;139
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Węgłowski Rafał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260609T060000Z
+DTEND:20260609T073500Z
+SUMMARY:Mat3 (ć)
+LOCATION:204 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr Kubica Adam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T085000Z
 DTEND:20260303T102500Z
 SUMMARY:Mat3 (w)
@@ -1906,13 +1913,6 @@ DTEND:20260423T111500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr Stawicka Natalia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T094000Z
-DTEND:20260430T111500Z
-SUMMARY:Mat3 (ć)
-LOCATION:20 63
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T094000Z

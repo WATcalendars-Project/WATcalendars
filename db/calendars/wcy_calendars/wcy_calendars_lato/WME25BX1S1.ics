@@ -4729,6 +4729,13 @@ LOCATION:54/ 62
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260520T140000Z
+DTEND:20260520T153500Z
+SUMMARY:Mat3 (L)
+LOCATION:219 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260520T155000Z
 DTEND:20260520T172500Z
 SUMMARY:JoM (ć)
@@ -4857,9 +4864,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T075000Z
 DTEND:20260526T092500Z
-SUMMARY:Mat3 (L)
+SUMMARY:Mat4 (L)
 LOCATION:54/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T094000Z
@@ -4901,7 +4908,7 @@ DTSTART:20260527T094000Z
 DTEND:20260527T111500Z
 SUMMARY:Mat4 (L)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T113000Z
@@ -5055,7 +5062,14 @@ DTSTART:20260603T094000Z
 DTEND:20260603T111500Z
 SUMMARY:Mat4 (L)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T113000Z
+DTEND:20260603T130500Z
+SUMMARY:Mat4 (L)
+LOCATION:52/ 62
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T155000Z
@@ -5209,7 +5223,7 @@ DTSTART:20260610T094000Z
 DTEND:20260610T111500Z
 SUMMARY:Mat4 (L)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T113000Z
@@ -5345,13 +5359,6 @@ LOCATION:54/ 62
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260616T094000Z
-DTEND:20260616T111500Z
-SUMMARY:Mat4 (L)
-LOCATION:54/ 62
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr Jerzy Ploch
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260616T113000Z
 DTEND:20260616T130500Z
 SUMMARY:Ppu. (w)
@@ -5371,13 +5378,6 @@ DTEND:20260617T073500Z
 SUMMARY:F1 (w)
 LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 20/20\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260617T075000Z
-DTEND:20260617T092500Z
-SUMMARY:Mat4 (L)
-LOCATION:8/ 62
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T155000Z

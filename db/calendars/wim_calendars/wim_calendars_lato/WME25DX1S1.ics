@@ -298,13 +298,6 @@ LOCATION:52/ 62
 DESCRIPTION:Podstawy techniki samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 9/11\nProwadzący: dr hab. inż.(prof. ucz.) Jackowski Jerzy
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250504T094000Z
-DTEND:20250504T111500Z
-SUMMARY:Mat3 (ć)
-LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Ploch Jerzy
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250511T094000Z
 DTEND:20250511T111500Z
 SUMMARY:PTS* (w)
@@ -386,7 +379,7 @@ DTSTART:20250316T123000Z
 DTEND:20250316T140500Z
 SUMMARY:Mat3 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Ploch Jerzy
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250323T123000Z
@@ -547,21 +540,21 @@ DTSTART:20250317T070000Z
 DTEND:20250317T083500Z
 SUMMARY:Mat3 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Ploch Jerzy
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T070000Z
 DTEND:20250324T083500Z
 SUMMARY:Mat3 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Ploch Jerzy
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T060000Z
 DTEND:20250331T073500Z
 SUMMARY:Mat3 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Ploch Jerzy
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T060000Z
@@ -575,14 +568,14 @@ DTSTART:20250414T060000Z
 DTEND:20250414T073500Z
 SUMMARY:Mat3 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Ploch Jerzy
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250421T060000Z
 DTEND:20250421T073500Z
 SUMMARY:Mat3 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Ploch Jerzy
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T060000Z
@@ -596,7 +589,7 @@ DTSTART:20250310T085000Z
 DTEND:20250310T102500Z
 SUMMARY:Mat3 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Ploch Jerzy
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T085000Z
@@ -715,7 +708,7 @@ DTSTART:20250505T094000Z
 DTEND:20250505T111500Z
 SUMMARY:Mat3 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr Ploch Jerzy
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T094000Z
@@ -1198,7 +1191,7 @@ DTSTART:20250318T123000Z
 DTEND:20250318T140500Z
 SUMMARY:Mat3 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr Ploch Jerzy
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T113000Z
@@ -1234,6 +1227,13 @@ DTEND:20250513T130500Z
 SUMMARY:Mat3 (L)
 LOCATION:9/ 62
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Ploch Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250520T113000Z
+DTEND:20250520T130500Z
+SUMMARY:Mat3 (ć)
+LOCATION:
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T113000Z

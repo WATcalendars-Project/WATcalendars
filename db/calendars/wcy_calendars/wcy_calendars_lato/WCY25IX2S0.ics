@@ -3399,20 +3399,6 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260428T140000Z
-DTEND:20260428T153500Z
-SUMMARY:WdP (L)
-LOCATION:233 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: mgr inż. Piotr Adamczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260428T155000Z
-DTEND:20260428T172500Z
-SUMMARY:WdP (L)
-LOCATION:233 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr inż. Piotr Adamczyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260429T060000Z
 DTEND:20260429T073500Z
 SUMMARY:WdP (w)
@@ -3602,13 +3588,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 37/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260507T174000Z
-DTEND:20260507T191500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 38/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260508T094000Z
 DTEND:20260508T111500Z
 SUMMARY:DWiPD (w)
@@ -3690,14 +3669,14 @@ DTSTART:20260512T140000Z
 DTEND:20260512T153500Z
 SUMMARY:WdP (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr inż. Piotr Adamczyk
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T155000Z
 DTEND:20260512T172500Z
 SUMMARY:WdP (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Piotr Adamczyk
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T075000Z
@@ -3740,13 +3719,6 @@ DTEND:20260514T153500Z
 SUMMARY:ZaMe (w)
 LOCATION:103 K
 DESCRIPTION:Zabezpieczenie medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260514T174000Z
-DTEND:20260514T191500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 39/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T060000Z
@@ -3868,6 +3840,20 @@ LOCATION:314 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260520T140000Z
+DTEND:20260520T153500Z
+SUMMARY:WdP (L)
+LOCATION:228 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T155000Z
+DTEND:20260520T172500Z
+SUMMARY:WdP (L)
+LOCATION:228 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260521T060000Z
 DTEND:20260521T073500Z
 SUMMARY:SzS (w)
@@ -3889,32 +3875,11 @@ LOCATION:AW 3/043
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260521T113000Z
-DTEND:20260521T130500Z
-SUMMARY:WdP (L)
-LOCATION:224 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: mgr inż. Piotr Adamczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260521T140000Z
-DTEND:20260521T153500Z
-SUMMARY:WdP (L)
-LOCATION:224 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: mgr inż. Piotr Adamczyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260521T155000Z
 DTEND:20260521T172500Z
 SUMMARY:PTk (ć)
 LOCATION:011 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: mgr inż. Marcin Goluch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260521T174000Z
-DTEND:20260521T191500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 40/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T060000Z
@@ -4061,7 +4026,7 @@ DTSTART:20260528T113000Z
 DTEND:20260528T130500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 41/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 38/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T140000Z
@@ -4069,13 +4034,6 @@ DTEND:20260528T153500Z
 SUMMARY:GMiB (w)
 LOCATION:103 K
 DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260528T174000Z
-DTEND:20260528T191500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 42/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T060000Z
@@ -4173,14 +4131,14 @@ DTSTART:20260602T140000Z
 DTEND:20260602T153500Z
 SUMMARY:WdP (L)
 LOCATION:226 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T155000Z
 DTEND:20260602T172500Z
 SUMMARY:WdP (L)
 LOCATION:226 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T060000Z
@@ -4239,6 +4197,20 @@ LOCATION:307 S
 DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260610T060000Z
+DTEND:20260610T073500Z
+SUMMARY:WdP (L)
+LOCATION:236 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T075000Z
+DTEND:20260610T092500Z
+SUMMARY:WdP (L)
+LOCATION:236 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260611T060000Z
 DTEND:20260611T073500Z
 SUMMARY:WF (ć)
@@ -4272,13 +4244,6 @@ DTEND:20260611T153500Z
 SUMMARY:GMiB (w)
 LOCATION:103 K
 DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260611T174000Z
-DTEND:20260611T191500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 43/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T060000Z
@@ -4320,7 +4285,7 @@ DTSTART:20260615T094000Z
 DTEND:20260615T111500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 44/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 39/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T113000Z
@@ -4362,14 +4327,14 @@ DTSTART:20260616T113000Z
 DTEND:20260616T130500Z
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T140000Z
 DTEND:20260616T153500Z
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T094000Z
@@ -4419,13 +4384,6 @@ DTEND:20260618T153500Z
 SUMMARY:PD (Inne)
 LOCATION:AW 3/043
 DESCRIPTION:Podstawy dowodzenia - (repetytorium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260618T174000Z
-DTEND:20260618T191500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 45/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T075000Z

@@ -417,6 +417,13 @@ LOCATION:31 36
 DESCRIPTION:Laboratorium informatyki i mechaniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Czyżewska Marta
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260601T140000Z
+DTEND:20260601T153500Z
+SUMMARY:PA (L)
+LOCATION:47 63
+DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż. Daniel Natalia
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260608T140000Z
 DTEND:20260608T153500Z
 SUMMARY:PA (L)
@@ -569,6 +576,13 @@ DTEND:20260609T092500Z
 SUMMARY:EiE2 (ć)
 LOCATION:5  63A
 DESCRIPTION:Elektrotechnika i elektronika II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Walenczykowska Marta
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T075000Z
+DTEND:20260616T092500Z
+SUMMARY:PA (L)
+LOCATION:47 63
+DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Daniel Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T104000Z
@@ -826,7 +840,7 @@ BEGIN:VEVENT
 DTSTART:20260506T060000Z
 DTEND:20260506T073500Z
 SUMMARY:PA (L)
-LOCATION:16 63;17 6
+LOCATION:16 63
 DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Siwek Michał
 END:VEVENT
 BEGIN:VEVENT

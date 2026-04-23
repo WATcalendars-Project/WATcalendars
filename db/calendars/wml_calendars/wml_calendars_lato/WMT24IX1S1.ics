@@ -60,6 +60,13 @@ LOCATION:S2 72
 DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Przybysz Mirosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260525T075000Z
+DTEND:20260525T092500Z
+SUMMARY:Brmob (L)
+LOCATION:2.37/ 54A
+DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: kpt. mgr inż. Dejewski Marcin
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260601T075000Z
 DTEND:20260601T092500Z
 SUMMARY:Ucm (ć)
@@ -109,18 +116,18 @@ LOCATION:20 63
 DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Siwek Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260504T094000Z
-DTEND:20260504T111500Z
-SUMMARY:Brmob (L)
-LOCATION:2.37/ 54A
-DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: kpt. mgr inż. Dejewski Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260511T094000Z
 DTEND:20260511T111500Z
 SUMMARY:Pkrob (w)
 LOCATION:41 36
 DESCRIPTION:Podstawy konstrukcji robotów\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Przybysz Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T094000Z
+DTEND:20260525T111500Z
+SUMMARY:Brmob (L)
+LOCATION:2.37/ 54A
+DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: kpt. mgr inż. Dejewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T094000Z
@@ -142,13 +149,6 @@ DTEND:20260330T130500Z
 SUMMARY:Sens (L)
 LOCATION:2.14/ 54A
 DESCRIPTION:Sensoryka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Rykała Łukasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260504T113000Z
-DTEND:20260504T130500Z
-SUMMARY:Brmob (L)
-LOCATION:2.37/ 54A
-DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: kpt. mgr inż. Dejewski Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T113000Z
@@ -662,13 +662,6 @@ LOCATION:2.14/ 54A
 DESCRIPTION:Sensoryka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Rykała Łukasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260421T140000Z
-DTEND:20260421T153500Z
-SUMMARY:Sens (L)
-LOCATION:2.14/ 54A
-DESCRIPTION:Sensoryka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Rykała Łukasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260512T140000Z
 DTEND:20260512T153500Z
 SUMMARY:Sens (L)
@@ -1171,6 +1164,13 @@ DTEND:20260430T092500Z
 SUMMARY:Ucm (ć)
 LOCATION:136 36
 DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Djabin Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T075000Z
+DTEND:20260507T092500Z
+SUMMARY:Sens (L)
+LOCATION:2.14/ 54A
+DESCRIPTION:Sensoryka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Rykała Łukasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T075000Z

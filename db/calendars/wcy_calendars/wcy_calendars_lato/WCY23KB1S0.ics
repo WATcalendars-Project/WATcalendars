@@ -1103,20 +1103,6 @@ LOCATION:316 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260427T094000Z
-DTEND:20260427T111500Z
-SUMMARY:Pjf (L)
-LOCATION:226 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Piotr Bączyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260427T113000Z
-DTEND:20260427T130500Z
-SUMMARY:Pjf (L)
-LOCATION:226 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Piotr Bączyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260428T060000Z
 DTEND:20260428T073500Z
 SUMMARY:Ja (ć)
@@ -1362,13 +1348,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 24/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260508T174000Z
-DTEND:20260508T191500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 25/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260509T075000Z
 DTEND:20260509T092500Z
 SUMMARY:XWF (ć)
@@ -1380,14 +1359,14 @@ DTSTART:20260511T094000Z
 DTEND:20260511T111500Z
 SUMMARY:Pjf (L)
 LOCATION:228 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Piotr Bączyk
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T113000Z
 DTEND:20260511T130500Z
 SUMMARY:Pjf (L)
 LOCATION:228 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Piotr Bączyk
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T140000Z
@@ -1467,6 +1446,20 @@ LOCATION:237 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 4/6\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260513T140000Z
+DTEND:20260513T153500Z
+SUMMARY:Pjf (L)
+LOCATION:226 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T155000Z
+DTEND:20260513T172500Z
+SUMMARY:Pjf (L)
+LOCATION:226 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260514T060000Z
 DTEND:20260514T073500Z
 SUMMARY:Ja (ć)
@@ -1492,7 +1485,7 @@ DTSTART:20260515T060000Z
 DTEND:20260515T073500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 26/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 25/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T075000Z
@@ -1513,28 +1506,7 @@ DTSTART:20260515T113000Z
 DTEND:20260515T130500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 27/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T140000Z
-DTEND:20260515T153500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 28/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T155000Z
-DTEND:20260515T172500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 29/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T174000Z
-DTEND:20260515T191500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 30/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 26/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T075000Z
@@ -1607,18 +1579,11 @@ LOCATION:316 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260522T060000Z
-DTEND:20260522T073500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 31/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260522T075000Z
 DTEND:20260522T092500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 32/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 27/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T094000Z
@@ -1646,14 +1611,7 @@ DTSTART:20260522T155000Z
 DTEND:20260522T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 33/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260522T174000Z
-DTEND:20260522T191500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 34/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 28/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260523T075000Z
@@ -1768,34 +1726,6 @@ LOCATION:2 55A
 DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260529T113000Z
-DTEND:20260529T130500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 35/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260529T140000Z
-DTEND:20260529T153500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 36/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260529T155000Z
-DTEND:20260529T172500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 37/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260529T174000Z
-DTEND:20260529T191500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 38/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260530T075000Z
 DTEND:20260530T092500Z
 SUMMARY:XWF (ć)
@@ -1908,53 +1838,11 @@ LOCATION:314 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260612T060000Z
-DTEND:20260612T073500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 39/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260612T075000Z
 DTEND:20260612T092500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/17\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260612T094000Z
-DTEND:20260612T111500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 40/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260612T113000Z
-DTEND:20260612T130500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 41/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260612T140000Z
-DTEND:20260612T153500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 42/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260612T155000Z
-DTEND:20260612T172500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 43/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260612T174000Z
-DTEND:20260612T191500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 44/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260613T075000Z
@@ -2038,14 +1926,7 @@ DTSTART:20260619T094000Z
 DTEND:20260619T111500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 45/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260619T113000Z
-DTEND:20260619T130500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 46/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 29/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T140000Z
@@ -2053,20 +1934,6 @@ DTEND:20260619T153500Z
 SUMMARY:SzS (w)
 LOCATION:AW 4
 DESCRIPTION:Szkolenie strzeleckie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260619T155000Z
-DTEND:20260619T172500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 47/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260619T174000Z
-DTEND:20260619T191500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 48/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260620T075000Z

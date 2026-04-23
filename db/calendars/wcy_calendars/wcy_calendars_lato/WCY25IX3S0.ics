@@ -3471,9 +3471,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T060000Z
 DTEND:20260423T073500Z
-SUMMARY:GMiB (w)
-LOCATION:103 K
-DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 53/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T075000Z
@@ -3508,7 +3508,7 @@ DTSTART:20260423T174000Z
 DTEND:20260423T191500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 53/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 54/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T113000Z
@@ -3637,20 +3637,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 44/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260430T094000Z
-DTEND:20260430T111500Z
-SUMMARY:WdP (L)
-LOCATION:239 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T113000Z
-DTEND:20260430T130500Z
-SUMMARY:WdP (L)
-LOCATION:239 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260504T060000Z
 DTEND:20260504T073500Z
 SUMMARY:Amt (ć)
@@ -3746,7 +3732,7 @@ DTSTART:20260507T060000Z
 DTEND:20260507T073500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 54/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 55/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T075000Z
@@ -3781,13 +3767,6 @@ DTSTART:20260507T155000Z
 DTEND:20260507T172500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 55/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260507T174000Z
-DTEND:20260507T191500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 56/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3795,14 +3774,14 @@ DTSTART:20260508T060000Z
 DTEND:20260508T073500Z
 SUMMARY:WdP (L)
 LOCATION:233 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T075000Z
 DTEND:20260508T092500Z
 SUMMARY:WdP (L)
 LOCATION:233 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T094000Z
@@ -3933,9 +3912,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T094000Z
 DTEND:20260514T111500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 57/1\nProwadzący: -
+SUMMARY:GMiB (w)
+LOCATION:AW 3/038
+DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T113000Z
@@ -3950,13 +3929,6 @@ DTEND:20260514T153500Z
 SUMMARY:ZaMe (w)
 LOCATION:103 K
 DESCRIPTION:Zabezpieczenie medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260514T174000Z
-DTEND:20260514T191500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 58/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T075000Z
@@ -4092,6 +4064,20 @@ LOCATION:314 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260520T140000Z
+DTEND:20260520T153500Z
+SUMMARY:WdP (L)
+LOCATION:233 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T155000Z
+DTEND:20260520T172500Z
+SUMMARY:WdP (L)
+LOCATION:233 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260521T060000Z
 DTEND:20260521T073500Z
 SUMMARY:PD (w)
@@ -4124,21 +4110,7 @@ DTSTART:20260521T140000Z
 DTEND:20260521T153500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 59/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260521T155000Z
-DTEND:20260521T172500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 60/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260521T174000Z
-DTEND:20260521T191500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 61/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 57/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T113000Z
@@ -4265,13 +4237,6 @@ DTEND:20260528T153500Z
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260528T174000Z
-DTEND:20260528T191500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 62/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T075000Z
@@ -4463,13 +4428,6 @@ LOCATION:AW 3/038
 DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260611T174000Z
-DTEND:20260611T191500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 63/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260612T060000Z
 DTEND:20260612T073500Z
 SUMMARY:DSiSM (Inne)
@@ -4566,13 +4524,6 @@ DTEND:20260618T153500Z
 SUMMARY:GMiB (w)
 LOCATION:103 K
 DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260618T174000Z
-DTEND:20260618T191500Z
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 64/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T060000Z
