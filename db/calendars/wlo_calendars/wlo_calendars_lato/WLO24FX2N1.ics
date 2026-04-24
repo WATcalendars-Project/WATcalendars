@@ -228,6 +228,13 @@ LOCATION:17/19; 16/19
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: mgr inż. Chodkiewicz Arkadiusz; mgr inż. Filipiuk Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260523T060000Z
+DTEND:20260523T073500Z
+SUMMARY:FII (Ep)
+LOCATION:313 S
+DESCRIPTION:Fizyka II\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. inż. Parka Janusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260530T060000Z
 DTEND:20260530T073500Z
 SUMMARY:Sp* (w)
@@ -277,18 +284,18 @@ LOCATION:38/20 WLO; 24FX; 1N; 1 gr
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12\nProwadzący: dr inż. Cypko Edward; dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260509T075000Z
-DTEND:20260509T092500Z
-SUMMARY:PPL (w)
-LOCATION:
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Kalbarczyk Ewa
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260516T075000Z
 DTEND:20260516T092500Z
 SUMMARY:Płe (L)
 LOCATION:17/19; 16/19
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: mgr inż. Chodkiewicz Arkadiusz; mgr inż. Filipiuk Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260523T075000Z
+DTEND:20260523T092500Z
+SUMMARY:FII (Ep)
+LOCATION:313 S
+DESCRIPTION:Fizyka II\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2/2\nProwadzący: prof. dr hab. inż. Parka Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260530T075000Z
@@ -519,7 +526,7 @@ DTSTART:20260328T150000Z
 DTEND:20260328T163500Z
 SUMMARY:PPL (w)
 LOCATION:
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Kalbarczyk Ewa
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T140000Z
@@ -533,14 +540,14 @@ DTSTART:20260418T140000Z
 DTEND:20260418T153500Z
 SUMMARY:PPL (w)
 LOCATION:
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Kalbarczyk Ewa
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T140000Z
 DTEND:20260425T153500Z
 SUMMARY:PPL (w)
 LOCATION:
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Kalbarczyk Ewa
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T140000Z
@@ -606,13 +613,6 @@ LOCATION:0.23/16
 DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260425T155000Z
-DTEND:20260425T172500Z
-SUMMARY:PKM (ć)
-LOCATION:0.23/16
-DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. Kosturek Robert
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260516T155000Z
 DTEND:20260516T172500Z
 SUMMARY:Ptr (L)
@@ -676,6 +676,20 @@ LOCATION:4d/19; 3d/19
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr inż. Senyk Szymon; mgr inż. Chodkiewicz Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260510T060000Z
+DTEND:20260510T073500Z
+SUMMARY:PPL (w)
+LOCATION:1.9/16 online
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Kalbarczyk Ewa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260517T060000Z
+DTEND:20260517T073500Z
+SUMMARY:PKM (ć)
+LOCATION:0.8/16
+DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. Kosturek Robert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260301T085000Z
 DTEND:20260301T102500Z
 SUMMARY:PeUT (w)
@@ -728,7 +742,7 @@ BEGIN:VEVENT
 DTSTART:20260517T075000Z
 DTEND:20260517T092500Z
 SUMMARY:PKM (ć)
-LOCATION:0.6/16
+LOCATION:0.8/16
 DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Kosturek Robert
 END:VEVENT
 BEGIN:VEVENT

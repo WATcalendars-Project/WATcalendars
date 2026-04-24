@@ -417,6 +417,13 @@ LOCATION:109 24
 DESCRIPTION:Biochemia\nRodzaj zajęć: Wykład\nNumer zajęć: 8/17\nProwadzący: dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260512T060000Z
+DTEND:20260512T073500Z
+SUMMARY:Doz (L)
+LOCATION:5 55
+DESCRIPTION:Dozymetria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: kpt. mgr inż Kuligowska Monika
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260526T060000Z
 DTEND:20260526T073500Z
 SUMMARY:Rch (ć)
@@ -487,11 +494,25 @@ LOCATION:1 55A
 DESCRIPTION:Chemia środków trujących i procesów odkażania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/16\nProwadzący: dr hab. inż. Popiel Stanisław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260512T075000Z
+DTEND:20260512T092500Z
+SUMMARY:Doz (L)
+LOCATION:5 55
+DESCRIPTION:Dozymetria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: kpt. mgr inż Kuligowska Monika
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260526T075000Z
 DTEND:20260526T092500Z
 SUMMARY:Rch (w)
 LOCATION:2 55A
 DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/15\nProwadzący: kpt. mgr inż Kuligowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T075000Z
+DTEND:20260602T092500Z
+SUMMARY:Rch (w)
+LOCATION:10 55
+DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T075000Z
@@ -561,7 +582,7 @@ DTSTART:20260602T094000Z
 DTEND:20260602T111500Z
 SUMMARY:Rch (w)
 LOCATION:2 55A
-DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/15\nProwadzący: kpt. mgr inż Kuligowska Monika
+DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T123000Z
@@ -617,13 +638,6 @@ DTSTART:20260422T060000Z
 DTEND:20260422T073500Z
 SUMMARY:Rch (w)
 LOCATION:2 55A
-DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: kpt. mgr inż Kuligowska Monika
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260429T060000Z
-DTEND:20260429T073500Z
-SUMMARY:Rch (w)
-LOCATION:2 55A
 DESCRIPTION:Ratownictwo chemiczne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/15\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
@@ -652,7 +666,7 @@ DTSTART:20260603T060000Z
 DTEND:20260603T073500Z
 SUMMARY:Doz (L)
 LOCATION:123 24
-DESCRIPTION:Dozymetria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: mjr dr inż. Fliszkiewicz Bartłomiej
+DESCRIPTION:Dozymetria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: mjr dr inż. Fliszkiewicz Bartłomiej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T085000Z
@@ -673,28 +687,21 @@ DTSTART:20260422T075000Z
 DTEND:20260422T092500Z
 SUMMARY:Doz (L)
 LOCATION:5 55
-DESCRIPTION:Dozymetria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: kpt. mgr inż Kuligowska Monika
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260429T075000Z
-DTEND:20260429T092500Z
-SUMMARY:Doz (L)
-LOCATION:5 55
-DESCRIPTION:Dozymetria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: kpt. mgr inż Kuligowska Monika
+DESCRIPTION:Dozymetria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T075000Z
 DTEND:20260506T092500Z
 SUMMARY:Doz (L)
 LOCATION:5 55
-DESCRIPTION:Dozymetria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: kpt. mgr inż Kuligowska Monika
+DESCRIPTION:Dozymetria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T075000Z
 DTEND:20260513T092500Z
 SUMMARY:Doz (L)
 LOCATION:5 55;19 55
-DESCRIPTION:Dozymetria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: kpt. mgr inż Kuligowska Monika
+DESCRIPTION:Dozymetria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T075000Z
@@ -708,18 +715,11 @@ DTSTART:20260603T075000Z
 DTEND:20260603T092500Z
 SUMMARY:Doz (L)
 LOCATION:123 24
-DESCRIPTION:Dozymetria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mjr dr inż. Fliszkiewicz Bartłomiej
+DESCRIPTION:Dozymetria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: mjr dr inż. Fliszkiewicz Bartłomiej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T094000Z
 DTEND:20260422T111500Z
-SUMMARY:Doz (L)
-LOCATION:5 55
-DESCRIPTION:Dozymetria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: kpt. mgr inż Kuligowska Monika
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260429T094000Z
-DTEND:20260429T111500Z
 SUMMARY:Doz (L)
 LOCATION:5 55
 DESCRIPTION:Dozymetria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: kpt. mgr inż Kuligowska Monika

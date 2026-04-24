@@ -81,6 +81,13 @@ LOCATION:4/ 23a; 5/ 23a; 14/ 23a
 DESCRIPTION:Elektrotechnika i elektronika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250601T060000Z
+DTEND:20250601T073500Z
+SUMMARY:PPL (S)
+LOCATION:6/ 23a
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Owczarek Paulina
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250615T060000Z
 DTEND:20250615T073500Z
 SUMMARY:Tr.Ł1 (w)
@@ -767,25 +774,18 @@ LOCATION:2/ 68
 DESCRIPTION:Przechowywanie i przewóz materiałów nieb. i ratownictwo drogowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250519T075000Z
-DTEND:20250519T092500Z
-SUMMARY:PRd (ć)
-LOCATION:2/ 68
-DESCRIPTION:Przechowywanie i przewóz materiałów nieb. i ratownictwo drogowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Chojnowski Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250526T075000Z
 DTEND:20250526T092500Z
 SUMMARY:PRd (ć)
 LOCATION:2/ 68
-DESCRIPTION:Przechowywanie i przewóz materiałów nieb. i ratownictwo drogowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Chojnowski Janusz
+DESCRIPTION:Przechowywanie i przewóz materiałów nieb. i ratownictwo drogowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T075000Z
 DTEND:20250602T092500Z
 SUMMARY:PRd (ć)
 LOCATION:20/ 68
-DESCRIPTION:Przechowywanie i przewóz materiałów nieb. i ratownictwo drogowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Chojnowski Janusz
+DESCRIPTION:Przechowywanie i przewóz materiałów nieb. i ratownictwo drogowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T075000Z
@@ -883,13 +883,6 @@ DTSTART:20250512T094000Z
 DTEND:20250512T111500Z
 SUMMARY:PPL (S)
 LOCATION:2/ 23a
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Owczarek Paulina
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250519T094000Z
-DTEND:20250519T111500Z
-SUMMARY:PPL (S)
-LOCATION:2/ 23a
 DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
@@ -905,6 +898,13 @@ DTEND:20250602T111500Z
 SUMMARY:MrBr (ć)
 LOCATION:2/ 23a
 DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T094000Z
+DTEND:20250609T111500Z
+SUMMARY:PPL (P)
+LOCATION:5/ 20
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/7\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T094000Z
@@ -988,7 +988,7 @@ DTSTART:20250505T113000Z
 DTEND:20250505T130500Z
 SUMMARY:PRd (ć)
 LOCATION:15/ 23a
-DESCRIPTION:Przechowywanie i przewóz materiałów nieb. i ratownictwo drogowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Chojnowski Janusz
+DESCRIPTION:Przechowywanie i przewóz materiałów nieb. i ratownictwo drogowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T113000Z
@@ -1016,7 +1016,14 @@ DTSTART:20250602T113000Z
 DTEND:20250602T130500Z
 SUMMARY:PPL (P)
 LOCATION:2/ 23a
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 2/7\nProwadzący: dr inż. Owczarek Paulina
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/7\nProwadzący: dr inż. Owczarek Paulina
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T113000Z
+DTEND:20250609T130500Z
+SUMMARY:PPL (P)
+LOCATION:5/ 20
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/7\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T113000Z
@@ -1100,7 +1107,7 @@ DTSTART:20250602T140000Z
 DTEND:20250602T153500Z
 SUMMARY:PPL (P)
 LOCATION:2/ 23a
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 3/7\nProwadzący: dr inż. Owczarek Paulina
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5/7\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T140000Z
@@ -1206,6 +1213,13 @@ DTEND:20250513T073500Z
 SUMMARY:KL. (ć)
 LOCATION:42/ 20
 DESCRIPTION:Koszty logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr Milian-Pogonowska Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250520T060000Z
+DTEND:20250520T073500Z
+SUMMARY:PRd (ć)
+LOCATION:2/ 68
+DESCRIPTION:Przechowywanie i przewóz materiałów nieb. i ratownictwo drogowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T060000Z
@@ -1761,13 +1775,6 @@ LOCATION:
 DESCRIPTION:Systemy ochrony obiektów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250521T094000Z
-DTEND:20250521T111500Z
-SUMMARY:PPL (P)
-LOCATION:5/ 23a
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 4/7\nProwadzący: dr inż. Owczarek Paulina
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250604T094000Z
 DTEND:20250604T111500Z
 SUMMARY:I 
@@ -1870,7 +1877,7 @@ DTSTART:20250507T113000Z
 DTEND:20250507T130500Z
 SUMMARY:PPL (P)
 LOCATION:2/ 23a
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 5/7\nProwadzący: dr inż. Owczarek Paulina
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 6/7\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T113000Z
@@ -1878,13 +1885,6 @@ DTEND:20250514T130500Z
 SUMMARY:Soo (L)
 LOCATION:
 DESCRIPTION:Systemy ochrony obiektów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250521T113000Z
-DTEND:20250521T130500Z
-SUMMARY:PPL (P)
-LOCATION:5/ 23a
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 6/7\nProwadzący: dr inż. Owczarek Paulina
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T113000Z

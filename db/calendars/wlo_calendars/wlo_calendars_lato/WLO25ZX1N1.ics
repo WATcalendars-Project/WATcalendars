@@ -189,7 +189,7 @@ BEGIN:VEVENT
 DTSTART:20260425T094000Z
 DTEND:20260425T111500Z
 SUMMARY:Psy (w)
-LOCATION:26/158
+LOCATION:1.10/16
 DESCRIPTION:Psychologia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Tarapata Jolanta
 END:VEVENT
 BEGIN:VEVENT
@@ -480,13 +480,6 @@ LOCATION:26/158
 DESCRIPTION:Zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Piotrkowski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260510T060000Z
-DTEND:20260510T073500Z
-SUMMARY:Fil (ć)
-LOCATION:0.22/16
-DESCRIPTION:Filozofia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr Ptaszek Stanisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260517T060000Z
 DTEND:20260517T073500Z
 SUMMARY:Zry (ć)
@@ -499,6 +492,20 @@ DTEND:20260531T073500Z
 SUMMARY:NOR (L)
 LOCATION:5.21/135
 DESCRIPTION:Nauka o organizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/3\nProwadzący: dr hab. inż. Miszalski Włodzimierz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260614T060000Z
+DTEND:20260614T073500Z
+SUMMARY:Fil (ć)
+LOCATION:4.17a/135
+DESCRIPTION:Filozofia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr Ptaszek Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260621T060000Z
+DTEND:20260621T073500Z
+SUMMARY:Fil (ć)
+LOCATION:0.22/16
+DESCRIPTION:Filozofia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260301T085000Z
@@ -548,13 +555,6 @@ DTEND:20260426T092500Z
 SUMMARY:Zkl (w)
 LOCATION:26/158
 DESCRIPTION:Zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr Piotrkowski Kazimierz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260510T075000Z
-DTEND:20260510T092500Z
-SUMMARY:Fil (ć)
-LOCATION:0.22/16
-DESCRIPTION:Filozofia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260517T075000Z

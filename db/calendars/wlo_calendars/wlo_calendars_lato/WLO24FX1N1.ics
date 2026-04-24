@@ -235,6 +235,13 @@ LOCATION:3.16/135
 DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260523T060000Z
+DTEND:20260523T073500Z
+SUMMARY:FII (Ep)
+LOCATION:313 S
+DESCRIPTION:Fizyka II\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. inż. Parka Janusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260530T060000Z
 DTEND:20260530T073500Z
 SUMMARY:Sp* (w)
@@ -254,6 +261,13 @@ DTEND:20260620T073500Z
 SUMMARY:Sp* (w)
 LOCATION:1/21
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr inż. Woźniak Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260627T060000Z
+DTEND:20260627T073500Z
+SUMMARY:Sp* (L)
+LOCATION:15/21; 17b/21 WLO; 24FX; 1N; 1 gr
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7\nProwadzący: dr inż. Chrzanowski Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260228T085000Z
@@ -294,29 +308,22 @@ BEGIN:VEVENT
 DTSTART:20260425T075000Z
 DTEND:20260425T092500Z
 SUMMARY:Wm (ć)
-LOCATION:0.8/16
+LOCATION:0.21/16
 DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260509T075000Z
-DTEND:20260509T092500Z
-SUMMARY:PPL (w)
-LOCATION:
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T075000Z
 DTEND:20260516T092500Z
-SUMMARY:Sp* (ć)
+SUMMARY:PeUT (ć)
 LOCATION:5/20
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Cypko Edward
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260530T075000Z
-DTEND:20260530T092500Z
-SUMMARY:PKM (ć)
-LOCATION:0.6/16
-DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Kosturek Robert
+DTSTART:20260523T075000Z
+DTEND:20260523T092500Z
+SUMMARY:FII (Ep)
+LOCATION:313 S
+DESCRIPTION:Fizyka II\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2/2\nProwadzący: prof. dr hab. inż. Parka Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260620T075000Z
@@ -370,22 +377,22 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T094000Z
 DTEND:20260425T111500Z
-SUMMARY:PeUT (ć)
-LOCATION:0.24/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+SUMMARY:Sp* (ć)
+LOCATION:5/20
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Cypko Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T094000Z
 DTEND:20260509T111500Z
 SUMMARY:PKM (ć)
 LOCATION:0.22/16
-DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. Kosturek Robert
+DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: dr inż. Kosturek Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T094000Z
 DTEND:20260516T111500Z
 SUMMARY:PeUT (ć)
-LOCATION:4.23/135
+LOCATION:5/20
 DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
@@ -469,15 +476,15 @@ BEGIN:VEVENT
 DTSTART:20260509T113000Z
 DTEND:20260509T130500Z
 SUMMARY:Sp* (L)
-LOCATION:38/20 WLO; 24FX; 1N; 1 gr
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Cypko Edward; dr inż. Woźniak Adam
+LOCATION:38/20; 15/21; 17b/21; 10/21; 9/21; 1/21 WLO; 24FX; 1N; 1 gr; 24FX; 1N; 1 gr
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7\nProwadzący: dr inż. Cypko Edward; dr inż. Chrzanowski Wojciech; dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T113000Z
 DTEND:20260516T130500Z
 SUMMARY:Sp* (L)
 LOCATION:38/20 WLO; 24FX; 1N; 1 gr
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Cypko Edward
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7\nProwadzący: dr inż. Cypko Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260613T113000Z
@@ -519,7 +526,7 @@ DTSTART:20260328T150000Z
 DTEND:20260328T163500Z
 SUMMARY:PPL (w)
 LOCATION:
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Kalbarczyk Ewa
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T140000Z
@@ -533,42 +540,35 @@ DTSTART:20260418T140000Z
 DTEND:20260418T153500Z
 SUMMARY:PPL (w)
 LOCATION:
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Kalbarczyk Ewa
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T140000Z
 DTEND:20260425T153500Z
 SUMMARY:PPL (w)
 LOCATION:
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Kalbarczyk Ewa
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Kalbarczyk Ewa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T140000Z
 DTEND:20260509T153500Z
 SUMMARY:Sp* (L)
 LOCATION:15/21; 17b/21; 10/21; 9/21; 1/21 WLO; 24FX; 1N; 1 gr
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Chrzanowski Wojciech; dr inż. Woźniak Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260516T140000Z
-DTEND:20260516T153500Z
-SUMMARY:Sp* (L)
-LOCATION:15/21; 17b/21; 10/21; 9/21; 1/21 WLO; 24FX; 1N; 1 gr
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Chrzanowski Wojciech
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: dr inż. Chrzanowski Wojciech; dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260613T140000Z
 DTEND:20260613T153500Z
 SUMMARY:Sp* (L)
 LOCATION:5/20 WLO; 24FX; 1N; 1 gr
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Woźniak Adam; dr inż. Cypko Edward
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: dr inż. Woźniak Adam; dr inż. Cypko Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260620T140000Z
 DTEND:20260620T153500Z
 SUMMARY:Sp* (L)
 LOCATION:5/20 WLO; 24FX; 1N; 1 gr
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Woźniak Adam; dr inż. Cypko Edward
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: dr inż. Woźniak Adam; dr inż. Cypko Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260228T165000Z
@@ -610,14 +610,7 @@ DTSTART:20260509T155000Z
 DTEND:20260509T172500Z
 SUMMARY:Sp* (L)
 LOCATION:15/21; 17b/21; 10/21; 9/21; 1/21 WLO; 24FX; 1N; 1 gr
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Chrzanowski Wojciech; dr inż. Woźniak Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260516T155000Z
-DTEND:20260516T172500Z
-SUMMARY:Sp* (L)
-LOCATION:15/21; 17b/21; 10/21; 9/21; 1/21 WLO; 24FX; 1N; 1 gr
-DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Chrzanowski Wojciech
+DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: dr inż. Chrzanowski Wojciech; dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260321T184000Z
@@ -666,6 +659,20 @@ DTSTART:20260419T060000Z
 DTEND:20260419T073500Z
 SUMMARY:PKM (ć)
 LOCATION:0.19/135
+DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr inż. Kosturek Robert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T060000Z
+DTEND:20260510T073500Z
+SUMMARY:PPL (w)
+LOCATION:1.9/16 online
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Kalbarczyk Ewa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260531T060000Z
+DTEND:20260531T073500Z
+SUMMARY:PKM (ć)
+LOCATION:0.23/16
 DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: dr inż. Kosturek Robert
 END:VEVENT
 BEGIN:VEVENT
