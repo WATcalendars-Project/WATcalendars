@@ -347,6 +347,13 @@ LOCATION:119 K
 DESCRIPTION:Podstawy edukacji muzycznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr Korczago Joanna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260602T075000Z
+DTEND:20260602T092500Z
+SUMMARY:Mat3 (L)
+LOCATION:
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr Kowal Robert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260331T094000Z
 DTEND:20260331T111500Z
 SUMMARY:F1 (ć)
@@ -732,6 +739,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: mgr Uzarska Magdalena
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260603T075000Z
+DTEND:20260603T092500Z
+SUMMARY:Mat3 (ć)
+LOCATION:0.19/135
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Kowal Robert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260610T075000Z
 DTEND:20260610T092500Z
 SUMMARY:BiEWTM (ć)
@@ -1114,32 +1128,25 @@ DTSTART:20260326T070000Z
 DTEND:20260326T083500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Kowal Robert
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T060000Z
 DTEND:20260416T073500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Kowal Robert
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T060000Z
 DTEND:20260423T073500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Kowal Robert
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T060000Z
 DTEND:20260430T073500Z
-SUMMARY:Mat3 (ć)
-LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Kowal Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260507T060000Z
-DTEND:20260507T073500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Kowal Robert
@@ -1304,13 +1311,6 @@ DTEND:20260514T172500Z
 SUMMARY:Fil (ć)
 LOCATION:4.17a/135
 DESCRIPTION:Filozofia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr hab. Sołoducha Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T075000Z
-DTEND:20260515T092500Z
-SUMMARY:Mat3 (L)
-LOCATION:
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr Kowal Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T075000Z

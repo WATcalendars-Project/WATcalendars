@@ -228,29 +228,29 @@ LOCATION:0.24/135
 DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Wykład\nNumer zajęć: 1/9\nProwadzący: dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260511T140000Z
+DTEND:20260511T153500Z
+SUMMARY:RF. (ć)
+LOCATION:31/158
+DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260518T140000Z
 DTEND:20260518T153500Z
 SUMMARY:RF. (ć)
 LOCATION:31/158
-DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11
+DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T140000Z
 DTEND:20260525T153500Z
 SUMMARY:RF. (ć)
 LOCATION:31/158
-DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11
+DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T140000Z
 DTEND:20260601T153500Z
-SUMMARY:RF. (ć)
-LOCATION:31/158
-DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260608T140000Z
-DTEND:20260608T153500Z
 SUMMARY:RF. (ć)
 LOCATION:31/158
 DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11
@@ -319,29 +319,29 @@ LOCATION:0.24/135
 DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260511T155000Z
+DTEND:20260511T172500Z
+SUMMARY:RF. (ć)
+LOCATION:31/158
+DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260518T155000Z
 DTEND:20260518T172500Z
 SUMMARY:RF. (ć)
 LOCATION:31/158
-DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11
+DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T155000Z
 DTEND:20260525T172500Z
 SUMMARY:RF. (ć)
 LOCATION:31/158
-DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11
+DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T155000Z
 DTEND:20260601T172500Z
-SUMMARY:RF. (ć)
-LOCATION:31/158
-DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260608T155000Z
-DTEND:20260608T172500Z
 SUMMARY:RF. (ć)
 LOCATION:31/158
 DESCRIPTION:Ochrona danych osobowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/11
@@ -697,18 +697,32 @@ LOCATION:0.24/135
 DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13\nProwadzący: dr hab. Filipek Agnieszka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260527T060000Z
+DTEND:20260527T073500Z
+SUMMARY:PTb (ć)
+LOCATION:31/158
+DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/13
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260513T075000Z
 DTEND:20260513T092500Z
 SUMMARY:PTb (ć)
 LOCATION:31/158
-DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/13
+DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T075000Z
+DTEND:20260527T092500Z
+SUMMARY:PTb (ć)
+LOCATION:31/158
+DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
 SUMMARY:PTb (ć)
 LOCATION:31/158
-DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/13
+DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T094000Z
@@ -722,28 +736,21 @@ DTSTART:20260527T094000Z
 DTEND:20260527T111500Z
 SUMMARY:PTb (ć)
 LOCATION:31/158
-DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/13
+DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T094000Z
 DTEND:20260603T111500Z
 SUMMARY:PTb (ć)
 LOCATION:31/158
-DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/13
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260610T094000Z
-DTEND:20260610T111500Z
-SUMMARY:PTb (ć)
-LOCATION:31/158
-DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/13
+DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T094000Z
 DTEND:20260617T111500Z
 SUMMARY:PTb (ć)
 LOCATION:31/158
-DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/13
+DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T123000Z
@@ -797,13 +804,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T113000Z
 DTEND:20260603T130500Z
-SUMMARY:PTb (ć)
-LOCATION:31/158
-DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/13
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260610T113000Z
-DTEND:20260610T130500Z
 SUMMARY:PTb (ć)
 LOCATION:31/158
 DESCRIPTION:Podstawy teorii bezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/13

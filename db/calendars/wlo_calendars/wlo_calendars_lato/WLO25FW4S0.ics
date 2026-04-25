@@ -522,6 +522,13 @@ LOCATION:0.19/135
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: dr inż. Walewska Aleksandra
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260609T094000Z
+DTEND:20260609T111500Z
+SUMMARY:Mat3 (ć)
+LOCATION:0.19/135
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Jastrzębska Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260616T094000Z
 DTEND:20260616T111500Z
 SUMMARY:ZdSZ (S)
@@ -932,7 +939,7 @@ DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Jastrzębska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T094000Z
@@ -1037,7 +1044,7 @@ DTSTART:20260617T113000Z
 DTEND:20260617T130500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Jastrzębska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T150000Z
@@ -1289,7 +1296,7 @@ DTSTART:20260312T085000Z
 DTEND:20260312T102500Z
 SUMMARY:RiAIP (w)
 LOCATION:2pl/29kp; 4pl/29kp; 25MX; 3S; 25FW; 4S; 25FW; 2S; 0 Was; 3/038 T
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk dr Waszkiewicz Grzegorz
+DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk dr Waszkiewicz Grzegorz; kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T085000Z
@@ -1345,7 +1352,7 @@ DTSTART:20260507T075000Z
 DTEND:20260507T092500Z
 SUMMARY:SzS (ć)
 LOCATION:2PL/20KP; 3PL/20KP; 2pl/29kp; 1pl/29kp; 25SW; 1S; 25KX; 3S; 25IX; 1S; 25IX; 2S; 25MX; 3S; 25FW; 4S; 25MX; 1S; 25MX; 2S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; dr Kowal Robert; płk dr Niemirka Sławomir; mjr mgr Stępień Jacek; mgr Stawicka Natalia
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; dr Kowal Robert; płk dr Niemirka Sławomir; kpt. mgr Ślusakowicz Stanisław; mjr mgr Stępień Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T075000Z
@@ -1366,7 +1373,7 @@ DTSTART:20260528T075000Z
 DTEND:20260528T092500Z
 SUMMARY:RiAIP (w)
 LOCATION:3W
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppor. mgr inż. Ślesiński Jakub; ppłk dr Waszkiewicz Grzegorz
+DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: kpt. mgr Ślusakowicz Stanisław; ppor. mgr inż. Ślesiński Jakub; ppłk dr Waszkiewicz Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T075000Z
@@ -1428,8 +1435,8 @@ BEGIN:VEVENT
 DTSTART:20260416T094000Z
 DTEND:20260416T111500Z
 SUMMARY:RiAIP (ć)
-LOCATION:2pl/29kp; 25MX; 3S; 25FW; 4S; 0 Was; 1 T
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
+LOCATION:2pl/29kp; 25MX; 3S; 25FW; 4S; 1 T
+DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T094000Z
@@ -1450,7 +1457,7 @@ DTSTART:20260507T094000Z
 DTEND:20260507T111500Z
 SUMMARY:SzS (ć)
 LOCATION:3PL/20KP; 2pl/29kp; 25IX; 1S; 25IX; 2S; 25MX; 3S; 25FW; 4S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; płk dr Niemirka Sławomir; mjr mgr Stępień Jacek; mgr Stawicka Natalia
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; płk dr Niemirka Sławomir; kpt. mgr Ślusakowicz Stanisław; mjr mgr Stępień Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T094000Z
@@ -1478,7 +1485,7 @@ DTSTART:20260611T094000Z
 DTEND:20260611T111500Z
 SUMMARY:RiAIP (S)
 LOCATION:4S
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: ppor. mgr inż. Ślesiński Jakub; ppłk dr Waszkiewicz Grzegorz
+DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: kpt. mgr Ślusakowicz Stanisław; ppłk dr Waszkiewicz Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T094000Z
@@ -1527,14 +1534,14 @@ DTSTART:20260409T113000Z
 DTEND:20260409T130500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Jastrzębska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T113000Z
 DTEND:20260416T130500Z
 SUMMARY:RiAIP (ć)
-LOCATION:2pl/29kp; 25MX; 3S; 25FW; 4S; 0 Was; 1 T
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
+LOCATION:2pl/29kp; 25MX; 3S; 25FW; 4S; 1 T
+DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T113000Z
@@ -1611,7 +1618,7 @@ DTSTART:20260326T150000Z
 DTEND:20260326T163500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Jastrzębska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T140000Z
@@ -1999,13 +2006,6 @@ LOCATION:0.19/135
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/15\nProwadzący: dr inż. Walewska Aleksandra
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260515T094000Z
-DTEND:20260515T111500Z
-SUMMARY:Mat3 (ć)
-LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Jastrzębska Małgorzata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260522T094000Z
 DTEND:20260522T111500Z
 SUMMARY:F1 (L)
@@ -2220,7 +2220,7 @@ DTSTART:20260516T060000Z
 DTEND:20260516T073500Z
 SUMMARY:SzS (ć)
 LOCATION:4PL/20KP; 2pl/29kp; 25IX; 3S; 25IX; 4S; 25MX; 3S; 25FW; 4S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; płk dr Niemirka Sławomir; mjr mgr Stępień Jacek
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; płk dr Niemirka Sławomir; kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T075000Z
@@ -2241,35 +2241,35 @@ DTSTART:20260425T075000Z
 DTEND:20260425T092500Z
 SUMMARY:SzS (ć)
 LOCATION:2PL/20KP; 3PL/20KP; 2pl/29kp; 1pl/29kp; 25SW; 1S; 25KX; 3S; 25IX; 1S; 25IX; 2S; 25MX; 3S; 25FW; 4S; 25MX; 1S; 25MX; 2S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; dr Kowal Robert; płk dr Niemirka Sławomir; mjr mgr Stępień Jacek; mgr Stawicka Natalia
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; dr Kowal Robert; płk dr Niemirka Sławomir; kpt. mgr Ślusakowicz Stanisław; mjr mgr Stępień Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T075000Z
 DTEND:20260516T092500Z
 SUMMARY:SzS (ć)
 LOCATION:4PL/20KP; 2pl/29kp; 25IX; 3S; 25IX; 4S; 25MX; 3S; 25FW; 4S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; płk dr Niemirka Sławomir; mjr mgr Stępień Jacek
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; płk dr Niemirka Sławomir; kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T094000Z
 DTEND:20260411T111500Z
 SUMMARY:SzS (ć)
 LOCATION:2pl/29kp; 25MX; 3S; 25FW; 4S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; dr Kasperski Marian; mjr mgr Stępień Jacek
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; dr Kasperski Marian; kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T094000Z
 DTEND:20260418T111500Z
 SUMMARY:SzS (ć)
 LOCATION:2pl/29kp; 25MX; 3S; 25FW; 4S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; dr Kasperski Marian; mjr mgr Stępień Jacek
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; dr Kasperski Marian; kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T094000Z
 DTEND:20260425T111500Z
 SUMMARY:SzS (ć)
 LOCATION:3PL/20KP; 2pl/29kp; 25IX; 1S; 25IX; 2S; 25MX; 3S; 25FW; 4S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; płk dr Niemirka Sławomir; mjr mgr Stępień Jacek
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; płk dr Niemirka Sławomir; kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T094000Z
@@ -2283,14 +2283,14 @@ DTSTART:20260411T113000Z
 DTEND:20260411T130500Z
 SUMMARY:SzS (ć)
 LOCATION:2pl/29kp; 25MX; 3S; 25FW; 4S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; dr Kasperski Marian; mjr mgr Stępień Jacek
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; dr Kasperski Marian; kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T113000Z
 DTEND:20260418T130500Z
 SUMMARY:SzS (ć)
 LOCATION:2pl/29kp; 25MX; 3S; 25FW; 4S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; dr Kasperski Marian; mjr mgr Stępień Jacek
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; dr Kasperski Marian; kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T113000Z
