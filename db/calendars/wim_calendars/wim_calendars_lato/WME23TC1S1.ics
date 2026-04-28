@@ -424,6 +424,13 @@ LOCATION:51/ 62
 DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Projekt\nNumer zajęć: 4/7\nProwadzący: prof. WAT
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250615T113000Z
+DTEND:20250615T130500Z
+SUMMARY:LM. (ć)
+LOCATION:9/ 62
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: płk dr inż. Goliasz Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250622T113000Z
 DTEND:20250622T130500Z
 SUMMARY:PLwP (Zp.Pr)
@@ -485,6 +492,13 @@ DTEND:20250608T153500Z
 SUMMARY:PLwP (P)
 LOCATION:51/ 62
 DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Projekt\nNumer zajęć: 7/7\nProwadzący: prof. WAT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250615T140000Z
+DTEND:20250615T153500Z
+SUMMARY:LM. (ć)
+LOCATION:9/ 62
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T155000Z
@@ -757,7 +771,7 @@ DTSTART:20250602T140000Z
 DTEND:20250602T153500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T155000Z
@@ -1079,28 +1093,21 @@ DTSTART:20250429T140000Z
 DTEND:20250429T153500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: płk dr inż. Goliasz Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T140000Z
-DTEND:20250506T153500Z
-SUMMARY:LM. (ć)
-LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T140000Z
 DTEND:20250513T153500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T140000Z
 DTEND:20250520T153500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250916T140000Z
@@ -1112,13 +1119,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T155000Z
 DTEND:20250429T172500Z
-SUMMARY:LM. (ć)
-LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: płk dr inż. Goliasz Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T155000Z
-DTEND:20250506T172500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
 DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: płk dr inż. Goliasz Tomasz
@@ -1488,18 +1488,18 @@ LOCATION:51/ 62
 DESCRIPTION:Logistics management\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250507T140000Z
-DTEND:20250507T153500Z
-SUMMARY:LM. (w)
-LOCATION:51/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: płk dr inż. Goliasz Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250514T140000Z
 DTEND:20250514T153500Z
 SUMMARY:LM. (ć)
 LOCATION:8/ 62
 DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: płk dr inż. Goliasz Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T140000Z
+DTEND:20250528T153500Z
+SUMMARY:LM. (w)
+LOCATION:51/ 62
+DESCRIPTION:Logistics management\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T140000Z

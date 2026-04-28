@@ -5870,20 +5870,6 @@ LOCATION:103 K
 DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260428T113000Z
-DTEND:20260428T130500Z
-SUMMARY:Po (L)
-LOCATION:228 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/16\nProwadzący: mgr inż. Łukasz Matuszelański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260428T140000Z
-DTEND:20260428T153500Z
-SUMMARY:Po (L)
-LOCATION:228 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/16\nProwadzący: mgr inż. Łukasz Matuszelański
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260428T174000Z
 DTEND:20260428T191500Z
 SUMMARY:- (S.Sz.W.)
@@ -6063,14 +6049,14 @@ DTSTART:20260508T094000Z
 DTEND:20260508T111500Z
 SUMMARY:Po (L)
 LOCATION:226 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/16\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/16\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T113000Z
 DTEND:20260508T130500Z
 SUMMARY:Po (L)
 LOCATION:226 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/16\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/16\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T060000Z
@@ -6098,14 +6084,14 @@ DTSTART:20260511T094000Z
 DTEND:20260511T111500Z
 SUMMARY:Po (L)
 LOCATION:252 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/16\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/16\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T113000Z
 DTEND:20260511T130500Z
 SUMMARY:Po (L)
 LOCATION:252 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/16\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/16\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T060000Z
@@ -6315,14 +6301,14 @@ DTSTART:20260522T094000Z
 DTEND:20260522T111500Z
 SUMMARY:Po (L)
 LOCATION:224 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/16\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/16\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T113000Z
 DTEND:20260522T130500Z
 SUMMARY:Po (L)
 LOCATION:224 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/16\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/16\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260523T060000Z
@@ -6350,14 +6336,14 @@ DTSTART:20260525T094000Z
 DTEND:20260525T111500Z
 SUMMARY:Po (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/16\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/16\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T113000Z
 DTEND:20260525T130500Z
 SUMMARY:Po (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/16\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/16\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T060000Z
@@ -6442,6 +6428,20 @@ DTEND:20260528T111500Z
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 86/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T113000Z
+DTEND:20260528T130500Z
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/16\nProwadzący: mgr inż. Łukasz Matuszelański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T140000Z
+DTEND:20260528T153500Z
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/16\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T060000Z

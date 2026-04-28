@@ -291,6 +291,13 @@ LOCATION:34 67
 DESCRIPTION:Uzbrojenie lotnicze i urządzenia wysokościowo ratownicz\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: ppłk dr inż. Jasztal Michał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260622T113000Z
+DTEND:20260622T130500Z
+SUMMARY:Pipsp (w)
+LOCATION:
+DESCRIPTION:Płatowce i instalacje płatowcowe statków powietrznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Zalewski Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260629T113000Z
 DTEND:20260629T130500Z
 SUMMARY:Lzn (w)
@@ -620,6 +627,13 @@ LOCATION:5.16 135
 DESCRIPTION:Płatowce i instalacje płatowcowe statków powietrznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Zalewski Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260513T060000Z
+DTEND:20260513T073500Z
+SUMMARY:Clesp (w)
+LOCATION:9 67
+DESCRIPTION:Czynnik ludzki w eksploatacji statków powietrznych\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Jaskółowski Waldemar
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260520T060000Z
 DTEND:20260520T073500Z
 SUMMARY:Pipsp (w)
@@ -830,6 +844,13 @@ LOCATION:5.16 135
 DESCRIPTION:Płatowce i instalacje płatowcowe statków powietrznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Zalewski Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260429T113000Z
+DTEND:20260429T130500Z
+SUMMARY:Clesp (w)
+LOCATION:9 67
+DESCRIPTION:Czynnik ludzki w eksploatacji statków powietrznych\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Jaskółowski Waldemar
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T113000Z
 DTEND:20260506T130500Z
 SUMMARY:Uluw (w)
@@ -1033,20 +1054,6 @@ LOCATION:S1 72
 DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260430T094000Z
-DTEND:20260430T111500Z
-SUMMARY:Clesp (w)
-LOCATION:24 67
-DESCRIPTION:Czynnik ludzki w eksploatacji statków powietrznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Jaskółowski Waldemar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260507T094000Z
-DTEND:20260507T111500Z
-SUMMARY:Clesp (w)
-LOCATION:9 67
-DESCRIPTION:Czynnik ludzki w eksploatacji statków powietrznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Jaskółowski Waldemar
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260514T094000Z
 DTEND:20260514T111500Z
 SUMMARY:Clesp (w)
@@ -1164,12 +1171,5 @@ DTEND:20260424T092500Z
 SUMMARY:Paml (w)
 LOCATION:9 67
 DESCRIPTION:Podstawy aerodynamiki i mechaniki lotu\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Wrzesień Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260508T075000Z
-DTEND:20260508T092500Z
-SUMMARY:Pipsp (w)
-LOCATION:5.16 135
-DESCRIPTION:Płatowce i instalacje płatowcowe statków powietrznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Zalewski Piotr
 END:VEVENT
 END:VCALENDAR

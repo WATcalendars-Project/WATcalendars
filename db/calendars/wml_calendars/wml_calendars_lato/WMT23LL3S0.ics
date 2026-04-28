@@ -1110,6 +1110,20 @@ LOCATION:136 36
 DESCRIPTION:GrzT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260513T094000Z
+DTEND:20260513T111500Z
+SUMMARY:Pyzo (L)
+LOCATION:004 36
+DESCRIPTION:Pyzo\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: kpt. mgr inż Kuligowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T094000Z
+DTEND:20260520T111500Z
+SUMMARY:Wzopt (w)
+LOCATION:46 63
+DESCRIPTION:Wybrane zagadnienia optoelektroniki\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. (prof. ucz.) Wojtas Jacek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260527T094000Z
 DTEND:20260527T111500Z
 SUMMARY:Radio (w)
@@ -1171,6 +1185,13 @@ DTEND:20260506T130500Z
 SUMMARY:Wbsp (L)
 LOCATION:130 36
 DESCRIPTION:Wyposażenie BSP\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: mgr inż. Czajka Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T113000Z
+DTEND:20260513T130500Z
+SUMMARY:Pyzo (L)
+LOCATION:004 36
+DESCRIPTION:Pyzo\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T113000Z
@@ -1614,13 +1635,6 @@ LOCATION:130 36
 DESCRIPTION:Programowanie systemów i modułów awionicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż. Marut Adam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260430T140000Z
-DTEND:20260430T153500Z
-SUMMARY:Pyzo (L)
-LOCATION:004 36
-DESCRIPTION:Pyzo\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: kpt. mgr inż Kuligowska Monika
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260507T140000Z
 DTEND:20260507T153500Z
 SUMMARY:Wzopt (L)
@@ -1675,13 +1689,6 @@ DTEND:20260423T172500Z
 SUMMARY:Wbsp (w)
 LOCATION:43 67
 DESCRIPTION:Wyposażenie BSP\nRodzaj zajęć: Wykład\nNumer zajęć: 11-12\nProwadzący: mgr inż. Czajka Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T155000Z
-DTEND:20260430T172500Z
-SUMMARY:Pyzo (L)
-LOCATION:004 36
-DESCRIPTION:Pyzo\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T155000Z
@@ -1759,13 +1766,6 @@ DTEND:20260522T073500Z
 SUMMARY:Radio (ć)
 LOCATION:27 61
 DESCRIPTION:Radiotechnika\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Kaniewski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260529T060000Z
-DTEND:20260529T073500Z
-SUMMARY:Wzopt (w)
-LOCATION:46 63
-DESCRIPTION:Wybrane zagadnienia optoelektroniki\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. (prof. ucz.) Wojtas Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T060000Z

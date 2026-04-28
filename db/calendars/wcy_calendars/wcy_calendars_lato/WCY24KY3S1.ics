@@ -4778,13 +4778,6 @@ LOCATION:121 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12\nProwadzący: Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260506T094000Z
-DTEND:20260506T111500Z
-SUMMARY:Pk (L)
-LOCATION:078 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260506T113000Z
 DTEND:20260506T130500Z
 SUMMARY:Sck (w)
@@ -4881,6 +4874,13 @@ DTEND:20260511T153500Z
 SUMMARY:MM (ć)
 LOCATION:308 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T060000Z
+DTEND:20260512T073500Z
+SUMMARY:Pk (L)
+LOCATION:078 S
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T113000Z

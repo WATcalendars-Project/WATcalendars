@@ -203,7 +203,7 @@ BEGIN:VEVENT
 DTSTART:20260504T155000Z
 DTEND:20260504T172500Z
 SUMMARY:SZK (ć)
-LOCATION:26/158
+LOCATION:5.17/135
 DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10
 END:VEVENT
 BEGIN:VEVENT
@@ -254,6 +254,13 @@ DTEND:20260316T201500Z
 SUMMARY:SZK (w)
 LOCATION:0.19/135
 DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Wykład\nNumer zajęć: 6/7\nProwadzący: prof. dr hab. Kaczmarek Waldemar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T174000Z
+DTEND:20260504T191500Z
+SUMMARY:SZK (ć)
+LOCATION:5.17/135
+DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T075000Z
@@ -618,13 +625,6 @@ DTEND:20260617T073500Z
 SUMMARY:NiMwA (ć)
 LOCATION:26/158
 DESCRIPTION:Negocjacje i mediacje w administracji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Warchał Arnold
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260513T075000Z
-DTEND:20260513T092500Z
-SUMMARY:SZK (ć)
-LOCATION:37/158
-DESCRIPTION:System zarzadzania kryzysowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T075000Z

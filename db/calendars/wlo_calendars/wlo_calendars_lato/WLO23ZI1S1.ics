@@ -46,6 +46,20 @@ LOCATION:5.21/135
 DESCRIPTION:Seminarium Dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/16\nProwadzący: dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260504T094000Z
+DTEND:20260504T111500Z
+SUMMARY:Bin (E)
+LOCATION:1.16/16
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Górny Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T094000Z
+DTEND:20260511T111500Z
+SUMMARY:Bin (Ep)
+LOCATION:31/158
+DESCRIPTION:Bezpieczeństwo informacyjne\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr inż. Górny Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260309T123000Z
 DTEND:20260309T140500Z
 SUMMARY:Nowe 
@@ -268,6 +282,20 @@ DTEND:20260415T092500Z
 SUMMARY:Nowe 
 LOCATION:255 S
 DESCRIPTION:Nowe\nRodzaj zajęć: -\nNumer zajęć: 13/18\nProwadzący: dr Woźniak Jacek; dr Antczak Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T075000Z
+DTEND:20260506T092500Z
+SUMMARY:Zsiz (E)
+LOCATION:255 S
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T075000Z
+DTEND:20260513T092500Z
+SUMMARY:Zsiz (Ep)
+LOCATION:0.21/16
+DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T104000Z
@@ -529,6 +557,13 @@ LOCATION:255 S
 DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260430T113000Z
+DTEND:20260430T130500Z
+SUMMARY:Phd (L)
+LOCATION:239 S
+DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: dr inż. Rozmus Stefan
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260319T150000Z
 DTEND:20260319T163500Z
 SUMMARY:Phd (w)
@@ -574,15 +609,15 @@ BEGIN:VEVENT
 DTSTART:20260430T140000Z
 DTEND:20260430T153500Z
 SUMMARY:Phd (L)
-LOCATION:252 S
-DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/11\nProwadzący: dr inż. Rozmus Stefan
+LOCATION:239 S
+DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T165000Z
 DTEND:20260326T182500Z
 SUMMARY:Phd (L)
 LOCATION:252 S
-DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/11\nProwadzący: dr inż. Rozmus Stefan
+DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T155000Z
@@ -604,13 +639,6 @@ DTEND:20260423T172500Z
 SUMMARY:Zsiz (w)
 LOCATION:255 S
 DESCRIPTION:Zintegrowane systemy informatyczne zarządzania (MRP,ERP,CRM,SCM)\nRodzaj zajęć: Wykład\nNumer zajęć: 12/12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T155000Z
-DTEND:20260430T172500Z
-SUMMARY:Phd (L)
-LOCATION:252 S
-DESCRIPTION:Podstawy hurtowni danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/11\nProwadzący: dr inż. Rozmus Stefan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T184000Z

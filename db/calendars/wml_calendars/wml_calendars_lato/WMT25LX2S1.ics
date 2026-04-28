@@ -242,13 +242,6 @@ LOCATION:19 63
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Morawiak Przemysław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260428T060000Z
-DTEND:20260428T073500Z
-SUMMARY:F1 (ć)
-LOCATION:18 63
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Morawiak Przemysław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260505T060000Z
 DTEND:20260505T073500Z
 SUMMARY:F1 (ć)
@@ -1199,6 +1192,13 @@ DTEND:20260514T111500Z
 SUMMARY:Mat3 (ć)
 LOCATION:15 63
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Hajduk Karol
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T094000Z
+DTEND:20260521T111500Z
+SUMMARY:F1 (ć)
+LOCATION:119 45
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Morawiak Przemysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T094000Z
