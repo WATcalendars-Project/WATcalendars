@@ -291,13 +291,6 @@ LOCATION:8/ 62
 DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. inż.(prof. ucz.) Miedzińska Danuta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250511T094000Z
-DTEND:20250511T111500Z
-SUMMARY:Sz.P (L)
-LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Szybkie prototypowanie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250518T094000Z
 DTEND:20250518T111500Z
 SUMMARY:Wm (w)
@@ -330,7 +323,7 @@ DTSTART:20250615T094000Z
 DTEND:20250615T111500Z
 SUMMARY:Sz.P (L)
 LOCATION:9/ 54; 18/ 54
-DESCRIPTION:Szybkie prototypowanie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/13
+DESCRIPTION:Szybkie prototypowanie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250914T094000Z
@@ -625,6 +618,13 @@ DTEND:20250512T073500Z
 SUMMARY:BiO (L)
 LOCATION:
 DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr inż. Grad Leszek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250519T060000Z
+DTEND:20250519T073500Z
+SUMMARY:Sz.P (L)
+LOCATION:29/ 54; 30/ 54
+DESCRIPTION:Szybkie prototypowanie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/13
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T060000Z

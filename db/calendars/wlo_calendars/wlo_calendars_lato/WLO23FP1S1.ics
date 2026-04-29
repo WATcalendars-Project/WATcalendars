@@ -634,18 +634,11 @@ LOCATION:5.17/135
 DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260429T140000Z
-DTEND:20260429T153500Z
-SUMMARY:SMa (L)
-LOCATION:0.6/16
-DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260506T140000Z
 DTEND:20260506T153500Z
 SUMMARY:SMa (L)
 LOCATION:0.6/16
-DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
+DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T140000Z
@@ -653,6 +646,13 @@ DTEND:20260603T153500Z
 SUMMARY:SMa (ć)
 LOCATION:4.17a/135
 DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Głodowska Katarzyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T140000Z
+DTEND:20260610T153500Z
+SUMMARY:SMa (L)
+LOCATION:
+DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T140000Z
@@ -676,15 +676,15 @@ LOCATION:5.17/135
 DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260429T155000Z
-DTEND:20260429T172500Z
+DTSTART:20260506T155000Z
+DTEND:20260506T172500Z
 SUMMARY:SMa (L)
 LOCATION:0.6/16
 DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260506T155000Z
-DTEND:20260506T172500Z
+DTSTART:20260610T155000Z
+DTEND:20260610T172500Z
 SUMMARY:SMa (L)
 LOCATION:0.6/16
 DESCRIPTION:Systemy magazynowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8

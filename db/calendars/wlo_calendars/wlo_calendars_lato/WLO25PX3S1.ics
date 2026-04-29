@@ -326,10 +326,10 @@ LOCATION:1.9/16; 1.10/16
 DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 3/20\nProwadzący: dr Olechowski Piotr; dr Kowalski Wawrzyniec; dr hab. (prof. WAT) Szyłkowska Monika
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260602T060000Z
-DTEND:20260602T073500Z
+DTSTART:20260616T060000Z
+DTEND:20260616T073500Z
 SUMMARY:OCHRONA 
-LOCATION:3.16/135
+LOCATION:1.9/16; 1.10/16
 DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 4/20\nProwadzący: dr Olechowski Piotr; dr Kowalski Wawrzyniec; dr hab. (prof. WAT) Szyłkowska Monika
 END:VEVENT
 BEGIN:VEVENT
@@ -457,13 +457,6 @@ DTEND:20260505T111500Z
 SUMMARY:SzOiT (ć)
 LOCATION:0.6/16
 DESCRIPTION:Sztuka operacyjna i taktyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: dr inż. Kubaczyk Tadeusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260512T094000Z
-DTEND:20260512T111500Z
-SUMMARY:OCHRONA 
-LOCATION:1.9/16; 1.10/16
-DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 7/20\nProwadzący: dr Olechowski Piotr; dr Kowalski Wawrzyniec; dr hab. (prof. WAT) Szyłkowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T094000Z
@@ -701,21 +694,28 @@ DTSTART:20260415T075000Z
 DTEND:20260415T092500Z
 SUMMARY:OCHRONA 
 LOCATION:4.23/135
-DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 8/20\nProwadzący: dr Olechowski Piotr; dr Mielnik Marcin; mgr Trzcińska Luiza
+DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 7/20\nProwadzący: dr Olechowski Piotr; dr Mielnik Marcin; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T075000Z
 DTEND:20260422T092500Z
 SUMMARY:OCHRONA 
 LOCATION:4.23/135
-DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 9/20\nProwadzący: dr Olechowski Piotr; dr Mielnik Marcin; mgr Trzcińska Luiza
+DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 8/20\nProwadzący: dr Olechowski Piotr; dr Mielnik Marcin; mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T075000Z
 DTEND:20260527T092500Z
 SUMMARY:OCHRONA 
 LOCATION:4.23/135
-DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 10/20\nProwadzący: dr Olechowski Piotr; dr Mielnik Marcin; mgr Trzcińska Luiza
+DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 9/20\nProwadzący: dr Olechowski Piotr; dr Mielnik Marcin; mgr Trzcińska Luiza
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T075000Z
+DTEND:20260617T092500Z
+SUMMARY:OCHRONA 
+LOCATION:0.19/135
+DESCRIPTION:OCHRONA\nRodzaj zajęć: -\nNumer zajęć: 10/20\nProwadzący: dr Olechowski Piotr; dr Kowalski Wawrzyniec; dr hab. (prof. WAT) Szyłkowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T104000Z

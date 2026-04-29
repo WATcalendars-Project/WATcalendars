@@ -2328,34 +2328,6 @@ LOCATION:125 65
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260512T140000Z
-DTEND:20260512T153500Z
-SUMMARY:SKII (L)
-LOCATION:120 65
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: Piotr Targowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260512T155000Z
-DTEND:20260512T172500Z
-SUMMARY:SKII (L)
-LOCATION:120 65
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: Piotr Targowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T094000Z
-DTEND:20260515T111500Z
-SUMMARY:zsw (L)
-LOCATION:011 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/15\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T113000Z
-DTEND:20260515T130500Z
-SUMMARY:zsw (L)
-LOCATION:011 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/15\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260518T060000Z
 DTEND:20260518T073500Z
 SUMMARY:Oni (P)
@@ -2451,28 +2423,28 @@ DTSTART:20260526T140000Z
 DTEND:20260526T153500Z
 SUMMARY:SKII (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: Piotr Targowski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T155000Z
 DTEND:20260526T172500Z
 SUMMARY:SKII (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: Piotr Targowski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T094000Z
 DTEND:20260527T111500Z
 SUMMARY:zsw (L)
 LOCATION:011 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/15\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T113000Z
 DTEND:20260527T130500Z
 SUMMARY:zsw (L)
 LOCATION:011 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/15\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T060000Z
@@ -2487,6 +2459,20 @@ DTEND:20260528T092500Z
 SUMMARY:Bsbp (L)
 LOCATION:125 65
 DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T094000Z
+DTEND:20260528T111500Z
+SUMMARY:SKII (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: Piotr Targowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T113000Z
+DTEND:20260528T130500Z
+SUMMARY:SKII (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T060000Z
@@ -2535,7 +2521,7 @@ DTSTART:20260609T060000Z
 DTEND:20260609T073500Z
 SUMMARY:zsw (L)
 LOCATION:011 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/15\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T140000Z
@@ -2627,5 +2613,19 @@ DTEND:20260618T092500Z
 SUMMARY:Bsbp (L)
 LOCATION:125 65
 DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T140000Z
+DTEND:20260618T153500Z
+SUMMARY:zsw (L)
+LOCATION:011 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/15\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T155000Z
+DTEND:20260618T172500Z
+SUMMARY:zsw (L)
+LOCATION:011 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/15\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 END:VCALENDAR

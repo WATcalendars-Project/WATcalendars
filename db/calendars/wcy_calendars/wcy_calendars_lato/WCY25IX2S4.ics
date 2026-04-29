@@ -718,13 +718,6 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260430T094000Z
-DTEND:20260430T111500Z
-SUMMARY:TCT (L)
-LOCATION:120 65
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3\nProwadzący: Jakub Walczak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260504T060000Z
 DTEND:20260504T073500Z
 SUMMARY:Msk. (w)
@@ -737,6 +730,13 @@ DTEND:20260504T092500Z
 SUMMARY:Msk. (w)
 LOCATION:308 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T060000Z
+DTEND:20260505T073500Z
+SUMMARY:TCT (L)
+LOCATION:120 65
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3\nProwadzący: Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T075000Z

@@ -2979,13 +2979,6 @@ LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260522T075000Z
-DTEND:20260522T092500Z
-SUMMARY:Amt (ć)
-LOCATION:308 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr Joanna Piasecka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260522T094000Z
 DTEND:20260522T111500Z
 SUMMARY:PEM (ć)
@@ -3019,6 +3012,13 @@ DTEND:20260525T092500Z
 SUMMARY:Rp (L)
 LOCATION:085 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: dr inż. Krzysztof Mańk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T094000Z
+DTEND:20260525T111500Z
+SUMMARY:Amt (ć)
+LOCATION:308 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/12\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T075000Z

@@ -3525,20 +3525,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 44/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260430T113000Z
-DTEND:20260430T130500Z
-SUMMARY:REG (ć)
-LOCATION:PL.MUSZ1
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T140000Z
-DTEND:20260430T153500Z
-SUMMARY:REG (ć)
-LOCATION:PL.MUSZ1
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260430T174000Z
 DTEND:20260430T191500Z
 SUMMARY:- (S.Sz.W.)
@@ -3676,7 +3662,7 @@ DTSTART:20260507T113000Z
 DTEND:20260507T130500Z
 SUMMARY:REG (ć)
 LOCATION:103 K
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: -
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T140000Z
@@ -3700,11 +3686,11 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 44/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260508T075000Z
-DTEND:20260508T092500Z
-SUMMARY:Md2 (ć)
-LOCATION:309 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
+DTSTART:20260508T060000Z
+DTEND:20260508T073500Z
+SUMMARY:REG (ć)
+LOCATION:PL.MUSZ1
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T094000Z
@@ -3809,7 +3795,7 @@ DTSTART:20260513T075000Z
 DTEND:20260513T092500Z
 SUMMARY:Md2 (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T113000Z
@@ -3852,6 +3838,13 @@ DTEND:20260514T153500Z
 SUMMARY:Tpi (ć)
 LOCATION:307 S
 DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T060000Z
+DTEND:20260515T073500Z
+SUMMARY:REG (ć)
+LOCATION:PL.MUSZ1
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T075000Z
@@ -3942,7 +3935,7 @@ DTSTART:20260520T075000Z
 DTEND:20260520T092500Z
 SUMMARY:Md2 (ć)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T113000Z
@@ -4110,7 +4103,7 @@ DTSTART:20260528T113000Z
 DTEND:20260528T130500Z
 SUMMARY:Md2 (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T140000Z
@@ -4201,7 +4194,7 @@ DTSTART:20260608T060000Z
 DTEND:20260608T073500Z
 SUMMARY:Md2 (ć)
 LOCATION:307 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T075000Z
@@ -4244,6 +4237,13 @@ DTEND:20260609T111500Z
 SUMMARY:F1 (w)
 LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 17/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T060000Z
+DTEND:20260610T073500Z
+SUMMARY:Md2 (ć)
+LOCATION:313 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T075000Z

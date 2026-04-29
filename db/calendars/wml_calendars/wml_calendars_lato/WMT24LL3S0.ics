@@ -732,13 +732,6 @@ LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: prof. dr hab. inż. Sibilski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260527T060000Z
-DTEND:20260527T073500Z
-SUMMARY:PA (ć)
-LOCATION:136 36
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Henzel Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260603T060000Z
 DTEND:20260603T073500Z
 SUMMARY:DGB (ć)
@@ -1250,6 +1243,13 @@ LOCATION:46 63
 DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: prof.dr hab.inż. Gacek Józef
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260430T075000Z
+DTEND:20260430T092500Z
+SUMMARY:PA (ć)
+LOCATION:9 67
+DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Henzel Maciej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260507T075000Z
 DTEND:20260507T092500Z
 SUMMARY:Biisp (ć)
@@ -1262,6 +1262,13 @@ DTEND:20260514T092500Z
 SUMMARY:Biisp (ć)
 LOCATION:33 67
 DESCRIPTION:Budowa i instalacje SP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: prof. dr hab. inż. Sibilski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T075000Z
+DTEND:20260521T092500Z
+SUMMARY:PA (ć)
+LOCATION:136 36
+DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Henzel Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T075000Z
@@ -1402,13 +1409,6 @@ DTEND:20260423T130500Z
 SUMMARY:Biisp (w)
 LOCATION:S2 72
 DESCRIPTION:Budowa i instalacje SP\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: prof. dr hab. inż. Sibilski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T113000Z
-DTEND:20260430T130500Z
-SUMMARY:PA (ć)
-LOCATION:136 36
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: ppłk dr inż. Henzel Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T113000Z

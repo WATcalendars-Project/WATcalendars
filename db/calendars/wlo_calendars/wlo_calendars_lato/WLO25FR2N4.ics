@@ -39,24 +39,17 @@ LOCATION:aula/135
 DESCRIPTION:Strategiczne zarządzanie łańcuchami dostaw\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr Zamelek Paulina
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260516T060000Z
+DTEND:20260516T073500Z
+SUMMARY:Szłd (ć)
+LOCATION:5.21/135
+DESCRIPTION:Strategiczne zarządzanie łańcuchami dostaw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260530T060000Z
 DTEND:20260530T073500Z
 SUMMARY:Szłd (ć)
 LOCATION:4.23/135
-DESCRIPTION:Strategiczne zarządzanie łańcuchami dostaw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260613T060000Z
-DTEND:20260613T073500Z
-SUMMARY:Szłd (S)
-LOCATION:aula/135
-DESCRIPTION:Strategiczne zarządzanie łańcuchami dostaw\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260620T060000Z
-DTEND:20260620T073500Z
-SUMMARY:Szłd (ć)
-LOCATION:
 DESCRIPTION:Strategiczne zarządzanie łańcuchami dostaw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
 END:VEVENT
 BEGIN:VEVENT
@@ -128,13 +121,6 @@ DTEND:20260530T092500Z
 SUMMARY:Zfpl (S)
 LOCATION:3.16/135
 DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr inż. Wiśniewski Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260613T075000Z
-DTEND:20260613T092500Z
-SUMMARY:Szłd (S)
-LOCATION:aula/135
-DESCRIPTION:Strategiczne zarządzanie łańcuchami dostaw\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260620T075000Z
@@ -217,7 +203,7 @@ BEGIN:VEVENT
 DTSTART:20260613T094000Z
 DTEND:20260613T111500Z
 SUMMARY:Mil (ć)
-LOCATION:4.17a/135
+LOCATION:
 DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
@@ -368,6 +354,13 @@ LOCATION:0.24/135
 DESCRIPTION:Inżynieria systemów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: prof. dr. hab. inż. Brzeziński Marian
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260516T140000Z
+DTEND:20260516T153500Z
+SUMMARY:Szłd (S)
+LOCATION:aula/135
+DESCRIPTION:Strategiczne zarządzanie łańcuchami dostaw\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260530T140000Z
 DTEND:20260530T153500Z
 SUMMARY:BOiTO (L)
@@ -422,6 +415,13 @@ DTEND:20260509T172500Z
 SUMMARY:BOiTO (L)
 LOCATION:223 S
 DESCRIPTION:Badania operacyjne i teoria optymalizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr inż. Górny Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T155000Z
+DTEND:20260516T172500Z
+SUMMARY:Szłd (S)
+LOCATION:aula/135
+DESCRIPTION:Strategiczne zarządzanie łańcuchami dostaw\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260530T155000Z
@@ -515,10 +515,10 @@ LOCATION:1.9/16
 DESCRIPTION:Bezpieczeństwo i higiena pracy w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260510T060000Z
-DTEND:20260510T073500Z
+DTSTART:20260517T060000Z
+DTEND:20260517T073500Z
 SUMMARY:Szłd (ć)
-LOCATION:4.23/135
+LOCATION:
 DESCRIPTION:Strategiczne zarządzanie łańcuchami dostaw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
