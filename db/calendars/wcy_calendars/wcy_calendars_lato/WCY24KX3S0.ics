@@ -5835,13 +5835,6 @@ LOCATION:204 65
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260429T075000Z
-DTEND:20260429T092500Z
-SUMMARY:Hsw (ć)
-LOCATION:205 65
-DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260429T094000Z
 DTEND:20260429T111500Z
 SUMMARY:Hsw (w)
@@ -5937,7 +5930,7 @@ DTSTART:20260506T075000Z
 DTEND:20260506T092500Z
 SUMMARY:Hsw (ć)
 LOCATION:205 65
-DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: -
+DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T094000Z
@@ -6183,6 +6176,13 @@ DTEND:20260519T111500Z
 SUMMARY:DWiPD (ć)
 LOCATION:204 65
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T113000Z
+DTEND:20260519T130500Z
+SUMMARY:Hsw (ć)
+LOCATION:52/ 62
+DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T075000Z
@@ -6650,7 +6650,7 @@ BEGIN:VEVENT
 DTSTART:20260702T094000Z
 DTEND:20260702T111500Z
 SUMMARY:BD (E)
-LOCATION:316 S
+LOCATION:313 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 END:VCALENDAR

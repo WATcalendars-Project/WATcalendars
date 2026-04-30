@@ -1215,6 +1215,13 @@ LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260610T113000Z
+DTEND:20260610T130500Z
+SUMMARY:Prb (L)
+LOCATION:106 36
+DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Kaczmarek Wojciech
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260318T150000Z
 DTEND:20260318T163500Z
 SUMMARY:PA (w)
@@ -1248,6 +1255,13 @@ DTEND:20260513T153500Z
 SUMMARY:Liim (L)
 LOCATION:31 36
 DESCRIPTION:Laboratorium informatyki i mechaniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Gąsiorowski Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T140000Z
+DTEND:20260610T153500Z
+SUMMARY:Prb (L)
+LOCATION:106 36
+DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Kaczmarek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T165000Z
@@ -1547,8 +1561,8 @@ BEGIN:VEVENT
 DTSTART:20260430T113000Z
 DTEND:20260430T130500Z
 SUMMARY:Prb (L)
-LOCATION:47 63;106
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Kaczmarek Wojciech
+LOCATION:47 63
+DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: mgr inż. Prusaczyk Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T113000Z
@@ -1596,8 +1610,8 @@ BEGIN:VEVENT
 DTSTART:20260430T140000Z
 DTEND:20260430T153500Z
 SUMMARY:Prb (L)
-LOCATION:47 63;106
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Kaczmarek Wojciech
+LOCATION:47 63
+DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż. Prusaczyk Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T140000Z

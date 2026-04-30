@@ -18,6 +18,20 @@ LOCATION:S1 72
 DESCRIPTION:Napędy lotnicze\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: prof. dr hab. inż. Koniorczyk Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260518T060000Z
+DTEND:20260518T073500Z
+SUMMARY:Biisp (ć)
+LOCATION:P 66
+DESCRIPTION:Budowa i instalacje SP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Zalewski Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T060000Z
+DTEND:20260608T073500Z
+SUMMARY:Biisp (ć)
+LOCATION:P 66
+DESCRIPTION:Budowa i instalacje SP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Zalewski Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260615T060000Z
 DTEND:20260615T073500Z
 SUMMARY:Mpia (L)
@@ -165,13 +179,6 @@ LOCATION:S3 72
 DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Karwowski Wojciech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260601T094000Z
-DTEND:20260601T111500Z
-SUMMARY:Biisp (ć)
-LOCATION:P 66
-DESCRIPTION:Budowa i instalacje SP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: prof. dr hab. inż. Sibilski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260608T094000Z
 DTEND:20260608T111500Z
 SUMMARY:Biisp (w)
@@ -225,7 +232,7 @@ DTSTART:20260504T113000Z
 DTEND:20260504T130500Z
 SUMMARY:Biisp (ć)
 LOCATION:P 66
-DESCRIPTION:Budowa i instalacje SP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: prof. dr hab. inż. Sibilski Krzysztof
+DESCRIPTION:Budowa i instalacje SP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Zalewski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T113000Z
@@ -233,13 +240,6 @@ DTEND:20260511T130500Z
 SUMMARY:Nl (L)
 LOCATION:8 72
 DESCRIPTION:Napędy lotnicze\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260518T113000Z
-DTEND:20260518T130500Z
-SUMMARY:Biisp (ć)
-LOCATION:P 66
-DESCRIPTION:Budowa i instalacje SP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: prof. dr hab. inż. Sibilski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T113000Z
@@ -1054,6 +1054,13 @@ LOCATION:S1 72
 DESCRIPTION:Napędy lotnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr hab. inż Chachurski Ryszard
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260610T094000Z
+DTEND:20260610T111500Z
+SUMMARY:Biisp (ć)
+LOCATION:33 67
+DESCRIPTION:Budowa i instalacje SP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Zalewski Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260318T123000Z
 DTEND:20260318T140500Z
 SUMMARY:PKM (w)
@@ -1530,18 +1537,11 @@ LOCATION:3 67
 DESCRIPTION:Mechanika płynów i aerodynamika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: dr inż. Frant Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260515T060000Z
-DTEND:20260515T073500Z
-SUMMARY:Biisp (ć)
-LOCATION:4 H7
-DESCRIPTION:Budowa i instalacje SP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: prof. dr hab. inż. Sibilski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260619T060000Z
 DTEND:20260619T073500Z
 SUMMARY:Biisp (ć)
 LOCATION:4 H7
-DESCRIPTION:Budowa i instalacje SP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: prof. dr hab. inż. Sibilski Krzysztof
+DESCRIPTION:Budowa i instalacje SP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Zalewski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T075000Z

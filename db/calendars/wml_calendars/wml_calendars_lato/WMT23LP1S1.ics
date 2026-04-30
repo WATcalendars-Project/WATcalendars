@@ -1124,6 +1124,13 @@ LOCATION:S3 72
 DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Zieliński Wojciech
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260429T113000Z
+DTEND:20260429T130500Z
+SUMMARY:Lzn (L)
+LOCATION:S4 72
+DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: mgr inż. Kluska Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T113000Z
 DTEND:20260506T130500Z
 SUMMARY:Lzn (w)
@@ -1150,6 +1157,13 @@ DTEND:20260603T130500Z
 SUMMARY:Mlot (L)
 LOCATION:41 67
 DESCRIPTION:Mechanika lotu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Frant Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T140000Z
+DTEND:20260429T153500Z
+SUMMARY:Lzn (L)
+LOCATION:S4 72
+DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż. Kluska Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T140000Z
@@ -1199,13 +1213,6 @@ DTEND:20260423T073500Z
 SUMMARY:Tpł (w)
 LOCATION:4 H7
 DESCRIPTION:Technologia produkcji płatowców\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Leszczyński Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T060000Z
-DTEND:20260430T073500Z
-SUMMARY:Lzn (L)
-LOCATION:S4 72
-DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Kluska Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T060000Z
@@ -1283,13 +1290,6 @@ DTEND:20260423T092500Z
 SUMMARY:Ksp (ć)
 LOCATION:24 67
 DESCRIPTION:Konstrukcja statków powietrznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Syta Borys
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T075000Z
-DTEND:20260430T092500Z
-SUMMARY:Lzn (L)
-LOCATION:S4 72
-DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kluska Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T075000Z

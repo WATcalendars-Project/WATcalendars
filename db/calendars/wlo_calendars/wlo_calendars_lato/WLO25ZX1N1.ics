@@ -396,13 +396,6 @@ LOCATION:
 DESCRIPTION:Statystyka opisowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr Mularczyk Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260509T155000Z
-DTEND:20260509T172500Z
-SUMMARY:Sto (L)
-LOCATION:
-DESCRIPTION:Statystyka opisowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr Mularczyk Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260620T155000Z
 DTEND:20260620T172500Z
 SUMMARY:M 
@@ -464,6 +457,13 @@ DTEND:20260426T073500Z
 SUMMARY:Zkl (w)
 LOCATION:26/158
 DESCRIPTION:Zarządzanie kapitałem ludzkim\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr Piotrkowski Kazimierz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T060000Z
+DTEND:20260510T073500Z
+SUMMARY:Sto (L)
+LOCATION:
+DESCRIPTION:Statystyka opisowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4\nProwadzący: dr Mularczyk Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260517T060000Z
@@ -727,6 +727,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260614T113000Z
 DTEND:20260614T130500Z
+SUMMARY:Sto (L)
+LOCATION:
+DESCRIPTION:Statystyka opisowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr Mularczyk Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260621T113000Z
+DTEND:20260621T130500Z
 SUMMARY:Fin (ć)
 LOCATION:0.8/16
 DESCRIPTION:Finanse\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr hab. Domańska-Szaruga Beata
@@ -779,12 +786,5 @@ DTEND:20260621T153500Z
 SUMMARY:Jo (ć)
 LOCATION:134 K
 DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/15\nProwadzący: mgr Kurzela Anna; mgr Zeneli Andi
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260517T155000Z
-DTEND:20260517T172500Z
-SUMMARY:Sto (L)
-LOCATION:
-DESCRIPTION:Statystyka opisowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr Mularczyk Piotr
 END:VEVENT
 END:VCALENDAR

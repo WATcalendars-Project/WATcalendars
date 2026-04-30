@@ -256,13 +256,6 @@ LOCATION:128 36;130
 DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: mgr inż. Djabin Jakub
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260504T113000Z
-DTEND:20260504T130500Z
-SUMMARY:Wmk (w)
-LOCATION:S3 72
-DESCRIPTION:Wytrzymałość materiałów i konstrukcji\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Kieszek Rafał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260511T113000Z
 DTEND:20260511T130500Z
 SUMMARY:Wmk (w)
@@ -560,7 +553,7 @@ BEGIN:VEVENT
 DTSTART:20260505T094000Z
 DTEND:20260505T111500Z
 SUMMARY:Mp (ć)
-LOCATION:3 67
+LOCATION:S2 72
 DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: por. mgr inż. Okoń Tomasz
 END:VEVENT
 BEGIN:VEVENT
@@ -662,6 +655,13 @@ LOCATION:3 67
 DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: por. mgr inż. Okoń Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260616T113000Z
+DTEND:20260616T130500Z
+SUMMARY:Wmk (w)
+LOCATION:S3 72
+DESCRIPTION:Wytrzymałość materiałów i konstrukcji\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Kieszek Rafał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T150000Z
 DTEND:20260310T163500Z
 SUMMARY:Wmk (w)
@@ -749,7 +749,7 @@ BEGIN:VEVENT
 DTSTART:20260506T060000Z
 DTEND:20260506T073500Z
 SUMMARY:Mp (ć)
-LOCATION:3 67
+LOCATION:S2 72
 DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: por. mgr inż. Okoń Tomasz
 END:VEVENT
 BEGIN:VEVENT
@@ -1323,7 +1323,7 @@ BEGIN:VEVENT
 DTSTART:20260507T075000Z
 DTEND:20260507T092500Z
 SUMMARY:Mp (ć)
-LOCATION:3 67
+LOCATION:9 67
 DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: por. mgr inż. Okoń Tomasz
 END:VEVENT
 BEGIN:VEVENT

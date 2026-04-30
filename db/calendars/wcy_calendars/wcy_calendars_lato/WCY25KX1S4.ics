@@ -697,13 +697,6 @@ LOCATION:252 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260504T113000Z
-DTEND:20260504T130500Z
-SUMMARY:Stg (L)
-LOCATION:219 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: dr inż. Kamil Kaczyński
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260505T075000Z
 DTEND:20260505T092500Z
 SUMMARY:WIT (P)
@@ -862,7 +855,7 @@ DTSTART:20260518T094000Z
 DTEND:20260518T111500Z
 SUMMARY:Stg (L)
 LOCATION:219 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: dr inż. Kamil Kaczyński
+DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T094000Z
@@ -925,7 +918,7 @@ DTSTART:20260525T113000Z
 DTEND:20260525T130500Z
 SUMMARY:Stg (L)
 LOCATION:218 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: dr inż. Kamil Kaczyński
+DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T094000Z
@@ -1040,13 +1033,6 @@ LOCATION:252 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260608T155000Z
-DTEND:20260608T172500Z
-SUMMARY:Stg (L)
-LOCATION:219 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: dr inż. Kamil Kaczyński
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260609T094000Z
 DTEND:20260609T111500Z
 SUMMARY:Dtu (P)
@@ -1108,6 +1094,20 @@ DTEND:20260611T092500Z
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T060000Z
+DTEND:20260615T073500Z
+SUMMARY:Stg (L)
+LOCATION:203 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T075000Z
+DTEND:20260615T092500Z
+SUMMARY:Stg (L)
+LOCATION:203 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T060000Z
