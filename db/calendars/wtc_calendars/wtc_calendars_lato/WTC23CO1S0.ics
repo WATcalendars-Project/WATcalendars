@@ -494,6 +494,13 @@ LOCATION:5 55;19 55
 DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/20\nProwadzący: mjr dr inż. Fliszkiewicz Bartłomiej; mgr inż. Boczkowski Maciej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260525T140000Z
+DTEND:20260525T153500Z
+SUMMARY:Cśt (w)
+LOCATION:1 55A
+DESCRIPTION:Chemia środków trujących i procesów odkażania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/18\nProwadzący: dr hab. inż. Popiel Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260601T140000Z
 DTEND:20260601T153500Z
 SUMMARY:Fj (L)
@@ -585,13 +592,6 @@ LOCATION:7 55A
 DESCRIPTION:Chemia środków trujących i procesów odkażania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/32\nProwadzący: mgr inż. Boczkowski Maciej; dr inż. Dziedzic Daniel
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260505T060000Z
-DTEND:20260505T073500Z
-SUMMARY:Fj (w)
-LOCATION:1 55A
-DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/15\nProwadzący: dr hab. inż. Puton Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260512T060000Z
 DTEND:20260512T073500Z
 SUMMARY:Cśt (L)
@@ -617,21 +617,14 @@ DTSTART:20260602T060000Z
 DTEND:20260602T073500Z
 SUMMARY:Cśt (w)
 LOCATION:1 55A
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nRodzaj zajęć: Wykład\nNumer zajęć: 2/18\nProwadzący: dr hab. inż. Popiel Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260609T060000Z
-DTEND:20260609T073500Z
-SUMMARY:Cśt (ć)
-LOCATION:1 55A
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Popiel Stanisław
+DESCRIPTION:Chemia środków trujących i procesów odkażania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/18\nProwadzący: dr hab. inż. Popiel Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T060000Z
 DTEND:20260616T073500Z
 SUMMARY:Cśt (w)
 LOCATION:1 55A
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nRodzaj zajęć: Wykład\nNumer zajęć: 3/18\nProwadzący: dr hab. inż. Popiel Stanisław
+DESCRIPTION:Chemia środków trujących i procesów odkażania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/18\nProwadzący: dr hab. inż. Popiel Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260908T060000Z
@@ -652,14 +645,14 @@ DTSTART:20260310T085000Z
 DTEND:20260310T102500Z
 SUMMARY:Fj (w)
 LOCATION:1 55A
-DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: dr hab. inż. Puton Jarosław
+DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 7/15\nProwadzący: dr hab. inż. Puton Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T085000Z
 DTEND:20260324T102500Z
 SUMMARY:Fj (w)
 LOCATION:1 55A
-DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: dr hab. inż. Puton Jarosław
+DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 8/15\nProwadzący: dr hab. inż. Puton Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T075000Z
@@ -673,7 +666,7 @@ DTSTART:20260414T075000Z
 DTEND:20260414T092500Z
 SUMMARY:Cśt (w)
 LOCATION:1 55A
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nRodzaj zajęć: Wykład\nNumer zajęć: 4/18\nProwadzący: dr hab. inż. Popiel Stanisław
+DESCRIPTION:Chemia środków trujących i procesów odkażania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/18\nProwadzący: dr hab. inż. Popiel Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T075000Z
@@ -692,9 +685,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T075000Z
 DTEND:20260505T092500Z
-SUMMARY:Cśt (w)
+SUMMARY:Fj (w)
 LOCATION:1 55A
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nRodzaj zajęć: Wykład\nNumer zajęć: 5/18\nProwadzący: dr hab. inż. Popiel Stanisław
+DESCRIPTION:Fizyka jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15\nProwadzący: dr hab. inż. Puton Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T075000Z
@@ -2067,6 +2060,13 @@ DTEND:20260514T111500Z
 SUMMARY:Cśt (L)
 LOCATION:7 55A
 DESCRIPTION:Chemia środków trujących i procesów odkażania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 30/32\nProwadzący: mgr inż. Boczkowski Maciej; dr inż. Dziedzic Daniel
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T094000Z
+DTEND:20260521T111500Z
+SUMMARY:Cśt (ć)
+LOCATION:2 55A
+DESCRIPTION:Chemia środków trujących i procesów odkażania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Popiel Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T094000Z

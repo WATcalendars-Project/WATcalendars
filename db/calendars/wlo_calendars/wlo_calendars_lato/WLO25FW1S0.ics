@@ -498,14 +498,14 @@ DTSTART:20260310T104000Z
 DTEND:20260310T121500Z
 SUMMARY:ZaMe (w)
 LOCATION:1W
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: płk dr hab. inż. Parczewski Rafał; ppor. mgr Szwed Katarzyna
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppor. mgr Szwed Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T104000Z
 DTEND:20260317T121500Z
 SUMMARY:Mat3 (ć)
 LOCATION:3.16/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: prof. dr hab. Sasin Wiesław
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/11\nProwadzący: prof. dr hab. Sasin Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T104000Z
@@ -554,7 +554,7 @@ DTSTART:20260602T094000Z
 DTEND:20260602T111500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.28/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T094000Z
@@ -582,7 +582,7 @@ DTSTART:20260310T123000Z
 DTEND:20260310T140500Z
 SUMMARY:ZaMe (w)
 LOCATION:2W
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: płk dr hab. inż. Parczewski Rafał; ppor. mgr Szwed Katarzyna
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: ppor. mgr Szwed Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T123000Z
@@ -1124,6 +1124,13 @@ LOCATION:1.15/16
 DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260617T140000Z
+DTEND:20260617T153500Z
+SUMMARY:Mat3 (ć)
+LOCATION:
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/11
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T165000Z
 DTEND:20260304T182500Z
 SUMMARY:BiEWTM (w)
@@ -1261,7 +1268,7 @@ DTSTART:20260521T060000Z
 DTEND:20260521T073500Z
 SUMMARY:ZaMe (ć)
 LOCATION:3pl/29kp; 25FW; 1S; 0 M; 4 T
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: ppor. mgr Szwed Katarzyna; płk dr hab. inż. Parczewski Rafał
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T060000Z
@@ -1324,7 +1331,7 @@ DTSTART:20260416T075000Z
 DTEND:20260416T092500Z
 SUMMARY:Mat3 (ć)
 LOCATION:3.16/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T075000Z
@@ -1359,7 +1366,7 @@ DTSTART:20260521T075000Z
 DTEND:20260521T092500Z
 SUMMARY:ZaMe (ć)
 LOCATION:3pl/29kp; 25FW; 1S; 0 M; 4 T
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: ppor. mgr Szwed Katarzyna; płk dr hab. inż. Parczewski Rafał
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T075000Z
@@ -1429,7 +1436,7 @@ DTSTART:20260416T094000Z
 DTEND:20260416T111500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.28/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T094000Z
@@ -1443,7 +1450,7 @@ DTSTART:20260430T094000Z
 DTEND:20260430T111500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T094000Z
@@ -1457,7 +1464,7 @@ DTSTART:20260521T094000Z
 DTEND:20260521T111500Z
 SUMMARY:ZaMe (ć)
 LOCATION:3pl/29kp; 25FW; 1S; 0 M; 4 T
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: ppor. mgr Szwed Katarzyna; płk dr hab. inż. Parczewski Rafał
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T094000Z
@@ -1632,7 +1639,7 @@ DTSTART:20260423T140000Z
 DTEND:20260423T153500Z
 SUMMARY:Mat3 (ć)
 LOCATION:
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T140000Z
@@ -1919,7 +1926,7 @@ DTSTART:20260320T085000Z
 DTEND:20260320T102500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Pszczoła Krzysztof
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/11\nProwadzący: dr Pszczoła Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T085000Z
@@ -2157,7 +2164,7 @@ DTSTART:20260410T140000Z
 DTEND:20260410T153500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.8/16
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T140000Z
@@ -2178,14 +2185,14 @@ DTSTART:20260522T140000Z
 DTEND:20260522T153500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.28/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T140000Z
 DTEND:20260612T153500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.19/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11/11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T140000Z
