@@ -564,6 +564,13 @@ LOCATION:08 24;114 14
 DESCRIPTION:Analiza instrumentalna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/26\nProwadzący: dr Czubaszek Marzena; mgr inż. Boczkowski Maciej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260526T060000Z
+DTEND:20260526T073500Z
+SUMMARY:Ek (ć)
+LOCATION:110/ 14
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr hab. Panek Joanna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260609T060000Z
 DTEND:20260609T073500Z
 SUMMARY:Ain (L)
@@ -632,6 +639,13 @@ DTEND:20260519T092500Z
 SUMMARY:Ain (L)
 LOCATION:08 24;114 14
 DESCRIPTION:Analiza instrumentalna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/26\nProwadzący: dr Czubaszek Marzena; mgr inż. Boczkowski Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T075000Z
+DTEND:20260526T092500Z
+SUMMARY:Ek (ć)
+LOCATION:108 24
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr hab. Panek Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T075000Z
@@ -837,13 +851,6 @@ LOCATION:4 55A;3 55a
 DESCRIPTION:Analiza instrumentalna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/26\nProwadzący: dr inż. Budzyńska Edyta; mgr inż. Boczkowski Maciej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260527T060000Z
-DTEND:20260527T073500Z
-SUMMARY:Ek (ć)
-LOCATION:166 S
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr hab. Panek Joanna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260617T060000Z
 DTEND:20260617T073500Z
 SUMMARY:Con2 (L)
@@ -900,13 +907,6 @@ LOCATION:2 55A
 DESCRIPTION:Spektroskopia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr hab. Kuśmierek Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260506T075000Z
-DTEND:20260506T092500Z
-SUMMARY:Chj (w)
-LOCATION:10 55
-DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Oszczak-Nowińska Agata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260513T075000Z
 DTEND:20260513T092500Z
 SUMMARY:Kry (L)
@@ -923,9 +923,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T075000Z
 DTEND:20260527T092500Z
-SUMMARY:Ek (ć)
-LOCATION:166 S
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr hab. Panek Joanna
+SUMMARY:Chj (w)
+LOCATION:10 55
+DESCRIPTION:Chemia jądrowa\nRodzaj zajęć: Wykład\nNumer zajęć: 4/9\nProwadzący: dr Oszczak-Nowińska Agata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T075000Z

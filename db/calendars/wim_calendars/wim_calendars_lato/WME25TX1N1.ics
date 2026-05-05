@@ -1334,6 +1334,20 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 50/70
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250614T094000Z
+DTEND:20250614T111500Z
+SUMMARY:Ppu. (S)
+LOCATION:120/ 54
+DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250621T094000Z
+DTEND:20250621T111500Z
+SUMMARY:Mat3 (L)
+LOCATION:
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr Gdula Agnieszka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250705T094000Z
 DTEND:20250705T111500Z
 SUMMARY:Met (Zp. Ćw)
@@ -1373,7 +1387,7 @@ DTSTART:20250412T113000Z
 DTEND:20250412T130500Z
 SUMMARY:Ppu. (S)
 LOCATION:116/ 54
-DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250419T113000Z
@@ -1400,8 +1414,8 @@ BEGIN:VEVENT
 DTSTART:20250510T113000Z
 DTEND:20250510T130500Z
 SUMMARY:Mat3 (L)
-LOCATION:55/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr Gdula Agnieszka
+LOCATION:
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250517T113000Z
@@ -1430,20 +1444,6 @@ DTEND:20250607T130500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 55/70
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250614T113000Z
-DTEND:20250614T130500Z
-SUMMARY:Ppu. (S)
-LOCATION:120/ 54
-DESCRIPTION:Podstawy projektowania uniwersalnego\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250621T113000Z
-DTEND:20250621T130500Z
-SUMMARY:Mat3 (L)
-LOCATION:55/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250705T113000Z

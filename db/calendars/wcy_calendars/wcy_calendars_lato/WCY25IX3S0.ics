@@ -3847,13 +3847,6 @@ LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 46/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260512T094000Z
-DTEND:20260512T111500Z
-SUMMARY:ZLDT-1 (w)
-LOCATION:aula/ 135
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260512T113000Z
 DTEND:20260512T130500Z
 SUMMARY:F1 (w)
@@ -4026,7 +4019,7 @@ DTSTART:20260519T094000Z
 DTEND:20260519T111500Z
 SUMMARY:ZLDT-1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: -
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T140000Z
@@ -4449,6 +4442,13 @@ LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 58/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260612T155000Z
+DTEND:20260612T172500Z
+SUMMARY:ZLDT-1 (w)
+LOCATION:aula/ 135
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260615T060000Z
 DTEND:20260615T073500Z
 SUMMARY:ZINŻ (Inne)
@@ -4552,5 +4552,26 @@ DTEND:20260619T130500Z
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 60/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T075000Z
+DTEND:20260701T092500Z
+SUMMARY:Md2 (E)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T094000Z
+DTEND:20260701T111500Z
+SUMMARY:Md2 (E)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T075000Z
+DTEND:20260930T092500Z
+SUMMARY:Md2 (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 END:VCALENDAR

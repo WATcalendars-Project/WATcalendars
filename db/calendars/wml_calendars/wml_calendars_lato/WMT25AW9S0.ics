@@ -687,7 +687,7 @@ DTSTART:20260303T123000Z
 DTEND:20260303T140500Z
 SUMMARY:ZaMe (w)
 LOCATION:103 K
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Murawski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T123000Z
@@ -737,13 +737,6 @@ DTEND:20260505T130500Z
 SUMMARY:Gin (w)
 LOCATION:19 36
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Grązka Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260512T113000Z
-DTEND:20260512T130500Z
-SUMMARY:DN (w)
-LOCATION:aula/ 135
-DESCRIPTION:DN\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Kachel Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T113000Z
@@ -1303,7 +1296,7 @@ DTSTART:20260311T150000Z
 DTEND:20260311T163500Z
 SUMMARY:ZaMe (w)
 LOCATION:103 K
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr inż. Murawski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T150000Z
@@ -2293,6 +2286,13 @@ LOCATION:301/ S
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: -\nNumer zajęć: 11-12\nProwadzący: dr Dryło Robert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260529T155000Z
+DTEND:20260529T172500Z
+SUMMARY:DN (w)
+LOCATION:aula/ 135
+DESCRIPTION:DN\nRodzaj zajęć: Wykład\nNumer zajęć: 11-12\nProwadzący: dr hab. inż. Kachel Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260321T104000Z
 DTEND:20260321T121500Z
 SUMMARY:SzS (ć)
@@ -2305,5 +2305,19 @@ DTEND:20260321T140500Z
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PW
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T140000Z
+DTEND:20260516T153500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T155000Z
+DTEND:20260516T172500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
 END:VEVENT
 END:VCALENDAR

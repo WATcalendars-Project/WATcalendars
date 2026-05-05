@@ -550,13 +550,6 @@ LOCATION:331 S
 DESCRIPTION:Podstawy Cax\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Warchulski Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260526T060000Z
-DTEND:20260526T073500Z
-SUMMARY:Pcax (ć)
-LOCATION:331 S
-DESCRIPTION:Podstawy Cax\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Warchulski Jacek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260602T060000Z
 DTEND:20260602T073500Z
 SUMMARY:Pcax (ć)
@@ -625,6 +618,13 @@ DTEND:20260609T092500Z
 SUMMARY:WdM (w)
 LOCATION:46 63
 DESCRIPTION:Wprowadzenie do mechatroniki\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T075000Z
+DTEND:20260616T092500Z
+SUMMARY:Pcax (ć)
+LOCATION:331 S
+DESCRIPTION:Podstawy Cax\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Warchulski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T104000Z
@@ -758,6 +758,13 @@ DTEND:20260602T130500Z
 SUMMARY:PA (L)
 LOCATION:16 63
 DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Siwek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T113000Z
+DTEND:20260616T130500Z
+SUMMARY:Pcax (L)
+LOCATION:331 S
+DESCRIPTION:Podstawy Cax\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Warchulski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T140000Z
@@ -1500,13 +1507,6 @@ DTEND:20260508T092500Z
 SUMMARY:Ucm (ć)
 LOCATION:18 63
 DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Pustkowski Remigiusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260529T075000Z
-DTEND:20260529T092500Z
-SUMMARY:Pcax (L)
-LOCATION:331 S
-DESCRIPTION:Podstawy Cax\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Warchulski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T104000Z

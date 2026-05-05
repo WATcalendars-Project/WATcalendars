@@ -2804,6 +2804,20 @@ LOCATION:103 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260512T140000Z
+DTEND:20260512T153500Z
+SUMMARY:PTk (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T155000Z
+DTEND:20260512T172500Z
+SUMMARY:PTk (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260513T060000Z
 DTEND:20260513T073500Z
 SUMMARY:F1 (ć)
@@ -2885,14 +2899,14 @@ DTSTART:20260515T113000Z
 DTEND:20260515T130500Z
 SUMMARY:PTk (L)
 LOCATION:125 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: Łukasz Czerniszewski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T140000Z
 DTEND:20260515T153500Z
 SUMMARY:PTk (L)
 LOCATION:125 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: Łukasz Czerniszewski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T075000Z
@@ -3026,20 +3040,6 @@ DTEND:20260522T111500Z
 SUMMARY:PEM (ć)
 LOCATION:119 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260522T113000Z
-DTEND:20260522T130500Z
-SUMMARY:PTk (L)
-LOCATION:120 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260522T140000Z
-DTEND:20260522T153500Z
-SUMMARY:PTk (L)
-LOCATION:120 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T075000Z
@@ -3399,6 +3399,20 @@ LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 30/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260625T075000Z
+DTEND:20260625T092500Z
+SUMMARY:Md2 (E)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260625T094000Z
+DTEND:20260625T111500Z
+SUMMARY:Md2 (E)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260630T075000Z
 DTEND:20260630T092500Z
 SUMMARY:F1 (E)
@@ -3418,6 +3432,13 @@ DTEND:20260630T130500Z
 SUMMARY:F1 (E)
 LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260917T075000Z
+DTEND:20260917T092500Z
+SUMMARY:Md2 (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260922T075000Z

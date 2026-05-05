@@ -648,13 +648,6 @@ LOCATION:ST.nr 1(PW
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260512T094000Z
-DTEND:20260512T111500Z
-SUMMARY:SŁiŚD (w)
-LOCATION:315 S
-DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Kudła Zbigniew
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260519T094000Z
 DTEND:20260519T111500Z
 SUMMARY:ZINŻ (w)
@@ -2004,6 +1997,13 @@ DTEND:20260619T153500Z
 SUMMARY:Topl (w)
 LOCATION:5  63A
 DESCRIPTION:Taktyka WOPL\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: mgr inż. Jakubik Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260626T140000Z
+DTEND:20260626T153500Z
+SUMMARY:SŁiŚD (w)
+LOCATION:315 S
+DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr inż. Kudła Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260710T140000Z

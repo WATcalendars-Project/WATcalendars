@@ -749,7 +749,7 @@ BEGIN:VEVENT
 DTSTART:20260603T060000Z
 DTEND:20260603T073500Z
 SUMMARY:Podstawy 
-LOCATION:31/158
+LOCATION:0.7/16
 DESCRIPTION:Podstawy\nRodzaj zajęć: -\nNumer zajęć: 12/19\nProwadzący: dr Śmiałek Wiesław
 END:VEVENT
 BEGIN:VEVENT
@@ -770,7 +770,7 @@ BEGIN:VEVENT
 DTSTART:20260603T075000Z
 DTEND:20260603T092500Z
 SUMMARY:Podstawy 
-LOCATION:31/158
+LOCATION:0.7/16
 DESCRIPTION:Podstawy\nRodzaj zajęć: -\nNumer zajęć: 14/19\nProwadzący: dr Śmiałek Wiesław
 END:VEVENT
 BEGIN:VEVENT
@@ -1110,6 +1110,13 @@ LOCATION:9/158
 DESCRIPTION:Międzynarodowe stosunki wojskowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr Śmiałek Wiesław; dr inż. Kleszcz Sławomir
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260618T060000Z
+DTEND:20260618T073500Z
+SUMMARY:Ek (w)
+LOCATION:1.10/16
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. Panek Joanna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260312T085000Z
 DTEND:20260312T102500Z
 SUMMARY:MSW (w)
@@ -1180,11 +1187,18 @@ LOCATION:4.23/135
 DESCRIPTION:Podstawy Statystyki w Naukach Społeczenych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/7\nProwadzący: dr Kalbarczyk Ewa; dr Oziębło Małgorzata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260618T075000Z
+DTEND:20260618T092500Z
+SUMMARY:Ek (w)
+LOCATION:1.10/16
+DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab. Panek Joanna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260409T094000Z
 DTEND:20260409T111500Z
 SUMMARY:Podstawy 
-LOCATION:3.16/135
-DESCRIPTION:Podstawy\nRodzaj zajęć: -\nNumer zajęć: 18/19\nProwadzący: dr Śmiałek Wiesław
+LOCATION:1 KW
+DESCRIPTION:Podstawy\nRodzaj zajęć: -\nNumer zajęć: 18/19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T094000Z
@@ -1239,8 +1253,8 @@ BEGIN:VEVENT
 DTSTART:20260409T113000Z
 DTEND:20260409T130500Z
 SUMMARY:Podstawy 
-LOCATION:3.16/135
-DESCRIPTION:Podstawy\nRodzaj zajęć: -\nNumer zajęć: 19/19\nProwadzący: dr Śmiałek Wiesław
+LOCATION:1 KW
+DESCRIPTION:Podstawy\nRodzaj zajęć: -\nNumer zajęć: 19/19
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T113000Z
@@ -1269,13 +1283,6 @@ DTEND:20260521T130500Z
 SUMMARY:PiSB (w)
 LOCATION:3.16/135
 DESCRIPTION:Polityka i Strategia Bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: prof. dr hab. Jagusiak Bogusław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260528T113000Z
-DTEND:20260528T130500Z
-SUMMARY:Ek (w)
-LOCATION:0.28/135
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr hab. Panek Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T113000Z
@@ -1339,13 +1346,6 @@ DTEND:20260521T153500Z
 SUMMARY:PiSB (w)
 LOCATION:3.16/135
 DESCRIPTION:Polityka i Strategia Bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 13/13\nProwadzący: prof. dr hab. Jagusiak Bogusław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260528T140000Z
-DTEND:20260528T153500Z
-SUMMARY:Ek (w)
-LOCATION:0.28/135
-DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab. Panek Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T140000Z

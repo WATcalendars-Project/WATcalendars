@@ -207,6 +207,20 @@ LOCATION:0.7/16
 DESCRIPTION:Struktura, Polityka i Strategia NATO\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/12\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260609T060000Z
+DTEND:20260609T073500Z
+SUMMARY:PDyplo (ć)
+LOCATION:0.23/16
+DESCRIPTION:Protokół dyplomatyczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T060000Z
+DTEND:20260616T073500Z
+SUMMARY:PDyplo (ć)
+LOCATION:0.19/135
+DESCRIPTION:Protokół dyplomatyczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T085000Z
 DTEND:20260310T102500Z
 SUMMARY:Z.S.Bezp (w)
@@ -232,7 +246,7 @@ DTSTART:20260428T075000Z
 DTEND:20260428T092500Z
 SUMMARY:PDyplo (ć)
 LOCATION:1.17/16
-DESCRIPTION:Protokół dyplomatyczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+DESCRIPTION:Protokół dyplomatyczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T075000Z
@@ -240,13 +254,6 @@ DTEND:20260505T092500Z
 SUMMARY:Kierunki 
 LOCATION:4.17a/135
 DESCRIPTION:Kierunki\nRodzaj zajęć: -\nNumer zajęć: 1/25\nProwadzący: dr Moch Natalia; dr inż. Staruch Marcin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260512T075000Z
-DTEND:20260512T092500Z
-SUMMARY:PDyplo (ć)
-LOCATION:1.17/16
-DESCRIPTION:Protokół dyplomatyczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T075000Z
@@ -260,7 +267,7 @@ DTSTART:20260602T075000Z
 DTEND:20260602T092500Z
 SUMMARY:PDyplo (ć)
 LOCATION:1.17/16
-DESCRIPTION:Protokół dyplomatyczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
+DESCRIPTION:Protokół dyplomatyczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T075000Z
@@ -293,13 +300,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T094000Z
 DTEND:20260428T111500Z
-SUMMARY:PDyplo (ć)
-LOCATION:1.17/16
-DESCRIPTION:Protokół dyplomatyczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260512T094000Z
-DTEND:20260512T111500Z
 SUMMARY:PDyplo (ć)
 LOCATION:1.17/16
 DESCRIPTION:Protokół dyplomatyczny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
@@ -613,13 +613,6 @@ LOCATION:1.9/16
 DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 2/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260506T075000Z
-DTEND:20260506T092500Z
-SUMMARY:Bezpieczeństwo 
-LOCATION:2.21/135
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 9/19\nProwadzący: dr Moch Natalia
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260513T075000Z
 DTEND:20260513T092500Z
 SUMMARY:Kierowanie 
@@ -638,14 +631,14 @@ DTSTART:20260318T104000Z
 DTEND:20260318T121500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 10/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 9/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T094000Z
 DTEND:20260408T111500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 11/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 10/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T094000Z
@@ -729,14 +722,14 @@ DTSTART:20260408T113000Z
 DTEND:20260408T130500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 12/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 11/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T113000Z
 DTEND:20260415T130500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:26/158
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 13/19\nProwadzący: dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 12/19\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T113000Z
@@ -1107,14 +1100,14 @@ DTSTART:20260409T094000Z
 DTEND:20260409T111500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:2.21/135
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 14/19\nProwadzący: dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 13/19\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T094000Z
 DTEND:20260507T111500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:0.19/135
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 15/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 14/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T094000Z
@@ -1128,7 +1121,7 @@ DTSTART:20260521T094000Z
 DTEND:20260521T111500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:26/158
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 16/19\nProwadzący: dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 15/19\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T094000Z
@@ -1241,6 +1234,13 @@ DTEND:20260521T153500Z
 SUMMARY:SRa (ć)
 LOCATION:1.17/16
 DESCRIPTION:Systemy ratownictwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T140000Z
+DTEND:20260528T153500Z
+SUMMARY:Bezpieczeństwo 
+LOCATION:1.17/16
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 16/19\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T140000Z

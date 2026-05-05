@@ -449,7 +449,7 @@ DTSTART:20260303T070000Z
 DTEND:20260303T083500Z
 SUMMARY:ZaMe (w)
 LOCATION:103 K
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: płk dr hab. inż. Parczewski Rafał
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppor. mgr Szwed Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T070000Z
@@ -477,7 +477,7 @@ DTSTART:20260331T060000Z
 DTEND:20260331T073500Z
 SUMMARY:ZaMe (w)
 LOCATION:103 K
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: płk dr hab. inż. Parczewski Rafał
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppor. mgr Szwed Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T060000Z
@@ -809,13 +809,6 @@ LOCATION:19 36
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Kachel Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260512T113000Z
-DTEND:20260512T130500Z
-SUMMARY:DN (w)
-LOCATION:aula/ 135
-DESCRIPTION:DN\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Kachel Stanisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260519T113000Z
 DTEND:20260519T130500Z
 SUMMARY:In (ć)
@@ -1009,7 +1002,7 @@ DTSTART:20260610T060000Z
 DTEND:20260610T073500Z
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: płk dr hab. inż. Parczewski Rafał
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: ppor. mgr Szwed Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T060000Z
@@ -1121,7 +1114,7 @@ DTSTART:20260610T075000Z
 DTEND:20260610T092500Z
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: płk dr hab. inż. Parczewski Rafał
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppor. mgr Szwed Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T075000Z
@@ -1233,7 +1226,7 @@ DTSTART:20260610T094000Z
 DTEND:20260610T111500Z
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: płk dr hab. inż. Parczewski Rafał
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: ppor. mgr Szwed Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T094000Z
@@ -1404,13 +1397,6 @@ LOCATION:PĆT1
 DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260429T140000Z
-DTEND:20260429T153500Z
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260506T140000Z
 DTEND:20260506T153500Z
 SUMMARY:REG (ć)
@@ -1507,13 +1493,6 @@ DTEND:20260422T172500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 11-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260429T155000Z
-DTEND:20260429T172500Z
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T184000Z
@@ -2326,5 +2305,26 @@ DTEND:20260529T153500Z
 SUMMARY:Metr (L)
 LOCATION:103 63A;10
 DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: por.mgr inż. Dyjak Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T155000Z
+DTEND:20260529T172500Z
+SUMMARY:DN (w)
+LOCATION:aula/ 135
+DESCRIPTION:DN\nRodzaj zajęć: Wykład\nNumer zajęć: 11-12\nProwadzący: dr hab. inż. Kachel Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T140000Z
+DTEND:20260516T153500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T155000Z
+DTEND:20260516T172500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
 END:VEVENT
 END:VCALENDAR

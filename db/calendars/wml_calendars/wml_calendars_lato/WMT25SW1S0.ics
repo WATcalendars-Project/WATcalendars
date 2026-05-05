@@ -690,13 +690,6 @@ LOCATION:
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Chrunik Maciej; mgr inż. Jakubowska Iwona
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260512T094000Z
-DTEND:20260512T111500Z
-SUMMARY:DN (w)
-LOCATION:aula/ 135
-DESCRIPTION:DN\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Kachel Stanisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260519T094000Z
 DTEND:20260519T111500Z
 SUMMARY:DN (w)
@@ -1751,7 +1744,7 @@ DTSTART:20260514T140000Z
 DTEND:20260514T153500Z
 SUMMARY:ZaMe (w)
 LOCATION:103 K
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: mgr inż. Jakubowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T140000Z
@@ -2214,6 +2207,13 @@ DTEND:20260529T172500Z
 SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T155000Z
+DTEND:20260612T172500Z
+SUMMARY:DN (w)
+LOCATION:aula/ 135
+DESCRIPTION:DN\nRodzaj zajęć: Wykład\nNumer zajęć: 11-12\nProwadzący: dr hab. inż. Kachel Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T060000Z

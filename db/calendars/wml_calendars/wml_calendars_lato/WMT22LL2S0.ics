@@ -1530,13 +1530,6 @@ LOCATION:24 67
 DESCRIPTION:Stanowiska broni pokładowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kunikowski Mateusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260514T094000Z
-DTEND:20260514T111500Z
-SUMMARY:Dn (ć)
-LOCATION:33 67
-DESCRIPTION:Działania niekinetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Woźniak Robert
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260521T094000Z
 DTEND:20260521T111500Z
 SUMMARY:Rup (ć)
@@ -1598,6 +1591,13 @@ DTEND:20260514T130500Z
 SUMMARY:DWiPD (ć)
 LOCATION:18 63
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr Klimek Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T113000Z
+DTEND:20260521T130500Z
+SUMMARY:Dn (ć)
+LOCATION:119 45
+DESCRIPTION:Działania niekinetyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T113000Z

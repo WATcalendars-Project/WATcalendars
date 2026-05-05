@@ -795,13 +795,6 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 22/42
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260616T113000Z
-DTEND:20260616T130500Z
-SUMMARY:TA (r)
-LOCATION:15R
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: (r)\nNumer zajęć: 1/1\nProwadzący: xBiESTS(w) WLO24FW2S0 różnica programowa - prowadzący dr inż. Jarosław Sieczka - sala 1.9 bud. 16; kpt.mgr Nawalicki Piotr; xBiESTS(w) WLO24FW2S0 różnica programowa - prowadzący dr inż. Jarosław Sieczka - sala 0.19 bud. 135; xBiESTS(ć) WLO24FW2S0 różnica programowa - prowadzący dr inż. Jarosław Sieczka -sala 0.23 bud. 16; xBiESTS(ć) WLO24FW2S0 różnica programowa - prowadzący dr inż. Jarosław Sieczka - sala 1.17; xBiESTS(ć) WLO24FW2S0 różnica programowa - prowadzący dr inż. Jarosław Sieczka - hala badawcza bud. 16
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260303T150000Z
 DTEND:20260303T163500Z
 SUMMARY:SSW 
@@ -2004,6 +1997,13 @@ DTEND:20260612T092500Z
 SUMMARY:PKL (ć)
 LOCATION:0.24/135
 DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: dr Gułaj Mariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T075000Z
+DTEND:20260619T092500Z
+SUMMARY:TA (r)
+LOCATION:15R
+DESCRIPTION:TAKTYKA\nRodzaj zajęć: (r)\nNumer zajęć: 1/1\nProwadzący: xBiESTS(w) WLO24FW2S0 różnica programowa - prowadzący dr inż. Jarosław Sieczka - sala 1.9 bud. 16; kpt.mgr Nawalicki Piotr; xBiESTS(w) WLO24FW2S0 różnica programowa - prowadzący dr inż. Jarosław Sieczka - sala 0.19 bud. 135; xBiESTS(ć) WLO24FW2S0 różnica programowa - prowadzący dr inż. Jarosław Sieczka -sala 0.23 bud. 16; xBiESTS(ć) WLO24FW2S0 różnica programowa - prowadzący dr inż. Jarosław Sieczka - sala 1.17; xBiESTS(ć) WLO24FW2S0 różnica programowa - prowadzący dr inż. Jarosław Sieczka - hala badawcza bud. 16
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T104000Z

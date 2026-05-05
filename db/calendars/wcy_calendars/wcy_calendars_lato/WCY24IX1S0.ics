@@ -6010,13 +6010,6 @@ LOCATION:011 65
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260506T075000Z
-DTEND:20260506T092500Z
-SUMMARY:SI (w)
-LOCATION:313 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260506T094000Z
 DTEND:20260506T111500Z
 SUMMARY:Hsw (w)
@@ -6175,7 +6168,7 @@ DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
 SUMMARY:SI (w)
 LOCATION:313 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T113000Z
@@ -6225,6 +6218,13 @@ DTEND:20260515T092500Z
 SUMMARY:WdA (L)
 LOCATION:121 65
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T140000Z
+DTEND:20260515T153500Z
+SUMMARY:SI (w)
+LOCATION:313 S
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T060000Z

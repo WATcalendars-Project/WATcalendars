@@ -865,6 +865,13 @@ LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260610T060000Z
+DTEND:20260610T073500Z
+SUMMARY:Opni (L)
+LOCATION:43 67
+DESCRIPTION:Obiekty potencjalnie niebezpieczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż.. Kowalski Maciej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260617T060000Z
 DTEND:20260617T073500Z
 SUMMARY:ZŻWAT (ć)
@@ -1572,13 +1579,6 @@ LOCATION:9 67
 DESCRIPTION:Obiekty potencjalnie niebezpieczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż.. Kowalski Maciej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260430T113000Z
-DTEND:20260430T130500Z
-SUMMARY:Opni (ć)
-LOCATION:9 67
-DESCRIPTION:Obiekty potencjalnie niebezpieczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż.. Kowalski Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260507T113000Z
 DTEND:20260507T130500Z
 SUMMARY:Pwo (ć)
@@ -1630,13 +1630,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T140000Z
 DTEND:20260423T153500Z
-SUMMARY:Opni (L)
-LOCATION:43 67
-DESCRIPTION:Obiekty potencjalnie niebezpieczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż.. Kowalski Maciej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T140000Z
-DTEND:20260430T153500Z
 SUMMARY:Opni (L)
 LOCATION:43 67
 DESCRIPTION:Obiekty potencjalnie niebezpieczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż.. Kowalski Maciej
@@ -1724,6 +1717,13 @@ DTEND:20260417T073500Z
 SUMMARY:SzS (ć)
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż.. Kowalski Maciej; ppłk dr inż. Jasztal Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T060000Z
+DTEND:20260508T073500Z
+SUMMARY:Opni (ć)
+LOCATION:S2 72
+DESCRIPTION:Obiekty potencjalnie niebezpieczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż.. Kowalski Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T060000Z

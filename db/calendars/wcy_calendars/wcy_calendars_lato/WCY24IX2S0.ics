@@ -5982,13 +5982,6 @@ LOCATION:307 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260506T075000Z
-DTEND:20260506T092500Z
-SUMMARY:SI (w)
-LOCATION:313 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260506T094000Z
 DTEND:20260506T111500Z
 SUMMARY:Hsw (w)
@@ -6147,7 +6140,7 @@ DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
 SUMMARY:SI (w)
 LOCATION:313 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T113000Z
@@ -6197,6 +6190,13 @@ DTEND:20260515T130500Z
 SUMMARY:BD (L)
 LOCATION:233 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T140000Z
+DTEND:20260515T153500Z
+SUMMARY:SI (w)
+LOCATION:313 S
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T060000Z

@@ -644,21 +644,21 @@ BEGIN:VEVENT
 DTSTART:20260616T113000Z
 DTEND:20260616T130500Z
 SUMMARY:PKL (S)
-LOCATION:0.23/16
+LOCATION:0.24/135
 DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: dr Gułaj Mariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260512T140000Z
-DTEND:20260512T153500Z
-SUMMARY:PKL (ć)
-LOCATION:9/158
-DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T140000Z
 DTEND:20260519T153500Z
 SUMMARY:PKL (ć)
 LOCATION:5.17/135
+DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Gułaj Mariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T140000Z
+DTEND:20260616T153500Z
+SUMMARY:PKL (ć)
+LOCATION:0.19/135
 DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
@@ -667,6 +667,13 @@ DTEND:20260512T172500Z
 SUMMARY:Bop (ć)
 LOCATION:0.21/16
 DESCRIPTION:Badania operacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr inż. Górny Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T155000Z
+DTEND:20260519T172500Z
+SUMMARY:PKL (ć)
+LOCATION:0.28/135
+DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T070000Z
@@ -702,13 +709,6 @@ DTEND:20260506T073500Z
 SUMMARY:PKL (w)
 LOCATION:1.9/16
 DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Gułaj Mariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260513T060000Z
-DTEND:20260513T073500Z
-SUMMARY:PKL (ć)
-LOCATION:4.17b/135
-DESCRIPTION:Podsystem Kierowania Logistyką\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T060000Z

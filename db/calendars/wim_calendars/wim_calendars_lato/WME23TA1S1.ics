@@ -78,14 +78,14 @@ DTSTART:20250525T060000Z
 DTEND:20250525T073500Z
 SUMMARY:Płe2 (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/16
+DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250601T060000Z
 DTEND:20250601T073500Z
 SUMMARY:Płe2 (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/16
+DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250914T060000Z
@@ -176,14 +176,14 @@ DTSTART:20250525T075000Z
 DTEND:20250525T092500Z
 SUMMARY:Płe2 (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/16
+DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250601T075000Z
 DTEND:20250601T092500Z
 SUMMARY:Płe2 (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/16
+DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250608T075000Z
@@ -225,7 +225,7 @@ DTSTART:20250323T104000Z
 DTEND:20250323T121500Z
 SUMMARY:Płe2 (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/16
+DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250330T094000Z
@@ -267,21 +267,14 @@ DTSTART:20250511T094000Z
 DTEND:20250511T111500Z
 SUMMARY:Płe2 (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/16
+DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250518T094000Z
 DTEND:20250518T111500Z
 SUMMARY:Płe2 (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/16
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250525T094000Z
-DTEND:20250525T111500Z
-SUMMARY:Zzk (ć)
-LOCATION:6/ 23a
-DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250601T094000Z
@@ -316,7 +309,7 @@ DTSTART:20250323T123000Z
 DTEND:20250323T140500Z
 SUMMARY:Płe2 (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/16
+DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T113000Z
@@ -351,14 +344,14 @@ DTSTART:20250511T113000Z
 DTEND:20250511T130500Z
 SUMMARY:Płe2 (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/16
+DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250518T113000Z
 DTEND:20250518T130500Z
 SUMMARY:Płe2 (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/16
+DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250601T113000Z
@@ -401,6 +394,13 @@ DTEND:20250608T153500Z
 SUMMARY:Utd (ć)
 LOCATION:1/ 19
 DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250615T140000Z
+DTEND:20250615T153500Z
+SUMMARY:Zzk (ć)
+LOCATION:1/ 19
+DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T155000Z
@@ -491,7 +491,14 @@ DTSTART:20250602T060000Z
 DTEND:20250602T073500Z
 SUMMARY:Płe2 (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/16
+DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T060000Z
+DTEND:20250616T073500Z
+SUMMARY:Zzk (L)
+LOCATION:16/ 19; 17/ 19
+DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T060000Z
@@ -533,7 +540,7 @@ DTSTART:20250414T075000Z
 DTEND:20250414T092500Z
 SUMMARY:Zzk (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250421T075000Z
@@ -582,14 +589,21 @@ DTSTART:20250602T075000Z
 DTEND:20250602T092500Z
 SUMMARY:Płe2 (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/16\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
+DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/17\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T075000Z
 DTEND:20250609T092500Z
 SUMMARY:Płe2 (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/16
+DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T075000Z
+DTEND:20250616T092500Z
+SUMMARY:Zzk (L)
+LOCATION:16/ 19; 17/ 19
+DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T104000Z
@@ -631,7 +645,7 @@ DTSTART:20250414T094000Z
 DTEND:20250414T111500Z
 SUMMARY:Zzk (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250421T094000Z
@@ -652,7 +666,7 @@ DTSTART:20250526T094000Z
 DTEND:20250526T111500Z
 SUMMARY:Płe2 (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/16
+DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T094000Z
@@ -666,7 +680,7 @@ DTSTART:20250609T094000Z
 DTEND:20250609T111500Z
 SUMMARY:Płe2 (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/16\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
+DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/17\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T123000Z
@@ -708,7 +722,7 @@ DTSTART:20250414T113000Z
 DTEND:20250414T130500Z
 SUMMARY:Zzk (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250421T113000Z
@@ -750,7 +764,7 @@ DTSTART:20250526T113000Z
 DTEND:20250526T130500Z
 SUMMARY:Płe2 (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/16
+DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/17
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T113000Z
@@ -811,16 +825,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T140000Z
 DTEND:20250526T153500Z
-SUMMARY:Zzk (S)
-LOCATION:1/ 19
-DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+SUMMARY:LM. (ć)
+LOCATION:55/ 62
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T140000Z
 DTEND:20250609T153500Z
 SUMMARY:LM. (ć)
 LOCATION:55/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T155000Z
@@ -834,25 +848,18 @@ DTSTART:20250428T155000Z
 DTEND:20250428T172500Z
 SUMMARY:LM. (ć)
 LOCATION:55/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T155000Z
 DTEND:20250512T172500Z
 SUMMARY:LM. (ć)
 LOCATION:55/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T155000Z
 DTEND:20250519T172500Z
-SUMMARY:LM. (ć)
-LOCATION:55/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: płk dr inż. Goliasz Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250526T155000Z
-DTEND:20250526T172500Z
 SUMMARY:LM. (ć)
 LOCATION:55/ 62
 DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: płk dr inż. Goliasz Tomasz
@@ -1019,6 +1026,20 @@ LOCATION:21/ 21; 15/ 19
 DESCRIPTION:Urządzenia transportowe i dystrybucyjne płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250513T094000Z
+DTEND:20250513T111500Z
+SUMMARY:Płe2 (L)
+LOCATION:16/ 19; 17/ 19
+DESCRIPTION:Płyny eksploatacyjne 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 17/17\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250520T094000Z
+DTEND:20250520T111500Z
+SUMMARY:Zzk (S)
+LOCATION:3/ 23a
+DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250527T094000Z
 DTEND:20250527T111500Z
 SUMMARY:Utd (w)
@@ -1114,7 +1135,7 @@ DTSTART:20250610T113000Z
 DTEND:20250610T130500Z
 SUMMARY:Zzk (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T113000Z
@@ -1149,35 +1170,28 @@ DTSTART:20250422T140000Z
 DTEND:20250422T153500Z
 SUMMARY:Zzk (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T140000Z
 DTEND:20250513T153500Z
 SUMMARY:Zzk (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T140000Z
 DTEND:20250520T153500Z
 SUMMARY:Zzk (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250527T140000Z
-DTEND:20250527T153500Z
-SUMMARY:Zzk (L)
-LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T140000Z
 DTEND:20250610T153500Z
 SUMMARY:Zzk (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250916T140000Z
@@ -1198,25 +1212,18 @@ DTSTART:20250422T155000Z
 DTEND:20250422T172500Z
 SUMMARY:Zzk (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T155000Z
 DTEND:20250513T172500Z
 SUMMARY:Zzk (L)
 LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T155000Z
 DTEND:20250520T172500Z
-SUMMARY:Zzk (L)
-LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250527T155000Z
-DTEND:20250527T172500Z
 SUMMARY:Zzk (L)
 LOCATION:16/ 19; 17/ 19
 DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/22\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr

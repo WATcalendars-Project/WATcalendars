@@ -67,13 +67,6 @@ LOCATION:2.37/ 54A
 DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: kpt. mgr inż. Dejewski Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260601T075000Z
-DTEND:20260601T092500Z
-SUMMARY:Ucm (ć)
-LOCATION:9 67
-DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Djabin Jakub
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260615T075000Z
 DTEND:20260615T092500Z
 SUMMARY:Brmob (ć)
@@ -128,6 +121,13 @@ DTEND:20260525T111500Z
 SUMMARY:Brmob (L)
 LOCATION:2.37/ 54A
 DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: kpt. mgr inż. Dejewski Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T094000Z
+DTEND:20260601T111500Z
+SUMMARY:PA (ć)
+LOCATION:136 36
+DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: ppłk dr inż. Henzel Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T094000Z
@@ -431,6 +431,13 @@ LOCATION:34 67
 DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260505T060000Z
+DTEND:20260505T073500Z
+SUMMARY:Brmob (w)
+LOCATION:2.37/ 54A
+DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Muszyński Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260512T060000Z
 DTEND:20260512T073500Z
 SUMMARY:PA (ć)
@@ -483,7 +490,7 @@ BEGIN:VEVENT
 DTSTART:20260505T075000Z
 DTEND:20260505T092500Z
 SUMMARY:Brmob (w)
-LOCATION:34 67
+LOCATION:2.37/ 54A
 DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Muszyński Tomasz
 END:VEVENT
 BEGIN:VEVENT
@@ -1437,13 +1444,6 @@ DTEND:20260417T130500Z
 SUMMARY:Brmob (w)
 LOCATION:136 36
 DESCRIPTION:Budowa robotów mobilnych\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Muszyński Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260508T113000Z
-DTEND:20260508T130500Z
-SUMMARY:PA (ć)
-LOCATION:136 36
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: ppłk dr inż. Henzel Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T113000Z

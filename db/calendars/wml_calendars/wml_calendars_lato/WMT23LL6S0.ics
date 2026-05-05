@@ -319,6 +319,13 @@ LOCATION:004 36
 DESCRIPTION:Głów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260525T140000Z
+DTEND:20260525T153500Z
+SUMMARY:Szad (L)
+LOCATION:003 36
+DESCRIPTION:Szad\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: kpt. mgr inż Kuligowska Monika
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260608T140000Z
 DTEND:20260608T153500Z
 SUMMARY:Wzopt (L)
@@ -340,13 +347,6 @@ LOCATION:130 36
 DESCRIPTION:Szad\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260427T155000Z
-DTEND:20260427T172500Z
-SUMMARY:Szad (L)
-LOCATION:130 36
-DESCRIPTION:Szad\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: kpt. mgr inż Kuligowska Monika
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260511T155000Z
 DTEND:20260511T172500Z
 SUMMARY:Skol (L)
@@ -361,10 +361,10 @@ LOCATION:130 36
 DESCRIPTION:Szad\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260525T155000Z
-DTEND:20260525T172500Z
+DTSTART:20260601T155000Z
+DTEND:20260601T172500Z
 SUMMARY:Szad (L)
-LOCATION:130 36
+LOCATION:003 36
 DESCRIPTION:Szad\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
@@ -1257,6 +1257,13 @@ LOCATION:S3 72
 DESCRIPTION:Wyposażenie BSP\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: mgr inż. Czajka Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260513T140000Z
+DTEND:20260513T153500Z
+SUMMARY:Szad (L)
+LOCATION:003 36
+DESCRIPTION:Szad\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: kpt. mgr inż Kuligowska Monika
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260520T140000Z
 DTEND:20260520T153500Z
 SUMMARY:Wbsp (w)
@@ -1544,6 +1551,13 @@ LOCATION:130 36
 DESCRIPTION:Programowanie systemów i modułów awionicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż. Marut Adam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260507T140000Z
+DTEND:20260507T153500Z
+SUMMARY:Szad (L)
+LOCATION:130 36
+DESCRIPTION:Szad\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: kpt. mgr inż Kuligowska Monika
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260514T140000Z
 DTEND:20260514T153500Z
 SUMMARY:Głów (L)
@@ -1612,20 +1626,6 @@ DTEND:20260423T172500Z
 SUMMARY:Wbsp (w)
 LOCATION:43 67
 DESCRIPTION:Wyposażenie BSP\nRodzaj zajęć: Wykład\nNumer zajęć: 11-12\nProwadzący: mgr inż. Czajka Jarosław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T155000Z
-DTEND:20260430T172500Z
-SUMMARY:Szad (L)
-LOCATION:130 36
-DESCRIPTION:Szad\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: kpt. mgr inż Kuligowska Monika
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260507T155000Z
-DTEND:20260507T172500Z
-SUMMARY:Szad (L)
-LOCATION:130 36
-DESCRIPTION:Szad\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T155000Z

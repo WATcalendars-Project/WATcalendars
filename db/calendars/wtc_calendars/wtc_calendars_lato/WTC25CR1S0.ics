@@ -753,18 +753,11 @@ LOCATION:109 24
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: mgr inż. Jakubowska Iwona
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260512T094000Z
-DTEND:20260512T111500Z
-SUMMARY:ZLDT-1 (w)
-LOCATION:aula/ 135
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Nagrabski Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260519T094000Z
 DTEND:20260519T111500Z
 SUMMARY:ZLDT-1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Nagrabski Dariusz
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T094000Z
@@ -996,6 +989,13 @@ DTEND:20260512T172500Z
 SUMMARY:LCOiN (L)
 LOCATION:34/ 14
 DESCRIPTION:Laboratorium z chemii ogólnej i nieorganicznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 24/60\nProwadzący: dr inż. Dyjak Sławomir; mgr inż. Kapusta Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T155000Z
+DTEND:20260519T172500Z
+SUMMARY:ZLDT-1 (w)
+LOCATION:aula/ 135
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: mgr inż. Juniec Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T155000Z
@@ -2384,10 +2384,10 @@ LOCATION:307 S
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260508T155000Z
-DTEND:20260508T172500Z
+DTSTART:20260612T155000Z
+DTEND:20260612T172500Z
 SUMMARY:ZLDT-1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: mgr inż. Juniec Krzysztof
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 END:VCALENDAR

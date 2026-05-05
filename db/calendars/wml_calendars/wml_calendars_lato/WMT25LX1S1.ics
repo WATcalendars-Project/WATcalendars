@@ -179,13 +179,6 @@ LOCATION:19 36
 DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Majewski Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260601T094000Z
-DTEND:20260601T111500Z
-SUMMARY:F1 (ć)
-LOCATION:19 63
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Chodorow Urszula
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260608T094000Z
 DTEND:20260608T111500Z
 SUMMARY:In (ć)
@@ -1542,6 +1535,13 @@ DTEND:20260417T092500Z
 SUMMARY:Metr (w)
 LOCATION:S2 72
 DESCRIPTION:Metrologia\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzegorczyk Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T075000Z
+DTEND:20260508T092500Z
+SUMMARY:F1 (ć)
+LOCATION:309 S
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr Chodorow Urszula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T075000Z

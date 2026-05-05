@@ -795,13 +795,6 @@ LOCATION:19 36
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Grązka Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260512T113000Z
-DTEND:20260512T130500Z
-SUMMARY:DN (w)
-LOCATION:aula/ 135
-DESCRIPTION:DN\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Kachel Stanisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260519T113000Z
 DTEND:20260519T130500Z
 SUMMARY:Pwd (ć)
@@ -1044,7 +1037,7 @@ DTSTART:20260304T085000Z
 DTEND:20260304T102500Z
 SUMMARY:ZaMe (w)
 LOCATION:AW 1
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: płk dr hab. inż. Parczewski Rafał
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: ppor. mgr Szwed Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T085000Z
@@ -1058,7 +1051,7 @@ DTSTART:20260318T085000Z
 DTEND:20260318T102500Z
 SUMMARY:ZaMe (w)
 LOCATION:AW 1
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: płk dr hab. inż. Parczewski Rafał
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: ppor. mgr Szwed Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T085000Z
@@ -1100,7 +1093,7 @@ DTSTART:20260513T075000Z
 DTEND:20260513T092500Z
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: płk dr hab. inż. Parczewski Rafał
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppor. mgr Szwed Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T075000Z
@@ -1198,7 +1191,7 @@ DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: płk dr hab. inż. Parczewski Rafał
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: ppor. mgr Szwed Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T094000Z
@@ -1310,7 +1303,7 @@ DTSTART:20260513T113000Z
 DTEND:20260513T130500Z
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
-DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: płk dr hab. inż. Parczewski Rafał
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: ppor. mgr Szwed Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T113000Z
@@ -2319,6 +2312,13 @@ DTEND:20260612T153500Z
 SUMMARY:Metr (L)
 LOCATION:16 25
 DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: por.mgr inż. Dyjak Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T155000Z
+DTEND:20260529T172500Z
+SUMMARY:DN (w)
+LOCATION:aula/ 135
+DESCRIPTION:DN\nRodzaj zajęć: Wykład\nNumer zajęć: 11-12\nProwadzący: dr hab. inż. Kachel Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T060000Z

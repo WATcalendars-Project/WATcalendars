@@ -1252,16 +1252,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T075000Z
 DTEND:20250614T092500Z
-SUMMARY:T* (w)
-LOCATION:1/ 21
-DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Woźniak Adam
+SUMMARY:Mat3 (ć)
+LOCATION:55/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250621T075000Z
 DTEND:20250621T092500Z
 SUMMARY:Mat3 (ć)
 LOCATION:55/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr Gdula Agnieszka
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250628T075000Z
@@ -1378,9 +1378,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T094000Z
 DTEND:20250614T111500Z
-SUMMARY:Mat3 (L)
-LOCATION:55/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr Gdula Agnieszka
+SUMMARY:T* (w)
+LOCATION:1/ 21
+DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250621T094000Z
@@ -1470,8 +1470,8 @@ BEGIN:VEVENT
 DTSTART:20250517T113000Z
 DTEND:20250517T130500Z
 SUMMARY:Mat3 (L)
-LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Gdula Agnieszka
+LOCATION:
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T113000Z
@@ -1497,9 +1497,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T113000Z
 DTEND:20250614T130500Z
-SUMMARY:Mat3 (ć)
-LOCATION:55/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr Gdula Agnieszka
+SUMMARY:Mat3 (L)
+LOCATION:
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250621T113000Z

@@ -776,16 +776,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T094000Z
 DTEND:20250512T111500Z
-SUMMARY:Lsk* (ć)
-LOCATION:51/ 62
-DESCRIPTION:Logistyka sytuacji kryzysowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Gułaj Mariusz
+SUMMARY:Zfpl (S)
+LOCATION:15/ 23a
+DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T094000Z
 DTEND:20250519T111500Z
 SUMMARY:Lsk* (ć)
 LOCATION:51/ 62
-DESCRIPTION:Logistyka sytuacji kryzysowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Gułaj Mariusz
+DESCRIPTION:Logistyka sytuacji kryzysowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T094000Z
@@ -800,6 +800,13 @@ DTEND:20250602T111500Z
 SUMMARY:Isl (S)
 LOCATION:301/ S
 DESCRIPTION:Inżynieria systemów logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/5\nProwadzący: prof. dr. hab. inż. Brzeziński Marian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T094000Z
+DTEND:20250609T111500Z
+SUMMARY:Lsk* (ć)
+LOCATION:8/ 62
+DESCRIPTION:Logistyka sytuacji kryzysowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Gułaj Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T094000Z
@@ -832,13 +839,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T113000Z
 DTEND:20250428T130500Z
-SUMMARY:Zfpl (S)
-LOCATION:2/ 23a
-DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/5\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250512T113000Z
-DTEND:20250512T130500Z
 SUMMARY:Zfpl (S)
 LOCATION:2/ 23a
 DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/5\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
@@ -1309,7 +1309,7 @@ BEGIN:VEVENT
 DTSTART:20250506T094000Z
 DTEND:20250506T111500Z
 SUMMARY:Elo (w)
-LOCATION:52/ 62
+LOCATION:42/ 20
 DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
@@ -1386,7 +1386,7 @@ BEGIN:VEVENT
 DTSTART:20250506T113000Z
 DTEND:20250506T130500Z
 SUMMARY:Elo (ć)
-LOCATION:52/ 62
+LOCATION:42/ 20
 DESCRIPTION:Ekonomika logistyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: inż. Kochański Tomasz
 END:VEVENT
 BEGIN:VEVENT
@@ -1437,6 +1437,13 @@ DTEND:20250429T153500Z
 SUMMARY:Mbl. (ć)
 LOCATION:3/ 135
 DESCRIPTION:Metodyka badań w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: płk dr inż. Zelkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T140000Z
+DTEND:20250513T153500Z
+SUMMARY:Mbl. (S)
+LOCATION:19/ 135
+DESCRIPTION:Metodyka badań w logistyce\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T155000Z
@@ -1597,7 +1604,14 @@ DTSTART:20250507T140000Z
 DTEND:20250507T153500Z
 SUMMARY:Mbl. (S)
 LOCATION:301/ S
-DESCRIPTION:Metodyka badań w logistyce\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: płk dr inż. Zelkowski Jarosław
+DESCRIPTION:Metodyka badań w logistyce\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/5\nProwadzący: płk dr inż. Zelkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T140000Z
+DTEND:20250521T153500Z
+SUMMARY:Mbl. (S)
+LOCATION:28/ 135
+DESCRIPTION:Metodyka badań w logistyce\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T140000Z
@@ -1654,6 +1668,20 @@ DTEND:20250423T172500Z
 SUMMARY:Mbl. (ć)
 LOCATION:27/ 135
 DESCRIPTION:Metodyka badań w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: płk dr inż. Zelkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T155000Z
+DTEND:20250507T172500Z
+SUMMARY:Mbl. (S)
+LOCATION:301/ S
+DESCRIPTION:Metodyka badań w logistyce\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/5\nProwadzący: płk dr inż. Zelkowski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T155000Z
+DTEND:20250521T172500Z
+SUMMARY:Mbl. (S)
+LOCATION:19/ 135
+DESCRIPTION:Metodyka badań w logistyce\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/5\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T155000Z

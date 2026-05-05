@@ -193,6 +193,13 @@ LOCATION:
 DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: ppłk rez. mgr Bomba Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250518T094000Z
+DTEND:20250518T111500Z
+SUMMARY:Mkm1 (L)
+LOCATION:13/ 34; 14/ 34; 15/ 34
+DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: płk dr hab. inż. Jóźwik Paweł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250525T094000Z
 DTEND:20250525T111500Z
 SUMMARY:ZaMe (ć)
@@ -302,7 +309,7 @@ DTSTART:20250615T113000Z
 DTEND:20250615T130500Z
 SUMMARY:Mkm1 (L)
 LOCATION:14/ 34; 15/ 34; 17/ 34
-DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6
+DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250622T113000Z
@@ -372,14 +379,14 @@ DTSTART:20250518T140000Z
 DTEND:20250518T153500Z
 SUMMARY:Mkm1 (L)
 LOCATION:13/ 34; 14/ 34; 15/ 34
-DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
+DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T140000Z
 DTEND:20250525T153500Z
 SUMMARY:Mkm1 (L)
 LOCATION:14/ 34; 15/ 34; 17/ 34
-DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
+DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250601T140000Z
@@ -393,7 +400,7 @@ DTSTART:20250608T140000Z
 DTEND:20250608T153500Z
 SUMMARY:Mkm1 (L)
 LOCATION:14/ 34; 15/ 34; 17/ 34
-DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
+DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T140000Z
@@ -2680,9 +2687,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T140000Z
 DTEND:20250515T153500Z
-SUMMARY:Mkm1 (L)
-LOCATION:13/ 34; 14/ 34; 15/ 34
-DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: płk dr hab. inż. Jóźwik Paweł
+SUMMARY:REZ 
+LOCATION:
+DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 1/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T140000Z
@@ -2748,6 +2755,13 @@ LOCATION:
 DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr Miszczak Marta
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250515T155000Z
+DTEND:20250515T172500Z
+SUMMARY:REZ 
+LOCATION:
+DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 2/3
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250605T155000Z
 DTEND:20250605T172500Z
 SUMMARY:I 
@@ -2774,6 +2788,13 @@ DTEND:20250501T191500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 48/63
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250515T174000Z
+DTEND:20250515T191500Z
+SUMMARY:REZ 
+LOCATION:
+DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T174000Z

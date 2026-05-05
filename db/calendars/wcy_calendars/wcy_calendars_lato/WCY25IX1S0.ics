@@ -3679,18 +3679,18 @@ LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 46/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260512T094000Z
-DTEND:20260512T111500Z
-SUMMARY:ZLDT-1 (w)
-LOCATION:aula/ 135
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260512T113000Z
 DTEND:20260512T130500Z
 SUMMARY:F1 (w)
 LOCATION:19 36
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 12/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T060000Z
+DTEND:20260513T073500Z
+SUMMARY:Md2 (ć)
+LOCATION:313 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T075000Z
@@ -3816,7 +3816,7 @@ DTSTART:20260519T094000Z
 DTEND:20260519T111500Z
 SUMMARY:ZLDT-1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: -
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T113000Z
@@ -3893,7 +3893,7 @@ DTSTART:20260521T113000Z
 DTEND:20260521T130500Z
 SUMMARY:Md2 (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T140000Z
@@ -3978,13 +3978,6 @@ DTEND:20260526T153500Z
 SUMMARY:PTk (ć)
 LOCATION:-
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: mgr inż. Marcin Goluch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260527T060000Z
-DTEND:20260527T073500Z
-SUMMARY:Md2 (ć)
-LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T075000Z
@@ -4253,6 +4246,13 @@ LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 58/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260612T155000Z
+DTEND:20260612T172500Z
+SUMMARY:ZLDT-1 (w)
+LOCATION:aula/ 135
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260615T060000Z
 DTEND:20260615T073500Z
 SUMMARY:WF (ć)
@@ -4412,5 +4412,26 @@ DTEND:20260619T153500Z
 SUMMARY:OIN (w)
 LOCATION:103 K
 DESCRIPTION:Ochrona informacji niejawnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T075000Z
+DTEND:20260701T092500Z
+SUMMARY:Md2 (E)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T094000Z
+DTEND:20260701T111500Z
+SUMMARY:Md2 (E)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T075000Z
+DTEND:20260930T092500Z
+SUMMARY:Md2 (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 END:VCALENDAR
