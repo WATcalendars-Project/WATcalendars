@@ -1012,13 +1012,6 @@ LOCATION:3pl/24kp; 23FO; 2S; 23BIS; 0 Krz; 69 T
 DESCRIPTION:Połączone wsparcie ogniowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260617T075000Z
-DTEND:20260617T092500Z
-SUMMARY:Pwo (ć)
-LOCATION:3pl/24kp; 23FO; 2S; 23BIS; 0 Pia; 69 T
-DESCRIPTION:Połączone wsparcie ogniowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260304T104000Z
 DTEND:20260304T121500Z
 SUMMARY:ZLWwC (w)
@@ -1058,7 +1051,7 @@ DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
 SUMMARY:Pwo (ć)
 LOCATION:3pl/24kp; 23FO; 2S; 23BIS; 0 Krz; 69 T
-DESCRIPTION:Połączone wsparcie ogniowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
+DESCRIPTION:Połączone wsparcie ogniowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T094000Z
@@ -1194,6 +1187,13 @@ LOCATION:15/23a
 DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: Wykład\nNumer zajęć: 5/12\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260513T140000Z
+DTEND:20260513T153500Z
+SUMMARY:ZLWwC (ć)
+LOCATION:4.23/135
+DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Nagrabski Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260520T140000Z
 DTEND:20260520T153500Z
 SUMMARY:Mps. (ć)
@@ -1248,6 +1248,13 @@ DTEND:20260506T172500Z
 SUMMARY:ZLWwC (w)
 LOCATION:301/S
 DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Wykład\nNumer zajęć: 5/15\nProwadzący: dr inż. Nagrabski Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T155000Z
+DTEND:20260513T172500Z
+SUMMARY:ZLWwC (ć)
+LOCATION:4.23/135
+DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T155000Z
@@ -1572,13 +1579,6 @@ LOCATION:17/19; 16/19
 DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Nogas Patrycja; mgr inż. Dziobek Ilona
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260507T140000Z
-DTEND:20260507T153500Z
-SUMMARY:ZLWwC (ć)
-LOCATION:2.21/135
-DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Nagrabski Dariusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260305T165000Z
 DTEND:20260305T182500Z
 SUMMARY:Ja (ć)
@@ -1612,13 +1612,6 @@ DTEND:20260416T172500Z
 SUMMARY:Mps. (w)
 LOCATION:15/23a
 DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: Wykład\nNumer zajęć: 12/12\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260507T155000Z
-DTEND:20260507T172500Z
-SUMMARY:ZLWwC (ć)
-LOCATION:2.21/135
-DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T184000Z
@@ -1864,6 +1857,13 @@ DTEND:20260529T130500Z
 SUMMARY:ZSdL (L)
 LOCATION:0.7/16
 DESCRIPTION:Zastosowanie statystyki dla logistyków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Kalbarczyk Ewa; dr Oziębło Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T113000Z
+DTEND:20260612T130500Z
+SUMMARY:Pwo (ć)
+LOCATION:3pl/24kp; 23FO; 2S; 23BIS; 0 Pia; 63 T
+DESCRIPTION:Połączone wsparcie ogniowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T113000Z

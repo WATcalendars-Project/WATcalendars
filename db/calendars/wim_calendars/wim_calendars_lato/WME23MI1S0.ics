@@ -186,13 +186,6 @@ LOCATION:42/ 54A
 DESCRIPTION:Dowodzenie wojskami inżynieryjnymi\nRodzaj zajęć: Wykład\nNumer zajęć: 6/9\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250511T075000Z
-DTEND:20250511T092500Z
-SUMMARY:DwI (ć)
-LOCATION:42/ 54A
-DESCRIPTION:Dowodzenie wojskami inżynieryjnymi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Kuchta Wiesław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250518T075000Z
 DTEND:20250518T092500Z
 SUMMARY:PKom (L)
@@ -302,7 +295,7 @@ DTSTART:20250504T094000Z
 DTEND:20250504T111500Z
 SUMMARY:DwI (ć)
 LOCATION:42/ 54A
-DESCRIPTION:Dowodzenie wojskami inżynieryjnymi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Kuchta Wiesław
+DESCRIPTION:Dowodzenie wojskami inżynieryjnymi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250511T094000Z
@@ -317,6 +310,13 @@ DTEND:20250518T111500Z
 SUMMARY:PKom (L)
 LOCATION:10/ 54A
 DESCRIPTION:Projektowanie komputerowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250525T094000Z
+DTEND:20250525T111500Z
+SUMMARY:DwI (ć)
+LOCATION:10/ 54A
+DESCRIPTION:Dowodzenie wojskami inżynieryjnymi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250622T094000Z
@@ -571,6 +571,13 @@ LOCATION:108/ 54
 DESCRIPTION:Urządzenia elektryczne i osprzęt elektroniczny maszyn inżynieryjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/12\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250609T060000Z
+DTEND:20250609T073500Z
+SUMMARY:Uem. (L)
+LOCATION:09/ 54A
+DESCRIPTION:Urządzenia elektryczne i osprzęt elektroniczny maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250303T085000Z
 DTEND:20250303T102500Z
 SUMMARY:ZIoMB (w)
@@ -632,13 +639,6 @@ DTEND:20250428T092500Z
 SUMMARY:ZIoMB (w)
 LOCATION:108/ 54
 DESCRIPTION:Zapory inżynieryjne oraz maszyny do ich budowy i pokonywania\nRodzaj zajęć: Wykład\nNumer zajęć: 8/12\nProwadzący: ppłk dr inż. Ślęzak Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T075000Z
-DTEND:20250505T092500Z
-SUMMARY:Uem. (L)
-LOCATION:09/ 54A
-DESCRIPTION:Urządzenia elektryczne i osprzęt elektroniczny maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T075000Z
@@ -2356,6 +2356,13 @@ LOCATION:
 DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250515T140000Z
+DTEND:20250515T153500Z
+SUMMARY:XPe (w)
+LOCATION:5/ 20
+DESCRIPTION:XPodstawy eksploatacji\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250522T140000Z
 DTEND:20250522T153500Z
 SUMMARY:Pwo (ć)
@@ -2753,12 +2760,5 @@ DTEND:20250404T191500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 56/56
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250510T094000Z
-DTEND:20250510T111500Z
-SUMMARY:XPe (w)
-LOCATION:5/ 20
-DESCRIPTION:XPodstawy eksploatacji\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 END:VCALENDAR

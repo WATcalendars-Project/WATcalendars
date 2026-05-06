@@ -62,6 +62,11 @@
     },
     {
       "degree": "dr",
+      "is_new": true,
+      "name": "Andrzej Piątkowski [NEW]"
+    },
+    {
+      "degree": "dr",
       "is_new": false,
       "name": "Andrzej Strychalski"
     },
@@ -5787,10 +5792,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-05T02:59:53.771741",
-    "last_updated_readable": "2026-05-05 02:59:53",
-    "new_employees_count": 0,
+    "last_updated": "2026-05-06T03:31:09.561113",
+    "last_updated_readable": "2026-05-06 03:31:09",
+    "new_employees_count": 1,
     "scraper_version": "1.0",
-    "total_employees": 1157
+    "total_employees": 1158
   }
 }

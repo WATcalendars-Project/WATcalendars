@@ -557,13 +557,6 @@ LOCATION:1/22
 DESCRIPTION:Logistyka usług\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260513T094000Z
-DTEND:20260513T111500Z
-SUMMARY:Bpe (w)
-LOCATION:1.17/16
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Wieczorek Marcin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260603T094000Z
 DTEND:20260603T111500Z
 SUMMARY:PlM (w)
@@ -604,6 +597,13 @@ DTEND:20260506T130500Z
 SUMMARY:Lu (ć)
 LOCATION:1/22
 DESCRIPTION:Logistyka usług\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Sobczak Iwona
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T113000Z
+DTEND:20260513T130500Z
+SUMMARY:Bpe (w)
+LOCATION:0.19/135
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T113000Z

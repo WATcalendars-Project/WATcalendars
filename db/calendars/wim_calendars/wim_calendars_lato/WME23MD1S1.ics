@@ -596,7 +596,7 @@ DTSTART:20250616T094000Z
 DTEND:20250616T111500Z
 SUMMARY:Uh (L)
 LOCATION:09/ 54A
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Krogul Piotr
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T123000Z
@@ -673,7 +673,7 @@ DTSTART:20250616T113000Z
 DTEND:20250616T130500Z
 SUMMARY:Uh (L)
 LOCATION:09/ 54A
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Krogul Piotr
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T113000Z
@@ -865,6 +865,13 @@ LOCATION:52/ 62
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250513T060000Z
+DTEND:20250513T073500Z
+SUMMARY:BPiE (L)
+LOCATION:5/ 23a; 6/ 23a
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250520T060000Z
 DTEND:20250520T073500Z
 SUMMARY:Pkm 
@@ -940,13 +947,6 @@ DTEND:20250422T092500Z
 SUMMARY:PPr (P)
 LOCATION:109/ 54
 DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 13/15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250429T075000Z
-DTEND:20250429T092500Z
-SUMMARY:BPiE (L)
-LOCATION:5/ 23a; 6/ 23a
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T075000Z
@@ -1063,9 +1063,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T094000Z
 DTEND:20250513T111500Z
-SUMMARY:Pkm 
-LOCATION:116/ 54; 108/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 17/20\nProwadzący: dr inż. Torzewski Janusz
+SUMMARY:Sze. (ć)
+LOCATION:09/ 54A
+DESCRIPTION:Systemy zarządzania eksploatacją\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T094000Z
@@ -1107,7 +1107,7 @@ DTSTART:20250624T094000Z
 DTEND:20250624T111500Z
 SUMMARY:Pkm 
 LOCATION:116/ 54; 108/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 18/20\nProwadzący: dr inż. Torzewski Janusz
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 17/20\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T094000Z
@@ -1147,9 +1147,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T113000Z
 DTEND:20250513T130500Z
-SUMMARY:Sze. (ć)
-LOCATION:09/ 54A
-DESCRIPTION:Systemy zarządzania eksploatacją\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6
+SUMMARY:Pkm 
+LOCATION:116/ 54; 108/ 54
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 18/20\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250916T113000Z
@@ -1240,7 +1240,7 @@ DTSTART:20250528T060000Z
 DTEND:20250528T073500Z
 SUMMARY:Uh (L)
 LOCATION:09/ 54A
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Krogul Piotr
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T060000Z
@@ -1338,7 +1338,7 @@ DTSTART:20250528T075000Z
 DTEND:20250528T092500Z
 SUMMARY:Uh (L)
 LOCATION:09/ 54A
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Krogul Piotr
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T075000Z
@@ -1534,14 +1534,14 @@ DTSTART:20250507T140000Z
 DTEND:20250507T153500Z
 SUMMARY:Uh (L)
 LOCATION:09/ 54A
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Krogul Piotr
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T140000Z
 DTEND:20250514T153500Z
 SUMMARY:Uh (L)
 LOCATION:09/ 54A
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Krogul Piotr
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T140000Z
