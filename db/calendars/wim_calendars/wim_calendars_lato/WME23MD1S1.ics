@@ -596,7 +596,7 @@ DTSTART:20250616T094000Z
 DTEND:20250616T111500Z
 SUMMARY:Uh (L)
 LOCATION:09/ 54A
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Krogul Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T123000Z
@@ -673,7 +673,7 @@ DTSTART:20250616T113000Z
 DTEND:20250616T130500Z
 SUMMARY:Uh (L)
 LOCATION:09/ 54A
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Krogul Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T113000Z
@@ -1229,6 +1229,13 @@ LOCATION:14/ 54A
 DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/13\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250514T060000Z
+DTEND:20250514T073500Z
+SUMMARY:Uh (L)
+LOCATION:10/ 54A
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Krogul Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250521T060000Z
 DTEND:20250521T073500Z
 SUMMARY:PuS. (ć)
@@ -1240,7 +1247,7 @@ DTSTART:20250528T060000Z
 DTEND:20250528T073500Z
 SUMMARY:Uh (L)
 LOCATION:09/ 54A
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Krogul Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T060000Z
@@ -1338,7 +1345,7 @@ DTSTART:20250528T075000Z
 DTEND:20250528T092500Z
 SUMMARY:Uh (L)
 LOCATION:09/ 54A
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Krogul Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T075000Z
@@ -1530,18 +1537,11 @@ LOCATION:10/ 54A
 DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250507T140000Z
-DTEND:20250507T153500Z
-SUMMARY:Uh (L)
-LOCATION:09/ 54A
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250514T140000Z
 DTEND:20250514T153500Z
 SUMMARY:Uh (L)
 LOCATION:09/ 54A
-DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6
+DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Krogul Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T140000Z

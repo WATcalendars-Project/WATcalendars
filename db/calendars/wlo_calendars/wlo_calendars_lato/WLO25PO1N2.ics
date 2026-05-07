@@ -53,6 +53,13 @@ LOCATION:4.17b/135
 DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Ćwik Dariusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260620T060000Z
+DTEND:20260620T073500Z
+SUMMARY:Pkid (ć)
+LOCATION:0.23/16
+DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Karczewski Edward
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260228T085000Z
 DTEND:20260228T102500Z
 SUMMARY:Pkid (w)
@@ -100,6 +107,13 @@ DTEND:20260530T092500Z
 SUMMARY:Titw (ć)
 LOCATION:37/158
 DESCRIPTION:Technika i technologia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Ćwik Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260620T075000Z
+DTEND:20260620T092500Z
+SUMMARY:Pkid (ć)
+LOCATION:0.23/16
+DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260228T104000Z
@@ -421,14 +435,14 @@ DTSTART:20260510T060000Z
 DTEND:20260510T073500Z
 SUMMARY:Pkid (ć)
 LOCATION:0.23/16
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: dr Karczewski Edward
+DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260517T060000Z
 DTEND:20260517T073500Z
-SUMMARY:Pkid (ć)
-LOCATION:0.23/16
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr Karczewski Edward
+SUMMARY:Pcww (ć)
+LOCATION:1.27/135
+DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260531T060000Z
@@ -498,14 +512,14 @@ DTSTART:20260510T075000Z
 DTEND:20260510T092500Z
 SUMMARY:Pkid (ć)
 LOCATION:0.23/16
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: dr Karczewski Edward
+DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Karczewski Edward
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260517T075000Z
 DTEND:20260517T092500Z
-SUMMARY:Pkid (ć)
-LOCATION:0.23/16
-DESCRIPTION:Psychologia kierowania i dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr Karczewski Edward
+SUMMARY:Pcww (ć)
+LOCATION:1.27/135
+DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260531T075000Z
@@ -575,14 +589,7 @@ DTSTART:20260510T094000Z
 DTEND:20260510T111500Z
 SUMMARY:Pcww (ć)
 LOCATION:1.27/135
-DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: mgr Trzcińska Luiza
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260517T094000Z
-DTEND:20260517T111500Z
-SUMMARY:Pcww (ć)
-LOCATION:1.27/135
-DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: mgr Trzcińska Luiza
+DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: mgr Trzcińska Luiza
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260531T094000Z
@@ -622,13 +629,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260510T113000Z
 DTEND:20260510T130500Z
-SUMMARY:Pcww (ć)
-LOCATION:1.27/135
-DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: mgr Trzcińska Luiza
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260517T113000Z
-DTEND:20260517T130500Z
 SUMMARY:Pcww (ć)
 LOCATION:1.27/135
 DESCRIPTION:Prawa człowieka we współczesnych systemach prawno-politycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: mgr Trzcińska Luiza

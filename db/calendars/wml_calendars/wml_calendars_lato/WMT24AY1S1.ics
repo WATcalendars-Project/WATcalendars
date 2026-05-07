@@ -165,13 +165,6 @@ LOCATION:17 25
 DESCRIPTION:Cax Basics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Rajkowski Kamil
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260511T094000Z
-DTEND:20260511T111500Z
-SUMMARY:Dims (L)
-LOCATION:4 63A
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: por.mgr inż. Dyjak Jakub
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260518T094000Z
 DTEND:20260518T111500Z
 SUMMARY:Dims (L)
@@ -219,6 +212,13 @@ DTEND:20260427T130500Z
 SUMMARY:FunoR (w)
 LOCATION:17 63
 DESCRIPTION:Fundametals of Robotics\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Kaczmarek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T113000Z
+DTEND:20260608T130500Z
+SUMMARY:Dims (L)
+LOCATION:4 63A
+DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: por.mgr inż. Dyjak Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T113000Z
@@ -480,6 +480,13 @@ LOCATION:111 36
 DESCRIPTION:Fundametals of Robotics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Kaczmarek Wojciech
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260602T060000Z
+DTEND:20260602T073500Z
+SUMMARY:Dims (ć)
+LOCATION:4 63A
+DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: por.mgr inż. Dyjak Jakub
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T085000Z
 DTEND:20260310T102500Z
 SUMMARY:Eeae2 (w)
@@ -527,13 +534,6 @@ DTEND:20260505T092500Z
 SUMMARY:FunoR (L)
 LOCATION:106 36
 DESCRIPTION:Fundametals of Robotics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Kaczmarek Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260512T075000Z
-DTEND:20260512T092500Z
-SUMMARY:Dims (ć)
-LOCATION:4 63A
-DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: por.mgr inż. Dyjak Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T075000Z

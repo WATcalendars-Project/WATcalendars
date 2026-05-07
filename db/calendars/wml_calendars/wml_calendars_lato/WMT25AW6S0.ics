@@ -413,7 +413,7 @@ BEGIN:VEVENT
 DTSTART:20260511T140000Z
 DTEND:20260511T153500Z
 SUMMARY:Metr (L)
-LOCATION:103 63A;10
+LOCATION:103 63A
 DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr hab. inż. Janiszewski Jacek
 END:VEVENT
 BEGIN:VEVENT
@@ -464,13 +464,6 @@ DTEND:20260505T073500Z
 SUMMARY:PD (ć)
 LOCATION:AW 3/043
 DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: ppłk rez. mgr Pytlos Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260512T060000Z
-DTEND:20260512T073500Z
-SUMMARY:Metr (w)
-LOCATION:19 36
-DESCRIPTION:Metrologia\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: prof. dr hab. inż. Kawalec Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T060000Z
@@ -870,6 +863,13 @@ DTEND:20260331T172500Z
 SUMMARY:ZINŻ (w)
 LOCATION:103 K
 DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Wykład\nNumer zajęć: 11-12\nProwadzący: ppłk mgr Jurzysta Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T155000Z
+DTEND:20260602T172500Z
+SUMMARY:Metr (w)
+LOCATION:19 36
+DESCRIPTION:Metrologia\nRodzaj zajęć: Wykład\nNumer zajęć: 11-12\nProwadzący: prof. dr hab. inż. Kawalec Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T070000Z
@@ -2214,6 +2214,13 @@ DTEND:20260522T130500Z
 SUMMARY:F1 (ć)
 LOCATION:19 63
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Pawluczyk Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T113000Z
+DTEND:20260529T130500Z
+SUMMARY:Metr (L)
+LOCATION:104 63A
+DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: por.mgr inż. Dyjak Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T113000Z
