@@ -172,6 +172,20 @@ LOCATION:
 DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260608T094000Z
+DTEND:20260608T111500Z
+SUMMARY:Pem (w)
+LOCATION:239 K
+DESCRIPTION:Podstawy ekonometrii\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. Górny Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T094000Z
+DTEND:20260615T111500Z
+SUMMARY:Pem (ć)
+LOCATION:0.23/16
+DESCRIPTION:Podstawy ekonometrii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr inż. Górny Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260302T123000Z
 DTEND:20260302T140500Z
 SUMMARY:Sto (w)
@@ -244,13 +258,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T113000Z
 DTEND:20260518T130500Z
-SUMMARY:Pem (w)
-LOCATION:0.8/16
-DESCRIPTION:Podstawy ekonometrii\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. Górny Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260525T113000Z
-DTEND:20260525T130500Z
 SUMMARY:Pem (w)
 LOCATION:0.8/16
 DESCRIPTION:Podstawy ekonometrii\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr inż. Górny Piotr
@@ -328,13 +335,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T140000Z
 DTEND:20260518T153500Z
-SUMMARY:Pem (ć)
-LOCATION:4.17a/135
-DESCRIPTION:Podstawy ekonometrii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr inż. Górny Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260525T140000Z
-DTEND:20260525T153500Z
 SUMMARY:Pem (ć)
 LOCATION:4.17a/135
 DESCRIPTION:Podstawy ekonometrii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr inż. Górny Piotr
@@ -436,6 +436,13 @@ DTEND:20260512T073500Z
 SUMMARY:ZdSZ (ć)
 LOCATION:
 DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T060000Z
+DTEND:20260609T073500Z
+SUMMARY:Pem (ć)
+LOCATION:239 S
+DESCRIPTION:Podstawy ekonometrii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T085000Z
@@ -753,13 +760,6 @@ LOCATION:241 K; 120 K; 121 K; 122 K; 124 K; 125 K; 127 K; 128 K; 131 K; 133 K; 1
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 16/30
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260609T140000Z
-DTEND:20260609T153500Z
-SUMMARY:Pem (ć)
-LOCATION:4.23/135
-DESCRIPTION:Podstawy ekonometrii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr inż. Górny Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260616T140000Z
 DTEND:20260616T153500Z
 SUMMARY:Ben (w)
@@ -987,7 +987,7 @@ BEGIN:VEVENT
 DTSTART:20260617T075000Z
 DTEND:20260617T092500Z
 SUMMARY:Pem (ć)
-LOCATION:4.23/135
+LOCATION:4.17a/135
 DESCRIPTION:Podstawy ekonometrii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
@@ -1148,7 +1148,7 @@ BEGIN:VEVENT
 DTSTART:20260520T113000Z
 DTEND:20260520T130500Z
 SUMMARY:Pem (ć)
-LOCATION:4.23/135
+LOCATION:239 S
 DESCRIPTION:Podstawy ekonometrii\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT

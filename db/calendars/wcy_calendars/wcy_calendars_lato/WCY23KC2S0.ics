@@ -1565,20 +1565,6 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260518T060000Z
-DTEND:20260518T073500Z
-SUMMARY:SoU (L)
-LOCATION:125 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/20\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260518T075000Z
-DTEND:20260518T092500Z
-SUMMARY:SoU (L)
-LOCATION:125 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/20\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260518T113000Z
 DTEND:20260518T130500Z
 SUMMARY:WF (ć)
@@ -1605,20 +1591,6 @@ DTEND:20260519T073500Z
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 22/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260519T094000Z
-DTEND:20260519T111500Z
-SUMMARY:SoU (L)
-LOCATION:223 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 17/20\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260519T113000Z
-DTEND:20260519T130500Z
-SUMMARY:SoU (L)
-LOCATION:223 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 18/20\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T140000Z
@@ -1786,14 +1758,14 @@ DTSTART:20260527T060000Z
 DTEND:20260527T073500Z
 SUMMARY:SoU (L)
 LOCATION:125 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 19/20\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/20\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T075000Z
 DTEND:20260527T092500Z
 SUMMARY:SoU (L)
 LOCATION:125 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 20/20\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/20\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T094000Z
@@ -1908,11 +1880,39 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260602T113000Z
+DTEND:20260602T130500Z
+SUMMARY:SoU (L)
+LOCATION:106 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 17/20\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260602T140000Z
 DTEND:20260602T153500Z
 SUMMARY:Nsk (ć)
 LOCATION:316 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T155000Z
+DTEND:20260602T172500Z
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 18/20\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T140000Z
+DTEND:20260603T153500Z
+SUMMARY:SoU (L)
+LOCATION:121 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 19/20\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T155000Z
+DTEND:20260603T172500Z
+SUMMARY:SoU (L)
+LOCATION:121 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNumer zajęć: 20/20\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260606T075000Z

@@ -32,13 +32,6 @@ LOCATION:0.7/16
 DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: por. mgr inż. Szpaczyńska Daniela
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260608T060000Z
-DTEND:20260608T073500Z
-SUMMARY:Mas (ć)
-LOCATION:0.7/16
-DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: por. mgr inż. Szpaczyńska Daniela
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260309T085000Z
 DTEND:20260309T102500Z
 SUMMARY:Plog (w)
@@ -919,6 +912,13 @@ DTEND:20260506T153500Z
 SUMMARY:Mas (w)
 LOCATION:aula/135
 DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr inż. Cieślik Karol
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T140000Z
+DTEND:20260513T153500Z
+SUMMARY:Mas (ć)
+LOCATION:0.23/16
+DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: por. mgr inż. Szpaczyńska Daniela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T140000Z

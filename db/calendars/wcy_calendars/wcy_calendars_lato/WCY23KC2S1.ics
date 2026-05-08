@@ -2314,32 +2314,18 @@ LOCATION:120 65
 DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14\nProwadzący: Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260507T060000Z
-DTEND:20260507T073500Z
-SUMMARY:Ppz (L)
-LOCATION:125 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: Paweł Głębocki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260507T075000Z
-DTEND:20260507T092500Z
-SUMMARY:Ppz (L)
-LOCATION:125 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: Paweł Głębocki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260518T060000Z
 DTEND:20260518T073500Z
-SUMMARY:Oni (P)
+SUMMARY:Oni (L)
 LOCATION:106 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNumer zajęć: 4/8\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T075000Z
 DTEND:20260518T092500Z
-SUMMARY:Oni (P)
+SUMMARY:Oni (L)
 LOCATION:106 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNumer zajęć: 5/8\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T140000Z
@@ -2388,28 +2374,28 @@ DTSTART:20260521T060000Z
 DTEND:20260521T073500Z
 SUMMARY:Ppz (L)
 LOCATION:125 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: Paweł Głębocki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T075000Z
 DTEND:20260521T092500Z
 SUMMARY:Ppz (L)
 LOCATION:125 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: Paweł Głębocki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T075000Z
 DTEND:20260522T092500Z
-SUMMARY:Oni (L)
+SUMMARY:Oni (P)
 LOCATION:106 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNumer zajęć: 4/8\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T094000Z
 DTEND:20260522T111500Z
-SUMMARY:Oni (L)
+SUMMARY:Oni (P)
 LOCATION:106 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/7\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNumer zajęć: 5/8\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T113000Z
@@ -2542,13 +2528,27 @@ DTSTART:20260611T060000Z
 DTEND:20260611T073500Z
 SUMMARY:Ppz (L)
 LOCATION:125 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: Paweł Głębocki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T075000Z
 DTEND:20260611T092500Z
 SUMMARY:Ppz (L)
 LOCATION:125 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T113000Z
+DTEND:20260611T130500Z
+SUMMARY:Ppz (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T140000Z
+DTEND:20260611T153500Z
+SUMMARY:Ppz (L)
+LOCATION:09 65
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT

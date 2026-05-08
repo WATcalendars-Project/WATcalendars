@@ -3798,13 +3798,6 @@ LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 45/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260508T155000Z
-DTEND:20260508T172500Z
-SUMMARY:PTk (ć)
-LOCATION:121 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: mgr inż. Marcin Goluch
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260511T075000Z
 DTEND:20260511T092500Z
 SUMMARY:F1 (ć)
@@ -3949,7 +3942,7 @@ DTSTART:20260515T155000Z
 DTEND:20260515T172500Z
 SUMMARY:PTk (ć)
 LOCATION:121 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T060000Z
@@ -4020,6 +4013,13 @@ DTEND:20260519T111500Z
 SUMMARY:ZLDT-1 (w)
 LOCATION:aula/ 135
 DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T113000Z
+DTEND:20260519T130500Z
+SUMMARY:Amt (Inne)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T140000Z
@@ -4104,6 +4104,13 @@ DTEND:20260521T153500Z
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (S.Sz.W.)\nNumer zajęć: 57/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T075000Z
+DTEND:20260522T092500Z
+SUMMARY:PTk (ć)
+LOCATION:308 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T113000Z

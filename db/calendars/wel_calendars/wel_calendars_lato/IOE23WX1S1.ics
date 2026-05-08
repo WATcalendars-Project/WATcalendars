@@ -32,20 +32,6 @@ LOCATION:2046
 DESCRIPTION:Podstawy techniki laserowej\nRodzaj zajęć: -\nProwadzący: dr inż. Skórczakowski Marek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260511T060000Z
-DTEND:20260511T073500Z
-SUMMARY:PTL 
-LOCATION:2046
-DESCRIPTION:Podstawy techniki laserowej\nRodzaj zajęć: -\nProwadzący: dr inż. Skórczakowski Marek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260518T060000Z
-DTEND:20260518T073500Z
-SUMMARY:AMK 
-LOCATION:
-DESCRIPTION:Analiza i projektowanie misji kosmicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Drozd Tadeusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260525T060000Z
 DTEND:20260525T073500Z
 SUMMARY:STS 
@@ -102,25 +88,18 @@ LOCATION:3367
 DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260504T075000Z
-DTEND:20260504T092500Z
-SUMMARY:MLA 
-LOCATION:3367
-DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260511T075000Z
 DTEND:20260511T092500Z
-SUMMARY:MLA 
+SUMMARY:PTL 
 LOCATION:
-DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
+DESCRIPTION:Podstawy techniki laserowej\nRodzaj zajęć: -\nProwadzący: dr inż. Skórczakowski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T075000Z
 DTEND:20260518T092500Z
-SUMMARY:MLA 
-LOCATION:3367
-DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
+SUMMARY:AMK 
+LOCATION:
+DESCRIPTION:Analiza i projektowanie misji kosmicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Drozd Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T075000Z
@@ -191,13 +170,6 @@ DTEND:20260518T111500Z
 SUMMARY:STS 
 LOCATION:
 DESCRIPTION:Systemy telemetrii, zarządzania i sterowania obiektów kosmicznych\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260525T094000Z
-DTEND:20260525T111500Z
-SUMMARY:MLA 
-LOCATION:3367
-DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T123000Z
@@ -291,11 +263,53 @@ LOCATION:
 DESCRIPTION:Analiza i projektowanie misji kosmicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Drozd Tadeusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260504T140000Z
+DTEND:20260504T153500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T140000Z
+DTEND:20260511T153500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T140000Z
+DTEND:20260518T153500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260525T140000Z
 DTEND:20260525T153500Z
 SUMMARY:STS 
 LOCATION:13636
 DESCRIPTION:Systemy telemetrii, zarządzania i sterowania obiektów kosmicznych\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T155000Z
+DTEND:20260504T172500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T155000Z
+DTEND:20260511T172500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T155000Z
+DTEND:20260518T172500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T070000Z
@@ -466,13 +480,6 @@ LOCATION:
 DESCRIPTION:Analiza i projektowanie misji kosmicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Drozd Tadeusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260602T075000Z
-DTEND:20260602T092500Z
-SUMMARY:AMK 
-LOCATION:
-DESCRIPTION:Analiza i projektowanie misji kosmicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Drozd Tadeusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260303T104000Z
 DTEND:20260303T121500Z
 SUMMARY:PSS 
@@ -543,13 +550,6 @@ LOCATION:
 DESCRIPTION:Mechanizmy i konstrukcje kosmiczne\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260519T094000Z
-DTEND:20260519T111500Z
-SUMMARY:MLA 
-LOCATION:
-DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260526T094000Z
 DTEND:20260526T111500Z
 SUMMARY:PTL 
@@ -559,9 +559,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T094000Z
 DTEND:20260602T111500Z
-SUMMARY:MLA 
-LOCATION:3367
-DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
+SUMMARY:AMK 
+LOCATION:
+DESCRIPTION:Analiza i projektowanie misji kosmicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Drozd Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T094000Z
@@ -620,13 +620,6 @@ LOCATION:
 DESCRIPTION:Satelitarne przyrządy optyczne - konstrukcja i eksploatacja\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260519T113000Z
-DTEND:20260519T130500Z
-SUMMARY:MLA 
-LOCATION:
-DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260526T113000Z
 DTEND:20260526T130500Z
 SUMMARY:PTL 
@@ -648,11 +641,67 @@ LOCATION:
 DESCRIPTION:Analiza i projektowanie misji kosmicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Drozd Tadeusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260505T140000Z
+DTEND:20260505T153500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T140000Z
+DTEND:20260512T153500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T140000Z
+DTEND:20260519T153500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T140000Z
+DTEND:20260526T153500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260602T140000Z
 DTEND:20260602T153500Z
 SUMMARY:STS 
 LOCATION:0436
 DESCRIPTION:Systemy telemetrii, zarządzania i sterowania obiektów kosmicznych\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T155000Z
+DTEND:20260505T172500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T155000Z
+DTEND:20260512T172500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T155000Z
+DTEND:20260519T172500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T155000Z
+DTEND:20260526T172500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T155000Z
@@ -683,13 +732,6 @@ LOCATION:
 DESCRIPTION:Analiza i projektowanie misji kosmicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Drozd Tadeusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260603T060000Z
-DTEND:20260603T073500Z
-SUMMARY:MLA 
-LOCATION:
-DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260513T075000Z
 DTEND:20260513T092500Z
 SUMMARY:STS 
@@ -702,27 +744,6 @@ DTEND:20260520T092500Z
 SUMMARY:STS 
 LOCATION:0436
 DESCRIPTION:Systemy telemetrii, zarządzania i sterowania obiektów kosmicznych\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260527T075000Z
-DTEND:20260527T092500Z
-SUMMARY:MLA 
-LOCATION:
-DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260603T075000Z
-DTEND:20260603T092500Z
-SUMMARY:MLA 
-LOCATION:
-DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260610T075000Z
-DTEND:20260610T092500Z
-SUMMARY:MLA 
-LOCATION:
-DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T094000Z
@@ -800,6 +821,76 @@ DTEND:20260610T130500Z
 SUMMARY:PTL 
 LOCATION:
 DESCRIPTION:Podstawy techniki laserowej\nRodzaj zajęć: -\nProwadzący: dr inż. Skórczakowski Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T140000Z
+DTEND:20260513T153500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T140000Z
+DTEND:20260520T153500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T140000Z
+DTEND:20260527T153500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T140000Z
+DTEND:20260603T153500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T140000Z
+DTEND:20260610T153500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T155000Z
+DTEND:20260513T172500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T155000Z
+DTEND:20260520T172500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T155000Z
+DTEND:20260527T172500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T155000Z
+DTEND:20260603T172500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T155000Z
+DTEND:20260610T172500Z
+SUMMARY:MLA 
+LOCATION:
+DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T070000Z
@@ -1084,9 +1175,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T113000Z
 DTEND:20260508T130500Z
-SUMMARY:MLA 
-LOCATION:3367
-DESCRIPTION:Mechanika lotu i astrodynamika\nRodzaj zajęć: -\nProwadzący: dr hab. inż. Wrzesień Stanisław
+SUMMARY:STS 
+LOCATION:13636
+DESCRIPTION:Systemy telemetrii, zarządzania i sterowania obiektów kosmicznych\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T113000Z
@@ -1100,13 +1191,6 @@ DTSTART:20260313T150000Z
 DTEND:20260313T163500Z
 SUMMARY:STS 
 LOCATION:2467
-DESCRIPTION:Systemy telemetrii, zarządzania i sterowania obiektów kosmicznych\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260508T140000Z
-DTEND:20260508T153500Z
-SUMMARY:STS 
-LOCATION:13636
 DESCRIPTION:Systemy telemetrii, zarządzania i sterowania obiektów kosmicznych\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT

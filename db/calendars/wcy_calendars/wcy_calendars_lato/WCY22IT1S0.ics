@@ -5898,20 +5898,6 @@ LOCATION:09 65
 DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260508T140000Z
-DTEND:20260508T153500Z
-SUMMARY:Pwst (L)
-LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260508T155000Z
-DTEND:20260508T172500Z
-SUMMARY:Pwst (L)
-LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260509T060000Z
 DTEND:20260509T073500Z
 SUMMARY:XWF (ć)
@@ -5952,20 +5938,6 @@ DTEND:20260511T172500Z
 SUMMARY:Sss (L)
 LOCATION:011 65
 DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Jan Chudzikiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260512T060000Z
-DTEND:20260512T073500Z
-SUMMARY:MeSK (L)
-LOCATION:227 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Jarosław Rulka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260512T075000Z
-DTEND:20260512T092500Z
-SUMMARY:MeSK (L)
-LOCATION:227 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T094000Z
@@ -6066,18 +6038,25 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 77/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260515T113000Z
+DTEND:20260515T130500Z
+SUMMARY:bai (L)
+LOCATION:011 65
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260515T140000Z
 DTEND:20260515T153500Z
 SUMMARY:Pwst (L)
 LOCATION:011 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T155000Z
 DTEND:20260515T172500Z
 SUMMARY:Pwst (L)
 LOCATION:011 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T060000Z
@@ -6101,20 +6080,6 @@ LOCATION:317 S
 DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260518T094000Z
-DTEND:20260518T111500Z
-SUMMARY:bai (L)
-LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260518T113000Z
-DTEND:20260518T130500Z
-SUMMARY:bai (L)
-LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260518T140000Z
 DTEND:20260518T153500Z
 SUMMARY:ESI (L)
@@ -6126,14 +6091,14 @@ DTSTART:20260519T060000Z
 DTEND:20260519T073500Z
 SUMMARY:MeSK (L)
 LOCATION:228 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Jarosław Rulka
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T075000Z
 DTEND:20260519T092500Z
 SUMMARY:MeSK (L)
 LOCATION:228 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Jarosław Rulka
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T094000Z
@@ -6175,14 +6140,14 @@ DTSTART:20260520T140000Z
 DTEND:20260520T153500Z
 SUMMARY:bai (L)
 LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: Karol Szczepanowski
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T155000Z
 DTEND:20260520T172500Z
 SUMMARY:bai (L)
 LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: Karol Szczepanowski
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: Karol Szczepanowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T094000Z
@@ -6213,18 +6178,25 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 82/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260522T113000Z
+DTEND:20260522T130500Z
+SUMMARY:bai (L)
+LOCATION:106 65
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260522T140000Z
 DTEND:20260522T153500Z
 SUMMARY:Pwst (L)
 LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T155000Z
 DTEND:20260522T172500Z
 SUMMARY:Pwst (L)
 LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260523T060000Z
@@ -6260,6 +6232,20 @@ DTEND:20260525T130500Z
 SUMMARY:Dn (ć)
 LOCATION:309 S
 DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T060000Z
+DTEND:20260526T073500Z
+SUMMARY:MeSK (L)
+LOCATION:228 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T075000Z
+DTEND:20260526T092500Z
+SUMMARY:MeSK (L)
+LOCATION:228 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T094000Z
@@ -6371,14 +6357,14 @@ DTSTART:20260529T140000Z
 DTEND:20260529T153500Z
 SUMMARY:Pwst (L)
 LOCATION:011 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T155000Z
 DTEND:20260529T172500Z
 SUMMARY:Pwst (L)
 LOCATION:011 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260530T060000Z
@@ -6575,6 +6561,20 @@ DTEND:20260616T111500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 88/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T140000Z
+DTEND:20260616T153500Z
+SUMMARY:Pwst (L)
+LOCATION:09 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T155000Z
+DTEND:20260616T172500Z
+SUMMARY:Pwst (L)
+LOCATION:09 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T094000Z

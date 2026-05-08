@@ -2552,20 +2552,6 @@ LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 34/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260313T150000Z
-DTEND:20260313T163500Z
-SUMMARY:PTk (L)
-LOCATION:011 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Marcin Goluch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260313T165000Z
-DTEND:20260313T182500Z
-SUMMARY:PTk (L)
-LOCATION:011 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Marcin Goluch
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260316T070000Z
 DTEND:20260316T083500Z
 SUMMARY:F1 (ć)
@@ -2934,14 +2920,14 @@ DTSTART:20260401T094000Z
 DTEND:20260401T111500Z
 SUMMARY:PTk (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T113000Z
 DTEND:20260401T130500Z
 SUMMARY:PTk (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T140000Z
@@ -3179,14 +3165,14 @@ DTSTART:20260417T140000Z
 DTEND:20260417T153500Z
 SUMMARY:PTk (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T155000Z
 DTEND:20260417T172500Z
 SUMMARY:PTk (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T060000Z
@@ -3508,14 +3494,14 @@ DTSTART:20260505T140000Z
 DTEND:20260505T153500Z
 SUMMARY:PTk (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T155000Z
 DTEND:20260505T172500Z
 SUMMARY:PTk (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T060000Z
@@ -3539,6 +3525,13 @@ LOCATION:120 45
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260506T113000Z
+DTEND:20260506T130500Z
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 47/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T140000Z
 DTEND:20260506T153500Z
 SUMMARY:Rp (w)
@@ -3550,7 +3543,7 @@ DTSTART:20260507T060000Z
 DTEND:20260507T073500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 47/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 48/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T075000Z
@@ -3641,7 +3634,7 @@ DTSTART:20260512T060000Z
 DTEND:20260512T073500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 48/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 49/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T075000Z
@@ -3690,7 +3683,7 @@ DTSTART:20260514T060000Z
 DTEND:20260514T073500Z
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 49/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 50/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T075000Z
@@ -3719,13 +3712,6 @@ DTEND:20260515T073500Z
 SUMMARY:Md2 (ć)
 LOCATION:308 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T075000Z
-DTEND:20260515T092500Z
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 50/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T094000Z
@@ -4188,6 +4174,20 @@ DTEND:20260609T130500Z
 SUMMARY:Tpi (ć)
 LOCATION:307 S
 DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Piotr Marciniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T140000Z
+DTEND:20260609T153500Z
+SUMMARY:PTk (L)
+LOCATION:125 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: mgr inż. Marcin Goluch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T155000Z
+DTEND:20260609T172500Z
+SUMMARY:PTk (L)
+LOCATION:125 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T060000Z

@@ -49,7 +49,7 @@ BEGIN:VEVENT
 DTSTART:20260615T060000Z
 DTEND:20260615T073500Z
 SUMMARY:BOiTO (L)
-LOCATION:5.21/135
+LOCATION:239 S
 DESCRIPTION:Badania operacyjne i teoria optymalizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 DTSTART:20260615T075000Z
 DTEND:20260615T092500Z
 SUMMARY:BOiTO (L)
-LOCATION:5.21/135
+LOCATION:239 S
 DESCRIPTION:Badania operacyjne i teoria optymalizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
@@ -382,6 +382,13 @@ LOCATION:
 DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/15
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260512T075000Z
+DTEND:20260512T092500Z
+SUMMARY:BOiTO (L)
+LOCATION:252 S
+DESCRIPTION:Badania operacyjne i teoria optymalizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Górny Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260602T075000Z
 DTEND:20260602T092500Z
 SUMMARY:NiTZ (ć)
@@ -470,7 +477,7 @@ DTSTART:20260428T113000Z
 DTEND:20260428T130500Z
 SUMMARY:BOiTO (L)
 LOCATION:5.21/135
-DESCRIPTION:Badania operacyjne i teoria optymalizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Górny Piotr
+DESCRIPTION:Badania operacyjne i teoria optymalizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T113000Z
@@ -478,13 +485,6 @@ DTEND:20260505T130500Z
 SUMMARY:Sizl (ć)
 LOCATION:1.16/16
 DESCRIPTION:Standaryzacja i znakowanie w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr n.społ. inż. Rogowski Bogusław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260512T113000Z
-DTEND:20260512T130500Z
-SUMMARY:BOiTO (L)
-LOCATION:5.21/135
-DESCRIPTION:Badania operacyjne i teoria optymalizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T113000Z
@@ -679,7 +679,7 @@ BEGIN:VEVENT
 DTSTART:20260603T075000Z
 DTEND:20260603T092500Z
 SUMMARY:BOiTO (L)
-LOCATION:5.21/135
+LOCATION:0.22/16
 DESCRIPTION:Badania operacyjne i teoria optymalizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT
@@ -707,7 +707,7 @@ BEGIN:VEVENT
 DTSTART:20260603T094000Z
 DTEND:20260603T111500Z
 SUMMARY:BOiTO (L)
-LOCATION:5.21/135
+LOCATION:0.22/16
 DESCRIPTION:Badania operacyjne i teoria optymalizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Górny Piotr
 END:VEVENT
 BEGIN:VEVENT

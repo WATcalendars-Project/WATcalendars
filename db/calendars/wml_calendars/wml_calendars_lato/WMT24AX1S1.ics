@@ -1096,13 +1096,6 @@ LOCATION:113 25
 DESCRIPTION:Podstawy Cax\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: mgr inż. Cieplak Kamil
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260506T113000Z
-DTEND:20260506T130500Z
-SUMMARY:EiE2 (L)
-LOCATION:104 63A;10
-DESCRIPTION:Elektrotechnika i elektronika II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: mgr inż. Pustkowski Remigiusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260520T113000Z
 DTEND:20260520T130500Z
 SUMMARY:Ucm (w)
@@ -1518,6 +1511,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T094000Z
 DTEND:20260417T111500Z
+SUMMARY:EiE2 (L)
+LOCATION:104 63A;10
+DESCRIPTION:Elektrotechnika i elektronika II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Pustkowski Remigiusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T094000Z
+DTEND:20260508T111500Z
 SUMMARY:EiE2 (L)
 LOCATION:104 63A;10
 DESCRIPTION:Elektrotechnika i elektronika II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Pustkowski Remigiusz

@@ -179,13 +179,6 @@ LOCATION:19 36
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Grązka Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260615T075000Z
-DTEND:20260615T092500Z
-SUMMARY:F1 (ć)
-LOCATION:19 63
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Pawluczyk Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260302T104000Z
 DTEND:20260302T121500Z
 SUMMARY:Ja (ć)
@@ -788,6 +781,13 @@ LOCATION:19 36
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Grązka Michał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260512T113000Z
+DTEND:20260512T130500Z
+SUMMARY:Metr (L)
+LOCATION:103 63A;10
+DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: por.mgr inż. Dyjak Jakub
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260519T113000Z
 DTEND:20260519T130500Z
 SUMMARY:Pwd (ć)
@@ -877,13 +877,6 @@ DTEND:20260505T153500Z
 SUMMARY:Nom (w)
 LOCATION:19 36
 DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr inż. Dębski Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260512T140000Z
-DTEND:20260512T153500Z
-SUMMARY:Metr (L)
-LOCATION:103 63A;10
-DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: por.mgr inż. Dyjak Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T140000Z
@@ -2207,6 +2200,13 @@ DTEND:20260529T111500Z
 SUMMARY:In (ć)
 LOCATION:18 63
 DESCRIPTION:Informatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T094000Z
+DTEND:20260612T111500Z
+SUMMARY:F1 (ć)
+LOCATION:118 45
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Pawluczyk Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T094000Z
