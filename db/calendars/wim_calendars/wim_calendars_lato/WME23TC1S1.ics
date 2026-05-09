@@ -195,9 +195,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T075000Z
 DTEND:20250525T092500Z
-SUMMARY:PLwP (w)
+SUMMARY:PLwP (P)
 LOCATION:51/ 62
-DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Projekt\nNumer zajęć: 1/7\nProwadzący: prof. WAT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250601T075000Z
@@ -323,7 +323,7 @@ DTSTART:20250525T094000Z
 DTEND:20250525T111500Z
 SUMMARY:PLwP (P)
 LOCATION:51/ 62
-DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Projekt\nNumer zajęć: 1/7\nProwadzący: prof. WAT
+DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Projekt\nNumer zajęć: 2/7\nProwadzący: prof. WAT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250601T094000Z
@@ -379,21 +379,21 @@ DTSTART:20250413T113000Z
 DTEND:20250413T130500Z
 SUMMARY:PLwP (P)
 LOCATION:17/ 135
-DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Projekt\nNumer zajęć: 2/7\nProwadzący: prof. WAT
+DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Projekt\nNumer zajęć: 3/7\nProwadzący: prof. WAT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250420T113000Z
 DTEND:20250420T130500Z
 SUMMARY:PLwP (w)
 LOCATION:52/ 62
-DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250504T113000Z
 DTEND:20250504T130500Z
 SUMMARY:PLwP (P)
 LOCATION:6/ 23a
-DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Projekt\nNumer zajęć: 3/7\nProwadzący: prof. WAT
+DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Projekt\nNumer zajęć: 4/7\nProwadzący: prof. WAT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250511T113000Z
@@ -401,13 +401,6 @@ DTEND:20250511T130500Z
 SUMMARY:UrM (L)
 LOCATION:38/ 20
 DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250525T113000Z
-DTEND:20250525T130500Z
-SUMMARY:PLwP (P)
-LOCATION:51/ 62
-DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Projekt\nNumer zajęć: 4/7\nProwadzący: prof. WAT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250601T113000Z
@@ -464,13 +457,6 @@ DTEND:20250504T153500Z
 SUMMARY:ZwŁD (w)
 LOCATION:27/ 135
 DESCRIPTION:Zapasy w łańcuchach dostaw\nRodzaj zajęć: Wykład\nNumer zajęć: 2/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250511T140000Z
-DTEND:20250511T153500Z
-SUMMARY:LM. (w)
-LOCATION:52/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250518T140000Z
@@ -533,7 +519,7 @@ DTSTART:20250519T060000Z
 DTEND:20250519T073500Z
 SUMMARY:PLwP (w)
 LOCATION:8/ 62
-DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T060000Z
@@ -548,6 +534,13 @@ DTEND:20250602T073500Z
 SUMMARY:ZwŁD (ć)
 LOCATION:27/ 135
 DESCRIPTION:Zapasy w łańcuchach dostaw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/11\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T060000Z
+DTEND:20250609T073500Z
+SUMMARY:PLwP (ć)
+LOCATION:8/ 62
+DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T060000Z
@@ -582,7 +575,7 @@ DTSTART:20250519T075000Z
 DTEND:20250519T092500Z
 SUMMARY:PLwP (w)
 LOCATION:8/ 62
-DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T075000Z
@@ -596,7 +589,14 @@ DTSTART:20250602T075000Z
 DTEND:20250602T092500Z
 SUMMARY:PLwP (w)
 LOCATION:52/ 62
-DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Woźniak Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T075000Z
+DTEND:20250609T092500Z
+SUMMARY:PLwP (ć)
+LOCATION:8/ 62
+DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T075000Z
@@ -666,7 +666,14 @@ DTSTART:20250602T094000Z
 DTEND:20250602T111500Z
 SUMMARY:PLwP (ć)
 LOCATION:52/ 62
-DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Woźniak Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T094000Z
+DTEND:20250609T111500Z
+SUMMARY:PLwP (w)
+LOCATION:8/ 62
+DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T094000Z
@@ -779,6 +786,20 @@ DTEND:20250407T172500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 13/56
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250526T155000Z
+DTEND:20250526T172500Z
+SUMMARY:LM. (w)
+LOCATION:52/ 62
+DESCRIPTION:Logistics management\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: płk dr inż. Goliasz Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250602T155000Z
+DTEND:20250602T172500Z
+SUMMARY:LM. (ć)
+LOCATION:8/ 62
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T174000Z
@@ -974,7 +995,7 @@ DTSTART:20250506T094000Z
 DTEND:20250506T111500Z
 SUMMARY:PLwP (ć)
 LOCATION:301/ S
-DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T094000Z
@@ -982,13 +1003,6 @@ DTEND:20250513T111500Z
 SUMMARY:PLwP (w)
 LOCATION:301/ S
 DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: dr Woźniak Jacek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250520T094000Z
-DTEND:20250520T111500Z
-SUMMARY:PLwP (ć)
-LOCATION:301/ S
-DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T123000Z
@@ -1030,7 +1044,7 @@ DTSTART:20250429T113000Z
 DTEND:20250429T130500Z
 SUMMARY:PLwP (ć)
 LOCATION:301/ S
-DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Woźniak Jacek
+DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T113000Z
@@ -1047,11 +1061,11 @@ LOCATION:301/ S
 DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr Woźniak Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250520T113000Z
-DTEND:20250520T130500Z
-SUMMARY:PLwP (ć)
-LOCATION:301/ S
-DESCRIPTION:Procesy logistyczne w przedsiębiorstwie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Woźniak Jacek
+DTSTART:20250527T113000Z
+DTEND:20250527T130500Z
+SUMMARY:LM. (ć)
+LOCATION:9/ 62
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T150000Z
@@ -1086,7 +1100,7 @@ DTSTART:20250429T140000Z
 DTEND:20250429T153500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T140000Z
@@ -1096,18 +1110,18 @@ LOCATION:27/ 135
 DESCRIPTION:Zapasy w łańcuchach dostaw\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250513T140000Z
-DTEND:20250513T153500Z
-SUMMARY:LM. (ć)
-LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: płk dr inż. Goliasz Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250520T140000Z
 DTEND:20250520T153500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: płk dr inż. Goliasz Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250527T140000Z
+DTEND:20250527T153500Z
+SUMMARY:LM. (ć)
+LOCATION:9/ 62
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250916T140000Z
@@ -1121,7 +1135,7 @@ DTSTART:20250429T155000Z
 DTEND:20250429T172500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T155000Z
@@ -1131,18 +1145,11 @@ LOCATION:27/ 135
 DESCRIPTION:Zapasy w łańcuchach dostaw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/11\nProwadzący: dr n. ekon. mgr inż. Ślaski Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250513T155000Z
-DTEND:20250513T172500Z
-SUMMARY:LM. (ć)
-LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: płk dr inż. Goliasz Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250520T155000Z
 DTEND:20250520T172500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: płk dr inż. Goliasz Tomasz
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T070000Z
@@ -1493,13 +1500,6 @@ DTEND:20250409T153500Z
 SUMMARY:LM. (w)
 LOCATION:51/ 62
 DESCRIPTION:Logistics management\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: płk dr inż. Goliasz Tomasz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250514T140000Z
-DTEND:20250514T153500Z
-SUMMARY:LM. (ć)
-LOCATION:8/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: płk dr inż. Goliasz Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T140000Z

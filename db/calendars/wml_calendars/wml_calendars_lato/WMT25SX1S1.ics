@@ -25,6 +25,13 @@ LOCATION:142 S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Morawiak Przemysław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260525T060000Z
+DTEND:20260525T073500Z
+SUMMARY:Mat3 (ć)
+LOCATION:3.3 75
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr Pawlak Karolina
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260608T060000Z
 DTEND:20260608T073500Z
 SUMMARY:HP (ć)
@@ -64,13 +71,6 @@ DTSTART:20260504T075000Z
 DTEND:20260504T092500Z
 SUMMARY:Mat3 (ć)
 LOCATION:20 63
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr Pawlak Karolina
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260511T075000Z
-DTEND:20260511T092500Z
-SUMMARY:Mat3 (ć)
-LOCATION:41 36
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr Pawlak Karolina
 END:VEVENT
 BEGIN:VEVENT
@@ -331,6 +331,13 @@ DTEND:20260616T092500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppor mgr Zadrożny Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260623T075000Z
+DTEND:20260623T092500Z
+SUMMARY:Mat3 (E)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T104000Z

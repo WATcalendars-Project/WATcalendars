@@ -410,6 +410,13 @@ LOCATION:18 63
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Mrukiewicz Mateusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260623T075000Z
+DTEND:20260623T092500Z
+SUMMARY:Mat3 (E)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260317T104000Z
 DTEND:20260317T121500Z
 SUMMARY:Nom (w)
@@ -921,13 +928,6 @@ LOCATION:S2 72
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr Ważniewski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260527T140000Z
-DTEND:20260527T153500Z
-SUMMARY:HP (w)
-LOCATION:S2 72
-DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr Ważniewski Włodzimierz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260617T140000Z
 DTEND:20260617T153500Z
 SUMMARY:REZ 
@@ -1045,6 +1045,13 @@ DTEND:20260528T073500Z
 SUMMARY:Mat2 (Ep)
 LOCATION:46 63
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1-2\nProwadzący: Dr Tarka Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T060000Z
+DTEND:20260618T073500Z
+SUMMARY:HP (w)
+LOCATION:19 36
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr Ważniewski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T075000Z

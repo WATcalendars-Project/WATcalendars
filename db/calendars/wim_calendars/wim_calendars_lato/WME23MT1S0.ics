@@ -1012,6 +1012,13 @@ LOCATION:16/ 19; 17/ 19
 DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250616T140000Z
+DTEND:20250616T153500Z
+SUMMARY:GMiM (w)
+LOCATION:15/ 23a
+DESCRIPTION:Gospodarka mieniem i magazynowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: mgr inż. Wójcik Maciej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250317T165000Z
 DTEND:20250317T182500Z
 SUMMARY:Ja (ć)
@@ -1038,6 +1045,13 @@ DTEND:20250421T172500Z
 SUMMARY:Psł. 
 LOCATION:
 DESCRIPTION:Psł.\nRodzaj zajęć: -\nNumer zajęć: 8/9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250526T155000Z
+DTEND:20250526T172500Z
+SUMMARY:GMiM (ć)
+LOCATION:1/ 19
+DESCRIPTION:Gospodarka mieniem i magazynowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T155000Z
@@ -1086,7 +1100,7 @@ DTSTART:20250401T060000Z
 DTEND:20250401T073500Z
 SUMMARY:GMiM (ć)
 LOCATION:1/ 19
-DESCRIPTION:Gospodarka mieniem i magazynowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: mgr inż. Wójcik Maciej
+DESCRIPTION:Gospodarka mieniem i magazynowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T060000Z
@@ -1313,13 +1327,6 @@ LOCATION:52/ 62
 DESCRIPTION:Budowa środków transportu\nRodzaj zajęć: Wykład\nNumer zajęć: 9/15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250513T094000Z
-DTEND:20250513T111500Z
-SUMMARY:GMiM (ć)
-LOCATION:1/ 19
-DESCRIPTION:Gospodarka mieniem i magazynowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: mgr inż. Wójcik Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250520T094000Z
 DTEND:20250520T111500Z
 SUMMARY:WF (ć)
@@ -1507,13 +1514,6 @@ DTEND:20250507T073500Z
 SUMMARY:Pkm 
 LOCATION:3/ 54
 DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 16/21\nProwadzący: dr inż. Papliński Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250514T060000Z
-DTEND:20250514T073500Z
-SUMMARY:GMiM (w)
-LOCATION:15/ 23a
-DESCRIPTION:Gospodarka mieniem i magazynowa\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T060000Z

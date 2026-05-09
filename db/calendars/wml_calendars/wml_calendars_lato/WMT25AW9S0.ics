@@ -732,6 +732,13 @@ LOCATION:19 36
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Grązka Michał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260512T113000Z
+DTEND:20260512T130500Z
+SUMMARY:F1 (L)
+LOCATION:142 S
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: prof. dr hab. inż. Kopytko Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260519T113000Z
 DTEND:20260519T130500Z
 SUMMARY:Iw (ć)
@@ -2155,9 +2162,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T094000Z
 DTEND:20260529T111500Z
-SUMMARY:F1 (L)
-LOCATION:142 S
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: prof. dr hab. inż. Kopytko Małgorzata
+SUMMARY:Mat3 (ć)
+LOCATION:114 57
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Dryło Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T094000Z
@@ -2214,13 +2221,6 @@ DTEND:20260515T130500Z
 SUMMARY:Metr (L)
 LOCATION:103 63A;10
 DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: por.mgr inż. Dyjak Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260529T113000Z
-DTEND:20260529T130500Z
-SUMMARY:Mat3 (ć)
-LOCATION:114 57
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr Dryło Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T113000Z

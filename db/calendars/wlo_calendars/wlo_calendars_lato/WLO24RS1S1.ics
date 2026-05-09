@@ -592,13 +592,6 @@ LOCATION:1.15/16
 DESCRIPTION:Bezpieczeństwo kulturowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260520T140000Z
-DTEND:20260520T153500Z
-SUMMARY:ERIiC (w)
-LOCATION:0.21/16
-DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Magierski Mieczysław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260527T140000Z
 DTEND:20260527T153500Z
 SUMMARY:NwSK (ć)
@@ -702,6 +695,13 @@ DTEND:20260514T092500Z
 SUMMARY:S.D. (S)
 LOCATION:0.23/16
 DESCRIPTION:Seminarium Dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/15\nProwadzący: dr Krysowaty Aneta
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T075000Z
+DTEND:20260528T092500Z
+SUMMARY:ERIiC (w)
+LOCATION:0.7/16
+DESCRIPTION:Ewaluacja ryzyka informatycznego i cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr inż. Magierski Mieczysław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T094000Z
