@@ -853,16 +853,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T094000Z
 DTEND:20250512T111500Z
-SUMMARY:PKM 
-LOCATION:120/ 54; 9a/ 54
-DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 10/25\nProwadzący: dr inż. Torzewski Janusz
+SUMMARY:Uhip (L)
+LOCATION:28/ 54
+DESCRIPTION:Urządzenia hydrauliczne i pneumatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. Łopatka Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T094000Z
 DTEND:20250609T111500Z
 SUMMARY:PKM 
 LOCATION:120/ 54; 9a/ 54
-DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 11/25\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 10/25\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T094000Z
@@ -984,13 +984,6 @@ LOCATION:53/ 62
 DESCRIPTION:Programowanie dla mechaników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250512T140000Z
-DTEND:20250512T153500Z
-SUMMARY:Uhip (L)
-LOCATION:28/ 54
-DESCRIPTION:Urządzenia hydrauliczne i pneumatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr hab. inż. Łopatka Marian
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250526T140000Z
 DTEND:20250526T153500Z
 SUMMARY:Tmm (L)
@@ -1044,7 +1037,7 @@ DTSTART:20250325T070000Z
 DTEND:20250325T083500Z
 SUMMARY:PKM 
 LOCATION:3/ 54
-DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 12/25\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 11/25\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T060000Z
@@ -1184,7 +1177,7 @@ DTSTART:20250603T075000Z
 DTEND:20250603T092500Z
 SUMMARY:PKM 
 LOCATION:120/ 54; 9a/ 54
-DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 13/25\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 12/25\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T075000Z
@@ -1198,7 +1191,7 @@ DTSTART:20250701T075000Z
 DTEND:20250701T092500Z
 SUMMARY:PKM 
 LOCATION:116/ 54
-DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 14/25\nProwadzący: dr inż. Cieślik Karol
+DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 13/25\nProwadzący: dr inż. Cieślik Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T104000Z
@@ -1374,6 +1367,13 @@ DTEND:20250513T130500Z
 SUMMARY:Uhip (w)
 LOCATION:01/ 54A
 DESCRIPTION:Urządzenia hydrauliczne i pneumatyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 9/9\nProwadzący: dr hab. inż. Łopatka Marian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250520T113000Z
+DTEND:20250520T130500Z
+SUMMARY:PKM 
+LOCATION:3/ 54; 9a/ 54
+DESCRIPTION:PKM\nRodzaj zajęć: -\nNumer zajęć: 14/25\nProwadzący: dr inż. Torzewski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T113000Z

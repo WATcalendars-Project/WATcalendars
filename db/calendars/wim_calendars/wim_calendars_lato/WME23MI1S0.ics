@@ -319,6 +319,20 @@ LOCATION:10/ 54A
 DESCRIPTION:Dowodzenie wojskami inżynieryjnymi\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Kuchta Wiesław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250601T094000Z
+DTEND:20250601T111500Z
+SUMMARY:Uem. (L)
+LOCATION:42/ 54A
+DESCRIPTION:Urządzenia elektryczne i osprzęt elektroniczny maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250608T094000Z
+DTEND:20250608T111500Z
+SUMMARY:Uem. (L)
+LOCATION:14/ 54A
+DESCRIPTION:Urządzenia elektryczne i osprzęt elektroniczny maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250622T094000Z
 DTEND:20250622T111500Z
 SUMMARY:PKom (Zp/lab.)
@@ -386,7 +400,7 @@ DTSTART:20250427T113000Z
 DTEND:20250427T130500Z
 SUMMARY:Uem. (L)
 LOCATION:42/ 54A
-DESCRIPTION:Urządzenia elektryczne i osprzęt elektroniczny maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Urządzenia elektryczne i osprzęt elektroniczny maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250504T113000Z
@@ -436,6 +450,13 @@ DTEND:20250420T153500Z
 SUMMARY:Psł. 
 LOCATION:
 DESCRIPTION:Psł.\nRodzaj zajęć: -\nNumer zajęć: 5/9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250601T140000Z
+DTEND:20250601T153500Z
+SUMMARY:Pkm 
+LOCATION:3/ 54
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 4/20\nProwadzący: por. mgr inż. Szpaczyńska Daniela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250323T165000Z
@@ -571,13 +592,6 @@ LOCATION:108/ 54
 DESCRIPTION:Urządzenia elektryczne i osprzęt elektroniczny maszyn inżynieryjnych\nRodzaj zajęć: Wykład\nNumer zajęć: 3/12\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250609T060000Z
-DTEND:20250609T073500Z
-SUMMARY:Uem. (L)
-LOCATION:09/ 54A
-DESCRIPTION:Urządzenia elektryczne i osprzęt elektroniczny maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250303T085000Z
 DTEND:20250303T102500Z
 SUMMARY:ZIoMB (w)
@@ -659,7 +673,7 @@ DTSTART:20250526T075000Z
 DTEND:20250526T092500Z
 SUMMARY:Uem. (L)
 LOCATION:09/ 54A
-DESCRIPTION:Urządzenia elektryczne i osprzęt elektroniczny maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Urządzenia elektryczne i osprzęt elektroniczny maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T075000Z
@@ -778,7 +792,7 @@ DTSTART:20250602T094000Z
 DTEND:20250602T111500Z
 SUMMARY:Pkm 
 LOCATION:120/ 54; 108/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 4/20\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 5/20\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T094000Z
@@ -925,7 +939,7 @@ DTSTART:20250623T113000Z
 DTEND:20250623T130500Z
 SUMMARY:Pkm 
 LOCATION:120/ 54; 108/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 5/20\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 6/20\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T113000Z
@@ -1233,7 +1247,7 @@ DTSTART:20250318T104000Z
 DTEND:20250318T121500Z
 SUMMARY:Pkm 
 LOCATION:120/ 54; 108/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 6/20\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 7/20\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T104000Z
@@ -1247,7 +1261,7 @@ DTSTART:20250401T094000Z
 DTEND:20250401T111500Z
 SUMMARY:Pkm 
 LOCATION:120/ 54; 108/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 7/20\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 8/20\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T094000Z
@@ -1261,14 +1275,14 @@ DTSTART:20250415T094000Z
 DTEND:20250415T111500Z
 SUMMARY:Pkm 
 LOCATION:120/ 54; 108/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 8/20\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 9/20\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T094000Z
 DTEND:20250429T111500Z
 SUMMARY:Uem. (L)
 LOCATION:42/ 54A
-DESCRIPTION:Urządzenia elektryczne i osprzęt elektroniczny maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Urządzenia elektryczne i osprzęt elektroniczny maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T094000Z
@@ -1296,7 +1310,7 @@ DTSTART:20250527T094000Z
 DTEND:20250527T111500Z
 SUMMARY:Pkm 
 LOCATION:120/ 54; 108/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 9/20\nProwadzący: ppłk dr inż. Ślęzak Tomasz
+DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 10/20\nProwadzący: ppłk dr inż. Ślęzak Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T094000Z
@@ -1338,7 +1352,7 @@ DTSTART:20250318T123000Z
 DTEND:20250318T140500Z
 SUMMARY:Uem. (L)
 LOCATION:09/ 54A
-DESCRIPTION:Urządzenia elektryczne i osprzęt elektroniczny maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
+DESCRIPTION:Urządzenia elektryczne i osprzęt elektroniczny maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T123000Z
@@ -1418,13 +1432,6 @@ LOCATION:5/ 20
 DESCRIPTION:XPodstawy eksploatacji\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250513T140000Z
-DTEND:20250513T153500Z
-SUMMARY:Pkm 
-LOCATION:3/ 54
-DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 10/20\nProwadzący: por. mgr inż. Szpaczyńska Daniela
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250408T155000Z
 DTEND:20250408T172500Z
 SUMMARY:XPe (ć)
@@ -1493,13 +1500,6 @@ DTEND:20250507T073500Z
 SUMMARY:Pkm 
 LOCATION:3/ 54
 DESCRIPTION:Pkm\nRodzaj zajęć: -\nNumer zajęć: 17/20\nProwadzący: por. mgr inż. Szpaczyńska Daniela
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250514T060000Z
-DTEND:20250514T073500Z
-SUMMARY:Uem. (L)
-LOCATION:09/ 54A
-DESCRIPTION:Urządzenia elektryczne i osprzęt elektroniczny maszyn inżynieryjnych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T060000Z

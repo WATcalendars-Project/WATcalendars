@@ -1222,6 +1222,13 @@ LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260617T113000Z
+DTEND:20260617T130500Z
+SUMMARY:Skol (L)
+LOCATION:130 36
+DESCRIPTION:* Skolmowski Albert\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Kaniewski Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260318T150000Z
 DTEND:20260318T163500Z
 SUMMARY:Wbsp (w)
@@ -1285,18 +1292,18 @@ LOCATION:130 36
 DESCRIPTION:* Skolmowski Albert\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr hab. inż. Kaniewski Piotr
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260603T140000Z
-DTEND:20260603T153500Z
-SUMMARY:Skol (L)
-LOCATION:130 36
-DESCRIPTION:* Skolmowski Albert\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr hab. inż. Kaniewski Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260610T140000Z
 DTEND:20260610T153500Z
 SUMMARY:Pyzo (L)
 LOCATION:004 36
 DESCRIPTION:Pyzo\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: kpt. mgr inż Kuligowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T140000Z
+DTEND:20260617T153500Z
+SUMMARY:Skol (L)
+LOCATION:130 36
+DESCRIPTION:* Skolmowski Albert\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr hab. inż. Kaniewski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T165000Z
@@ -1343,13 +1350,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T155000Z
 DTEND:20260527T172500Z
-SUMMARY:Skol (L)
-LOCATION:130 36
-DESCRIPTION:* Skolmowski Albert\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: dr hab. inż. Kaniewski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260603T155000Z
-DTEND:20260603T172500Z
 SUMMARY:Skol (L)
 LOCATION:130 36
 DESCRIPTION:* Skolmowski Albert\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: dr hab. inż. Kaniewski Piotr
