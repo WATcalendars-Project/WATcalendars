@@ -1166,6 +1166,13 @@ LOCATION:55/ 62
 DESCRIPTION:Wprowadzenie do systemów transportowych\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250617T094000Z
+DTEND:20250617T111500Z
+SUMMARY:WdST (S)
+LOCATION:8/ 62
+DESCRIPTION:Wprowadzenie do systemów transportowych\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250624T094000Z
 DTEND:20250624T111500Z
 SUMMARY:Mat3 (E)
@@ -1243,11 +1250,11 @@ LOCATION:
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr Ploch Jerzy
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250603T113000Z
-DTEND:20250603T130500Z
-SUMMARY:WdST (S)
-LOCATION:9/ 62
-DESCRIPTION:Wprowadzenie do systemów transportowych\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4
+DTSTART:20250610T113000Z
+DTEND:20250610T130500Z
+SUMMARY:PTS* (L)
+LOCATION:22/ 21
+DESCRIPTION:Podstawy techniki samochodowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T113000Z
@@ -1275,14 +1282,14 @@ DTSTART:20250408T140000Z
 DTEND:20250408T153500Z
 SUMMARY:PTS* (L)
 LOCATION:22/ 21
-DESCRIPTION:Podstawy techniki samochodowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4
+DESCRIPTION:Podstawy techniki samochodowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T140000Z
 DTEND:20250415T153500Z
 SUMMARY:PTS* (L)
 LOCATION:22/ 21
-DESCRIPTION:Podstawy techniki samochodowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4
+DESCRIPTION:Podstawy techniki samochodowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T140000Z
@@ -1290,13 +1297,6 @@ DTEND:20250506T153500Z
 SUMMARY:HP (ć)
 LOCATION:55/ 62
 DESCRIPTION:Historia Polski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Fudalej Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250603T140000Z
-DTEND:20250603T153500Z
-SUMMARY:PTS* (L)
-LOCATION:22/ 21
-DESCRIPTION:Podstawy techniki samochodowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T140000Z
