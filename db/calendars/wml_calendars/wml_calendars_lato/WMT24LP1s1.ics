@@ -1453,13 +1453,6 @@ LOCATION:128 36
 DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: mgr inż. Kochan Jakub
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260515T113000Z
-DTEND:20260515T130500Z
-SUMMARY:Ter (L)
-LOCATION:8 72
-DESCRIPTION:Termodynamika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: mgr inż. Zarubajko Aleksandra
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260522T113000Z
 DTEND:20260522T130500Z
 SUMMARY:Mp (ć)
@@ -1486,6 +1479,13 @@ DTEND:20260515T153500Z
 SUMMARY:Skol (L)
 LOCATION:003 36
 DESCRIPTION:* Skolmowski Albert\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż. Kochan Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T140000Z
+DTEND:20260522T153500Z
+SUMMARY:Ter (L)
+LOCATION:8 72
+DESCRIPTION:Termodynamika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż. Zarubajko Aleksandra
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T140000Z

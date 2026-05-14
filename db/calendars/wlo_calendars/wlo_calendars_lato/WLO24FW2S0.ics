@@ -1551,13 +1551,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 26/30
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260514T060000Z
-DTEND:20260514T073500Z
-SUMMARY:Płe (S)
-LOCATION:255 S
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260528T060000Z
 DTEND:20260528T073500Z
 SUMMARY:Płe (w)
@@ -1682,6 +1675,13 @@ DTEND:20260528T111500Z
 SUMMARY:Wm (ć)
 LOCATION:0.19/135
 DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T094000Z
+DTEND:20260618T111500Z
+SUMMARY:Płe (S)
+LOCATION:0.28/135
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T123000Z
