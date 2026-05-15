@@ -167,16 +167,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T075000Z
 DTEND:20260601T092500Z
-SUMMARY:Pwkl (ć)
+SUMMARY:Lzn (w)
 LOCATION:S1 72
-DESCRIPTION:Projektowanie i wytwarzanie konstrukcji lotniczych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzejszczak Pączek Olga
+DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr hab. inż Chachurski Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T075000Z
 DTEND:20260608T092500Z
-SUMMARY:Lzn (w)
+SUMMARY:Pwkl (ć)
 LOCATION:S1 72
-DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr hab. inż Chachurski Ryszard
+DESCRIPTION:Projektowanie i wytwarzanie konstrukcji lotniczych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzejszczak Pączek Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T075000Z
@@ -744,13 +744,6 @@ DTEND:20260505T130500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 7-8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260512T113000Z
-DTEND:20260512T130500Z
-SUMMARY:Mnmp (ć)
-LOCATION:18 67
-DESCRIPTION:Metody numeryczne w mechanice płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż. Misiak Zawadzka Aneta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T150000Z
@@ -1796,18 +1789,18 @@ LOCATION:M H7
 DESCRIPTION:Projektowanie i wytwarzanie konstrukcji lotniczych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż. Sokół Bartłomiej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260521T140000Z
-DTEND:20260521T153500Z
-SUMMARY:Mnmp (ć)
-LOCATION:18 67
-DESCRIPTION:Metody numeryczne w mechanice płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż. Misiak Zawadzka Aneta
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260611T140000Z
 DTEND:20260611T153500Z
 SUMMARY:Pwkl (w)
 LOCATION:S1 72
 DESCRIPTION:Projektowanie i wytwarzanie konstrukcji lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr inż. Grzejszczak Pączek Olga
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T140000Z
+DTEND:20260618T153500Z
+SUMMARY:Mnmp (ć)
+LOCATION:43 67
+DESCRIPTION:Metody numeryczne w mechanice płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż. Misiak Zawadzka Aneta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T070000Z
@@ -2025,6 +2018,13 @@ DTEND:20260529T130500Z
 SUMMARY:Zlsp (L)
 LOCATION:4 H7
 DESCRIPTION:Zintegrowane laboratorium statków powietrznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: ppłk dr inż. Leszczyński Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T140000Z
+DTEND:20260515T153500Z
+SUMMARY:Mnmp (ć)
+LOCATION:43 67
+DESCRIPTION:Metody numeryczne w mechanice płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr inż. Misiak Zawadzka Aneta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260307T070000Z

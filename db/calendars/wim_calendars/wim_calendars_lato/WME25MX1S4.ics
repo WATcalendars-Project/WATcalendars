@@ -193,13 +193,6 @@ LOCATION:7/ 23a
 DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250525T075000Z
-DTEND:20250525T092500Z
-SUMMARY:Msrm (ć)
-LOCATION:09/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250601T075000Z
 DTEND:20250601T092500Z
 SUMMARY:Pbaw (L)
@@ -1058,21 +1051,21 @@ DTSTART:20250325T085000Z
 DTEND:20250325T102500Z
 SUMMARY:Msrm (ć)
 LOCATION:09/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T075000Z
 DTEND:20250401T092500Z
 SUMMARY:Msrm (ć)
 LOCATION:42/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T075000Z
 DTEND:20250408T092500Z
 SUMMARY:Msrm (ć)
 LOCATION:09/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T075000Z
@@ -1086,7 +1079,7 @@ DTSTART:20250429T075000Z
 DTEND:20250429T092500Z
 SUMMARY:Msrm (ć)
 LOCATION:116/ 54
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T075000Z
@@ -1100,14 +1093,14 @@ DTSTART:20250520T075000Z
 DTEND:20250520T092500Z
 SUMMARY:Msrm (ć)
 LOCATION:09/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T075000Z
 DTEND:20250527T092500Z
 SUMMARY:Msrm (ć)
 LOCATION:120/ 54
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T075000Z
@@ -1121,7 +1114,7 @@ DTSTART:20250610T075000Z
 DTEND:20250610T092500Z
 SUMMARY:Msrm (ć)
 LOCATION:09/ 54A
-DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T075000Z
@@ -1325,6 +1318,13 @@ DTEND:20250513T130500Z
 SUMMARY:Abm (L)
 LOCATION:7/ 23a
 DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250520T113000Z
+DTEND:20250520T130500Z
+SUMMARY:Msrm (ć)
+LOCATION:09/ 54A
+DESCRIPTION:Modelowanie i symulacja ruchu maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T113000Z

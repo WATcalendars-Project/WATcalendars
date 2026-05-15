@@ -137,13 +137,6 @@ LOCATION:134 S
 DESCRIPTION:Fizyczne właściwości ciał stałych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Zubko Konrad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260914T075000Z
-DTEND:20260914T092500Z
-SUMMARY:Tep Zp.
-LOCATION:116 45
-DESCRIPTION:Technologia elementów półprzewodnikowych\nRodzaj zajęć: Zp.\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Kopytko Małgorzata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260413T094000Z
 DTEND:20260413T111500Z
 SUMMARY:SWM (L)
@@ -256,13 +249,6 @@ LOCATION:14/ 34
 DESCRIPTION:Współczesne materiały konstrukcyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Łukaszewicz Adrian
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260623T075000Z
-DTEND:20260623T092500Z
-SUMMARY:SWM (E)
-LOCATION:11/ 34
-DESCRIPTION:Struktura i właściwości materiałów\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260317T104000Z
 DTEND:20260317T121500Z
 SUMMARY:Fpta (w)
@@ -282,13 +268,6 @@ DTEND:20260421T111500Z
 SUMMARY:Wmko (w)
 LOCATION:12/ 34
 DESCRIPTION:Współczesne materiały konstrukcyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: ppłk dr inż. Karczewski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260922T094000Z
-DTEND:20260922T111500Z
-SUMMARY:SWM (Ep)
-LOCATION:11/ 34
-DESCRIPTION:Struktura i właściwości materiałów\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T123000Z
@@ -1110,8 +1089,8 @@ LOCATION:97 S
 DESCRIPTION:Technologia elementów półprzewodnikowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: dr inż. Boguski Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260515T060000Z
-DTEND:20260515T073500Z
+DTSTART:20260522T060000Z
+DTEND:20260522T073500Z
 SUMMARY:Tep (L)
 LOCATION:97 S
 DESCRIPTION:Technologia elementów półprzewodnikowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: dr inż. Boguski Jacek
@@ -1166,13 +1145,6 @@ LOCATION:97 S
 DESCRIPTION:Technologia elementów półprzewodnikowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: dr inż. Boguski Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260515T075000Z
-DTEND:20260515T092500Z
-SUMMARY:Tep (L)
-LOCATION:97 S
-DESCRIPTION:Technologia elementów półprzewodnikowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Boguski Jacek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260522T075000Z
 DTEND:20260522T092500Z
 SUMMARY:Fpta (w)
@@ -1185,6 +1157,13 @@ DTEND:20260529T092500Z
 SUMMARY:Wmko (S)
 LOCATION:12/ 34
 DESCRIPTION:Współczesne materiały konstrukcyjne\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/10\nProwadzący: ppłk dr inż. Karczewski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T075000Z
+DTEND:20260612T092500Z
+SUMMARY:Tep (L)
+LOCATION:97 S
+DESCRIPTION:Technologia elementów półprzewodnikowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Boguski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T104000Z

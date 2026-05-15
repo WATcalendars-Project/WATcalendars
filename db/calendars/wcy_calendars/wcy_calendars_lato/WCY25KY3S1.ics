@@ -2790,13 +2790,6 @@ LOCATION:314 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260512T094000Z
-DTEND:20260512T111500Z
-SUMMARY:F1 (w)
-LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 11/20\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260512T113000Z
 DTEND:20260512T130500Z
 SUMMARY:PEM (w)
@@ -2850,7 +2843,7 @@ DTSTART:20260514T075000Z
 DTEND:20260514T092500Z
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 12/20\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 11/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T094000Z
@@ -2948,7 +2941,7 @@ DTSTART:20260519T094000Z
 DTEND:20260519T111500Z
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 13/20\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 12/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T113000Z
@@ -3011,7 +3004,7 @@ DTSTART:20260521T075000Z
 DTEND:20260521T092500Z
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 14/20\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 13/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T094000Z
@@ -3040,6 +3033,13 @@ DTEND:20260522T111500Z
 SUMMARY:PEM (ć)
 LOCATION:119 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T060000Z
+DTEND:20260525T073500Z
+SUMMARY:F1 (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 14/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T075000Z

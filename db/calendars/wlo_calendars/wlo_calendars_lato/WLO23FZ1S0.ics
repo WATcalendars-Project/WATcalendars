@@ -1138,13 +1138,6 @@ LOCATION:3.16/135
 DESCRIPTION:Zasady organizacji żywienia w czasie wojny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260603T140000Z
-DTEND:20260603T153500Z
-SUMMARY:PTiRW (ć)
-LOCATION:1.15/16
-DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: mgr inż. Szymański Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260610T140000Z
 DTEND:20260610T153500Z
 SUMMARY:PTiRW (S)
@@ -1171,13 +1164,6 @@ DTEND:20260422T172500Z
 SUMMARY:Psł. 
 LOCATION:
 DESCRIPTION:Psł.\nRodzaj zajęć: -\nNumer zajęć: 5/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260603T155000Z
-DTEND:20260603T172500Z
-SUMMARY:PTiRW (w)
-LOCATION:aula/135
-DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T174000Z
@@ -1240,7 +1226,7 @@ DTSTART:20260521T060000Z
 DTEND:20260521T073500Z
 SUMMARY:PTiRW (ć)
 LOCATION:4.17a/135
-DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr inż. Szymański Krzysztof
+DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T060000Z
@@ -1436,7 +1422,7 @@ DTSTART:20260409T113000Z
 DTEND:20260409T130500Z
 SUMMARY:PTiRW (w)
 LOCATION:aula/135
-DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: mgr inż. Szymański Krzysztof
+DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T113000Z
@@ -1481,18 +1467,25 @@ LOCATION:1.15/16
 DESCRIPTION:Standaryzacja i interoperacyjność logistyczna w NATO\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr n.społ. inż. Rogowski Bogusław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260618T113000Z
+DTEND:20260618T130500Z
+SUMMARY:PTiRW (ć)
+LOCATION:aula/135
+DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr inż. Szymański Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260326T150000Z
 DTEND:20260326T163500Z
 SUMMARY:PTiRW (w)
 LOCATION:aula/135
-DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: mgr inż. Szymański Krzysztof
+DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T140000Z
 DTEND:20260409T153500Z
 SUMMARY:PTiRW (w)
 LOCATION:aula/135
-DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: mgr inż. Szymański Krzysztof
+DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T140000Z
@@ -1562,7 +1555,7 @@ DTSTART:20260326T165000Z
 DTEND:20260326T182500Z
 SUMMARY:PTiRW (w)
 LOCATION:aula/135
-DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: mgr inż. Szymański Krzysztof
+DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 8/10\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T155000Z
@@ -1840,6 +1833,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T113000Z
 DTEND:20260619T130500Z
+SUMMARY:PTiRW (w)
+LOCATION:aula/135
+DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: mgr inż. Szymański Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T140000Z
+DTEND:20260619T153500Z
 SUMMARY:PTiRW (w)
 LOCATION:aula/135
 DESCRIPTION:Podsystem transportu i ruchu wojsk\nRodzaj zajęć: Wykład\nNumer zajęć: 10/10\nProwadzący: mgr inż. Szymański Krzysztof

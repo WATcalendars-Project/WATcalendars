@@ -2720,13 +2720,6 @@ LOCATION:205 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260512T094000Z
-DTEND:20260512T111500Z
-SUMMARY:F1 (w)
-LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 11/20\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260512T113000Z
 DTEND:20260512T130500Z
 SUMMARY:Tpi (ć)
@@ -2745,7 +2738,7 @@ DTSTART:20260514T075000Z
 DTEND:20260514T092500Z
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 12/20\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 11/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T094000Z
@@ -2808,7 +2801,7 @@ DTSTART:20260519T094000Z
 DTEND:20260519T111500Z
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 13/20\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 12/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T060000Z
@@ -2857,7 +2850,7 @@ DTSTART:20260521T075000Z
 DTEND:20260521T092500Z
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 14/20\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 13/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T094000Z
@@ -2893,6 +2886,13 @@ DTEND:20260522T111500Z
 SUMMARY:HP (ć)
 LOCATION:308 S
 DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T060000Z
+DTEND:20260525T073500Z
+SUMMARY:F1 (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 14/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T075000Z

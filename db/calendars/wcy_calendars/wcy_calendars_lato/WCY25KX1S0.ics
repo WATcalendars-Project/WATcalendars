@@ -43,7 +43,7 @@ DTSTART:20251002T113000Z
 DTEND:20251002T130500Z
 SUMMARY:SzS (w)
 LOCATION:103 K
-DESCRIPTION:Szkolenie strzeleckie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T140000Z
@@ -3945,13 +3945,6 @@ LOCATION:103 K
 DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260521T075000Z
-DTEND:20260521T092500Z
-SUMMARY:SzS (w)
-LOCATION:AW 1
-DESCRIPTION:Szkolenie strzeleckie - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260521T094000Z
 DTEND:20260521T111500Z
 SUMMARY:WF (ć)
@@ -4078,13 +4071,6 @@ LOCATION:103 K
 DESCRIPTION:Ochrona informacji niejawnych - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260528T060000Z
-DTEND:20260528T073500Z
-SUMMARY:PD (Inne)
-LOCATION:AW 7
-DESCRIPTION:Podstawy dowodzenia - (repetytorium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260528T075000Z
 DTEND:20260528T092500Z
 SUMMARY:RiAIP (ć)
@@ -4139,6 +4125,13 @@ DTEND:20260529T172500Z
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 55/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T060000Z
+DTEND:20260601T073500Z
+SUMMARY:PD (Inne)
+LOCATION:AW 3/043
+DESCRIPTION:Podstawy dowodzenia - (repetytorium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T075000Z
