@@ -431,6 +431,13 @@ LOCATION:103 63A;10
 DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: por.mgr inż. Dyjak Jakub
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260525T140000Z
+DTEND:20260525T153500Z
+SUMMARY:Mat3 (ć)
+LOCATION:46 63
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr Rzeszut Maciej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260601T140000Z
 DTEND:20260601T153500Z
 SUMMARY:Gin (ć)
@@ -968,13 +975,6 @@ DTEND:20260520T073500Z
 SUMMARY:ZŻWAT 
 LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260527T060000Z
-DTEND:20260527T073500Z
-SUMMARY:SzS (w)
-LOCATION:AW 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż Majkowycz Kinga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T060000Z
@@ -2228,13 +2228,6 @@ DTEND:20260508T130500Z
 SUMMARY:F1 (ć)
 LOCATION:19 63
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż. Walczakowski Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260515T113000Z
-DTEND:20260515T130500Z
-SUMMARY:Mat3 (ć)
-LOCATION:15 63
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr Rzeszut Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T113000Z

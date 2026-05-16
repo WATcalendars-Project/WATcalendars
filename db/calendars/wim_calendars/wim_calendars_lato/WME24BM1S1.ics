@@ -81,18 +81,18 @@ LOCATION:8/ 62
 DESCRIPTION:Propedeutyka medycyny\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr Lewandowski Rafał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250601T060000Z
-DTEND:20250601T073500Z
-SUMMARY:WdPB (w)
-LOCATION:8/ 62
-DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Sybilski Kamil
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250608T060000Z
 DTEND:20250608T073500Z
 SUMMARY:Sz.P (L)
 LOCATION:9/ 54; 18/ 54
 DESCRIPTION:Szybkie prototypowanie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250615T060000Z
+DTEND:20250615T073500Z
+SUMMARY:WdPB (L)
+LOCATION:53/ 62
+DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250622T060000Z
@@ -120,7 +120,7 @@ DTSTART:20250309T085000Z
 DTEND:20250309T102500Z
 SUMMARY:WdPB (w)
 LOCATION:9/ 62
-DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Sybilski Kamil
+DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250323T085000Z
@@ -148,21 +148,21 @@ DTSTART:20250413T075000Z
 DTEND:20250413T092500Z
 SUMMARY:WdPB (L)
 LOCATION:53/ 62
-DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Sybilski Kamil
+DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250420T075000Z
 DTEND:20250420T092500Z
 SUMMARY:WdPB (L)
 LOCATION:53/ 62
-DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Sybilski Kamil
+DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250427T075000Z
 DTEND:20250427T092500Z
 SUMMARY:WdPB (L)
 LOCATION:53/ 62
-DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Sybilski Kamil
+DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250504T075000Z
@@ -184,20 +184,6 @@ DTEND:20250518T092500Z
 SUMMARY:Pr.M (w)
 LOCATION:54/ 62
 DESCRIPTION:Propedeutyka medycyny\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr Lewandowski Rafał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250525T075000Z
-DTEND:20250525T092500Z
-SUMMARY:WdPB (L)
-LOCATION:53/ 62
-DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Sybilski Kamil
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250601T075000Z
-DTEND:20250601T092500Z
-SUMMARY:WdPB (L)
-LOCATION:53/ 62
-DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250608T075000Z
@@ -296,20 +282,6 @@ DTEND:20250518T111500Z
 SUMMARY:Wm (w)
 LOCATION:51/ 62
 DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab. inż.(prof. ucz.) Miedzińska Danuta
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250525T094000Z
-DTEND:20250525T111500Z
-SUMMARY:WdPB (L)
-LOCATION:53/ 62
-DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Sybilski Kamil
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250601T094000Z
-DTEND:20250601T111500Z
-SUMMARY:WdPB (L)
-LOCATION:53/ 62
-DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250608T094000Z
@@ -464,6 +436,13 @@ DTEND:20250504T153500Z
 SUMMARY:Pps (L)
 LOCATION:
 DESCRIPTION:Podstawy przetwarzania sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr inż. Telega Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250518T140000Z
+DTEND:20250518T153500Z
+SUMMARY:WdPB (L)
+LOCATION:53/ 62
+DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250302T165000Z
@@ -625,6 +604,13 @@ DTEND:20250519T073500Z
 SUMMARY:Sz.P (L)
 LOCATION:29/ 54; 30/ 54
 DESCRIPTION:Szybkie prototypowanie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250602T060000Z
+DTEND:20250602T073500Z
+SUMMARY:WdPB (L)
+LOCATION:53/ 62
+DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T060000Z
@@ -925,7 +911,7 @@ DTSTART:20250421T113000Z
 DTEND:20250421T130500Z
 SUMMARY:WdPB (w)
 LOCATION:55/ 62
-DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Sybilski Kamil
+DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T113000Z
@@ -1016,7 +1002,7 @@ DTSTART:20250421T140000Z
 DTEND:20250421T153500Z
 SUMMARY:WdPB (w)
 LOCATION:9/ 62
-DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Sybilski Kamil
+DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T140000Z
@@ -1040,6 +1026,13 @@ LOCATION:
 DESCRIPTION:Podstawy przetwarzania sygnałów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/4\nProwadzący: dr inż. Telega Sławomir
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250616T140000Z
+DTEND:20250616T153500Z
+SUMMARY:WdPB (w)
+LOCATION:8/ 62
+DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Sybilski Kamil
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250331T155000Z
 DTEND:20250331T172500Z
 SUMMARY:Gśr.PSP (ć)
@@ -1052,6 +1045,13 @@ DTEND:20250407T172500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 13/68
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T155000Z
+DTEND:20250616T172500Z
+SUMMARY:WdPB (L)
+LOCATION:53/ 62
+DESCRIPTION:Wstęp do projektowania w biomechanice\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Sybilski Kamil
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T174000Z

@@ -200,6 +200,13 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/20\nProwadzący: mgr inż. Jankowski Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260622T075000Z
+DTEND:20260622T092500Z
+SUMMARY:F1 (E)
+LOCATION:aF S
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: mgr inż. Jankowski Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260302T104000Z
 DTEND:20260302T121500Z
 SUMMARY:MBIM (w)
@@ -303,6 +310,20 @@ DTEND:20260615T111500Z
 SUMMARY:F1 (ć)
 LOCATION:11/ 34
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/15\nProwadzący: mgr inż. Jankowski Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260629T094000Z
+DTEND:20260629T111500Z
+SUMMARY:MBIM (E)
+LOCATION:11/ 34
+DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Karczewski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260914T094000Z
+DTEND:20260914T111500Z
+SUMMARY:F1 (Ep)
+LOCATION:aF S
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: mgr inż. Jankowski Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T123000Z
@@ -851,6 +872,13 @@ LOCATION:26/ 34
 DESCRIPTION:Podstawy technologii materiałów inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12\nProwadzący: dr inż. Łyszkowski Radosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260916T075000Z
+DTEND:20260916T092500Z
+SUMMARY:MBIM (Ep)
+LOCATION:11/ 34
+DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: ppłk dr inż. Karczewski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T104000Z
 DTEND:20260304T121500Z
 SUMMARY:PTMI (w)
@@ -1306,6 +1334,13 @@ LOCATION:110/ 14
 DESCRIPTION:Chemia\nRodzaj zajęć: Wykład\nNumer zajęć: 9/10\nProwadzący: dr hab. inż. Urbańska Magdalena
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260625T075000Z
+DTEND:20260625T092500Z
+SUMMARY:Che (E)
+LOCATION:110/ 14
+DESCRIPTION:Chemia\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Urbańska Magdalena
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260312T104000Z
 DTEND:20260312T121500Z
 SUMMARY:Che (L)
@@ -1388,6 +1423,13 @@ DTEND:20260618T111500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: kpt. mgr Włoch Mariola
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260917T094000Z
+DTEND:20260917T111500Z
+SUMMARY:Che (Ep)
+LOCATION:110/ 14
+DESCRIPTION:Chemia\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Urbańska Magdalena
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T123000Z
