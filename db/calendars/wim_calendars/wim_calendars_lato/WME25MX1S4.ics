@@ -88,8 +88,8 @@ LOCATION:7/ 23a
 DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/4\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250601T060000Z
-DTEND:20250601T073500Z
+DTSTART:20250525T060000Z
+DTEND:20250525T073500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
 DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/7
@@ -193,8 +193,8 @@ LOCATION:7/ 23a
 DESCRIPTION:Automatyka w budowie maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/4\nProwadzący: dr hab. inż.(prof. ucz.) Żardecki Dariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250601T075000Z
-DTEND:20250601T092500Z
+DTSTART:20250525T075000Z
+DTEND:20250525T092500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
 DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/7
@@ -303,6 +303,13 @@ DTEND:20250525T111500Z
 SUMMARY:Pbaw (L)
 LOCATION:7/ 23a
 DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250601T094000Z
+DTEND:20250601T111500Z
+SUMMARY:Ptts (w)
+LOCATION:54/ 62
+DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250914T094000Z
@@ -575,7 +582,7 @@ DTSTART:20250505T075000Z
 DTEND:20250505T092500Z
 SUMMARY:Ptts (w)
 LOCATION:51/ 62
-DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/10\nProwadzący: dr inż. Wieczorek Marcin
+DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T075000Z
@@ -583,13 +590,6 @@ DTEND:20250512T092500Z
 SUMMARY:Ptw. (ć)
 LOCATION:6/ 23a
 DESCRIPTION:Podstawy techniki wojskowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: dr hab. inż.(prof. ucz.) Rybak Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250526T075000Z
-DTEND:20250526T092500Z
-SUMMARY:Ptts (w)
-LOCATION:51/ 62
-DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T075000Z

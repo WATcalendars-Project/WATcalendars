@@ -851,6 +851,13 @@ LOCATION:6/ 62
 DESCRIPTION:Kszm\nRodzaj zajęć: -\nNumer zajęć: 34/42\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250603T094000Z
+DTEND:20250603T111500Z
+SUMMARY:Mno (L)
+LOCATION:53/ 62
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250610T094000Z
 DTEND:20250610T111500Z
 SUMMARY:Kszm 
@@ -912,6 +919,13 @@ DTEND:20250520T130500Z
 SUMMARY:Pwm (L)
 LOCATION:53/ 62
 DESCRIPTION:Podstawy walidacji modeli numerycznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250603T113000Z
+DTEND:20250603T130500Z
+SUMMARY:Mno (L)
+LOCATION:53/ 62
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T113000Z
@@ -1222,13 +1236,6 @@ LOCATION:53/ 62
 DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/20
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250521T113000Z
-DTEND:20250521T130500Z
-SUMMARY:Mno (L)
-LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250528T113000Z
 DTEND:20250528T130500Z
 SUMMARY:C-AE (L)
@@ -1247,7 +1254,7 @@ DTSTART:20250611T113000Z
 DTEND:20250611T130500Z
 SUMMARY:Mno (L)
 LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250702T113000Z
@@ -1282,7 +1289,7 @@ DTSTART:20250507T140000Z
 DTEND:20250507T153500Z
 SUMMARY:Mno (L)
 LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10
+DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T140000Z
@@ -1290,13 +1297,6 @@ DTEND:20250514T153500Z
 SUMMARY:C-AE (L)
 LOCATION:53/ 62
 DESCRIPTION:Computer-Aided Engineering\nRodzaj zajęć: Laboratorium\nNumer zajęć: 20/20
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250521T140000Z
-DTEND:20250521T153500Z
-SUMMARY:Mno (L)
-LOCATION:53/ 62
-DESCRIPTION:Metody numeryczne w obliczeniach inżynierskich\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T140000Z

@@ -193,6 +193,13 @@ LOCATION:108 24
 DESCRIPTION:Prognozowanie skutków wybuchu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/5\nProwadzący: dr inż. Paszula Józef
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260601T075000Z
+DTEND:20260601T092500Z
+SUMMARY:Tch (ć)
+LOCATION:108 24
+DESCRIPTION:Technologia chemiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: mgr inż. Kapusta Adam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260608T075000Z
 DTEND:20260608T092500Z
 SUMMARY:Psw (S)
@@ -463,7 +470,7 @@ DTSTART:20260427T140000Z
 DTEND:20260427T153500Z
 SUMMARY:Tch (ć)
 LOCATION:108 24
-DESCRIPTION:Technologia chemiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/15\nProwadzący: mgr inż. Kapusta Adam
+DESCRIPTION:Technologia chemiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: mgr inż. Kapusta Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T140000Z
@@ -526,7 +533,7 @@ DTSTART:20260427T155000Z
 DTEND:20260427T172500Z
 SUMMARY:Tch (ć)
 LOCATION:108 24
-DESCRIPTION:Technologia chemiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/15\nProwadzący: mgr inż. Kapusta Adam
+DESCRIPTION:Technologia chemiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: mgr inż. Kapusta Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260907T155000Z
@@ -561,7 +568,7 @@ DTSTART:20260331T060000Z
 DTEND:20260331T073500Z
 SUMMARY:Tch (ć)
 LOCATION:108 24
-DESCRIPTION:Technologia chemiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15\nProwadzący: mgr inż. Kapusta Adam
+DESCRIPTION:Technologia chemiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: mgr inż. Kapusta Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T060000Z
@@ -652,7 +659,7 @@ DTSTART:20260331T075000Z
 DTEND:20260331T092500Z
 SUMMARY:Tch (ć)
 LOCATION:108 24
-DESCRIPTION:Technologia chemiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/15\nProwadzący: mgr inż. Kapusta Adam
+DESCRIPTION:Technologia chemiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: mgr inż. Kapusta Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T075000Z
@@ -666,7 +673,7 @@ DTSTART:20260421T075000Z
 DTEND:20260421T092500Z
 SUMMARY:Tch (ć)
 LOCATION:108 24
-DESCRIPTION:Technologia chemiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15\nProwadzący: mgr inż. Kapusta Adam
+DESCRIPTION:Technologia chemiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: mgr inż. Kapusta Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T075000Z
@@ -771,7 +778,7 @@ DTSTART:20260421T094000Z
 DTEND:20260421T111500Z
 SUMMARY:Tch (ć)
 LOCATION:108 24
-DESCRIPTION:Technologia chemiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/15\nProwadzący: mgr inż. Kapusta Adam
+DESCRIPTION:Technologia chemiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: mgr inż. Kapusta Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T094000Z
@@ -960,7 +967,7 @@ DTSTART:20260414T140000Z
 DTEND:20260414T153500Z
 SUMMARY:Tch (ć)
 LOCATION:108 24
-DESCRIPTION:Technologia chemiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/15\nProwadzący: mgr inż. Kapusta Adam
+DESCRIPTION:Technologia chemiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: mgr inż. Kapusta Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T140000Z
@@ -986,9 +993,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T140000Z
 DTEND:20260519T153500Z
-SUMMARY:Tch (ć)
-LOCATION:108 24
-DESCRIPTION:Technologia chemiczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/15\nProwadzący: mgr inż. Kapusta Adam
+SUMMARY:Cśt (ć)
+LOCATION:2 55A
+DESCRIPTION:Chemia środków trujących i procesów odkażania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Popiel Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T140000Z
@@ -2102,13 +2109,6 @@ DTEND:20260514T111500Z
 SUMMARY:Cśt (L)
 LOCATION:7 55A
 DESCRIPTION:Chemia środków trujących i procesów odkażania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 30/32\nProwadzący: mgr inż. Boczkowski Maciej; dr inż. Dziedzic Daniel
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260521T094000Z
-DTEND:20260521T111500Z
-SUMMARY:Cśt (ć)
-LOCATION:2 55A
-DESCRIPTION:Chemia środków trujących i procesów odkażania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. Popiel Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T094000Z

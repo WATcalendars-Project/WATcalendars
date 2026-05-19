@@ -6171,13 +6171,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 81/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260519T094000Z
-DTEND:20260519T111500Z
-SUMMARY:DWiPD (ć)
-LOCATION:204 65
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260519T113000Z
 DTEND:20260519T130500Z
 SUMMARY:Hsw (ć)
@@ -6232,6 +6225,13 @@ DTEND:20260521T111500Z
 SUMMARY:Etl (ć)
 LOCATION:307 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T113000Z
+DTEND:20260521T130500Z
+SUMMARY:DWiPD (ć)
+LOCATION:2 45
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T174000Z
@@ -6402,20 +6402,6 @@ LOCATION:AW 3/043
 DESCRIPTION:TAKTYKA - (repetytorium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260603T140000Z
-DTEND:20260603T153500Z
-SUMMARY:Po (L)
-LOCATION:224 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/16\nProwadzący: mgr inż. Tomasz Derski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260603T155000Z
-DTEND:20260603T172500Z
-SUMMARY:Po (L)
-LOCATION:224 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/16\nProwadzący: mgr inż. Tomasz Derski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260606T060000Z
 DTEND:20260606T073500Z
 SUMMARY:XWF (ć)
@@ -6456,6 +6442,20 @@ DTEND:20260609T092500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 86/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T140000Z
+DTEND:20260609T153500Z
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/16\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T155000Z
+DTEND:20260609T172500Z
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/16\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T094000Z

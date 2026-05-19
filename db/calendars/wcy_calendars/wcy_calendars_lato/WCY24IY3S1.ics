@@ -4904,13 +4904,6 @@ LOCATION:317 S
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNumer zajęć: 14/14\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260519T094000Z
-DTEND:20260519T111500Z
-SUMMARY:PO (ć)
-LOCATION:308 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Piotr Górny
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260519T113000Z
 DTEND:20260519T130500Z
 SUMMARY:Ja (ć)
@@ -4988,18 +4981,18 @@ LOCATION:236 S
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260521T140000Z
+DTEND:20260521T153500Z
+SUMMARY:PO (ć)
+LOCATION:252 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260521T155000Z
 DTEND:20260521T172500Z
 SUMMARY:WdA (L)
 LOCATION:120 65
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260525T075000Z
-DTEND:20260525T092500Z
-SUMMARY:PO (ć)
-LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T094000Z
@@ -5084,6 +5077,13 @@ DTEND:20260529T111500Z
 SUMMARY:SI (w)
 LOCATION:313 S
 DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T113000Z
+DTEND:20260529T130500Z
+SUMMARY:PO (ć)
+LOCATION:313 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T140000Z

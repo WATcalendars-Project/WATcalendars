@@ -1117,18 +1117,18 @@ LOCATION:
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250520T060000Z
-DTEND:20250520T073500Z
-SUMMARY:Wdmu (L)
-LOCATION:53/ 62
-DESCRIPTION:Wstęp do modelowania układów biomechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250527T060000Z
 DTEND:20250527T073500Z
 SUMMARY:Wzr. (L)
 LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/13\nProwadzący: mgr Kłak-Dziemian Aleksandra
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T060000Z
+DTEND:20250610T073500Z
+SUMMARY:Wdmu (L)
+LOCATION:53/ 62
+DESCRIPTION:Wstęp do modelowania układów biomechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T085000Z
@@ -1201,18 +1201,18 @@ LOCATION:
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250520T075000Z
-DTEND:20250520T092500Z
-SUMMARY:Wdmu (L)
-LOCATION:53/ 62
-DESCRIPTION:Wstęp do modelowania układów biomechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250527T075000Z
 DTEND:20250527T092500Z
 SUMMARY:Wzr. (L)
 LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/13\nProwadzący: mgr Kłak-Dziemian Aleksandra
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T075000Z
+DTEND:20250610T092500Z
+SUMMARY:Wdmu (L)
+LOCATION:53/ 62
+DESCRIPTION:Wstęp do modelowania układów biomechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T075000Z
@@ -1313,13 +1313,6 @@ LOCATION:
 DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Grad Leszek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250520T094000Z
-DTEND:20250520T111500Z
-SUMMARY:Wdmu (L)
-LOCATION:53/ 62
-DESCRIPTION:Wstęp do modelowania układów biomechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250527T094000Z
 DTEND:20250527T111500Z
 SUMMARY:Rou (L)
@@ -1332,6 +1325,13 @@ DTEND:20250603T111500Z
 SUMMARY:Pr.M (S)
 LOCATION:
 DESCRIPTION:Propedeutyka medycyny\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/8\nProwadzący: dr Lewandowski Rafał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T094000Z
+DTEND:20250610T111500Z
+SUMMARY:Wdmu (L)
+LOCATION:53/ 62
+DESCRIPTION:Wstęp do modelowania układów biomechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T094000Z

@@ -5044,13 +5044,6 @@ LOCATION:120 65
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260515T155000Z
-DTEND:20260515T172500Z
-SUMMARY:Tik (L)
-LOCATION:125 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr Jerzy Dorobisz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260518T094000Z
 DTEND:20260518T111500Z
 SUMMARY:SI (L)
@@ -5112,6 +5105,13 @@ DTEND:20260520T130500Z
 SUMMARY:MM (ć)
 LOCATION:308 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T155000Z
+DTEND:20260520T172500Z
+SUMMARY:Tik (L)
+LOCATION:011 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T140000Z

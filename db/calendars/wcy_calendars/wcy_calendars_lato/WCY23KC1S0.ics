@@ -1712,6 +1712,20 @@ LOCATION:20 69
 DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260521T140000Z
+DTEND:20260521T153500Z
+SUMMARY:Asie (L)
+LOCATION:239 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/14\nProwadzący: Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T155000Z
+DTEND:20260521T172500Z
+SUMMARY:Asie (L)
+LOCATION:239 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260522T060000Z
 DTEND:20260522T073500Z
 SUMMARY:SzS (ć)
@@ -1835,14 +1849,14 @@ DTSTART:20260528T140000Z
 DTEND:20260528T153500Z
 SUMMARY:Asie (L)
 LOCATION:09 65
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/14\nProwadzący: Marcin Pachnik
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T155000Z
 DTEND:20260528T172500Z
 SUMMARY:Asie (L)
 LOCATION:09 65
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: Marcin Pachnik
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T060000Z
@@ -1941,20 +1955,6 @@ DTEND:20260602T172500Z
 SUMMARY:JEt (L)
 LOCATION:120 65
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260603T140000Z
-DTEND:20260603T153500Z
-SUMMARY:Asie (L)
-LOCATION:09 65
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260603T155000Z
-DTEND:20260603T172500Z
-SUMMARY:Asie (L)
-LOCATION:09 65
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260606T075000Z

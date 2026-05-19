@@ -587,9 +587,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T113000Z
 DTEND:20250530T130500Z
-SUMMARY:PbTSL (w)
-LOCATION:2/ 68
-DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Chojnowski Janusz
+SUMMARY:T* (w)
+LOCATION:1/ 21
+DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T113000Z
@@ -725,13 +725,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 24/70
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250530T140000Z
-DTEND:20250530T153500Z
-SUMMARY:PbTSL (ć)
-LOCATION:2/ 68
-DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr inż. Chojnowski Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250606T140000Z
 DTEND:20250606T153500Z
 SUMMARY:I 
@@ -848,7 +841,7 @@ DTSTART:20250516T155000Z
 DTEND:20250516T172500Z
 SUMMARY:PbTSL (w)
 LOCATION:2/ 68
-DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Chojnowski Janusz
+DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Wykład\nNumer zajęć: 1/5\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T155000Z
@@ -883,7 +876,7 @@ DTSTART:20250620T155000Z
 DTEND:20250620T172500Z
 SUMMARY:T* (w)
 LOCATION:5/ 20
-DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 1/6\nProwadzący: dr inż. Woźniak Adam
+DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T155000Z
@@ -974,7 +967,7 @@ DTSTART:20250516T174000Z
 DTEND:20250516T191500Z
 SUMMARY:PbTSL (w)
 LOCATION:2/ 68
-DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Chojnowski Janusz
+DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T174000Z
@@ -1003,6 +996,13 @@ DTEND:20250613T191500Z
 SUMMARY:OgRP (ć)
 LOCATION:6/ 23a
 DESCRIPTION:Ogólne podstawy ruchu pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Ziubiński Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250620T174000Z
+DTEND:20250620T191500Z
+SUMMARY:PbTSL (S)
+LOCATION:2/ 68
+DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T174000Z
@@ -1079,7 +1079,7 @@ DTSTART:20250426T060000Z
 DTEND:20250426T073500Z
 SUMMARY:T* (w)
 LOCATION:1/ 21
-DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 2/6\nProwadzący: dr inż. Woźniak Adam
+DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250503T060000Z
@@ -1093,7 +1093,7 @@ DTSTART:20250517T060000Z
 DTEND:20250517T073500Z
 SUMMARY:PbTSL (ć)
 LOCATION:2/ 68
-DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr inż. Chojnowski Janusz
+DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T060000Z
@@ -1135,7 +1135,7 @@ DTSTART:20250628T060000Z
 DTEND:20250628T073500Z
 SUMMARY:T* (w)
 LOCATION:1/ 21
-DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 3/6\nProwadzący: dr inż. Woźniak Adam
+DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250705T060000Z
@@ -1338,7 +1338,7 @@ DTSTART:20250426T094000Z
 DTEND:20250426T111500Z
 SUMMARY:PbTSL (w)
 LOCATION:2/ 68
-DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Chojnowski Janusz
+DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Wykład\nNumer zajęć: 3/5\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250503T094000Z
@@ -1380,14 +1380,14 @@ DTSTART:20250614T094000Z
 DTEND:20250614T111500Z
 SUMMARY:T* (w)
 LOCATION:1/ 21
-DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 4/6\nProwadzący: dr inż. Woźniak Adam
+DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250621T094000Z
 DTEND:20250621T111500Z
 SUMMARY:T* (w)
 LOCATION:1/ 21
-DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 5/6\nProwadzący: dr inż. Woźniak Adam
+DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250628T094000Z
@@ -1457,7 +1457,7 @@ DTSTART:20250426T113000Z
 DTEND:20250426T130500Z
 SUMMARY:PbTSL (w)
 LOCATION:2/ 68
-DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Chojnowski Janusz
+DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Wykład\nNumer zajęć: 4/5\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250503T113000Z
@@ -1479,13 +1479,6 @@ DTEND:20250524T130500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 54/70
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250531T113000Z
-DTEND:20250531T130500Z
-SUMMARY:T* (w)
-LOCATION:1/ 21
-DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 6/6\nProwadzący: dr inż. Woźniak Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T113000Z
@@ -1558,18 +1551,18 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 59/70
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250531T140000Z
-DTEND:20250531T153500Z
-SUMMARY:PbTSL (S)
-LOCATION:2/ 68
-DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr inż. Chojnowski Janusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250607T140000Z
 DTEND:20250607T153500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 60/70
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250621T140000Z
+DTEND:20250621T153500Z
+SUMMARY:PbTSL (w)
+LOCATION:2/ 68
+DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250913T140000Z
@@ -1612,6 +1605,13 @@ DTEND:20250607T172500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 65/70
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250621T155000Z
+DTEND:20250621T172500Z
+SUMMARY:PbTSL (ć)
+LOCATION:2/ 68
+DESCRIPTION:Podstawy branży TSL\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr inż. Chojnowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250705T155000Z
