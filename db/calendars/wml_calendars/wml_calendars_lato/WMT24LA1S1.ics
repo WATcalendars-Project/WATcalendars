@@ -179,6 +179,13 @@ LOCATION:S3 72
 DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Karwowski Wojciech
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260601T094000Z
+DTEND:20260601T111500Z
+SUMMARY:Mpia (L)
+LOCATION:3 67
+DESCRIPTION:Mechanika płynów i aerodynamika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Frant Michał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260608T094000Z
 DTEND:20260608T111500Z
 SUMMARY:Biisp (w)
@@ -991,6 +998,13 @@ LOCATION:28 69
 DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: kpt.mgr inż. Goździk Dawid
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260610T075000Z
+DTEND:20260610T092500Z
+SUMMARY:Mpia (L)
+LOCATION:3 67
+DESCRIPTION:Mechanika płynów i aerodynamika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Frant Michał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260318T104000Z
 DTEND:20260318T121500Z
 SUMMARY:PA (ć)
@@ -1194,6 +1208,20 @@ LOCATION:18 63
 DESCRIPTION:Lotnicze układy pomiarowe i czujniki\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: ppłk dr inż. Wachłaczenko Michał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260603T140000Z
+DTEND:20260603T153500Z
+SUMMARY:Lupcz (L)
+LOCATION:004 36
+DESCRIPTION:Lotnicze układy pomiarowe i czujniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Grzegorczyk Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T155000Z
+DTEND:20260603T172500Z
+SUMMARY:Lupcz (L)
+LOCATION:004 36
+DESCRIPTION:Lotnicze układy pomiarowe i czujniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: dr inż. Grzegorczyk Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260610T155000Z
 DTEND:20260610T172500Z
 SUMMARY:Mpia (L)
@@ -1362,13 +1390,6 @@ LOCATION:S2 72
 DESCRIPTION:Budowa i instalacje SP\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: prof. dr hab. inż. Sibilski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260618T094000Z
-DTEND:20260618T111500Z
-SUMMARY:Lupcz (L)
-LOCATION:004 36
-DESCRIPTION:Lotnicze układy pomiarowe i czujniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Grzegorczyk Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260409T113000Z
 DTEND:20260409T130500Z
 SUMMARY:Nl (L)
@@ -1416,13 +1437,6 @@ DTEND:20260528T130500Z
 SUMMARY:Biisp (ć)
 LOCATION:33 67
 DESCRIPTION:Budowa i instalacje SP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: prof. dr hab. inż. Sibilski Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260618T113000Z
-DTEND:20260618T130500Z
-SUMMARY:Lupcz (L)
-LOCATION:004 36
-DESCRIPTION:Lotnicze układy pomiarowe i czujniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Grzegorczyk Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T140000Z
@@ -1516,13 +1530,6 @@ LOCATION:004 36
 DESCRIPTION:Lotnicze układy pomiarowe i czujniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: dr inż. Grzegorczyk Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260521T155000Z
-DTEND:20260521T172500Z
-SUMMARY:Mpia (L)
-LOCATION:3 67
-DESCRIPTION:Mechanika płynów i aerodynamika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: dr inż. Frant Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260528T155000Z
 DTEND:20260528T172500Z
 SUMMARY:Mpia (L)
@@ -1558,13 +1565,6 @@ LOCATION:41 36
 DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Djabin Jakub
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260522T075000Z
-DTEND:20260522T092500Z
-SUMMARY:Nl (ć)
-LOCATION:S1 72
-DESCRIPTION:Napędy lotnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Adamczyk Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260619T075000Z
 DTEND:20260619T092500Z
 SUMMARY:Biisp (ć)
@@ -1577,6 +1577,13 @@ DTEND:20260417T111500Z
 SUMMARY:PA (ć)
 LOCATION:3 67
 DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: płk mgr inż. Hanc Damian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T094000Z
+DTEND:20260522T111500Z
+SUMMARY:Nl (ć)
+LOCATION:S1 72
+DESCRIPTION:Napędy lotnicze\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Adamczyk Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T113000Z
@@ -1612,13 +1619,6 @@ DTEND:20260417T153500Z
 SUMMARY:Lupcz (L)
 LOCATION:004 36
 DESCRIPTION:Lotnicze układy pomiarowe i czujniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż. Pyzowski Kacper
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260522T140000Z
-DTEND:20260522T153500Z
-SUMMARY:Mpia (L)
-LOCATION:3 67
-DESCRIPTION:Mechanika płynów i aerodynamika\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Frant Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T140000Z

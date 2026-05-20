@@ -6437,8 +6437,8 @@ LOCATION:313 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260612T075000Z
-DTEND:20260612T092500Z
+DTSTART:20260612T113000Z
+DTEND:20260612T130500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 88/90\nProwadzący: -
@@ -6556,10 +6556,24 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28/28\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260622T060000Z
+DTEND:20260622T073500Z
+SUMMARY:SO (Inne)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260702T094000Z
 DTEND:20260702T111500Z
 SUMMARY:BD (E)
 LOCATION:313 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260928T060000Z
+DTEND:20260928T073500Z
+SUMMARY:SO (Inne)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 END:VCALENDAR

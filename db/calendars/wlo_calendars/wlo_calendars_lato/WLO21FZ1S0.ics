@@ -344,7 +344,7 @@ DTSTART:20260310T150000Z
 DTEND:20260310T163500Z
 SUMMARY:Pż (w)
 LOCATION:0.6/16
-DESCRIPTION:Przechowalnictwo żywności\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Przechowalnictwo żywności\nRodzaj zajęć: Wykład\nNumer zajęć: 4/10\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T140000Z
@@ -365,7 +365,7 @@ DTSTART:20260310T165000Z
 DTEND:20260310T182500Z
 SUMMARY:Pż (w)
 LOCATION:0.6/16
-DESCRIPTION:Przechowalnictwo żywności\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Przechowalnictwo żywności\nRodzaj zajęć: Wykład\nNumer zajęć: 5/10\nProwadzący: dr Spychała Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T155000Z
@@ -557,13 +557,6 @@ LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260311T150000Z
-DTEND:20260311T163500Z
-SUMMARY:Pż (w)
-LOCATION:4.17a/135
-DESCRIPTION:Przechowalnictwo żywności\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: prof. WAT Kler Paweł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260325T150000Z
 DTEND:20260325T163500Z
 SUMMARY:Egz. 
@@ -589,7 +582,7 @@ DTSTART:20260311T165000Z
 DTEND:20260311T182500Z
 SUMMARY:Pż (w)
 LOCATION:4.17a/135
-DESCRIPTION:Przechowalnictwo żywności\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: prof. WAT Kler Paweł
+DESCRIPTION:Przechowalnictwo żywności\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T165000Z
@@ -611,6 +604,13 @@ DTEND:20260513T172500Z
 SUMMARY:OP 
 LOCATION:
 DESCRIPTION:OP\nRodzaj zajęć: -\nNumer zajęć: 20/35
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T184000Z
+DTEND:20260311T201500Z
+SUMMARY:Pż (w)
+LOCATION:4.17a/135
+DESCRIPTION:Przechowalnictwo żywności\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T184000Z

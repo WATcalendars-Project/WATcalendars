@@ -312,6 +312,13 @@ LOCATION:130 36
 DESCRIPTION:* Skolmowski Albert\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr hab. inż. Kaniewski Piotr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260518T140000Z
+DTEND:20260518T153500Z
+SUMMARY:Szad (L)
+LOCATION:130 36
+DESCRIPTION:Szad\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: kpt. mgr inż Kuligowska Monika
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260525T140000Z
 DTEND:20260525T153500Z
 SUMMARY:Szad (L)
@@ -345,13 +352,6 @@ DTEND:20260511T172500Z
 SUMMARY:Skol (L)
 LOCATION:130 36
 DESCRIPTION:* Skolmowski Albert\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: dr hab. inż. Kaniewski Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260518T155000Z
-DTEND:20260518T172500Z
-SUMMARY:Szad (L)
-LOCATION:130 36
-DESCRIPTION:Szad\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: kpt. mgr inż Kuligowska Monika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T155000Z
@@ -977,6 +977,13 @@ LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260527T060000Z
+DTEND:20260527T073500Z
+SUMMARY:Skol (L)
+LOCATION:130 36
+DESCRIPTION:* Skolmowski Albert\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Kaniewski Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260603T060000Z
 DTEND:20260603T073500Z
 SUMMARY:DGB (ć)
@@ -1360,6 +1367,13 @@ DTEND:20260611T073500Z
 SUMMARY:GrzT (ć)
 LOCATION:136 36
 DESCRIPTION:GrzT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: kpt. mgr inż Kuligowska Monika
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260625T060000Z
+DTEND:20260625T073500Z
+SUMMARY:Wzopt 
+LOCATION:46 63
+DESCRIPTION:Wybrane zagadnienia optoelektroniki\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. (prof. ucz.) Wojtas Jacek; dr inż. Prokopiuk Artur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T085000Z
@@ -1920,13 +1934,6 @@ DTEND:20260619T130500Z
 SUMMARY:Wzopt (L)
 LOCATION:10 70;11 7
 DESCRIPTION:Wybrane zagadnienia optoelektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Prokopiuk Artur
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260522T140000Z
-DTEND:20260522T153500Z
-SUMMARY:Skol (L)
-LOCATION:130 36
-DESCRIPTION:* Skolmowski Albert\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr hab. inż. Kaniewski Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T140000Z

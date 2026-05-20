@@ -8516,13 +8516,6 @@ LOCATION:116 61
 DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260525T113000Z
-DTEND:20260525T130500Z
-SUMMARY:TeMi (w)
-LOCATION:27 61
-DESCRIPTION:Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260526T060000Z
 DTEND:20260526T073500Z
 SUMMARY:PRo (L)
@@ -8885,6 +8878,13 @@ DTEND:20260612T191500Z
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 577/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T060000Z
+DTEND:20260615T073500Z
+SUMMARY:TeMi (w)
+LOCATION:27 61
+DESCRIPTION:Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T075000Z

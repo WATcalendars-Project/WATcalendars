@@ -238,7 +238,7 @@ BEGIN:VEVENT
 DTSTART:20260525T094000Z
 DTEND:20260525T111500Z
 SUMMARY:Sosz (L)
-LOCATION:141 36;128
+LOCATION:141 36
 DESCRIPTION:* Soszyński P\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Stępień Sławomir
 END:VEVENT
 BEGIN:VEVENT
@@ -1143,6 +1143,13 @@ DTEND:20260520T172500Z
 SUMMARY:Skol (L)
 LOCATION:128 36
 DESCRIPTION:* Skolmowski Albert\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: dr inż. Tkaczuk Sławomir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T155000Z
+DTEND:20260527T172500Z
+SUMMARY:PA (L)
+LOCATION:128 36
+DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: mgr inż. Kochan Jakub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T060000Z

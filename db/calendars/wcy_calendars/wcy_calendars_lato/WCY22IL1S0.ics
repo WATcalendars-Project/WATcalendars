@@ -5611,13 +5611,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 84/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260526T155000Z
-DTEND:20260526T172500Z
-SUMMARY:MeSK (L)
-LOCATION:224 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: mgr inż. Stanisław Skrzypecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260527T060000Z
 DTEND:20260527T073500Z
 SUMMARY:MPH (w)
@@ -5692,7 +5685,7 @@ DTSTART:20260529T060000Z
 DTEND:20260529T073500Z
 SUMMARY:MeSK (L)
 LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: mgr inż. Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T075000Z
@@ -5817,7 +5810,14 @@ BEGIN:VEVENT
 DTSTART:20260609T140000Z
 DTEND:20260609T153500Z
 SUMMARY:MeSK (L)
-LOCATION:224 S
+LOCATION:236 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: mgr inż. Stanisław Skrzypecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T155000Z
+DTEND:20260609T172500Z
+SUMMARY:MeSK (L)
+LOCATION:236 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT

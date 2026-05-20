@@ -721,7 +721,7 @@ BEGIN:VEVENT
 DTSTART:20260520T060000Z
 DTEND:20260520T073500Z
 SUMMARY:Zry (w)
-LOCATION:3.16/135
+LOCATION:aula/135
 DESCRIPTION:Zachowanie konsumenta na rynku\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr Pawlak Katarzyna
 END:VEVENT
 BEGIN:VEVENT
@@ -800,6 +800,13 @@ DTEND:20260603T092500Z
 SUMMARY:M 
 LOCATION:3.16/135
 DESCRIPTION:M\nRodzaj zajęć: -\nNumer zajęć: 12/30\nProwadzący: mgr inż. Napiórkowski Jarosław; dr Matysiak Łukasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T075000Z
+DTEND:20260617T092500Z
+SUMMARY:Mus (ć)
+LOCATION:0.21/16
+DESCRIPTION:Marketing usług\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Pawlak Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T075000Z
@@ -995,7 +1002,7 @@ DTSTART:20260610T113000Z
 DTEND:20260610T130500Z
 SUMMARY:Mus (ć)
 LOCATION:1.15/16
-DESCRIPTION:Marketing usług\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Pawlak Katarzyna
+DESCRIPTION:Marketing usług\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Pawlak Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T113000Z
@@ -1058,7 +1065,7 @@ DTSTART:20260429T140000Z
 DTEND:20260429T153500Z
 SUMMARY:Mus (ć)
 LOCATION:0.22/16
-DESCRIPTION:Marketing usług\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Pawlak Katarzyna
+DESCRIPTION:Marketing usług\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Pawlak Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T140000Z
@@ -1073,13 +1080,6 @@ DTEND:20260513T153500Z
 SUMMARY:Zkl (ć)
 LOCATION:255 S
 DESCRIPTION:Zarządzanie kapitałem ludzkim\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr Gurmińska Katarzyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260520T140000Z
-DTEND:20260520T153500Z
-SUMMARY:Mus (ć)
-LOCATION:4.23/135
-DESCRIPTION:Marketing usług\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Pawlak Katarzyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T140000Z

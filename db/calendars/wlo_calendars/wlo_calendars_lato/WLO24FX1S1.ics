@@ -228,13 +228,6 @@ LOCATION:17b/21; 15/21; 10/21; 9/21; 1/21 WLO; 24FX; 1S
 DESCRIPTION:Systemy produkcji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/14\nProwadzący: dr inż. Chrzanowski Wojciech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260518T113000Z
-DTEND:20260518T130500Z
-SUMMARY:Ptr (L)
-LOCATION:3d/19; 4d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz; dr inż. Senyk Szymon
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260615T113000Z
 DTEND:20260615T130500Z
 SUMMARY:Ilog (ć)
@@ -275,13 +268,6 @@ DTEND:20260427T153500Z
 SUMMARY:PeUT (w)
 LOCATION:aula/135
 DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/9\nProwadzący: dr hab. inż.(prof. ucz.) Pszczółkowski Józef
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260518T140000Z
-DTEND:20260518T153500Z
-SUMMARY:Ptr (L)
-LOCATION:3d/19; 4d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz; dr inż. Senyk Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T140000Z
@@ -484,7 +470,7 @@ DTSTART:20260428T075000Z
 DTEND:20260428T092500Z
 SUMMARY:Ptr (L)
 LOCATION:4c/19; 3d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: dr inż. Kałdoński Tomasz; mgr inż. Chodkiewicz Arkadiusz
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/9\nProwadzący: dr inż. Kałdoński Tomasz; mgr inż. Chodkiewicz Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T075000Z
@@ -1044,7 +1030,7 @@ DTSTART:20260409T075000Z
 DTEND:20260409T092500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/19; 4c/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz; dr inż. Kałdoński Tomasz
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz; dr inż. Kałdoński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T075000Z
@@ -1135,7 +1121,14 @@ DTSTART:20260514T113000Z
 DTEND:20260514T130500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/19; 4d/19
-DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz; dr inż. Senyk Szymon
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz; dr inż. Senyk Szymon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T113000Z
+DTEND:20260521T130500Z
+SUMMARY:Ptr (L)
+LOCATION:3d/19; 4d/19
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz; dr inż. Senyk Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T150000Z
@@ -1154,6 +1147,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T140000Z
 DTEND:20260514T153500Z
+SUMMARY:Ptr (L)
+LOCATION:3d/19; 4d/19
+DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz; dr inż. Senyk Szymon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T140000Z
+DTEND:20260521T153500Z
 SUMMARY:Ptr (L)
 LOCATION:3d/19; 4d/19
 DESCRIPTION:Podstawy tribologii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/9\nProwadzący: mgr inż. Chodkiewicz Arkadiusz; dr inż. Senyk Szymon

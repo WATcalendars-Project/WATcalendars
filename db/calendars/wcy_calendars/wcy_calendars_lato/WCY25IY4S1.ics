@@ -2933,7 +2933,7 @@ BEGIN:VEVENT
 DTSTART:20260527T113000Z
 DTEND:20260527T130500Z
 SUMMARY:Fil (ć)
-LOCATION:101 65
+LOCATION:313 S
 DESCRIPTION:Filozofia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2998,20 +2998,6 @@ DTEND:20260529T111500Z
 SUMMARY:WdP (L)
 LOCATION:252 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: mgr inż. Tadeusz Kowiorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260601T075000Z
-DTEND:20260601T092500Z
-SUMMARY:PTk (w)
-LOCATION:314 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 13/14\nProwadzący: dr inż. Krzysztof Murawski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260601T094000Z
-DTEND:20260601T111500Z
-SUMMARY:PTk (w)
-LOCATION:314 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 14/14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T060000Z
@@ -3250,6 +3236,20 @@ DTEND:20260619T092500Z
 SUMMARY:Amt (ć)
 LOCATION:316 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/12\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T140000Z
+DTEND:20260619T153500Z
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 13/14\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T155000Z
+DTEND:20260619T172500Z
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNumer zajęć: 14/14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T075000Z

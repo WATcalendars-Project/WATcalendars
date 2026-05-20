@@ -711,6 +711,20 @@ LOCATION:323 S
 DESCRIPTION:PieJ\nRodzaj zajęć: Projekt\nNumer zajęć: 7-8\nProwadzący: mgr inż. Kunikowski Mateusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260310T150000Z
+DTEND:20260310T163500Z
+SUMMARY:Caxb (ć)
+LOCATION:17 25
+DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Paszkowski Robert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T150000Z
+DTEND:20260324T163500Z
+SUMMARY:Caxb (w)
+LOCATION:106 25
+DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr inż. Paszkowski Robert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260421T140000Z
 DTEND:20260421T153500Z
 SUMMARY:Baoa (L)
@@ -730,6 +744,13 @@ DTEND:20260505T153500Z
 SUMMARY:Baoa (ć)
 LOCATION:136 36
 DESCRIPTION:Basics of automation\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Dziendzikowski Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T070000Z
+DTEND:20260318T083500Z
+SUMMARY:Caxb (ć)
+LOCATION:17 25
+DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T060000Z
@@ -865,20 +886,6 @@ LOCATION:6 25
 DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260401T094000Z
-DTEND:20260401T111500Z
-SUMMARY:Caxb (w)
-LOCATION:6 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260408T094000Z
-DTEND:20260408T111500Z
-SUMMARY:Caxb (w)
-LOCATION:6 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260415T094000Z
 DTEND:20260415T111500Z
 SUMMARY:Caxb (w)
@@ -891,13 +898,6 @@ DTEND:20260422T111500Z
 SUMMARY:Baoa (ć)
 LOCATION:136 36
 DESCRIPTION:Basics of automation\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Dziendzikowski Michał
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260429T094000Z
-DTEND:20260429T111500Z
-SUMMARY:Caxb (w)
-LOCATION:6 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T094000Z
@@ -947,6 +947,13 @@ DTEND:20260617T111500Z
 SUMMARY:Kasz (L)
 LOCATION:45 63
 DESCRIPTION:Kasz\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kunikowski Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T113000Z
+DTEND:20260415T130500Z
+SUMMARY:Caxb (ć)
+LOCATION:106 25
+DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T113000Z
@@ -1078,7 +1085,7 @@ BEGIN:VEVENT
 DTSTART:20260402T060000Z
 DTEND:20260402T073500Z
 SUMMARY:Caxb (ć)
-LOCATION:17 25
+LOCATION:106 25
 DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
@@ -1271,13 +1278,6 @@ LOCATION:34 67
 DESCRIPTION:Basics of automation\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Dziendzikowski Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260423T094000Z
-DTEND:20260423T111500Z
-SUMMARY:Caxb (ć)
-LOCATION:6 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260430T094000Z
 DTEND:20260430T111500Z
 SUMMARY:Caxb (L)
@@ -1320,6 +1320,13 @@ LOCATION:17 63
 DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Szymonik Jacek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260319T123000Z
+DTEND:20260319T140500Z
+SUMMARY:Caxb (w)
+LOCATION:106 25
+DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Paszkowski Robert
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260402T113000Z
 DTEND:20260402T130500Z
 SUMMARY:Eeae2 (ć)
@@ -1360,6 +1367,13 @@ DTEND:20260611T130500Z
 SUMMARY:Dims (ć)
 LOCATION:17 63
 DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Szymonik Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T140000Z
+DTEND:20260409T153500Z
+SUMMARY:Caxb (w)
+LOCATION:6 25
+DESCRIPTION:Cax Basics\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T140000Z
@@ -1406,13 +1420,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T085000Z
 DTEND:20260313T102500Z
-SUMMARY:Caxb (ć)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260320T085000Z
-DTEND:20260320T102500Z
 SUMMARY:Caxb (ć)
 LOCATION:17 25
 DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Paszkowski Robert
@@ -1504,13 +1511,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T123000Z
 DTEND:20260313T140500Z
-SUMMARY:Caxb (ć)
-LOCATION:17 25
-DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Paszkowski Robert
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260320T123000Z
-DTEND:20260320T140500Z
 SUMMARY:Caxb (ć)
 LOCATION:17 25
 DESCRIPTION:Cax Basics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Paszkowski Robert
