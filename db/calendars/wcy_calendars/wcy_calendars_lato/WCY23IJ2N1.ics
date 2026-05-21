@@ -1929,6 +1929,13 @@ LOCATION:236 S
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 15/15\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260621T060000Z
+DTEND:20260621T073500Z
+SUMMARY:Jtp (Inne)
+LOCATION:314 S
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260621T094000Z
 DTEND:20260621T111500Z
 SUMMARY:AM (L)
@@ -1941,5 +1948,12 @@ DTEND:20260621T130500Z
 SUMMARY:kck (L)
 LOCATION:106 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260627T075000Z
+DTEND:20260627T092500Z
+SUMMARY:PWSI (E)
+LOCATION:308 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 END:VCALENDAR

@@ -627,6 +627,13 @@ LOCATION:
 DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie\nRodzaj zajęć: Wykład\nNumer zajęć: 3/7\nProwadzący: dr inż. Wiśnios Michał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250616T094000Z
+DTEND:20250616T111500Z
+SUMMARY:TC (L)
+LOCATION:
+DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250922T094000Z
 DTEND:20250922T111500Z
 SUMMARY:ToiS (Zp.)
@@ -688,6 +695,13 @@ DTEND:20250609T130500Z
 SUMMARY:Piab (S)
 LOCATION:
 DESCRIPTION:Pomiary i analiza biosygnałów\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: dr hab. inż. Jakubowski Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T113000Z
+DTEND:20250616T130500Z
+SUMMARY:TC (L)
+LOCATION:
+DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T140000Z
@@ -767,13 +781,6 @@ LOCATION:
 DESCRIPTION:Elektroniczna aparatura medyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250513T060000Z
-DTEND:20250513T073500Z
-SUMMARY:TC (L)
-LOCATION:
-DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250520T060000Z
 DTEND:20250520T073500Z
 SUMMARY:TeMi (L)
@@ -785,14 +792,14 @@ DTSTART:20250527T060000Z
 DTEND:20250527T073500Z
 SUMMARY:TC (L)
 LOCATION:
-DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Dąbal Paweł
+DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Dąbal Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T060000Z
 DTEND:20250603T073500Z
 SUMMARY:TC (L)
 LOCATION:
-DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Dąbal Paweł
+DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Dąbal Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T085000Z
@@ -863,13 +870,6 @@ DTEND:20250506T092500Z
 SUMMARY:TeMi (ć)
 LOCATION:
 DESCRIPTION:Termografia mikrofalowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: dr hab. inż. Susek Waldemar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250513T075000Z
-DTEND:20250513T092500Z
-SUMMARY:TC (L)
-LOCATION:
-DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T075000Z

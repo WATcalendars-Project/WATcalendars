@@ -1894,20 +1894,6 @@ LOCATION:218 65
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/1\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260524T113000Z
-DTEND:20260524T130500Z
-SUMMARY:PTk (L)
-LOCATION:011 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr Maciej Lis
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260524T140000Z
-DTEND:20260524T153500Z
-SUMMARY:PTk (L)
-LOCATION:011 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr Maciej Lis
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260530T075000Z
 DTEND:20260530T092500Z
 SUMMARY:Ja (ć)
@@ -2017,14 +2003,14 @@ DTSTART:20260614T060000Z
 DTEND:20260614T073500Z
 SUMMARY:PTk (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr Maciej Lis
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: mgr Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260614T075000Z
 DTEND:20260614T092500Z
 SUMMARY:PTk (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr Maciej Lis
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: mgr Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260614T094000Z
@@ -2039,6 +2025,20 @@ DTEND:20260614T130500Z
 SUMMARY:F1 (ć)
 LOCATION:308 S
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260614T155000Z
+DTEND:20260614T172500Z
+SUMMARY:PTk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260614T174000Z
+DTEND:20260614T191500Z
+SUMMARY:PTk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: mgr Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260620T060000Z
@@ -2116,6 +2116,27 @@ DTEND:20260621T191500Z
 SUMMARY:Amt (ć)
 LOCATION:204 65
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260627T060000Z
+DTEND:20260627T073500Z
+SUMMARY:WdP (E)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260627T075000Z
+DTEND:20260627T092500Z
+SUMMARY:Md2 (E)
+LOCATION:317 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Krzysztof Pszczoła
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260704T075000Z
+DTEND:20260704T092500Z
+SUMMARY:Amt (E)
+LOCATION:317 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260704T094000Z
