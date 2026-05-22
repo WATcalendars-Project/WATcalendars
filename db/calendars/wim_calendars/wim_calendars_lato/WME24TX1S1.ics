@@ -354,6 +354,13 @@ LOCATION:15/ 23a
 DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Wykład\nNumer zajęć: 8/9\nProwadzący: dr inż. Ziubiński Mateusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250615T094000Z
+DTEND:20250615T111500Z
+SUMMARY:KL. (ć)
+LOCATION:28/ 135
+DESCRIPTION:Koszty logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr Milian-Pogonowska Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250914T094000Z
 DTEND:20250914T111500Z
 SUMMARY:Soo (Zp.)
@@ -1170,14 +1177,14 @@ DTSTART:20250506T060000Z
 DTEND:20250506T073500Z
 SUMMARY:KL. (ć)
 LOCATION:5/ 20
-DESCRIPTION:Koszty logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/9\nProwadzący: dr Milian-Pogonowska Małgorzata
+DESCRIPTION:Koszty logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr Milian-Pogonowska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T060000Z
 DTEND:20250527T073500Z
-SUMMARY:KL. (ć)
-LOCATION:5/ 20
-DESCRIPTION:Koszty logistyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/9\nProwadzący: dr Milian-Pogonowska Małgorzata
+SUMMARY:Płe (L)
+LOCATION:16/ 19; 17/ 19
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T060000Z
@@ -1563,13 +1570,6 @@ DTEND:20250416T073500Z
 SUMMARY:PPL (w)
 LOCATION:6/ 23a
 DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr inż. Owczarek Paulina
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250521T060000Z
-DTEND:20250521T073500Z
-SUMMARY:Płe (L)
-LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T060000Z

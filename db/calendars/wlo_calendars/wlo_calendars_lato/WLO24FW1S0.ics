@@ -312,13 +312,6 @@ LOCATION:17/19; 16/19
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: mgr inż. Filipiuk Tomasz; mgr inż. Chodkiewicz Arkadiusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260601T113000Z
-DTEND:20260601T130500Z
-SUMMARY:PeUT (ć)
-LOCATION:aula/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr inż. Boruta Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260608T113000Z
 DTEND:20260608T130500Z
 SUMMARY:PPL (P)
@@ -421,21 +414,21 @@ DTSTART:20260310T070000Z
 DTEND:20260310T083500Z
 SUMMARY:PeUT (ć)
 LOCATION:31/158
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr inż. Boruta Grzegorz
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T070000Z
 DTEND:20260324T083500Z
 SUMMARY:PeUT (ć)
 LOCATION:5.17/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr inż. Boruta Grzegorz
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T060000Z
 DTEND:20260421T073500Z
 SUMMARY:PeUT (ć)
 LOCATION:1.16/16
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr inż. Boruta Grzegorz
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T060000Z
@@ -456,7 +449,7 @@ DTSTART:20260519T060000Z
 DTEND:20260519T073500Z
 SUMMARY:PeUT (ć)
 LOCATION:0.28/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr inż. Boruta Grzegorz
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T060000Z
@@ -477,7 +470,7 @@ DTSTART:20260331T075000Z
 DTEND:20260331T092500Z
 SUMMARY:PeUT (ć)
 LOCATION:0.28/135
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr inż. Boruta Grzegorz
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T075000Z
@@ -492,6 +485,13 @@ DTEND:20260512T092500Z
 SUMMARY:Płe (L)
 LOCATION:17/19; 16/19
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: mgr inż. Filipiuk Tomasz; mgr inż. Chodkiewicz Arkadiusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T075000Z
+DTEND:20260526T092500Z
+SUMMARY:PeUT (ć)
+LOCATION:0.19/135
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T075000Z
@@ -611,6 +611,13 @@ DTEND:20260526T153500Z
 SUMMARY:Wm (ć)
 LOCATION:0.22/16
 DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. (prof. ucz.) Szurgott Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T140000Z
+DTEND:20260609T153500Z
+SUMMARY:Płe (w)
+LOCATION:1.9/16
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T140000Z
@@ -967,7 +974,7 @@ DTSTART:20260311T150000Z
 DTEND:20260311T163500Z
 SUMMARY:Płe (w)
 LOCATION:15/23a
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T150000Z
@@ -1002,7 +1009,7 @@ DTSTART:20260311T165000Z
 DTEND:20260311T182500Z
 SUMMARY:Płe (w)
 LOCATION:15/23a
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T165000Z
@@ -1121,7 +1128,7 @@ DTSTART:20260528T060000Z
 DTEND:20260528T073500Z
 SUMMARY:Płe (w)
 LOCATION:15/23a
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T060000Z
@@ -1443,7 +1450,7 @@ DTSTART:20260423T140000Z
 DTEND:20260423T153500Z
 SUMMARY:Płe (w)
 LOCATION:15/23a
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T140000Z
@@ -1457,7 +1464,7 @@ DTSTART:20260521T140000Z
 DTEND:20260521T153500Z
 SUMMARY:Płe (w)
 LOCATION:aula/135
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T140000Z
@@ -1471,7 +1478,7 @@ DTSTART:20260611T140000Z
 DTEND:20260611T153500Z
 SUMMARY:Płe (w)
 LOCATION:1.9/16
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T165000Z
@@ -1534,13 +1541,6 @@ DTSTART:20260521T155000Z
 DTEND:20260521T172500Z
 SUMMARY:Płe (w)
 LOCATION:aula/135
-DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260611T155000Z
-DTEND:20260611T172500Z
-SUMMARY:Płe (w)
-LOCATION:1.9/16
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT

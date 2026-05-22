@@ -354,13 +354,6 @@ LOCATION:19 63
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Pawluczyk Jarosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260525T113000Z
-DTEND:20260525T130500Z
-SUMMARY:F1 (ć)
-LOCATION:19 63
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Pawluczyk Jarosław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260601T113000Z
 DTEND:20260601T130500Z
 SUMMARY:Gin (ć)
@@ -1173,6 +1166,13 @@ LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260610T094000Z
+DTEND:20260610T111500Z
+SUMMARY:F1 (ć)
+LOCATION:117 45
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Pawluczyk Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260617T094000Z
 DTEND:20260617T111500Z
 SUMMARY:DSiSM 
@@ -1810,6 +1810,13 @@ LOCATION:19 36
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: prof. dr hab. inż. Kopytko Małgorzata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260618T094000Z
+DTEND:20260618T111500Z
+SUMMARY:Metr (L)
+LOCATION:103 63A
+DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: por.mgr inż. Dyjak Jakub
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T123000Z
 DTEND:20260305T140500Z
 SUMMARY:Ja (ć)
@@ -2311,7 +2318,7 @@ DTSTART:20260612T140000Z
 DTEND:20260612T153500Z
 SUMMARY:Metr (L)
 LOCATION:103 63A;10
-DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: por.mgr inż. Dyjak Jakub
+DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr hab. inż. Janiszewski Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T140000Z
