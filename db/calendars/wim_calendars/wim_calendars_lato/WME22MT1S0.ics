@@ -739,13 +739,6 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 6/63
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250601T155000Z
-DTEND:20250601T172500Z
-SUMMARY:ZMiT (w)
-LOCATION:1/ 19
-DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: mgr inż. Wójcik Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250803T155000Z
 DTEND:20250803T172500Z
 SUMMARY:Sz.-CSz 
@@ -1009,7 +1002,7 @@ DTSTART:20250303T085000Z
 DTEND:20250303T102500Z
 SUMMARY:ZMiT (w)
 LOCATION:2/ 23a
-DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: mgr inż. Wójcik Maciej
+DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Wykład\nNumer zajęć: 10/15\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T085000Z
@@ -1177,7 +1170,7 @@ DTSTART:20250303T104000Z
 DTEND:20250303T121500Z
 SUMMARY:ZMiT (w)
 LOCATION:2/ 23a
-DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: mgr inż. Wójcik Maciej
+DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Wykład\nNumer zajęć: 11/15\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T104000Z
@@ -1383,6 +1376,13 @@ LOCATION:5/ 20
 DESCRIPTION:Organizacja transportu i ruchu wojsk\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: mgr inż. Szymański Krzysztof
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250609T113000Z
+DTEND:20250609T130500Z
+SUMMARY:ZMiT (ć)
+LOCATION:54/ 62
+DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/13\nProwadzący: mgr inż. Wójcik Maciej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250616T113000Z
 DTEND:20250616T130500Z
 SUMMARY:Gizw (w)
@@ -1457,7 +1457,14 @@ DTSTART:20250519T140000Z
 DTEND:20250519T153500Z
 SUMMARY:ZMiT (w)
 LOCATION:1/ 19
-DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: mgr inż. Wójcik Maciej
+DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Wykład\nNumer zajęć: 12/15\nProwadzący: mgr inż. Wójcik Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T140000Z
+DTEND:20250609T153500Z
+SUMMARY:ZMiT (ć)
+LOCATION:54/ 62
+DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/13\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250804T140000Z
@@ -1674,7 +1681,7 @@ DTSTART:20250429T060000Z
 DTEND:20250429T073500Z
 SUMMARY:ZMiT (ć)
 LOCATION:15/ 23a
-DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/13\nProwadzący: mgr inż. Wójcik Maciej
+DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/13\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T060000Z
@@ -1703,6 +1710,13 @@ DTEND:20250603T073500Z
 SUMMARY:DGB (ć)
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T060000Z
+DTEND:20250610T073500Z
+SUMMARY:ZMiT (ć)
+LOCATION:8/ 62
+DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/13\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T060000Z
@@ -1814,7 +1828,7 @@ DTSTART:20250429T075000Z
 DTEND:20250429T092500Z
 SUMMARY:ZMiT (ć)
 LOCATION:15/ 23a
-DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/13\nProwadzący: mgr inż. Wójcik Maciej
+DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/13\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T075000Z
@@ -2797,13 +2811,6 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 7/11
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250528T094000Z
-DTEND:20250528T111500Z
-SUMMARY:ZMiT (ć)
-LOCATION:1/ 19
-DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/13\nProwadzący: mgr inż. Wójcik Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250604T094000Z
 DTEND:20250604T111500Z
 SUMMARY:I 
@@ -2944,13 +2951,6 @@ LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250528T113000Z
-DTEND:20250528T130500Z
-SUMMARY:ZMiT (ć)
-LOCATION:1/ 19
-DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/13\nProwadzący: mgr inż. Wójcik Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250604T113000Z
 DTEND:20250604T130500Z
 SUMMARY:I 
@@ -2963,6 +2963,13 @@ DTEND:20250611T130500Z
 SUMMARY:SzS (ć)
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T113000Z
+DTEND:20250618T130500Z
+SUMMARY:ZMiT (w)
+LOCATION:5/ 23a
+DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250702T113000Z
@@ -3068,13 +3075,6 @@ DTEND:20250521T153500Z
 SUMMARY:SzS (ć)
 LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250528T140000Z
-DTEND:20250528T153500Z
-SUMMARY:ZMiT (ć)
-LOCATION:1/ 19
-DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/13\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T140000Z
@@ -3588,6 +3588,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 33/63
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250612T094000Z
+DTEND:20250612T111500Z
+SUMMARY:ZMiT (S)
+LOCATION:42/ 20
+DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: mgr inż. Wójcik Maciej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250807T094000Z
 DTEND:20250807T111500Z
 SUMMARY:Sz.-CSz 
@@ -3693,6 +3700,13 @@ LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 37/63
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250612T113000Z
+DTEND:20250612T130500Z
+SUMMARY:ZMiT (S)
+LOCATION:42/ 20
+DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: mgr inż. Wójcik Maciej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250619T113000Z
 DTEND:20250619T130500Z
 SUMMARY:WF (ć)
@@ -3777,13 +3791,6 @@ LOCATION:42/ 20
 DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 12/13\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250529T140000Z
-DTEND:20250529T153500Z
-SUMMARY:ZMiT (S)
-LOCATION:1/ 19
-DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: mgr inż. Wójcik Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250605T140000Z
 DTEND:20250605T153500Z
 SUMMARY:I 
@@ -3866,13 +3873,6 @@ DTEND:20250522T172500Z
 SUMMARY:ZMiT (ć)
 LOCATION:1/ 19
 DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/13\nProwadzący: mgr inż. Wójcik Maciej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250529T155000Z
-DTEND:20250529T172500Z
-SUMMARY:ZMiT (S)
-LOCATION:1/ 19
-DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T155000Z

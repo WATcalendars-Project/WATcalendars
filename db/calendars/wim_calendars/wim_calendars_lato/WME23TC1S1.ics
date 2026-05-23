@@ -746,13 +746,6 @@ LOCATION:27/ 20; PTW/ 28 HANGAR
 DESCRIPTION:Eksploatacja urządzeń transportowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/9\nProwadzący: dr hab. inż.(prof. ucz.) Dziubak Tadeusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250609T113000Z
-DTEND:20250609T130500Z
-SUMMARY:LM. (ć)
-LOCATION:301/ S
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Sobczak Iwona
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250630T113000Z
 DTEND:20250630T130500Z
 SUMMARY:ZwŁD (Zp. Ćw)
@@ -792,7 +785,7 @@ DTSTART:20250602T140000Z
 DTEND:20250602T153500Z
 SUMMARY:LM. (ć)
 LOCATION:301/ S
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Sobczak Iwona
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T155000Z
@@ -806,7 +799,7 @@ DTSTART:20250602T155000Z
 DTEND:20250602T172500Z
 SUMMARY:LM. (ć)
 LOCATION:301/ S
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Sobczak Iwona
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T174000Z
@@ -1015,7 +1008,7 @@ BEGIN:VEVENT
 DTSTART:20250610T094000Z
 DTEND:20250610T111500Z
 SUMMARY:LM. (w)
-LOCATION:51/ 62
+LOCATION:301/ S
 DESCRIPTION:Logistics management\nRodzaj zajęć: Wykład\nNumer zajęć: 2/5\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
@@ -1079,14 +1072,14 @@ DTSTART:20250520T113000Z
 DTEND:20250520T130500Z
 SUMMARY:LM. (ć)
 LOCATION:301/ S
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Sobczak Iwona
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T113000Z
 DTEND:20250610T130500Z
 SUMMARY:LM. (ć)
-LOCATION:51/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10\nProwadzący: dr Sobczak Iwona
+LOCATION:301/ S
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/10\nProwadzący: dr Sobczak Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T150000Z
@@ -1121,7 +1114,7 @@ DTSTART:20250429T140000Z
 DTEND:20250429T153500Z
 SUMMARY:LM. (ć)
 LOCATION:9/ 62
-DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T140000Z
@@ -1133,6 +1126,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T140000Z
 DTEND:20250520T153500Z
+SUMMARY:LM. (ć)
+LOCATION:301/ S
+DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr Sobczak Iwona
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T140000Z
+DTEND:20250610T153500Z
 SUMMARY:LM. (ć)
 LOCATION:301/ S
 DESCRIPTION:Logistics management\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr Sobczak Iwona

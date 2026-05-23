@@ -319,13 +319,6 @@ LOCATION:7/ 23a
 DESCRIPTION:Mrp\nRodzaj zajęć: -\nNumer zajęć: 20/26\nProwadzący: mgr inż. Gajda Olga
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250525T094000Z
-DTEND:20250525T111500Z
-SUMMARY:Spm (L)
-LOCATION:4/ 68; 9/ 68
-DESCRIPTION:Silniki pojazdów mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr hab. inż.(prof. ucz.) Dziubak Tadeusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250601T094000Z
 DTEND:20250601T111500Z
 SUMMARY:Mrp 
@@ -498,7 +491,7 @@ DTSTART:20250427T140000Z
 DTEND:20250427T153500Z
 SUMMARY:Spm (L)
 LOCATION:4/ 68; 9/ 68
-DESCRIPTION:Silniki pojazdów mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Dziubak Tadeusz
+DESCRIPTION:Silniki pojazdów mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr hab. inż.(prof. ucz.) Dziubak Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250511T140000Z
@@ -596,7 +589,7 @@ DTSTART:20250519T060000Z
 DTEND:20250519T073500Z
 SUMMARY:Spm (L)
 LOCATION:4/ 68; 9/ 68
-DESCRIPTION:Silniki pojazdów mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr hab. inż.(prof. ucz.) Dziubak Tadeusz
+DESCRIPTION:Silniki pojazdów mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr hab. inż.(prof. ucz.) Dziubak Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T060000Z
@@ -792,7 +785,7 @@ DTSTART:20250505T094000Z
 DTEND:20250505T111500Z
 SUMMARY:Spm (L)
 LOCATION:4/ 68; 9/ 68
-DESCRIPTION:Silniki pojazdów mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr hab. inż.(prof. ucz.) Dziubak Tadeusz
+DESCRIPTION:Silniki pojazdów mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr hab. inż.(prof. ucz.) Dziubak Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T094000Z
@@ -820,7 +813,7 @@ DTSTART:20250602T094000Z
 DTEND:20250602T111500Z
 SUMMARY:Spm (L)
 LOCATION:4/ 68; 9/ 68
-DESCRIPTION:Silniki pojazdów mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr hab. inż.(prof. ucz.) Dziubak Tadeusz
+DESCRIPTION:Silniki pojazdów mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr hab. inż.(prof. ucz.) Dziubak Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T094000Z
@@ -919,6 +912,13 @@ DTEND:20250602T130500Z
 SUMMARY:SCiA (P)
 LOCATION:5/ 23a
 DESCRIPTION:Samochody ciężarowe i autobusy\nRodzaj zajęć: Projekt\nNumer zajęć: 2/12\nProwadzący: mgr inż. Radzimierski Mariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T113000Z
+DTEND:20250609T130500Z
+SUMMARY:Spm (L)
+LOCATION:4/ 68; 9/ 68
+DESCRIPTION:Silniki pojazdów mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr hab. inż.(prof. ucz.) Dziubak Tadeusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T113000Z
