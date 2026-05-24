@@ -1740,20 +1740,6 @@ LOCATION:223 S
 DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/5\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260524T140000Z
-DTEND:20260524T153500Z
-SUMMARY:TAI (w)
-LOCATION:309 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260524T155000Z
-DTEND:20260524T172500Z
-SUMMARY:AM (w)
-LOCATION:309 S
-DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260530T060000Z
 DTEND:20260530T073500Z
 SUMMARY:PWSI (P)
@@ -1784,9 +1770,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260530T140000Z
 DTEND:20260530T153500Z
-SUMMARY:TAI (L)
-LOCATION:227 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: mgr inż. Michał Sobolewski
+SUMMARY:TAI (w)
+LOCATION:307 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T155000Z
+DTEND:20260530T172500Z
+SUMMARY:AM (w)
+LOCATION:307 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260531T113000Z
@@ -1934,6 +1927,13 @@ DTEND:20260621T073500Z
 SUMMARY:Jtp (Inne)
 LOCATION:314 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260621T075000Z
+DTEND:20260621T092500Z
+SUMMARY:TAI (L)
+LOCATION:227 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260621T094000Z

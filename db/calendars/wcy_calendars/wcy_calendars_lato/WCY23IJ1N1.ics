@@ -1761,20 +1761,6 @@ LOCATION:106 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/5\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260524T140000Z
-DTEND:20260524T153500Z
-SUMMARY:TAI (w)
-LOCATION:309 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260524T155000Z
-DTEND:20260524T172500Z
-SUMMARY:AM (w)
-LOCATION:309 S
-DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260530T060000Z
 DTEND:20260530T073500Z
 SUMMARY:Muma (L)
@@ -1787,6 +1773,20 @@ DTEND:20260530T111500Z
 SUMMARY:TAI (L)
 LOCATION:227 S
 DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T140000Z
+DTEND:20260530T153500Z
+SUMMARY:TAI (w)
+LOCATION:307 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T155000Z
+DTEND:20260530T172500Z
+SUMMARY:AM (w)
+LOCATION:307 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260531T060000Z
