@@ -3021,13 +3021,6 @@ LOCATION:301/ S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 16/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260526T140000Z
-DTEND:20260526T153500Z
-SUMMARY:Md2 (ć)
-LOCATION:309 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr Anna Cichocka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260527T060000Z
 DTEND:20260527T073500Z
 SUMMARY:Amt (ć)
@@ -3075,6 +3068,13 @@ DTEND:20260528T153500Z
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 28/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T075000Z
+DTEND:20260529T092500Z
+SUMMARY:Md2 (ć)
+LOCATION:316 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: mgr Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T094000Z
@@ -3413,6 +3413,41 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260629T060000Z
+DTEND:20260629T073500Z
+SUMMARY:Amt (E)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260629T075000Z
+DTEND:20260629T092500Z
+SUMMARY:Amt (E)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260703T075000Z
+DTEND:20260703T092500Z
+SUMMARY:WdP (E)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260703T094000Z
+DTEND:20260703T111500Z
+SUMMARY:WdP (E)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260914T060000Z
+DTEND:20260914T073500Z
+SUMMARY:WdP (Inne)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260914T094000Z
 DTEND:20260914T111500Z
 SUMMARY:F1 (Inne)
@@ -3425,6 +3460,13 @@ DTEND:20260917T111500Z
 SUMMARY:Md2 (Inne)
 LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260921T060000Z
+DTEND:20260921T073500Z
+SUMMARY:Amt (Inne)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260922T075000Z

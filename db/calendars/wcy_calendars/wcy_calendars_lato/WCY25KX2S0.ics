@@ -4421,6 +4421,34 @@ LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 60/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260622T060000Z
+DTEND:20260622T073500Z
+SUMMARY:WdP (E)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260622T075000Z
+DTEND:20260622T092500Z
+SUMMARY:WdP (E)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260624T094000Z
+DTEND:20260624T111500Z
+SUMMARY:Amt (E)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Jan Nawrocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260624T113000Z
+DTEND:20260624T130500Z
+SUMMARY:Amt (E)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Jan Nawrocki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260701T075000Z
 DTEND:20260701T092500Z
 SUMMARY:Md2 (E)
@@ -4435,8 +4463,22 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260930T075000Z
-DTEND:20260930T092500Z
+DTSTART:20260706T075000Z
+DTEND:20260706T092500Z
+SUMMARY:WdP (Inne)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260708T094000Z
+DTEND:20260708T111500Z
+SUMMARY:Amt (Inne)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: dr Jan Nawrocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260710T075000Z
+DTEND:20260710T092500Z
 SUMMARY:Md2 (Inne)
 LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki

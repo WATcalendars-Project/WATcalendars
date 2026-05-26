@@ -1019,6 +1019,13 @@ LOCATION:54/ 62
 DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 7/10\nProwadzący: dr inż. Wieczorek Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250617T060000Z
+DTEND:20250617T073500Z
+SUMMARY:Pbaw (S)
+LOCATION:5/ 23a
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250624T060000Z
 DTEND:20250624T073500Z
 SUMMARY:Msrm (Zp. Ćw)
@@ -1121,7 +1128,7 @@ DTSTART:20250617T075000Z
 DTEND:20250617T092500Z
 SUMMARY:Pbaw (S)
 LOCATION:5/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T075000Z
@@ -1245,9 +1252,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T094000Z
 DTEND:20250610T111500Z
-SUMMARY:Pbaw (S)
+SUMMARY:Ptts (L)
 LOCATION:6/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3
+DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T094000Z
@@ -1336,16 +1343,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T113000Z
 DTEND:20250603T130500Z
-SUMMARY:Pbaw (S)
-LOCATION:6/ 23a
-DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3
+SUMMARY:Ptts (L)
+LOCATION:6/ 23a; 7/ 23a
+DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T113000Z
 DTEND:20250610T130500Z
 SUMMARY:Ptts (L)
-LOCATION:2/ 23a
-DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
+LOCATION:6/ 23a
+DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T113000Z
@@ -1399,16 +1406,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T140000Z
 DTEND:20250603T153500Z
-SUMMARY:Ptts (L)
-LOCATION:6/ 23a; 7/ 23a
-DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250610T140000Z
-DTEND:20250610T153500Z
-SUMMARY:Ptts (L)
-LOCATION:2/ 23a
-DESCRIPTION:Projektowanie i trendy w technice samochodowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8
+SUMMARY:Pbaw (S)
+LOCATION:6/ 23a
+DESCRIPTION:Planowanie badań i analiza wyników\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T070000Z

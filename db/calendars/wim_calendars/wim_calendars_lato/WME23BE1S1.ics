@@ -74,6 +74,13 @@ LOCATION:
 DESCRIPTION:Systemy zapewnienia energii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250601T060000Z
+DTEND:20250601T073500Z
+SUMMARY:Eam (L)
+LOCATION:
+DESCRIPTION:Elektroniczna aparatura medyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250615T060000Z
 DTEND:20250615T073500Z
 SUMMARY:TeMi (w)
@@ -155,7 +162,7 @@ DTSTART:20250511T075000Z
 DTEND:20250511T092500Z
 SUMMARY:Eam (L)
 LOCATION:
-DESCRIPTION:Elektroniczna aparatura medyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6
+DESCRIPTION:Elektroniczna aparatura medyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T075000Z
@@ -163,6 +170,13 @@ DTEND:20250525T092500Z
 SUMMARY:Sze (L)
 LOCATION:
 DESCRIPTION:Systemy zapewnienia energii\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250601T075000Z
+DTEND:20250601T092500Z
+SUMMARY:Eam (L)
+LOCATION:
+DESCRIPTION:Elektroniczna aparatura medyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T075000Z
@@ -970,18 +984,11 @@ LOCATION:
 DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250527T094000Z
-DTEND:20250527T111500Z
-SUMMARY:Eam (L)
-LOCATION:
-DESCRIPTION:Elektroniczna aparatura medyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250603T094000Z
 DTEND:20250603T111500Z
 SUMMARY:Eam (L)
 LOCATION:
-DESCRIPTION:Elektroniczna aparatura medyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
+DESCRIPTION:Elektroniczna aparatura medyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T123000Z
@@ -1010,13 +1017,6 @@ DTEND:20250506T130500Z
 SUMMARY:TC (L)
 LOCATION:
 DESCRIPTION:Technika cyfrowa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250527T113000Z
-DTEND:20250527T130500Z
-SUMMARY:Eam (L)
-LOCATION:
-DESCRIPTION:Elektroniczna aparatura medyczna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T113000Z

@@ -445,6 +445,13 @@ LOCATION:WSKP/ 21; PTW/ 28 HANGAR
 DESCRIPTION:Diagnostyka pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/18
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250601T094000Z
+DTEND:20250601T111500Z
+SUMMARY:TiOTŁ (ć)
+LOCATION:3/ 23a
+DESCRIPTION:Technika i organizacja transportu ładunków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250608T094000Z
 DTEND:20250608T111500Z
 SUMMARY:Dpw. (L)
@@ -599,11 +606,25 @@ LOCATION:WSKP/ 21; PTW/ 28 HANGAR
 DESCRIPTION:Diagnostyka pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/18
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250601T113000Z
+DTEND:20250601T130500Z
+SUMMARY:TiOTŁ (ć)
+LOCATION:3/ 23a
+DESCRIPTION:Technika i organizacja transportu ładunków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250608T113000Z
 DTEND:20250608T130500Z
 SUMMARY:Dpw. (L)
 LOCATION:WSKP/ 21; PTW/ 28 HANGAR
 DESCRIPTION:Diagnostyka pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250615T113000Z
+DTEND:20250615T130500Z
+SUMMARY:OiTNPW (L)
+LOCATION:15/ 21; 17a/ 21; 17b/ 21; 6/ 21; 9/ 21; 10/ 21
+DESCRIPTION:Organizacja i technologia napraw pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250622T113000Z
@@ -744,6 +765,13 @@ DTEND:20250608T153500Z
 SUMMARY:Dpw. (L)
 LOCATION:40/ 20; PTW/ 28 HANGAR
 DESCRIPTION:Diagnostyka pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250615T140000Z
+DTEND:20250615T153500Z
+SUMMARY:OiTNPW (L)
+LOCATION:15/ 21; 17a/ 21; 17b/ 21; 6/ 21; 9/ 21; 10/ 21
+DESCRIPTION:Organizacja i technologia napraw pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250803T140000Z
@@ -967,7 +995,7 @@ DTSTART:20250505T060000Z
 DTEND:20250505T073500Z
 SUMMARY:OiTNPW (L)
 LOCATION:15/ 21; 17a/ 21; 17b/ 21; 6/ 21; 9/ 21; 10/ 21
-DESCRIPTION:Organizacja i technologia napraw pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/8\nProwadzący: dr inż. Napadłek Wojciech
+DESCRIPTION:Organizacja i technologia napraw pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T060000Z
@@ -1121,7 +1149,7 @@ DTSTART:20250505T075000Z
 DTEND:20250505T092500Z
 SUMMARY:OiTNPW (L)
 LOCATION:15/ 21; 17a/ 21; 17b/ 21; 6/ 21; 9/ 21; 10/ 21
-DESCRIPTION:Organizacja i technologia napraw pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Napadłek Wojciech
+DESCRIPTION:Organizacja i technologia napraw pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T075000Z
@@ -1142,7 +1170,7 @@ DTSTART:20250602T075000Z
 DTEND:20250602T092500Z
 SUMMARY:OiTNPW (L)
 LOCATION:15/ 21; 17a/ 21; 17b/ 21; 6/ 21; 9/ 21; 10/ 21
-DESCRIPTION:Organizacja i technologia napraw pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Napadłek Wojciech
+DESCRIPTION:Organizacja i technologia napraw pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T075000Z
@@ -1261,14 +1289,14 @@ DTSTART:20250505T094000Z
 DTEND:20250505T111500Z
 SUMMARY:TiOTŁ (ć)
 LOCATION:5/ 23a
-DESCRIPTION:Technika i organizacja transportu ładunków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
+DESCRIPTION:Technika i organizacja transportu ładunków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T094000Z
 DTEND:20250519T111500Z
 SUMMARY:OiTNPW (L)
 LOCATION:15/ 21; 17a/ 21; 17b/ 21; 6/ 21; 9/ 21; 10/ 21
-DESCRIPTION:Organizacja i technologia napraw pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Napadłek Wojciech
+DESCRIPTION:Organizacja i technologia napraw pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T094000Z
@@ -1282,14 +1310,14 @@ DTSTART:20250602T094000Z
 DTEND:20250602T111500Z
 SUMMARY:OiTNPW (L)
 LOCATION:15/ 21; 17a/ 21; 17b/ 21; 6/ 21; 9/ 21; 10/ 21
-DESCRIPTION:Organizacja i technologia napraw pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Napadłek Wojciech
+DESCRIPTION:Organizacja i technologia napraw pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T094000Z
 DTEND:20250609T111500Z
 SUMMARY:OiTNPW (L)
 LOCATION:15/ 21; 17a/ 21; 17b/ 21; 6/ 21; 9/ 21; 10/ 21
-DESCRIPTION:Organizacja i technologia napraw pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Napadłek Wojciech
+DESCRIPTION:Organizacja i technologia napraw pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T094000Z
@@ -1387,7 +1415,7 @@ DTSTART:20250519T113000Z
 DTEND:20250519T130500Z
 SUMMARY:OiTNPW (L)
 LOCATION:15/ 21; 17a/ 21; 17b/ 21; 6/ 21; 9/ 21; 10/ 21
-DESCRIPTION:Organizacja i technologia napraw pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Napadłek Wojciech
+DESCRIPTION:Organizacja i technologia napraw pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T113000Z
@@ -1401,7 +1429,7 @@ DTSTART:20250609T113000Z
 DTEND:20250609T130500Z
 SUMMARY:OiTNPW (L)
 LOCATION:15/ 21; 17a/ 21; 17b/ 21; 6/ 21; 9/ 21; 10/ 21
-DESCRIPTION:Organizacja i technologia napraw pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Napadłek Wojciech
+DESCRIPTION:Organizacja i technologia napraw pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Napadłek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T113000Z
@@ -3074,7 +3102,7 @@ DTSTART:20250507T140000Z
 DTEND:20250507T153500Z
 SUMMARY:TiOTŁ (ć)
 LOCATION:6/ 23a
-DESCRIPTION:Technika i organizacja transportu ładunków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
+DESCRIPTION:Technika i organizacja transportu ładunków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T140000Z
@@ -3543,7 +3571,7 @@ DTSTART:20250619T075000Z
 DTEND:20250619T092500Z
 SUMMARY:TiOTŁ (ć)
 LOCATION:2/ 23a
-DESCRIPTION:Technika i organizacja transportu ładunków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
+DESCRIPTION:Technika i organizacja transportu ładunków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250807T075000Z
@@ -3641,7 +3669,7 @@ DTSTART:20250515T094000Z
 DTEND:20250515T111500Z
 SUMMARY:TiOTŁ (ć)
 LOCATION:6/ 23a
-DESCRIPTION:Technika i organizacja transportu ładunków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
+DESCRIPTION:Technika i organizacja transportu ładunków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T094000Z
@@ -3770,13 +3798,6 @@ LOCATION:5/ 23a
 DESCRIPTION:Technika i organizacja transportu ładunków\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250529T113000Z
-DTEND:20250529T130500Z
-SUMMARY:TiOTŁ (ć)
-LOCATION:2/ 23a
-DESCRIPTION:Technika i organizacja transportu ładunków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250605T113000Z
 DTEND:20250605T130500Z
 SUMMARY:I 
@@ -3788,7 +3809,7 @@ DTSTART:20250612T113000Z
 DTEND:20250612T130500Z
 SUMMARY:TiOTŁ (ć)
 LOCATION:2/ 23a
-DESCRIPTION:Technika i organizacja transportu ładunków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
+DESCRIPTION:Technika i organizacja transportu ładunków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250619T113000Z
@@ -3873,13 +3894,6 @@ DTEND:20250515T153500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 8/10
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250529T140000Z
-DTEND:20250529T153500Z
-SUMMARY:TiOTŁ (ć)
-LOCATION:2/ 23a
-DESCRIPTION:Technika i organizacja transportu ładunków\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr inż. (prof. ucz.) Żuchowski Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T140000Z

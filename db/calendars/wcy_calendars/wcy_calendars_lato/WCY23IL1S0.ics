@@ -1474,13 +1474,6 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260525T060000Z
-DTEND:20260525T073500Z
-SUMMARY:Spg (L)
-LOCATION:233 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr Tomasz Gzik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260525T075000Z
 DTEND:20260525T092500Z
 SUMMARY:WF (ć)
@@ -1604,7 +1597,7 @@ DTSTART:20260601T060000Z
 DTEND:20260601T073500Z
 SUMMARY:Spg (L)
 LOCATION:233 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T075000Z
@@ -1625,7 +1618,7 @@ DTSTART:20260602T075000Z
 DTEND:20260602T092500Z
 SUMMARY:Spg (L)
 LOCATION:233 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T094000Z
@@ -1660,7 +1653,7 @@ DTSTART:20260608T060000Z
 DTEND:20260608T073500Z
 SUMMARY:Spg (L)
 LOCATION:233 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T075000Z
@@ -1828,7 +1821,7 @@ DTSTART:20260615T060000Z
 DTEND:20260615T073500Z
 SUMMARY:Spg (L)
 LOCATION:223 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T075000Z
@@ -1864,6 +1857,13 @@ DTEND:20260616T130500Z
 SUMMARY:Wdis (L)
 LOCATION:237 S
 DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T075000Z
+DTEND:20260617T092500Z
+SUMMARY:Spg (L)
+LOCATION:227 S
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T094000Z
