@@ -727,9 +727,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T060000Z
 DTEND:20260527T073500Z
-SUMMARY:Wm (ć)
-LOCATION:37/158
-DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Świerczewski Marek
+SUMMARY:PeUT (ć)
+LOCATION:1.9/16
+DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr inż. Boruta Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T060000Z
@@ -802,18 +802,18 @@ LOCATION:16/19; 17/19
 DESCRIPTION:Płyny eksploatacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: mgr inż. Filipiuk Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260527T075000Z
-DTEND:20260527T092500Z
-SUMMARY:PeUT (ć)
-LOCATION:1.9/16
-DESCRIPTION:Podstawy eksploatacji urządzeń technicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr inż. Boruta Grzegorz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260603T075000Z
 DTEND:20260603T092500Z
 SUMMARY:PPL (P)
 LOCATION:0.8/16
 DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Projekt\nNumer zajęć: 7/10\nProwadzący: dr inż. Waśniewski Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T075000Z
+DTEND:20260610T092500Z
+SUMMARY:Wm (ć)
+LOCATION:37/158
+DESCRIPTION:Wytrzymałość materiałów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr inż. Świerczewski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T094000Z

@@ -1763,6 +1763,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260530T060000Z
 DTEND:20260530T073500Z
+SUMMARY:kck (L)
+LOCATION:120 65
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T075000Z
+DTEND:20260530T092500Z
 SUMMARY:Muma (L)
 LOCATION:233 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr Jarosław Olejniczak
@@ -1843,13 +1850,6 @@ DTEND:20260613T153500Z
 SUMMARY:PZ (P)
 LOCATION:236 S
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 15/15\nProwadzący: mgr inż. Kamil Małysz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260613T155000Z
-DTEND:20260613T172500Z
-SUMMARY:kck (L)
-LOCATION:106 65
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/5\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260614T060000Z

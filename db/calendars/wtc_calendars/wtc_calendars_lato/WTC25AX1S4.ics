@@ -256,32 +256,25 @@ LOCATION:aF S
 DESCRIPTION:Chemia ogólna i nieorganiczna II\nRodzaj zajęć: Wykład\nNumer zajęć: 8/13\nProwadzący: dr hab. inż. Spadło Anna
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260525T094000Z
-DTEND:20260525T111500Z
-SUMMARY:Con2 (w)
-LOCATION:aF S
-DESCRIPTION:Chemia ogólna i nieorganiczna II\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: dr hab. inż. Spadło Anna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260601T094000Z
 DTEND:20260601T111500Z
 SUMMARY:Con2 (w)
 LOCATION:aF S
-DESCRIPTION:Chemia ogólna i nieorganiczna II\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13\nProwadzący: dr hab. inż. Spadło Anna
+DESCRIPTION:Chemia ogólna i nieorganiczna II\nRodzaj zajęć: Wykład\nNumer zajęć: 9/13\nProwadzący: dr hab. inż. Spadło Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T094000Z
 DTEND:20260608T111500Z
 SUMMARY:Con2 (w)
 LOCATION:aF S
-DESCRIPTION:Chemia ogólna i nieorganiczna II\nRodzaj zajęć: Wykład\nNumer zajęć: 11/13\nProwadzący: dr hab. inż. Spadło Anna
+DESCRIPTION:Chemia ogólna i nieorganiczna II\nRodzaj zajęć: Wykład\nNumer zajęć: 10/13\nProwadzący: dr hab. inż. Spadło Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T094000Z
 DTEND:20260615T111500Z
 SUMMARY:Con2 (w)
 LOCATION:aF S
-DESCRIPTION:Chemia ogólna i nieorganiczna II\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: dr hab. inż. Spadło Anna
+DESCRIPTION:Chemia ogólna i nieorganiczna II\nRodzaj zajęć: Wykład\nNumer zajęć: 11/13\nProwadzący: dr hab. inż. Spadło Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T123000Z
@@ -786,6 +779,13 @@ DTEND:20260526T130500Z
 SUMMARY:Ain (L)
 LOCATION:08 24;114 14
 DESCRIPTION:Analiza instrumentalna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/26\nProwadzący: dr Czubaszek Marzena; mgr inż. Boczkowski Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T113000Z
+DTEND:20260602T130500Z
+SUMMARY:Con2 (w)
+LOCATION:11/ 34
+DESCRIPTION:Chemia ogólna i nieorganiczna II\nRodzaj zajęć: Wykład\nNumer zajęć: 12/13\nProwadzący: dr hab. inż. Spadło Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T113000Z
@@ -1439,6 +1439,13 @@ LOCATION:111 14;6 24
 DESCRIPTION:Analiza instrumentalna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 25/26\nProwadzący: dr Czubaszek Marzena; dr inż. Budzyńska Edyta
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260611T094000Z
+DTEND:20260611T111500Z
+SUMMARY:CHo (ć)
+LOCATION:2 55A
+DESCRIPTION:Chemia organiczna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr inż. Harmata Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260625T094000Z
 DTEND:20260625T111500Z
 SUMMARY:Ain (E)
@@ -1516,6 +1523,13 @@ LOCATION:111 14;6 24
 DESCRIPTION:Analiza instrumentalna\nRodzaj zajęć: Laboratorium\nNumer zajęć: 26/26\nProwadzący: dr Czubaszek Marzena; dr inż. Budzyńska Edyta
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260611T113000Z
+DTEND:20260611T130500Z
+SUMMARY:CHo (ć)
+LOCATION:2 55A
+DESCRIPTION:Chemia organiczna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr inż. Harmata Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260528T140000Z
 DTEND:20260528T153500Z
 SUMMARY:Con2 (ć)
@@ -1590,7 +1604,7 @@ DTSTART:20260515T094000Z
 DTEND:20260515T111500Z
 SUMMARY:CHo (ć)
 LOCATION:108 24
-DESCRIPTION:Chemia organiczna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr inż. Harmata Piotr
+DESCRIPTION:Chemia organiczna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr inż. Harmata Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T094000Z
@@ -1628,13 +1642,6 @@ LOCATION:34/ 14;127A/ 14
 DESCRIPTION:Chemia ogólna i nieorganiczna II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/9\nProwadzący: dr inż. Hara Marcin; dr inż. Węgłowska Dorota
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260612T113000Z
-DTEND:20260612T130500Z
-SUMMARY:CHo (ć)
-LOCATION:108 24
-DESCRIPTION:Chemia organiczna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/10\nProwadzący: dr inż. Harmata Piotr
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260522T140000Z
 DTEND:20260522T153500Z
 SUMMARY:Con2 (L)
@@ -1647,12 +1654,5 @@ DTEND:20260529T153500Z
 SUMMARY:Con2 (L)
 LOCATION:34/ 14;127A/ 14
 DESCRIPTION:Chemia ogólna i nieorganiczna II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/9\nProwadzący: dr inż. Hara Marcin; dr inż. Węgłowska Dorota
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260612T140000Z
-DTEND:20260612T153500Z
-SUMMARY:CHo (ć)
-LOCATION:108 24
-DESCRIPTION:Chemia organiczna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/10\nProwadzący: dr inż. Harmata Piotr
 END:VEVENT
 END:VCALENDAR

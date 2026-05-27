@@ -109,6 +109,13 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 1/24
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250615T060000Z
+DTEND:20250615T073500Z
+SUMMARY:TA (ć)
+LOCATION:
+DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250622T060000Z
 DTEND:20250622T073500Z
 SUMMARY:TA (w)
@@ -456,7 +463,7 @@ DTSTART:20250511T113000Z
 DTEND:20250511T130500Z
 SUMMARY:TA (ć)
 LOCATION:PTW/ 28 HANGAR
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
+DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250518T113000Z
@@ -1108,13 +1115,6 @@ DTEND:20250602T111500Z
 SUMMARY:PD (ć)
 LOCATION:3/038 DK
 DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: ppłk rez. mgr inż. Koszałko Dariusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250609T094000Z
-DTEND:20250609T111500Z
-SUMMARY:TA (ć)
-LOCATION:3/038
-DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T094000Z

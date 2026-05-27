@@ -5338,10 +5338,66 @@ LOCATION:125 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260623T060000Z
+DTEND:20260623T073500Z
+SUMMARY:IK (E)
+LOCATION:313 S
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260625T094000Z
+DTEND:20260625T111500Z
+SUMMARY:Sck (E)
+LOCATION:120 65 121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260625T113000Z
+DTEND:20260625T130500Z
+SUMMARY:Sck (E)
+LOCATION:120 65 121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260626T075000Z
+DTEND:20260626T092500Z
+SUMMARY:IO (E)
+LOCATION:313 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260626T094000Z
+DTEND:20260626T111500Z
+SUMMARY:IO (E)
+LOCATION:313 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260914T060000Z
 DTEND:20260914T073500Z
 SUMMARY:Sck (Inne)
 LOCATION:125 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260915T060000Z
+DTEND:20260915T073500Z
+SUMMARY:IK (Inne)
+LOCATION:316 S
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260916T075000Z
+DTEND:20260916T092500Z
+SUMMARY:Sck (Inne)
+LOCATION:120 65 121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/1\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260917T094000Z
+DTEND:20260917T111500Z
+SUMMARY:IO (Inne)
+LOCATION:316 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 END:VCALENDAR

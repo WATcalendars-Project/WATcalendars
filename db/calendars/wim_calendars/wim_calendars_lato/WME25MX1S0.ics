@@ -641,13 +641,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/30\nProwadzący: mgr Gulan Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250623T075000Z
-DTEND:20250623T092500Z
-SUMMARY:Mat3 (Zp. Ćw)
-LOCATION:54/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr Tomaszewska Justyna
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250707T075000Z
 DTEND:20250707T092500Z
 SUMMARY:Mas (Zp.)
@@ -1486,6 +1479,13 @@ DTEND:20250610T153500Z
 SUMMARY:Gin (ć)
 LOCATION:30/ 54
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24/25\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250624T140000Z
+DTEND:20250624T153500Z
+SUMMARY:Mat3 (Zp. Ćw)
+LOCATION:54/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr Tomaszewska Justyna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T155000Z

@@ -2167,10 +2167,73 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260623T060000Z
+DTEND:20260623T073500Z
+SUMMARY:SoU (E)
+LOCATION:120 65 121 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260623T075000Z
+DTEND:20260623T092500Z
+SUMMARY:SoU (E)
+LOCATION:120 65 121 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260624T060000Z
+DTEND:20260624T073500Z
+SUMMARY:kdm (E)
+LOCATION:106 65
+DESCRIPTION:Kompresja danych multimedialnych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260626T075000Z
+DTEND:20260626T092500Z
+SUMMARY:Rou (E)
+LOCATION:316 S
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260629T075000Z
+DTEND:20260629T092500Z
+SUMMARY:PZS (E)
+LOCATION:125 65
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260928T075000Z
+DTEND:20260928T092500Z
+SUMMARY:Rou (Inne)
+LOCATION:307 S
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260929T060000Z
+DTEND:20260929T073500Z
+SUMMARY:SoU (Inne)
+LOCATION:120 65 121 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260929T075000Z
 DTEND:20260929T092500Z
 SUMMARY:Pap (Inne)
 LOCATION:011 65
 DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T060000Z
+DTEND:20260930T073500Z
+SUMMARY:kdm (Inne)
+LOCATION:106 65
+DESCRIPTION:Kompresja danych multimedialnych\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T094000Z
+DTEND:20260930T111500Z
+SUMMARY:PZS (Inne)
+LOCATION:125 65
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 END:VCALENDAR

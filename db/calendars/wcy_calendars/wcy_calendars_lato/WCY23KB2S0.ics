@@ -1621,20 +1621,6 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 24/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260526T075000Z
-DTEND:20260526T092500Z
-SUMMARY:BMU (L)
-LOCATION:237 S
-DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260526T094000Z
-DTEND:20260526T111500Z
-SUMMARY:BMU (L)
-LOCATION:237 S
-DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260526T113000Z
 DTEND:20260526T130500Z
 SUMMARY:Nsk (ć)
@@ -1703,6 +1689,20 @@ DTEND:20260529T111500Z
 SUMMARY:OPBMR (ć)
 LOCATION:2 55A
 DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T113000Z
+DTEND:20260529T130500Z
+SUMMARY:BMU (L)
+LOCATION:237 S
+DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T140000Z
+DTEND:20260529T153500Z
+SUMMARY:BMU (L)
+LOCATION:237 S
+DESCRIPTION:Bussines modeling in UML\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260530T075000Z
@@ -1976,5 +1976,40 @@ DTEND:20260620T092500Z
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260622T060000Z
+DTEND:20260622T073500Z
+SUMMARY:Tal (E)
+LOCATION:317 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260622T075000Z
+DTEND:20260622T092500Z
+SUMMARY:Tal (E)
+LOCATION:317 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260625T075000Z
+DTEND:20260625T092500Z
+SUMMARY:Ajf (E)
+LOCATION:19 36
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260928T075000Z
+DTEND:20260928T092500Z
+SUMMARY:Tal (Inne)
+LOCATION:314 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T075000Z
+DTEND:20260930T092500Z
+SUMMARY:Ajf (Inne)
+LOCATION:314 S
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 END:VCALENDAR

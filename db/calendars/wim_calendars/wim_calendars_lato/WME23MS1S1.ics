@@ -109,6 +109,13 @@ LOCATION:5/ 20
 DESCRIPTION:Motoryzacyjne skażenie środowiska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250615T060000Z
+DTEND:20250615T073500Z
+SUMMARY:Uep2 (ć)
+LOCATION:5/ 20
+DESCRIPTION:Urządzenia elektryczne pojazdów 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250629T060000Z
 DTEND:20250629T073500Z
 SUMMARY:Uep2 (z. popr. lab.)
@@ -711,6 +718,13 @@ LOCATION:3/ 23a; 4/ 23a; 14/ 23a
 DESCRIPTION:Urządzenia elektryczne pojazdów 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/6\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250616T075000Z
+DTEND:20250616T092500Z
+SUMMARY:Uep2 (L)
+LOCATION:
+DESCRIPTION:Urządzenia elektryczne pojazdów 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250623T075000Z
 DTEND:20250623T092500Z
 SUMMARY:Spm (Zp/lab.)
@@ -820,7 +834,14 @@ DTSTART:20250609T094000Z
 DTEND:20250609T111500Z
 SUMMARY:Uep2 (L)
 LOCATION:3/ 23a; 4/ 23a; 14/ 23a
-DESCRIPTION:Urządzenia elektryczne pojazdów 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/6\nProwadzący: dr inż. Sobczyk Zbigniew
+DESCRIPTION:Urządzenia elektryczne pojazdów 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Sobczyk Zbigniew
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T094000Z
+DTEND:20250616T111500Z
+SUMMARY:Uep2 (L)
+LOCATION:
+DESCRIPTION:Urządzenia elektryczne pojazdów 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T094000Z
@@ -849,13 +870,6 @@ DTEND:20250317T140500Z
 SUMMARY:Mrp 
 LOCATION:15/ 23a
 DESCRIPTION:Mrp\nRodzaj zajęć: -\nNumer zajęć: 23/26\nProwadzący: mgr inż. Gajda Olga
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250324T123000Z
-DTEND:20250324T140500Z
-SUMMARY:Uep2 (ć)
-LOCATION:5/ 20
-DESCRIPTION:Urządzenia elektryczne pojazdów 2\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T113000Z
@@ -953,7 +967,7 @@ DTSTART:20250512T140000Z
 DTEND:20250512T153500Z
 SUMMARY:Uep2 (L)
 LOCATION:3/ 23a; 4/ 23a; 14/ 23a
-DESCRIPTION:Urządzenia elektryczne pojazdów 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6\nProwadzący: dr inż. Sobczyk Zbigniew
+DESCRIPTION:Urządzenia elektryczne pojazdów 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T155000Z
@@ -967,7 +981,7 @@ DTSTART:20250512T155000Z
 DTEND:20250512T172500Z
 SUMMARY:Uep2 (L)
 LOCATION:3/ 23a; 4/ 23a; 14/ 23a
-DESCRIPTION:Urządzenia elektryczne pojazdów 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/6\nProwadzący: dr inż. Sobczyk Zbigniew
+DESCRIPTION:Urządzenia elektryczne pojazdów 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T174000Z
@@ -1341,13 +1355,6 @@ LOCATION:42/ 20
 DESCRIPTION:Silniki pojazdów mechanicznych\nRodzaj zajęć: Wykład\nNumer zajęć: 11/13\nProwadzący: dr hab. inż.(prof. ucz.) Dziubak Tadeusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T060000Z
-DTEND:20250430T073500Z
-SUMMARY:Uep2 (L)
-LOCATION:
-DESCRIPTION:Urządzenia elektryczne pojazdów 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/6
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250507T060000Z
 DTEND:20250507T073500Z
 SUMMARY:OiTNP (w)
@@ -1409,13 +1416,6 @@ DTEND:20250423T092500Z
 SUMMARY:Spm (ć)
 LOCATION:42/ 20
 DESCRIPTION:Silniki pojazdów mechanicznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250430T075000Z
-DTEND:20250430T092500Z
-SUMMARY:Uep2 (L)
-LOCATION:
-DESCRIPTION:Urządzenia elektryczne pojazdów 2\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T075000Z

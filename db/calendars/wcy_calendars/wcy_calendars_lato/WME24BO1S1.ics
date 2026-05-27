@@ -2146,20 +2146,6 @@ LOCATION:4 49
 DESCRIPTION:Plazma i promieniowanie jonizujące w obróbce powierzchni - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260528T094000Z
-DTEND:20260528T111500Z
-SUMMARY:PTer. (L)
-LOCATION:006 144
-DESCRIPTION:Podstawy termowizji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260528T113000Z
-DTEND:20260528T130500Z
-SUMMARY:PTer. (L)
-LOCATION:006 144
-DESCRIPTION:Podstawy termowizji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260529T060000Z
 DTEND:20260529T073500Z
 SUMMARY:- (Inne)
@@ -2251,18 +2237,25 @@ LOCATION:4 49
 DESCRIPTION:Plazma i promieniowanie jonizujące w obróbce powierzchni - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260602T094000Z
-DTEND:20260602T111500Z
-SUMMARY:PTer. (w)
-LOCATION:27 70
-DESCRIPTION:Podstawy termowizji - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260602T113000Z
 DTEND:20260602T130500Z
 SUMMARY:Wm (ć)
 LOCATION:8/ 62
 DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 10/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T140000Z
+DTEND:20260602T153500Z
+SUMMARY:PTer. (L)
+LOCATION:006 144
+DESCRIPTION:Podstawy termowizji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T155000Z
+DTEND:20260602T172500Z
+SUMMARY:PTer. (L)
+LOCATION:006 144
+DESCRIPTION:Podstawy termowizji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T075000Z
@@ -2410,6 +2403,13 @@ DTEND:20260608T172500Z
 SUMMARY:JoM (ć)
 LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T094000Z
+DTEND:20260609T111500Z
+SUMMARY:PTer. (w)
+LOCATION:4 41
+DESCRIPTION:Podstawy termowizji - (Wykład) -\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T113000Z
