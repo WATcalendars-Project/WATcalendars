@@ -1133,9 +1133,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T075000Z
 DTEND:20260527T092500Z
-SUMMARY:Lsn (ć)
+SUMMARY:Css (ć)
 LOCATION:136 36
-DESCRIPTION:Lotnicze systemy nawigacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: płk mgr inż. Hanc Damian
+DESCRIPTION:Cyfrowe systemy sterowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: płk mgr inż. Hanc Damian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T075000Z
@@ -1332,13 +1332,6 @@ DTEND:20260513T130500Z
 SUMMARY:Rup (ć)
 LOCATION:41 36
 DESCRIPTION:Radioelektroniczne urządzenia pokładowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Witczak Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260527T113000Z
-DTEND:20260527T130500Z
-SUMMARY:Css (ć)
-LOCATION:136 36
-DESCRIPTION:Cyfrowe systemy sterowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: płk mgr inż. Hanc Damian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T113000Z
@@ -1696,6 +1689,13 @@ DTEND:20260611T111500Z
 SUMMARY:Swb (L)
 LOCATION:130 36
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr inż. Rochala Zdzisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T094000Z
+DTEND:20260618T111500Z
+SUMMARY:Lsn (ć)
+LOCATION:19 63
+DESCRIPTION:Lotnicze systemy nawigacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: płk mgr inż. Hanc Damian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T123000Z

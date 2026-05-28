@@ -459,6 +459,20 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/31
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260623T060000Z
+DTEND:20260623T073500Z
+SUMMARY:AnF (E)
+LOCATION:1.10/16
+DESCRIPTION:Analiza finansowa\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Antczak Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260929T060000Z
+DTEND:20260929T073500Z
+SUMMARY:AnF (E)
+LOCATION:1.10/16
+DESCRIPTION:Analiza finansowa\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Antczak Joanna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T085000Z
 DTEND:20260303T102500Z
 SUMMARY:PESW (w)
@@ -1474,6 +1488,13 @@ LOCATION:0.6/16
 DESCRIPTION:Zabezpieczenie logistyczne w misjach poza granicami kraju\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: prof. dr hab. Pawlisiak Mieczysław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260625T075000Z
+DTEND:20260625T092500Z
+SUMMARY:ZLWwC (E)
+LOCATION:aula/135
+DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. Nagrabski Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T104000Z
 DTEND:20260305T121500Z
 SUMMARY:Ja (ć)
@@ -1661,6 +1682,13 @@ DTEND:20260409T153500Z
 SUMMARY:Ba (ć)
 LOCATION:5.21/135
 DESCRIPTION:Bankowość\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261001T140000Z
+DTEND:20261001T153500Z
+SUMMARY:ZLWwC (Ep)
+LOCATION:aula/135
+DESCRIPTION:Zabezpieczenie logistyczne wojsk w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T165000Z

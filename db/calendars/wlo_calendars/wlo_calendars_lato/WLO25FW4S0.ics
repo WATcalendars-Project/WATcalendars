@@ -151,6 +151,13 @@ LOCATION:5.21/135
 DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/4\nProwadzący: prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260629T094000Z
+DTEND:20260629T111500Z
+SUMMARY:Plog (E)
+LOCATION:aula/135
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof.dr hab. Mitkow Szymon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260420T113000Z
 DTEND:20260420T130500Z
 SUMMARY:Che (ć)
@@ -555,6 +562,13 @@ DTEND:20260616T111500Z
 SUMMARY:ZdSZ (S)
 LOCATION:0.21/16
 DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260707T094000Z
+DTEND:20260707T111500Z
+SUMMARY:Plog (Ep)
+LOCATION:0.19/135
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T123000Z
@@ -1197,7 +1211,7 @@ BEGIN:VEVENT
 DTSTART:20260617T155000Z
 DTEND:20260617T172500Z
 SUMMARY:BiEWTM (ć)
-LOCATION:1.9/16
+LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Budowa i eksploatacja wyposażenia technicznego magazynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT

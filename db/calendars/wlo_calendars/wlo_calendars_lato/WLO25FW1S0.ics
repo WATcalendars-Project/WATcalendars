@@ -116,6 +116,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/31\nProwadzący: ppłk mgr inż. Goławski Rafał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260629T094000Z
+DTEND:20260629T111500Z
+SUMMARY:Plog (E)
+LOCATION:aula/135
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof.dr hab. Mitkow Szymon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260427T113000Z
 DTEND:20260427T130500Z
 SUMMARY:Mas (ć)
@@ -564,6 +571,13 @@ LOCATION:0.28/135
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260707T094000Z
+DTEND:20260707T111500Z
+SUMMARY:Plog (Ep)
+LOCATION:0.19/135
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof.dr hab. Mitkow Szymon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T123000Z
 DTEND:20260303T140500Z
 SUMMARY:WF (ć)
@@ -938,7 +952,7 @@ BEGIN:VEVENT
 DTSTART:20260617T075000Z
 DTEND:20260617T092500Z
 SUMMARY:BiEWTM (ć)
-LOCATION:1.9/16
+LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Budowa i eksploatacja wyposażenia technicznego magazynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/6\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT

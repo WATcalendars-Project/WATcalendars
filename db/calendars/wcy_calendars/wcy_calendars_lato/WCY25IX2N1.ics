@@ -2153,10 +2153,31 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260919T060000Z
+DTEND:20260919T073500Z
+SUMMARY:WdP (Inne)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260919T075000Z
 DTEND:20260919T092500Z
 SUMMARY:ppk (Inne)
 LOCATION:317 S
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260920T060000Z
+DTEND:20260920T073500Z
+SUMMARY:Amt (Inne)
+LOCATION:317 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260920T075000Z
+DTEND:20260920T092500Z
+SUMMARY:Md2 (Inne)
+LOCATION:317 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Krzysztof Pszczoła
 END:VEVENT
 END:VCALENDAR

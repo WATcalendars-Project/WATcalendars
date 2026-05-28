@@ -81,6 +81,13 @@ LOCATION:1.16/16
 DESCRIPTION:Metodologia badań społecznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr hab. (prof. WAT) Świerszcz Katarzyna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260914T075000Z
+DTEND:20260914T092500Z
+SUMMARY:Kierowanie 
+LOCATION:4.17a/135
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 1/27\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260323T104000Z
 DTEND:20260323T121500Z
 SUMMARY:SRa (w)
@@ -113,7 +120,7 @@ DTSTART:20260525T094000Z
 DTEND:20260525T111500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:2.21/135
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 1/19\nProwadzący: dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 1/21\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T094000Z
@@ -197,7 +204,7 @@ DTSTART:20260331T060000Z
 DTEND:20260331T073500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 2/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 2/21\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T060000Z
@@ -205,6 +212,13 @@ DTEND:20260428T073500Z
 SUMMARY:Z.S.Bezp (w)
 LOCATION:1.10/16
 DESCRIPTION:Zarządzanie strategiczne bezpieczeństwem\nRodzaj zajęć: Wykład\nNumer zajęć: 2/10\nProwadzący: dr Śmiałek Wiesław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260623T060000Z
+DTEND:20260623T073500Z
+SUMMARY:Kierowanie 
+LOCATION:0.19/135
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 2/27\nProwadzący: dr hab. inż. Nowacki Gabriel; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T085000Z
@@ -225,7 +239,7 @@ DTSTART:20260331T075000Z
 DTEND:20260331T092500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 3/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 3/21\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T075000Z
@@ -281,7 +295,7 @@ DTSTART:20260324T104000Z
 DTEND:20260324T121500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 4/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 4/21\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T094000Z
@@ -295,7 +309,7 @@ DTSTART:20260428T094000Z
 DTEND:20260428T111500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:31/158
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 5/19\nProwadzący: dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 5/21\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T094000Z
@@ -596,14 +610,14 @@ DTSTART:20260422T060000Z
 DTEND:20260422T073500Z
 SUMMARY:Kierowanie 
 LOCATION:2.21/135
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 1/25\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 3/27\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T060000Z
 DTEND:20260429T073500Z
 SUMMARY:Kierowanie 
 LOCATION:1.9/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 2/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 4/27\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T060000Z
@@ -616,7 +630,7 @@ BEGIN:VEVENT
 DTSTART:20260617T060000Z
 DTEND:20260617T073500Z
 SUMMARY:Z.S.Bezp (w)
-LOCATION:1.10/16
+LOCATION:1.10/16; 1.9/16
 DESCRIPTION:Zarządzanie strategiczne bezpieczeństwem\nRodzaj zajęć: Wykład\nNumer zajęć: 6/10\nProwadzący: dr Śmiałek Wiesław
 END:VEVENT
 BEGIN:VEVENT
@@ -624,14 +638,14 @@ DTSTART:20260318T085000Z
 DTEND:20260318T102500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 6/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 6/21\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T085000Z
 DTEND:20260325T102500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:0.7/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 7/19\nProwadzący: dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 7/21\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T075000Z
@@ -652,14 +666,14 @@ DTSTART:20260429T075000Z
 DTEND:20260429T092500Z
 SUMMARY:Kierowanie 
 LOCATION:1.9/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 3/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 5/27\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T075000Z
 DTEND:20260513T092500Z
 SUMMARY:Kierowanie 
 LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 4/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 6/27\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T075000Z
@@ -687,7 +701,7 @@ DTSTART:20260610T075000Z
 DTEND:20260610T092500Z
 SUMMARY:Kierowanie 
 LOCATION:5.21/135
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 5/25\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 7/27\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T075000Z
@@ -697,18 +711,25 @@ LOCATION:3.16/135
 DESCRIPTION:Struktura, Polityka i Strategia NATO\nRodzaj zajęć: Wykład\nNumer zajęć: 1/13\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260916T075000Z
+DTEND:20260916T092500Z
+SUMMARY:Bezpieczeństwo 
+LOCATION:4.23/135
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 8/21\nProwadzący: dr Moch Natalia
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260318T104000Z
 DTEND:20260318T121500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 8/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 9/21\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T104000Z
 DTEND:20260325T121500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:0.7/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 9/19\nProwadzący: dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 10/21\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T094000Z
@@ -722,7 +743,7 @@ DTSTART:20260408T094000Z
 DTEND:20260408T111500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 10/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 11/21\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T094000Z
@@ -743,28 +764,28 @@ DTSTART:20260429T094000Z
 DTEND:20260429T111500Z
 SUMMARY:Kierowanie 
 LOCATION:1.17/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 6/25\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 8/27\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T094000Z
 DTEND:20260506T111500Z
 SUMMARY:Kierowanie 
 LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 7/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 9/27\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
 SUMMARY:Kierowanie 
 LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 8/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 10/27\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T094000Z
 DTEND:20260520T111500Z
 SUMMARY:Kierowanie 
 LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 9/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 11/27\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T094000Z
@@ -778,14 +799,14 @@ DTSTART:20260603T094000Z
 DTEND:20260603T111500Z
 SUMMARY:Kierowanie 
 LOCATION:1.17/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 10/25\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 12/27\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T094000Z
 DTEND:20260610T111500Z
 SUMMARY:Kierowanie 
 LOCATION:5.21/135
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 11/25\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 13/27\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T094000Z
@@ -820,7 +841,7 @@ DTSTART:20260408T113000Z
 DTEND:20260408T130500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 11/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 12/21\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T113000Z
@@ -841,7 +862,7 @@ DTSTART:20260506T113000Z
 DTEND:20260506T130500Z
 SUMMARY:Kierowanie 
 LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 12/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 14/27\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T113000Z
@@ -855,35 +876,35 @@ DTSTART:20260520T113000Z
 DTEND:20260520T130500Z
 SUMMARY:Kierowanie 
 LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 13/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 15/27\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T113000Z
 DTEND:20260527T130500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:A.1.3/135
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 12/19\nProwadzący: dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 13/21\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T113000Z
 DTEND:20260603T130500Z
 SUMMARY:Kierowanie 
 LOCATION:1.17/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 14/25\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 16/27\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T113000Z
 DTEND:20260610T130500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:5.21/135
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 13/19\nProwadzący: dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 14/21\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T113000Z
 DTEND:20260617T130500Z
 SUMMARY:Kierowanie 
-LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 15/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+LOCATION:1.10/16; 1.9/16
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 17/27\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T150000Z
@@ -939,7 +960,7 @@ DTSTART:20260513T140000Z
 DTEND:20260513T153500Z
 SUMMARY:Kierowanie 
 LOCATION:1.17/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 16/25\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 18/27\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T140000Z
@@ -953,28 +974,28 @@ DTSTART:20260610T140000Z
 DTEND:20260610T153500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:5.21/135
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 14/19\nProwadzący: dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 15/21\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T140000Z
 DTEND:20260617T153500Z
 SUMMARY:Kierowanie 
 LOCATION:31/158
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 17/25\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 19/27\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T165000Z
 DTEND:20260311T182500Z
 SUMMARY:Kierowanie 
 LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 18/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 20/27\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T165000Z
 DTEND:20260318T182500Z
 SUMMARY:Kierowanie 
 LOCATION:0.19/135
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 19/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 21/27\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T165000Z
@@ -1016,7 +1037,7 @@ DTSTART:20260513T155000Z
 DTEND:20260513T172500Z
 SUMMARY:Kierowanie 
 LOCATION:1.17/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 20/25\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 22/27\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T155000Z
@@ -1030,35 +1051,35 @@ DTSTART:20260617T155000Z
 DTEND:20260617T172500Z
 SUMMARY:Kierowanie 
 LOCATION:31/158
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 21/25\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 23/27\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T184000Z
 DTEND:20260311T201500Z
 SUMMARY:Kierowanie 
 LOCATION:1.10/16
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 22/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 24/27\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T184000Z
 DTEND:20260318T201500Z
 SUMMARY:Kierowanie 
 LOCATION:0.19/135
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 23/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 25/27\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T184000Z
 DTEND:20260325T201500Z
 SUMMARY:Kierowanie 
 LOCATION:5.17/135
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 24/25\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 26/27\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T174000Z
 DTEND:20260408T191500Z
 SUMMARY:Kierowanie 
 LOCATION:5.17/135
-DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 25/25\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
+DESCRIPTION:Kierowanie\nRodzaj zajęć: -\nNumer zajęć: 27/27\nProwadzący: dr inż. Staruch Marcin; dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T174000Z
@@ -1156,7 +1177,7 @@ DTSTART:20260618T075000Z
 DTEND:20260618T092500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:31/158
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 15/19\nProwadzący: dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 16/21\nProwadzący: dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T104000Z
@@ -1205,7 +1226,7 @@ DTSTART:20260507T094000Z
 DTEND:20260507T111500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:0.19/135
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 16/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 17/21\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T094000Z
@@ -1233,7 +1254,14 @@ DTSTART:20260618T094000Z
 DTEND:20260618T111500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:31/158
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 17/19\nProwadzący: dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 18/21\nProwadzący: dr Moch Natalia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260625T094000Z
+DTEND:20260625T111500Z
+SUMMARY:PDyplo (E)
+LOCATION:1.10/16
+DESCRIPTION:Protokół dyplomatyczny\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T123000Z
@@ -1390,6 +1418,13 @@ LOCATION:3.16/135
 DESCRIPTION:Polityka\nRodzaj zajęć: -\nNumer zajęć: 22/25\nProwadzący: dr Moch Natalia; dr Krawczyk Mateusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260626T060000Z
+DTEND:20260626T073500Z
+SUMMARY:Bezpieczeństwo 
+LOCATION:0.24/135
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 19/21\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260313T085000Z
 DTEND:20260313T102500Z
 SUMMARY:Polityka 
@@ -1416,6 +1451,13 @@ DTEND:20260515T092500Z
 SUMMARY:Z.S.Bezp (ć)
 LOCATION:1.17/16
 DESCRIPTION:Zarządzanie strategiczne bezpieczeństwem\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: dr Śmiałek Wiesław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260918T075000Z
+DTEND:20260918T092500Z
+SUMMARY:PDyplo (Ep)
+LOCATION:4.17b/135
+DESCRIPTION:Protokół dyplomatyczny\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Kostrzewa-Zorbas Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T104000Z
@@ -1478,7 +1520,7 @@ DTSTART:20260410T113000Z
 DTEND:20260410T130500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 18/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 20/21\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T113000Z
@@ -1513,7 +1555,7 @@ DTSTART:20260410T140000Z
 DTEND:20260410T153500Z
 SUMMARY:Bezpieczeństwo 
 LOCATION:1.10/16
-DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 19/19\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
+DESCRIPTION:Bezpieczeństwo\nRodzaj zajęć: -\nNumer zajęć: 21/21\nProwadzący: dr Krawczyk Mateusz; dr Moch Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T140000Z

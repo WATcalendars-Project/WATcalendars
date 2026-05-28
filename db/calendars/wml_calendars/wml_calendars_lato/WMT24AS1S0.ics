@@ -427,7 +427,7 @@ BEGIN:VEVENT
 DTSTART:20260608T140000Z
 DTEND:20260608T153500Z
 SUMMARY:PA (L)
-LOCATION:16 63
+LOCATION:47 63
 DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Panasiuk Jarosław
 END:VEVENT
 BEGIN:VEVENT
@@ -583,13 +583,6 @@ DTEND:20260609T092500Z
 SUMMARY:EiE2 (ć)
 LOCATION:5  63A
 DESCRIPTION:Elektrotechnika i elektronika II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Walenczykowska Marta
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260616T075000Z
-DTEND:20260616T092500Z
-SUMMARY:PA (L)
-LOCATION:47 63
-DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Daniel Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T104000Z
@@ -1248,6 +1241,13 @@ DTEND:20260429T153500Z
 SUMMARY:PKM (ć)
 LOCATION:28 69
 DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: płk dr inż. Zahor Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T140000Z
+DTEND:20260603T153500Z
+SUMMARY:PA (L)
+LOCATION:16 63
+DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż. Daniel Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T140000Z
