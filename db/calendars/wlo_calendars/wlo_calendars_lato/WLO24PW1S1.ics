@@ -4,6 +4,20 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO24PW1S1
 BEGIN:VEVENT
+DTSTART:20260622T060000Z
+DTEND:20260622T073500Z
+SUMMARY:LogWSysObiBezpP (E)
+LOCATION:1.10/16
+DESCRIPTION:Logistyka w systemie obronności i bezpieczeństwie państwa\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260914T060000Z
+DTEND:20260914T073500Z
+SUMMARY:LogWSysObiBezpP (Ep)
+LOCATION:4.17a/135
+DESCRIPTION:Logistyka w systemie obronności i bezpieczeństwie państwa\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260504T075000Z
 DTEND:20260504T092500Z
 SUMMARY:LogWSysObiBezpP (ć)
@@ -240,6 +254,13 @@ DTEND:20260602T092500Z
 SUMMARY:wt (ć)
 LOCATION:1/22
 DESCRIPTION:Współczesny terroryzm\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: prof. dr hab. inż. Szczurek Tadeusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260915T075000Z
+DTEND:20260915T092500Z
+SUMMARY:TiPMed (Ep)
+LOCATION:4.17b/135
+DESCRIPTION:Teorie i podstawy medioznastwa\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T094000Z
@@ -520,6 +541,13 @@ DTEND:20260610T073500Z
 SUMMARY:KPP (ć)
 LOCATION:0.6/16
 DESCRIPTION:Kontrola przestrzeni powietrznej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Marciniak Mirosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260624T060000Z
+DTEND:20260624T073500Z
+SUMMARY:TiPMed (E)
+LOCATION:0.8/16
+DESCRIPTION:Teorie i podstawy medioznastwa\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Marciniak Mirosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T075000Z

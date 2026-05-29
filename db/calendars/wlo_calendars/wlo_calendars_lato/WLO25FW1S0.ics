@@ -116,13 +116,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/31\nProwadzący: ppłk mgr inż. Goławski Rafał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260629T094000Z
-DTEND:20260629T111500Z
-SUMMARY:Plog (E)
-LOCATION:aula/135
-DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof.dr hab. Mitkow Szymon
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260427T113000Z
 DTEND:20260427T130500Z
 SUMMARY:Mas (ć)
@@ -569,6 +562,13 @@ DTEND:20260616T111500Z
 SUMMARY:F1 (ć)
 LOCATION:0.28/135
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260630T094000Z
+DTEND:20260630T111500Z
+SUMMARY:Plog (E)
+LOCATION:aula/135
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260707T094000Z

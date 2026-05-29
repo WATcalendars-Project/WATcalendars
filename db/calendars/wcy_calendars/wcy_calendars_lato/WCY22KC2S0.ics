@@ -6451,6 +6451,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 89/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260611T155000Z
+DTEND:20260611T172500Z
+SUMMARY:Ztel (L)
+LOCATION:121 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/15\nProwadzący: Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260612T075000Z
 DTEND:20260612T092500Z
 SUMMARY:DWiPD (ć)
@@ -6535,20 +6542,6 @@ LOCATION:09 65
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNumer zajęć: 7/7\nProwadzący: mgr inż. Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260616T140000Z
-DTEND:20260616T153500Z
-SUMMARY:Ztel (L)
-LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/15\nProwadzący: Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260616T155000Z
-DTEND:20260616T172500Z
-SUMMARY:Ztel (L)
-LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/15\nProwadzący: Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260617T075000Z
 DTEND:20260617T092500Z
 SUMMARY:MPH (w)
@@ -6588,18 +6581,25 @@ DTSTART:20260619T094000Z
 DTEND:20260619T111500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/15\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T113000Z
 DTEND:20260619T130500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/15\nProwadzący: Szymon Chmielewski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/15\nProwadzący: Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T140000Z
 DTEND:20260619T153500Z
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/15\nProwadzący: Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T155000Z
+DTEND:20260619T172500Z
 SUMMARY:Ztel (L)
 LOCATION:120 65
 DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/15\nProwadzący: Szymon Chmielewski

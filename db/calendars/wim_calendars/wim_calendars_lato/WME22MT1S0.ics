@@ -1089,13 +1089,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/30\nProwadzący: mgr Olszewski Radosław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250602T075000Z
-DTEND:20250602T092500Z
-SUMMARY:Eśt. (ć)
-LOCATION:5/ 20
-DESCRIPTION:Eksploatacja środków transportu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/13\nProwadzący: dr inż. Koliński Kazimierz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250609T075000Z
 DTEND:20250609T092500Z
 SUMMARY:Eśt. (w)
@@ -1233,7 +1226,7 @@ DTSTART:20250505T094000Z
 DTEND:20250505T111500Z
 SUMMARY:Eśt. (ć)
 LOCATION:5/ 20
-DESCRIPTION:Eksploatacja środków transportu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/13\nProwadzący: dr inż. Koliński Kazimierz
+DESCRIPTION:Eksploatacja środków transportu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/13\nProwadzący: dr inż. Koliński Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T094000Z
@@ -1252,8 +1245,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T094000Z
 DTEND:20250602T111500Z
+SUMMARY:Eśt. (ć)
+LOCATION:5/ 20
+DESCRIPTION:Eksploatacja środków transportu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/13\nProwadzący: dr inż. Koliński Kazimierz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T094000Z
+DTEND:20250609T111500Z
 SUMMARY:Gizw (ć)
-LOCATION:3/ 23a
+LOCATION:15/ 23a
 DESCRIPTION:Gospodarka i zaopatrywanie wojsk w MPS\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: mgr inż. Szpak Roman
 END:VEVENT
 BEGIN:VEVENT

@@ -510,9 +510,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T060000Z
 DTEND:20250915T073500Z
-SUMMARY:Zzk (Zp.)
+SUMMARY:Zzk (Ep)
 LOCATION:1/ 19
-DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
+DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T085000Z
@@ -1815,6 +1815,13 @@ DTEND:20250619T092500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 27/86
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250703T075000Z
+DTEND:20250703T092500Z
+SUMMARY:Zzk (E)
+LOCATION:6/ 23a
+DESCRIPTION:Zasady zachowania i kontroli jakości płynów eksploatacyjnych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Szczawiński Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T104000Z

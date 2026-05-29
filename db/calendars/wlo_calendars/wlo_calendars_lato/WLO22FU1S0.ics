@@ -109,18 +109,25 @@ LOCATION:128 K; 127 K; 125 K; 124 K; 122 K; 121 K; 120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/30
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260622T060000Z
+DTEND:20260622T073500Z
+SUMMARY:Adwl (E)
+LOCATION:aula/135
+DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260316T085000Z
 DTEND:20260316T102500Z
 SUMMARY:ZGMw (w)
 LOCATION:1.17/16
-DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135
+DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 1/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T085000Z
 DTEND:20260323T102500Z
 SUMMARY:ZGMw (w)
 LOCATION:1.17/16
-DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135
+DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 2/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T075000Z
@@ -183,14 +190,14 @@ DTSTART:20260316T104000Z
 DTEND:20260316T121500Z
 SUMMARY:ZGMw (w)
 LOCATION:1.17/16
-DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135
+DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 3/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T104000Z
 DTEND:20260323T121500Z
 SUMMARY:ZGMw (w)
 LOCATION:1.17/16
-DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135
+DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 4/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T094000Z
@@ -624,7 +631,7 @@ DTSTART:20260324T123000Z
 DTEND:20260324T140500Z
 SUMMARY:ZGMw (ć)
 LOCATION:1.17/16
-DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135
+DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T113000Z
@@ -991,6 +998,13 @@ LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: mjr dr inż. Fliszkiewicz Bartłomiej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260930T060000Z
+DTEND:20260930T073500Z
+SUMMARY:Adwl (Ep)
+LOCATION:aula/135
+DESCRIPTION:Analiza danych w logistyce\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T085000Z
 DTEND:20260304T102500Z
 SUMMARY:ZGMp (w)
@@ -1080,6 +1094,20 @@ DTEND:20260617T092500Z
 SUMMARY:Zfpl (S)
 LOCATION:0.7/16
 DESCRIPTION:Zjawiska fizyczne w procesach logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: mgr inż. Michałowski Bogusław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260624T075000Z
+DTEND:20260624T092500Z
+SUMMARY:ZGMp (E)
+LOCATION:0.8/16
+DESCRIPTION:Zasady gospodarki mundurowej w czasie pokoju\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T075000Z
+DTEND:20260930T092500Z
+SUMMARY:ZGMp (Ep)
+LOCATION:0.8/16
+DESCRIPTION:Zasady gospodarki mundurowej w czasie pokoju\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T104000Z
@@ -1212,7 +1240,7 @@ DTSTART:20260401T113000Z
 DTEND:20260401T130500Z
 SUMMARY:ZGMw (ć)
 LOCATION:1.17/16
-DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135
+DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T113000Z
@@ -1387,14 +1415,14 @@ DTSTART:20260319T070000Z
 DTEND:20260319T083500Z
 SUMMARY:ZGMw (w)
 LOCATION:1.17/16
-DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135
+DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T070000Z
 DTEND:20260326T083500Z
 SUMMARY:ZGMw (w)
 LOCATION:1.17/16
-DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135
+DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 6/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T060000Z
@@ -1408,7 +1436,7 @@ DTSTART:20260409T060000Z
 DTEND:20260409T073500Z
 SUMMARY:ZGMw (S)
 LOCATION:1.17/16
-DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135
+DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T060000Z
@@ -1457,21 +1485,21 @@ DTSTART:20260319T085000Z
 DTEND:20260319T102500Z
 SUMMARY:ZGMw (w)
 LOCATION:1.17/16
-DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135
+DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 7/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T085000Z
 DTEND:20260326T102500Z
 SUMMARY:ZGMw (w)
 LOCATION:1.17/16
-DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135
+DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T075000Z
 DTEND:20260402T092500Z
 SUMMARY:ZGMw (ć)
 LOCATION:1.17/16
-DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135
+DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T075000Z
@@ -1527,7 +1555,7 @@ DTSTART:20260402T094000Z
 DTEND:20260402T111500Z
 SUMMARY:ZGMw (ć)
 LOCATION:0.22/16
-DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135
+DESCRIPTION:Zasady gospodarki mundurowej w czasie wojny\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T094000Z

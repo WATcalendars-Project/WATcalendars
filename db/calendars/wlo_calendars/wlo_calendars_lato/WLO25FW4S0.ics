@@ -102,11 +102,18 @@ LOCATION:0.7/16
 DESCRIPTION:Budowa i eksploatacja wyposażenia technicznego magazynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr inż. Sieczka Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260615T075000Z
+DTEND:20260615T092500Z
+SUMMARY:Mat3 (ć)
+LOCATION:
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Jastrzębska Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260330T094000Z
 DTEND:20260330T111500Z
 SUMMARY:Mat3 (ć)
 LOCATION:0.28/135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Jastrzębska Małgorzata
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Jastrzębska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T094000Z
@@ -137,25 +144,11 @@ LOCATION:2pl/29kp; 25MX; 3S; 25FW; 4S; 0 Szw; 2 T
 DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260601T094000Z
-DTEND:20260601T111500Z
-SUMMARY:Mat3 (ć)
-LOCATION:
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr Jastrzębska Małgorzata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260615T094000Z
 DTEND:20260615T111500Z
 SUMMARY:Plog (S)
 LOCATION:5.21/135
 DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/4\nProwadzący: prof.dr hab. Mitkow Szymon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260629T094000Z
-DTEND:20260629T111500Z
-SUMMARY:Plog (E)
-LOCATION:aula/135
-DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T113000Z
@@ -562,6 +555,13 @@ DTEND:20260616T111500Z
 SUMMARY:ZdSZ (S)
 LOCATION:0.21/16
 DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260630T094000Z
+DTEND:20260630T111500Z
+SUMMARY:Plog (E)
+LOCATION:aula/135
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260707T094000Z
@@ -2072,7 +2072,7 @@ BEGIN:VEVENT
 DTSTART:20260529T094000Z
 DTEND:20260529T111500Z
 SUMMARY:F1 (ć)
-LOCATION:0.19/135
+LOCATION:
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 13/15\nProwadzący: dr inż. Walewska Aleksandra
 END:VEVENT
 BEGIN:VEVENT
@@ -2282,8 +2282,8 @@ BEGIN:VEVENT
 DTSTART:20260516T060000Z
 DTEND:20260516T073500Z
 SUMMARY:SzS (ć)
-LOCATION:4PL/20KP; 2pl/29kp; 25IX; 3S; 25IX; 4S; 25MX; 3S; 25FW; 4S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; płk dr Niemirka Sławomir; kpt. mgr Ślusakowicz Stanisław
+LOCATION:2pl/29kp; 25MX; 3S; 25FW; 4S; 0 ST
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; ppłk dr Waszkiewicz Grzegorz; kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T075000Z
@@ -2310,8 +2310,8 @@ BEGIN:VEVENT
 DTSTART:20260516T075000Z
 DTEND:20260516T092500Z
 SUMMARY:SzS (ć)
-LOCATION:4PL/20KP; 2pl/29kp; 25IX; 3S; 25IX; 4S; 25MX; 3S; 25FW; 4S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; płk dr Niemirka Sławomir; kpt. mgr Ślusakowicz Stanisław
+LOCATION:2pl/29kp; 25MX; 3S; 25FW; 4S; 0 ST
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; ppłk dr Waszkiewicz Grzegorz; kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T094000Z

@@ -4,6 +4,20 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WLO24PL1S1
 BEGIN:VEVENT
+DTSTART:20260622T060000Z
+DTEND:20260622T073500Z
+SUMMARY:LogWSysObiBezpP (E)
+LOCATION:1.10/16
+DESCRIPTION:Logistyka w systemie obronności i bezpieczeństwie państwa\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260914T060000Z
+DTEND:20260914T073500Z
+SUMMARY:LogWSysObiBezpP (Ep)
+LOCATION:4.17a/135
+DESCRIPTION:Logistyka w systemie obronności i bezpieczeństwie państwa\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260615T075000Z
 DTEND:20260615T092500Z
 SUMMARY:MGwSK (ć)
@@ -578,6 +592,13 @@ LOCATION:0.8/16
 DESCRIPTION:Metodyka Pracy Dyplomowej\nRodzaj zajęć: Wykład\nNumer zajęć: 4/7\nProwadzący: dr hab. Filipek Agnieszka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260610T060000Z
+DTEND:20260610T073500Z
+SUMMARY:MPD (ć)
+LOCATION:3.16/135
+DESCRIPTION:Metodyka Pracy Dyplomowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. Filipek Agnieszka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260408T075000Z
 DTEND:20260408T092500Z
 SUMMARY:LogWSysObiBezpP (w)
@@ -646,13 +667,6 @@ DTEND:20260513T130500Z
 SUMMARY:MZO (w)
 LOCATION:0.8/16
 DESCRIPTION:Militarne zasoby obronne\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260603T113000Z
-DTEND:20260603T130500Z
-SUMMARY:MPD (ć)
-LOCATION:1.27/135
-DESCRIPTION:Metodyka Pracy Dyplomowej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr hab. Filipek Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T140000Z
@@ -947,6 +961,20 @@ DTEND:20260410T092500Z
 SUMMARY:MZO (ć)
 LOCATION:26/158
 DESCRIPTION:Militarne zasoby obronne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260626T075000Z
+DTEND:20260626T092500Z
+SUMMARY:MGwSK (E)
+LOCATION:1.9/16
+DESCRIPTION:Mobilizacja gospodarki w sytuacjach kryzysu i wojny\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr Chyrzyński Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260918T075000Z
+DTEND:20260918T092500Z
+SUMMARY:MGwSK (Ep)
+LOCATION:4.17a/135
+DESCRIPTION:Mobilizacja gospodarki w sytuacjach kryzysu i wojny\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr Chyrzyński Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T104000Z
