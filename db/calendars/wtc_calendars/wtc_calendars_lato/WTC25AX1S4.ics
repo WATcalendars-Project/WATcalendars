@@ -364,15 +364,15 @@ BEGIN:VEVENT
 DTSTART:20260608T113000Z
 DTEND:20260608T130500Z
 SUMMARY:Spe (L)
-LOCATION:10 24
-DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/14
+LOCATION:2 5;113 14
+DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/15\nProwadzący: mgr inż. Mieczkowska Agnieszka; dr Bombalska Aneta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T113000Z
 DTEND:20260615T130500Z
 SUMMARY:Spe (L)
 LOCATION:10 24;bud. 71
-DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/14\nProwadzący: mgr inż. Mieczkowska Agnieszka; dr Bombalska Aneta
+DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/15\nProwadzący: mgr inż. Mieczkowska Agnieszka; dr Bombalska Aneta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260622T113000Z
@@ -473,11 +473,18 @@ LOCATION:166 S
 DESCRIPTION:Ekonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 5/8\nProwadzący: dr hab. Panek Joanna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260608T140000Z
+DTEND:20260608T153500Z
+SUMMARY:Spe (L)
+LOCATION:2 5;113 14
+DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/15\nProwadzący: mgr inż. Mieczkowska Agnieszka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260615T140000Z
 DTEND:20260615T153500Z
 SUMMARY:Spe (L)
 LOCATION:10 24;bud. 136
-DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/14\nProwadzący: mgr inż. Mieczkowska Agnieszka; dr Bombalska Aneta
+DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/15\nProwadzący: mgr inż. Mieczkowska Agnieszka; dr Bombalska Aneta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T165000Z
@@ -736,7 +743,7 @@ DTSTART:20260602T094000Z
 DTEND:20260602T111500Z
 SUMMARY:Spe (L)
 LOCATION:10 24
-DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/14
+DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/15\nProwadzący: dr Bombalska Aneta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T094000Z
@@ -1037,14 +1044,14 @@ DTSTART:20260513T094000Z
 DTEND:20260513T111500Z
 SUMMARY:Spe (L)
 LOCATION:113 14;111 14
-DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/14\nProwadzący: dr hab. Kuśmierek Krzysztof; dr Bombalska Aneta
+DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/15\nProwadzący: dr hab. Kuśmierek Krzysztof; dr Bombalska Aneta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T094000Z
 DTEND:20260520T111500Z
 SUMMARY:Spe (L)
 LOCATION:113 14;111 14
-DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/14\nProwadzący: dr hab. Kuśmierek Krzysztof; dr Bombalska Aneta
+DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/15\nProwadzący: dr hab. Kuśmierek Krzysztof; dr Bombalska Aneta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T094000Z
@@ -1121,14 +1128,14 @@ DTSTART:20260513T113000Z
 DTEND:20260513T130500Z
 SUMMARY:Spe (L)
 LOCATION:113 14;111 14
-DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/14\nProwadzący: dr hab. Kuśmierek Krzysztof; dr Bombalska Aneta
+DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/15\nProwadzący: dr hab. Kuśmierek Krzysztof; dr Bombalska Aneta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T113000Z
 DTEND:20260520T130500Z
 SUMMARY:Spe (L)
 LOCATION:113 14;111 14
-DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14\nProwadzący: dr hab. Kuśmierek Krzysztof; dr Bombalska Aneta
+DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/15\nProwadzący: dr hab. Kuśmierek Krzysztof; dr Bombalska Aneta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T113000Z
@@ -1583,21 +1590,21 @@ DTSTART:20260522T075000Z
 DTEND:20260522T092500Z
 SUMMARY:Spe (L)
 LOCATION:2 5;113 14
-DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/14\nProwadzący: dr hab .inż. Perkowski Paweł; mgr inż. Mieczkowska Agnieszka
+DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/15\nProwadzący: dr hab .inż. Perkowski Paweł; mgr inż. Mieczkowska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T075000Z
 DTEND:20260529T092500Z
 SUMMARY:Spe (L)
 LOCATION:10 24
-DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: mgr inż. Mieczkowska Agnieszka
+DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/15\nProwadzący: mgr inż. Mieczkowska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T075000Z
 DTEND:20260612T092500Z
 SUMMARY:Spe (L)
 LOCATION:2 5;113 14
-DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: dr hab .inż. Perkowski Paweł; mgr inż. Mieczkowska Agnieszka
+DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/15\nProwadzący: dr hab .inż. Perkowski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T104000Z
@@ -1618,21 +1625,21 @@ DTSTART:20260522T094000Z
 DTEND:20260522T111500Z
 SUMMARY:Spe (L)
 LOCATION:2 5;113 14
-DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: dr hab .inż. Perkowski Paweł; mgr inż. Mieczkowska Agnieszka
+DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/15\nProwadzący: dr hab .inż. Perkowski Paweł; mgr inż. Mieczkowska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T094000Z
 DTEND:20260529T111500Z
 SUMMARY:Spe (L)
 LOCATION:10 24
-DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14\nProwadzący: mgr inż. Mieczkowska Agnieszka
+DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/15\nProwadzący: mgr inż. Mieczkowska Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T094000Z
 DTEND:20260612T111500Z
 SUMMARY:Spe (L)
 LOCATION:2 5;113 14
-DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: dr hab .inż. Perkowski Paweł; mgr inż. Mieczkowska Agnieszka
+DESCRIPTION:Spektroskopia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/15\nProwadzący: dr hab .inż. Perkowski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T123000Z

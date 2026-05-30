@@ -5821,13 +5821,6 @@ LOCATION:236 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260610T060000Z
-DTEND:20260610T073500Z
-SUMMARY:Jtp (Inne)
-LOCATION:19 36
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr hab. Piotr Kosiuczenko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260610T075000Z
 DTEND:20260610T092500Z
 SUMMARY:MPH (w)
@@ -6001,6 +5994,13 @@ DTEND:20260624T130500Z
 SUMMARY:dsk (E)
 LOCATION:314 S
 DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260625T075000Z
+DTEND:20260625T092500Z
+SUMMARY:Ajf (E)
+LOCATION:19 36
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260928T094000Z

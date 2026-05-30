@@ -1180,13 +1180,6 @@ LOCATION:47 63
 DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Siwek Michał
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260611T060000Z
-DTEND:20260611T073500Z
-SUMMARY:WdM (ć)
-LOCATION:6 63 A
-DESCRIPTION:Wprowadzenie do mechatroniki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Bużantowicz Witold
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260618T060000Z
 DTEND:20260618T073500Z
 SUMMARY:Pcax (L)
@@ -1289,14 +1282,14 @@ DTSTART:20260402T094000Z
 DTEND:20260402T111500Z
 SUMMARY:Pcax (w)
 LOCATION:46 63
-DESCRIPTION:Podstawy Cax\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Cieplak Kamil
+DESCRIPTION:Podstawy Cax\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Sarzyński Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T094000Z
 DTEND:20260409T111500Z
 SUMMARY:Pcax (w)
 LOCATION:46 63
-DESCRIPTION:Podstawy Cax\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Cieplak Kamil
+DESCRIPTION:Podstawy Cax\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Sarzyński Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T094000Z
@@ -1325,6 +1318,13 @@ DTEND:20260521T111500Z
 SUMMARY:Ucm (w)
 LOCATION:46 63
 DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Pustkowski Remigiusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260625T094000Z
+DTEND:20260625T111500Z
+SUMMARY:Ucm (E)
+LOCATION:19 36
+DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: mgr inż. Pustkowski Remigiusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T123000Z
@@ -1483,6 +1483,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T075000Z
 DTEND:20260529T092500Z
+SUMMARY:WdM (ć)
+LOCATION:6 63 A
+DESCRIPTION:Wprowadzenie do mechatroniki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Bużantowicz Witold
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T075000Z
+DTEND:20260612T092500Z
 SUMMARY:WdM (ć)
 LOCATION:6 63 A
 DESCRIPTION:Wprowadzenie do mechatroniki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Bużantowicz Witold

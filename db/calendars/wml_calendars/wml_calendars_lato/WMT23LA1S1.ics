@@ -816,13 +816,6 @@ LOCATION:24 67
 DESCRIPTION:Lotnicze systemy nawigacyjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Brzozowski Bartosz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260610T113000Z
-DTEND:20260610T130500Z
-SUMMARY:Lsn (ć)
-LOCATION:24 67
-DESCRIPTION:Lotnicze systemy nawigacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: płk mgr inż. Hanc Damian
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260617T113000Z
 DTEND:20260617T130500Z
 SUMMARY:Psma (L)
@@ -1122,6 +1115,13 @@ DTEND:20260529T092500Z
 SUMMARY:Lsr (w)
 LOCATION:112 61
 DESCRIPTION:Lotnicze systemy radioelektroniczne\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Witczak Andrzej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T075000Z
+DTEND:20260612T092500Z
+SUMMARY:Lsn (ć)
+LOCATION:24 67
+DESCRIPTION:Lotnicze systemy nawigacyjne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: płk mgr inż. Hanc Damian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T104000Z

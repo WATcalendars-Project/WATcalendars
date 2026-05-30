@@ -1299,13 +1299,6 @@ LOCATION:31 36
 DESCRIPTION:Laboratorium informatyki i mechaniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Czyżewska Marta
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260603T140000Z
-DTEND:20260603T153500Z
-SUMMARY:EiE2 (L)
-LOCATION:323 S
-DESCRIPTION:Elektrotechnika i elektronika II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż. Jakubik Wojciech
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260325T165000Z
 DTEND:20260325T182500Z
 SUMMARY:Ja (ć)
@@ -1584,6 +1577,13 @@ DTEND:20260528T111500Z
 SUMMARY:PKM (w)
 LOCATION:46 63
 DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: prof.dr hab.inż. Gacek Józef
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T094000Z
+DTEND:20260611T111500Z
+SUMMARY:EiE2 (L)
+LOCATION:322 S
+DESCRIPTION:Elektrotechnika i elektronika II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Jakubik Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T123000Z
