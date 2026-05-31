@@ -165,6 +165,20 @@ LOCATION:166 S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: dr inż. Świłło Rafał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260711T075000Z
+DTEND:20260711T092500Z
+SUMMARY:Plog (E)
+LOCATION:aula/135
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof.dr hab. Mitkow Szymon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260912T075000Z
+DTEND:20260912T092500Z
+SUMMARY:Plog (Ep)
+LOCATION:aula/135
+DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof.dr hab. Mitkow Szymon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260228T104000Z
 DTEND:20260228T121500Z
 SUMMARY:Plog (w)
@@ -310,6 +324,20 @@ DTEND:20260627T130500Z
 SUMMARY:Jo (ć)
 LOCATION:235 K; 237 K
 DESCRIPTION:Język obcy\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/15\nProwadzący: mgr Jaśkiewicz Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260704T113000Z
+DTEND:20260704T130500Z
+SUMMARY:F1 (E)
+LOCATION:
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Parka Janusz; dr inż. Świłło Rafał; dr inż. Walewska Aleksandra
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260912T113000Z
+DTEND:20260912T130500Z
+SUMMARY:F1 (Ep)
+LOCATION:
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Parka Janusz; dr inż. Świłło Rafał; dr inż. Walewska Aleksandra
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260228T150000Z
@@ -550,6 +578,13 @@ LOCATION:141 S; 139 S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/5\nProwadzący: dr inż. Świłło Rafał; dr inż. Kowiorski Krystian; prof. dr hab. inż. Parka Janusz; dr inż. Markowska Olga
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260712T075000Z
+DTEND:20260712T092500Z
+SUMMARY:Mat3 (E)
+LOCATION:aula/135
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Gdula Agnieszka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260301T104000Z
 DTEND:20260301T121500Z
 SUMMARY:BiEWTM (w)
@@ -611,6 +646,13 @@ DTEND:20260621T111500Z
 SUMMARY:F1 (ć)
 LOCATION:166 S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr inż. Świłło Rafał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260913T094000Z
+DTEND:20260913T111500Z
+SUMMARY:Mat3 (E)
+LOCATION:aula/135
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260301T123000Z
