@@ -221,6 +221,13 @@ LOCATION:8/ 62
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/15
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250622T075000Z
+DTEND:20250622T092500Z
+SUMMARY:Met (Zp. Ćw)
+LOCATION:2/ 23a
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250302T104000Z
 DTEND:20250302T121500Z
 SUMMARY:Plog (w)
@@ -1451,13 +1458,6 @@ DTEND:20250618T092500Z
 SUMMARY:Mat3 (L)
 LOCATION:
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/2\nProwadzący: dr Prusińska Agnieszka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250625T075000Z
-DTEND:20250625T092500Z
-SUMMARY:Met (Zp. Ćw)
-LOCATION:116/ 54
-DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Krasoń Wiesław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T075000Z

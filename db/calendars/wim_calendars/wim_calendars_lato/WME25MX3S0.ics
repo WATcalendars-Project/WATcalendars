@@ -323,7 +323,7 @@ DTSTART:20250302T150000Z
 DTEND:20250302T163500Z
 SUMMARY:ZLDT-1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250309T150000Z
@@ -442,7 +442,7 @@ DTSTART:20250303T070000Z
 DTEND:20250303T083500Z
 SUMMARY:PD (w)
 LOCATION:
-DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2
+DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: mjr mgr Zawadzki Filip
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T070000Z
@@ -840,7 +840,7 @@ BEGIN:VEVENT
 DTSTART:20250505T113000Z
 DTEND:20250505T130500Z
 SUMMARY:ZLDT-1 (w)
-LOCATION:aula/ 135
+LOCATION:aula/ 135 DN
 DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
@@ -854,7 +854,7 @@ BEGIN:VEVENT
 DTSTART:20250519T113000Z
 DTEND:20250519T130500Z
 SUMMARY:ZLDT-1 (w)
-LOCATION:aula/ 135
+LOCATION:aula/ 135 DN
 DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1\nRodzaj zajęć: Wykład\nNumer zajęć: 3/4\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
@@ -1093,7 +1093,7 @@ DTSTART:20250304T085000Z
 DTEND:20250304T102500Z
 SUMMARY:DSiSM (w)
 LOCATION:3/043
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Wykład\nNumer zajęć: 1/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T085000Z
@@ -1632,7 +1632,7 @@ DTSTART:20250430T075000Z
 DTEND:20250430T092500Z
 SUMMARY:ZLDT-1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr inż. Nagrabski Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T075000Z
@@ -1653,7 +1653,7 @@ DTSTART:20250521T075000Z
 DTEND:20250521T092500Z
 SUMMARY:RiAIP (ć)
 LOCATION:
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3
+DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: ppłk dr Waszkiewicz Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T075000Z
@@ -1674,7 +1674,7 @@ DTSTART:20250611T075000Z
 DTEND:20250611T092500Z
 SUMMARY:DSiSM (r)
 LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: (r)\nNumer zajęć: 1/1
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: (r)\nNumer zajęć: 1/1\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T075000Z
@@ -1737,7 +1737,7 @@ DTSTART:20250416T094000Z
 DTEND:20250416T111500Z
 SUMMARY:RiAIP (ć)
 LOCATION:
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
+DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: ppłk dr Waszkiewicz Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T094000Z
@@ -1799,8 +1799,8 @@ BEGIN:VEVENT
 DTSTART:20250312T123000Z
 DTEND:20250312T140500Z
 SUMMARY:PD (ć)
-LOCATION:3/038
-DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3
+LOCATION:3/038 DK
+DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: mjr mgr Zawadzki Filip
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T123000Z
@@ -1835,7 +1835,7 @@ DTSTART:20250416T113000Z
 DTEND:20250416T130500Z
 SUMMARY:RiAIP (ć)
 LOCATION:
-DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
+DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: ppłk dr Waszkiewicz Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T113000Z
@@ -1863,14 +1863,14 @@ DTSTART:20250514T113000Z
 DTEND:20250514T130500Z
 SUMMARY:DSiSM (ć)
 LOCATION:
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T113000Z
 DTEND:20250521T130500Z
 SUMMARY:PD (ć)
-LOCATION:3/043
-DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3
+LOCATION:3/043 DK
+DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: mjr mgr Zawadzki Filip
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T113000Z
@@ -1891,7 +1891,7 @@ DTSTART:20250611T113000Z
 DTEND:20250611T130500Z
 SUMMARY:PD (r)
 LOCATION:
-DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: (r)\nNumer zajęć: 1/1
+DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: (r)\nNumer zajęć: 1/1\nProwadzący: mjr mgr Zawadzki Filip
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T113000Z
@@ -1911,8 +1911,8 @@ BEGIN:VEVENT
 DTSTART:20250312T150000Z
 DTEND:20250312T163500Z
 SUMMARY:PD (ć)
-LOCATION:3/038
-DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3
+LOCATION:3/038 DK
+DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: mjr mgr Zawadzki Filip
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T150000Z
@@ -1940,7 +1940,7 @@ DTSTART:20250416T140000Z
 DTEND:20250416T153500Z
 SUMMARY:DSiSM (ć)
 LOCATION:3/043
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T140000Z
@@ -2185,7 +2185,7 @@ DTSTART:20250320T070000Z
 DTEND:20250320T083500Z
 SUMMARY:SŁiŚD (w)
 LOCATION:
-DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2
+DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: Wykład\nNumer zajęć: 2/2\nProwadzący: dr inż. Orżanowski Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T070000Z
@@ -2849,7 +2849,7 @@ BEGIN:VEVENT
 DTSTART:20250425T075000Z
 DTEND:20250425T092500Z
 SUMMARY:SzS (ć)
-LOCATION:
+LOCATION:9Ć/T
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10
 END:VEVENT
 BEGIN:VEVENT
