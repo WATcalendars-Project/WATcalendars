@@ -711,13 +711,6 @@ LOCATION:116/ 54
 DESCRIPTION:Podstawy logistyki międzynarodowej\nRodzaj zajęć: Wykład\nNumer zajęć: 3/9\nProwadzący: dr hab. inż.(prof. ucz.) Wysocki Józef
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250602T060000Z
-DTEND:20250602T073500Z
-SUMMARY:PPL (ć)
-LOCATION:6/ 23a
-DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250303T085000Z
 DTEND:20250303T102500Z
 SUMMARY:FiR (w)
@@ -811,9 +804,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T075000Z
 DTEND:20250602T092500Z
-SUMMARY:MrBr (ć)
+SUMMARY:PPL (ć)
 LOCATION:3/ 23a
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
+DESCRIPTION:Projektowanie procesów logistycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T075000Z
@@ -869,7 +862,7 @@ DTSTART:20250331T094000Z
 DTEND:20250331T111500Z
 SUMMARY:MrBr (ć)
 LOCATION:5/ 23a
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T094000Z
@@ -967,7 +960,7 @@ DTSTART:20250317T123000Z
 DTEND:20250317T140500Z
 SUMMARY:MrBr (ć)
 LOCATION:2/ 23a
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T123000Z
@@ -1163,7 +1156,7 @@ DTSTART:20250415T060000Z
 DTEND:20250415T073500Z
 SUMMARY:MrBr (ć)
 LOCATION:3/ 23a
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250422T060000Z
@@ -1520,7 +1513,7 @@ DTSTART:20250513T140000Z
 DTEND:20250513T153500Z
 SUMMARY:MrBr (ć)
 LOCATION:3/ 23a
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T140000Z
@@ -1646,7 +1639,7 @@ DTSTART:20250430T075000Z
 DTEND:20250430T092500Z
 SUMMARY:MrBr (ć)
 LOCATION:3/ 23a
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T075000Z
@@ -1871,6 +1864,13 @@ DTEND:20250604T130500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 18/49
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T113000Z
+DTEND:20250611T130500Z
+SUMMARY:MrBr (ć)
+LOCATION:6/ 23a
+DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T113000Z

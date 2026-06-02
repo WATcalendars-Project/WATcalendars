@@ -872,13 +872,6 @@ LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/21
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250602T060000Z
-DTEND:20250602T073500Z
-SUMMARY:OPW (ć)
-LOCATION:3/043
-DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: ppłk mgr Misiejuk Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250609T060000Z
 DTEND:20250609T073500Z
 SUMMARY:DSiSM (ć)
@@ -1115,6 +1108,13 @@ DTEND:20250602T111500Z
 SUMMARY:PD (ć)
 LOCATION:3/038 DK
 DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: ppłk rez. mgr inż. Koszałko Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T094000Z
+DTEND:20250609T111500Z
+SUMMARY:OPW (ć)
+LOCATION:3/038
+DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: ppłk mgr Misiejuk Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T094000Z

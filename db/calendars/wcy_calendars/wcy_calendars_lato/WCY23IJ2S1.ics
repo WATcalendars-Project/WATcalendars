@@ -2286,13 +2286,6 @@ LOCATION:233 S
 DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260616T075000Z
-DTEND:20260616T092500Z
-SUMMARY:Jtp (Inne)
-LOCATION:19 36
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. Piotr Kosiuczenko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260617T060000Z
 DTEND:20260617T073500Z
 SUMMARY:Muma (w)
@@ -2326,6 +2319,13 @@ DTEND:20260618T073500Z
 SUMMARY:SQL (w)
 LOCATION:314 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T075000Z
+DTEND:20260618T092500Z
+SUMMARY:Jtp (Inne)
+LOCATION:19 36
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T094000Z

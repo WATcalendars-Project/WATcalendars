@@ -897,6 +897,11 @@
     },
     {
       "degree": "dr hab.",
+      "is_new": true,
+      "name": "Natalia Moch [NEW]"
+    },
+    {
+      "degree": "dr hab.",
       "is_new": false,
       "name": "Noureddine Bennis"
     },
@@ -2179,6 +2184,11 @@
       "degree": "dr inż.",
       "is_new": false,
       "name": "Jarosław Sieczka"
+    },
+    {
+      "degree": "dr inż.",
+      "is_new": true,
+      "name": "Jarosław Stocki [NEW]"
     },
     {
       "degree": "dr inż.",
@@ -5822,10 +5832,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-01T04:23:20.530552",
-    "last_updated_readable": "2026-06-01 04:23:20",
-    "new_employees_count": 0,
+    "last_updated": "2026-06-02T04:17:21.264266",
+    "last_updated_readable": "2026-06-02 04:17:21",
+    "new_employees_count": 2,
     "scraper_version": "1.0",
-    "total_employees": 1164
+    "total_employees": 1166
   }
 }

@@ -5807,20 +5807,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 87/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260609T140000Z
-DTEND:20260609T153500Z
-SUMMARY:MeSK (L)
-LOCATION:236 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: mgr inż. Stanisław Skrzypecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260609T155000Z
-DTEND:20260609T172500Z
-SUMMARY:MeSK (L)
-LOCATION:236 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: mgr inż. Stanisław Skrzypecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260610T075000Z
 DTEND:20260610T092500Z
 SUMMARY:MPH (w)
@@ -5905,6 +5891,13 @@ LOCATION:09 65
 DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNumer zajęć: 8/8\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260616T075000Z
+DTEND:20260616T092500Z
+SUMMARY:MeSK (L)
+LOCATION:227 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14\nProwadzący: mgr inż. Stanisław Skrzypecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260616T094000Z
 DTEND:20260616T111500Z
 SUMMARY:Mn (L)
@@ -5923,14 +5916,14 @@ DTSTART:20260616T140000Z
 DTEND:20260616T153500Z
 SUMMARY:MeSK (L)
 LOCATION:224 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14\nProwadzący: mgr inż. Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T155000Z
 DTEND:20260616T172500Z
 SUMMARY:MeSK (L)
 LOCATION:224 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: mgr inż. Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T094000Z
@@ -5952,6 +5945,13 @@ DTEND:20260617T153500Z
 SUMMARY:Esi (ć)
 LOCATION:316 S
 DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/6\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T060000Z
+DTEND:20260619T073500Z
+SUMMARY:MeSK (L)
+LOCATION:223 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T094000Z
@@ -5982,6 +5982,13 @@ LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260623T094000Z
+DTEND:20260623T111500Z
+SUMMARY:Ajf (E)
+LOCATION:19 36
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260624T094000Z
 DTEND:20260624T111500Z
 SUMMARY:dsk (E)
@@ -5994,13 +6001,6 @@ DTEND:20260624T130500Z
 SUMMARY:dsk (E)
 LOCATION:314 S
 DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260625T075000Z
-DTEND:20260625T092500Z
-SUMMARY:Ajf (E)
-LOCATION:19 36
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260928T094000Z

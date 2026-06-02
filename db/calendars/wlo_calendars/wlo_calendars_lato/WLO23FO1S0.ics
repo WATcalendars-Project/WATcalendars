@@ -410,6 +410,13 @@ LOCATION:5pl/24kp; 23FO; 1S; 0 MKu
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/31
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260630T060000Z
+DTEND:20260630T073500Z
+SUMMARY:Mps. (E)
+LOCATION:3.16/135
+DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T085000Z
 DTEND:20260303T102500Z
 SUMMARY:PESW (w)
@@ -463,7 +470,7 @@ DTSTART:20260428T075000Z
 DTEND:20260428T092500Z
 SUMMARY:SzS (ć)
 LOCATION:4pl/24kp; 5pl/24kp; 23FZ; 1S; 23BID; 23FO; 1S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: kpt.mgr Nawalicki Piotr; dr n.społ. inż. Rogowski Bogusław; WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; mjr mgr Wójcik Paweł
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/6\nProwadzący: kpt.mgr Nawalicki Piotr; dr n.społ. inż. Rogowski Bogusław; WLO23FO3S0 zaliczenie poprawkowe ćwiczeń; mjr mgr Wójcik Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T075000Z
@@ -484,14 +491,14 @@ DTSTART:20260526T075000Z
 DTEND:20260526T092500Z
 SUMMARY:SzS (ć)
 LOCATION:4pl/24kp; 5pl/24kp; 23FZ; 1S; 23BID; 23FO; 1S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: kpt.mgr Nawalicki Piotr; dr n.społ. inż. Rogowski Bogusław; WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; mjr mgr Wójcik Paweł
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/6\nProwadzący: kpt.mgr Nawalicki Piotr; dr n.społ. inż. Rogowski Bogusław; WLO23FO3S0 zaliczenie poprawkowe ćwiczeń; mjr mgr Wójcik Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T075000Z
 DTEND:20260602T092500Z
 SUMMARY:SzS (w)
 LOCATION:8w
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: ppłk mgr inż. Grądziel Grzegorz; kpt.mgr Nawalicki Piotr; kpt. mgr inż Kuligowska Monika; mjr mgr Wójcik Paweł; XWm.(ć) WLO23FZ1S0; WLO23FO3S0; 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135; prof. dr hab. inż. Baczewski Kazimierz; ppłk mgr Misiejuk Tomasz
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: ppłk mgr inż. Grądziel Grzegorz; kpt.mgr Nawalicki Piotr; kpt. mgr inż Kuligowska Monika; mjr mgr Wójcik Paweł; XWm.(ć) WLO23FZ1S0; Sem.)) WLO23FO1S0; 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135; prof. dr hab. inż. Baczewski Kazimierz; ppłk mgr Misiejuk Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T104000Z
@@ -505,7 +512,7 @@ DTSTART:20260310T104000Z
 DTEND:20260310T121500Z
 SUMMARY:OPBMR (w)
 LOCATION:4W
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: kpt. mgr inż Kuligowska Monika; por. mgr. inż. Jeżak Milena; gen. bryg. mgr inż. Stocki Jarosław; por. mgr inż. Suska Hubert; ppor. mgr inż. Najderek Mateusz
+DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: kpt. mgr inż Kuligowska Monika; por. mgr. inż. Jeżak Milena; Sem.)) WLO23FO1S0; gen. bryg. mgr inż. Stocki Jarosław; Mps.(Zp. (Ćw.; por. mgr inż. Suska Hubert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T104000Z
@@ -547,7 +554,7 @@ DTSTART:20260428T094000Z
 DTEND:20260428T111500Z
 SUMMARY:SzS (ć)
 LOCATION:5pl/24kp; 23FO; 1S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; kpt.mgr Nawalicki Piotr
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/6\nProwadzący: WLO23FO3S0 zaliczenie poprawkowe ćwiczeń; kpt.mgr Nawalicki Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T094000Z
@@ -568,7 +575,7 @@ DTSTART:20260526T094000Z
 DTEND:20260526T111500Z
 SUMMARY:SzS (ć)
 LOCATION:5pl/24kp; 23FO; 1S; 0 ST; 1 T
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: WLO23FO3S0 powtarzanie zajęć - dr inż. Piotr Szurgott - sala 0.28; kpt.mgr Nawalicki Piotr
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: WLO23FO3S0 zaliczenie poprawkowe ćwiczeń; kpt.mgr Nawalicki Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T094000Z
@@ -631,7 +638,7 @@ DTSTART:20260428T113000Z
 DTEND:20260428T130500Z
 SUMMARY:OPBMR (ć)
 LOCATION:4pl/24kp; 5pl/24kp; 23FZ; 1S; 23BID; 23FO; 1S; 0 Naj
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: ppor. dr Łapińska Anna; gen. bryg. mgr inż. Stocki Jarosław
+DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/9\nProwadzący: Sem.)) WLO23FO1S0; WLO23FO3S0 zaliczenie poprawkowe ćwiczeń; gen. bryg. mgr inż. Stocki Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T113000Z
@@ -652,7 +659,7 @@ DTSTART:20260602T113000Z
 DTEND:20260602T130500Z
 SUMMARY:OPBMR (ć)
 LOCATION:5pl/24kp; 23FO; 1S; 0 StJ; 55A
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
+DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: Sem.)) WLO23FO1S0; gen. bryg. mgr inż. Stocki Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T150000Z
@@ -1056,9 +1063,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T094000Z
 DTEND:20260624T111500Z
-SUMMARY:sesja 
-LOCATION:
-DESCRIPTION:sesja\nRodzaj zajęć: -\nNumer zajęć: 1/2
+SUMMARY:Mps. (Zp. (Ćw./Sem.)
+LOCATION:1/19
+DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: (Zp. (Ćw./Sem.)\nNumer zajęć: 1/2\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz; mgr inż. Dziobek Ilona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260930T094000Z
@@ -1140,9 +1147,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T113000Z
 DTEND:20260624T130500Z
-SUMMARY:sesja 
-LOCATION:
-DESCRIPTION:sesja\nRodzaj zajęć: -\nNumer zajęć: 2/2
+SUMMARY:Mps. (Zp. (Ćw./Sem.)
+LOCATION:1/19
+DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: (Zp. (Ćw./Sem.)\nNumer zajęć: 2/2\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz; mgr inż. Dziobek Ilona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T150000Z
@@ -1303,7 +1310,7 @@ DTSTART:20260423T060000Z
 DTEND:20260423T073500Z
 SUMMARY:OPBMR (ć)
 LOCATION:2pl/24kp; 4pl/24kp; 5pl/24kp; 4pl/23kp; 23FU; 1S; 23BJO; 23FZ; 1S; 23BID; 23FO; 1S; 23KB; 2S; 23KB; 1S; 0 M
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: por. mgr inż. Suska Hubert; ppor. mgr inż. Najderek Mateusz
+DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/9\nProwadzący: Sem.)) WLO23FO1S0; WLO23FO2S0; WLO23FO3S0 zaliczenie poprawkowe ćwiczeń; por. mgr inż. Suska Hubert; ppor. mgr inż. Najderek Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T060000Z
@@ -1373,7 +1380,7 @@ DTSTART:20260423T075000Z
 DTEND:20260423T092500Z
 SUMMARY:OPBMR (ć)
 LOCATION:2pl/24kp; 4pl/24kp; 5pl/24kp; 4pl/23kp; 23FU; 1S; 23BJO; 23FZ; 1S; 23BID; 23FO; 1S; 23KB; 1S; 23KB; 2S; 0 M
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: por. mgr inż. Suska Hubert; ppor. mgr inż. Najderek Mateusz
+DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/9\nProwadzący: Sem.)) WLO23FO1S0; WLO23FO2S0; WLO23FO3S0 zaliczenie poprawkowe ćwiczeń; por. mgr inż. Suska Hubert; ppor. mgr inż. Najderek Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T075000Z
@@ -1457,7 +1464,7 @@ DTSTART:20260423T094000Z
 DTEND:20260423T111500Z
 SUMMARY:OPBMR (ć)
 LOCATION:2pl/24kp; 4pl/24kp; 5pl/24kp; 4pl/23kp; 23FU; 1S; 23BJO; 23FZ; 1S; 23BID; 23FO; 1S; 23KB; 1S; 23KB; 2S; 0 M
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: por. mgr inż. Suska Hubert; ppor. mgr inż. Najderek Mateusz
+DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/9\nProwadzący: Sem.)) WLO23FO1S0; WLO23FO2S0; WLO23FO3S0 zaliczenie poprawkowe ćwiczeń; por. mgr inż. Suska Hubert; ppor. mgr inż. Najderek Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T094000Z
@@ -1534,7 +1541,7 @@ DTSTART:20260423T113000Z
 DTEND:20260423T130500Z
 SUMMARY:OPBMR (ć)
 LOCATION:2pl/24kp; 4pl/24kp; 5pl/24kp; 4pl/23kp; 23FU; 1S; 23BJO; 23FZ; 1S; 23BID; 23FO; 1S; 23KB; 1S; 23KB; 2S; 0 M
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: por. mgr inż. Suska Hubert; ppor. mgr inż. Najderek Mateusz
+DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/9\nProwadzący: Sem.)) WLO23FO1S0; WLO23FO2S0; WLO23FO3S0 zaliczenie poprawkowe ćwiczeń; por. mgr inż. Suska Hubert; ppor. mgr inż. Najderek Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T113000Z
@@ -1604,7 +1611,7 @@ DTSTART:20260423T140000Z
 DTEND:20260423T153500Z
 SUMMARY:OPBMR (ć)
 LOCATION:2pl/24kp; 4pl/24kp; 5pl/24kp; 4pl/23kp; 23FU; 1S; 23BJO; 23FZ; 1S; 23BID; 23FO; 1S; 23KB; 1S; 23KB; 2S; 0 M
-DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: por. mgr inż. Suska Hubert; ppor. mgr inż. Najderek Mateusz
+DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9/9\nProwadzący: Sem.)) WLO23FO1S0; WLO23FO2S0; WLO23FO3S0 zaliczenie poprawkowe ćwiczeń; por. mgr inż. Suska Hubert; ppor. mgr inż. Najderek Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T140000Z

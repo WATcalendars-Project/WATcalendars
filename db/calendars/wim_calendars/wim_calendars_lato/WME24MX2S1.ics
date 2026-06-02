@@ -312,13 +312,6 @@ LOCATION:5/ 20
 DESCRIPTION:Termodynamika techniczna\nRodzaj zajęć: Wykład\nNumer zajęć: 6/12\nProwadzący: prof. dr hab. inż. Walentynowicz Jerzy
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250622T094000Z
-DTEND:20250622T111500Z
-SUMMARY:Pdm (Zp. Ćw)
-LOCATION:5/ 20
-DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250629T094000Z
 DTEND:20250629T111500Z
 SUMMARY:SoM2 (E)
@@ -918,14 +911,14 @@ DTSTART:20250505T113000Z
 DTEND:20250505T130500Z
 SUMMARY:WzEE (L)
 LOCATION:3/ 23a; 4/ 23a; 14/ 23a
-DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/12
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T113000Z
 DTEND:20250526T130500Z
 SUMMARY:WzEE (L)
 LOCATION:3/ 23a; 4/ 23a; 14/ 23a
-DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/12
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T113000Z
@@ -974,14 +967,14 @@ DTSTART:20250505T140000Z
 DTEND:20250505T153500Z
 SUMMARY:WzEE (L)
 LOCATION:3/ 23a; 4/ 23a; 14/ 23a
-DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/12
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T140000Z
 DTEND:20250526T153500Z
 SUMMARY:WzEE (L)
 LOCATION:3/ 23a; 4/ 23a; 14/ 23a
-DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/12
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T140000Z
@@ -1450,7 +1443,7 @@ DTSTART:20250610T140000Z
 DTEND:20250610T153500Z
 SUMMARY:WzEE (L)
 LOCATION:3/ 23a; 4/ 23a; 14/ 23a
-DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/12
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T140000Z
@@ -1478,7 +1471,7 @@ DTSTART:20250610T155000Z
 DTEND:20250610T172500Z
 SUMMARY:WzEE (L)
 LOCATION:3/ 23a; 4/ 23a; 14/ 23a
-DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/12
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T070000Z
@@ -1541,7 +1534,7 @@ DTSTART:20250528T060000Z
 DTEND:20250528T073500Z
 SUMMARY:WzEE (L)
 LOCATION:3/ 23a; 4/ 23a; 14/ 23a
-DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/12\nProwadzący: dr inż. Sobczyk Zbigniew
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/14\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T060000Z
@@ -1667,7 +1660,7 @@ DTSTART:20250528T075000Z
 DTEND:20250528T092500Z
 SUMMARY:WzEE (L)
 LOCATION:3/ 23a; 4/ 23a; 14/ 23a
-DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/12\nProwadzący: dr inż. Sobczyk Zbigniew
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/14\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T075000Z
@@ -1782,6 +1775,13 @@ LOCATION:2/ 23a
 DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250618T094000Z
+DTEND:20250618T111500Z
+SUMMARY:WzEE (L)
+LOCATION:4/ 23a
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/14
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250625T094000Z
 DTEND:20250625T111500Z
 SUMMARY:Tt (Zp. Ćw)
@@ -1849,7 +1849,7 @@ DTSTART:20250430T113000Z
 DTEND:20250430T130500Z
 SUMMARY:WzEE (L)
 LOCATION:3/ 23a; 4/ 23a; 14/ 23a
-DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/12\nProwadzący: dr inż. Sobczyk Zbigniew
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/14\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T113000Z
@@ -1878,6 +1878,13 @@ DTEND:20250604T130500Z
 SUMMARY:I 
 LOCATION:
 DESCRIPTION:I\nRodzaj zajęć: -\nNumer zajęć: 18/63
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T113000Z
+DTEND:20250618T130500Z
+SUMMARY:WzEE (L)
+LOCATION:4/ 23a
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/14
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T113000Z
@@ -1912,14 +1919,14 @@ DTSTART:20250430T140000Z
 DTEND:20250430T153500Z
 SUMMARY:WzEE (L)
 LOCATION:3/ 23a; 4/ 23a; 14/ 23a
-DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/12\nProwadzący: dr inż. Sobczyk Zbigniew
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/14\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T140000Z
 DTEND:20250514T153500Z
 SUMMARY:WzEE (L)
 LOCATION:3/ 23a; 4/ 23a; 14/ 23a
-DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr inż. Sobczyk Zbigniew
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 13/14\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T140000Z
@@ -1947,7 +1954,7 @@ DTSTART:20250514T155000Z
 DTEND:20250514T172500Z
 SUMMARY:WzEE (L)
 LOCATION:3/ 23a; 4/ 23a; 14/ 23a
-DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Sobczyk Zbigniew
+DESCRIPTION:Wybrane zagadnienia elektrotechniki i elektroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 14/14\nProwadzący: dr inż. Sobczyk Zbigniew
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T155000Z
@@ -2298,6 +2305,13 @@ DTEND:20250619T111500Z
 SUMMARY:REZ 
 LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 36/84
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250626T094000Z
+DTEND:20250626T111500Z
+SUMMARY:Pdm (Zp. Ćw)
+LOCATION:15/ 23a
+DESCRIPTION:Podstawy dynamiki maszyn\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. (prof. ucz.) Luty Witold
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T123000Z

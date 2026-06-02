@@ -1761,6 +1761,13 @@ LOCATION:316 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260608T113000Z
+DTEND:20260608T130500Z
+SUMMARY:MPR (L)
+LOCATION:223 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260609T060000Z
 DTEND:20260609T073500Z
 SUMMARY:Ja (ć)
@@ -1780,20 +1787,6 @@ DTEND:20260609T111500Z
 SUMMARY:Tal (P)
 LOCATION:236 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNumer zajęć: 6/6\nProwadzący: mgr inż. Piotr Stąpor
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260610T060000Z
-DTEND:20260610T073500Z
-SUMMARY:MPR (L)
-LOCATION:237 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260610T075000Z
-DTEND:20260610T092500Z
-SUMMARY:MPR (L)
-LOCATION:237 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T094000Z
@@ -1836,6 +1829,13 @@ DTEND:20260612T111500Z
 SUMMARY:Pwo (ć)
 LOCATION:18 63
 DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T113000Z
+DTEND:20260612T130500Z
+SUMMARY:DSiSM (Inne)
+LOCATION:22 /BIBL
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (repetytorium) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260613T075000Z
@@ -1899,6 +1899,13 @@ DTEND:20260616T130500Z
 SUMMARY:Hd (L)
 LOCATION:239 S
 DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T075000Z
+DTEND:20260617T092500Z
+SUMMARY:MPR (L)
+LOCATION:233 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T094000Z
@@ -1992,8 +1999,8 @@ LOCATION:317 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260625T075000Z
-DTEND:20260625T092500Z
+DTSTART:20260623T094000Z
+DTEND:20260623T111500Z
 SUMMARY:Ajf (E)
 LOCATION:19 36
 DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. Piotr Kosiuczenko
