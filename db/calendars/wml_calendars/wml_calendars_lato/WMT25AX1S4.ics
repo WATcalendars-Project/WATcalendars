@@ -119,8 +119,8 @@ BEGIN:VEVENT
 DTSTART:20260608T075000Z
 DTEND:20260608T092500Z
 SUMMARY:Sme (L)
-LOCATION:102 36;17
-DESCRIPTION:Systemy mechatroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Borys Szymon
+LOCATION:17 63
+DESCRIPTION:Systemy mechatroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Daniel Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T075000Z
@@ -217,8 +217,8 @@ BEGIN:VEVENT
 DTSTART:20260608T094000Z
 DTEND:20260608T111500Z
 SUMMARY:Sme (L)
-LOCATION:102 36;17
-DESCRIPTION:Systemy mechatroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Borys Szymon
+LOCATION:17 63
+DESCRIPTION:Systemy mechatroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Daniel Natalia
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T094000Z
@@ -753,6 +753,13 @@ LOCATION:17 25
 DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż. Cieplak Kamil
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260609T140000Z
+DTEND:20260609T153500Z
+SUMMARY:Sme (L)
+LOCATION:102 36
+DESCRIPTION:Systemy mechatroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż. Borys Szymon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260616T140000Z
 DTEND:20260616T153500Z
 SUMMARY:Iwza (ć)
@@ -765,6 +772,13 @@ DTEND:20260526T172500Z
 SUMMARY:NTW (L)
 LOCATION:17 25
 DESCRIPTION:Nowoczesne techniki wytwarzania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: mgr inż. Cieplak Kamil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T155000Z
+DTEND:20260609T172500Z
+SUMMARY:Sme (L)
+LOCATION:102 36
+DESCRIPTION:Systemy mechatroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: mgr inż. Borys Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T070000Z

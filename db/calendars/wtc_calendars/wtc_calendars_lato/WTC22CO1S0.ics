@@ -525,7 +525,7 @@ BEGIN:VEVENT
 DTSTART:20260622T113000Z
 DTEND:20260622T130500Z
 SUMMARY:Con2 (E)
-LOCATION:aF S
+LOCATION:166 S
 DESCRIPTION:Chemia ogólna i nieorganiczna II\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Spadło Anna
 END:VEVENT
 BEGIN:VEVENT
@@ -2678,6 +2678,13 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 20/22
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260611T113000Z
+DTEND:20260611T130500Z
+SUMMARY:Con2 (w)
+LOCATION:166 S
+DESCRIPTION:Chemia ogólna i nieorganiczna II\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: dr hab. inż. Spadło Anna
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260618T113000Z
 DTEND:20260618T130500Z
 SUMMARY:SzS (ć)
@@ -3002,13 +3009,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T075000Z
 DTEND:20260612T092500Z
-SUMMARY:Con2 (w)
-LOCATION:166 S
-DESCRIPTION:Chemia ogólna i nieorganiczna II\nRodzaj zajęć: Wykład\nNumer zajęć: 14/15\nProwadzący: dr hab. inż. Spadło Anna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260619T075000Z
-DTEND:20260619T092500Z
 SUMMARY:Con2 (w)
 LOCATION:166 S
 DESCRIPTION:Chemia ogólna i nieorganiczna II\nRodzaj zajęć: Wykład\nNumer zajęć: 15/15\nProwadzący: dr hab. inż. Spadło Anna

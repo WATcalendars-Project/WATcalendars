@@ -263,13 +263,6 @@ LOCATION:47 63;16 6
 DESCRIPTION:Cyfrowe układy regulacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Jaworowicz Marek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260608T113000Z
-DTEND:20260608T130500Z
-SUMMARY:Stpr (ć)
-LOCATION:47 63
-DESCRIPTION:Sterowniki programowalne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż. Borys Szymon
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260427T140000Z
 DTEND:20260427T153500Z
 SUMMARY:Stpr (L)
@@ -905,6 +898,13 @@ DTEND:20260611T073500Z
 SUMMARY:Ear (w)
 LOCATION:106 36
 DESCRIPTION:Elementy automatyki i robotyki\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Panasiuk Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T060000Z
+DTEND:20260618T073500Z
+SUMMARY:Stpr (ć)
+LOCATION:111 36
+DESCRIPTION:Sterowniki programowalne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż. Borys Szymon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T085000Z

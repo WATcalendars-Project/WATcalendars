@@ -98,7 +98,7 @@ BEGIN:VEVENT
 DTSTART:20260608T075000Z
 DTEND:20260608T092500Z
 SUMMARY:STS 
-LOCATION:0336
+LOCATION:1666
 DESCRIPTION:Systemy telemetrii, zarządzania i sterowania obiektów kosmicznych\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 DTSTART:20260608T094000Z
 DTEND:20260608T111500Z
 SUMMARY:STS 
-LOCATION:0336
+LOCATION:1666
 DESCRIPTION:Systemy telemetrii, zarządzania i sterowania obiektów kosmicznych\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -240,6 +240,13 @@ DTEND:20260525T130500Z
 SUMMARY:STS 
 LOCATION:
 DESCRIPTION:Systemy telemetrii, zarządzania i sterowania obiektów kosmicznych\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T113000Z
+DTEND:20260608T130500Z
+SUMMARY:PTL 
+LOCATION:1246
+DESCRIPTION:Podstawy techniki laserowej\nRodzaj zajęć: -\nProwadzący: dr inż. Skórczakowski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T140000Z
@@ -672,7 +679,7 @@ BEGIN:VEVENT
 DTSTART:20260602T140000Z
 DTEND:20260602T153500Z
 SUMMARY:STS 
-LOCATION:0436
+LOCATION:1666
 DESCRIPTION:Systemy telemetrii, zarządzania i sterowania obiektów kosmicznych\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -707,7 +714,7 @@ BEGIN:VEVENT
 DTSTART:20260602T155000Z
 DTEND:20260602T172500Z
 SUMMARY:STS 
-LOCATION:0436
+LOCATION:1666
 DESCRIPTION:Systemy telemetrii, zarządzania i sterowania obiektów kosmicznych\nRodzaj zajęć: -\nProwadzący: dr hab.inż. Falkowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
@@ -744,6 +751,13 @@ DTEND:20260527T092500Z
 SUMMARY:AMK 
 LOCATION:
 DESCRIPTION:Analiza i projektowanie misji kosmicznych\nRodzaj zajęć: -\nProwadzący: dr inż. Drozd Tadeusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T075000Z
+DTEND:20260603T092500Z
+SUMMARY:PTL 
+LOCATION:2046
+DESCRIPTION:Podstawy techniki laserowej\nRodzaj zajęć: -\nProwadzący: dr inż. Skórczakowski Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T094000Z

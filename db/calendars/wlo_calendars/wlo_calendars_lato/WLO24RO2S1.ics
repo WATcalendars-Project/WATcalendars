@@ -8,14 +8,14 @@ DTSTART:20260413T060000Z
 DTEND:20260413T073500Z
 SUMMARY:BkI (ć)
 LOCATION:0.21/16
-DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7\nProwadzący: dr Szwarc Krzysztof
+DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/8\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T060000Z
 DTEND:20260518T073500Z
 SUMMARY:BkI (ć)
 LOCATION:1.15/16
-DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7\nProwadzący: dr Szwarc Krzysztof
+DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T060000Z
@@ -29,7 +29,7 @@ DTSTART:20260601T060000Z
 DTEND:20260601T073500Z
 SUMMARY:BkI (ć)
 LOCATION:0.21/16
-DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7\nProwadzący: dr Szwarc Krzysztof
+DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T060000Z
@@ -50,7 +50,7 @@ DTSTART:20260413T075000Z
 DTEND:20260413T092500Z
 SUMMARY:BkI (ć)
 LOCATION:0.21/16
-DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/7\nProwadzący: dr Szwarc Krzysztof
+DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T075000Z
@@ -273,8 +273,8 @@ BEGIN:VEVENT
 DTSTART:20260609T060000Z
 DTEND:20260609T073500Z
 SUMMARY:BkI (ć)
-LOCATION:1.15/16
-DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/7\nProwadzący: dr Szwarc Krzysztof
+LOCATION:
+DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T075000Z
@@ -295,7 +295,7 @@ DTSTART:20260421T094000Z
 DTEND:20260421T111500Z
 SUMMARY:BkI (ć)
 LOCATION:4.23/135
-DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/7\nProwadzący: dr Szwarc Krzysztof
+DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T094000Z
@@ -330,7 +330,7 @@ DTSTART:20260421T113000Z
 DTEND:20260421T130500Z
 SUMMARY:BkI (ć)
 LOCATION:4.23/135
-DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/7\nProwadzący: dr Szwarc Krzysztof
+DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T113000Z
@@ -625,6 +625,13 @@ DTEND:20260520T130500Z
 SUMMARY:S.D. (S)
 LOCATION:2/22
 DESCRIPTION:Seminarium Dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 13/15\nProwadzący: dr Krysowaty Aneta
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T113000Z
+DTEND:20260603T130500Z
+SUMMARY:BkI (ć)
+LOCATION:1.16/16
+DESCRIPTION:Bezpieczeństwo kluczowej infrastruktury I\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr Szwarc Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T150000Z
