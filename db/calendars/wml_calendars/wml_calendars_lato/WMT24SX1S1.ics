@@ -613,6 +613,13 @@ LOCATION:P 66
 DESCRIPTION:Fizjologia i ergonomia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Jaskółowski Waldemar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260609T094000Z
+DTEND:20260609T111500Z
+SUMMARY:Fizer (w)
+LOCATION:P 66
+DESCRIPTION:Fizjologia i ergonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Jaskółowski Waldemar
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T123000Z
 DTEND:20260303T140500Z
 SUMMARY:Tet (w)
@@ -755,13 +762,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T060000Z
 DTEND:20260610T073500Z
-SUMMARY:Fizer (w)
-LOCATION:P 66
-DESCRIPTION:Fizjologia i ergonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Jaskółowski Waldemar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260617T060000Z
-DTEND:20260617T073500Z
 SUMMARY:Fizer (w)
 LOCATION:P 66
 DESCRIPTION:Fizjologia i ergonomia\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Jaskółowski Waldemar
@@ -1381,6 +1381,13 @@ DTEND:20260515T073500Z
 SUMMARY:PA (L)
 LOCATION:43 67
 DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260626T060000Z
+DTEND:20260626T073500Z
+SUMMARY:PA (E)
+LOCATION:S2 72
+DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Egzamin\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Henzel Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T085000Z

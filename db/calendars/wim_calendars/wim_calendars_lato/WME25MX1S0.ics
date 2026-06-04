@@ -410,6 +410,13 @@ LOCATION:
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250608T140000Z
+DTEND:20250608T153500Z
+SUMMARY:Mas (L)
+LOCATION:42/ 54A; PMI/ 54
+DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr inż. Kończalski Karol
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250406T155000Z
 DTEND:20250406T172500Z
 SUMMARY:I 
@@ -933,13 +940,6 @@ DTEND:20250526T153500Z
 SUMMARY:Mat3 (ć)
 LOCATION:54/ 62
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/10\nProwadzący: dr Tomaszewska Justyna
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250602T140000Z
-DTEND:20250602T153500Z
-SUMMARY:Mas (L)
-LOCATION:42/ 54A; PMI/ 54
-DESCRIPTION:Maszynoznawstwo\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/2\nProwadzący: dr inż. Kończalski Karol
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T140000Z
@@ -2527,14 +2527,14 @@ BEGIN:VEVENT
 DTSTART:20250626T094000Z
 DTEND:20250626T111500Z
 SUMMARY:F1 (E)
-LOCATION:
+LOCATION:aula/ 135
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250710T094000Z
 DTEND:20250710T111500Z
 SUMMARY:F1 (Ep)
-LOCATION:
+LOCATION:301/ S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT

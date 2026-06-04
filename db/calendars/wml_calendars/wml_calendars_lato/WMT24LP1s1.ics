@@ -1117,13 +1117,6 @@ LOCATION:003 36
 DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż. Karwowski Wojciech
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260603T140000Z
-DTEND:20260603T153500Z
-SUMMARY:Mp (ć)
-LOCATION:9 67
-DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Frant Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260610T140000Z
 DTEND:20260610T153500Z
 SUMMARY:Wmk (ć)
@@ -1136,6 +1129,13 @@ DTEND:20260401T172500Z
 SUMMARY:Mp (L)
 LOCATION:3 67
 DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: dr inż. Frant Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T155000Z
+DTEND:20260610T172500Z
+SUMMARY:Mp (ć)
+LOCATION:9 67
+DESCRIPTION:Mechanika płynów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12\nProwadzący: dr inż. Frant Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T070000Z
@@ -1416,6 +1416,13 @@ DTEND:20260320T083500Z
 SUMMARY:Ucm (ć)
 LOCATION:39 36
 DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż. Djabin Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260626T060000Z
+DTEND:20260626T073500Z
+SUMMARY:PA (E)
+LOCATION:S2 72
+DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Egzamin\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Henzel Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T075000Z
