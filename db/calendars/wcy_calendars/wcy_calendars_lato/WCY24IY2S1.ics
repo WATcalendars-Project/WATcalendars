@@ -5387,13 +5387,6 @@ LOCATION:313 S
 DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260615T113000Z
-DTEND:20260615T130500Z
-SUMMARY:PO (ć)
-LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr inż. Piotr Górny
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260615T140000Z
 DTEND:20260615T153500Z
 SUMMARY:Tik (L)
@@ -5443,6 +5436,13 @@ LOCATION:226 S
 DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/7\nProwadzący: mgr inż. Michał Zimoń
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260617T094000Z
+DTEND:20260617T111500Z
+SUMMARY:PO (ć)
+LOCATION:317 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260619T094000Z
 DTEND:20260619T111500Z
 SUMMARY:Wkr (L)
@@ -5490,6 +5490,13 @@ DTEND:20260626T111500Z
 SUMMARY:IO (E)
 LOCATION:313 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T094000Z
+DTEND:20260701T111500Z
+SUMMARY:WdA (Inne)
+LOCATION:121 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260915T060000Z

@@ -2223,18 +2223,11 @@ LOCATION:233 S
 DESCRIPTION:Struktury algebraiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260610T060000Z
-DTEND:20260610T073500Z
-SUMMARY:NK (L)
-LOCATION:087 S
-DESCRIPTION:Narzędzia kryptoanalizy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Michał Wroński
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260610T075000Z
 DTEND:20260610T092500Z
 SUMMARY:NK (L)
 LOCATION:087 S
-DESCRIPTION:Narzędzia kryptoanalizy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Michał Wroński
+DESCRIPTION:Narzędzia kryptoanalizy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr hab. inż. Michał Wroński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T094000Z
@@ -2354,6 +2347,13 @@ DTEND:20260619T111500Z
 SUMMARY:PZ (P)
 LOCATION:227 S
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNumer zajęć: 22/22\nProwadzący: dr inż. Michał Glet
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T113000Z
+DTEND:20260619T130500Z
+SUMMARY:NK (L)
+LOCATION:087 S
+DESCRIPTION:Narzędzia kryptoanalizy\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr hab. inż. Michał Wroński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260622T075000Z
