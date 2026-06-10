@@ -573,9 +573,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250622T113000Z
 DTEND:20250622T130500Z
-SUMMARY:ZMiT (Zp.)
+SUMMARY:ZMiT (E)
 LOCATION:1/ 19
-DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: mgr inż. Wójcik Maciej
+DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250629T113000Z
@@ -975,6 +975,13 @@ DTEND:20250825T073500Z
 SUMMARY:Sz.-CSz 
 LOCATION:
 DESCRIPTION:Sz.-CSz\nRodzaj zajęć: -\nNumer zajęć: 32/182
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250908T060000Z
+DTEND:20250908T073500Z
+SUMMARY:ZMiT (Ep)
+LOCATION:1/ 19
+DESCRIPTION:Zabezpieczenie materiałowe i techniczne\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: mgr inż. Wójcik Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T060000Z

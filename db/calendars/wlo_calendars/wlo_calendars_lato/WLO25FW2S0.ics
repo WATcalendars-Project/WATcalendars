@@ -319,6 +319,13 @@ LOCATION:1.10/16
 DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr Tomaszewski Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260615T140000Z
+DTEND:20260615T153500Z
+SUMMARY:DSiSM (r)
+LOCATION:7R
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: (r)\nNumer zajęć: 1/1\nProwadzący: ppłk mgr inż. Grądziel Grzegorz; mjr mgr Wójcik Paweł; płk dr Niemirka Sławomir
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260302T165000Z
 DTEND:20260302T182500Z
 SUMMARY:BiEWTM (w)
@@ -1516,13 +1523,6 @@ LOCATION:7R
 DESCRIPTION:TAKTYKA\nRodzaj zajęć: (r)\nNumer zajęć: 1/1\nProwadzący: kpt. mgr Ślusakowicz Stanisław; mjr mgr Stępień Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260618T075000Z
-DTEND:20260618T092500Z
-SUMMARY:DSiSM (r)
-LOCATION:7R
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: (r)\nNumer zajęć: 1/1\nProwadzący: ppłk mgr inż. Grądziel Grzegorz; mjr mgr Wójcik Paweł; płk dr Niemirka Sławomir
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261001T075000Z
 DTEND:20261001T092500Z
 SUMMARY:TA (w)
@@ -2109,6 +2109,13 @@ DTEND:20260619T092500Z
 SUMMARY:F1 (w)
 LOCATION:
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 20/20\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof; dr inż. Świłło Rafał; dr inż. Suligowski Mariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T075000Z
+DTEND:20261002T092500Z
+SUMMARY:F2 (w)
+LOCATION:
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T104000Z

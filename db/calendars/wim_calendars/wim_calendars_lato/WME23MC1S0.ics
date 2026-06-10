@@ -312,13 +312,6 @@ LOCATION:6/ 23a
 DESCRIPTION:Mrp\nRodzaj zajęć: -\nNumer zajęć: 11/24\nProwadzący: kpt. mgr inż. Żmuda Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250622T113000Z
-DTEND:20250622T130500Z
-SUMMARY:Mps. (Zp/lab.)
-LOCATION:16/ 19; 17/ 19
-DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: (Zp/lab.)\nNumer zajęć: 1/1
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250309T150000Z
 DTEND:20250309T163500Z
 SUMMARY:Mps. (L)
@@ -1829,6 +1822,13 @@ DTEND:20250611T130500Z
 SUMMARY:TpPW (L)
 LOCATION:1/ 21; 9/ 21; 17b/ 21
 DESCRIPTION:Technologia produkcji pojazdów wojskowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 17/18\nProwadzący: dr inż. Napadłek Wojciech
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250625T113000Z
+DTEND:20250625T130500Z
+SUMMARY:Mps. (Zp/lab.)
+LOCATION:16/ 19; 17/ 19
+DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: (Zp/lab.)\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T150000Z

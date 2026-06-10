@@ -109,13 +109,6 @@ LOCATION:2/ 23a
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250629T060000Z
-DTEND:20250629T073500Z
-SUMMARY:PuS. (Zp. Ćw)
-LOCATION:10/ 54A
-DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250309T085000Z
 DTEND:20250309T102500Z
 SUMMARY:PuS. (w)
@@ -219,6 +212,13 @@ DTEND:20250615T092500Z
 SUMMARY:PPr (P)
 LOCATION:09/ 54A
 DESCRIPTION:Projekt przejściowy\nRodzaj zajęć: Projekt\nNumer zajęć: 4/15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250622T075000Z
+DTEND:20250622T092500Z
+SUMMARY:PuS. (Zp. Ćw)
+LOCATION:10/ 54A
+DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250629T075000Z
@@ -436,13 +436,6 @@ DTEND:20250629T130500Z
 SUMMARY:BPiE (Zp/lab.)
 LOCATION:5/ 23a; 6/ 23a
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: (Zp/lab.)\nNumer zajęć: 1/1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250914T113000Z
-DTEND:20250914T130500Z
-SUMMARY:PuS. (Zp.)
-LOCATION:09/ 54A
-DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T140000Z
@@ -695,6 +688,13 @@ DTEND:20250630T130500Z
 SUMMARY:Uh (Zp/lab.)
 LOCATION:09/ 54A
 DESCRIPTION:Układy hydrauliczne\nRodzaj zajęć: (Zp/lab.)\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250915T113000Z
+DTEND:20250915T130500Z
+SUMMARY:PuS. (Ep)
+LOCATION:09/ 54A
+DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T150000Z
@@ -1010,6 +1010,13 @@ DTEND:20250617T092500Z
 SUMMARY:Psnm (L)
 LOCATION:10/ 54A; 14/ 54A
 DESCRIPTION:Projektowanie struktur nośnych maszyn\nRodzaj zajęć: Laboratorium\nNumer zajęć: 17/30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250624T075000Z
+DTEND:20250624T092500Z
+SUMMARY:PuS. (E)
+LOCATION:42/ 54A
+DESCRIPTION:Programowanie układów sterowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: dr hab. inż.(prof. ucz.) Typiak Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T075000Z

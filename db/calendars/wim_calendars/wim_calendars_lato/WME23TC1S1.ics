@@ -354,13 +354,6 @@ LOCATION:5/ 23a; 6/ 23a
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: (z. popr. lab.)\nNumer zajęć: 1/1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250914T094000Z
-DTEND:20250914T111500Z
-SUMMARY:UrM (Zp.)
-LOCATION:5/ 20
-DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250316T123000Z
 DTEND:20250316T140500Z
 SUMMARY:SMag (w)
@@ -604,6 +597,13 @@ DTEND:20250630T092500Z
 SUMMARY:UrM (Zp. Ćw)
 LOCATION:5/ 20
 DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250915T075000Z
+DTEND:20250915T092500Z
+SUMMARY:UrM (Zp.)
+LOCATION:5/ 20
+DESCRIPTION:Utrzymanie ruchu maszyn\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/1\nProwadzący: dr inż. (prof. ucz.) Kowalczyk Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T104000Z
