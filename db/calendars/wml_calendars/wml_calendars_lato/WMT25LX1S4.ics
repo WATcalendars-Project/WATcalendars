@@ -550,6 +550,13 @@ LOCATION:9 67
 DESCRIPTION:Niezawodność techniki lotniczej\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Jasztal Michał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260623T075000Z
+DTEND:20260623T092500Z
+SUMMARY:Mmst (E)
+LOCATION:136 36
+DESCRIPTION:Modelowanie matematyczne systemów technicznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr hab.inż. Falkowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T104000Z
 DTEND:20260303T121500Z
 SUMMARY:Mmst (w)
@@ -681,13 +688,6 @@ DTEND:20260512T153500Z
 SUMMARY:Bzzsp (S)
 LOCATION:9 67
 DESCRIPTION:Bezzałogowe systemy powietrzne\nRodzaj zajęć: Seminarium\nNumer zajęć: 9-10\nProwadzący: mgr inż. Kurenda Maciej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260526T140000Z
-DTEND:20260526T153500Z
-SUMMARY:Kazi (w)
-LOCATION:39 36
-DESCRIPTION:Kazi\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr inż. Grzejszczak Pączek Olga
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T070000Z
@@ -1206,6 +1206,13 @@ DTEND:20260618T092500Z
 SUMMARY:Bzzsp (L)
 LOCATION:130 36
 DESCRIPTION:Bezzałogowe systemy powietrzne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kurenda Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260625T075000Z
+DTEND:20260625T092500Z
+SUMMARY:Bzzsp (E)
+LOCATION:136 36
+DESCRIPTION:Bezzałogowe systemy powietrzne\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr hab.inż. Falkowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T104000Z

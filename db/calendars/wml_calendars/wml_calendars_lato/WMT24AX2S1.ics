@@ -690,6 +690,20 @@ LOCATION:331 S
 DESCRIPTION:Wprowadzenie do mechatroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: ppłk dr inż. Bużantowicz Witold
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260623T094000Z
+DTEND:20260623T111500Z
+SUMMARY:WdM (E)
+LOCATION:46 63
+DESCRIPTION:Wprowadzenie do mechatroniki\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260630T094000Z
+DTEND:20260630T111500Z
+SUMMARY:EiE2 (E)
+LOCATION:46 63
+DESCRIPTION:Elektrotechnika i elektronika II\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr inż. Para Wojciech
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T123000Z
 DTEND:20260303T140500Z
 SUMMARY:Prb (w)
@@ -956,6 +970,13 @@ LOCATION:18 63
 DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Pustkowski Remigiusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260617T075000Z
+DTEND:20260617T092500Z
+SUMMARY:Prb (L)
+LOCATION:106 36;111
+DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Kaczmarek Wojciech
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T104000Z
 DTEND:20260304T121500Z
 SUMMARY:EiE2 (w)
@@ -1115,6 +1136,13 @@ DTEND:20260603T130500Z
 SUMMARY:PA (w)
 LOCATION:46 63
 DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Panasiuk Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T113000Z
+DTEND:20260617T130500Z
+SUMMARY:Prb (L)
+LOCATION:106 36
+DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Kaczmarek Wojciech
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T140000Z
@@ -1432,20 +1460,6 @@ LOCATION:17 25;18 2
 DESCRIPTION:Podstawy Cax\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Sarzyński Marcin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260612T060000Z
-DTEND:20260612T073500Z
-SUMMARY:Prb (L)
-LOCATION:47 63;106
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Kaczmarek Wojciech
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260619T060000Z
-DTEND:20260619T073500Z
-SUMMARY:Prb (L)
-LOCATION:47 63;106
-DESCRIPTION:Podstawy robotyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Kaczmarek Wojciech
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260320T085000Z
 DTEND:20260320T102500Z
 SUMMARY:Ucm (w)
@@ -1542,6 +1556,13 @@ DTEND:20260612T111500Z
 SUMMARY:Pcax (ć)
 LOCATION:331 S
 DESCRIPTION:Podstawy Cax\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Warchulski Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260626T094000Z
+DTEND:20260626T111500Z
+SUMMARY:PA (E)
+LOCATION:46 63
+DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr inż. Panasiuk Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T123000Z

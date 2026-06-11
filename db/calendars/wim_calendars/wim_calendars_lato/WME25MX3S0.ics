@@ -144,13 +144,6 @@ LOCATION:15/ 23a
 DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 1\nRodzaj zajęć: (Zp.)\nNumer zajęć: 1/2\nProwadzący: płk dr hab. inż. Jóźwik Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250713T075000Z
-DTEND:20250713T092500Z
-SUMMARY:SzS (ć)
-LOCATION:
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250316T104000Z
 DTEND:20250316T121500Z
 SUMMARY:Mt 
@@ -253,7 +246,7 @@ DTSTART:20250713T094000Z
 DTEND:20250713T111500Z
 SUMMARY:SzS (ć)
 LOCATION:
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250316T123000Z
@@ -317,13 +310,6 @@ DTEND:20250615T130500Z
 SUMMARY:Mkm1 (L)
 LOCATION:14/ 34; 15/ 34; 17/ 34
 DESCRIPTION:Materiały konstrukcyjne w budowie maszyn 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/6
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250622T113000Z
-DTEND:20250622T130500Z
-SUMMARY:Gin (Zp. Ćw)
-LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250629T113000Z
@@ -562,6 +548,13 @@ DTEND:20250616T073500Z
 SUMMARY:Bp. (ć)
 LOCATION:9/ 62
 DESCRIPTION:Budowa pojazdów\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/9\nProwadzący: dr inż. Wieczorek Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250623T060000Z
+DTEND:20250623T073500Z
+SUMMARY:Gin (Zp. Ćw)
+LOCATION:116/ 54
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T085000Z
@@ -1486,6 +1479,13 @@ DTEND:20250520T153500Z
 SUMMARY:Gin (ć)
 LOCATION:29/ 54; 30/ 54
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T140000Z
+DTEND:20250610T153500Z
+SUMMARY:SzS (ć)
+LOCATION:
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T140000Z

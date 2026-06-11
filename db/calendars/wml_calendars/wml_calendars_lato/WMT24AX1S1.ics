@@ -697,6 +697,20 @@ LOCATION:331 S
 DESCRIPTION:Wprowadzenie do mechatroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260623T094000Z
+DTEND:20260623T111500Z
+SUMMARY:WdM (E)
+LOCATION:46 63
+DESCRIPTION:Wprowadzenie do mechatroniki\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260630T094000Z
+DTEND:20260630T111500Z
+SUMMARY:EiE2 (E)
+LOCATION:46 63
+DESCRIPTION:Elektrotechnika i elektronika II\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr inż. Para Wojciech
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T123000Z
 DTEND:20260303T140500Z
 SUMMARY:Prb (w)
@@ -1528,6 +1542,13 @@ DTEND:20260529T111500Z
 SUMMARY:PA (w)
 LOCATION:46 63
 DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Panasiuk Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260626T094000Z
+DTEND:20260626T111500Z
+SUMMARY:PA (E)
+LOCATION:46 63
+DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr inż. Panasiuk Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T123000Z

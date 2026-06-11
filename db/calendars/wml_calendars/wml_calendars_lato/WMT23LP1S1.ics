@@ -207,13 +207,6 @@ LOCATION:19 36
 DESCRIPTION:Zintegrowane laboratorium statków powietrznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: kpt. mgr inż. Arkuszyńska Angelika
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260302T104000Z
-DTEND:20260302T121500Z
-SUMMARY:Tsl (w)
-LOCATION:S2 72
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260413T094000Z
 DTEND:20260413T111500Z
 SUMMARY:Lzn (ć)
@@ -268,13 +261,6 @@ DTEND:20260615T111500Z
 SUMMARY:Zlsp (L)
 LOCATION:19 36
 DESCRIPTION:Zintegrowane laboratorium statków powietrznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: kpt. mgr inż. Arkuszyńska Angelika
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260302T123000Z
-DTEND:20260302T140500Z
-SUMMARY:Tsl (w)
-LOCATION:S2 72
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T123000Z
@@ -1103,6 +1089,13 @@ LOCATION:S3 72
 DESCRIPTION:Mechanika lotu\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Wrzesień Stanisław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260624T094000Z
+DTEND:20260624T111500Z
+SUMMARY:Ksp (E)
+LOCATION:S2 72
+DESCRIPTION:Konstrukcja statków powietrznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Danilecki Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260318T123000Z
 DTEND:20260318T140500Z
 SUMMARY:Lzn (w)
@@ -1584,6 +1577,13 @@ DTEND:20260619T092500Z
 SUMMARY:Mlot (L)
 LOCATION:41 67
 DESCRIPTION:Mechanika lotu\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Frant Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260626T075000Z
+DTEND:20260626T092500Z
+SUMMARY:Mlot (E)
+LOCATION:S3 72
+DESCRIPTION:Mechanika lotu\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Wrzesień Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T094000Z

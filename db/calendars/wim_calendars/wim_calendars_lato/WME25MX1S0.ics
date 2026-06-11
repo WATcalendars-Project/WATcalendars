@@ -91,8 +91,8 @@ BEGIN:VEVENT
 DTSTART:20250622T060000Z
 DTEND:20250622T073500Z
 SUMMARY:Gin (Zp. Ćw)
-LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1
+LOCATION:30/ 54
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/2\nProwadzący: dr inż. (prof. ucz.) Mierzyński Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250330T075000Z
@@ -765,6 +765,13 @@ DTEND:20250616T111500Z
 SUMMARY:Ja (ć)
 LOCATION:
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 14/30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250623T094000Z
+DTEND:20250623T111500Z
+SUMMARY:Gin (Zp. Ćw)
+LOCATION:116/ 54
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T123000Z

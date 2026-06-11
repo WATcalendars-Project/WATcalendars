@@ -312,6 +312,13 @@ LOCATION:238 K;237
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260629T094000Z
+DTEND:20260629T111500Z
+SUMMARY:F1 (E)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: prof. dr hab. inż. Kopytko Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260316T123000Z
 DTEND:20260316T140500Z
 SUMMARY:Metr (w)
@@ -396,6 +403,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: ppłk mgr inż. Goławski Rafał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260713T113000Z
+DTEND:20260713T130500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260302T150000Z
 DTEND:20260302T163500Z
 SUMMARY:Nom (w)
@@ -471,6 +485,13 @@ DTEND:20260615T153500Z
 SUMMARY:Metr (L)
 LOCATION:104 63A
 DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: por.mgr inż. Dyjak Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260713T140000Z
+DTEND:20260713T153500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T155000Z
@@ -1033,13 +1054,6 @@ LOCATION:111 58
 DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260520T075000Z
-DTEND:20260520T092500Z
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260527T075000Z
 DTEND:20260527T092500Z
 SUMMARY:Nom (ć)
@@ -1129,13 +1143,6 @@ DTEND:20260513T111500Z
 SUMMARY:Mat3 (ć)
 LOCATION:19 63
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Rzeszut Maciej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260520T094000Z
-DTEND:20260520T111500Z
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T094000Z
@@ -1710,6 +1717,13 @@ DTEND:20260618T092500Z
 SUMMARY:F1 (ć)
 LOCATION:3.7 75
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: prof. dr hab. inż. Kopytko Małgorzata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260702T075000Z
+DTEND:20260702T092500Z
+SUMMARY:Mat3 (w)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr Rzeszut Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T104000Z

@@ -4379,6 +4379,20 @@ LOCATION:085 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/5\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260610T113000Z
+DTEND:20260610T130500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PWC2)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T140000Z
+DTEND:20260610T153500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PWC2)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260611T060000Z
 DTEND:20260611T073500Z
 SUMMARY:PD (Inne)
@@ -4622,19 +4636,5 @@ DTEND:20260710T092500Z
 SUMMARY:Md2 (Inne)
 LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260713T060000Z
-DTEND:20260713T073500Z
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC2)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 17/18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260713T075000Z
-DTEND:20260713T092500Z
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PWC2)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 18/18\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

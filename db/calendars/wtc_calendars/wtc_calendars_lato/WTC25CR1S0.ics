@@ -718,6 +718,13 @@ LOCATION:19 36
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260714T075000Z
+DTEND:20260714T092500Z
+SUMMARY:50% SzS
+LOCATION:ć
+DESCRIPTION:50%\nRodzaj zajęć: SzS\nNumer zajęć: 1/5\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof; mjr mgr Wójcik Paweł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T104000Z
 DTEND:20260303T121500Z
 SUMMARY:F1 (ć)
@@ -814,6 +821,13 @@ DTEND:20260630T111500Z
 SUMMARY:Mat3 (E)
 LOCATION:19 36
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr Różański Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260714T094000Z
+DTEND:20260714T111500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PWC3)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T123000Z
@@ -1149,7 +1163,7 @@ DTSTART:20260610T060000Z
 DTEND:20260610T073500Z
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PW)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/5\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T060000Z
@@ -1236,13 +1250,6 @@ LOCATION:PĆT1
 DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/3\nProwadzący: ppor. mgr inż. Ślesiński Jakub
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260527T075000Z
-DTEND:20260527T092500Z
-SUMMARY:50% SzS
-LOCATION:ć
-DESCRIPTION:50%\nRodzaj zajęć: SzS\nNumer zajęć: 1/5\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof; płk dr Niemirka Sławomir
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260603T075000Z
 DTEND:20260603T092500Z
 SUMMARY:DGB (ć)
@@ -1266,9 +1273,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260708T075000Z
 DTEND:20260708T092500Z
-SUMMARY:Coo (Ep)
-LOCATION:110/ 14
-DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
+SUMMARY:Mat3 (Ep)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/2\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T104000Z
@@ -1355,13 +1362,6 @@ LOCATION:PĆT1
 DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/3\nProwadzący: ppor. mgr inż. Ślesiński Jakub
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260527T094000Z
-DTEND:20260527T111500Z
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/5\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260603T094000Z
 DTEND:20260603T111500Z
 SUMMARY:DGB (ć)
@@ -1374,6 +1374,13 @@ DTEND:20260610T111500Z
 SUMMARY:PD r
 LOCATION:BIBL /22
 DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: r\nNumer zajęć: 1/1\nProwadzący: ppłk rez. mgr Pytlos Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260708T094000Z
+DTEND:20260708T111500Z
+SUMMARY:Mat3 (Ep)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 2/2\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T123000Z
@@ -1941,6 +1948,13 @@ DTEND:20260618T092500Z
 SUMMARY:LCOiN (L)
 LOCATION:34/ 14
 DESCRIPTION:Laboratorium z chemii ogólnej i nieorganicznej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 50/60\nProwadzący: dr inż. Dyjak Sławomir; mgr inż. Kapusta Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260709T075000Z
+DTEND:20260709T092500Z
+SUMMARY:Coo (Ep)
+LOCATION:110/ 14
+DESCRIPTION:Chemia ogólna i nieorganiczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Czupryński Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T104000Z

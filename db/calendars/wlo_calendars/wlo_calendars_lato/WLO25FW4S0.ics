@@ -109,13 +109,6 @@ LOCATION:
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: dr Jastrzębska Małgorzata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260713T075000Z
-DTEND:20260713T092500Z
-SUMMARY:SzS (ć)
-LOCATION:4PL/20KP; 2pl/29kp; 25IX; 3S; 25IX; 4S; 25MX; 3S; 25FW; 4S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; ppłk dr Waszkiewicz Grzegorz; kpt. mgr Ślusakowicz Stanisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260330T094000Z
 DTEND:20260330T111500Z
 SUMMARY:Mat3 (ć)
@@ -169,7 +162,7 @@ DTSTART:20260713T094000Z
 DTEND:20260713T111500Z
 SUMMARY:SzS (ć)
 LOCATION:2pl/29kp; 25MX; 3S; 25FW; 4S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; ppłk dr Waszkiewicz Grzegorz; kpt. mgr Ślusakowicz Stanisław
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; ppłk dr Waszkiewicz Grzegorz; kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T113000Z
@@ -1150,6 +1143,13 @@ DTEND:20260520T153500Z
 SUMMARY:ZdSZ (ć)
 LOCATION:1.16/16
 DESCRIPTION:Zasady działania Sił Zbrojnych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/6\nProwadzący: dr Tomaszewski Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T140000Z
+DTEND:20260610T153500Z
+SUMMARY:SzS (ć)
+LOCATION:4PL/20KP; 2pl/29kp; 25IX; 3S; 25IX; 4S; 25MX; 3S; 25FW; 4S; 0 ST
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; ppłk dr Waszkiewicz Grzegorz; kpt. mgr Ślusakowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T165000Z

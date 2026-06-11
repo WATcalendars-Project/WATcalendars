@@ -284,6 +284,13 @@ LOCATION:113 25
 DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr inż. Dębski Andrzej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260629T094000Z
+DTEND:20260629T111500Z
+SUMMARY:F1 (E)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: prof. dr hab. inż. Kopytko Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260316T123000Z
 DTEND:20260316T140500Z
 SUMMARY:Metr (w)
@@ -445,11 +452,25 @@ LOCATION:113 25
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Grązka Michał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260713T140000Z
+DTEND:20260713T153500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260518T155000Z
 DTEND:20260518T172500Z
 SUMMARY:In (w)
 LOCATION:19 36
 DESCRIPTION:Informatyka\nRodzaj zajęć: Wykład\nNumer zajęć: 11-12\nProwadzący: mgr inż. Rajkowski Kamil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260713T155000Z
+DTEND:20260713T172500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T070000Z
@@ -942,13 +963,6 @@ LOCATION:ST.nr 1(PW
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260513T060000Z
-DTEND:20260513T073500Z
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260520T060000Z
 DTEND:20260520T073500Z
 SUMMARY:ZŻWAT 
@@ -1042,13 +1056,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T075000Z
 DTEND:20260506T092500Z
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260513T075000Z
-DTEND:20260513T092500Z
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PW
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4
@@ -1719,6 +1726,13 @@ LOCATION:19 36
 DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Majewski Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260702T075000Z
+DTEND:20260702T092500Z
+SUMMARY:Mat3 (w)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr Rzeszut Maciej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T104000Z
 DTEND:20260305T121500Z
 SUMMARY:F1 (w)
@@ -1815,13 +1829,6 @@ DTEND:20260611T111500Z
 SUMMARY:F1 (w)
 LOCATION:19 36
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: prof. dr hab. inż. Kopytko Małgorzata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260618T094000Z
-DTEND:20260618T111500Z
-SUMMARY:In (ć)
-LOCATION:4 63A
-DESCRIPTION:Informatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Szymonik Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T123000Z
@@ -1983,6 +1990,13 @@ DTEND:20260528T153500Z
 SUMMARY:F1 (L)
 LOCATION:142 S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Dudek Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T140000Z
+DTEND:20260611T153500Z
+SUMMARY:In (ć)
+LOCATION:4 63A
+DESCRIPTION:Informatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr inż. Szymonik Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T140000Z
