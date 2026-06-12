@@ -146,9 +146,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T094000Z
 DTEND:20260615T111500Z
-SUMMARY:Eksm (S)
+SUMMARY:TechP (L)
 LOCATION:26/ 34
-DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: płk dr hab. inż. Jóźwik Paweł
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T113000Z
@@ -162,7 +162,7 @@ DTSTART:20260525T113000Z
 DTEND:20260525T130500Z
 SUMMARY:TechP (L)
 LOCATION:26/ 34
-DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/10\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T113000Z
@@ -181,9 +181,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T113000Z
 DTEND:20260615T130500Z
-SUMMARY:Eksm (S)
+SUMMARY:PPT (S)
 LOCATION:26/ 34
-DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: płk dr hab. inż. Jóźwik Paweł
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T140000Z
@@ -218,7 +218,7 @@ DTSTART:20260519T060000Z
 DTEND:20260519T073500Z
 SUMMARY:TechP (L)
 LOCATION:26/ 34
-DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/10\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T060000Z
@@ -267,7 +267,7 @@ DTSTART:20260519T075000Z
 DTEND:20260519T092500Z
 SUMMARY:TechP (L)
 LOCATION:26/ 34
-DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/10\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T075000Z
@@ -337,7 +337,7 @@ DTSTART:20260519T094000Z
 DTEND:20260519T111500Z
 SUMMARY:TechP (L)
 LOCATION:26/ 34
-DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T094000Z
@@ -352,6 +352,13 @@ DTEND:20260602T111500Z
 SUMMARY:SzMKiTW (S)
 LOCATION:11/ 34
 DESCRIPTION:Seminarium z materiałów konstrukcyjnych i technik wytwarzania\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/15\nProwadzący: prof.dr hab.inż. Bojar Zbigniew
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T094000Z
+DTEND:20260616T111500Z
+SUMMARY:NMI (L)
+LOCATION:26/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Łukaszewicz Adrian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260623T094000Z
@@ -372,56 +379,63 @@ DTSTART:20260324T123000Z
 DTEND:20260324T140500Z
 SUMMARY:PPT (S)
 LOCATION:26/ 34
-DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/12\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T113000Z
 DTEND:20260414T130500Z
 SUMMARY:PPT (S)
 LOCATION:26/ 34
-DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/12\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T113000Z
 DTEND:20260421T130500Z
 SUMMARY:PPT (S)
 LOCATION:26/ 34
-DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 5/12\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T113000Z
 DTEND:20260428T130500Z
 SUMMARY:PPT (S)
 LOCATION:26/ 34
-DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 6/12\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T113000Z
 DTEND:20260505T130500Z
 SUMMARY:PPT (S)
 LOCATION:26/ 34
-DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 7/12\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T113000Z
 DTEND:20260512T130500Z
 SUMMARY:PPT (S)
 LOCATION:26/ 34
-DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 8/12\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T113000Z
 DTEND:20260519T130500Z
 SUMMARY:PPT (S)
 LOCATION:26/ 34
-DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 9/12\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T113000Z
 DTEND:20260602T130500Z
 SUMMARY:PPT (S)
 LOCATION:26/ 34
-DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 10/12\nProwadzący: dr inż. Durejko Tomasz
+DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/12\nProwadzący: dr inż. Durejko Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T113000Z
+DTEND:20260616T130500Z
+SUMMARY:NMI (L)
+LOCATION:26/ 34
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Łukaszewicz Adrian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260922T113000Z
@@ -578,6 +592,13 @@ LOCATION:14/ 34
 DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Projekt\nNumer zajęć: 5/12\nProwadzący: dr inż. Łukaszewicz Adrian
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260617T060000Z
+DTEND:20260617T073500Z
+SUMMARY:Eksm (S)
+LOCATION:26/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: płk dr hab. inż. Jóźwik Paweł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260318T085000Z
 DTEND:20260318T102500Z
 SUMMARY:Eksm (w)
@@ -625,6 +646,13 @@ DTEND:20260520T092500Z
 SUMMARY:Eksm (P)
 LOCATION:14/ 34
 DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Projekt\nNumer zajęć: 8/12\nProwadzący: dr inż. Łukaszewicz Adrian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T075000Z
+DTEND:20260617T092500Z
+SUMMARY:Eksm (S)
+LOCATION:26/ 34
+DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/3\nProwadzący: płk dr hab. inż. Jóźwik Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T104000Z
@@ -701,7 +729,7 @@ DTSTART:20260520T094000Z
 DTEND:20260520T111500Z
 SUMMARY:TechP (L)
 LOCATION:26/ 34
-DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T123000Z
@@ -946,14 +974,14 @@ DTSTART:20260514T094000Z
 DTEND:20260514T111500Z
 SUMMARY:NMI (L)
 LOCATION:15/ 34
-DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Komorek Zenon
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Komorek Zenon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T094000Z
 DTEND:20260528T111500Z
 SUMMARY:NMI (L)
 LOCATION:15/ 34
-DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 4/8\nProwadzący: dr inż. Łukaszewicz Adrian
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Łukaszewicz Adrian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260917T094000Z
@@ -974,14 +1002,14 @@ DTSTART:20260514T113000Z
 DTEND:20260514T130500Z
 SUMMARY:NMI (L)
 LOCATION:15/ 34
-DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/8\nProwadzący: dr inż. Komorek Zenon
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Komorek Zenon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T113000Z
 DTEND:20260528T130500Z
 SUMMARY:NMI (L)
 LOCATION:15/ 34
-DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/8\nProwadzący: dr inż. Łukaszewicz Adrian
+DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Łukaszewicz Adrian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T070000Z
@@ -1026,18 +1054,11 @@ LOCATION:11/ 34
 DESCRIPTION:Ekspertyza materiałowa\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/3\nProwadzący: płk dr hab. inż. Jóźwik Paweł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260612T060000Z
-DTEND:20260612T073500Z
-SUMMARY:NMI (L)
-LOCATION:26/ 34
-DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: dr inż. Łukaszewicz Adrian
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260619T060000Z
 DTEND:20260619T073500Z
 SUMMARY:TechP (L)
 LOCATION:26/ 34
-DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T085000Z
@@ -1089,18 +1110,11 @@ LOCATION:11/ 34
 DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Wykład\nNumer zajęć: 13/15\nProwadzący: dr inż. Łukaszewicz Adrian
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260612T075000Z
-DTEND:20260612T092500Z
-SUMMARY:NMI (L)
-LOCATION:26/ 34
-DESCRIPTION:Niemetalowe materiały inżynierskie\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: dr inż. Łukaszewicz Adrian
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260619T075000Z
 DTEND:20260619T092500Z
 SUMMARY:TechP (L)
 LOCATION:26/ 34
-DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr inż. Antolak-Dudka Anna
+DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Antolak-Dudka Anna
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T104000Z
@@ -1152,13 +1166,6 @@ LOCATION:15/ 34
 DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11/12\nProwadzący: dr inż. Łukaszewicz Adrian
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260612T094000Z
-DTEND:20260612T111500Z
-SUMMARY:TechP (L)
-LOCATION:26/ 34
-DESCRIPTION:Technologie przyrostowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: dr inż. Durejko Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260619T094000Z
 DTEND:20260619T111500Z
 SUMMARY:TechP (L)
@@ -1192,13 +1199,6 @@ DTEND:20260529T130500Z
 SUMMARY:Bwm (L)
 LOCATION:15/ 34
 DESCRIPTION:Badania właściwości mechanicznych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 12/12\nProwadzący: dr inż. Łukaszewicz Adrian
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260612T113000Z
-DTEND:20260612T130500Z
-SUMMARY:PPT (S)
-LOCATION:26/ 34
-DESCRIPTION:Projekt procesu technologicznego z wykorzystaniem CAD/CAM\nRodzaj zajęć: Seminarium\nNumer zajęć: 11/12\nProwadzący: dr inż. Durejko Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T113000Z

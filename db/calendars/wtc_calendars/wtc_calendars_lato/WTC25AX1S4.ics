@@ -1155,7 +1155,7 @@ BEGIN:VEVENT
 DTSTART:20260617T113000Z
 DTEND:20260617T130500Z
 SUMMARY:Kry (w)
-LOCATION:166 S
+LOCATION:110/ 14
 DESCRIPTION:Krystalografia\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Chrunik Maciej
 END:VEVENT
 BEGIN:VEVENT
@@ -1376,6 +1376,13 @@ LOCATION:166 S
 DESCRIPTION:Chemia ogólna i nieorganiczna II\nRodzaj zajęć: Wykład\nNumer zajęć: 13/13\nProwadzący: dr hab. inż. Spadło Anna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260625T075000Z
+DTEND:20260625T092500Z
+SUMMARY:Ain (E)
+LOCATION:1 55A
+DESCRIPTION:Analiza instrumentalna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: mgr inż. Boczkowski Maciej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T104000Z
 DTEND:20260305T121500Z
 SUMMARY:Chj (w)
@@ -1451,13 +1458,6 @@ DTEND:20260611T111500Z
 SUMMARY:CHo (ć)
 LOCATION:2 55A
 DESCRIPTION:Chemia organiczna II\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/10\nProwadzący: dr inż. Harmata Piotr
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260625T094000Z
-DTEND:20260625T111500Z
-SUMMARY:Ain (E)
-LOCATION:1 55A
-DESCRIPTION:Analiza instrumentalna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: mgr inż. Boczkowski Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260917T094000Z

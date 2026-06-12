@@ -5387,13 +5387,6 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 70/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260408T060000Z
-DTEND:20260408T073500Z
-SUMMARY:MM (ć)
-LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260408T075000Z
 DTEND:20260408T092500Z
 SUMMARY:MM (w)
@@ -5839,7 +5832,7 @@ DTSTART:20260427T075000Z
 DTEND:20260427T092500Z
 SUMMARY:MM (ć)
 LOCATION:236 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T094000Z
@@ -5972,7 +5965,7 @@ DTSTART:20260506T060000Z
 DTEND:20260506T073500Z
 SUMMARY:MM (ć)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T094000Z
@@ -6217,7 +6210,7 @@ DTSTART:20260518T140000Z
 DTEND:20260518T153500Z
 SUMMARY:MM (ć)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T060000Z
@@ -6322,7 +6315,7 @@ DTSTART:20260525T075000Z
 DTEND:20260525T092500Z
 SUMMARY:MM (ć)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T094000Z
@@ -6462,7 +6455,7 @@ DTSTART:20260601T075000Z
 DTEND:20260601T092500Z
 SUMMARY:MM (ć)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 6/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T094000Z
@@ -6609,7 +6602,7 @@ DTSTART:20260610T140000Z
 DTEND:20260610T153500Z
 SUMMARY:MM (ć)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T060000Z
@@ -6736,6 +6729,13 @@ DTEND:20260618T073500Z
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 90/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T075000Z
+DTEND:20260618T092500Z
+SUMMARY:MM (ć)
+LOCATION:308 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 8/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T094000Z
