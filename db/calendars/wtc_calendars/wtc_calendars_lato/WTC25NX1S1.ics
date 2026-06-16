@@ -200,13 +200,6 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/20\nProwadzący: prof.dr hab.inż. Jaroszewicz Leszek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260622T075000Z
-DTEND:20260622T092500Z
-SUMMARY:F1 (E)
-LOCATION:313 S
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof.dr hab.inż. Jaroszewicz Leszek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260302T104000Z
 DTEND:20260302T121500Z
 SUMMARY:MBIM (w)
@@ -653,6 +646,13 @@ DTEND:20260609T111500Z
 SUMMARY:MBIM (L)
 LOCATION:14/ 34
 DESCRIPTION:Metodyki badawcze w inżynierii materiałowej\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/44\nProwadzący: dr inż. Dworecka-Wójcik Julita
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260623T094000Z
+DTEND:20260623T111500Z
+SUMMARY:F1 (E)
+LOCATION:313 S
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof.dr hab.inż. Jaroszewicz Leszek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T123000Z

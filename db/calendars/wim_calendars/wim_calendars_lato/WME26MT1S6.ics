@@ -907,6 +907,13 @@ LOCATION:
 DESCRIPTION:REZ\nRodzaj zajęć: -\nNumer zajęć: 9/24
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250630T060000Z
+DTEND:20250630T073500Z
+SUMMARY:Pwd (ć)
+LOCATION:28/ 135
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Załoga Wiesława
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250707T060000Z
 DTEND:20250707T073500Z
 SUMMARY:Wf_E (E)
@@ -1388,13 +1395,6 @@ DTEND:20250616T153500Z
 SUMMARY:DWiPD (ć)
 LOCATION:28/ 135
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr Klimek Krzysztof
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250623T140000Z
-DTEND:20250623T153500Z
-SUMMARY:Pwd (ć)
-LOCATION:19/ 135
-DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/4\nProwadzący: dr Załoga Wiesława
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T140000Z
@@ -2384,13 +2384,6 @@ LOCATION:
 DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/8\nProwadzący: mgr inż. Oleksiak Marek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250618T060000Z
-DTEND:20250618T073500Z
-SUMMARY:BwCP (ć)
-LOCATION:
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Marczyk Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250625T060000Z
 DTEND:20250625T073500Z
 SUMMARY:TA (w)
@@ -2907,6 +2900,13 @@ DTEND:20250611T153500Z
 SUMMARY:TiOPP (ć)
 LOCATION:15/ 23a
 DESCRIPTION:Technika i organizacja prac przeładunkowych\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/2\nProwadzący: mgr inż. Radzimierski Mariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T140000Z
+DTEND:20250618T153500Z
+SUMMARY:BwCP (ć)
+LOCATION:
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Marczyk Maciej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T140000Z

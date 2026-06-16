@@ -193,13 +193,6 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 8/20\nProwadzący: mgr inż. Jakubowska Iwona
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260622T075000Z
-DTEND:20260622T092500Z
-SUMMARY:F1 (E)
-LOCATION:313 S
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: mgr inż. Jakubowska Iwona
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260706T075000Z
 DTEND:20260706T092500Z
 SUMMARY:F1 (Ep)
@@ -814,6 +807,13 @@ DTEND:20260616T111500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5/25\nProwadzący: kpt. mgr Włoch Mariola
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260623T094000Z
+DTEND:20260623T111500Z
+SUMMARY:F1 (E)
+LOCATION:313 S
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: mgr inż. Jakubowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260630T094000Z

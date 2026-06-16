@@ -5870,13 +5870,6 @@ LOCATION:011 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/13\nProwadzący: Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260428T140000Z
-DTEND:20260428T153500Z
-SUMMARY:WdA (L)
-LOCATION:121 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Tomasz Pałys
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260428T174000Z
 DTEND:20260428T191500Z
 SUMMARY:- (S.Sz.W.)
@@ -5993,7 +5986,7 @@ DTSTART:20260506T060000Z
 DTEND:20260506T073500Z
 SUMMARY:WdA (L)
 LOCATION:011 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 2/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T094000Z
@@ -6029,6 +6022,13 @@ DTEND:20260507T111500Z
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 80/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T155000Z
+DTEND:20260507T172500Z
+SUMMARY:WdA (L)
+LOCATION:125 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T060000Z
@@ -6689,20 +6689,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: (Inne)\nNumer zajęć: 12/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260615T113000Z
-DTEND:20260615T130500Z
-SUMMARY:Po (L)
-LOCATION:227 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/16\nProwadzący: mgr inż. Łukasz Matuszelański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260615T140000Z
-DTEND:20260615T153500Z
-SUMMARY:Po (L)
-LOCATION:227 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/16\nProwadzący: mgr inż. Łukasz Matuszelański
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260616T060000Z
 DTEND:20260616T073500Z
 SUMMARY:WF (ć)
@@ -6764,6 +6750,20 @@ DTEND:20260618T111500Z
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 90/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T113000Z
+DTEND:20260618T130500Z
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 15/16\nProwadzący: mgr inż. Łukasz Matuszelański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T140000Z
+DTEND:20260618T153500Z
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 16/16\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T075000Z

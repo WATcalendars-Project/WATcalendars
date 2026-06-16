@@ -291,13 +291,6 @@ LOCATION:ST.nr 1
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260601T113000Z
-DTEND:20260601T130500Z
-SUMMARY:Wmk (ć)
-LOCATION:9 67
-DESCRIPTION:Wytrzymałość materiałów i konstrukcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr inż. Szcześniak Michał
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260608T113000Z
 DTEND:20260608T130500Z
 SUMMARY:Sosz (L)
@@ -604,6 +597,13 @@ DTEND:20260609T111500Z
 SUMMARY:PA (L)
 LOCATION:43 67
 DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T094000Z
+DTEND:20260616T111500Z
+SUMMARY:Wmk (ć)
+LOCATION:S3 72
+DESCRIPTION:Wytrzymałość materiałów i konstrukcji\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Szcześniak Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T123000Z
