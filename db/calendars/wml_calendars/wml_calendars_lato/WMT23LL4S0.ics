@@ -214,13 +214,6 @@ LOCATION:3 67
 DESCRIPTION:Mechanika lotu\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Wrzesień Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260622T075000Z
-DTEND:20260622T092500Z
-SUMMARY:Tsl (E)
-LOCATION:S3 72
-DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: mgr. inz Karpiński Tomasz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260302T104000Z
 DTEND:20260302T121500Z
 SUMMARY:Tsl (w)
@@ -597,6 +590,13 @@ DTEND:20260616T092500Z
 SUMMARY:OPBMR (ć)
 LOCATION:1 55A
 DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260630T075000Z
+DTEND:20260630T092500Z
+SUMMARY:Tsl (E)
+LOCATION:S3 72
+DESCRIPTION:Teoria silników lotniczych\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: mgr. inz Karpiński Tomasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T104000Z

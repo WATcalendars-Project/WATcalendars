@@ -1593,13 +1593,6 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/31\nProwadzący: mgr Piórkowski Mariusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260618T094000Z
-DTEND:20260618T111500Z
-SUMMARY:BOiTO (L)
-LOCATION:1/22
-DESCRIPTION:Badania operacyjne i teoria optymalizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: prof. dr hab. inż. Ameljańczyk Andrzej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260319T123000Z
 DTEND:20260319T140500Z
 SUMMARY:DSŻwCPKiWnST (w)
@@ -1647,13 +1640,6 @@ DTEND:20260521T130500Z
 SUMMARY:DSŻwCPKiWnST (S)
 LOCATION:9/158
 DESCRIPTION:Działalność służby żywnościowej w czasie pokoju, kryzysu i wojny na szczeblu taktycznym\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260618T113000Z
-DTEND:20260618T130500Z
-SUMMARY:BOiTO (L)
-LOCATION:1/22
-DESCRIPTION:Badania operacyjne i teoria optymalizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: prof. dr hab. inż. Ameljańczyk Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T113000Z
@@ -1908,11 +1894,25 @@ LOCATION:aula/135
 DESCRIPTION:Badania operacyjne i teoria optymalizacji\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: prof. dr hab. inż. Ameljańczyk Andrzej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260619T113000Z
+DTEND:20260619T130500Z
+SUMMARY:BOiTO (L)
+LOCATION:1/22
+DESCRIPTION:Badania operacyjne i teoria optymalizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/8\nProwadzący: prof. dr hab. inż. Ameljańczyk Andrzej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260522T140000Z
 DTEND:20260522T153500Z
 SUMMARY:Mil (w)
 LOCATION:aula/135
 DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: prof.dr hab. Mitkow Szymon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T140000Z
+DTEND:20260619T153500Z
+SUMMARY:BOiTO (L)
+LOCATION:1/22
+DESCRIPTION:Badania operacyjne i teoria optymalizacji\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/8\nProwadzący: prof. dr hab. inż. Ameljańczyk Andrzej
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260307T070000Z
