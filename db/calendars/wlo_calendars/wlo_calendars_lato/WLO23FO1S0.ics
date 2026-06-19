@@ -410,13 +410,6 @@ LOCATION:5pl/24kp; 23FO; 1S; 0 MKu
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 20/31
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260630T060000Z
-DTEND:20260630T073500Z
-SUMMARY:Mps. (E)
-LOCATION:3.16/135
-DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260303T085000Z
 DTEND:20260303T102500Z
 SUMMARY:PESW (w)
@@ -1731,6 +1724,13 @@ DTEND:20260508T073500Z
 SUMMARY:Mps. (L)
 LOCATION:17/19; 16/19
 DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Nogas Patrycja; mgr inż. Dziobek Ilona
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260626T060000Z
+DTEND:20260626T073500Z
+SUMMARY:Mps. (E)
+LOCATION:0.19/135
+DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T085000Z

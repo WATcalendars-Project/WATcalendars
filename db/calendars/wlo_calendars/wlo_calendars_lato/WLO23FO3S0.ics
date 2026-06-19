@@ -585,13 +585,6 @@ LOCATION:17/19; 16/19
 DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: mgr inż. Dziobek Ilona; mgr inż. Nogas Patrycja
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260630T094000Z
-DTEND:20260630T111500Z
-SUMMARY:Mps. (E)
-LOCATION:3.16/135
-DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260303T123000Z
 DTEND:20260303T140500Z
 SUMMARY:DSiSM (w)
@@ -1906,6 +1899,13 @@ DTEND:20260619T111500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 31/31\nProwadzący: 135 powtarzanie zajęć - prowadzący prof. dr hab. Józef Pszczółkowski sala 0.24 bud.135
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260626T094000Z
+DTEND:20260626T111500Z
+SUMMARY:Mps. (E)
+LOCATION:0.19/135
+DESCRIPTION:Materiały pędne i smary\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Baczewski Kazimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T113000Z

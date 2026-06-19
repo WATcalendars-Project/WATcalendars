@@ -105,8 +105,8 @@ BEGIN:VEVENT
 DTSTART:20260629T075000Z
 DTEND:20260629T092500Z
 SUMMARY:Isl (E)
-LOCATION:3.16/135
-DESCRIPTION:Inżynieria systemów logistycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: prof. dr. hab. inż. Brzeziński Marian
+LOCATION:
+DESCRIPTION:Inżynieria systemów logistycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: prof. dr. hab. inż. Brzeziński Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260914T075000Z
@@ -674,6 +674,13 @@ DTEND:20260610T073500Z
 SUMMARY:Szłd (S)
 LOCATION:
 DESCRIPTION:Strategiczne zarządzanie łańcuchami dostaw\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/3\nProwadzący: dr Zamelek Paulina
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260624T060000Z
+DTEND:20260624T073500Z
+SUMMARY:Isl (E)
+LOCATION:aula/135
+DESCRIPTION:Inżynieria systemów logistycznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: prof. dr. hab. inż. Brzeziński Marian
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T085000Z
