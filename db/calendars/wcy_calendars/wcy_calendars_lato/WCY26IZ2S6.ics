@@ -340,20 +340,6 @@ LOCATION:101 65
 DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNumer zajęć: 5/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260703T075000Z
-DTEND:20260703T092500Z
-SUMMARY:Rou (L)
-LOCATION:120 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: Paweł Głębocki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260703T094000Z
-DTEND:20260703T111500Z
-SUMMARY:Rou (L)
-LOCATION:120 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: Paweł Głębocki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260706T060000Z
 DTEND:20260706T073500Z
 SUMMARY:Lan (w)
@@ -366,6 +352,20 @@ DTEND:20260706T092500Z
 SUMMARY:Lan (w)
 LOCATION:101 65
 DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNumer zajęć: 7/7\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260706T094000Z
+DTEND:20260706T111500Z
+SUMMARY:Rou (L)
+LOCATION:120 65
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9/10\nProwadzący: Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260706T113000Z
+DTEND:20260706T130500Z
+SUMMARY:Rou (L)
+LOCATION:120 65
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 10/10\nProwadzący: Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260707T060000Z
