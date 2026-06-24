@@ -382,6 +382,13 @@ LOCATION:
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 11/20\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof; dr inż. Świłło Rafał; dr inż. Korec-Kosturek Joanna
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260714T060000Z
+DTEND:20260714T073500Z
+SUMMARY:SzS (ć)
+LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S; 0 ST
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: dr Kowal Robert; ppłk dr Waszkiewicz Grzegorz; mjr mgr Stępień Jacek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T085000Z
 DTEND:20260303T102500Z
 SUMMARY:Ja (ć)
@@ -485,6 +492,13 @@ DTEND:20260616T092500Z
 SUMMARY:Ja (ć)
 LOCATION:241 K; 240 K; 239 K; 238 K; 237 K; 235 K; 234 K; 233 K; 232 K; 231 K; 230 K; 134 K; 133 K; 131 K; 128 K; 127 K; 125 K; 124 K; 122 K; 121 K; 120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 15/31
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260714T075000Z
+DTEND:20260714T092500Z
+SUMMARY:SzS (ć)
+LOCATION:5pl/29kp; 1PL/20KP; 25FW; 3S; 25EW; 1S; 25CR; 1S; 0 ST
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Kowal Robert; ppłk dr Waszkiewicz Grzegorz; mjr mgr Stępień Jacek; kpt. mgr Włoch Mariola
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T104000Z
@@ -767,13 +781,6 @@ LOCATION:5.17/135
 DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Seminarium\nNumer zajęć: 3/4\nProwadzący: prof.dr hab. Mitkow Szymon
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260714T140000Z
-DTEND:20260714T153500Z
-SUMMARY:SzS (ć)
-LOCATION:3PL/18KP; 5pl/29kp; 25AW; 5S; 25AW; 6S; 25FW; 3S; 25EW; 1S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/10\nProwadzący: mjr mgr inż. Wróbel Mateusz; dr Kowal Robert; ppłk dr Waszkiewicz Grzegorz; mjr mgr Stępień Jacek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260303T165000Z
 DTEND:20260303T182500Z
 SUMMARY:Plog (ć)
@@ -842,13 +849,6 @@ DTEND:20260616T172500Z
 SUMMARY:Plog (S)
 LOCATION:5.17/135
 DESCRIPTION:Podstawy logistyki\nRodzaj zajęć: Seminarium\nNumer zajęć: 4/4\nProwadzący: prof.dr hab. Mitkow Szymon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260714T155000Z
-DTEND:20260714T172500Z
-SUMMARY:SzS (ć)
-LOCATION:5pl/29kp; 25FW; 3S; 25EW; 1S; 0 ST
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/10\nProwadzący: dr Kowal Robert; ppłk dr Waszkiewicz Grzegorz; mjr mgr Stępień Jacek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T070000Z

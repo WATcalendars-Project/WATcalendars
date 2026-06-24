@@ -15,7 +15,7 @@ DTSTART:20260316T070000Z
 DTEND:20260316T083500Z
 SUMMARY:Mat3 (ć)
 LOCATION:19 63
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T060000Z
@@ -435,7 +435,7 @@ DTSTART:20260330T140000Z
 DTEND:20260330T153500Z
 SUMMARY:Mat3 (ć)
 LOCATION:19 63
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T140000Z
@@ -785,7 +785,7 @@ DTSTART:20260609T094000Z
 DTEND:20260609T111500Z
 SUMMARY:Mat3 (L)
 LOCATION:219 65
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260630T094000Z
@@ -1208,13 +1208,6 @@ LOCATION:113 25
 DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr inż. Dębski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260708T075000Z
-DTEND:20260708T092500Z
-SUMMARY:Mat3 (Ep)
-LOCATION:19 36
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: dr Różański Jerzy
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260715T075000Z
 DTEND:20260715T092500Z
 SUMMARY:Ilzdl (ć)
@@ -1332,13 +1325,6 @@ DTEND:20260610T111500Z
 SUMMARY:RiAIP (S)
 LOCATION:AW 3/038
 DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Seminarium\nNumer zajęć: 5-6\nProwadzący: ppłk dr Waszkiewicz Grzegorz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260708T094000Z
-DTEND:20260708T111500Z
-SUMMARY:Mat3 (Ep)
-LOCATION:19 36
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T123000Z
@@ -1681,7 +1667,7 @@ DTSTART:20260409T060000Z
 DTEND:20260409T073500Z
 SUMMARY:Mat3 (ć)
 LOCATION:39 36
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T060000Z
@@ -1740,6 +1726,13 @@ LOCATION:18 67
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż. Jędrak Michał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260709T060000Z
+DTEND:20260709T073500Z
+SUMMARY:Mat3 (Ep)
+LOCATION:218 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1-2\nProwadzący: dr Różański Jerzy
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260319T085000Z
 DTEND:20260319T102500Z
 SUMMARY:Mat3 (w)
@@ -1758,7 +1751,7 @@ DTSTART:20260402T075000Z
 DTEND:20260402T092500Z
 SUMMARY:Mat3 (ć)
 LOCATION:15 63
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T075000Z
@@ -1772,7 +1765,7 @@ DTSTART:20260416T075000Z
 DTEND:20260416T092500Z
 SUMMARY:Mat3 (ć)
 LOCATION:19 63
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T075000Z
@@ -1807,7 +1800,7 @@ DTSTART:20260521T075000Z
 DTEND:20260521T092500Z
 SUMMARY:Mat3 (L)
 LOCATION:218 65
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T075000Z
@@ -1828,7 +1821,14 @@ DTSTART:20260618T075000Z
 DTEND:20260618T092500Z
 SUMMARY:Mat3 (ć)
 LOCATION:46 63
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr hab Kubica Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260709T075000Z
+DTEND:20260709T092500Z
+SUMMARY:Mat3 (Ep)
+LOCATION:218 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T104000Z
@@ -1920,6 +1920,13 @@ DTEND:20260611T111500Z
 SUMMARY:F1 (ć)
 LOCATION:19 63
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Antolak-Dudka Anna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260709T094000Z
+DTEND:20260709T111500Z
+SUMMARY:Mat3 (Ep)
+LOCATION:218 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T123000Z
@@ -2027,6 +2034,13 @@ LOCATION:238 K;237
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260709T113000Z
+DTEND:20260709T130500Z
+SUMMARY:Mat3 (Ep)
+LOCATION:218 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 7-8\nProwadzący: dr Różański Jerzy
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T150000Z
 DTEND:20260305T163500Z
 SUMMARY:F1 (w)
@@ -2087,28 +2101,28 @@ DTSTART:20260507T140000Z
 DTEND:20260507T153500Z
 SUMMARY:Mat3 (ć)
 LOCATION:19 63
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T140000Z
 DTEND:20260514T153500Z
 SUMMARY:Mat3 (ć)
 LOCATION:41 36
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T140000Z
 DTEND:20260528T153500Z
 SUMMARY:Mat3 (ć)
 LOCATION:19 63
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T140000Z
 DTEND:20260611T153500Z
 SUMMARY:Mat3 (ć)
 LOCATION:41 36
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T070000Z
