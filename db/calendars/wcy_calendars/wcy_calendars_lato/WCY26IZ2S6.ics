@@ -223,16 +223,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260626T075000Z
 DTEND:20260626T092500Z
-SUMMARY:zsl (L)
-LOCATION:106 65
-DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260626T094000Z
-DTEND:20260626T111500Z
-SUMMARY:zsl (L)
-LOCATION:106 65
-DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr Sławomir Machowski
+SUMMARY:Rou (w)
+LOCATION:101 65
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260629T060000Z
@@ -326,13 +319,6 @@ LOCATION:011 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260702T113000Z
-DTEND:20260702T130500Z
-SUMMARY:Rou (w)
-LOCATION:101 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNumer zajęć: 5/5\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260703T060000Z
 DTEND:20260703T073500Z
 SUMMARY:Lan (w)
@@ -372,11 +358,25 @@ DTSTART:20260707T060000Z
 DTEND:20260707T073500Z
 SUMMARY:zsl (L)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5/10\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260707T075000Z
 DTEND:20260707T092500Z
+SUMMARY:zsl (L)
+LOCATION:106 65
+DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 6/10\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260707T094000Z
+DTEND:20260707T111500Z
+SUMMARY:zsl (L)
+LOCATION:106 65
+DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7/10\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260707T113000Z
+DTEND:20260707T130500Z
 SUMMARY:zsl (L)
 LOCATION:106 65
 DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNumer zajęć: 8/10\nProwadzący: dr Sławomir Machowski
