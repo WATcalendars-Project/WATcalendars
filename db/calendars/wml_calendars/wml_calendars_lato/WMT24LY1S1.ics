@@ -977,13 +977,6 @@ LOCATION:130 36
 DESCRIPTION:* Soszyński P\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kochan Jakub
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260603T075000Z
-DTEND:20260603T092500Z
-SUMMARY:Kis (w)
-LOCATION:34 67
-DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260610T075000Z
 DTEND:20260610T092500Z
 SUMMARY:Thers (L)
@@ -1070,20 +1063,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T094000Z
 DTEND:20260527T111500Z
-SUMMARY:Kis (w)
-LOCATION:34 67
-DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260610T094000Z
-DTEND:20260610T111500Z
-SUMMARY:Kis (w)
-LOCATION:34 67
-DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260617T094000Z
-DTEND:20260617T111500Z
 SUMMARY:Kis (w)
 LOCATION:34 67
 DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kunikowski Mateusz
@@ -1234,6 +1213,13 @@ DTEND:20260528T073500Z
 SUMMARY:Dims (L)
 LOCATION:130 36
 DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Djabin Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T060000Z
+DTEND:20260611T073500Z
+SUMMARY:Kis (w)
+LOCATION:34 67
+DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: mgr inż. Kunikowski Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T085000Z
@@ -1584,5 +1570,19 @@ DTEND:20260508T111500Z
 SUMMARY:Baoa (L)
 LOCATION:128 36
 DESCRIPTION:Basics of automation\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kochan Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T094000Z
+DTEND:20260612T111500Z
+SUMMARY:Kis (w)
+LOCATION:34 67
+DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kunikowski Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T113000Z
+DTEND:20260612T130500Z
+SUMMARY:Kis (w)
+LOCATION:34 67
+DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: mgr inż. Kunikowski Mateusz
 END:VEVENT
 END:VCALENDAR
