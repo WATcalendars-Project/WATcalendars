@@ -396,6 +396,13 @@ LOCATION:19 36
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260713T113000Z
+DTEND:20260713T130500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260309T150000Z
 DTEND:20260309T163500Z
 SUMMARY:Metr (w)
@@ -513,13 +520,6 @@ DTEND:20260525T172500Z
 SUMMARY:F1 (w)
 LOCATION:19 36
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Wykład\nNumer zajęć: 11-12\nProwadzący: prof. dr hab. inż. Kłosowicz Stanisław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260713T155000Z
-DTEND:20260713T172500Z
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T070000Z
@@ -1229,6 +1229,13 @@ LOCATION:113 25
 DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr inż. Dębski Andrzej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260708T075000Z
+DTEND:20260708T092500Z
+SUMMARY:Mat3 (Ep)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: mgr Brzozowska Iwona
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T104000Z
 DTEND:20260304T121500Z
 SUMMARY:PD (w)
@@ -1325,6 +1332,13 @@ DTEND:20260617T111500Z
 SUMMARY:RiAIP (S)
 LOCATION:AW 3/038
 DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Seminarium\nNumer zajęć: 5-6\nProwadzący: ppłk dr Waszkiewicz Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260708T094000Z
+DTEND:20260708T111500Z
+SUMMARY:Mat3 (Ep)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260715T094000Z
@@ -1768,13 +1782,6 @@ LOCATION:4 63A
 DESCRIPTION:Informatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Baranowski Leszek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260709T060000Z
-DTEND:20260709T073500Z
-SUMMARY:Mat3 (Ep)
-LOCATION:218 65
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1-2\nProwadzący: mgr Brzozowska Iwona
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260305T085000Z
 DTEND:20260305T102500Z
 SUMMARY:PD (ć)
@@ -1866,13 +1873,6 @@ LOCATION:19 36
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Kachel Stanisław
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260709T075000Z
-DTEND:20260709T092500Z
-SUMMARY:Mat3 (Ep)
-LOCATION:218 65
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: mgr Brzozowska Iwona
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260319T104000Z
 DTEND:20260319T121500Z
 SUMMARY:SŁiŚD (w)
@@ -1948,13 +1948,6 @@ DTEND:20260528T111500Z
 SUMMARY:F1 (ć)
 LOCATION:20 63
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Olifierczuk Marek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260709T094000Z
-DTEND:20260709T111500Z
-SUMMARY:Mat3 (Ep)
-LOCATION:218 65
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T123000Z
@@ -2060,13 +2053,6 @@ DTEND:20260618T130500Z
 SUMMARY:Ja (ć)
 LOCATION:238 K;237
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260709T113000Z
-DTEND:20260709T130500Z
-SUMMARY:Mat3 (Ep)
-LOCATION:218 65
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 7-8\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T150000Z

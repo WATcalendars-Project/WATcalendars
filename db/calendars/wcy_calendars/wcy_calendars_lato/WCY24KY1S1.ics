@@ -5328,7 +5328,7 @@ DTSTART:20260619T094000Z
 DTEND:20260619T111500Z
 SUMMARY:MM (Inne)
 LOCATION:313 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T113000Z
@@ -5408,6 +5408,13 @@ LOCATION:120 65 121 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260702T140000Z
+DTEND:20260702T153500Z
+SUMMARY:Wpp (Inne)
+LOCATION:106 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr inż. Adam Patkowski, mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260914T060000Z
 DTEND:20260914T073500Z
 SUMMARY:Sck (Inne)
@@ -5429,6 +5436,13 @@ LOCATION:120 65 121 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/1\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260916T075000Z
+DTEND:20260916T092500Z
+SUMMARY:MM (Inne)
+LOCATION:307 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260917T075000Z
 DTEND:20260917T092500Z
 SUMMARY:IO (Inne)
@@ -5441,5 +5455,12 @@ DTEND:20260918T073500Z
 SUMMARY:Pk (Inne)
 LOCATION:078 S
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: Kamila Sirant
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260921T094000Z
+DTEND:20260921T111500Z
+SUMMARY:MM (Inne)
+LOCATION:307 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 END:VCALENDAR
