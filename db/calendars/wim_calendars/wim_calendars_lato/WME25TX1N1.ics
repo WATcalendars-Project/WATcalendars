@@ -461,9 +461,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T094000Z
 DTEND:20250530T111500Z
-SUMMARY:Sta (w)
+SUMMARY:Sta (L)
 LOCATION:
-DESCRIPTION:Statystyka\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Mularczyk Piotr
+DESCRIPTION:Statystyka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/1\nProwadzący: dr Mularczyk Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T094000Z
@@ -575,7 +575,7 @@ DTSTART:20250509T113000Z
 DTEND:20250509T130500Z
 SUMMARY:Sta (w)
 LOCATION:
-DESCRIPTION:Statystyka\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Mularczyk Piotr
+DESCRIPTION:Statystyka\nRodzaj zajęć: Wykład\nNumer zajęć: 1/4\nProwadzący: dr Mularczyk Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T113000Z
@@ -734,9 +734,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T140000Z
 DTEND:20250530T153500Z
-SUMMARY:Sta (L)
+SUMMARY:Sta (w)
 LOCATION:
-DESCRIPTION:Statystyka\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1/1\nProwadzący: dr Mularczyk Piotr
+DESCRIPTION:Statystyka\nRodzaj zajęć: Wykład\nNumer zajęć: 2/4\nProwadzący: dr Mularczyk Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T140000Z
@@ -1420,9 +1420,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250517T113000Z
 DTEND:20250517T130500Z
-SUMMARY:Sta (w)
+SUMMARY:Sta (ć)
 LOCATION:
-DESCRIPTION:Statystyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Mularczyk Piotr
+DESCRIPTION:Statystyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Mularczyk Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T113000Z
@@ -1511,9 +1511,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250517T140000Z
 DTEND:20250517T153500Z
-SUMMARY:Sta (ć)
+SUMMARY:Sta (w)
 LOCATION:
-DESCRIPTION:Statystyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 4/4\nProwadzący: dr Mularczyk Piotr
+DESCRIPTION:Statystyka\nRodzaj zajęć: Wykład\nNumer zajęć: 4/4\nProwadzący: dr Mularczyk Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T140000Z

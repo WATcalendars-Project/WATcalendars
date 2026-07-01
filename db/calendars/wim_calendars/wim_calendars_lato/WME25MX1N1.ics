@@ -613,11 +613,18 @@ LOCATION:9/ 62
 DESCRIPTION:Mt\nRodzaj zajęć: -\nNumer zajęć: 5/12\nProwadzący: dr inż. Bogusz Paweł
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250704T113000Z
+DTEND:20250704T130500Z
+SUMMARY:Gin (Zp. Ćw)
+LOCATION:109/ 54
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250912T113000Z
 DTEND:20250912T130500Z
 SUMMARY:Gin (Zp. Ćw)
-LOCATION:29/ 54; 30/ 54
-DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 1/1
+LOCATION:29/ 54
+DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: (Zp. Ćw)\nNumer zajęć: 2/2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250228T150000Z

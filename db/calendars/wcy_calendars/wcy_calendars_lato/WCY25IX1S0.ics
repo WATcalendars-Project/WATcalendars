@@ -4460,7 +4460,7 @@ DTSTART:20260629T113000Z
 DTEND:20260629T130500Z
 SUMMARY:F1 (E)
 LOCATION:19 36
-DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260701T075000Z
@@ -4512,6 +4512,13 @@ LOCATION:314 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: (Inne)\nNumer zajęć: 3/2\nProwadzący: dr Jan Nawrocki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260709T060000Z
+DTEND:20260709T073500Z
+SUMMARY:F1 (Inne)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć: (Inne)\nNumer zajęć: 2/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260710T075000Z
 DTEND:20260710T092500Z
 SUMMARY:Md2 (Inne)
@@ -4524,12 +4531,5 @@ DTEND:20260710T111500Z
 SUMMARY:Tpi (Inne)
 LOCATION:314 S
 DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: (Inne)\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260713T094000Z
-DTEND:20260713T111500Z
-SUMMARY:F1 (E)
-LOCATION:19 36
-DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć: Egzamin\nNumer zajęć: 2/2\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

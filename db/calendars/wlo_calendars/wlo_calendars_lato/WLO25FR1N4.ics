@@ -60,6 +60,13 @@ LOCATION:0.24/135
 DESCRIPTION:Standaryzacja i znakowanie w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/3\nProwadzący: dr n.społ. inż. Rogowski Bogusław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260627T060000Z
+DTEND:20260627T073500Z
+SUMMARY:Mil (ć)
+LOCATION:1/22
+DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260912T060000Z
 DTEND:20260912T073500Z
 SUMMARY:Mil (Ep)
@@ -92,7 +99,7 @@ DTSTART:20260411T075000Z
 DTEND:20260411T092500Z
 SUMMARY:Mil (ć)
 LOCATION:5.21/135
-DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1/7
+DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T075000Z
@@ -169,7 +176,7 @@ DTSTART:20260411T094000Z
 DTEND:20260411T111500Z
 SUMMARY:Mil (ć)
 LOCATION:5.21/135
-DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 2/7
+DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T094000Z
@@ -219,13 +226,6 @@ DTEND:20260620T111500Z
 SUMMARY:Sizl (S)
 LOCATION:0.19/135
 DESCRIPTION:Standaryzacja i znakowanie w logistyce\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/1\nProwadzący: dr n.społ. inż. Rogowski Bogusław
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260627T094000Z
-DTEND:20260627T111500Z
-SUMMARY:Mil (ć)
-LOCATION:1/22
-DESCRIPTION:Metody ilościowe w logistyce\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3/7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260711T094000Z
@@ -525,7 +525,7 @@ BEGIN:VEVENT
 DTSTART:20260628T060000Z
 DTEND:20260628T073500Z
 SUMMARY:Isl (S)
-LOCATION:4.17b/135
+LOCATION:1.27/135
 DESCRIPTION:Inżynieria systemów logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 1/2\nProwadzący: prof. dr. hab. inż. Brzeziński Marian
 END:VEVENT
 BEGIN:VEVENT
@@ -616,7 +616,7 @@ BEGIN:VEVENT
 DTSTART:20260628T075000Z
 DTEND:20260628T092500Z
 SUMMARY:Isl (S)
-LOCATION:4.17b/135
+LOCATION:1.27/135
 DESCRIPTION:Inżynieria systemów logistycznych\nRodzaj zajęć: Seminarium\nNumer zajęć: 2/2\nProwadzący: prof. dr. hab. inż. Brzeziński Marian
 END:VEVENT
 BEGIN:VEVENT
