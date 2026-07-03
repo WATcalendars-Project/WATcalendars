@@ -2195,13 +2195,6 @@ LOCATION:301/S
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1/1\nProwadzący: prof. dr hab. inż. Jóźwikowski Krzysztof
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261002T094000Z
-DTEND:20261002T111500Z
-SUMMARY:T* (w)
-LOCATION:aula/135
-DESCRIPTION:Towaroznawstwo\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr Oziębło Małgorzata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260306T123000Z
 DTEND:20260306T140500Z
 SUMMARY:Ja (ć)
@@ -2298,6 +2291,13 @@ DTEND:20260313T163500Z
 SUMMARY:Mat3 (w)
 LOCATION:301/S
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 11/11\nProwadzący: dr Tomaszewska Justyna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T140000Z
+DTEND:20261002T153500Z
+SUMMARY:IWSL (w)
+LOCATION:aula/135
+DESCRIPTION:Inżynieria wojskowego systemu logistycznego\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: płk dr inż. Zelkowski Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T155000Z

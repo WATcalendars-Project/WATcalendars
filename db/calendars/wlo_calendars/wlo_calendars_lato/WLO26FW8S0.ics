@@ -36,7 +36,7 @@ DTSTART:20261001T140000Z
 DTEND:20261001T153500Z
 SUMMARY:SzS (w)
 LOCATION:1W
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr; ppłk rez. mgr Czarnecki Jarosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T155000Z
@@ -58,5 +58,12 @@ DTEND:20261002T092500Z
 SUMMARY:WdS (w)
 LOCATION:aula/135
 DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr Łakoma Ewa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T094000Z
+DTEND:20261002T111500Z
+SUMMARY:PGI (w)
+LOCATION:aula/135
+DESCRIPTION:Podstawy grafiki inżynierskiej\nRodzaj zajęć: Wykład\nNumer zajęć: 1/1\nProwadzący: dr hab. inż. (prof. ucz.) Hutsaylyuk Volodymyr
 END:VEVENT
 END:VCALENDAR
