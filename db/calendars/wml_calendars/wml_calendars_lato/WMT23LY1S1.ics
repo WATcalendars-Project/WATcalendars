@@ -53,18 +53,25 @@ LOCATION:24 67
 DESCRIPTION:Fligh\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż. Janczewski Mariusz ...
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260601T060000Z
-DTEND:20260601T073500Z
-SUMMARY:Kis (w)
-LOCATION:34 67
-DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Rochala Zdzisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260608T060000Z
 DTEND:20260608T073500Z
 SUMMARY:Fligh (ć)
 LOCATION:24 67
 DESCRIPTION:Fligh\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż. Janczewski Mariusz ...
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T060000Z
+DTEND:20260615T073500Z
+SUMMARY:Aero (ć)
+LOCATION:P 66
+DESCRIPTION:Aeroelasticity\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Rogólski Robert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T085000Z
+DTEND:20260202T102500Z
+SUMMARY:Kis (E)
+LOCATION:24 67
+DESCRIPTION:Kis\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: kpt. mgr inż. Arkuszyńska Angelika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T085000Z
@@ -142,6 +149,13 @@ DTEND:20260608T092500Z
 SUMMARY:Syta (ć)
 LOCATION:33 67
 DESCRIPTION:Syta\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Rochala Zdzisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T075000Z
+DTEND:20260615T092500Z
+SUMMARY:Aero (ć)
+LOCATION:P 66
+DESCRIPTION:Aeroelasticity\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Rogólski Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260622T075000Z
@@ -282,6 +296,13 @@ DTEND:20260615T130500Z
 SUMMARY:AiPs (ć)
 LOCATION:S1 72
 DESCRIPTION:Aircraft Propulsion Systems\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr hab. inż Chachurski Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T070000Z
+DTEND:20260203T083500Z
+SUMMARY:SibK (E)
+LOCATION:34 67
+DESCRIPTION:SibK\nRodzaj zajęć: Egzamin\nNumer zajęć: 1-2\nProwadzący: kpt. mgr inż. Arkuszyńska Angelika
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T070000Z
@@ -438,13 +459,6 @@ LOCATION:24 67
 DESCRIPTION:Fligh\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Janczewski Mariusz ...
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260609T075000Z
-DTEND:20260609T092500Z
-SUMMARY:Kis (w)
-LOCATION:33 67
-DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr inż. Rochala Zdzisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260310T104000Z
 DTEND:20260310T121500Z
 SUMMARY:Avsy (w)
@@ -527,13 +541,6 @@ DTEND:20260602T111500Z
 SUMMARY:Aiila (L)
 LOCATION:H H7
 DESCRIPTION:Aircraft Intergrated Laboratory\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: kpt. mgr inż. Arkuszyńska Angelika
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260609T094000Z
-DTEND:20260609T111500Z
-SUMMARY:Kis (w)
-LOCATION:33 67
-DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Rochala Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T123000Z
@@ -674,6 +681,20 @@ DTEND:20260610T073500Z
 SUMMARY:AiPs (w)
 LOCATION:S1 72
 DESCRIPTION:Aircraft Propulsion Systems\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab. inż Chachurski Ryszard
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T085000Z
+DTEND:20260204T102500Z
+SUMMARY:MajM (E)
+LOCATION:24 67
+DESCRIPTION:MajM\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Rośkowicz Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T085000Z
+DTEND:20260211T102500Z
+SUMMARY:Theoa (E)
+LOCATION:S1 72
+DESCRIPTION:Theory of Aircraft Engines\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: płk dr hab. inż. Kozakiewicz Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T075000Z
@@ -1210,9 +1231,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T113000Z
 DTEND:20260611T130500Z
-SUMMARY:Aero (ć)
+SUMMARY:Kis (w)
 LOCATION:24 67
-DESCRIPTION:Aeroelasticity\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: ppłk dr inż. Rogólski Robert
+DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr inż. Rochala Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T113000Z
@@ -1231,9 +1252,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T140000Z
 DTEND:20260611T153500Z
-SUMMARY:Aero (ć)
-LOCATION:24 67
-DESCRIPTION:Aeroelasticity\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: ppłk dr inż. Rogólski Robert
+SUMMARY:Kis (w)
+LOCATION:33 67
+DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr inż. Rochala Zdzisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T155000Z
+DTEND:20260611T172500Z
+SUMMARY:Kis (w)
+LOCATION:33 67
+DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 11-12\nProwadzący: dr inż. Rochala Zdzisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T070000Z

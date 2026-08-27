@@ -102,6 +102,13 @@ LOCATION:4 H7
 DESCRIPTION:Inżynieryjno lotnicze zabezpieczenie działań lot.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr. inż. Siuta Bogumił
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260216T085000Z
+DTEND:20260216T102500Z
+SUMMARY:Mat I (Ep)
+LOCATION:46 63
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: dr Różański Jerzy
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260316T085000Z
 DTEND:20260316T102500Z
 SUMMARY:F1 (w)
@@ -205,6 +212,20 @@ DTEND:20260720T092500Z
 SUMMARY:Ilzdl (ć)
 LOCATION:4 H7
 DESCRIPTION:Inżynieryjno lotnicze zabezpieczenie działań lot.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr. inż. Siuta Bogumił
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T104000Z
+DTEND:20260202T121500Z
+SUMMARY:M1 (E)
+LOCATION:19 36
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr Różański Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T104000Z
+DTEND:20260216T121500Z
+SUMMARY:Mat I (Ep)
+LOCATION:46 63
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T104000Z
@@ -312,6 +333,13 @@ LOCATION:238 K;237
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260202T123000Z
+DTEND:20260202T140500Z
+SUMMARY:M1 (E)
+LOCATION:19 36
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 7-8\nProwadzący: dr Różański Jerzy
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260302T123000Z
 DTEND:20260302T140500Z
 SUMMARY:DWiPD (w)
@@ -344,21 +372,21 @@ DTSTART:20260330T113000Z
 DTEND:20260330T130500Z
 SUMMARY:Mat3 (ć)
 LOCATION:325 S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T113000Z
 DTEND:20260413T130500Z
 SUMMARY:Mat3 (ć)
 LOCATION:20 63
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T113000Z
 DTEND:20260420T130500Z
 SUMMARY:Mat3 (ć)
 LOCATION:120 45
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T113000Z
@@ -592,6 +620,20 @@ LOCATION:004 36
 DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Janiszewski Jacek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260203T085000Z
+DTEND:20260203T102500Z
+SUMMARY:HP (E)
+LOCATION:19 36
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr Jasiński Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T085000Z
+DTEND:20260217T102500Z
+SUMMARY:Mat2 (Ep)
+LOCATION:S3 72
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: dr Różański Jerzy
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T085000Z
 DTEND:20260303T102500Z
 SUMMARY:Mat3 (w)
@@ -702,6 +744,13 @@ DTEND:20260707T092500Z
 SUMMARY:F1 (Ep)
 LOCATION:19 36
 DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: dr inż. Antolak-Dudka Anna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T104000Z
+DTEND:20260217T121500Z
+SUMMARY:HP (Ep)
+LOCATION:19 36
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: dr Jasiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T104000Z
@@ -1208,13 +1257,6 @@ LOCATION:113 25
 DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr inż. Dębski Andrzej
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260708T075000Z
-DTEND:20260708T092500Z
-SUMMARY:Mat3 (Ep)
-LOCATION:19 36
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: dr Różański Jerzy
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260715T075000Z
 DTEND:20260715T092500Z
 SUMMARY:Ilzdl (ć)
@@ -1227,6 +1269,13 @@ DTEND:20260722T092500Z
 SUMMARY:Ilzdl (ć)
 LOCATION:
 DESCRIPTION:Inżynieryjno lotnicze zabezpieczenie działań lot.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr. inż. Siuta Bogumił
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T104000Z
+DTEND:20260218T121500Z
+SUMMARY:M1 (Ep)
+LOCATION:19 36
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T104000Z
@@ -1325,13 +1374,6 @@ DTEND:20260610T111500Z
 SUMMARY:RiAIP (S)
 LOCATION:AW 3/038
 DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Seminarium\nNumer zajęć: 5-6\nProwadzący: ppłk dr Waszkiewicz Grzegorz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260708T094000Z
-DTEND:20260708T111500Z
-SUMMARY:Mat3 (Ep)
-LOCATION:19 36
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T123000Z
@@ -1723,14 +1765,14 @@ DTSTART:20260528T060000Z
 DTEND:20260528T073500Z
 SUMMARY:Mat3 (L)
 LOCATION:219 65
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T060000Z
 DTEND:20260611T073500Z
 SUMMARY:Mat3 (ć)
 LOCATION:203 65
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T060000Z
@@ -1740,11 +1782,18 @@ LOCATION:2 25
 DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Grzegorczyk Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260709T060000Z
+DTEND:20260709T073500Z
+SUMMARY:Mat3 (Ep)
+LOCATION:218 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1-2\nProwadzący: dr Różański Jerzy
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260312T085000Z
 DTEND:20260312T102500Z
 SUMMARY:Mat3 (ć)
 LOCATION:20 63
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T085000Z
@@ -1838,6 +1887,13 @@ LOCATION:2 25
 DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Grzegorczyk Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260709T075000Z
+DTEND:20260709T092500Z
+SUMMARY:Mat3 (Ep)
+LOCATION:218 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: dr Różański Jerzy
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260319T104000Z
 DTEND:20260319T121500Z
 SUMMARY:SŁiŚD (w)
@@ -1870,7 +1926,7 @@ DTSTART:20260416T094000Z
 DTEND:20260416T111500Z
 SUMMARY:Mat3 (ć)
 LOCATION:20 63
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T094000Z
@@ -1898,21 +1954,21 @@ DTSTART:20260514T094000Z
 DTEND:20260514T111500Z
 SUMMARY:Mat3 (ć)
 LOCATION:20 63
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T094000Z
 DTEND:20260521T111500Z
 SUMMARY:Mat3 (ć)
 LOCATION:41 36
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T094000Z
 DTEND:20260528T111500Z
 SUMMARY:Mat3 (ć)
 LOCATION:15 63
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T094000Z
@@ -1926,7 +1982,14 @@ DTSTART:20260618T094000Z
 DTEND:20260618T111500Z
 SUMMARY:Mat3 (ć)
 LOCATION:20 63
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr hab Kubica Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260709T094000Z
+DTEND:20260709T111500Z
+SUMMARY:Mat3 (Ep)
+LOCATION:218 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T123000Z
@@ -2034,6 +2097,13 @@ LOCATION:238 K;237
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260709T113000Z
+DTEND:20260709T130500Z
+SUMMARY:Mat3 (Ep)
+LOCATION:218 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 7-8\nProwadzący: dr Różański Jerzy
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T150000Z
 DTEND:20260305T163500Z
 SUMMARY:F1 (w)
@@ -2101,7 +2171,7 @@ DTSTART:20260521T140000Z
 DTEND:20260521T153500Z
 SUMMARY:Mat3 (L)
 LOCATION:219 65
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr Kubica Adam
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr hab Kubica Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T140000Z
@@ -2265,6 +2335,13 @@ LOCATION:S2 72
 DESCRIPTION:Inżynieryjno lotnicze zabezpieczenie działań lot.\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr. inż. Siuta Bogumił
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260206T104000Z
+DTEND:20260206T121500Z
+SUMMARY:Mat2 (E)
+LOCATION:19 36
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr Różański Jerzy
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260306T104000Z
 DTEND:20260306T121500Z
 SUMMARY:SSW 
@@ -2326,6 +2403,13 @@ DTEND:20260724T111500Z
 SUMMARY:Ilzdl (w)
 LOCATION:S2 72
 DESCRIPTION:Inżynieryjno lotnicze zabezpieczenie działań lot.\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr. inż. Siuta Bogumił
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T123000Z
+DTEND:20260206T140500Z
+SUMMARY:Mat2 (E)
+LOCATION:19 36
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 7-8\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T123000Z
@@ -2410,6 +2494,13 @@ DTEND:20260724T130500Z
 SUMMARY:Ilzdl (w)
 LOCATION:S2 72
 DESCRIPTION:Inżynieryjno lotnicze zabezpieczenie działań lot.\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: mgr. inż. Siuta Bogumił
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T150000Z
+DTEND:20260220T163500Z
+SUMMARY:Mat2 (Ep)
+LOCATION:19 36
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 9-10\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T150000Z

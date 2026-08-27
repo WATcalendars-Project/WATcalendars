@@ -648,6 +648,13 @@ LOCATION:113 25
 DESCRIPTION:Laboratorium inżynierii wytwarzania i pomiarów warsztatowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Majewski Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260210T104000Z
+DTEND:20260210T121500Z
+SUMMARY:FII (E)
+LOCATION:19 36
+DESCRIPTION:Fizyka II\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: prof. dr hab. inż. Kopytko Małgorzata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T104000Z
 DTEND:20260310T121500Z
 SUMMARY:PKM (w)
@@ -879,6 +886,13 @@ LOCATION:47 63
 DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: dr inż. Jaworowicz Marek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260211T070000Z
+DTEND:20260211T083500Z
+SUMMARY:Met (E)
+LOCATION:19 36
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1-2\nProwadzący: prof.dr hab.inż. Trębiński Radosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260311T070000Z
 DTEND:20260311T083500Z
 SUMMARY:ZŻWAT 
@@ -975,6 +989,20 @@ DTEND:20260617T073500Z
 SUMMARY:ZŻWAT 
 LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: por.mgr inż. Cichy Damian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T085000Z
+DTEND:20260204T102500Z
+SUMMARY:EiE1 (E)
+LOCATION:19 36
+DESCRIPTION:Elektrotechnika i elektronika 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Pietrasieński Jan
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T085000Z
+DTEND:20260211T102500Z
+SUMMARY:Met (E)
+LOCATION:19 36
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: prof.dr hab.inż. Trębiński Radosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T085000Z
@@ -1199,6 +1227,13 @@ DTEND:20260617T111500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr Włodek Janusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T123000Z
+DTEND:20260218T140500Z
+SUMMARY:Pwd (Ep)
+LOCATION:19 36
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 7-8\nProwadzący: dr Załoga Wiesława
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T123000Z
@@ -1915,6 +1950,13 @@ LOCATION:3 63A
 DESCRIPTION:Elektrotechnika i elektronika II\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Jakubik Wojciech
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260206T085000Z
+DTEND:20260206T102500Z
+SUMMARY:Pwd (E)
+LOCATION:19 36
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr Załoga Wiesława
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260306T085000Z
 DTEND:20260306T102500Z
 SUMMARY:WF (ć)
@@ -1992,6 +2034,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr Włodek Janusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260220T104000Z
+DTEND:20260220T121500Z
+SUMMARY:Met (Ep)
+LOCATION:19 36
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: prof.dr hab.inż. Trębiński Radosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260306T104000Z
 DTEND:20260306T121500Z
 SUMMARY:SSW 
@@ -2067,6 +2116,13 @@ DTEND:20260619T111500Z
 SUMMARY:TA 
 LOCATION:AW 3/043
 DESCRIPTION:TAKTYKA\nRodzaj zajęć: -\nNumer zajęć: 5-6\nProwadzący: kpt. mgr Ślusakowicz Stanisław; mjr mgr Zawadzki Filip
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T123000Z
+DTEND:20260220T140500Z
+SUMMARY:Met (Ep)
+LOCATION:19 36
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 7-8\nProwadzący: prof.dr hab.inż. Trębiński Radosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T123000Z
@@ -2279,6 +2335,20 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 13-14
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260131T070000Z
+DTEND:20260131T083500Z
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260221T070000Z
+DTEND:20260221T083500Z
+SUMMARY:XMat1 (Ep)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1-2\nProwadzący: dr inż. Falkiewicz Ewa
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260307T070000Z
 DTEND:20260307T083500Z
 SUMMARY:XWF (ć)
@@ -2368,5 +2438,26 @@ DTEND:20260620T073500Z
 SUMMARY:XWF (ć)
 LOCATION:
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260221T085000Z
+DTEND:20260221T102500Z
+SUMMARY:XMat2 (Ep)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: dr Gdula Agnieszka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260207T104000Z
+DTEND:20260207T121500Z
+SUMMARY:XMat2 (E)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr Gdula Agnieszka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260207T123000Z
+DTEND:20260207T140500Z
+SUMMARY:XMat2 (E)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 7-8\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 END:VCALENDAR

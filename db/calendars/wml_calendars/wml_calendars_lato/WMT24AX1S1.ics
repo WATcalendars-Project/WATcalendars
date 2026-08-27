@@ -39,13 +39,6 @@ LOCATION:46 63
 DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: mgr inż. Pustkowski Remigiusz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260420T060000Z
-DTEND:20260420T073500Z
-SUMMARY:Safi (ć)
-LOCATION:18 63
-DESCRIPTION:inż. Safiańczuk Adam\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260511T060000Z
 DTEND:20260511T073500Z
 SUMMARY:Prb (L)
@@ -79,6 +72,13 @@ DTEND:20260615T073500Z
 SUMMARY:WdM (L)
 LOCATION:331 S
 DESCRIPTION:Wprowadzenie do mechatroniki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T085000Z
+DTEND:20260202T102500Z
+SUMMARY:EiE1 (E)
+LOCATION:46 63
+DESCRIPTION:Elektrotechnika i elektronika 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Pietrasieński Jan
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T085000Z
@@ -781,11 +781,25 @@ LOCATION:331 S
 DESCRIPTION:Podstawy Cax\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr inż. Warchulski Jacek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260428T140000Z
-DTEND:20260428T153500Z
+DTSTART:20260609T140000Z
+DTEND:20260609T153500Z
 SUMMARY:Safi (L)
-LOCATION:47 63;16 6
+LOCATION:17 63
 DESCRIPTION:inż. Safiańczuk Adam\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T140000Z
+DTEND:20260616T153500Z
+SUMMARY:Safi (L)
+LOCATION:17 63
+DESCRIPTION:inż. Safiańczuk Adam\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T070000Z
+DTEND:20260211T083500Z
+SUMMARY:Met (E)
+LOCATION:19 36
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1-2\nProwadzący: prof.dr hab.inż. Trębiński Radosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T070000Z
@@ -879,6 +893,20 @@ LOCATION:47 63
 DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Panasiuk Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260204T085000Z
+DTEND:20260204T102500Z
+SUMMARY:PKM 1 (E)
+LOCATION:46 63
+DESCRIPTION:Podstawy konstrukcji maszyn 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: prof.dr hab.inż. Gacek Józef
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T085000Z
+DTEND:20260211T102500Z
+SUMMARY:Met (E)
+LOCATION:19 36
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: prof.dr hab.inż. Trębiński Radosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T085000Z
 DTEND:20260304T102500Z
 SUMMARY:PA (w)
@@ -926,13 +954,6 @@ DTEND:20260415T092500Z
 SUMMARY:Ucm (w)
 LOCATION:46 63
 DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr inż. Pustkowski Remigiusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260422T075000Z
-DTEND:20260422T092500Z
-SUMMARY:Safi (L)
-LOCATION:16 63;17 6
-DESCRIPTION:inż. Safiańczuk Adam\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T075000Z
@@ -1082,6 +1103,13 @@ LOCATION:325 S
 DESCRIPTION:Wprowadzenie do mechatroniki\nRodzaj zajęć: Projekt\nNumer zajęć: 5-6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260610T094000Z
+DTEND:20260610T111500Z
+SUMMARY:Safi (ć)
+LOCATION:17 63
+DESCRIPTION:inż. Safiańczuk Adam\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260617T094000Z
 DTEND:20260617T111500Z
 SUMMARY:EiE2 (L)
@@ -1136,6 +1164,13 @@ DTEND:20260429T153500Z
 SUMMARY:Ucm (L)
 LOCATION:47 63;16 6
 DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: mgr inż. Pustkowski Remigiusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T070000Z
+DTEND:20260219T083500Z
+SUMMARY:F2 (Ep)
+LOCATION:19 36
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T060000Z
@@ -1453,6 +1488,13 @@ LOCATION:47 63
 DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: Laboratorium\nNumer zajęć: 11-12\nProwadzący: mgr inż. Pustkowski Remigiusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260206T070000Z
+DTEND:20260206T083500Z
+SUMMARY:F2 (E)
+LOCATION:19 36
+DESCRIPTION:Fizyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 1-2\nProwadzący: dr hab .inż. Perkowski Paweł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260410T060000Z
 DTEND:20260410T073500Z
 SUMMARY:Pcax (ć)
@@ -1509,6 +1551,20 @@ LOCATION:18 63
 DESCRIPTION:Układy cyfrowe i mikroprocesorowe\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Pustkowski Remigiusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260619T075000Z
+DTEND:20260619T092500Z
+SUMMARY:Safi (L)
+LOCATION:17 63
+DESCRIPTION:inż. Safiańczuk Adam\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T104000Z
+DTEND:20260220T121500Z
+SUMMARY:Met (Ep)
+LOCATION:19 36
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: prof.dr hab.inż. Trębiński Radosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260313T104000Z
 DTEND:20260313T121500Z
 SUMMARY:PA (w)
@@ -1544,11 +1600,25 @@ LOCATION:46 63
 DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Panasiuk Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260612T094000Z
+DTEND:20260612T111500Z
+SUMMARY:Safi (L)
+LOCATION:17 63
+DESCRIPTION:inż. Safiańczuk Adam\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260626T094000Z
 DTEND:20260626T111500Z
 SUMMARY:PA (E)
 LOCATION:46 63
 DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr inż. Panasiuk Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T123000Z
+DTEND:20260220T140500Z
+SUMMARY:Met (Ep)
+LOCATION:19 36
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 7-8\nProwadzący: prof.dr hab.inż. Trębiński Radosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T123000Z
@@ -1563,20 +1633,6 @@ DTEND:20260320T140500Z
 SUMMARY:PA (ć)
 LOCATION:47 63
 DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Jaworowicz Marek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260508T113000Z
-DTEND:20260508T130500Z
-SUMMARY:Safi (L)
-LOCATION:16 63
-DESCRIPTION:inż. Safiańczuk Adam\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260522T113000Z
-DTEND:20260522T130500Z
-SUMMARY:Safi (L)
-LOCATION:16 63
-DESCRIPTION:inż. Safiańczuk Adam\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T113000Z
@@ -1605,5 +1661,33 @@ DTEND:20260529T153500Z
 SUMMARY:PA (L)
 LOCATION:47 63
 DESCRIPTION:Podstawy automatyki\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Jaworowicz Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260221T070000Z
+DTEND:20260221T083500Z
+SUMMARY:XMat1 (Ep)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1-2\nProwadzący: dr inż. Falkiewicz Ewa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260221T085000Z
+DTEND:20260221T102500Z
+SUMMARY:XMat2 (Ep)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: dr Gdula Agnieszka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260207T104000Z
+DTEND:20260207T121500Z
+SUMMARY:XMat2 (E)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr Gdula Agnieszka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260207T123000Z
+DTEND:20260207T140500Z
+SUMMARY:XMat2 (E)
+LOCATION:314 S
+DESCRIPTION:XMatematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 7-8\nProwadzący: dr Gdula Agnieszka
 END:VEVENT
 END:VCALENDAR

@@ -319,13 +319,6 @@ LOCATION:20 63
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: -\nNumer zajęć: 5-6\nProwadzący: mgr Kida Alicja
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260713T094000Z
-DTEND:20260713T111500Z
-SUMMARY:F1 (E)
-LOCATION:19 36
-DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr inż. Chrunik Maciej
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260316T123000Z
 DTEND:20260316T140500Z
 SUMMARY:SŁiŚD (w)
@@ -555,6 +548,27 @@ DTEND:20260616T073500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr Szewc Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T085000Z
+DTEND:20260203T102500Z
+SUMMARY:M1 (E)
+LOCATION:111 58
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr hab. Pysiak Leszek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T085000Z
+DTEND:20260210T102500Z
+SUMMARY:HP (E)
+LOCATION:314 S
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr hab. Ostanek Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T085000Z
+DTEND:20260217T102500Z
+SUMMARY:M1 (Ep)
+LOCATION:111 58
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: dr hab. Pysiak Leszek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T085000Z
@@ -1024,6 +1038,13 @@ DTEND:20260617T073500Z
 SUMMARY:ZŻWAT 
 LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T085000Z
+DTEND:20260218T102500Z
+SUMMARY:HP (Ep)
+LOCATION:314 S
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: dr hab. Ostanek Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T085000Z
@@ -1754,6 +1775,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr Wójcicki Sylwester
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260709T113000Z
+DTEND:20260709T130500Z
+SUMMARY:F1 (Ep)
+LOCATION:19 36
+DESCRIPTION:Fizyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 7-8\nProwadzący: dr inż. Chrunik Maciej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T150000Z
 DTEND:20260305T163500Z
 SUMMARY:ZINŻ (w)
@@ -1955,6 +1983,20 @@ DTEND:20260619T073500Z
 SUMMARY:Gin (L)
 LOCATION:18 67
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Szcześniak Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T085000Z
+DTEND:20260206T102500Z
+SUMMARY:Mat2 (E)
+LOCATION:111 58
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr hab. Pysiak Leszek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T085000Z
+DTEND:20260220T102500Z
+SUMMARY:Mat2 (Ep)
+LOCATION:111 58
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: dr hab. Pysiak Leszek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T085000Z

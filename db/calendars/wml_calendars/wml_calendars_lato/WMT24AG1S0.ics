@@ -536,6 +536,13 @@ LOCATION:39 36
 DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: kpt. dr inż. Morawski Mateusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260616T060000Z
+DTEND:20260616T073500Z
+SUMMARY:Safi (L)
+LOCATION:17 63
+DESCRIPTION:inż. Safiańczuk Adam\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr Ptaszek Stanisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260324T085000Z
 DTEND:20260324T102500Z
 SUMMARY:PA (w)
@@ -597,6 +604,20 @@ DTEND:20260602T092500Z
 SUMMARY:Liwpw (L)
 LOCATION:2 25
 DESCRIPTION:Laboratorium inżynierii wytwarzania i pomiarów warsztatowych\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr inż. Grązka Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T075000Z
+DTEND:20260616T092500Z
+SUMMARY:Safi (L)
+LOCATION:17 63
+DESCRIPTION:inż. Safiańczuk Adam\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr Ptaszek Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T104000Z
+DTEND:20260210T121500Z
+SUMMARY:FII (E)
+LOCATION:19 36
+DESCRIPTION:Fizyka II\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: prof. dr hab. inż. Kopytko Małgorzata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T104000Z
@@ -802,6 +823,13 @@ LOCATION:113 25
 DESCRIPTION:Laboratorium informatyki i mechaniki\nRodzaj zajęć: Projekt\nNumer zajęć: 9-10\nProwadzący: dr inż. Piechna Sławomir
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260211T070000Z
+DTEND:20260211T083500Z
+SUMMARY:Met (E)
+LOCATION:19 36
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 1-2\nProwadzący: prof.dr hab.inż. Trębiński Radosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260311T070000Z
 DTEND:20260311T083500Z
 SUMMARY:ZŻWAT 
@@ -884,6 +912,20 @@ DTEND:20260617T073500Z
 SUMMARY:ZŻWAT 
 LOCATION:
 DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: dr Ptaszek Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T085000Z
+DTEND:20260204T102500Z
+SUMMARY:EiE1 (E)
+LOCATION:19 36
+DESCRIPTION:Elektrotechnika i elektronika 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Pietrasieński Jan
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T085000Z
+DTEND:20260211T102500Z
+SUMMARY:Met (E)
+LOCATION:19 36
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: prof.dr hab.inż. Trębiński Radosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T085000Z
@@ -1108,6 +1150,13 @@ DTEND:20260617T111500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr Mosór Paweł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T123000Z
+DTEND:20260218T140500Z
+SUMMARY:Pwd (Ep)
+LOCATION:19 36
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 7-8\nProwadzący: dr Załoga Wiesława
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T123000Z
@@ -1593,13 +1642,6 @@ LOCATION:46 63
 DESCRIPTION:Laboratorium inżynierii wytwarzania i pomiarów warsztatowych\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: dr hab. inż. Majewski Tomasz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260430T113000Z
-DTEND:20260430T130500Z
-SUMMARY:Safi (L)
-LOCATION:16 63
-DESCRIPTION:inż. Safiańczuk Adam\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: dr Ptaszek Stanisław
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260507T113000Z
 DTEND:20260507T130500Z
 SUMMARY:Mw (L)
@@ -1640,13 +1682,6 @@ DTEND:20260423T153500Z
 SUMMARY:PKM (ć)
 LOCATION:28 69
 DESCRIPTION:Podstawy konstrukcji maszyn\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: kpt. dr inż. Morawski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T140000Z
-DTEND:20260430T153500Z
-SUMMARY:Safi (L)
-LOCATION:16 63
-DESCRIPTION:inż. Safiańczuk Adam\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr Ptaszek Stanisław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T140000Z
@@ -1789,6 +1824,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr Mosór Paweł
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260206T085000Z
+DTEND:20260206T102500Z
+SUMMARY:Pwd (E)
+LOCATION:19 36
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr Załoga Wiesława
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260306T085000Z
 DTEND:20260306T102500Z
 SUMMARY:SzS (ć)
@@ -1859,6 +1901,13 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3-4
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260220T104000Z
+DTEND:20260220T121500Z
+SUMMARY:Met (Ep)
+LOCATION:19 36
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: prof.dr hab.inż. Trębiński Radosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260306T104000Z
 DTEND:20260306T121500Z
 SUMMARY:SzS (ć)
@@ -1913,6 +1962,13 @@ DTEND:20260619T111500Z
 SUMMARY:OPW (ć)
 LOCATION:PĆT1
 DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: ppłk mgr inż. Świętochowski Mieczysław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T123000Z
+DTEND:20260220T140500Z
+SUMMARY:Met (Ep)
+LOCATION:19 36
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 7-8\nProwadzący: prof.dr hab.inż. Trębiński Radosław
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T123000Z
@@ -2123,6 +2179,13 @@ DTEND:20260417T191500Z
 SUMMARY:SSW 
 LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 13-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T070000Z
+DTEND:20260131T083500Z
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260307T070000Z

@@ -396,6 +396,13 @@ LOCATION:104 63A;10
 DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 7-8\nProwadzący: por.mgr inż. Dyjak Jakub
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260209T150000Z
+DTEND:20260209T163500Z
+SUMMARY:HP (E)
+LOCATION:19 36
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Egzamin\nNumer zajęć: 9-10\nProwadzący: dr Ważniewski Włodzimierz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260302T150000Z
 DTEND:20260302T163500Z
 SUMMARY:Nom (w)
@@ -522,6 +529,13 @@ LOCATION:4 63A
 DESCRIPTION:Informatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Szymonik Jacek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260210T085000Z
+DTEND:20260210T102500Z
+SUMMARY:Mat2 (E)
+LOCATION:19 36
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr Jurkiewicz Mariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260317T085000Z
 DTEND:20260317T102500Z
 SUMMARY:DSiSM (w)
@@ -604,6 +618,13 @@ DTEND:20260616T092500Z
 SUMMARY:SŁiŚD (ć)
 LOCATION:6 47;5 47;
 DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Orżanowski Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T104000Z
+DTEND:20260217T121500Z
+SUMMARY:M1 
+LOCATION:46 63
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: -\nNumer zajęć: 5-6\nProwadzący: dr Dryło Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T104000Z
@@ -781,6 +802,13 @@ LOCATION:6 47;5 47;
 DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr inż. Orżanowski Tomasz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260623T113000Z
+DTEND:20260623T130500Z
+SUMMARY:REZ 
+LOCATION:19 63
+DESCRIPTION:Rezerwacja\nRodzaj zajęć: -\nNumer zajęć: 7-8\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T150000Z
 DTEND:20260303T163500Z
 SUMMARY:In (w)
@@ -877,6 +905,13 @@ DTEND:20260609T172500Z
 SUMMARY:Gin (ć)
 LOCATION:113 25
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12\nProwadzący: dr inż. Grązka Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T070000Z
+DTEND:20260204T083500Z
+SUMMARY:M1 (E)
+LOCATION:19 63
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1-2\nProwadzący: dr Jurkiewicz Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T070000Z
@@ -1087,6 +1122,13 @@ DTEND:20260617T092500Z
 SUMMARY:In (ć)
 LOCATION:6 25
 DESCRIPTION:Informatyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: dr inż. Paszkowski Robert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260708T075000Z
+DTEND:20260708T092500Z
+SUMMARY:Mat3 
+LOCATION:20 63
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: -\nNumer zajęć: 3-4\nProwadzący: dr Dryło Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T104000Z
@@ -1304,6 +1346,13 @@ DTEND:20260617T130500Z
 SUMMARY:DSiSM 
 LOCATION:AW 3/038
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: -\nNumer zajęć: 7-8\nProwadzący: płk dr Niemirka Sławomir; ppłk mgr inż. Grądziel Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T150000Z
+DTEND:20260218T163500Z
+SUMMARY:HP (Ep)
+LOCATION:19 36
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 9-10\nProwadzący: dr Ważniewski Włodzimierz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T150000Z
@@ -1544,6 +1593,13 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 13-14
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260219T070000Z
+DTEND:20260219T083500Z
+SUMMARY:M1 (Ep)
+LOCATION:078 S
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1-2\nProwadzący: dr Jurkiewicz Mariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260312T070000Z
 DTEND:20260312T083500Z
 SUMMARY:Gin (ć)
@@ -1619,6 +1675,13 @@ DTEND:20260528T073500Z
 SUMMARY:Iw (w)
 LOCATION:19 36
 DESCRIPTION:Inżynieria wytwarzania\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Majewski Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T085000Z
+DTEND:20260219T102500Z
+SUMMARY:Mat2 
+LOCATION:46 63
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: -\nNumer zajęć: 3-4\nProwadzący: dr Dryło Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T085000Z
@@ -1707,9 +1770,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260702T075000Z
 DTEND:20260702T092500Z
-SUMMARY:Mat3 (w)
+SUMMARY:Mat3 (E)
 LOCATION:19 36
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr Rzeszut Maciej
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr Rzeszut Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260709T075000Z
+DTEND:20260709T092500Z
+SUMMARY:Mat3 (Ep)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: dr Rzeszut Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T104000Z
+DTEND:20260219T121500Z
+SUMMARY:Mat2 (Ep)
+LOCATION:078 S
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: dr Jurkiewicz Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T104000Z
@@ -1985,6 +2062,13 @@ LOCATION:S. Kinowa
 DESCRIPTION:DN\nRodzaj zajęć: Wykład\nNumer zajęć: 11-12\nProwadzący: dr hab. inż. Kachel Stanisław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260220T070000Z
+DTEND:20260220T083500Z
+SUMMARY:Mat2 (Ep)
+LOCATION:085 S
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1-2\nProwadzący: dr Jurkiewicz Mariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260306T070000Z
 DTEND:20260306T083500Z
 SUMMARY:ZINŻ (w)
@@ -2258,6 +2342,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: mgr Szewc Marek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260710T113000Z
+DTEND:20260710T130500Z
+SUMMARY:SŁiŚD 
+LOCATION:6 47;5 47;
+DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: -\nNumer zajęć: 7-8\nProwadzący: mgr inż. Szafraniec Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260306T150000Z
 DTEND:20260306T163500Z
 SUMMARY:Nom (w)
@@ -2307,11 +2398,25 @@ LOCATION:19 36
 DESCRIPTION:Informatyka\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr inż. Paszkowski Robert
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260710T140000Z
+DTEND:20260710T153500Z
+SUMMARY:SŁiŚD 
+LOCATION:6 47;5 47;
+DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: -\nNumer zajęć: 9-10\nProwadzący: mgr inż. Szafraniec Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260417T155000Z
 DTEND:20260417T172500Z
 SUMMARY:M1 
 LOCATION:301/ S
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: -\nNumer zajęć: 11-12\nProwadzący: dr Dryło Robert
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260710T155000Z
+DTEND:20260710T172500Z
+SUMMARY:SŁiŚD 
+LOCATION:6 47;5 47;
+DESCRIPTION:System łączności i środki dowodzenia\nRodzaj zajęć: -\nNumer zajęć: 11-12\nProwadzący: mgr inż. Szafraniec Piotr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260321T104000Z

@@ -32,6 +32,13 @@ LOCATION:3 67
 DESCRIPTION:Fluid Machanics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: dr inż. Majcher Maciej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260202T085000Z
+DTEND:20260202T102500Z
+SUMMARY:Tnme (E)
+LOCATION:34 67
+DESCRIPTION:Technical Mechanics\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr inż. Kieszek Rafał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260316T085000Z
 DTEND:20260316T102500Z
 SUMMARY:FluM (ć)
@@ -739,6 +746,13 @@ LOCATION:3 67
 DESCRIPTION:Fluid Machanics\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr inż. Majcher Maciej
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260217T123000Z
+DTEND:20260217T140500Z
+SUMMARY:Tnme (Ep)
+LOCATION:34 67
+DESCRIPTION:Technical Mechanics\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 7-8\nProwadzący: dr inż. Kieszek Rafał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T123000Z
 DTEND:20260310T140500Z
 SUMMARY:Thers (ć)
@@ -914,6 +928,13 @@ LOCATION:8 72
 DESCRIPTION:Thermodynamics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Zieliński Mateusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260204T085000Z
+DTEND:20260204T102500Z
+SUMMARY:Phys2 (E)
+LOCATION:34 67
+DESCRIPTION:Physics 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr hab. Bennis Noureddine
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T085000Z
 DTEND:20260325T102500Z
 SUMMARY:Bamps (ć)
@@ -975,13 +996,6 @@ DTEND:20260527T092500Z
 SUMMARY:Sosz (L)
 LOCATION:130 36
 DESCRIPTION:* Soszyński P\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kochan Jakub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260603T075000Z
-DTEND:20260603T092500Z
-SUMMARY:Kis (w)
-LOCATION:34 67
-DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kunikowski Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T075000Z
@@ -1070,20 +1084,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T094000Z
 DTEND:20260527T111500Z
-SUMMARY:Kis (w)
-LOCATION:34 67
-DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260610T094000Z
-DTEND:20260610T111500Z
-SUMMARY:Kis (w)
-LOCATION:34 67
-DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kunikowski Mateusz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260617T094000Z
-DTEND:20260617T111500Z
 SUMMARY:Kis (w)
 LOCATION:34 67
 DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kunikowski Mateusz
@@ -1234,6 +1234,13 @@ DTEND:20260528T073500Z
 SUMMARY:Dims (L)
 LOCATION:130 36
 DESCRIPTION:Digital and microprocessor systems\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Djabin Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T060000Z
+DTEND:20260611T073500Z
+SUMMARY:Kis (w)
+LOCATION:34 67
+DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: mgr inż. Kunikowski Mateusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T085000Z
@@ -1523,6 +1530,13 @@ LOCATION:8 72
 DESCRIPTION:Thermodynamics\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Zieliński Mateusz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260206T085000Z
+DTEND:20260206T102500Z
+SUMMARY:Eeae (E)
+LOCATION:20 63
+DESCRIPTION:Electrical Engineering and Electronics\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Zieja Mariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260313T085000Z
 DTEND:20260313T102500Z
 SUMMARY:Avsy (ć)
@@ -1584,5 +1598,19 @@ DTEND:20260508T111500Z
 SUMMARY:Baoa (L)
 LOCATION:128 36
 DESCRIPTION:Basics of automation\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kochan Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T094000Z
+DTEND:20260612T111500Z
+SUMMARY:Kis (w)
+LOCATION:34 67
+DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Kunikowski Mateusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T113000Z
+DTEND:20260612T130500Z
+SUMMARY:Kis (w)
+LOCATION:34 67
+DESCRIPTION:Kis\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: mgr inż. Kunikowski Mateusz
 END:VEVENT
 END:VCALENDAR

@@ -109,25 +109,39 @@ LOCATION:238 K;237
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260203T104000Z
+DTEND:20260203T121500Z
+SUMMARY:Met (E)
+LOCATION:S2 72
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr inż. Kieszek Rafał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T104000Z
+DTEND:20260217T121500Z
+SUMMARY:Met (Ep)
+LOCATION:S2 72
+DESCRIPTION:Mechanika techniczna\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: dr inż. Kieszek Rafał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260311T070000Z
 DTEND:20260311T083500Z
 SUMMARY:ZŻWAT 
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: dr inż. Kieszek Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T060000Z
 DTEND:20260422T073500Z
 SUMMARY:ZŻWAT 
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: dr inż. Kieszek Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T060000Z
 DTEND:20260520T073500Z
 SUMMARY:ZŻWAT 
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: dr inż. Kieszek Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T060000Z
@@ -141,7 +155,7 @@ DTSTART:20260617T060000Z
 DTEND:20260617T073500Z
 SUMMARY:ZŻWAT 
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: dr inż. Kieszek Rafał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T085000Z
@@ -289,5 +303,26 @@ DTEND:20260325T182500Z
 SUMMARY:Ja (ć)
 LOCATION:128 K;238
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T123000Z
+DTEND:20260220T140500Z
+SUMMARY:Pwd (Ep)
+LOCATION:315 S
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 7-8\nProwadzący: dr Załoga Wiesława
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T150000Z
+DTEND:20260206T163500Z
+SUMMARY:Pwd (E)
+LOCATION:19 36
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Egzamin\nNumer zajęć: 9-10\nProwadzący: dr Załoga Wiesława
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T070000Z
+DTEND:20260131T083500Z
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2
 END:VEVENT
 END:VCALENDAR

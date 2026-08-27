@@ -39,6 +39,20 @@ LOCATION:46 63
 DESCRIPTION:Sensory do systemów monitoringu bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Jakubaszek Marcin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260202T085000Z
+DTEND:20260202T102500Z
+SUMMARY:Pib (E)
+LOCATION:9 67
+DESCRIPTION:Podstawy inżynierii bezpieczeństwa\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Jasztal Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T085000Z
+DTEND:20260209T102500Z
+SUMMARY:Opni (E)
+LOCATION:34 67
+DESCRIPTION:Obiekty potencjalnie niebezpieczne\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Papliński Andrzej
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260302T085000Z
 DTEND:20260302T102500Z
 SUMMARY:Pmps (w)
@@ -317,6 +331,13 @@ DTEND:20260519T073500Z
 SUMMARY:Ssmb (L)
 LOCATION:111 136;14
 DESCRIPTION:Sensory do systemów monitoringu bezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Prokopiuk Artur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T085000Z
+DTEND:20260217T102500Z
+SUMMARY:Pib (Ep)
+LOCATION:33 67
+DESCRIPTION:Podstawy inżynierii bezpieczeństwa\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Jasztal Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T085000Z
@@ -627,6 +648,13 @@ LOCATION:109 24
 DESCRIPTION:Instalacje chemiczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr inż. Szulc Jarosław
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260204T085000Z
+DTEND:20260204T102500Z
+SUMMARY:Maszy (E)
+LOCATION:S3 72
+DESCRIPTION:Maszynoznastwo\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Jasztal Michał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260311T085000Z
 DTEND:20260311T102500Z
 SUMMARY:Pmps (w)
@@ -893,6 +921,13 @@ LOCATION:14 41
 DESCRIPTION:Sensory do systemów monitoringu bezpieczeństwa\nRodzaj zajęć: Laboratorium\nNumer zajęć: 9-10\nProwadzący: dr inż. Kaliszewski Miron
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260219T070000Z
+DTEND:20260219T083500Z
+SUMMARY:Maszy (Ep)
+LOCATION:3 67
+DESCRIPTION:Maszynoznastwo\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1-2\nProwadzący: ppłk dr inż. Jasztal Michał
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260319T070000Z
 DTEND:20260319T083500Z
 SUMMARY:Iche (w)
@@ -968,6 +1003,13 @@ DTEND:20260618T073500Z
 SUMMARY:Ssmb (w)
 LOCATION:S3 72
 DESCRIPTION:Sensory do systemów monitoringu bezpieczeństwa\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr inż. Prokopiuk Artur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T085000Z
+DTEND:20260205T102500Z
+SUMMARY:Maszy (E)
+LOCATION:S3 72
+DESCRIPTION:Maszynoznastwo\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: prof.dr hab.inż. Terpiłowski Janusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T085000Z

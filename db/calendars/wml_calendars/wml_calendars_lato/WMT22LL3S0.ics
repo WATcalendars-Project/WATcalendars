@@ -109,6 +109,13 @@ LOCATION:239 K;238
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260209T085000Z
+DTEND:20260209T102500Z
+SUMMARY:Osa (E)
+LOCATION:18 63
+DESCRIPTION:Oprogramowanie systemów awionicznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: ppłk dr inż. Wojtowicz Konrad
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260302T085000Z
 DTEND:20260302T102500Z
 SUMMARY:Css (w)
@@ -202,9 +209,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260629T075000Z
 DTEND:20260629T092500Z
-SUMMARY:Css (w)
+SUMMARY:Css (E)
 LOCATION:136 36
-DESCRIPTION:Cyfrowe systemy sterowania\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr hab.inż. Falkowski Krzysztof
+DESCRIPTION:Cyfrowe systemy sterowania\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr hab.inż. Falkowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T104000Z
+DTEND:20260209T121500Z
+SUMMARY:Radio (E)
+LOCATION:33 67
+DESCRIPTION:Radiotechnika\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr hab. inż. Susek Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T104000Z
@@ -1264,6 +1278,13 @@ LOCATION:239 K;238
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260211T123000Z
+DTEND:20260211T140500Z
+SUMMARY:Lscs (E)
+LOCATION:15 63
+DESCRIPTION:Lotnicze systemy cyfrowe i sieci komput.\nRodzaj zajęć: Egzamin\nNumer zajęć: 7-8\nProwadzący: dr inż. Rochala Zdzisław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T123000Z
 DTEND:20260304T140500Z
 SUMMARY:MPH (w)
@@ -1528,6 +1549,20 @@ DTEND:20260618T073500Z
 SUMMARY:Css (L)
 LOCATION:16 66
 DESCRIPTION:Cyfrowe systemy sterowania\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr inż. Janczewski Mariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T085000Z
+DTEND:20260205T102500Z
+SUMMARY:Msuaw (E)
+LOCATION:136 36
+DESCRIPTION:Modelowanie i symulacja układów awionicznych\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr hab.inż. Falkowski Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T085000Z
+DTEND:20260219T102500Z
+SUMMARY:Radio (Ep)
+LOCATION:S2 72
+DESCRIPTION:Radiotechnika\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Susek Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T085000Z
@@ -2053,6 +2088,13 @@ DTEND:20260619T130500Z
 SUMMARY:Css (ć)
 LOCATION:136 36
 DESCRIPTION:Cyfrowe systemy sterowania\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: płk mgr inż. Hanc Damian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T070000Z
+DTEND:20260131T083500Z
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260307T070000Z

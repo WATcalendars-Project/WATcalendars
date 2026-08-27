@@ -4,6 +4,27 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WMT25AE2S6
 BEGIN:VEVENT
+DTSTART:20260202T070000Z
+DTEND:20260202T083500Z
+SUMMARY:Bepzw (w)
+LOCATION:101  63A
+DESCRIPTION:Budowa i eksploatacja PZR Wisła\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: kpt.mgr inż. Klicki Kamil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T070000Z
+DTEND:20260209T083500Z
+SUMMARY:RiAIP (w)
+LOCATION:AW 3/038
+DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: kpt. mgr Ślusakowicz Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T070000Z
+DTEND:20260216T083500Z
+SUMMARY:TA (ć)
+LOCATION:AW 3/043
+DESCRIPTION:TAKTYKA\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260223T070000Z
 DTEND:20260223T083500Z
 SUMMARY:PKSt (w)
@@ -86,6 +107,27 @@ DTEND:20260608T073500Z
 SUMMARY:Pr JW 
 LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: dr Adamkiewicz Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T085000Z
+DTEND:20260202T102500Z
+SUMMARY:BwCP (w)
+LOCATION:313 S
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kalman Leszek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T085000Z
+DTEND:20260209T102500Z
+SUMMARY:OPW (w)
+LOCATION:AW 4
+DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: ppłk mgr Misiejuk Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T085000Z
+DTEND:20260216T102500Z
+SUMMARY:TW (ć)
+LOCATION:114 57
+DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Oleksiak Marek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260223T085000Z
@@ -172,6 +214,27 @@ LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 3-4\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260202T104000Z
+DTEND:20260202T121500Z
+SUMMARY:Bepzw (w)
+LOCATION:101  63A
+DESCRIPTION:Budowa i eksploatacja PZR Wisła\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: kpt.mgr inż. Klicki Kamil
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T104000Z
+DTEND:20260209T121500Z
+SUMMARY:OPBMR (w)
+LOCATION:2 55A
+DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T104000Z
+DTEND:20260216T121500Z
+SUMMARY:TW (ć)
+LOCATION:114 57
+DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Oleksiak Marek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260302T104000Z
 DTEND:20260302T121500Z
 SUMMARY:Hsw (ć)
@@ -247,6 +310,20 @@ DTEND:20260608T111500Z
 SUMMARY:Pr JW 
 LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 5-6\nProwadzący: dr Adamkiewicz Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T123000Z
+DTEND:20260209T140500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T123000Z
+DTEND:20260216T140500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260223T123000Z
@@ -331,6 +408,13 @@ DTEND:20260608T130500Z
 SUMMARY:Pr JW 
 LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 7-8\nProwadzący: dr Adamkiewicz Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T150000Z
+DTEND:20260216T163500Z
+SUMMARY:Dn (w)
+LOCATION:aula/ 135
+DESCRIPTION:Działania niekinetyczne\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr inż. Woźniak Robert
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260223T150000Z
@@ -536,6 +620,13 @@ LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 13-14\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260203T070000Z
+DTEND:20260203T083500Z
+SUMMARY:SSW 
+LOCATION:
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 1-2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260224T070000Z
 DTEND:20260224T083500Z
 SUMMARY:PKSt (w)
@@ -625,6 +716,27 @@ DTEND:20260609T073500Z
 SUMMARY:Pr JW 
 LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: dr Adamkiewicz Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T085000Z
+DTEND:20260203T102500Z
+SUMMARY:DSiSM (ć)
+LOCATION:PĆT1
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: kpt.mgr Nawalicki Piotr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T085000Z
+DTEND:20260210T102500Z
+SUMMARY:SSW 
+LOCATION:
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T085000Z
+DTEND:20260217T102500Z
+SUMMARY:REG (ć)
+LOCATION:AW 3/038
+DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppłk rez. mgr Bomba Marcin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260224T085000Z
@@ -718,6 +830,27 @@ LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 3-4\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260203T104000Z
+DTEND:20260203T121500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T104000Z
+DTEND:20260210T121500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T104000Z
+DTEND:20260217T121500Z
+SUMMARY:PD (ć)
+LOCATION:BIBL /22
+DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: ppłk rez. mgr Pytlos Dariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260224T104000Z
 DTEND:20260224T121500Z
 SUMMARY:Trit (L)
@@ -807,6 +940,27 @@ DTEND:20260609T111500Z
 SUMMARY:Pr JW 
 LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 5-6\nProwadzący: dr Adamkiewicz Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T123000Z
+DTEND:20260203T140500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T123000Z
+DTEND:20260210T140500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T123000Z
+DTEND:20260217T140500Z
+SUMMARY:PD (ć)
+LOCATION:BIBL /22
+DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: ppłk rez. mgr Pytlos Dariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260224T123000Z
@@ -905,6 +1059,20 @@ DTEND:20260714T130500Z
 SUMMARY:WF (ć)
 LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T150000Z
+DTEND:20260203T163500Z
+SUMMARY:SSW 
+LOCATION:
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 9-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T150000Z
+DTEND:20260210T163500Z
+SUMMARY:SSW 
+LOCATION:
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 9-10
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260224T150000Z
@@ -1103,6 +1271,20 @@ LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 13-14\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260211T070000Z
+DTEND:20260211T083500Z
+SUMMARY:PD (ć)
+LOCATION:BIBL /22
+DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: ppłk rez. mgr Pytlos Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T070000Z
+DTEND:20260218T083500Z
+SUMMARY:ZaMe (ć)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż. Szczotka Dawid
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260225T070000Z
 DTEND:20260225T083500Z
 SUMMARY:REG (ć)
@@ -1185,6 +1367,20 @@ DTEND:20260610T073500Z
 SUMMARY:Pr JW 
 LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: dr Adamkiewicz Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T085000Z
+DTEND:20260211T102500Z
+SUMMARY:PD (ć)
+LOCATION:BIBL /22
+DESCRIPTION:Podstawy dowodzenia\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppłk rez. mgr Pytlos Dariusz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T085000Z
+DTEND:20260218T102500Z
+SUMMARY:ZaMe (ć)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Szczotka Dawid
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260225T085000Z
@@ -1271,6 +1467,27 @@ LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 3-4\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260204T104000Z
+DTEND:20260204T121500Z
+SUMMARY:Trit (L)
+LOCATION:322 S
+DESCRIPTION:Technologie radiolokacyjne i radioelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr.inż. Miernik Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T104000Z
+DTEND:20260211T121500Z
+SUMMARY:TW (w)
+LOCATION:118 57
+DESCRIPTION:Topografia wojskowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr inż. Oleksiak Marek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T104000Z
+DTEND:20260218T121500Z
+SUMMARY:ZaMe (ć)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie medyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: mgr inż. Szczotka Dawid
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260225T104000Z
 DTEND:20260225T121500Z
 SUMMARY:TW (ć)
@@ -1355,6 +1572,27 @@ LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 5-6\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260204T123000Z
+DTEND:20260204T140500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T123000Z
+DTEND:20260211T140500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T123000Z
+DTEND:20260218T140500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260225T123000Z
 DTEND:20260225T140500Z
 SUMMARY:WF (ć)
@@ -1437,6 +1675,27 @@ DTEND:20260610T130500Z
 SUMMARY:Pr JW 
 LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 7-8\nProwadzący: dr Adamkiewicz Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T150000Z
+DTEND:20260204T163500Z
+SUMMARY:Pwd (w)
+LOCATION:aula/ 135
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr Załoga Wiesława
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T150000Z
+DTEND:20260211T163500Z
+SUMMARY:Pwd (w)
+LOCATION:aula/ 135
+DESCRIPTION:Przywództwo w dowodzeniu\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr Załoga Wiesława
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T150000Z
+DTEND:20260218T163500Z
+SUMMARY:MPH (w)
+LOCATION:aula/ 135
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr Śledzik Waldemar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260225T150000Z
@@ -1635,6 +1894,27 @@ LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 13-14\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260205T070000Z
+DTEND:20260205T083500Z
+SUMMARY:PKSt (w)
+LOCATION:0.28/ 135
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: dr Skulska Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260212T070000Z
+DTEND:20260212T083500Z
+SUMMARY:Trit (L)
+LOCATION:322 S
+DESCRIPTION:Technologie radiolokacyjne i radioelektroniczne\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: mgr.inż. Miernik Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T070000Z
+DTEND:20260219T083500Z
+SUMMARY:OPW (ć)
+LOCATION:BIBL /22
+DESCRIPTION:Obrona powietrzna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: ppłk mgr Misiejuk Tomasz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260226T070000Z
 DTEND:20260226T083500Z
 SUMMARY:Dn (S)
@@ -1712,6 +1992,27 @@ LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260205T085000Z
+DTEND:20260205T102500Z
+SUMMARY:REG (ć)
+LOCATION:BIBL /22
+DESCRIPTION:Regulaminy SZ RP\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: ppłk rez. mgr Bomba Marcin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260212T085000Z
+DTEND:20260212T102500Z
+SUMMARY:BwCP (ć)
+LOCATION:309 S
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr inż. Kalman Leszek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T085000Z
+DTEND:20260219T102500Z
+SUMMARY:OPBMR (w)
+LOCATION:2 55A
+DESCRIPTION:Obrona przed bronią masowego rażenia\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: gen. bryg. mgr inż. Stocki Jarosław
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260226T085000Z
 DTEND:20260226T102500Z
 SUMMARY:RiAIP (ć)
@@ -1787,6 +2088,20 @@ DTEND:20260611T092500Z
 SUMMARY:Pr JW 
 LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 3-4\nProwadzący: dr Adamkiewicz Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260212T104000Z
+DTEND:20260212T121500Z
+SUMMARY:Trit (w)
+LOCATION:325 S
+DESCRIPTION:Technologie radiolokacyjne i radioelektroniczne\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: dr inż. Grzywiński Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T104000Z
+DTEND:20260219T121500Z
+SUMMARY:GMiB (w)
+LOCATION:AW 3/038
+DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: ppłk mgr Lasak Michał
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260226T104000Z
@@ -1873,6 +2188,20 @@ LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 5-6\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260212T123000Z
+DTEND:20260212T140500Z
+SUMMARY:PKSt (ć)
+LOCATION:1.9/ 16
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: dr Skulska Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T123000Z
+DTEND:20260219T140500Z
+SUMMARY:ZINŻ (w)
+LOCATION:AW 3/038
+DESCRIPTION:Zabezpieczenie inżynieryjne\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: ppłk mgr Jurzysta Paweł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260226T123000Z
 DTEND:20260226T140500Z
 SUMMARY:TA (w)
@@ -1955,6 +2284,20 @@ DTEND:20260611T130500Z
 SUMMARY:Pr JW 
 LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 7-8\nProwadzący: dr Adamkiewicz Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260212T150000Z
+DTEND:20260212T163500Z
+SUMMARY:GMiB (S)
+LOCATION:AW 3/043
+DESCRIPTION:Gotowość mobilizacyjna i bojowa\nRodzaj zajęć: Seminarium\nNumer zajęć: 9-10\nProwadzący: ppłk mgr Lasak Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T150000Z
+DTEND:20260219T163500Z
+SUMMARY:Hsw (w)
+LOCATION:aula/ 135
+DESCRIPTION:Historia sztuki wojennej\nRodzaj zajęć: Wykład\nNumer zajęć: 9-10\nProwadzący: dr Pulik Paweł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T150000Z
@@ -2153,6 +2496,27 @@ LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 13-14\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260206T070000Z
+DTEND:20260206T083500Z
+SUMMARY:TA (w)
+LOCATION:103 K
+DESCRIPTION:TAKTYKA\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: ppłk rez. mgr Czarnecki Jarosław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260213T070000Z
+DTEND:20260213T083500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T070000Z
+DTEND:20260220T083500Z
+SUMMARY:OIN 
+LOCATION:AW 3/043
+DESCRIPTION:Ochrona informacji niejawnych\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: ppłk mgr inż. Grądziel Grzegorz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260227T070000Z
 DTEND:20260227T083500Z
 SUMMARY:SSW 
@@ -2228,6 +2592,20 @@ DTEND:20260612T073500Z
 SUMMARY:Pr JW 
 LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: dr Adamkiewicz Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260213T085000Z
+DTEND:20260213T102500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T085000Z
+DTEND:20260220T102500Z
+SUMMARY:SSW 
+LOCATION:
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 3-4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T085000Z
@@ -2314,6 +2692,27 @@ LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 3-4\nProwadzący: dr Adamkiewicz Jakub
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260206T104000Z
+DTEND:20260206T121500Z
+SUMMARY:PKSt (ć)
+LOCATION:1.9/ 16
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: dr Skulska Joanna
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260213T104000Z
+DTEND:20260213T121500Z
+SUMMARY:SSW 
+LOCATION:
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T104000Z
+DTEND:20260220T121500Z
+SUMMARY:DSiSM (ć)
+LOCATION:PĆT1
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6\nProwadzący: kpt.mgr Nawalicki Piotr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260227T104000Z
 DTEND:20260227T121500Z
 SUMMARY:SSW 
@@ -2396,6 +2795,20 @@ DTEND:20260612T111500Z
 SUMMARY:Pr JW 
 LOCATION:
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć: -\nNumer zajęć: 5-6\nProwadzący: dr Adamkiewicz Jakub
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260213T123000Z
+DTEND:20260213T140500Z
+SUMMARY:Ssdk (w)
+LOCATION:325 S
+DESCRIPTION:Sieciocentryczne systemy dowodzenia i kierowania walką\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: ppłk mgr Misiejuk Tomasz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T123000Z
+DTEND:20260220T140500Z
+SUMMARY:SSW 
+LOCATION:
+DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 7-8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T123000Z

@@ -4,6 +4,13 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WMT21AS1S0
 BEGIN:VEVENT
+DTSTART:20260209T070000Z
+DTEND:20260209T083500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260223T070000Z
 DTEND:20260223T083500Z
 SUMMARY:Pr.Pl 
@@ -51,6 +58,13 @@ DTEND:20260413T073500Z
 SUMMARY:Topl (S)
 LOCATION:103 63A
 DESCRIPTION:Taktyka WOPL\nRodzaj zajęć: Seminarium\nNumer zajęć: 1-2\nProwadzący: por.mgr inż. Karpiński Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T085000Z
+DTEND:20260209T102500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260223T085000Z
@@ -375,6 +389,13 @@ LOCATION:104 63A
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 3-4\nProwadzący: prof. dr hab. inż. Kawalec Adam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260210T104000Z
+DTEND:20260210T121500Z
+SUMMARY:Mot (E)
+LOCATION:5  63A
+DESCRIPTION:Mot\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: kpt. mgr inż. Łożyński Adam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260224T104000Z
 DTEND:20260224T121500Z
 SUMMARY:Pr.Pl 
@@ -585,6 +606,13 @@ LOCATION:
 DESCRIPTION:Egz\nRodzaj zajęć: -\nNumer zajęć: 13-14
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260211T070000Z
+DTEND:20260211T083500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260225T070000Z
 DTEND:20260225T083500Z
 SUMMARY:Pr.Pl 
@@ -645,14 +673,14 @@ DTSTART:20260422T060000Z
 DTEND:20260422T073500Z
 SUMMARY:ZŻWAT 
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: kpt. mgr inż. Łożyński Adam
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: dr inż. Motyl Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T060000Z
 DTEND:20260520T073500Z
 SUMMARY:ZŻWAT 
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: kpt. mgr inż. Łożyński Adam
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: dr inż. Motyl Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T060000Z
@@ -666,7 +694,14 @@ DTSTART:20260617T060000Z
 DTEND:20260617T073500Z
 SUMMARY:ZŻWAT 
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: kpt. mgr inż. Łożyński Adam
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: dr inż. Motyl Krzysztof
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T085000Z
+DTEND:20260211T102500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260225T085000Z
@@ -786,6 +821,13 @@ DTEND:20260603T111500Z
 SUMMARY:DGB (ć)
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T123000Z
+DTEND:20260211T140500Z
+SUMMARY:Wpnsz (E)
+LOCATION:5  63A
+DESCRIPTION:Wyposażenie naziemne PZR średniego zasięgu\nRodzaj zajęć: Egzamin\nNumer zajęć: 7-8\nProwadzący: dr inż. Motyl Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260225T123000Z
@@ -949,6 +991,13 @@ LOCATION:
 DESCRIPTION:Praktyka d-cy plutonu\nRodzaj zajęć: -\nNumer zajęć: 13-14\nProwadzący: kpt. mgr inż. Łożyński Adam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260212T070000Z
+DTEND:20260212T083500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260226T070000Z
 DTEND:20260226T083500Z
 SUMMARY:Pr.Pl 
@@ -989,6 +1038,13 @@ DTEND:20260416T073500Z
 SUMMARY:Sd. (S)
 LOCATION:104 63A
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 1-2\nProwadzący: prof. dr hab. inż. Kawalec Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260212T085000Z
+DTEND:20260212T102500Z
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260226T085000Z
@@ -1171,6 +1227,13 @@ DTEND:20260326T163500Z
 SUMMARY:Egz 
 LOCATION:
 DESCRIPTION:Egz\nRodzaj zajęć: -\nNumer zajęć: 9-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260212T165000Z
+DTEND:20260212T182500Z
+SUMMARY:Lzn (w)
+LOCATION:314 S
+DESCRIPTION:Lotnicze zespoły napędowe\nRodzaj zajęć: Wykład\nNumer zajęć: 11-12\nProwadzący: dr hab. inż. Antkiewicz Ryszard
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260226T165000Z
@@ -1507,6 +1570,13 @@ DTEND:20260321T083500Z
 SUMMARY:Pr.Pl 
 LOCATION:
 DESCRIPTION:Praktyka d-cy plutonu\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: kpt. mgr inż. Łożyński Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T085000Z
+DTEND:20260131T102500Z
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260228T085000Z

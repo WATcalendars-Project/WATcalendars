@@ -382,6 +382,13 @@ LOCATION:ST.nr 1(PW
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260209T150000Z
+DTEND:20260209T163500Z
+SUMMARY:HP (E)
+LOCATION:19 36
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Egzamin\nNumer zajęć: 9-10\nProwadzący: dr Ważniewski Włodzimierz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260302T150000Z
 DTEND:20260302T163500Z
 SUMMARY:Nom (w)
@@ -499,6 +506,13 @@ DTEND:20260616T073500Z
 SUMMARY:Nom (ć)
 LOCATION:7 25
 DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr inż. Modrzejewski P
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T085000Z
+DTEND:20260210T102500Z
+SUMMARY:Mat2 (E)
+LOCATION:19 36
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr Jurkiewicz Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T085000Z
@@ -814,6 +828,13 @@ DTEND:20260602T172500Z
 SUMMARY:Metr (w)
 LOCATION:19 36
 DESCRIPTION:Metrologia\nRodzaj zajęć: Wykład\nNumer zajęć: 11-12\nProwadzący: prof. dr hab. inż. Kawalec Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T070000Z
+DTEND:20260204T083500Z
+SUMMARY:M1 (E)
+LOCATION:19 63
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 1-2\nProwadzący: dr Jurkiewicz Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T070000Z
@@ -1222,6 +1243,13 @@ LOCATION:
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8\nProwadzący: ppłk mgr inż. Goławski Rafał
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260218T150000Z
+DTEND:20260218T163500Z
+SUMMARY:HP (Ep)
+LOCATION:19 36
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 9-10\nProwadzący: dr Ważniewski Włodzimierz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T150000Z
 DTEND:20260304T163500Z
 SUMMARY:ZINŻ (w)
@@ -1481,6 +1509,13 @@ LOCATION:
 DESCRIPTION:SSW\nRodzaj zajęć: -\nNumer zajęć: 13-14
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260219T070000Z
+DTEND:20260219T083500Z
+SUMMARY:M1 (Ep)
+LOCATION:078 S
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1-2\nProwadzący: dr Jurkiewicz Mariusz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260312T070000Z
 DTEND:20260312T083500Z
 SUMMARY:GMiB (w)
@@ -1679,9 +1714,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260702T075000Z
 DTEND:20260702T092500Z
-SUMMARY:Mat3 (w)
+SUMMARY:Mat3 (E)
 LOCATION:19 36
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr Rzeszut Maciej
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr Rzeszut Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260709T075000Z
+DTEND:20260709T092500Z
+SUMMARY:Mat3 (Ep)
+LOCATION:19 36
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: dr Rzeszut Maciej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T104000Z
+DTEND:20260219T121500Z
+SUMMARY:Mat2 (Ep)
+LOCATION:078 S
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: dr Jurkiewicz Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T104000Z
@@ -1913,6 +1962,13 @@ DTEND:20260611T172500Z
 SUMMARY:DN (w)
 LOCATION:S. Kinowa
 DESCRIPTION:DN\nRodzaj zajęć: Wykład\nNumer zajęć: 11-12\nProwadzący: dr hab. inż. Kachel Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T070000Z
+DTEND:20260220T083500Z
+SUMMARY:Mat2 (Ep)
+LOCATION:085 S
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1-2\nProwadzący: dr Jurkiewicz Mariusz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T070000Z

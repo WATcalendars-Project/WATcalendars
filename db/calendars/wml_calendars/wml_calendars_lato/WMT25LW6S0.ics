@@ -4,6 +4,13 @@ PRODID:-//WATcalendars//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WMT25LW6S0
 BEGIN:VEVENT
+DTSTART:20260202T070000Z
+DTEND:20260202T083500Z
+SUMMARY:M1 
+LOCATION:
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: -\nNumer zajęć: 1-2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260302T070000Z
 DTEND:20260302T083500Z
 SUMMARY:Metr (w)
@@ -79,6 +86,20 @@ DTEND:20260615T073500Z
 SUMMARY:Metr (L)
 LOCATION:141 36
 DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Janiszewski Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T085000Z
+DTEND:20260202T102500Z
+SUMMARY:M1 
+LOCATION:
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: -\nNumer zajęć: 3-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T085000Z
+DTEND:20260216T102500Z
+SUMMARY:Mat I (Ep)
+LOCATION:46 63
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T085000Z
@@ -170,6 +191,20 @@ DTEND:20260615T092500Z
 SUMMARY:Metr (L)
 LOCATION:141 36
 DESCRIPTION:Metrologia\nRodzaj zajęć: Laboratorium\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Janiszewski Jacek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T104000Z
+DTEND:20260202T121500Z
+SUMMARY:M1 (E)
+LOCATION:19 36
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr Różański Jerzy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T104000Z
+DTEND:20260216T121500Z
+SUMMARY:Mat I (Ep)
+LOCATION:46 63
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T104000Z
@@ -275,6 +310,13 @@ DTEND:20260615T111500Z
 SUMMARY:Ja (ć)
 LOCATION:238 K;237
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T123000Z
+DTEND:20260202T140500Z
+SUMMARY:M1 (E)
+LOCATION:19 36
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin\nNumer zajęć: 7-8\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T123000Z
@@ -613,6 +655,20 @@ LOCATION:4 H7
 DESCRIPTION:Inżynieryjno lotnicze zabezpieczenie działań lot.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr. inż. Siuta Bogumił
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260203T085000Z
+DTEND:20260203T102500Z
+SUMMARY:HP (E)
+LOCATION:19 36
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr Jasiński Grzegorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T085000Z
+DTEND:20260217T102500Z
+SUMMARY:Mat2 (Ep)
+LOCATION:S3 72
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: mgr Brzozowska Iwona
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T085000Z
 DTEND:20260303T102500Z
 SUMMARY:Mat3 (w)
@@ -744,6 +800,13 @@ DTEND:20260721T092500Z
 SUMMARY:Ilzdl (ć)
 LOCATION:4 H7
 DESCRIPTION:Inżynieryjno lotnicze zabezpieczenie działań lot.\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4\nProwadzący: mgr. inż. Siuta Bogumił
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T104000Z
+DTEND:20260217T121500Z
+SUMMARY:HP (Ep)
+LOCATION:19 36
+DESCRIPTION:Historia Polski\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: dr Jasiński Grzegorz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T104000Z
@@ -1194,11 +1257,11 @@ LOCATION:AW 1
 DESCRIPTION:Rozpoznanie i Armie Innych Państw\nRodzaj zajęć: Seminarium\nNumer zajęć: 3-4\nProwadzący: ppłk dr Waszkiewicz Grzegorz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260708T075000Z
-DTEND:20260708T092500Z
-SUMMARY:Mat3 (Ep)
+DTSTART:20260218T104000Z
+DTEND:20260218T121500Z
+SUMMARY:M1 (Ep)
 LOCATION:19 36
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: mgr Brzozowska Iwona
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: dr Różański Jerzy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T104000Z
@@ -1297,13 +1360,6 @@ DTEND:20260624T111500Z
 SUMMARY:Nom (E)
 LOCATION:113 25
 DESCRIPTION:Nauka o materiałach\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr inż. Dębski Andrzej
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260708T094000Z
-DTEND:20260708T111500Z
-SUMMARY:Mat3 (Ep)
-LOCATION:19 36
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T123000Z
@@ -1712,6 +1768,13 @@ LOCATION:128 36
 DESCRIPTION:* Soszyński P\nRodzaj zajęć: Laboratorium\nNumer zajęć: 1-2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260709T060000Z
+DTEND:20260709T073500Z
+SUMMARY:Mat3 (Ep)
+LOCATION:218 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 1-2\nProwadzący: mgr Brzozowska Iwona
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260716T060000Z
 DTEND:20260716T073500Z
 SUMMARY:Ilzdl (ć)
@@ -1801,6 +1864,13 @@ DTEND:20260611T092500Z
 SUMMARY:Gin (w)
 LOCATION:19 36
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: dr hab. inż. Kachel Stanisław
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260709T075000Z
+DTEND:20260709T092500Z
+SUMMARY:Mat3 (Ep)
+LOCATION:218 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 3-4\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260716T075000Z
@@ -1899,6 +1969,13 @@ DTEND:20260611T111500Z
 SUMMARY:Gin (L)
 LOCATION:18 67
 DESCRIPTION:Grafika inżynierska\nRodzaj zajęć: Laboratorium\nNumer zajęć: 5-6\nProwadzący: mgr inż. Szcześniak Michał
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260709T094000Z
+DTEND:20260709T111500Z
+SUMMARY:Mat3 (Ep)
+LOCATION:218 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 5-6\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T123000Z
@@ -2006,6 +2083,13 @@ LOCATION:238 K;237
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260709T113000Z
+DTEND:20260709T130500Z
+SUMMARY:Mat3 (Ep)
+LOCATION:218 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 7-8\nProwadzący: mgr Brzozowska Iwona
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T150000Z
 DTEND:20260305T163500Z
 SUMMARY:F1 (w)
@@ -2097,6 +2181,13 @@ LOCATION:S2 72
 DESCRIPTION:Wojskowa technika lotnicza\nRodzaj zajęć: Wykład\nNumer zajęć: 11-12\nProwadzący: mgr. inż. Siuta Bogumił
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260206T070000Z
+DTEND:20260206T083500Z
+SUMMARY:Mat2 
+LOCATION:218 65
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: mgr Brzozowska Iwona
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260306T070000Z
 DTEND:20260306T083500Z
 SUMMARY:WF (ć)
@@ -2172,6 +2263,13 @@ DTEND:20260724T073500Z
 SUMMARY:Ilzdl (w)
 LOCATION:S2 72
 DESCRIPTION:Inżynieryjno lotnicze zabezpieczenie działań lot.\nRodzaj zajęć: Wykład\nNumer zajęć: 1-2\nProwadzący: mgr. inż. Siuta Bogumił
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T085000Z
+DTEND:20260206T102500Z
+SUMMARY:Mat2 
+LOCATION:218 65
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: -\nNumer zajęć: 3-4\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T085000Z
@@ -2258,6 +2356,13 @@ LOCATION:S2 72
 DESCRIPTION:Inżynieryjno lotnicze zabezpieczenie działań lot.\nRodzaj zajęć: Wykład\nNumer zajęć: 3-4\nProwadzący: mgr. inż. Siuta Bogumił
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260206T104000Z
+DTEND:20260206T121500Z
+SUMMARY:Mat2 (E)
+LOCATION:19 36
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: mgr Brzozowska Iwona
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260313T104000Z
 DTEND:20260313T121500Z
 SUMMARY:Mat3 (ć)
@@ -2326,6 +2431,13 @@ DTEND:20260717T111500Z
 SUMMARY:Ilzdl (w)
 LOCATION:S2 72
 DESCRIPTION:Inżynieryjno lotnicze zabezpieczenie działań lot.\nRodzaj zajęć: Wykład\nNumer zajęć: 5-6\nProwadzący: mgr. inż. Siuta Bogumił
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T123000Z
+DTEND:20260206T140500Z
+SUMMARY:Mat2 (E)
+LOCATION:19 36
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin\nNumer zajęć: 7-8\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T123000Z
@@ -2403,6 +2515,13 @@ DTEND:20260717T130500Z
 SUMMARY:Ilzdl (w)
 LOCATION:S2 72
 DESCRIPTION:Inżynieryjno lotnicze zabezpieczenie działań lot.\nRodzaj zajęć: Wykład\nNumer zajęć: 7-8\nProwadzący: mgr. inż. Siuta Bogumił
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T150000Z
+DTEND:20260220T163500Z
+SUMMARY:Mat2 (Ep)
+LOCATION:19 36
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Egzamin poprawkowy\nNumer zajęć: 9-10\nProwadzący: mgr Brzozowska Iwona
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T150000Z

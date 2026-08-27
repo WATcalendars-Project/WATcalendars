@@ -340,6 +340,13 @@ LOCATION:323 S
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć: Seminarium\nNumer zajęć: 1-2\nProwadzący: dr hab. inż. Pietrasieński Jan
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260210T085000Z
+DTEND:20260210T102500Z
+SUMMARY:Krp (E)
+LOCATION:5  63A
+DESCRIPTION:Konstrukcja rakiet przeciwlotniczych\nRodzaj zajęć: Egzamin\nNumer zajęć: 3-4\nProwadzący: dr inż. Motyl Krzysztof
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260224T085000Z
 DTEND:20260224T102500Z
 SUMMARY:Pr.Pl 
@@ -652,14 +659,14 @@ DTSTART:20260422T060000Z
 DTEND:20260422T073500Z
 SUMMARY:ZŻWAT 
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: kpt. mgr inż. Łożyński Adam
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: dr inż. Motyl Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T060000Z
 DTEND:20260520T073500Z
 SUMMARY:ZŻWAT 
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: kpt. mgr inż. Łożyński Adam
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: dr inż. Motyl Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T060000Z
@@ -673,7 +680,7 @@ DTSTART:20260617T060000Z
 DTEND:20260617T073500Z
 SUMMARY:ZŻWAT 
 LOCATION:
-DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: kpt. mgr inż. Łożyński Adam
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: dr inż. Motyl Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260225T085000Z
@@ -730,6 +737,13 @@ DTEND:20260603T092500Z
 SUMMARY:DGB (ć)
 LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T104000Z
+DTEND:20260211T121500Z
+SUMMARY:Wnp (E)
+LOCATION:5  63A
+DESCRIPTION:Wyposażenie naziemne PZR\nRodzaj zajęć: Egzamin\nNumer zajęć: 5-6\nProwadzący: dr inż. Motyl Krzysztof
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260225T104000Z
@@ -851,6 +865,13 @@ LOCATION:
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 7-8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260204T150000Z
+DTEND:20260204T163500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 9-10\nProwadzący: mgr Wołos Adam
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260225T150000Z
 DTEND:20260225T163500Z
 SUMMARY:Pr.Pl 
@@ -954,6 +975,13 @@ DTEND:20260318T201500Z
 SUMMARY:Pr.Pl 
 LOCATION:
 DESCRIPTION:Praktyka d-cy plutonu\nRodzaj zajęć: -\nNumer zajęć: 13-14\nProwadzący: kpt. mgr inż. Łożyński Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T070000Z
+DTEND:20260219T083500Z
+SUMMARY:WF (ć)
+LOCATION:
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 1-2\nProwadzący: mgr Wołos Adam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260226T070000Z
@@ -1514,6 +1542,13 @@ DTEND:20260321T083500Z
 SUMMARY:Pr.Pl 
 LOCATION:
 DESCRIPTION:Praktyka d-cy plutonu\nRodzaj zajęć: -\nNumer zajęć: 1-2\nProwadzący: kpt. mgr inż. Łożyński Adam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T085000Z
+DTEND:20260131T102500Z
+SUMMARY:XWF (ć)
+LOCATION:
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNumer zajęć: 3-4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260228T085000Z
